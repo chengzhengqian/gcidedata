@@ -1,0 +1,44 @@
+{
+  "key": "dustbin",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "dustbin",
+      "headword_raw": "dustbin",
+      "pr": "(dst\"bn)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "ashcan",
+        "trash can",
+        "garbage can",
+        "wastebin",
+        "ashbin",
+        "trash barrel",
+        "trash bin"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a bin that holds rubbish until it is collected."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

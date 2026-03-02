@@ -1,0 +1,69 @@
+{
+  "key": "duteous",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Duteous",
+      "headword_raw": "Du\"te*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[From Duty.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Duteously",
+          "form_raw": "Du\"te*ous*ly",
+          "key": "duteously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Duteousness",
+          "form_raw": "Du\"te*ous*ness",
+          "key": "duteousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Fulfilling duty; dutiful; having the sentiments due to a superior, or to one to whom respect or service is owed; obedient; as, a duteous son or daughter."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Subservient; obsequious."
+          ],
+          "quotes": [
+            "Duteous to the vices of thy mistress."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

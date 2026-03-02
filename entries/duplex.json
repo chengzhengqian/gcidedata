@@ -1,0 +1,126 @@
+{
+  "key": "duplex",
+  "source_file": "CIDE.D",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Duplex",
+      "headword_raw": "Du\"plex",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L., fr. duo two + plicare to fold. See Two, and Complex.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Double; twofold."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Computers)",
+            "(Eccl. Law)",
+            "(Computers)",
+            "(Computers)"
+          ],
+          "defs": [
+            "organized so that data may be transmitted in two opposite directions over the same channel; -- of communications channels, such as data transfer lines between computers."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Duplex",
+      "headword_raw": "Du\"plex",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "a."
+      ],
+      "ety": "[See Duplex, a.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Teleg.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To arrange, as a telegraph line, so that two messages may be transmitted simultaneously; to equip with a duplex telegraphic outfit."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "duplex",
+      "headword_raw": "du\"plex",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[See Duplex, a.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "something which is duplex; -- used mostly in reference to a living unit, such as an apartment, in a building having two similar living units."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Biology, Genetics)"
+          ],
+          "defs": [
+            "a double-stranded region in a nucleic acid molecule. See deoxyribonucleic acid."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

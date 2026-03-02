@@ -1,0 +1,20 @@
+SIMPLE: dynamic_ram
+RECORDS: 1
+
+==== ENTRY 1 ====
+HEADWORD: dynamic RAM
+<hw>dynamic RAM</hw> <pos>n.</pos> <ety>[<ets>R</ets>andom
+<ets>A</ets>ccess <ets>M</ets>emory.]</ety> <fld>(Computers)</fld>
+<def>a type of <er>random access memory</er> using circuits that require
+periodic refresh cycles in order to retain the stored information.
+Contrasted to <contr>static ram</contr>, which maintains the memory
+state as long as the power is still applied.</def> <mark>[acron.]</mark>
+<note>dynamic RAM is cheaper to manufacture, but because of the need for
+a refresh cycle, is generally slower to access than static RAM. It is
+usually implemented in integrated rircuit chips containing thousands to
+millions of bits of information storage capacity, and is commonly used
+as the main type of memory circuit in personal computers.</note>⟦br⟧
+<syn><b>Syn. --</b> DRAM, D-RAM.</syn>⟦br⟧
+[<source>PJC</source>]</p>
+
+<p><ent>Dynamics</ent>⟦br⟧

@@ -1,0 +1,48 @@
+{
+  "key": "dynameter",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Dynameter",
+      "headword_raw": "Dy*nam\"e*ter",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. <?/ power + -meter: cf. F. dynamtre. Cf. Dynamometer.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A dynamometer."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Opt.)"
+          ],
+          "defs": [
+            "An instrument for determining the magnifying power of telescopes, consisting usually of a doubleimage micrometer applied to the eye end of a telescope for measuring accurately the diameter of the image of the object glass there formed; which measurement, compared with the actual diameter of the glass, gives the magnifying power."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

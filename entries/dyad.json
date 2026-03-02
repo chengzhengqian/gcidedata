@@ -1,0 +1,79 @@
+{
+  "key": "dyad",
+  "source_file": "CIDE.D",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Dyad",
+      "headword_raw": "Dy\"ad",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. dyas, dyadis, the number two. Gr. <?/: cf. F. dyade. See two, and cf. Duad.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Two units treated as one; a couple; a pair."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "An element, atom, or radical having a valence or combining power of two."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Dyad",
+      "headword_raw": "Dy\"ad",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Having a valence or combining power of two; capable of being substituted for, combined with, or replaced by, two atoms of hydrogen; as, oxygen and calcium are dyad elements. See Valence."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

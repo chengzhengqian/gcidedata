@@ -1,0 +1,43 @@
+{
+  "key": "dynamic_ram",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "dynamic RAM",
+      "headword_raw": "dynamic RAM",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[Random Access Memory.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "DRAM",
+        "D-RAM"
+      ],
+      "entry_fields": [
+        "(Computers)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a type of random access memory using circuits that require periodic refresh cycles in order to retain the stored information. Contrasted to static ram, which maintains the memory state as long as the power is still applied."
+          ],
+          "quotes": [],
+          "notes": [
+            "dynamic RAM is cheaper to manufacture, but because of the need for a refresh cycle, is generally slower to access than static RAM. It is usually implemented in integrated rircuit chips containing thousands to millions of bits of information storage capacity, and is commonly used as the main type of memory circuit in personal computers."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

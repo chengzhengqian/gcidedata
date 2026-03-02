@@ -1,0 +1,134 @@
+{
+  "key": "duplicate",
+  "source_file": "CIDE.D",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "duplicate",
+      "headword_raw": "du\"pli*cate",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. duplicatus, p. p. of duplicare to double, fr. duplex double, twofold. See Duplex.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Math.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Double; twofold."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Duplicate",
+      "headword_raw": "Du\"pli*cate",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "That which exactly resembles or corresponds to something else; another, correspondent to the first; hence, a copy; a transcript; a counterpart."
+          ],
+          "quotes": [
+            "I send a duplicate both of it and my last dispatch."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "An original instrument repeated; a document which is the same as another in all essential particulars, and differing from a mere copy in having all the validity of an original."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Duplicate",
+      "headword_raw": "Du\"pli*cate",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Duplicated (?); p. pr. & vb. n. Duplicating.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To double; to fold; to render double."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To make a duplicate of (something); to make a copy or transcript of."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Biol.)"
+          ],
+          "defs": [
+            "To divide into two by natural growth or spontaneous action; as, infusoria duplicate themselves."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

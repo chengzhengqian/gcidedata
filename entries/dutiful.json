@@ -1,0 +1,76 @@
+{
+  "key": "dutiful",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Dutiful",
+      "headword_raw": "Du\"ti*ful",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Dutifully",
+          "form_raw": "Du\"ti*ful*ly",
+          "key": "dutifully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Dutifulness",
+          "form_raw": "Du\"ti*ful*ness",
+          "key": "dutifulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Performing, or ready to perform, the duties required by one who has the right to claim submission, obedience, or deference; submissive to natural or legal superiors; obedient, as to parents or superiors; as, a dutiful son or daughter; a dutiful ward or servant; a dutiful subject."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Controlled by, proceeding from, a sense of duty; respectful; deferential; as, dutiful affection."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Duteous",
+            "obedient",
+            "reverent",
+            "reverential",
+            "submissive",
+            "docile",
+            "respectful",
+            "compliant"
+          ]
+        }
+      ]
+    }
+  ]
+}

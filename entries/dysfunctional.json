@@ -1,0 +1,50 @@
+{
+  "key": "dysfunctional",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "dysfunctional",
+      "headword_raw": "dysfunctional",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "impaired in function; especially of a bodily system or organ."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Psychol.)"
+          ],
+          "defs": [
+            "failing to serve an adjustive purpose; -- of a trait or condition; as, dysfunctional behavior."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "nonadaptive"
+          ]
+        }
+      ]
+    }
+  ]
+}

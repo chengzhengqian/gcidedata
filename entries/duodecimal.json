@@ -1,0 +1,88 @@
+{
+  "key": "duodecimal",
+  "source_file": "CIDE.D",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Duodecimal",
+      "headword_raw": "Du`o*dec\"i*mal",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[L. duodecim twelve. See Dozen.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Duodecimally",
+          "form_raw": "Du`o*dec\"i*mal*ly",
+          "key": "duodecimally",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Proceeding in computation by twelves; expressed in the scale of twelves."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Duodecimal",
+      "headword_raw": "Du`o*dec\"i*mal",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A twelfth part; as, the duodecimals of an inch."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Arch.)"
+          ],
+          "defs": [
+            "A system of numbers, whose denominations rise in a scale of twelves, as of feet and inches. The system is used chiefly by artificers in computing the superficial and solid contents of their work."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

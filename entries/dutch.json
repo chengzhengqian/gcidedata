@@ -1,0 +1,83 @@
+{
+  "key": "dutch",
+  "source_file": "CIDE.D",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Dutch",
+      "headword_raw": "Dutch",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[D. duitsch German; or G. deutsch, orig., popular, national, OD. dietsc, MHG. diutsch, tiutsch, OHG. diutisk, fr. diot, diota, a people, a nation; akin to AS. ped, OS. thiod, thioda, Goth. piuda; cf. Lith. tauta land, OIr. tuath people, Oscan<-- ??sic --> touto. The English have applied the name especially to the Germanic people living nearest them, the Hollanders. Cf. Derrick, Teutonic.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Bot.)",
+        "(Chem.)",
+        "(Bot.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Pertaining to Holland, or to its inhabitants."
+          ],
+          "quotes": [
+            "Germany is slandered to have sent none to this war [the Crusades] at this first voyage; and that other pilgrims, passing through that country, were mocked by the Dutch, and called fools for their pains."
+          ],
+          "notes": [
+            "☞ Dutch was formerly used for German."
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Dutch",
+      "headword_raw": "Dutch",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The people of Holland; Dutchmen."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The language spoken in Holland."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

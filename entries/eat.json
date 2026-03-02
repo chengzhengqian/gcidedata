@@ -1,0 +1,116 @@
+{
+  "key": "eat",
+  "source_file": "CIDE.E",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Eat",
+      "headword_raw": "Eat",
+      "pr": "(ēt)",
+      "pos": [
+        "v. t.",
+        "imp.",
+        "p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OE. eten, AS. etan; akin to OS. etan, OFries. eta, D. eten, OHG. ezzan, G. essen, Icel. eta, Sw. äta, Dan. æde, Goth. itan, Ir. & Gael. ith, W. ysu, L. edere, Gr. 'e`dein, Skr. ad. √6. Cf. Etch, Fret to rub, Edible.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. Ate (āt; 277), Obsolescent & Colloq. Eat (t); p. p. Eaten (ēt\"'n), Obs. or Colloq. Eat (t); p. pr. & vb. n. Eating.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To chew and swallow as food; to devour; -- said especially of food not liquid; as, to eat bread."
+          ],
+          "quotes": [
+            "They . . . ate the sacrifices of the dead.",
+            "The lean . . . did eat up the first seven fat kine.",
+            "The lion had not eaten the carcass.",
+            "With stories told of many a feat, How fairy Mab the junkets eat.",
+            "The island princes overbold Have eat our substance.",
+            "His wretched estate is eaten up with mortgages."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Naut.)"
+          ],
+          "defs": [
+            "To corrode, as metal, by rust; to consume the flesh, as a cancer; to waste or wear away; to destroy gradually; to cause to disappear."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "consume",
+            "devour",
+            "gnaw",
+            "corrode"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Eat",
+      "headword_raw": "Eat",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To take food; to feed; especially, to take solid, in distinction from liquid, food; to board."
+          ],
+          "quotes": [
+            "He did eat continually at the king's table."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To taste or relish; as, it eats like tender beef."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Naut.)"
+          ],
+          "defs": [
+            "To make one's way slowly."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

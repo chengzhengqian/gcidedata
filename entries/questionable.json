@@ -1,0 +1,57 @@
+{
+  "key": "questionable",
+  "source_file": "CIDE.Q",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Questionable",
+      "headword_raw": "Ques\"tion*a*ble",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Admitting of being questioned; inviting, or seeming to invite, inquiry."
+          ],
+          "quotes": [
+            "Thou com'st in such a questionable shape That I will speak to thee."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Liable to question; subject to be doubted or called in question; problematical; doubtful; suspicious."
+          ],
+          "quotes": [
+            "It is questionable whether Galen ever saw the dissection of a human body.T."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Disputable",
+            "debatable",
+            "uncertain",
+            "doubtful",
+            "problematical",
+            "suspicious"
+          ]
+        }
+      ]
+    }
+  ]
+}

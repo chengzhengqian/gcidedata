@@ -1,0 +1,60 @@
+{
+  "key": "quenchless",
+  "source_file": "CIDE.Q",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Quenchless",
+      "headword_raw": "Quench\"less",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Quenchlessly",
+          "form_raw": "Quench\"less*ly",
+          "key": "quenchlessly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Quenchlessness",
+          "form_raw": "Quench\"less*ness",
+          "key": "quenchlessness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Inextinguishable",
+        "unquenchable"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Incapable of being quenched; inextinguishable; as, quenchless fire or fury."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

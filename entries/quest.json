@@ -1,0 +1,137 @@
+{
+  "key": "quest",
+  "source_file": "CIDE.Q",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Quest",
+      "headword_raw": "Quest",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OF. queste, F. qute, fr. L. quaerere, quaesitum, to seek for, to ask. Cf. Query, Question.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of seeking, or looking after anything; attempt to find or obtain; search; pursuit; as, to rove in quest of game, of a lost child, of property, etc."
+          ],
+          "quotes": [
+            "Upon an hard adventure yet in quest.",
+            "Cease your quest of love.",
+            "There ended was his quest, there ceased his care."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Request; desire; solicitation."
+          ],
+          "quotes": [
+            "Gad not abroad at every quest and call Of an untrained hope or passion."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Those who make search or inquiry, taken collectively."
+          ],
+          "quotes": [
+            "The senate hath sent about three several quests to search you out."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Inquest; jury of inquest."
+          ],
+          "quotes": [
+            "What lawful quest have given their verdict ?"
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Quest",
+      "headword_raw": "Quest",
+      "pr": null,
+      "pos": [
+        "v. t.",
+        "n."
+      ],
+      "ety": "[Cf. OF. quester, F. quter. See Quest, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To search for; to examine."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Quest",
+      "headword_raw": "Quest",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To go on a quest; to make a search; to go in pursuit; to beg."
+          ],
+          "quotes": [
+            "If his questing had been unsuccessful, he appeased the rage of hunger with some scraps of broken meat."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

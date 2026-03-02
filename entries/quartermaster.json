@@ -1,0 +1,51 @@
+{
+  "key": "quartermaster",
+  "source_file": "CIDE.Q",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Quartermaster",
+      "headword_raw": "Quar\"ter*mas`ter",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Quarter + master: cf. F. quartier-matre.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Mil.)"
+          ],
+          "defs": [
+            "An officer whose duty is to provide quarters, provisions, storage, clothing, fuel, stationery, and transportation for a regiment or other body of troops, and superintend the supplies."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Naut.)",
+            "(Mil.)"
+          ],
+          "defs": [
+            "A petty officer who attends to the helm, binnacle, signals, and the like, under the direction of the master."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "key": "rabbit",
+  "source_file": "CIDE.R",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Rabbit",
+      "headword_raw": "Rab\"bit",
+      "pr": "(rb\"bt)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. rabet, akin to OD. robbe, robbeken.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Zool.)",
+        "(Zool.)",
+        "(Zool.)",
+        "(Bot.)",
+        "(Zool.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Any of the smaller species of the genus Lepus, especially the common European species (Lepus cuniculus), which is often kept as a pet, and has been introduced into many countries. It is remarkably prolific, and has become a pest in some parts of Australia and New Zealand."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The common American rabbit (Lepus sylvatica) is similar but smaller. See Cottontail, and Jack rabbit, under 2d Jack. The larger species of Lepus are commonly called hares. See Hare."
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "rabbit",
+      "headword_raw": "rabbit",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To hunt rabbits."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

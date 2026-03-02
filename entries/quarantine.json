@@ -1,0 +1,91 @@
+{
+  "key": "quarantine",
+  "source_file": "CIDE.Q",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Quarantine",
+      "headword_raw": "Quar\"an*tine",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. quarantaine, OF. quaranteine, fr. F. quarante forty, L. quadraginta, akin to quattuor four, and E. four: cf. It. quarantina, quarentine. See Four, and cf. Quadragesima.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A space of forty days; -- used of Lent."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Specifically, the term, originally of forty days, during which a ship arriving in port, and suspected of being infected a malignant contagious disease, is obliged to forbear all intercourse with the shore; hence, such restraint or inhibition of intercourse; also, the place where infected or prohibited vessels are stationed."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Quarantine is now applied also to any forced stoppage of travel or communication on account of malignant contagious disease, on land as well as by sea."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Eng. Law)"
+          ],
+          "defs": [
+            "The period of forty days during which the widow had the privilege of remaining in the mansion house of which her husband died seized."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Quarantine",
+      "headword_raw": "Quar`an*tine\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Quarantined (?); p. pr. & vb. n. Quarantining.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To compel to remain at a distance, or in a given place, without intercourse, when suspected of having contagious disease; to put under, or in, quarantine."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

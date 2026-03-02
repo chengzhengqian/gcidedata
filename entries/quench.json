@@ -1,0 +1,89 @@
+{
+  "key": "quench",
+  "source_file": "CIDE.Q",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Quench",
+      "headword_raw": "Quench",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OE. quenchen, AS. cwencan in ācwencan, to extinguish utterly, causative of cwincan, ācwincan, to decrease, disappear; cf. AS. cwīnan, ācwīnan, to waste or dwindle away.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Quenched (?); p. pr. & vb. n. Quenching.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To extinguish; to overwhelm; to make an end of; -- said of flame and fire, of things burning, and figuratively of sensations and emotions; as, to quench flame; to quench a candle; to quench thirst, love, hate, etc."
+          ],
+          "quotes": [
+            "Ere our blood shall quench that fire.",
+            "The supposition of the lady's death Will quench the wonder of her infamy."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To cool suddenly, as heated steel, in tempering."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "extinguish",
+            "still",
+            "stifle",
+            "allay",
+            "cool",
+            "check"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Quench",
+      "headword_raw": "Quench",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To become extinguished; to go out; to become calm or cool."
+          ],
+          "quotes": [
+            "Dost thou think in time She will not quench!"
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

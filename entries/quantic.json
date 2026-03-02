@@ -1,0 +1,38 @@
+{
+  "key": "quantic",
+  "source_file": "CIDE.Q",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Quantic",
+      "headword_raw": "Quan\"tic",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. quantus how much. See Quantity.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Math.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A homogeneous algebraic function of two or more variables, in general containing only positive integral powers of the variables, and called quadric, cubic, quartic, etc., according as it is of the second, third, fourth, fifth, or a higher degree. These are further called binary, ternary, quaternary, etc., according as they contain two, three, four, or more variables; thus, the quantic <?/ is a binary cubic."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

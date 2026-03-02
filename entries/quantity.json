@@ -1,0 +1,74 @@
+{
+  "key": "quantity",
+  "source_file": "CIDE.Q",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Quantity",
+      "headword_raw": "Quan\"ti*ty",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. quantite, L. quantitas, fr. quantus bow great, how much, akin to quam bow, E. how, who. See Who.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Logic)",
+            "(Gram.)",
+            "(Mus.)"
+          ],
+          "defs": [
+            "The attribute of being so much, and not more or less; the property of being measurable, or capable of increase and decrease, multiplication and division; greatness; and more concretely, that which answers the question “How much?”; measure in regard to bulk or amount; determinate or comparative dimensions; measure; amount; bulk; extent; size.",
+            "The extent or extension of a general conception, that is, the number of species or individuals to which it may be applied; also, its content or comprehension, that is, the number of its constituent qualities, attributes, or relations.",
+            "The measure of a syllable; that which determines the time in which it is pronounced; as, the long or short quantity of a vowel or syllable.",
+            "The relative duration of a tone."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "That which can be increased, diminished, or measured; especially (Math.), anything to which mathematical processes are applicable."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Quantity is discrete when it is applied to separate objects, as in number; continuous, when the parts are connected, either in succession, as in time, motion, etc., or in extension, as by the dimensions of space, viz., length, breadth, and thickness."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Law)",
+            "(Mech.)",
+            "(Math.)",
+            "(Math.)"
+          ],
+          "defs": [
+            "A determinate or estimated amount; a sum or bulk; a certain portion or part; sometimes, a considerable amount; a large portion, bulk, or sum; as, a medicine taken in quantities, that is, in large quantities."
+          ],
+          "quotes": [
+            "The quantity of extensive and curious information which he had picked up during many months of desultory, but not unprofitable, study."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

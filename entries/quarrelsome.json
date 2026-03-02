@@ -1,0 +1,65 @@
+{
+  "key": "quarrelsome",
+  "source_file": "CIDE.Q",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Quarrelsome",
+      "headword_raw": "Quar\"rel*some",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Quarrelsomely",
+          "form_raw": "Quar\"rel*some*ly",
+          "key": "quarrelsomely",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Quarrelsomeness",
+          "form_raw": "Quar\"rel*some*ness",
+          "key": "quarrelsomeness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Pugnacious",
+        "irritable",
+        "irascible",
+        "brawling",
+        "choleric",
+        "fiery",
+        "petulant"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Apt or disposed to quarrel; given to brawls and contention; easily irritated or provoked to contest; irascible; choleric."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

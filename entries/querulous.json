@@ -1,0 +1,89 @@
+{
+  "key": "querulous",
+  "source_file": "CIDE.Q",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Querulous",
+      "headword_raw": "Quer\"u*lous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "v.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. querulus and querulosus, fr. queri to complain. Cf. Cry, v., Quarrel a brawl, Quarrelous.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Querulously",
+          "form_raw": "Quer\"u*lous*ly",
+          "key": "querulously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Querulousness",
+          "form_raw": "Quer\"u*lous*ness",
+          "key": "querulousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Given to quarreling; quarrelsome."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Apt to find fault; habitually complaining; disposed to murmur; as, a querulous man or people."
+          ],
+          "quotes": [
+            "Enmity can hardly be more annoying that querulous, jealous, exacting fondness."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Expressing complaint; fretful; whining; as, a querulous tone of voice."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Complaining",
+            "bewailing",
+            "lamenting",
+            "whining",
+            "mourning",
+            "murmuring",
+            "discontented",
+            "dissatisfied"
+          ]
+        }
+      ]
+    }
+  ]
+}

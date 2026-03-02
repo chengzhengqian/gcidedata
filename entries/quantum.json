@@ -1,0 +1,51 @@
+{
+  "key": "quantum",
+  "source_file": "CIDE.Q",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Quantum",
+      "headword_raw": "Quan\"tum",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L., neuter of quantus how great, how much. See Quantity,]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Quantity; amount."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)",
+            "(Law)",
+            "(Med.)",
+            "(Law)"
+          ],
+          "defs": [
+            "A definite portion of a manifoldness, limited by a mark or by a boundary."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "key": "quantify",
+  "source_file": "CIDE.Q",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Quantify",
+      "headword_raw": "Quan\"ti*fy",
+      "pr": "(?)",
+      "pos": [
+        "v. t."
+      ],
+      "ety": "[L. quantus now much + -fy.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To modify or qualify with respect to quantity; to determine, fix or express the quantity of; to rate."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Logic)"
+          ],
+          "defs": [
+            "To make explicit the quantity of; as, to quantify a variable."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

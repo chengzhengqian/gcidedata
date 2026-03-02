@@ -1,0 +1,38 @@
+{
+  "key": "qubit",
+  "source_file": "CIDE.Q",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "qubit",
+      "headword_raw": "qu\"bit",
+      "pr": "(kū\"bt)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Shortened from quantum bit.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Information theory)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A measure of information, being the information that can be stored in one object that can take a quantum state of 0 or 1. It differs from the classical bit of information theory in that quantum states may assume many intermediate states that are superpositions of the individual discrete states; the quantum states of multiple quantum systems may also be correlated by a phenomenon called entanglement, increasing the complexity of the information storage and retrieval process. See 4th bit, n."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

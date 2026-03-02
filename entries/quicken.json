@@ -1,0 +1,122 @@
+{
+  "key": "quicken",
+  "source_file": "CIDE.Q",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Quicken",
+      "headword_raw": "Quick\"en",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "a."
+      ],
+      "ety": "[AS. cwician. See Quick, a.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. quickened (?); p. pr. & vb. n. Quickening.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To make alive; to vivify; to revive or resuscitate, as from death or an inanimate state; hence, to excite; to, stimulate; to incite."
+          ],
+          "quotes": [
+            "The mistress which I serve quickens what's dead.",
+            "Like a fruitful garden without an hedge, that quickens the appetite to enjoy so tempting a prize."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To make lively, active, or sprightly; to impart additional energy to; to stimulate; to make quick or rapid; to hasten; to accelerate; as, to quicken one's steps or thoughts; to quicken one's departure or speed."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Shipbuilding)"
+          ],
+          "defs": [
+            "To shorten the radius of (a curve); to make (a curve) sharper; as, to quicken the sheer, that is, to make its curve more pronounced."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "revive",
+            "resuscitate",
+            "animate",
+            "reinvigorate",
+            "vivify",
+            "refresh",
+            "stimulate",
+            "sharpen",
+            "incite",
+            "hasten",
+            "accelerate",
+            "expedite",
+            "dispatch",
+            "speed"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Quicken",
+      "headword_raw": "Quick\"en",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To come to life; to become alive; to become vivified or enlivened; hence, to exhibit signs of life; to move, as the fetus in the womb."
+          ],
+          "quotes": [
+            "The heart is the first part that quickens, and the last that dies.",
+            "And keener lightnings quicken in her eye.",
+            "When the pale and bloodless east began To quicken to the sun."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To move with rapidity or activity; to become accelerated; as, his pulse quickened."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

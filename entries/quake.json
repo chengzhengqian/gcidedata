@@ -1,0 +1,123 @@
+{
+  "key": "quake",
+  "source_file": "CIDE.Q",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Quake",
+      "headword_raw": "Quake",
+      "pr": "(kwāk)",
+      "pos": [
+        "v. i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[AS. cwacian; cf. G. quackeln. Cf. Quagmire.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Quaked (kwākt); p. pr. & vb. n. Quaking.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To be agitated with quick, short motions continually repeated; to shake with fear, cold, etc.; to shudder; to tremble."
+          ],
+          "quotes": [
+            "She stood quaking like the partridge on which the hawk is ready to seize."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To shake, vibrate, or quiver, either from not being solid, as soft, wet land, or from violent convulsion of any kind; as, the earth quakes; the mountains quake."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Quake",
+      "headword_raw": "Quake",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": "[Cf. AS. cweccan to move, shake. See Quake, v. t.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To cause to quake."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Quake",
+      "headword_raw": "Quake",
+      "pr": "(kwāk)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A tremulous agitation; a quick vibratory movement; a shudder; a quivering."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "An earthquake."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "earthquake",
+            "tremor",
+            "temblor"
+          ]
+        }
+      ]
+    }
+  ]
+}

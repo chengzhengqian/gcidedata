@@ -1,0 +1,63 @@
+{
+  "key": "cushioned",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "cushioned",
+      "headword_raw": "cushioned",
+      "pr": "(ksh\"nd)",
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "furnished with a cushion or other device to reduce hardness."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "cushiony",
+            "padded"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "having the severity reduced; having the unpleasant effects mitigated."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "protected against shock by adding soft padding or other device to reduce deceleration in a collision."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "cushioned"
+          ]
+        }
+      ]
+    }
+  ]
+}

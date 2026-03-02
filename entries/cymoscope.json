@@ -1,0 +1,38 @@
+{
+  "key": "cymoscope",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Cymoscope",
+      "headword_raw": "Cy\"mo*scope",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. <?/ wave + -scope.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Elec.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Any device for detecting the presence of electric waves. The influence of electric waves on the resistance of a particular kind of electric circuit, on the magnetization of steel, on the polarization of an electrolytic cell, or on the electric condition of a vacuum has been applied in the various cymoscopes."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "key": "cylindroid",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Cylindroid",
+      "headword_raw": "Cyl\"in*droid",
+      "pr": "(s?l\"?n-droid)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. ky`lindros cylinder + -oid: cf. F. cylindrode.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A solid body resembling a right cylinder, but having the bases or ends elliptical."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Geom.)"
+          ],
+          "defs": [
+            "A certain surface of the third degree, described by a moving straight line; -- used to illustrate the motions of a rigid body and also the forces acting on the body."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

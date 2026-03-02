@@ -1,0 +1,51 @@
+{
+  "key": "custom-made",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "custom-made",
+      "headword_raw": "custom-made",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "made specially for a specific purpose; -- of articles of manufacture. Contrasted with mass-produced, standardized."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "made-to-order"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "made or tailored to fit a specific person; -- of clothing. Contrasted with off-the-rack, ready-to-wear."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "made-to-order"
+          ]
+        }
+      ]
+    }
+  ]
+}

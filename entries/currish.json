@@ -1,0 +1,60 @@
+{
+  "key": "currish",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Currish",
+      "headword_raw": "Cur\"rish",
+      "pr": "(k?r\"r?sh)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[From Cur.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Currishly",
+          "form_raw": "Cur\"rish*ly",
+          "key": "currishly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Currishness",
+          "form_raw": "Cur\"rish*ness",
+          "key": "currishness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Having the qualities, or exhibiting the characteristics, of a cur; snarling; quarrelsome; snappish; churlish; hence, also malicious; malignant; brutal."
+          ],
+          "quotes": [
+            "Thy currish spirit Governed a wolf.",
+            "Some currish plot, -- some trick."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

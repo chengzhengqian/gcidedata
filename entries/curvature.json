@@ -1,0 +1,53 @@
+{
+  "key": "curvature",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Curvature",
+      "headword_raw": "Cur\"va*ture",
+      "pr": "(k?r\"v?-t?r; 135)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. curvatura. See Curvate.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of curving, or the state of being bent or curved; a curving or bending, normal or abnormal, as of a line or surface from a rectilinear direction; a bend; a curve."
+          ],
+          "quotes": [
+            "The elegant curvature of their fronds."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)",
+            "(Geom.)",
+            "(Geom.)",
+            "(Med.)"
+          ],
+          "defs": [
+            "The amount of degree of bending of a mathematical curve, or the tendency at any point to depart from a tangent drawn to the curve at that point."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

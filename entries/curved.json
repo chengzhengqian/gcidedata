@@ -1,0 +1,54 @@
+{
+  "key": "curved",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "curved",
+      "headword_raw": "curved",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "not straight; having or marked by curves. Opposite of straight."
+          ],
+          "quotes": [],
+          "notes": [
+            "[Narrower terms: arced, arched, arching, arciform, arcuate, bowed; falcate, sickle-shaped; flexuous; incurvate, incurved: recurved, recurvate; semicircular: serpentine, snaky: sinuate, sinuous, wavy: sinusoidal]"
+          ],
+          "synonyms": [
+            "curving"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Botany)"
+          ],
+          "defs": [
+            "curved with the micropyle near the base almost touching its stalk; -- of a plant ovule. Opposite of orthotropous."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "campylotropous"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "key": "curium",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "curium",
+      "headword_raw": "curium",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[after Pierre and Marie Curie.]",
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "Cm",
+        "atomic number 96"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a radioactive transuranic element of atomic number 96, having an atomic weight of 247 for its most stable isotope (half-life 1.6 x 107 years). The chemical symbol is Cm."
+          ],
+          "quotes": [],
+          "notes": [
+            "It was first prepared in 1944 by helium-ion bombardment of plutonium in a cyclotron by Glenn Seaborg and colleagues in California. It has never been detected in nature, though minute quantities may exist in uranium deposits as a consequence of the neutron flux there."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

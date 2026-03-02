@@ -1,0 +1,77 @@
+{
+  "key": "cyclical",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Cyclical",
+      "headword_raw": "Cyc\"lic*al",
+      "pr": "(s?k\"l?-kal)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Cf. F. cycluque, Gr. kykliko`s, fr. ky`klos See Cycle.]",
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to a cycle or circle; moving in cycles; as, cyclical time."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Chemistry)"
+          ],
+          "defs": [
+            "Having atoms bonded to form a ring structure. Opposite of acyclic."
+          ],
+          "quotes": [],
+          "notes": [
+            "Used most commonly in respect to organic compounds.",
+            "[Narrower terms: bicyclic; heterocyclic; homocyclic, isocyclic]"
+          ],
+          "synonyms": [
+            "closed-chain",
+            "closed-ring"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Recurring in cycles{2}; having a pattern that repeats at approximately equal intervals; periodic. Opposite of noncyclic."
+          ],
+          "quotes": [],
+          "notes": [
+            "[Narrower terms: alternate(prenominal), alternating(prenominal); alternate(prenominal), every other(prenominal), every second(prenominal); alternating(prenominal), oscillating(prenominal); biyearly; circadian exhibiting 24-hour periodicity); circular; daily, diurnal; fortnightly, biweekly; hourly; midweek, midweekly; seasonal; semestral, semestrial; semiannual, biannual, biyearly; semiweekly, biweekly; weekly; annual, yearly; biennial; bimonthly, bimestrial; half-hourly; half-yearly; monthly; tertian, alternate(prenominal); triennial]"
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Marked by repeated cycles{2}."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

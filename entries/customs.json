@@ -1,0 +1,61 @@
+{
+  "key": "customs",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "customs",
+      "headword_raw": "customs",
+      "pr": null,
+      "pos": [
+        "n. pl."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "money collected under a tariff; a duty imposed on imported goods."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "customs duty",
+            "custom",
+            "impost"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "the government department administering the collection of import tariffs. Used with as singular verb."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "that area within an airport, sea port, or other border station where freight or the baggage of travellers is checked for dutiable materials or contraband; as, it took an hour to get through customs."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

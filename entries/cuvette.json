@@ -1,0 +1,64 @@
+{
+  "key": "cuvette",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Cuvette",
+      "headword_raw": "Cu*vette\"",
+      "pr": "(k?-w?t\")",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F., dim. of cuve a tub.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A pot, bucket, or basin, in which molten plate glass is carried from the melting pot to the casting table."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Fort.)"
+          ],
+          "defs": [
+            "A cunette."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Spectrometry)",
+            "(Analytical chemistry)",
+            "(Spectrometry)"
+          ],
+          "defs": [
+            "A small vessel with at least two flat and transparent sides, used to hold a liquid sample to be analysed in the light path of a spectrometer."
+          ],
+          "quotes": [],
+          "notes": [
+            "The shape and materials vary; for ultraviolet spectrometry, quartz is typically used. For visible-light spectrometry, plastic cuvettes may be employed. Occasionally, small vessels used for other laboratory purposes are called cuvettes."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

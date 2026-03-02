@@ -1,0 +1,86 @@
+{
+  "key": "cut-rate",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "cut-rate",
+      "headword_raw": "cut-rate",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "offering goods or services at less than standard price or rate; as, cut-rate store."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "cut-price(prenominal)"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "costing less than standard price."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "bargain-priced",
+            "cut-price",
+            "dirt-cheap"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "cut-rate",
+      "headword_raw": "cut-rate",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "bargain rate",
+        "cheapness",
+        "cut rate",
+        "cut price"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a price below the standard price."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

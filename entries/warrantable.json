@@ -1,0 +1,59 @@
+{
+  "key": "warrantable",
+  "source_file": "CIDE.W",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Warrantable",
+      "headword_raw": "War\"rant*a*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Warrantableness",
+          "form_raw": "War\"rant*a*ble*ness",
+          "key": "warrantableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Warrantbly",
+          "form_raw": "War\"rant*bly",
+          "key": "warrantbly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Authorized by commission, precept, or right; justifiable; defensible; as, the seizure of a thief is always warrantable by law and justice; falsehood is never warrantable."
+          ],
+          "quotes": [
+            "His meals are coarse and short, his employment warrantable, his sleep certain and refreshing."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

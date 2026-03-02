@@ -1,0 +1,36 @@
+{
+  "key": "water_barometer",
+  "source_file": "CIDE.W",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Water barometer",
+      "headword_raw": "Wa\"ter ba*rom\"e*ter",
+      "pr": "(?)",
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A barometer in which the changes of atmospheric pressure are indicated by the motion of a column of water instead of mercury. It requires a column of water about thirty-three feet in height."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

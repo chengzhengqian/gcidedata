@@ -1,0 +1,84 @@
+{
+  "key": "wasteful",
+  "source_file": "CIDE.W",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Wasteful",
+      "headword_raw": "Waste\"ful",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Wastefully",
+          "form_raw": "Waste\"ful*ly",
+          "key": "wastefully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Wastefulness",
+          "form_raw": "Waste\"ful*ness",
+          "key": "wastefulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Full of waste; destructive to property; ruinous; as, wasteful practices or negligence; wasteful expenses."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Expending, or tending to expend, property, or that which is valuable, in a needless or useless manner; lavish; prodigal; as, a wasteful person; a wasteful disposition."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Waste; desolate; unoccupied; untilled."
+          ],
+          "quotes": [
+            "In wilderness and wasteful desert strayed."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Lavish",
+            "profuse",
+            "prodigal",
+            "extravagant"
+          ]
+        }
+      ]
+    }
+  ]
+}

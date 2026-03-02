@@ -1,0 +1,46 @@
+{
+  "key": "water_tower",
+  "source_file": "CIDE.W",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Water tower",
+      "headword_raw": "Wa\"ter tow\"er",
+      "pr": "(?)",
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl.",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A large metal pipe made to be extended vertically by sections, and used for discharging water upon burning buildings."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A tower or standpipe used as a water storage reservoir, to deliver water at a required head of pressure, as to a fountain."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

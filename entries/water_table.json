@@ -1,0 +1,51 @@
+{
+  "key": "water_table",
+  "source_file": "CIDE.W",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Water table",
+      "headword_raw": "Wa\"ter ta\"ble",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Arch.)"
+          ],
+          "defs": [
+            "A molding, or other projection, in the wall of a building, to throw off the water, -- generally used in the United States for the first table above the surface of the ground (see Table, n., 9), that is, for the table at the top of the foundation and the beginning of the upper wall."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Hydraulic Engin.)"
+          ],
+          "defs": [
+            "The upper limit of the portion of the ground wholly saturated with water. The water table may be within a few inches of the surface or many feet below it."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

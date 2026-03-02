@@ -1,0 +1,67 @@
+{
+  "key": "watchful",
+  "source_file": "CIDE.W",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Watchful",
+      "headword_raw": "Watch\"ful",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Watchfully",
+          "form_raw": "Watch\"ful*ly",
+          "key": "watchfully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Watchfulness",
+          "form_raw": "Watch\"ful*ness",
+          "key": "watchfulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Vigilant",
+        "attentive",
+        "cautious",
+        "observant",
+        "circumspect",
+        "wakeful",
+        "heedful"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Full of watch; vigilant; attentive; careful to observe closely; observant; cautious; -- with of before the thing to be regulated or guarded; as, to be watchful of one's behavior; and with against before the thing to be avoided; as, to be watchful against the growth of vicious habits."
+          ],
+          "quotes": [
+            "'Twixt prayer and watchful love his heart dividing."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

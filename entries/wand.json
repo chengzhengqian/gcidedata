@@ -1,0 +1,54 @@
+{
+  "key": "wand",
+  "source_file": "CIDE.W",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Wand",
+      "headword_raw": "Wand",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Of Scand. origin; cf. Icel. vöndr, akin to Dan. vaand, Goth. wandus; perhaps originally, a pliant twig, and akin to E. wind to turn.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A small stick; a rod; a verge."
+          ],
+          "quotes": [
+            "With good smart blows of a wand on his back."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Scots Law)"
+          ],
+          "defs": [
+            "A staff of authority.",
+            "A rod used by conjurers, diviners, magicians, etc."
+          ],
+          "quotes": [
+            "Though he had both spurs and wand, they seemed rather marks of sovereignty than instruments of punishment.",
+            "Picus bore a buckler in his hand; His other waved a long divining wand."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

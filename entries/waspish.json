@@ -1,0 +1,78 @@
+{
+  "key": "waspish",
+  "source_file": "CIDE.W",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Waspish",
+      "headword_raw": "Wasp\"ish",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Waspishly",
+          "form_raw": "Wasp\"ish*ly",
+          "key": "waspishly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Waspishness",
+          "form_raw": "Wasp\"ish*ness",
+          "key": "waspishness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Resembling a wasp in form; having a slender waist, like a wasp."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Quick to resent a trifling affront; characterized by snappishness; irritable; irascible; petulant; snappish."
+          ],
+          "quotes": [
+            "He was naturally a waspish and hot man.",
+            "Much do I suffer, much, to keep in peace This jealous, waspish, wrong-head, rhyming race."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Snappish",
+            "petulant",
+            "irritable",
+            "irascible",
+            "testy",
+            "peevish",
+            "captious"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "key": "french",
+  "source_file": "CIDE.F",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "French",
+      "headword_raw": "French",
+      "pr": "(frnch)",
+      "pos": [
+        "prop. a.",
+        "a."
+      ],
+      "ety": "[AS. frencisc, LL. franciscus, from L. Francus a Frank: cf. OF. franceis, franchois, françois, F. français. See Frank, a., and cf. Frankish.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Bot.)",
+        "(Bot.)",
+        "(Arch.)",
+        "(Min.)",
+        "(Bot.)",
+        "(Naut.)",
+        "(Bot.)",
+        "(Zool.)",
+        "(Arch.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to France or its inhabitants."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "French",
+      "headword_raw": "French",
+      "pr": null,
+      "pos": [
+        "prop. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The language spoken in France."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Collectively, the people of France."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

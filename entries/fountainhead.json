@@ -1,0 +1,52 @@
+{
+  "key": "fountainhead",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "fountainhead",
+      "headword_raw": "fountainhead",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "an abundant source."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "well",
+            "wellspring"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "the source of water from which a stream arises."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "headspring",
+            "head"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "key": "free-spoken",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Free-spoken",
+      "headword_raw": "Free\"-spo`ken",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Free-spokenness",
+          "form_raw": "Free\"-spo`ken*ness",
+          "key": "free-spokenness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "bluff",
+        "blunt",
+        "candid",
+        "frank",
+        "outspoken",
+        "plainspoken",
+        "point-blank"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Accustomed to speak without reserve; willing to speak out without subtlety."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

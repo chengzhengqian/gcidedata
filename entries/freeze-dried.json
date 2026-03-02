@@ -1,0 +1,42 @@
+{
+  "key": "freeze-dried",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "freeze-dried",
+      "headword_raw": "freeze-dried",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "lyophilized",
+        "lyophilised"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "dried by freezing and applying a vacuum; -- used of tissue or blood or serum or other biological substances."
+          ],
+          "quotes": [],
+          "notes": [
+            "This technique is gentler than other drying techniques and caused less damage or deterioration to sensitive substances. It is used primarily as a method to preserve foods or substances, and permit storage without deterioration."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

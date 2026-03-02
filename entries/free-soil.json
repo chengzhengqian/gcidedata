@@ -1,0 +1,69 @@
+{
+  "key": "free-soil",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Free-soil",
+      "headword_raw": "Free\"-soil`",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Freesoiler",
+          "form_raw": "Free\"soil`er",
+          "key": "freesoiler",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Free-soilism",
+          "form_raw": "Free\"-soil`ism",
+          "key": "free-soilism",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Pertaining to, or advocating, the non-extension of slavery; -- esp. applied to a party which was active during the period 1846-1856."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Pertaining to territory where slavery was prohibited."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "slaveless"
+          ]
+        }
+      ]
+    }
+  ]
+}

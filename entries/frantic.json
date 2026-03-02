@@ -1,0 +1,69 @@
+{
+  "key": "frantic",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Frantic",
+      "headword_raw": "Fran\"tic",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[OE. frentik, frenetik, F. frentique, L. phreneticus, from Gr. <?/. See Frenzy, and cf. Frenetic, Phrenetic.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Frantically",
+          "form_raw": "Fran\"tic*al*ly",
+          "key": "frantically",
+          "pos": [
+            "adv."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Franticly",
+          "form_raw": "Fran\"tic*ly",
+          "key": "franticly",
+          "pos": [
+            "adv."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Franticness",
+          "form_raw": "Fran\"tic*ness",
+          "key": "franticness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Mad; raving; furious; violent; wild and disorderly; distracted."
+          ],
+          "quotes": [
+            "Die, frantic wretch, for this accursed deed!",
+            "Torrents of frantic abuse."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

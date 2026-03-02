@@ -1,0 +1,57 @@
+{
+  "key": "fragile",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Fragile",
+      "headword_raw": "Frag\"ile",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "v. t.",
+        "adv."
+      ],
+      "ety": "[L. fragilis, from frangere to break; cf. F. fragile. See Break, v. t., and cf. Frail, a.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Fragilely",
+          "form_raw": "Frag\"ile*ly",
+          "key": "fragilely",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Brittle",
+        "infirm",
+        "weak",
+        "frail",
+        "frangible",
+        "slight"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Easily broken; brittle; frail; delicate; easily destroyed."
+          ],
+          "quotes": [
+            "The state of ivy is tough, and not fragile."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

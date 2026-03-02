@@ -1,0 +1,50 @@
+{
+  "key": "fraternal",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Fraternal",
+      "headword_raw": "Fra*ter\"nal",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[F. fraternel, LL. fraternalis, fr. L. fraternus, fr. frater brother. See Brother.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Fraternally",
+          "form_raw": "Fra*ter\"nal*ly",
+          "key": "fraternally",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of, pertaining to, or involving, brethren; becoming to brothers; brotherly; as, fraternal affection; a fraternal embrace."
+          ],
+          "quotes": [
+            "An abhorred, a cursed, a fraternal war.",
+            "Fraternal love and friendship."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

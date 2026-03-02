@@ -1,0 +1,65 @@
+{
+  "key": "friction",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Friction",
+      "headword_raw": "Fric\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. frictio, fr. fricare, frictum,to rub: cf. F. friction. See Fray to rub, arid cf. Dentifrice.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of rubbing the surface of one body against that of another; attrition; in hygiene, the act of rubbing the body with the hand, with flannel, or with a brush etc., to excite the skin to healthy action."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mech.)"
+          ],
+          "defs": [
+            "The resistance which a body meets with from the surface on which it moves. It may be resistance to sliding motion, or to rolling motion."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Mech.)",
+            "(Mach.)",
+            "(Mach.)",
+            "(Mach.)"
+          ],
+          "defs": [
+            "A clashing between two persons or parties in opinions or work; a disagreement tending to prevent or retard progress."
+          ],
+          "quotes": [],
+          "notes": [
+            "This angle varies for different bodies, and for planes of different materials."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

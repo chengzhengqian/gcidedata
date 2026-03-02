@@ -1,0 +1,85 @@
+{
+  "key": "frazzle",
+  "source_file": "CIDE.F",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Frazzle",
+      "headword_raw": "Fraz\"zle",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[Cf. G. faseln, and E. fray.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": "[imp. & p. p. Frazzled (?); p. pr. & vb. n. Frazzling (?).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To fray; to wear or pull into tatters or tag ends; to tatter; -- used literally and figuratively."
+          ],
+          "quotes": [
+            "Her hair was of a reddish gray color, and its frazzled and tangled condition suggested that the woman had recently passed through a period of extreme excitement."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Frazzle",
+      "headword_raw": "Fraz\"zle",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl.",
+        "+PJC",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act or result of frazzling; the condition or quality of being frazzled; the tag end; a frayed-out end."
+          ],
+          "quotes": [
+            "My fingers are all scratched to frazzles."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a state of extreme exhaustion; -- often used in the phrase worn to a frazzle."
+          ],
+          "quotes": [
+            "Gordon had sent word to Lee that he “had fought his corps to a frazzle.”"
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

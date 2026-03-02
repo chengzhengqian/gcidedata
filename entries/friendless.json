@@ -1,0 +1,47 @@
+{
+  "key": "friendless",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Friendless",
+      "headword_raw": "Friend\"less",
+      "pr": null,
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": "[AS. frendles.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Friendlessness",
+          "form_raw": "Friend\"less*ness",
+          "key": "friendlessness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Destitute of friends; forsaken."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

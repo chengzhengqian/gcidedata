@@ -1,0 +1,41 @@
+{
+  "key": "foul-mouthed",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Foul-mouthed",
+      "headword_raw": "Foul\"-mouthed`",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "foul-spoken"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Using language scurrilous, opprobrious, obscene, or profane; abusive; as, noisy foul-mouthed women all shouting at once."
+          ],
+          "quotes": [
+            "So foul-mouthed a witness never appeared in any cause."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

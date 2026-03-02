@@ -1,0 +1,47 @@
+{
+  "key": "friable",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Friable",
+      "headword_raw": "Fri\"a*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": "[L. friabilis, fr. friare to rub, break, or crumble into small pieces, cf. fricare to rub, E. fray: cf. F. friable.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Friableness",
+          "form_raw": "Fri'a*ble*ness",
+          "key": "friableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Easily crumbled, pulverized, or reduced to powder."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

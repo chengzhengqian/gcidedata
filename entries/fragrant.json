@@ -1,0 +1,59 @@
+{
+  "key": "fragrant",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Fragrant",
+      "headword_raw": "Fra\"grant",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[L. fragrans. -antis, p. pr. of fragrare to emit a smell of fragrance: cf. OF. fragrant.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Fragrantly",
+          "form_raw": "Fra\"grant*ly",
+          "key": "fragrantly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Sweet-smelling",
+        "odorous",
+        "odoriferous",
+        "sweet-scented",
+        "redolent",
+        "ambrosial",
+        "balmy",
+        "spicy",
+        "aromatic"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Affecting the olfactory nerves agreeably; sweet of smell; odorous; having or emitting an agreeable perfume."
+          ],
+          "quotes": [
+            "Fragrant the fertile earth After soft showers."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

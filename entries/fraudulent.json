@@ -1,0 +1,74 @@
+{
+  "key": "fraudulent",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Fraudulent",
+      "headword_raw": "Fraud\"u*lent",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. fraudulentus, fr. fraus, fraudis, fraud: cf. F. fraudulent.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Using fraud; tricky; deceitful; dishonest."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Characterized by, founded on, or proceeding from, fraud; as, a fraudulent bargain."
+          ],
+          "quotes": [
+            "He, with serpent tongue, . . . His fraudulent temptation thus began."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Obtained or performed by artifice; as, fraudulent conquest."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Deceitful",
+            "fraudful",
+            "guileful",
+            "crafty",
+            "wily",
+            "cunning",
+            "subtle",
+            "deceiving",
+            "cheating",
+            "deceptive",
+            "insidious",
+            "treacherous",
+            "dishonest",
+            "designing",
+            "unfair"
+          ]
+        }
+      ]
+    }
+  ]
+}

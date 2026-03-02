@@ -1,0 +1,79 @@
+{
+  "key": "fraud",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Fraud",
+      "headword_raw": "Fraud",
+      "pr": "(frd)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. fraude, L. fraus, fraudis; prob. akin to Skr. dhūrv to injure, dhv to cause to fall, and E. dull.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Deception deliberately practiced with a view to gaining an unlawful or unfair advantage; artifice by which the right or interest of another is injured; injurious stratagem; deceit; trick."
+          ],
+          "quotes": [
+            "If success a lover's toil attends, Few ask, if fraud or force attained his ends."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "An intentional perversion of truth for the purpose of obtaining some valuable thing or promise from another."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Law)",
+            "(Ch. Hist.)",
+            "(Law)"
+          ],
+          "defs": [
+            "A trap or snare."
+          ],
+          "quotes": [
+            "To draw the proud King Ahab into fraud."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Deception",
+            "deceit",
+            "guile",
+            "craft",
+            "wile",
+            "sham",
+            "strife",
+            "circumvention",
+            "stratagem",
+            "trick",
+            "imposition",
+            "cheat. See Deception"
+          ]
+        }
+      ]
+    }
+  ]
+}

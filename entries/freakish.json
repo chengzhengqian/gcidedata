@@ -1,0 +1,70 @@
+{
+  "key": "freakish",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Freakish",
+      "headword_raw": "Freak\"ish",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Freakishly",
+          "form_raw": "Freak\"ish*ly",
+          "key": "freakishly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Freakishness",
+          "form_raw": "Freak\"ish*ness",
+          "key": "freakishness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "rapidly changing and unpredictable; as, freakish weather."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "markedly abnormal."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "freaky"
+          ]
+        }
+      ]
+    }
+  ]
+}

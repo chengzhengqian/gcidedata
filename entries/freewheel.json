@@ -1,0 +1,91 @@
+{
+  "key": "freewheel",
+  "source_file": "CIDE.F",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Freewheel",
+      "headword_raw": "Free\"wheel`",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Mach.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A clutch fitted in the rear hub of a cycle, which engages the rear sprocket with the rear wheel when the pedals are rotated forwards, but permits the rear wheel to run on free from the rear sprocket when the pedals are stopped or rotated backwards. Freewheelcycles are usually fitted with hub brakes or rim brakes, operated by back pedaling."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Freewheel",
+      "headword_raw": "Free\"wheel`",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl.",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of a freewheel cycle, to run on while the pedals are held still.",
+            "Of a person, to ride a cycle of this manner; to coast in a vehicle having a freewheel. To ride a freewheel cycle."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mach.)"
+          ],
+          "defs": [
+            "To operate like a freewheel, so that one part moves freely over another which normally moves with it; -- said of a clutch."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To act without controls, external or internal; to live freely, independently, and without concern; -- of people."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

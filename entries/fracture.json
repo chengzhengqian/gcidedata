@@ -1,0 +1,100 @@
+{
+  "key": "fracture",
+  "source_file": "CIDE.F",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Fracture",
+      "headword_raw": "Frac\"ture",
+      "pr": "(?; 135)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. fractura, fr. frangere, fractum, to break: cf. F. fracture. See Fraction.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "These words denote different kinds of breaking, according to the objects to which they are applied. Fracture is applied to hard substances; as, the fracture of a bone. Rupture is oftener applied to soft substances; as, the rupture of a blood vessel. It is also used figuratively. “To be an enemy and once to have been a friend, does it not embitter the rupture?”"
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of breaking or snapping asunder; rupture; breach."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Surg.)"
+          ],
+          "defs": [
+            "The breaking of a bone."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Min.)",
+            "(Surg.)",
+            "(Surg.)",
+            "(Surg.)",
+            "(Surg.)"
+          ],
+          "defs": [
+            "The texture of a freshly broken surface; as, a compact fracture; an even, hackly, or conchoidal fracture."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Fracture",
+            "Rupture"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Fracture",
+      "headword_raw": "Frac\"ture",
+      "pr": "(?; 135)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[Cf. F. fracturer.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Fractured (#; 135); p. pr. & vb. n.. Fracturing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To cause a fracture or fractures in; to break; to burst asunder; to crack; to separate the continuous parts of; as, to fracture a bone; to fracture the skull."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

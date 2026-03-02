@@ -1,0 +1,50 @@
+{
+  "key": "frenzied",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Frenzied",
+      "headword_raw": "Fren\"zied",
+      "pr": "(frn\"zd)",
+      "pos": [
+        "p. p. & a.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Frenziedly",
+          "form_raw": "Fren\"zied*ly",
+          "key": "frenziedly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Affected with frenzy; frantic; maddened."
+          ],
+          "quotes": [
+            "The people frenzied by centuries of oppression.",
+            "Up starting with a frenzied look."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

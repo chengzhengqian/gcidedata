@@ -1,0 +1,40 @@
+{
+  "key": "freeze-dry",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Freeze-dry",
+      "headword_raw": "Freeze\"-dry`",
+      "pr": "(frēz\"-drī`)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": "[imp. & p. p. Freeze-dried; p. pr. & vb. n. Freeze-drying.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "to remove the moisture from (e.g. food) by first freezing and then subjecting to a high vacuum; -- used as a mild method for drying foods or chemicals while causing little decomposition, in contrast to heat-drying."
+          ],
+          "quotes": [],
+          "notes": [
+            "This is a relatively gently drying process used to preserve food or sensitive biological materials. For biochemical materials, the term lyophilize is often used."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

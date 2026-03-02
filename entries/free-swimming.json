@@ -1,0 +1,53 @@
+{
+  "key": "free-swimming",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Free-swimming",
+      "headword_raw": "Free\"-swim`ming",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Zool.)"
+      ],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Swimming in the open sea; -- said of certain marine animals."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Zoology)"
+          ],
+          "defs": [
+            "able to swim about; not attached to a stationary object; -- of aquatic animals."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "unattached"
+          ]
+        }
+      ]
+    }
+  ]
+}

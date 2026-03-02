@@ -1,0 +1,41 @@
+{
+  "key": "frankpledge",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Frankpledge",
+      "headword_raw": "Frank\"pledge`",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Frank free + pledge.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(O. Eng. Law)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A pledge or surety for the good behavior of freemen, -- each freeman who was a member of an ancient decennary, tithing, or friborg, in England, being a pledge for the good conduct of the others, for the preservation of the public peace; a free surety.",
+            "The tithing itself."
+          ],
+          "quotes": [
+            "The servants of the crown were not, as now, bound in frankpledge for each other."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

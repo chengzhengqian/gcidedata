@@ -1,0 +1,60 @@
+{
+  "key": "neglectful",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Neglectful",
+      "headword_raw": "Neg*lect\"ful",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Neglectfully",
+          "form_raw": "Neg*lect\"ful*ly",
+          "key": "neglectfully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Neglectfulness",
+          "form_raw": "Neg*lect\"ful*ness",
+          "key": "neglectfulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Full of neglect; heedless; careless; negligent; inattentive; indifferent."
+          ],
+          "quotes": [
+            "A cold and neglectful countenance.",
+            "Though the Romans had no great genius for trade, yet they were not entirely neglectful of it."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

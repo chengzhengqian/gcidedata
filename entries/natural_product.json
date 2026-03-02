@@ -1,0 +1,38 @@
+{
+  "key": "natural_product",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Natural product",
+      "headword_raw": "Nat\"u*ral prod\"uct",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem., Biochem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A chemical substance produced by a living organism; -- a term used commonly in reference to chemical substances found in nature that have distinctive pharmacological effects. Such a substance is considered a natural product even if it can be prepared by total synthesis."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "key": "nauseous",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Nauseous",
+      "headword_raw": "Nau\"seous",
+      "pr": "(?; 277)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. nauseosus.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Nauseously",
+          "form_raw": "Nau\"seous*ly",
+          "key": "nauseously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Nauseousness",
+          "form_raw": "Nau\"seous*ness",
+          "key": "nauseousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Causing, or fitted to cause, nausea; sickening; loathsome; disgusting; exciting abhorrence; as, a nauseous drug or medicine."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Feeling nausea; as, nauseous from the effects of chemotherapy."
+          ],
+          "quotes": [
+            "The nauseousness of such company disgusts a reasonable man."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

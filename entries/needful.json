@@ -1,0 +1,71 @@
+{
+  "key": "needful",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Needful",
+      "headword_raw": "Need\"ful",
+      "pr": "(nēd\"fl)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Needfully",
+          "form_raw": "Need\"ful*ly",
+          "key": "needfully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Needfulness",
+          "form_raw": "Need\"ful*ness",
+          "key": "needfulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Full of need; in need or want; needy; distressing."
+          ],
+          "quotes": [
+            "The needful time of trouble."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Necessary for supply or relief; requisite."
+          ],
+          "quotes": [
+            "All things needful for defense abound."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "key": "narrative",
+  "source_file": "CIDE.N",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Narrative",
+      "headword_raw": "Nar\"ra*tive",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Cf. F. narratif.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to narration; relating to the particulars of an event or transaction."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Apt or inclined to relate stories, or to tell particulars of events; story-telling; garrulous."
+          ],
+          "quotes": [
+            "But wise through time, and narrative with age."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Narrative",
+      "headword_raw": "Nar\"ra*tive",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "Account",
+        "recital",
+        "rehearsal",
+        "relation",
+        "narration",
+        "story",
+        "tale. See Account"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "That which is narrated; the recital of a story; a continuous account of the particulars of an event or transaction; a story."
+          ],
+          "quotes": [
+            "Cyntio was much taken with my narrative."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

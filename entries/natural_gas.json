@@ -1,0 +1,38 @@
+{
+  "key": "natural_gas",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "natural gas",
+      "headword_raw": "natural gas",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "gas"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The combustible gas found associated with petroleum deposits, and also in other geological formations, comprised predominantly of methane plus variable other constituents. It is an important source of energy, and is transported long distances by pipelines, or in a liquefied state in tankers, for commercial distribution. Some natural gas deposits contain helium, and comprise the primary source of that rare element."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

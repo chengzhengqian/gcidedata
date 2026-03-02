@@ -1,0 +1,80 @@
+{
+  "key": "navicular",
+  "source_file": "CIDE.N",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Navicular",
+      "headword_raw": "Na*vic\"u*lar",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. navicularius, fr. navicula, dim. of navis ship: cf. F. naviculaire.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of, pertaining to, or resembling, a boat or ship."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Anat.)",
+            "(Far.)"
+          ],
+          "defs": [
+            "Shaped like a boat; cymbiform; scaphoid; as, the navicular glumes of most grasses; the navicular bone."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Navicular",
+      "headword_raw": "Na*vic\"u*lar",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Anat.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The navicular bone."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

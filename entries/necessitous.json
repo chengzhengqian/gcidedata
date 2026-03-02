@@ -1,0 +1,66 @@
+{
+  "key": "necessitous",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Necessitous",
+      "headword_raw": "Ne*ces\"si*tous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": "[Cf. F. ncessiteux.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Necessitously",
+          "form_raw": "Ne*ces\"si*tous*ly",
+          "key": "necessitously",
+          "pos": [],
+          "pr": null
+        },
+        {
+          "form": "Necessitousness",
+          "form_raw": "Ne*ces\"si*tous*ness",
+          "key": "necessitousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Very needy or indigent; pressed with poverty."
+          ],
+          "quotes": [
+            "Necessitous heirs and penurious parents."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Narrow; destitute; pinching; pinched; as, necessitous circumstances."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

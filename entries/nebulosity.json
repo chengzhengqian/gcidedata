@@ -1,0 +1,51 @@
+{
+  "key": "nebulosity",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Nebulosity",
+      "headword_raw": "Neb`u*los\"i*ty",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. nebulositas: cf. F. nbulosit]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The state or quality of being nebulous; cloudiness; haziness; mistiness; nebulousness."
+          ],
+          "quotes": [
+            "The nebulosity . . . of the mother idiom."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Astron.)"
+          ],
+          "defs": [
+            "The stuff of which a nebula is formed.",
+            "A nebula."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

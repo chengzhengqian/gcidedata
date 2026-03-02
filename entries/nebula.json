@@ -1,0 +1,52 @@
+{
+  "key": "nebula",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Nebula",
+      "headword_raw": "Neb\"u*la",
+      "pr": "(nb\"*l)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L., mist, cloud; akin to Gr. nefe`lh, ne`fos, cloud, mist, G. nebel mist, OHG. nebul, D. nevel, Skr. nabhas cloud, mist. Cf. Nebule.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Astron.)"
+          ],
+          "defs": [
+            "A faint, cloudlike, self-luminous mass of matter situated beyond the solar system among the stars. The term was originally applied to any diffuse luminous region. Now, technically, it is applied to interstellar clouds of dust and gases (diffuse nebula). However distant galaxies and very distant star clusters often appear like them in the telescope, such as the spiral nebula in Andromeda, known now to be a distant galaxy."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "A white spot or a slight opacity of the cornea.",
+            "A cloudy appearance in the urine."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

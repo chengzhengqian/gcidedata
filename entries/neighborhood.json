@@ -1,0 +1,74 @@
+{
+  "key": "neighborhood",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Neighborhood",
+      "headword_raw": "Neigh\"bor*hood",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Written also neighbourhood.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "-- Neighborhood, Vicinity. Neighborhood is Anglo-Saxon, and vicinity is Latin. Vicinity does not commonly denote so close a connection as neighborhood. A neighborhood is a more immediately vicinity. The houses immediately adjoining a square are in the neighborhood of that square; those which are somewhat further removed are also in the vicinity of the square."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The quality or condition of being a neighbor; the state of being or dwelling near; proximity."
+          ],
+          "quotes": [
+            "Then the prison and the palace were in awful neighborhood."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A place near; vicinity; adjoining district; a region the inhabitants of which may be counted as neighbors; as, he lives in my neighborhood."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "The inhabitants who live in the vicinity of each other; as, the fire alarmed all the neighborhood."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "The disposition becoming a neighbor; neighborly kindness or good will."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Vicinity",
+            "vicinage",
+            "proximity"
+          ]
+        }
+      ]
+    }
+  ]
+}

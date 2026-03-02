@@ -1,0 +1,58 @@
+{
+  "key": "necrotomy",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Necrotomy",
+      "headword_raw": "Nec*rot\"o*my",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Gr. nekro`s dead person + te`mnein to cut.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Necrotomic",
+          "form_raw": "Nec`ro*tom\"ic",
+          "key": "necrotomic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Necrotomist",
+          "form_raw": "Nec*rot\"o*mist",
+          "key": "necrotomist",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The dissection of dead bodies; also, excision of necrosed bone."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

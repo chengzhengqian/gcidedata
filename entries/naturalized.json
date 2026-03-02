@@ -1,0 +1,50 @@
+{
+  "key": "naturalized",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "naturalized",
+      "headword_raw": "naturalized",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Acclimated to a new environment; introduced from another region and persisting without cultivation; -- of plants or animals not native to a location."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "domesticated",
+            "nonnative"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "planted randomly in soil so as to give an appearance of wild growth; as, drifts of naturalized daffodils."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

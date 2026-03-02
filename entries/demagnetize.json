@@ -1,0 +1,69 @@
+{
+  "key": "demagnetize",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Demagnetize",
+      "headword_raw": "De*mag\"net*ize",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Demagnetization",
+          "form_raw": "De*mag`net*i*za\"tion",
+          "key": "demagnetization",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Demagnetizer",
+          "form_raw": "De*mag\"net*i`zer",
+          "key": "demagnetizer",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To deprive of magnetic properties; to render nonmagnetic. See Magnetize."
+          ],
+          "quotes": [
+            "If the bar be rapidly magnetized and demagnetized."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To free from mesmeric influence; to demesmerize."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

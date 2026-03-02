@@ -1,0 +1,86 @@
+{
+  "key": "delectable",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Delectable",
+      "headword_raw": "De*lec\"ta*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[OF. delitable, OF. delitable, F. dlectable, fr. L. delectabilis, fr. delectare to delight. See Delight.]",
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Delectableness",
+          "form_raw": "De*lec\"ta*ble*ness",
+          "key": "delectableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Delectably",
+          "form_raw": "De*lec\"ta*bly",
+          "key": "delectably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Delectability",
+          "form_raw": "De*lec`ta*bil\"i*ty",
+          "key": "delectability",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Highly pleasing; delightful."
+          ],
+          "quotes": [
+            "Delectable both to behold and taste."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "extremely pleasing to the sense of taste; same as luscious, 1."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "delicious",
+            "luscious",
+            "pleasant-tasting",
+            "scrumptious",
+            "toothsome",
+            "yummy"
+          ]
+        }
+      ]
+    }
+  ]
+}

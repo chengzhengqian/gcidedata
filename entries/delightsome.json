@@ -1,0 +1,59 @@
+{
+  "key": "delightsome",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Delightsome",
+      "headword_raw": "De*light\"some",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Delightsomely",
+          "form_raw": "De*light\"some*ly",
+          "key": "delightsomely",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Delightsomeness",
+          "form_raw": "De*light\"some*ness",
+          "key": "delightsomeness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Very pleasing; delightful."
+          ],
+          "quotes": [
+            "Ye shall be a delightsome land, . . . saith the Lord."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "key": "delimitate",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "delimitate",
+      "headword_raw": "delimitate",
+      "pr": null,
+      "pos": [
+        "v."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "to determine the essential quality of."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "specify",
+            "define",
+            "delineate",
+            "delimit"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "to set, mark, or draw the boundaries of something."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "demarcate",
+            "delimit"
+          ]
+        }
+      ]
+    }
+  ]
+}

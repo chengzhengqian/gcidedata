@@ -1,0 +1,50 @@
+{
+  "key": "delineated",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "delineated",
+      "headword_raw": "delineated",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "represented accurately or precisely."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "described in words with sharpness and detail or with vivid imagery. Opposite of undelineated."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "represented",
+            "delineate"
+          ]
+        }
+      ]
+    }
+  ]
+}

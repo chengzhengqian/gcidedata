@@ -1,0 +1,78 @@
+{
+  "key": "denature",
+  "source_file": "CIDE.D",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Denature",
+      "headword_raw": "De*na\"ture",
+      "pr": "(?)",
+      "pos": [
+        "v. t."
+      ],
+      "ety": "[De- + nature.]",
+      "sources": [
+        "Webster 1913 Suppl.",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "to render (ethyl alcohol) unfit to drink by adding in toxic or unpalatable substances (such as benzene or pyridine) which nevertheless permit alcohol to be used as a solvent."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "modify the tertiary structure of (a protein or nucleic acid) so as to reduce or destroy its characteristic biological activity."
+          ],
+          "quotes": [],
+          "notes": [
+            "Bioactive macromolecules such as enzymes or DNA may be denatured by heat, acid, alkali, or solvent treatment; the extent of such treatment required to denature a molecule varies with the specific compound. In some cases the denatured molecules may regain their original properties (renature) by other treatments. Denaturation may also cause a change in the physical properties of such molecules, e.g. proteins may become insoluble in water."
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Denature",
+      "headword_raw": "De*na\"ture",
+      "pr": "(?)",
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To become denatured."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

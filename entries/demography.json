@@ -1,0 +1,48 @@
+{
+  "key": "demography",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "demography",
+      "headword_raw": "de*mog\"ra*phy",
+      "pr": "(d*mg\"rf)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Gr. dh^mos the people + -graphy.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Demographic",
+          "form_raw": "Dem`o*graph\"ic",
+          "key": "demographic",
+          "pos": [
+            "a."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The study of vital statistics, such as births, deaths, marriages, mortality, health, etc., in populations and subgroups of populations."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

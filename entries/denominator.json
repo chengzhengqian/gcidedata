@@ -1,0 +1,67 @@
+{
+  "key": "denominator",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Denominator",
+      "headword_raw": "De*nom\"i*na`tor",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. dnominateur.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One who, or that which, gives a name; origin or source of a name."
+          ],
+          "quotes": [
+            "This opinion that Aram . . . was the father and denomination of the Syrians in general."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Arith.)"
+          ],
+          "defs": [
+            "That number placed below the line in common fractions which shows into how many parts the integer or unit is divided."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Thus, in , 5 is the denominator, showing that the integer is divided into five parts; and the numerator, 3, shows how many parts are taken."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Alg.)"
+          ],
+          "defs": [
+            "That part of any expression under a fractional form which is situated below the horizontal line signifying division."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ In this sense, the denominator is not necessarily a number, but may be any expression, either positive or negative, real or imaginary."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

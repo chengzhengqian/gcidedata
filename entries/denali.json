@@ -1,0 +1,50 @@
+{
+  "key": "denali",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Denali",
+      "headword_raw": "Denali",
+      "pr": null,
+      "pos": [
+        "prop. n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The native name for Mount McKinley in Alaska, translated as the great one."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Mount McKinley"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a national park in Alaska in which Mount McKinley is located."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Denali national park"
+          ]
+        }
+      ]
+    }
+  ]
+}

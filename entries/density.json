@@ -1,0 +1,62 @@
+{
+  "key": "density",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Density",
+      "headword_raw": "Den\"si*ty",
+      "pr": "(dn\"s*t)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. densitas; cf. F. densit.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The quality of being dense, close, or thick; compactness; -- opposed to rarity."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Physics)"
+          ],
+          "defs": [
+            "The ratio of mass, or quantity of matter, to bulk or volume, esp. as compared with the mass and volume of a portion of some substance used as a standard."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ For gases the standard substance is hydrogen, at a temperature of 0° Centigrade and a pressure of 760 millimeters. For liquids and solids the standard is water at a temperature of 4° Centigrade. The density of solids and liquids is usually called specific gravity, and the same is true of gases when referred to air as a standard."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Photog.)"
+          ],
+          "defs": [
+            "Depth of shade."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

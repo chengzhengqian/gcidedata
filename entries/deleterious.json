@@ -1,0 +1,57 @@
+{
+  "key": "deleterious",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Deleterious",
+      "headword_raw": "Del`e*te\"ri*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[LL. deleterius noxious, Gr. dhlhth`rios, fr. dhlei^sqai to hurt, damage; prob. akin to L. delere to destroy.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Deleteriously",
+          "form_raw": "Del`e*te\"ri*ous*ly",
+          "key": "deleteriously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Deleteriousness",
+          "form_raw": "Del`e*te\"ri*ous*ness",
+          "key": "deleteriousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Hurtful; noxious; destructive; pernicious; as, a deleterious plant or quality; a deleterious example."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

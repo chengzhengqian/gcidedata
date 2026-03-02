@@ -1,0 +1,76 @@
+{
+  "key": "dendrology",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "dendrology",
+      "headword_raw": "den*drol\"o*gy",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Gr. de`ndron tree + -logy: cf. F. dendrologie.]",
+      "sources": [
+        "PJC",
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "dendrological",
+          "form_raw": "den`dro*log\"ic*al",
+          "key": "dendrological",
+          "pos": [
+            "a."
+          ],
+          "pr": null
+        },
+        {
+          "form": "dendrologic",
+          "form_raw": "den`dro*log\"ic",
+          "key": "dendrologic",
+          "pos": [
+            "a."
+          ],
+          "pr": null
+        },
+        {
+          "form": "dendrologist",
+          "form_raw": "den*drol\"o*gist",
+          "key": "dendrologist",
+          "pos": [
+            "a."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "the branch of botany studying trees and shrubs; the natural history of trees."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A discourse or treatise on trees."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

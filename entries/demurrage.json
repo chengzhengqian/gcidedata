@@ -1,0 +1,43 @@
+{
+  "key": "demurrage",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Demurrage",
+      "headword_raw": "De*mur\"rage",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. OF. demorage delay. See Demur.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Law)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The detention of a vessel by the freighter beyond the time allowed in her charter party for loading, unloading, or sailing.",
+            "The allowance made to the master or owner of the ship for such delay or detention."
+          ],
+          "quotes": [
+            "The claim for demurrage ceases as soon as the ship is cleared out and ready for sailing."
+          ],
+          "notes": [
+            "☞ The term is also applied to similar delays and allowances in land carriage, by wagons, railroads, etc."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

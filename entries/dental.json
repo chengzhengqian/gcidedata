@@ -1,0 +1,91 @@
+{
+  "key": "dental",
+  "source_file": "CIDE.D",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "dental",
+      "headword_raw": "den\"tal",
+      "pr": "(dn\"tl)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. dens, dentis, tooth: cf. F. dental. See Tooth.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to the teeth or to dentistry; as, dental surgery."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Phon.)",
+            "(Zool.)"
+          ],
+          "defs": [
+            "Formed by the aid of the teeth; -- said of certain articulations and the letters representing them; as, d and t are dental letters."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Dental",
+      "headword_raw": "Den\"tal",
+      "pr": null,
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Cf. F. dentale. See Dental, a.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "An articulation or letter formed by the aid of the teeth."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "A marine mollusk of the genus Dentalium, with a curved conical shell resembling a tooth. See Dentalium."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

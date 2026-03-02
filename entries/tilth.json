@@ -1,0 +1,50 @@
+{
+  "key": "tilth",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Tilth",
+      "headword_raw": "Tilth",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[AS. til<?/, fr. tilian to till. See Till to cultivate.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The state of being tilled, or prepared for a crop; culture; as, land is good tilth."
+          ],
+          "quotes": [
+            "The tilth and rank fertility of its golden youth."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That which is tilled; tillage ground."
+          ],
+          "quotes": [
+            "And so by tilth and grange . . . We gained the mother city."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

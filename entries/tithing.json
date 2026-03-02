@@ -1,0 +1,50 @@
+{
+  "key": "tithing",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Tithing",
+      "headword_raw": "Tith\"ing",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[AS. te<?/ung.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of levying or taking tithes; that which is taken as tithe; a tithe."
+          ],
+          "quotes": [
+            "To take tithing of their blood and sweat."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(O. Eng. Law)"
+          ],
+          "defs": [
+            "A number or company of ten householders who, dwelling near each other, were sureties or frankpledges to the king for the good behavior of each other; a decennary."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

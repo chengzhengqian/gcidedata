@@ -1,0 +1,79 @@
+{
+  "key": "tollbooth",
+  "source_file": "CIDE.T",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Tollbooth",
+      "headword_raw": "Toll\"booth`",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Toll a tax + booth.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A place where goods are weighed to ascertain the duties or toll."
+          ],
+          "quotes": [
+            "He saw Levy . . . sitting at the tollbooth."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "In Scotland, a burgh jail; hence, any prison, especially a town jail."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Tollbooth",
+      "headword_raw": "Toll\"booth`",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To imprison in a tollbooth."
+          ],
+          "quotes": [
+            "That they might tollbooth Oxford men."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

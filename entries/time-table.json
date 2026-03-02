@@ -1,0 +1,60 @@
+{
+  "key": "time-table",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Time-table",
+      "headword_raw": "Time\"-ta`ble",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A tabular statement of the time at which, or within which, several things are to take place, as the recitations in a school, the departure and arrival of railroad trains or other public conveyances, the rise and fall of the tides, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Railroad)"
+          ],
+          "defs": [
+            "A plane surface divided in one direction with lines representing hours and minutes, and in the other with lines representing miles, and having diagonals (usually movable strings) representing the speed and position of various trains."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Mus.)"
+          ],
+          "defs": [
+            "A table showing the notation, length, or duration of the several notes."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

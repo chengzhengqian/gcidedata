@@ -1,0 +1,81 @@
+{
+  "key": "ticklish",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Ticklish",
+      "headword_raw": "Tic\"klish",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Ticklishly",
+          "form_raw": "Tic\"klish*ly",
+          "key": "ticklishly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Ticklishness",
+          "form_raw": "Tic\"klish*ness",
+          "key": "ticklishness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Sensible to slight touches; easily tickled; as, the sole of the foot is very ticklish; the hardened palm of the hand is not ticklish."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Standing so as to be liable to totter and fall at the slightest touch; unfixed; easily affected; unstable."
+          ],
+          "quotes": [
+            "Can any man with comfort lodge in a condition so dismally ticklish?"
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Difficult; nice; critical; as, a ticklish business."
+          ],
+          "quotes": [
+            "Surely princes had need, in tender matters and ticklish times, to beware what they say."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

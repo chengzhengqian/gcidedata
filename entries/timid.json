@@ -1,0 +1,68 @@
+{
+  "key": "timid",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Timid",
+      "headword_raw": "Tim\"id",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. timidus, fr. timere to fear; cf. Skr. tam to become breathless, to become stupefief: cf. F. timide.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Timidly",
+          "form_raw": "Tim\"id*ly",
+          "key": "timidly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Timidness",
+          "form_raw": "Tim\"id*ness",
+          "key": "timidness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Fearful",
+        "timorous",
+        "afraid",
+        "cowardly",
+        "pusillanimous",
+        "faint-hearted",
+        "shrinking",
+        "retiring"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Wanting courage to meet danger; easily frightened; timorous; not bold; fearful; shy."
+          ],
+          "quotes": [
+            "Poor is the triumph o'er the timid hare."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

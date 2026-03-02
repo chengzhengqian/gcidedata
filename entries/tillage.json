@@ -1,0 +1,52 @@
+{
+  "key": "tillage",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Tillage",
+      "headword_raw": "Till\"age",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The operation, practice, or art of tilling or preparing land for seed, and keeping the ground in a proper state for the growth of crops."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A place tilled or cultivated; cultivated land."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Cultivation",
+            "culture",
+            "husbandry",
+            "farming",
+            "agriculture"
+          ]
+        }
+      ]
+    }
+  ]
+}

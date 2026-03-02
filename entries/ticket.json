@@ -1,0 +1,93 @@
+{
+  "key": "ticket",
+  "source_file": "CIDE.T",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Ticket",
+      "headword_raw": "Tick\"et",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "v."
+      ],
+      "ety": "[F. tiquette a label, ticket, fr. OF. estiquette, or OF. etiquet, estiquet; both of Teutonic origin, and akin to E. stick. See Stick, n. & v., and cf. Etiquette, Tick credit.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Politics)",
+        "(Com.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A small piece of paper, cardboard, or the like, serving as a notice, certificate, or distinguishing token of something.",
+            "A little note or notice.",
+            "A tradesman's bill or account.",
+            "A certificate or token of right of admission to a place of assembly, or of passage in a public conveyance; as, a theater ticket; a railroad or steamboat ticket.",
+            "A label to show the character or price of goods.",
+            "A certificate or token of a share in a lottery or other scheme for distributing money, goods, or the like.",
+            "A printed list of candidates to be voted for at an election; a set of nominations by one party for election; a ballot."
+          ],
+          "quotes": [
+            "He constantly read his lectures twice a week for above forty years, giving notice of the time to his auditors in a ticket on the school doors.",
+            "Your courtier is mad to take up silks and velvets On ticket for his mistress.",
+            "The old ticket forever! We have it by thirty-four votes."
+          ],
+          "notes": [
+            "☞ Hence the phrase on ticket, on account; whence, by abbreviation, came the phrase on tick. See 1st Tick."
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Ticket",
+      "headword_raw": "Tick\"et",
+      "pr": null,
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Ticketed; p. pr. & vb. n. Ticketing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To distinguish by a ticket; to put a ticket on; as, to ticket goods."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To furnish with a tickets; to book; as, to ticket passengers to California."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

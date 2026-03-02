@@ -1,0 +1,48 @@
+{
+  "key": "dormitory",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Dormitory",
+      "headword_raw": "Dor\"mi*to*ry",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. dormitorium, fr. dormitorius of or for sleeping, fr. dormire to sleep. See Dormant.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A sleeping room, or a building containing a series of sleeping rooms; a sleeping apartment capable of containing many beds; esp., one connected with a college or boarding school."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A burial place."
+          ],
+          "quotes": [
+            "My sister was interred in a very honorable manner in our dormitory, joining to the parish church."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

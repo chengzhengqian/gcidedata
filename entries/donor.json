@@ -1,0 +1,50 @@
+{
+  "key": "donor",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Donor",
+      "headword_raw": "Do\"nor",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. donneur, OF. daneor, fr. donner. See Donee, and cf. Donator.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One who gives or bestows; one who confers anything gratuitously; a benefactor. Inverse of recipient."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "One who grants an estate; in later use, one who confers a power; -- the opposite of donee."
+          ],
+          "quotes": [
+            "Touching, the parties unto deeds and charters, we are to consider as well the donors and granters as the donees or grantees."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

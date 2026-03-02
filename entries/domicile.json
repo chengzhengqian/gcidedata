@@ -1,0 +1,79 @@
+{
+  "key": "domicile",
+  "source_file": "CIDE.D",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Domicile",
+      "headword_raw": "Dom\"i*cile",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. domicilium; domus house + (prob.) root of celare to conceal: cf. F. domicile. See Dome, and Conceal.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "An abode or mansion; a place of permanent residence, either of an individual or a family."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "A residence at a particular place accompanied with an intention to remain there for an unlimited time; a residence accepted as a final abode."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Domicile",
+      "headword_raw": "Dom\"i*cile",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[Cf. F. domicilier. Cf. Domiciliate.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Domiciled (?); p. pr. & vb. n. Domiciling.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To establish in a fixed residence, or a residence that constitutes habitancy; to domiciliate."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

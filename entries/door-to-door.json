@@ -1,0 +1,48 @@
+{
+  "key": "door-to-door",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "door-to-door",
+      "headword_raw": "door-to-door",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "direct without intermediate changes of vehicle; -- of e.g. journeys or deliveries; as, the limousine offers direct door-to-door service."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "omitting no one; from the door of one house to that of the next; as, a door-to-door solicitation, canvass, or campaign."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "house-to-house"
+          ]
+        }
+      ]
+    }
+  ]
+}

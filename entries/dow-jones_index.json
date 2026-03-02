@@ -1,0 +1,42 @@
+{
+  "key": "dow-jones_index",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Dow-Jones Index",
+      "headword_raw": "Dow-Jones Index",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "Dow",
+        "Dow Jones",
+        "Dow-Jones Average"
+      ],
+      "entry_fields": [
+        "(Finance)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "an index of certain stock prices on the New York Stock Exchange, computed by the Dow Jones publishing company as a weighted average of the prices of specific stocks in certain categories. Three indices are maintained, the Industrials, the Transportations, and the Utilities. When used without qualification, the term usually refers to the Dow Jones Industrial Average."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "key": "dosimeter",
+  "source_file": "CIDE.D",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "dosimeter",
+      "headword_raw": "dosimeter",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "for measuring doses of ."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "dosemeter"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "dosimeter",
+      "headword_raw": "do*sim\"et*er",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[NL. dosis dose + -meter.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a device for measuring doses of radiation, especially ionizing radiation such as X-rays, gamma rays, or ionizing particles."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

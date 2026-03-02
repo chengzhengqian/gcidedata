@@ -1,0 +1,53 @@
+{
+  "key": "doubled",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "doubled",
+      "headword_raw": "doubled",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "rendered twice as great or twice as many."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "double",
+            "duplex",
+            "twofold",
+            "diploid"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "folded in two; as, doubled sheets of paper."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "doubled over"
+          ]
+        }
+      ]
+    }
+  ]
+}

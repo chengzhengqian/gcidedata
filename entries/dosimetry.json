@@ -1,0 +1,58 @@
+{
+  "key": "dosimetry",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "dosimetry",
+      "headword_raw": "do*sim\"e*try",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[NL. dosis dose + -metry.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Dosimetric",
+          "form_raw": "Do`si*met\"ric",
+          "key": "dosimetric",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Dosimetrist",
+          "form_raw": "Do*sim\"e*trist",
+          "key": "dosimetrist",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Measurement of doses; specif., a system of therapeutics which uses but few remedies, mostly alkaloids, and gives them in doses fixed by certain rules."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "key": "downcast",
+  "source_file": "CIDE.D",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "downcast",
+      "headword_raw": "down\"cast`",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Downcastly",
+          "form_raw": "Down\"cast`ly",
+          "key": "downcastly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Downcastness",
+          "form_raw": "Down\"cast`ness",
+          "key": "downcastness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "depressed; dispirited; dejected; -- of people."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "down(predicate)",
+            "downhearted",
+            "low",
+            "low-spirited"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Downcast",
+      "headword_raw": "Down\"cast`",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Downcast or melancholy look."
+          ],
+          "quotes": [
+            "That downcast of thine eye."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mining)"
+          ],
+          "defs": [
+            "A ventilating shaft down which the air passes in circulating through a mine."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

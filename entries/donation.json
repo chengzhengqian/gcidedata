@@ -1,0 +1,67 @@
+{
+  "key": "donation",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Donation",
+      "headword_raw": "Do*na\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. donatio; cf. F. donation.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of giving or bestowing; a grant."
+          ],
+          "quotes": [
+            "After donation there is an absolute change and alienation of the property of the thing given."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That which is given as a present; that which is transferred to another gratuitously; a gift."
+          ],
+          "quotes": [
+            "And some donation freely to estate On the bless'd lovers."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "The act or contract by which a person voluntarily transfers the title to a thing of which be is the owner, from himself to another, without any consideration, as a free gift."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Gift",
+            "present",
+            "benefaction",
+            "grant. See Gift"
+          ]
+        }
+      ]
+    }
+  ]
+}

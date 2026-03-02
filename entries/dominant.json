@@ -1,0 +1,80 @@
+{
+  "key": "dominant",
+  "source_file": "CIDE.D",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Dominant",
+      "headword_raw": "Dom\"i*nant",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. dominans, -antis, p. pr. of dominari: cf. F. dominant. See Dominate.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "Governing",
+        "ruling",
+        "controlling",
+        "prevailing",
+        "predominant",
+        "ascendant"
+      ],
+      "entry_fields": [
+        "(Law)",
+        "(Law)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Ruling; governing; prevailing; controlling; predominant; as, the dominant party, church, spirit, power."
+          ],
+          "quotes": [
+            "The member of a dominant race is, in his dealings with the subject race, seldom indeed fraudulent, . . . but imperious, insolent, and cruel."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Dominant",
+      "headword_raw": "Dom\"i*nant",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Mus.)",
+        "(Mus.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The fifth tone of the scale; thus G is the dominant of C, A of D, and so on."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "key": "dr",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Dr.",
+      "headword_raw": "Dr.",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "doctor"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a licensed doctor of medicine."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "doctor",
+            "doc",
+            "physician",
+            "MD",
+            "medico"
+          ]
+        }
+      ]
+    }
+  ]
+}

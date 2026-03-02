@@ -1,0 +1,71 @@
+{
+  "key": "phosgene",
+  "source_file": "CIDE.P",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Phosgene",
+      "headword_raw": "Phos\"gene",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": "[Gr. fw^s light + the root of gi`gnesqai to be born: cf. F. phosgne.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Old Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Producing, or produced by, the action of light; -- used specifically to designate a gas also called carbonyl chloride. See phosgene, n., and Carbonyl."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "phosgene",
+      "headword_raw": "phos\"gene",
+      "pr": "(fs\"jēn or fz\"jēn)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A reactive chemical substance (COCl2), also called carbonyl choride, used in synthesis of numerous substances. In the First World War it was also used as a poisonous gas in combat."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

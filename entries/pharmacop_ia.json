@@ -1,0 +1,46 @@
+{
+  "key": "pharmacop_ia",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Pharmacopœia",
+      "headword_raw": "Phar`ma*co*p<oe/\"ia",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[NL., from Gr. farmakopoii:`a the preparation of medicines; fa`rmakon medicine + poiei^n to make.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A book or treatise describing the drugs, preparations, etc., used in medicine; especially, one that is issued by official authority and considered as an authoritative standard."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A chemical laboratory."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

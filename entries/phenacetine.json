@@ -1,0 +1,46 @@
+{
+  "key": "phenacetine",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Phenacetine",
+      "headword_raw": "Phe*nac\"e*tine",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Phenyl + acetic + -in.]",
+      "sources": [
+        "Webster 1913 Suppl.",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "N-(4-ethoxyphenyl)acetamide",
+        "p-acetophenetidide",
+        "p-ethoxyacetanilide",
+        "acetophenetidin",
+        "para-acetphenetidin",
+        "p-acetophenetide"
+      ],
+      "entry_fields": [
+        "(Pharm.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A white, crystalline compound, C10H13O2N, once used in medicine principally as an antipyretic. It is now seldom used because of serious side effects."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

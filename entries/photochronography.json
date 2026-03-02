@@ -1,0 +1,64 @@
+{
+  "key": "photochronography",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Photochronography",
+      "headword_raw": "Pho`to*chro*nog\"ra*phy",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Photochronographic",
+          "form_raw": "Pho`to*chron`o*graph\"ic",
+          "key": "photochronographic",
+          "pos": [],
+          "pr": "(#)"
+        },
+        {
+          "form": "-graphical",
+          "form_raw": "-graph\"ic*al",
+          "key": "graphical",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Photochronographically",
+          "form_raw": "Pho`to*chron`o*graph\"ic*al*ly",
+          "key": "photochronographically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Art of recording or measuring intervals of time by the photochronograph."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

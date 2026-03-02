@@ -1,0 +1,61 @@
+{
+  "key": "phonograph",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Phonograph",
+      "headword_raw": "Pho\"no*graph",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Phono- + -graph.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A character or symbol used to represent a sound, esp. one used in phonography."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Physics)"
+          ],
+          "defs": [
+            "An instrument for the mechanical registration and reproduction of audible sounds, as articulate speech, etc. An early simple version consisted of a rotating cylinder or disk covered with some material easily indented, as tinfoil, wax, paraffin, etc., above which is a thin plate carrying a stylus. As the plate vibrates under the influence of a sound, the stylus makes minute indentations or undulations in the soft material, and these, when the cylinder or disk is again turned, set the plate in vibration, and reproduce the sound. Modern versions use electronic circuitry and various more stable recording media to record sound more accurately."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "An instrument for reproducing sounds, especially music, previously recorded on a plastic cylinder or disk as a pattern of bumps or wiggles in a groove. A needle (stylus) held in the groove is made to vibrate by motion (rotation) of the recording, and the vibrations caused by the bumps and wiggles are transmitted directly to a membrane, or first transduced into electrical impulses and sent to an electronic amplifier circuit, thereby reproducing with greater or less fidelity the original sounds. A phonograph which is equipped with electronics enabling the playback of sound with high fidelity to the original is often called a hi-fi."
+          ],
+          "quotes": [],
+          "notes": [
+            "In the 1990's such devices are beginning to be replaced in many homes by compact disk players; the production of plastic recordings of music for playback on a phonograph has almost ceased for entertainment purposes."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

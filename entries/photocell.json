@@ -1,0 +1,39 @@
+{
+  "key": "photocell",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "photocell",
+      "headword_raw": "pho\"to*cell`",
+      "pr": "(fō\"t*sl`)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "photoelectric cell",
+        "electric eye"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An electrical device which changes voltage or resistance upon exposure to light, used to detect and measure light and other radiations."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

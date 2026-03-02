@@ -1,0 +1,46 @@
+{
+  "key": "pharmacy",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Pharmacy",
+      "headword_raw": "Phar\"ma*cy",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. fermacie, OF. farmacie, pharmacie, F. pharmacie, Gr. farmakei`a, fr. farmakey`ein to administer or use medicines, fr. fa`rmakon medicine.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The art or practice of preparing and preserving drugs, and of compounding and dispensing medicines according to prescriptions of physicians; the occupation of an apothecary or a pharmaceutical chemist."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A place where medicines are compounded; a drug store; an apothecary's shop."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

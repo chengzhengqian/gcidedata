@@ -1,0 +1,49 @@
+{
+  "key": "photo-engrave",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Photo-engrave",
+      "headword_raw": "Pho`to-en*grave\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "n."
+      ],
+      "ety": "[Photo- + engrave.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": "[imp. & p. p. Photo-engraved (?); p. pr. & vb. n. Photo-engraving.]",
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Photo-engraver",
+          "form_raw": "Pho`to-en*grav\"er",
+          "key": "photo-engraver",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To engrave by a photomechanical process; to make a photo-engraving of."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

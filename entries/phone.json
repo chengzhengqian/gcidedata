@@ -1,0 +1,104 @@
+{
+  "key": "phone",
+  "source_file": "CIDE.P",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Phone",
+      "headword_raw": "Phone",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[Colloq. for Telephone.]",
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "An instrument that converts sound into signals that can be transmitted over distances and then converts received signals back into sounds; a telephone; as, I talked to him on the phone."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "telephone",
+            "telephone set"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Phonetics)"
+          ],
+          "defs": [
+            "An individual sound unit of speech without concern as to whether or not it is a phoneme of some language. A speech sound."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "speech sound",
+            "sound"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A device for converting electric signals into sounds; it is held over or inserted into the ear."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "earearpiece",
+            "headphone",
+            "phone"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "phone",
+      "headword_raw": "phone",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "call",
+        "telephone",
+        "call up",
+        "ring"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To get or try to get into communication with, using a telephone; as, I phoned him this morning."
+          ],
+          "quotes": [
+            "E. T. phone home."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

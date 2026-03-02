@@ -1,0 +1,68 @@
+{
+  "key": "phobia",
+  "source_file": "CIDE.P",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "phobia",
+      "headword_raw": "pho\"bi*a",
+      "pr": "(fō\"b*)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "phobic disorder",
+        "phobic neurosis"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Any irrational and persistent fear, whether of a situation, activity, or object; a phobia typically leads to a strong desire to avoid the object of the phobia."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "-phobia",
+      "headword_raw": "-pho\"bi*a",
+      "pr": "(fō\"b*)",
+      "pos": [
+        "suffix"
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A combining form used as a suffix to designate specific phobias, such as agoraphobia (fear of public places), acrophobia (fear of heights). The first part of the combining form is usually derived from Greek."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

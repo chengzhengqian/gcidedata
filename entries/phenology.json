@@ -1,0 +1,68 @@
+{
+  "key": "phenology",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Phenology",
+      "headword_raw": "Phe*nol\"o*gy",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a.",
+        "adv."
+      ],
+      "ety": "[Contracted from Phenomenology.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Phenological",
+          "form_raw": "Phe`no*log\"ic*al",
+          "key": "phenological",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Phenologically",
+          "form_raw": "Phe`no*log\"ic*al*ly",
+          "key": "phenologically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Phenologist",
+          "form_raw": "Phe*nol\"o*gist",
+          "key": "phenologist",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Biol.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The science of the relations between climate and periodic biological phenomena, as the migrations and breeding of birds, the flowering and fruiting of plants, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

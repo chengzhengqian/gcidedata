@@ -1,0 +1,47 @@
+{
+  "key": "pharmaceutical",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Pharmaceutical",
+      "headword_raw": "Phar`ma*ceu\"tic*al",
+      "pr": "(-t*kl)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[L. pharmaceuticus, Gr. farmakeytiko`s, fr. farmakey`ein: cf. F. pharmaceutique. See Pharmacy.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Pharmaceutically",
+          "form_raw": "Phar`ma*ceu\"tic*al*ly",
+          "key": "pharmaceutically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to the knowledge or art of pharmacy, or to the art of preparing medicines according to the rules or formulas of pharmacy; as, pharmaceutical preparations."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "key": "phonogram",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Phonogram",
+      "headword_raw": "Pho\"no*gram",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Phono- + -gram.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A letter, character, or mark used to represent a particular sound."
+          ],
+          "quotes": [
+            "Phonograms are of three kinds: (1) Verbal signs, which stand for entire words; (2) Syllabic signs, which stand for the articulations of which words are composed; (3) Alphabetic signs, or letters, which represent the elementary sounds into which the syllable can be resolved."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A record of sounds made by a phonograph."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

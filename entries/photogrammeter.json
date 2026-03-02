@@ -1,0 +1,54 @@
+{
+  "key": "photogrammeter",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Photogrammeter",
+      "headword_raw": "Pho`to*gram\"me*ter",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[See Photogram; -meter.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Photogrammetric",
+          "form_raw": "Pho`to*gram*met\"ric",
+          "key": "photogrammetric",
+          "pos": [],
+          "pr": "(#)"
+        },
+        {
+          "form": "Photogrammetrical",
+          "form_raw": "Pho`to*gram*met\"ric*al",
+          "key": "photogrammetrical",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A phototheodolite, or a camera designed for use in photogrammetry."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "key": "armoured",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "armoured",
+      "headword_raw": "armoured",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "provided with protective covering; -- used of animals. Opposite of unarmored."
+          ],
+          "quotes": [],
+          "notes": [
+            "[Narrower terms: bone-covered ; scaly, scaley, scaled."
+          ],
+          "synonyms": [
+            "armored"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "same as armor-clad; -- used of persons or things military. Opposite of unarmored."
+          ],
+          "quotes": [],
+          "notes": [
+            "One that is aromour-clad is bulletproof. Narrower terms: lightly armored, lightly armoured; mail-clad, mailed; panzer; scaled"
+          ],
+          "synonyms": [
+            "armored"
+          ]
+        }
+      ]
+    }
+  ]
+}

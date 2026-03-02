@@ -1,0 +1,78 @@
+{
+  "key": "armoury",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "armoury",
+      "headword_raw": "armoury",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a collection of resources."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "armory",
+            "inventory"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "all the weapons and equipment that a country has."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "arsenal",
+            "armory"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "a military structure where arms and ammunition and other military equipment are stored and training is given in the use of arms."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "arsenal",
+            "armory"
+          ]
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "a place where arms are manufactured."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "armory",
+            "arsenal"
+          ]
+        }
+      ]
+    }
+  ]
+}

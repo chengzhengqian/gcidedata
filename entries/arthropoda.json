@@ -1,0 +1,49 @@
+{
+  "key": "arthropoda",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Arthropoda",
+      "headword_raw": "Ar*throp\"o*da",
+      "pr": "(<?/)",
+      "pos": [
+        "n. pl.",
+        "a."
+      ],
+      "ety": "[NL., fr. Gr. 'a`rqron joint + -poda.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Arthropodal",
+          "form_raw": "Ar*throp\"o*dal",
+          "key": "arthropodal",
+          "pos": [
+            "a."
+          ],
+          "pr": "(<?/)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Zool.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A large division of Articulata, embracing all those that have jointed legs. It includes Insects, Arachnida, Pychnogonida, and Crustacea."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "key": "argentina",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Argentina",
+      "headword_raw": "Argentina",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a country in South America, bordering Chile and Bolivia."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "the Argentine"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "type genus of the Argentinidae: argentines."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "genus Argentina"
+          ]
+        }
+      ]
+    }
+  ]
+}

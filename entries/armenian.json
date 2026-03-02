@@ -1,0 +1,77 @@
+{
+  "key": "armenian",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Armenian",
+      "headword_raw": "Ar*me\"ni*an",
+      "pr": "(<?/)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Cf. F. Armnien, L. Armenias, fr. Armenia.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to Armenia."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Armenian",
+      "headword_raw": "Ar*me\"ni*an",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A native or one of the people of Armenia; also, the language of the Armenians."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Eccl. Hist.)"
+          ],
+          "defs": [
+            "An adherent of the Armenian Church, an organization similar in some doctrines and practices to the Greek Church, in others to the Roman Catholic."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

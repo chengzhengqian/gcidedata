@@ -1,0 +1,73 @@
+{
+  "key": "armature",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Armature",
+      "headword_raw": "Ar\"ma*ture",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. armatura, fr. armare to arm: cf. F. armature. See Arm, v. t., Armor.]",
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Armor; whatever is worn or used for the protection and defense of the body, esp. the protective outfit of some animals and plants."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Magnetism)"
+          ],
+          "defs": [
+            "A piece of soft iron used to connect the two poles of a magnet, or electro-magnet, in order to complete the circuit, or to receive and apply the magnetic force. In the ordinary horseshoe magnet, it serves to prevent the dissipation of the magnetic force."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Arch.)"
+          ],
+          "defs": [
+            "Iron bars or framing employed for the consolidation of a building, as in sustaining slender columns, holding up canopies, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Elec.)"
+          ],
+          "defs": [
+            "That moving part of a dynamo or electric generator in which a current is induced by a moving through a magnetic field, or, in an electric motor, the part through which the applied current moves, thereby generating torque. The armature usually consists of a series of coils or groups of insulated conductors surrounding a core of iron."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

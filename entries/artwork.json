@@ -1,0 +1,42 @@
+{
+  "key": "artwork",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "artwork",
+      "headword_raw": "artwork",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "art",
+        "graphics",
+        "nontextual matter"
+      ],
+      "entry_fields": [
+        "(Publishing)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "photographs, illustrations, or other visual representations other than the text, in a printed publication."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

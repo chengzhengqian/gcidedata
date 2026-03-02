@@ -1,0 +1,77 @@
+{
+  "key": "argumentative",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Argumentative",
+      "headword_raw": "Ar`gu*men\"ta*tive",
+      "pr": "(<?/)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Argumentatively",
+          "form_raw": "Ar`gu*men\"ta*tive*ly",
+          "key": "argumentatively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Argumentativeness",
+          "form_raw": "Ar`gu*men\"ta*tive*ness",
+          "key": "argumentativeness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Consisting of, or characterized by, argument; containing a process of reasoning; as, an argumentative discourse."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Adductive as proof; indicative; as, the adaptation of things to their uses is argumentative of infinite wisdom in the Creator."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Given to argument; characterized by argument; disputatious; as, an argumentative writer."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

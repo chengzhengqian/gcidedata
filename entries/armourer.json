@@ -1,0 +1,51 @@
+{
+  "key": "armourer",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "armourer",
+      "headword_raw": "armourer",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "an enlisted man responsible for the upkeep of small arms and machine guns etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "armorer",
+            "artificer"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a manufacturer of firearms."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "armorer"
+          ]
+        }
+      ]
+    }
+  ]
+}

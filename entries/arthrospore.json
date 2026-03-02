@@ -1,0 +1,67 @@
+{
+  "key": "arthrospore",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Arthrospore",
+      "headword_raw": "Ar\"thro*spore",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Gr. <?/ joint + E. spore.]",
+      "sources": [
+        "Webster 1913 Suppl.",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Arthrosporic",
+          "form_raw": "Ar`thro*spor\"ic",
+          "key": "arthrosporic",
+          "pos": [],
+          "pr": "(#)"
+        },
+        {
+          "form": "Arthrosporous",
+          "form_raw": "Ar*thros\"po*rous",
+          "key": "arthrosporous",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Bacteriol.)"
+      ],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A bacterial resting cell, -- formerly considered a spore, but now known to occur even in endosporous bacteria."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "one of the small conidia occurring arranged in chains in certain fungi. Called also oidium."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

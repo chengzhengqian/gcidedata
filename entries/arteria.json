@@ -1,0 +1,38 @@
+{
+  "key": "arteria",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "arteria",
+      "headword_raw": "arteria",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a blood vessel that carries blood from the heart to the body."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "artery"
+          ]
+        }
+      ]
+    }
+  ]
+}

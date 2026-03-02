@@ -1,0 +1,81 @@
+{
+  "key": "artifact",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Artifact",
+      "headword_raw": "Ar\"ti*fact",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. ars, artis, art + facere, factum, to make.]",
+      "sources": [
+        "Webster 1913 Suppl.",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Archæol.)"
+          ],
+          "defs": [
+            "A product of human workmanship; -- applied esp. to the simpler products of aboriginal art as distinguished from natural objects."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "artefact"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Any product of human workmanship; -- applied both to objects made for practical purposes as well as works of art. It is contrasted to natural object, i.e. anything produced by natural forces without the intervention of man."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "artefact"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Biol.)"
+          ],
+          "defs": [
+            "A structure or appearance in protoplasm due to death, method of preparation of specimens, or the use of reagents, and not present during life."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "artefact"
+          ]
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Technology)"
+          ],
+          "defs": [
+            "an object, oservation, phenomenon, or result arising from hidden or unexpected causes extraneous to the subject of a study, and therefore spurious and having potential to lead one to an erroneous conclusion, or to invalidate the study. In experimental science, artifacts may arise due to inadvertant contamination of equipment, faulty experimental design or faulty analysis, or unexpected effects of agencies not known to affect the system under study."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "artefact"
+          ]
+        }
+      ]
+    }
+  ]
+}

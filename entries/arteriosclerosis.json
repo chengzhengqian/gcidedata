@@ -1,0 +1,50 @@
+{
+  "key": "arteriosclerosis",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Arteriosclerosis",
+      "headword_raw": "Ar*te`ri*o*scle*ro\"sis",
+      "pr": "(är*tē`r**skl*rō\"ss)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[NL.; Gr. <?/ artery + sclerosis.]",
+      "sources": [
+        "Webster 1913 Suppl.",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Arteriosclerotic",
+          "form_raw": "Ar*te`ri*o*scle*rot\"ic",
+          "key": "arteriosclerotic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a chronic disease characterized by abnormal thickening and hardening of the walls of the arteries, esp. of the intima, occurring mostly in old age. Subtypes are distinguished, such as arteriolosclerosis and atherosclerosis."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

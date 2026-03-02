@@ -1,0 +1,61 @@
+{
+  "key": "approximation",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Approximation",
+      "headword_raw": "Ap*prox`i*ma\"tion",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. approximation, LL. approximatio.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of approximating; a drawing, advancing or being near; approach; also, the result of approximating."
+          ],
+          "quotes": [
+            "The largest capacity and the most noble dispositions are but an approximation to the proper standard and true symmetry of human nature."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "An approach to a correct estimate, calculation, or conception, or to a given quantity, quality, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "A continual approach or coming nearer to a result; as, to solve an equation by approximation.",
+            "A value that is nearly but not exactly correct."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

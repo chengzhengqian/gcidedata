@@ -1,0 +1,61 @@
+{
+  "key": "arbitrage",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Arbitrage",
+      "headword_raw": "Ar\"bi*trage",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F., fr. arbiter to give judgment, L. arbitrari.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Judgment by an arbiter; authoritative determination."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Com.)"
+          ],
+          "defs": [
+            "A traffic in bills of exchange (see Arbitration of Exchange)."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Finance)"
+          ],
+          "defs": [
+            "the simultaneous or near simultaneous purchase and sale of the same or closely linked securities or commodities in different markets to make a profit on the (often small) differences in price."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

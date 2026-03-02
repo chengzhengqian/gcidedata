@@ -1,0 +1,103 @@
+{
+  "key": "arc",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Arc",
+      "headword_raw": "Arc",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. arc, L. arcus bow, arc. See Arch, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Geom.)"
+          ],
+          "defs": [
+            "A portion of a curved line; as, the arc of a circle or of an ellipse."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A curvature in the shape of a circular arc or an arch; as, the colored arc (the rainbow); the arc of Hadley's quadrant."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "An arch."
+          ],
+          "quotes": [
+            "Statues and trophies, and triumphal arcs."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "The apparent arc described, above or below the horizon, by the sun or other celestial body. The diurnal arc is described during the daytime, the nocturnal arc during the night."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Arc",
+      "headword_raw": "Arc",
+      "pr": "(ärk)",
+      "pos": [
+        "v. i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": "[imp. & p. p. Arcked (ärkt); p. pr. & vb. n. Arcking.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Elec.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To form a voltaic arc, as an electrical current in a broken or disconnected circuit."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

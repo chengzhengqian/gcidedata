@@ -1,0 +1,80 @@
+{
+  "key": "arbor",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Arbor",
+      "headword_raw": "Ar\"bor",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. herber, herbere, properly a garden of herbs, F. herbier, fr. L. herbarium. See Herb, and cf. Herbarium.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A kind of latticework formed of, or covered with, vines, branches of trees, or other plants, for shade; a bower."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Arbor",
+      "headword_raw": "Ar\"bor",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[L., a tree, a beam.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Bot.)"
+          ],
+          "defs": [
+            "A tree, as distinguished from a shrub."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mech.)"
+          ],
+          "defs": [
+            "An axle or spindle of a wheel or opinion.",
+            "A mandrel in lathe turning."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

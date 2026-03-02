@@ -1,0 +1,62 @@
+{
+  "key": "apsis",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Apsis",
+      "headword_raw": "Ap\"sis",
+      "pr": "(p\"ss)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. apsis, absis, Gr. \"apsi`s, \"apsi^dos, a tying, fastening, the hoop of a wheel, the wheel, a bow, arch, vault, fr. \"a`ptein to fasten.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Astron.)"
+          ],
+          "defs": [
+            "One of the two points of an orbit, as of a planet or satellite, which are at the greatest and least distance from the central body, corresponding to the aphelion and perihelion of a planet, or to the apogee and perigee of the moon. The more distant is called the higher apsis; the other, the lower apsis; and the line joining them, the line of apsides."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "In a curve referred to polar coördinates, any point for which the radius vector is a maximum or minimum."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Arch.)"
+          ],
+          "defs": [
+            "Same as Apse."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

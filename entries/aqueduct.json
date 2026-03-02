@@ -1,0 +1,50 @@
+{
+  "key": "aqueduct",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Aqueduct",
+      "headword_raw": "Aq\"ue*duct",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. aqueduc, OF. aqueduct (Cotgr.), fr. L. aquaeductus; aquae, gen. of aqua water + ductus a leading, ducere to lead. See Aqua, Duke.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A conductor, conduit, or artificial channel for conveying water, especially one for supplying large cities with water."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The term is also applied to a structure (similar to the ancient aqueducts), for conveying a canal over a river or hollow; more properly called an aqueduct bridge."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Anat.)"
+          ],
+          "defs": [
+            "A canal or passage; as, the aqueduct of Sylvius, a channel connecting the third and fourth ventricles of the brain."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

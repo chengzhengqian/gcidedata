@@ -1,0 +1,53 @@
+{
+  "key": "aqueous",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Aqueous",
+      "headword_raw": "A\"que*ous",
+      "pr": "(<?/)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Cf. F. aqueux, L. aquosus, fr. aqua. See Aqua, Aquose.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Partaking of the nature of water, or abounding with it; watery."
+          ],
+          "quotes": [
+            "The aqueous vapor of the air."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Anat.)",
+            "(Geol.)"
+          ],
+          "defs": [
+            "Made from, or by means of, water."
+          ],
+          "quotes": [
+            "An aqueous deposit."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "key": "archive",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Archive",
+      "headword_raw": "Ar\"chive",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. archives, pl., L. archivum, archium, fr. Gr. <?/ government house, <?/ <?/ archives, fr. <?/ the first place, government. See Archi-, pref.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The place in which public records or historic documents are kept."
+          ],
+          "quotes": [
+            "Our words . . . . become records in God's court, and are laid up in his archives as witnesses."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Public records or documents preserved as evidence of facts; as, the archives of a country or family."
+          ],
+          "quotes": [
+            "Some rotten archive, rummaged out of some seldom explored press."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Registers",
+            "records",
+            "chronicles"
+          ]
+        }
+      ]
+    }
+  ]
+}

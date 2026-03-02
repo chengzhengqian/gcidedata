@@ -1,0 +1,50 @@
+{
+  "key": "arcanum",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Arcanum",
+      "headword_raw": "Ar*ca\"num",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L., fr. arcanus closed, secret, fr. arca chest, box, fr. arcere to inclose. See Ark.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A secret; a mystery; -- generally used in the plural."
+          ],
+          "quotes": [
+            "Inquiries into the arcana of the Godhead."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "A secret remedy; an elixir."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

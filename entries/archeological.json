@@ -1,0 +1,83 @@
+{
+  "key": "archeological",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "archeological",
+      "headword_raw": "archeological",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "of or pertaining to archeology."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "related to or dealing with or devoted to archaeology."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "archaeological",
+            "archaeologic",
+            "archeologic"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Archeological",
+      "headword_raw": "Ar`che*o*log`ic*al",
+      "pr": "(<?/)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "archaeology",
+        "Archæology"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "the branch of anthropology that studies prehistoric people and their cultures. Same as Archæology, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

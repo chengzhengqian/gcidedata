@@ -1,0 +1,154 @@
+{
+  "key": "signal",
+  "source_file": "CIDE.S",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Signal",
+      "headword_raw": "Sig\"nal",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F., fr. LL. signale, fr. L. signum. See Sign, n.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A sign made for the purpose of giving notice to a person of some occurrence, command, or danger; also, a sign, event, or watchword, which has been agreed upon as the occasion of concerted action."
+          ],
+          "quotes": [
+            "All obeyed The wonted signal and superior voice Of this great potentate."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A token; an indication; a foreshadowing; a sign; anything taken as evidence of some process."
+          ],
+          "quotes": [
+            "The weary sun . . . Gives signal of a goodly day to-morrow.",
+            "There was not the least signal of the calamity to be seen."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Electronics)"
+          ],
+          "defs": [
+            "A measurable electrical quantity, such as voltage or current, that conveys information by varying in magnitude over time; as, the signals from the strongest commercial radio stations can be received over hundreds of miles."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Signal",
+      "headword_raw": "Sig\"nal",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": "[From signal, n.: cf. F. signal.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Noticeable; distinguished from what is ordinary; eminent; remarkable; memorable; as, a signal exploit; a signal service; a signal act of benevolence."
+          ],
+          "quotes": [
+            "As signal now in low, dejected state As erst in highest, behold him where he lies."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to signals, or the use of signals in conveying information; as, a signal flag or officer."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Eminent",
+            "remarkable",
+            "memorable",
+            "extraordinary",
+            "notable",
+            "conspicuous"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Signal",
+      "headword_raw": "Sig\"nal",
+      "pr": "(<?/)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Signaled (<?/) Signalled; p. pr. & vb. n. Signaling or Signalling.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To communicate by signals; as, to signal orders."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To notify by a signals; to make a signal or signals to; as, to signal a fleet to anchor."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

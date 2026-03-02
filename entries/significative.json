@@ -1,0 +1,71 @@
+{
+  "key": "significative",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Significative",
+      "headword_raw": "Sig*nif\"i*ca*tive",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. significativus: cf. F. significatif.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Significatively",
+          "form_raw": "Sig*nif\"i*ca*tive*ly",
+          "key": "significatively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Significativeness",
+          "form_raw": "Sig*nif\"i*ca*tive*ness",
+          "key": "significativeness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Betokening or representing by an external sign."
+          ],
+          "quotes": [
+            "The holy symbols or signs are not barely significative."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Having signification or meaning; expressive of a meaning or purpose; significant."
+          ],
+          "quotes": [
+            "Neither in the degrees of kindred they were destitute of significative words."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

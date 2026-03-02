@@ -1,0 +1,59 @@
+{
+  "key": "shrewish",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Shrewish",
+      "headword_raw": "Shrew\"ish",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Shrewishly",
+          "form_raw": "Shrew\"ish*ly",
+          "key": "shrewishly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Shrewishness",
+          "form_raw": "Shrew\"ish*ness",
+          "key": "shrewishness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "having the qualities of a shrew; having a scolding disposition; froward; peevish."
+          ],
+          "quotes": [
+            "My wife is shrewish when I keep not hours."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

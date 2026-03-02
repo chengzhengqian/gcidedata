@@ -1,0 +1,385 @@
+{
+  "key": "shoot",
+  "source_file": "CIDE.S",
+  "record_count": 4,
+  "records": [
+    {
+      "headword": "Shoot",
+      "headword_raw": "Shoot",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. chute. See Chute. Confused with shoot to let fly.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An inclined plane, either artificial or natural, down which timber, coal, etc., are caused to slide; also, a narrow passage, either natural or artificial, in a stream, where the water rushes rapidly; esp., a channel, having a swift current, connecting the ends of a bend in the stream, so as to shorten the course."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Shoot",
+      "headword_raw": "Shoot",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "v. i."
+      ],
+      "ety": "[OE. shotien, schotien, AS. scotian, v. i., scetan; akin to D. schieten, G. schie<?/en, OHG. sciozan, Icel. skj<?/ta, Sw. skjuta, Dan. skyde; cf. Skr. skund to jump. √159. Cf. Scot a contribution, Scout to reject, Scud, Scuttle, v. i., Shot, Sheet, Shut, Shuttle, Skittish, Skittles.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Shot (?); p. pr. & vb. n. Shooting. The old participle Shotten is obsolete. See Shotten.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To let fly, or cause to be driven, with force, as an arrow or a bullet; -- followed by a word denoting the missile, as an object."
+          ],
+          "quotes": [
+            "If you please To shoot an arrow that self way."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To discharge, causing a missile to be driven forth; -- followed by a word denoting the weapon or instrument, as an object; -- often with off; as, to shoot a gun."
+          ],
+          "quotes": [
+            "The two ends od a bow, shot off, fly from one another."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To strike with anything shot; to hit with a missile; often, to kill or wound with a firearm; -- followed by a word denoting the person or thing hit, as an object."
+          ],
+          "quotes": [
+            "When Roger shot the hawk hovering over his master's dove house."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "To send out or forth, especially with a rapid or sudden motion; to cast with the hand; to hurl; to discharge; to emit."
+          ],
+          "quotes": [
+            "An honest weaver as ever shot shuttle.",
+            "A pit into which the dead carts had nightly shot corpses by scores."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "To push or thrust forward; to project; to protrude; -- often with out; as, a plant shoots out a bud."
+          ],
+          "quotes": [
+            "They shoot out the lip, they shake the head.",
+            "Beware the secret snake that shoots a sting."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [
+            "(Carp.)"
+          ],
+          "defs": [
+            "To plane straight; to fit by planing."
+          ],
+          "quotes": [
+            "Two pieces of wood that are shot, that is, planed or else pared with a paring chisel."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "7.",
+          "fields": [],
+          "defs": [
+            "To pass rapidly through, over, or under; as, to shoot a rapid or a bridge; to shoot a sand bar."
+          ],
+          "quotes": [
+            "She . . . shoots the Stygian sound."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "8.",
+          "fields": [],
+          "defs": [
+            "To variegate as if by sprinkling or intermingling; to color in spots or patches."
+          ],
+          "quotes": [
+            "The tangled water courses slept, Shot over with purple, and green, and yellow."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Shoot",
+      "headword_raw": "Shoot",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To cause an engine or weapon to discharge a missile; -- said of a person or an agent; as, they shot at a target; he shoots better than he rides."
+          ],
+          "quotes": [
+            "The archers have . . . shot at him."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To discharge a missile; -- said of an engine or instrument; as, the gun shoots well."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To be shot or propelled forcibly; -- said of a missile; to be emitted or driven; to move or extend swiftly, as if propelled; as, a shooting star."
+          ],
+          "quotes": [
+            "There shot a streaming lamp along the sky."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "To penetrate, as a missile; to dart with a piercing sensation; as, shooting pains."
+          ],
+          "quotes": [
+            "Thy words shoot through my heart."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "To feel a quick, darting pain; to throb in pain."
+          ],
+          "quotes": [
+            "These preachers make His head to shoot and ache."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [],
+          "defs": [
+            "To germinate; to bud; to sprout."
+          ],
+          "quotes": [
+            "Onions, as they hang, will shoot forth.",
+            "But the wild olive shoots, and shades the ungrateful plain."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "7.",
+          "fields": [],
+          "defs": [
+            "To grow; to advance; as, to shoot up rapidly."
+          ],
+          "quotes": [
+            "Well shot in years he seemed.",
+            "Delightful task! to rear the tender thought, To teach the young idea how to shoot."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "8.",
+          "fields": [],
+          "defs": [
+            "To change form suddenly; especially, to solidify."
+          ],
+          "quotes": [
+            "If the menstruum be overcharged, metals will shoot into crystals."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "9.",
+          "fields": [],
+          "defs": [
+            "To protrude; to jut; to project; to extend; as, the land shoots into a promontory."
+          ],
+          "quotes": [
+            "There shot up against the dark sky, tall, gaunt, straggling houses."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "10.",
+          "fields": [
+            "(Naut.)"
+          ],
+          "defs": [
+            "To move ahead by force of momentum, as a sailing vessel when the helm is put hard alee."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Shoot",
+      "headword_raw": "Shoot",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[Perh. a different word.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of shooting; the discharge of a missile; a shot; as, the shoot of a shuttle."
+          ],
+          "quotes": [
+            "The Turkish bow giveth a very forcible shoot.",
+            "One underneath his horse to get a shoot doth stalk."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A young branch or growth."
+          ],
+          "quotes": [
+            "Superfluous branches and shoots of this second spring."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A rush of water; a rapid."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Min.)"
+          ],
+          "defs": [
+            "A vein of ore running in the same general direction as the lode."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Weaving)"
+          ],
+          "defs": [
+            "A weft thread shot through the shed by the shuttle; a pick."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [],
+          "defs": [
+            "A shoat; a young hog."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

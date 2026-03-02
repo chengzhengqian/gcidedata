@@ -1,0 +1,158 @@
+{
+  "key": "shunt",
+  "source_file": "CIDE.S",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Shunt",
+      "headword_raw": "Shunt",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[Prov. E., to move from, to put off, fr. OE. shunten, schunten, schounten; cf. D. schuinte a slant, slope, Icel. skunda to hasten. Cf. Shun.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Shunted; p. pr. & vb. n. Shunting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To shun; to move from."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To cause to move suddenly; to give a sudden start to; to shove."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To turn off to one side; especially, to turn off, as a grain or a car upon a side track; to switch off; to shift."
+          ],
+          "quotes": [
+            "For shunting your late partner on to me."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Elec.)"
+          ],
+          "defs": [
+            "To provide with a shunt; as, to shunt a galvanometer."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Shunt",
+      "headword_raw": "Shunt",
+      "pr": "(?)",
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To go aside; to turn off."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Shunt",
+      "headword_raw": "Shunt",
+      "pr": null,
+      "pos": [
+        "n.",
+        "v. t."
+      ],
+      "ety": "[Cf. D. schuinte slant, slope, declivity. See Shunt, v. t.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Railroad)"
+          ],
+          "defs": [
+            "A turning off to a side or short track, that the principal track may be left free."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Elec.)"
+          ],
+          "defs": [
+            "A conducting circuit joining two points in a conductor, or the terminals of a galvanometer or dynamo, so as to form a parallel or derived circuit through which a portion of the current may pass, for the purpose of regulating the amount passing in the main circuit."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Gunnery)",
+            "(Elec.)"
+          ],
+          "defs": [
+            "The shifting of the studs on a projectile from the deep to the shallow sides of the grooves in its discharge from a shunt gun."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

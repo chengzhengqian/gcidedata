@@ -1,0 +1,98 @@
+{
+  "key": "shrewd",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Shrewd",
+      "headword_raw": "Shrewd",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "Compar.",
+        "superl.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Originally the p. p. of shrew, v.t.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "Shrewd, Sagacious. One who is shrewd is keen to detect errors, to penetrate disguises, to foresee and guard against the selfishness of others. Shrewd is a word of less dignity than sagacious, which implies a comprehensive as well as penetrating mind, whereas shrewd does not."
+      ],
+      "wordforms": [
+        {
+          "form": "Shrewdly",
+          "form_raw": "Shrewd\"ly",
+          "key": "shrewdly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Shrewdness",
+          "form_raw": "Shrewd\"ness",
+          "key": "shrewdness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Inclining to shrew; disposing to curse or scold; hence, vicious; malicious; evil; wicked; mischievous; vexatious; rough; unfair; shrewish."
+          ],
+          "quotes": [
+            "[Egypt] hath many shrewd havens, because of the great rocks that ben strong and dangerous to pass by.",
+            "Every of this happy number That have endured shrewd days and nights with us."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Artful; wily; cunning; arch."
+          ],
+          "quotes": [
+            "These women are shrewd tempters with their tongues."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Able or clever in practical affairs; sharp in business; astute; sharp-witted; sagacious; keen; as, a shrewd observer; a shrewd design; a shrewd reply."
+          ],
+          "quotes": [
+            "Professing to despise the ill opinion of mankind creates a shrewd suspicion that we have deserved it."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Keen",
+            "critical",
+            "subtle",
+            "artful",
+            "astute",
+            "sagacious",
+            "discerning",
+            "acute",
+            "penetrating"
+          ]
+        }
+      ]
+    }
+  ]
+}

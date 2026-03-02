@@ -1,0 +1,81 @@
+{
+  "key": "significant",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Significant",
+      "headword_raw": "Sig*nif\"i*cant",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. significans, -antis, p. pr. of significare. See Signify.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Fitted or designed to signify or make known something having a meaning; standing as a sign or token; expressive or suggestive; as, a significant word or sound; a significant look."
+          ],
+          "quotes": [
+            "It was well said of Plotinus, that the stars were significant, but not efficient."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Arith.)"
+          ],
+          "defs": [
+            "Deserving to be considered; important; momentous; as, a significant event."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Significant",
+      "headword_raw": "Sig*nif\"i*cant",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "That which has significance; a sign; a token; a symbol."
+          ],
+          "quotes": [
+            "In dumb significants proclaim your thoughts."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

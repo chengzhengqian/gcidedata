@@ -1,0 +1,36 @@
+{
+  "key": "shunt_valve",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Shunt valve",
+      "headword_raw": "Shunt valve",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Mach.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A valve permitting a fluid under pressure an easier avenue of escape than normally; specif., a valve, actuated by the governor, used in one system of marine-engine governing to connect both ends of the low-pressure cylinder as a supplementary control."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

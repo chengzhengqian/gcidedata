@@ -1,0 +1,81 @@
+{
+  "key": "sightless",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Sightless",
+      "headword_raw": "Sight\"less",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Sightlessly",
+          "form_raw": "Sight\"less*ly",
+          "key": "sightlessly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Sightlessness",
+          "form_raw": "Sight\"less*ness",
+          "key": "sightlessness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Lacking sight; without sight; blind."
+          ],
+          "quotes": [
+            "Of all who blindly creep or sightless soar."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That can not be seen; invisible."
+          ],
+          "quotes": [
+            "The sightless couriers of the air."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Offensive or unpleasing to the eye; unsightly; as, sightless stains."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

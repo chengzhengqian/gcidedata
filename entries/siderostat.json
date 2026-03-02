@@ -1,0 +1,38 @@
+{
+  "key": "siderostat",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Siderostat",
+      "headword_raw": "Sid\"er*o*stat",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. sidus, sideris, a star + Gr. <?/<?/<?/ standing, fixed, fr. <?/<?/<?/<?/ to place.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Astron.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An apparatus consisting essentially of a mirror moved by clockwork so as to throw the rays of the sun or a star in a fixed direction; -- a more general term for heliostat."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

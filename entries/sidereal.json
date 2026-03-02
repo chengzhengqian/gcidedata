@@ -1,0 +1,48 @@
+{
+  "key": "sidereal",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Sidereal",
+      "headword_raw": "Si*de\"re*al",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. sidereus, from sidus, sideris, a constellation, a star. Cf. Sideral, Consider, Desire.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Relating to the stars; starry; astral; as, sidereal astronomy."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Astron.)"
+          ],
+          "defs": [
+            "Measuring by the apparent motion of the stars; designated, marked out, or accompanied, by a return to the same position in respect to the stars; as, the sidereal revolution of a planet; a sidereal day."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

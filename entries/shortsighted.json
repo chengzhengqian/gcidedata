@@ -1,0 +1,79 @@
+{
+  "key": "shortsighted",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Shortsighted",
+      "headword_raw": "Short\"sight`ed",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Shortsightedly",
+          "form_raw": "Short\"sight`ed*ly",
+          "key": "shortsightedly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Shortsightedness",
+          "form_raw": "Short\"sight`ed*ness",
+          "key": "shortsightedness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Not able to see far; nearsighted; myopic. See Myopic, and Myopia."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Fig.: Not able to look far into futurity; unable to understand things deep; of limited intellect."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Having little regard for the future; heedless."
+          ],
+          "quotes": [
+            "Cunning is a kind of shortsightedness."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

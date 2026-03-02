@@ -1,0 +1,72 @@
+{
+  "key": "wireless",
+  "source_file": "CIDE.W",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Wireless",
+      "headword_raw": "Wire\"less",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl.",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Elec.)",
+        "(Elec.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Having no wire;",
+            "designating, or pertaining to, a method of telegraphy, telephony, or other information transmisssion, in which the messages, data, etc., are transmitted through space by electric waves; as, a wireless message; a wireless network; a wireless keyboard."
+          ],
+          "quotes": [],
+          "notes": [
+            "Although more or less successful researchers were made on the subject by Joseph Henry, Hertz, Oliver Lodge, and others, the first commercially successful system was that of Guglielmo Marconi, patented in March, 1897. Marconi employed electric waves of high frequency set up by an induction coil in an oscillator, these waves being launched into space through a lofty antenna. The receiving apparatus consisted of another antenna in circuit with a coherer and small battery for operating through a relay the ordinary telegraphic receiver. This apparatus contains the essential features of all the systems now in use."
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Wireless",
+      "headword_raw": "Wire\"less",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Short for Wireless telegraphy, Wireless telephony, etc.; as, to send a message by wireless."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "key": "withdraw",
+  "source_file": "CIDE.W",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Withdraw",
+      "headword_raw": "With*draw\"",
+      "pr": "(w*dr\")",
+      "pos": [
+        "v. t.",
+        "imp.",
+        "p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[With against + draw.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. Withdrew (-dr\"); p. p. Withdrawn (-drn\"); p. pr. & vb. n. Withdrawing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To take back or away, as what has been bestowed or enjoyed; to draw back; to cause to move away or retire; as, to withdraw aid, favor, capital, or the like."
+          ],
+          "quotes": [
+            "Impossible it is that God should withdraw his presence from anything."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To take back; to recall or retract; as, to withdraw false charges."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Withdraw",
+      "headword_raw": "With*draw\"",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "recede",
+        "retrograde",
+        "go back"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To retire; to retreat; to quit a company or place; to go away; as, he withdrew from the company."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "key": "wondrous",
+  "source_file": "CIDE.W",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Wondrous",
+      "headword_raw": "Won\"drous",
+      "pr": "(?)",
+      "pos": [
+        "adv.",
+        "n."
+      ],
+      "ety": "[OE. wonders, adv. (later also adj.). See Wonder, n., and cf. -wards.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "In a wonderful or surprising manner or degree; wonderfully."
+          ],
+          "quotes": [
+            "For sylphs, yet mindful of their ancient race, Are, as when women, wondrous fond of place.",
+            "And now there came both mist and snow, And it grew wondrous cold."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Wondrous",
+      "headword_raw": "Won\"drous",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Wondrously",
+          "form_raw": "Won\"drous*ly",
+          "key": "wondrously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Wondrousness",
+          "form_raw": "Won\"drous*ness",
+          "key": "wondrousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Wonderful; astonishing; admirable; marvelous; such as excite surprise and astonishment; strange."
+          ],
+          "quotes": [
+            "That I may . . . tell of all thy wondrous works.",
+            "Chloe complains, and wondrously's aggrieved."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

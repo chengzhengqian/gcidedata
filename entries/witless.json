@@ -1,0 +1,60 @@
+{
+  "key": "witless",
+  "source_file": "CIDE.W",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Witless",
+      "headword_raw": "Wit\"less",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Witlessly",
+          "form_raw": "Wit\"less*ly",
+          "key": "witlessly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Witlessness",
+          "form_raw": "Wit\"less*ness",
+          "key": "witlessness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Destitute of wit or understanding; wanting thought; hence, indiscreet; not under the guidance of judgment."
+          ],
+          "quotes": [
+            "A witty mother! witless else her son.",
+            "Witless pity breedeth fruitless love."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "key": "wistful",
+  "source_file": "CIDE.W",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Wistful",
+      "headword_raw": "Wist\"ful",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[For wishful; perhaps influenced by wistly, which is probably corrupted from OE. wisly certainly (from Icel. viss certain, akin to E. wit). See Wish.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Wistfully",
+          "form_raw": "Wist\"ful*ly",
+          "key": "wistfully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Wistfulness",
+          "form_raw": "Wist\"ful*ness",
+          "key": "wistfulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Longing; wishful; desirous."
+          ],
+          "quotes": [
+            "Lifting up one of my sashes, I cast many a wistful, melancholy look towards the sea."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Full of thought; eagerly attentive; meditative; musing; pensive; contemplative."
+          ],
+          "quotes": [
+            "That he who there at such an hour hath been, Will wistful linger on that hallowed spot."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

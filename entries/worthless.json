@@ -1,0 +1,59 @@
+{
+  "key": "worthless",
+  "source_file": "CIDE.W",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Worthless",
+      "headword_raw": "Worth\"less",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[AS. weorðles.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Worthlessly",
+          "form_raw": "Worth\"less*ly",
+          "key": "worthlessly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Worthlessness",
+          "form_raw": "Worth\"less*ness",
+          "key": "worthlessness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Destitute of worth; having no value, virtue, excellence, dignity, or the like; undeserving; valueless; useless; vile; mean; as, a worthless garment; a worthless ship; a worthless man or woman; a worthless magistrate."
+          ],
+          "quotes": [
+            "'T is a worthless world to win or lose."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

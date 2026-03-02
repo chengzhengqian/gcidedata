@@ -1,0 +1,68 @@
+{
+  "key": "wine",
+  "source_file": "CIDE.W",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Wine",
+      "headword_raw": "Wine",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. win, AS. win, fr. L. vinum (cf. Icel. vīn; all from the Latin); akin to Gr. o'i^nos, <?/, and E. withy. Cf. Vine, Vineyard, Vinous, Withy.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The expressed juice of grapes, esp. when fermented; a beverage or liquor prepared from grapes by squeezing out their juice, and (usually) allowing it to ferment."
+          ],
+          "quotes": [
+            "Wine is a mocker, strong drink is raging, and whosoever is deceived thereby is not wise.",
+            "Bacchus, that first from out the purple grape Crushed the sweet poison of misused wine."
+          ],
+          "notes": [
+            "☞ Wine is essentially a dilute solution of ethyl alcohol, containing also certain small quantities of ethers and ethereal salts which give character and bouquet. According to their color, strength, taste, etc., wines are called red, white, spirituous, dry, light, still, etc."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A liquor or beverage prepared from the juice of any fruit or plant by a process similar to that for grape wine; as, currant wine; gooseberry wine; palm wine."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Chem.)",
+            "(Bot.)",
+            "(Zool.)",
+            "(Pharm.)"
+          ],
+          "defs": [
+            "The effect of drinking wine in excess; intoxication."
+          ],
+          "quotes": [
+            "Noah awoke from his wine."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

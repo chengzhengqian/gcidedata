@@ -1,0 +1,52 @@
+{
+  "key": "woad",
+  "source_file": "CIDE.W",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Woad",
+      "headword_raw": "Woad",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. wod, AS. wād; akin to D. weede, G. waid, OHG. weit, Dan. vaid, veid, Sw. veide, L. vitrum.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Bot.)"
+          ],
+          "defs": [
+            "An herbaceous cruciferous plant (Isatis tinctoria) of the family Cruciferae (syn. Brassicaceae). It was formerly cultivated for the blue coloring matter derived from its leaves. See isatin."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Bot.)"
+          ],
+          "defs": [
+            "A blue dyestuff, or coloring matter, consisting of the powdered and fermented leaves of the Isatis tinctoria. It is now superseded by indigo, but is somewhat used with indigo as a ferment in dyeing."
+          ],
+          "quotes": [
+            "Their bodies . . . painted with woad in sundry figures."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

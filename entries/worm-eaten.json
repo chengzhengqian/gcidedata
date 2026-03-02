@@ -1,0 +1,59 @@
+{
+  "key": "worm-eaten",
+  "source_file": "CIDE.W",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Worm-eaten",
+      "headword_raw": "Worm\"-eat`en",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Worm-eatenness",
+          "form_raw": "Worm\"-eat`en*ness",
+          "key": "worm-eatenness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Eaten, or eaten into, by a worm or by worms; as, worm-eaten timber."
+          ],
+          "quotes": [
+            "Concave as a covered goblet, or a worm-eaten nut."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Worn-out; old; worthless."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

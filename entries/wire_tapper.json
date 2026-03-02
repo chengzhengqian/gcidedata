@@ -1,0 +1,45 @@
+{
+  "key": "wire_tapper",
+  "source_file": "CIDE.W",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Wire tapper",
+      "headword_raw": "Wire tapper",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Wire tapping",
+          "form_raw": "Wire tapping",
+          "key": "wire_tapping",
+          "pos": [],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Slang)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "One that taps, or cuts in on, telegraph wires and intercepts messages;",
+            "a swindler who pretends to tap wires or otherwise intercept advance telegraphic news for betting."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

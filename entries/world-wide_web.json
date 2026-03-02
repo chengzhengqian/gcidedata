@@ -1,0 +1,40 @@
+{
+  "key": "world-wide_web",
+  "source_file": "CIDE.W",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "world-wide web",
+      "headword_raw": "world\"-wide` web\"",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "Web",
+        "the web",
+        "WWW"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The collective total of all computer installations that are connected to the internet and provide access to other computers connected to the internet, using hypertext transfer protocol, to computer files called web pages, which may have text, graphics, audio or animated video data, as well as pages which may provide data or information in all those forms."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

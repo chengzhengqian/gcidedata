@@ -1,0 +1,105 @@
+{
+  "key": "satiate",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Satiate",
+      "headword_raw": "Sa\"ti*ate",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. satiatus, p. p. of satiare to satisfy, from sat, satis, enough. See Sad, a., and cf. Sate.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Filled to satiety; glutted; sated; -- followed by with or of."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Satiate",
+      "headword_raw": "Sa\"ti*ate",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Satiated (?); p. pr. & vb. n. Satiating.]",
+      "usage": [
+        "Satiate, Satisfy, Content. These words differ principally in degree. To content is to make contented, even though every desire or appetite is not fully gratified. To satisfy is to appease fully the longings of desire. To satiate is to fill so completely that it is not possible to receive or enjoy more; hence, to overfill; to cause disgust in."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To satisfy the appetite or desire of; to feed to the full; to furnish enjoyment to, to the extent of desire; to sate; as, to satiate appetite or sense."
+          ],
+          "quotes": [
+            "These [smells] rather woo the sense than satiate it.",
+            "I may yet survive the malice of my enemies, although they should be satiated with my blood."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To full beyond natural desire; to gratify to repletion or loathing; to surfeit; to glut."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To saturate."
+          ],
+          "quotes": [
+            "Content with science in the vale of peace.",
+            "His whole felicity is endless strife; No peace, no satisfaction, crowns his life.",
+            "He may be satiated, but not satisfied."
+          ],
+          "notes": [],
+          "synonyms": [
+            "satisfy",
+            "sate",
+            "suffice",
+            "cloy",
+            "gorge",
+            "overfill",
+            "surfeit",
+            "glut"
+          ]
+        }
+      ]
+    }
+  ]
+}

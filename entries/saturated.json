@@ -1,0 +1,51 @@
+{
+  "key": "saturated",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Saturated",
+      "headword_raw": "Sat\"u*ra`ted",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Filled to repletion; holding by absorption, or in solution, all that is possible; as, saturated garments; a saturated solution of salt."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Chem.)",
+            "(Optics)"
+          ],
+          "defs": [
+            "Having its affinity satisfied; combined with all it can hold; -- said of certain atoms, radicals, or compounds; thus, methane is a saturated compound. Contrasted with unsaturated."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ A saturated compound may exchange certain ingredients for others, but can not take on more without such exchange."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "key": "satire",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Satire",
+      "headword_raw": "Sat\"ire",
+      "pr": "(?; in Eng. often <?/; 277)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[L. satira, satura, fr. satura (sc. lanx) a dish filled with various kinds of fruits, food composed of various ingredients, a mixture, a medley, fr. satur full of food, sated, fr. sat, satis, enough: cf. F. satire. See Sate, Sad, a., and cf. Saturate.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A composition, generally poetical, holding up vice or folly to reprobation; a keen or severe exposure of what in public or private morals deserves rebuke; an invective poem; as, the Satires of Juvenal."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Keenness and severity of remark; caustic exposure to reprobation; trenchant wit; sarcasm."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Lampoon",
+            "sarcasm",
+            "irony",
+            "ridicule",
+            "pasquinade",
+            "burlesque",
+            "wit",
+            "humor"
+          ]
+        }
+      ]
+    }
+  ]
+}

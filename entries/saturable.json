@@ -1,0 +1,47 @@
+{
+  "key": "saturable",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Saturable",
+      "headword_raw": "Sat\"u*ra*ble",
+      "pr": "(?; 135)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": "[L. saturabilis: cf. F. saturable.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Saturability",
+          "form_raw": "Sat`u*ra*bil\"i*ty",
+          "key": "saturability",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Capable of being saturated; admitting of saturation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

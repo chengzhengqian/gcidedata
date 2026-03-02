@@ -1,0 +1,92 @@
+{
+  "key": "sanction",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Sanction",
+      "headword_raw": "Sanc\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. sanctio, from sancire, sanctum to render sacred or inviolable, to fix unalterably: cf. F. sanction. See Saint.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Solemn or ceremonious ratification; an official act of a superior by which he ratifies and gives validity to the act of some other person or body; establishment or furtherance of anything by giving authority to it; confirmation; approbation."
+          ],
+          "quotes": [
+            "The strictest professors of reason have added the sanction of their testimony."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Anything done or said to enforce the will, law, or authority of another; as, legal sanctions."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Ratification",
+            "authorization",
+            "authority",
+            "countenance",
+            "support"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Sanction",
+      "headword_raw": "Sanc\"tion",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Sanctioned (?); p. pr. & vb. n. Sanctioning.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "ratify",
+        "confirm",
+        "authorize",
+        "countenance"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To give sanction to; to ratify; to confirm; to approve."
+          ],
+          "quotes": [
+            "Would have counseled, or even sanctioned, such perilous experiments."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

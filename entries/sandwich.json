@@ -1,0 +1,67 @@
+{
+  "key": "sandwich",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Sandwich",
+      "headword_raw": "Sand\"wich",
+      "pr": "(?; 277)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Named from the Earl of Sandwich.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Two pieces of bread and butter with a thin slice of meat, cheese, or the like, between them."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Sandwich",
+      "headword_raw": "Sand\"wich",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Sandwiched (?); p. pr. & vb. n. Sandwiching.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To make into a sandwich; also, figuratively, to insert between portions of something dissimilar; to form of alternate parts or things, or alternating layers of a different nature; to interlard."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

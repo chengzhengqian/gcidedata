@@ -1,0 +1,85 @@
+{
+  "key": "saturate",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Saturate",
+      "headword_raw": "Sat\"u*rate",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. saturatus, p. p. of saturare to saturate, fr. satur full of food, sated. See Satire.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Saturated (?); p. pr. & vb. n. Saturating.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To cause to become completely penetrated, impregnated, or soaked; to fill fully; to sate."
+          ],
+          "quotes": [
+            "Innumerable flocks and herds covered that vast expanse of emerald meadow saturated with the moisture of the Atlantic.",
+            "Fill and saturate each kind With good according to its mind."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "To satisfy the affinity of; to cause to become inert by chemical combination with all that it can hold; as, to saturate phosphorus with chlorine."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Saturate",
+      "headword_raw": "Sat\"u*rate",
+      "pr": "(?)",
+      "pos": [
+        "p. a."
+      ],
+      "ety": "[L. saturatus, p. p.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Filled to repletion; saturated; soaked."
+          ],
+          "quotes": [
+            "Dries his feathers saturate with dew.",
+            "The sand beneath our feet is saturate With blood of martyrs."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

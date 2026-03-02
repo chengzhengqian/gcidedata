@@ -1,0 +1,79 @@
+{
+  "key": "saturant",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Saturant",
+      "headword_raw": "Sat\"u*rant",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. saturans, p. pr. See Saturate.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Impregnating to the full; saturating."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Saturant",
+      "headword_raw": "Sat\"u*rant",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "A substance used to neutralize or saturate the affinity of another substance."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "An antacid, as magnesia, used to correct acidity of the stomach."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

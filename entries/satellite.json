@@ -1,0 +1,80 @@
+{
+  "key": "satellite",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Satellite",
+      "headword_raw": "Sat\"el*lite",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F., fr. L. satelles, -itis, an attendant.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "An attendant attached to a prince or other powerful person; hence, an obsequious dependent."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Astron.)",
+            "(Zool.)"
+          ],
+          "defs": [
+            "A secondary planet which revolves about another planet; as, the moon is a satellite of the earth. See Solar system, under Solar."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Satellite",
+      "headword_raw": "Sat\"el*lite",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Anat.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Situated near; accompanying; as, the satellite veins, those which accompany the arteries."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

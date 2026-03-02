@@ -1,0 +1,40 @@
+{
+  "key": "saponify",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Saponify",
+      "headword_raw": "Sa*pon\"i*fy",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. sapo, -onis, soap + -fy: cf. F. saponifier.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Saponified (?); p. pr. & vb. n. Saponifying (?).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To convert into soap, as tallow or any fat; hence (Chem.), to subject to any similar process, as that which ethereal salts undergo in decomposition; as, to saponify ethyl acetate."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "key": "saturation",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Saturation",
+      "headword_raw": "Sat`u*ra\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. saturatio: cf. F. saturation.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of saturating, or the state of being saturating; complete penetration or impregnation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "The act, process, or result of saturating a substance, or of combining it to its fullest extent."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Optics)"
+          ],
+          "defs": [
+            "Freedom from mixture or dilution with white; purity; -- said of colors."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The degree of saturation of a color is its relative purity, or freedom from admixture with white."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

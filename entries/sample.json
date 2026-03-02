@@ -1,0 +1,92 @@
+{
+  "key": "sample",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Sample",
+      "headword_raw": "Sam\"ple",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. sample, asaumple, OF. essample, example, fr. L. exemplum. See Example, and cf. Ensample, Sampler.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Example; pattern."
+          ],
+          "quotes": [
+            "Thus he concludes, and every hardy knight His sample followed."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A part of anything presented for inspection, or shown as evidence of the quality of the whole; a specimen; as, goods are often purchased by samples."
+          ],
+          "quotes": [
+            "I design this but for a sample of what I hope more fully to discuss."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Specimen",
+            "example. See Specimen"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Sample",
+      "headword_raw": "Sam\"ple",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To make or show something similar to; to match."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To take or to test a sample or samples of; as, to sample sugar, teas, wools, cloths."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

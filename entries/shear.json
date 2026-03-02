@@ -1,0 +1,196 @@
+{
+  "key": "shear",
+  "source_file": "CIDE.S",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Shear",
+      "headword_raw": "Shear",
+      "pr": "(shēr)",
+      "pos": [
+        "v. t.",
+        "imp.",
+        "p. p.",
+        "p. pr. & vb. n.",
+        "n."
+      ],
+      "ety": "[OE. sheren, scheren, to shear, cut, shave, AS. sceran, scieran, scyran; akin to D. & G. scheren, Icel. skera, Dan. ski<?/re, Gr. <?/<?/<?/. Cf. Jeer, Score, Shard, Share, Sheer to turn aside.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. Sheared (?) or Shore (<?/);p. p. Sheared or Shorn (<?/); p. pr. & vb. n. Shearing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To cut, clip, or sever anything from with shears or a like instrument; as, to shear sheep; to shear cloth."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ It is especially applied to the cutting of wool from sheep or their skins, and the nap from cloth."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To separate or sever with shears or a similar instrument; to cut off; to clip (something) from a surface; as, to shear a fleece."
+          ],
+          "quotes": [
+            "Before the golden tresses . . . were shorn away."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To reap, as grain."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Fig.: To deprive of property; to fleece."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Mech.)"
+          ],
+          "defs": [
+            "To produce a change of shape in by a shear. See Shear, n., 4."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Shear",
+      "headword_raw": "Shear",
+      "pr": null,
+      "pos": [
+        "n.",
+        "v. t."
+      ],
+      "ety": "[AS. sceara. See Shear, v. t.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A pair of shears; -- now always used in the plural, but formerly also in the singular. See Shears."
+          ],
+          "quotes": [
+            "On his head came razor none, nor shear.",
+            "Short of the wool, and naked from the shear."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A shearing; -- used in designating the age of sheep."
+          ],
+          "quotes": [
+            "After the second shearing, he is a two-shear ram; . . . at the expiration of another year, he is a three-shear ram; the name always taking its date from the time of shearing."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Engin.)"
+          ],
+          "defs": [
+            "An action, resulting from applied forces, which tends to cause two contiguous parts of a body to slide relatively to each other in a direction parallel to their plane of contact; -- also called shearing stress, and tangential stress."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Mech.)"
+          ],
+          "defs": [
+            "A strain, or change of shape, of an elastic body, consisting of an extension in one direction, an equal compression in a perpendicular direction, with an unchanged magnitude in the third direction."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Shear",
+      "headword_raw": "Shear",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To deviate. See Sheer."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Engin.)"
+          ],
+          "defs": [
+            "To become more or less completely divided, as a body under the action of forces, by the sliding of two contiguous parts relatively to each other in a direction parallel to their plane of contact."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

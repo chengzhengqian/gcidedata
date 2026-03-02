@@ -1,0 +1,76 @@
+{
+  "key": "shameless",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Shameless",
+      "headword_raw": "Shame\"less",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[AS. scamles.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Shamelessly",
+          "form_raw": "Shame\"less*ly",
+          "key": "shamelessly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Shamelessness",
+          "form_raw": "Shame\"less*ness",
+          "key": "shamelessness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Destitute of shame; wanting modesty; brazen-faced; insensible to disgrace."
+          ],
+          "quotes": [
+            "Shame enough to shame thee, wert thou not shameless."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Indicating want of modesty, or sensibility to disgrace; indecent; as, a shameless picture or poem."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Impudent",
+            "unblushing",
+            "audacious",
+            "immodest",
+            "indecent",
+            "indelicate"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "key": "sheet",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Sheet",
+      "headword_raw": "Sheet",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "v. t."
+      ],
+      "ety": "[OE. shete, schete, AS. scēte, scte, fr. scet a projecting corner, a fold in a garment (akin to D. schoot sheet, bosom, lap, G. schoss bosom, lap, flap of a coat, Icel. skaut, Goth. skauts the hem of a garment); originally, that which shoots out, from the root of AS. scetan to shoot. √159. See Shoot, v. t.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Geol.)"
+      ],
+      "senses": [
+        {
+          "sn": "2.",
+          "fields": [
+            "(Naut.)",
+            "(Naut.)"
+          ],
+          "defs": [
+            "A rope or chain which regulates the angle of adjustment of a sail in relation in relation to the wind; -- usually attached to the lower corner of a sail, or to a yard or a boom.",
+            "The space in the forward or the after part of a boat where there are no rowers; as, fore sheets; stern sheets."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Sheet is often used adjectively, or in combination, to denote that the substance to the name of which it is prefixed is in the form of sheets, or thin plates or leaves; as, sheet brass, or sheet-brass; sheet glass, or sheet-glass; sheet gold, or sheet-gold; sheet iron, or sheet-iron, etc."
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Sheet",
+      "headword_raw": "Sheet",
+      "pr": null,
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Sheeted; p. pr. & vb. n. Sheeting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To furnish with a sheet or sheets; to wrap in, or cover with, a sheet, or as with a sheet."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Naut.)"
+          ],
+          "defs": [
+            "To expand, as a sheet."
+          ],
+          "quotes": [
+            "The star shot flew from the welkin blue, As it fell from the sheeted sky."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

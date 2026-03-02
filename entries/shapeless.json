@@ -1,0 +1,49 @@
+{
+  "key": "shapeless",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Shapeless",
+      "headword_raw": "Shape\"less",
+      "pr": null,
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Shapelessness",
+          "form_raw": "Shape\"less*ness",
+          "key": "shapelessness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Destitute of shape or regular form; wanting symmetry of dimensions; misshapen; -- opposed to shapely."
+          ],
+          "quotes": [
+            "The shapeless rock, or hanging precipice."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

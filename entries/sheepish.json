@@ -1,0 +1,69 @@
+{
+  "key": "sheepish",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Sheepish",
+      "headword_raw": "Sheep\"ish",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Sheepishly",
+          "form_raw": "Sheep\"ish*ly",
+          "key": "sheepishly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Sheepishness",
+          "form_raw": "Sheep\"ish*ness",
+          "key": "sheepishness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to sheep."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Like a sheep; bashful; over-modest; meanly or foolishly diffident; timorous to excess."
+          ],
+          "quotes": [
+            "Wanting change of company, he will, when he comes abroad, be a sheepish or conceited creature."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

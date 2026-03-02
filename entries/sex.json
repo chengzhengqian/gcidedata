@@ -1,0 +1,86 @@
+{
+  "key": "sex",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Sex-",
+      "headword_raw": "Sex-",
+      "pr": "(?)",
+      "pos": [],
+      "ety": "[L. sex six. See Six.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A combining form meaning six; as, sexdigitism; sexennial."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Sex",
+      "headword_raw": "Sex",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. sexus: cf. F. sexe.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The distinguishing peculiarity of male or female in both animals and plants; the physical difference between male and female; the assemblage of properties or qualities by which male is distinguished from female."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "One of the two divisions of organic beings formed on the distinction of male and female."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Bot.)"
+          ],
+          "defs": [
+            "The capability in plants of fertilizing or of being fertilized; as, staminate and pistillate flowers are of opposite sexes.",
+            "One of the groups founded on this distinction."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

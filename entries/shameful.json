@@ -1,0 +1,78 @@
+{
+  "key": "shameful",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Shameful",
+      "headword_raw": "Shame\"ful",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Shamefully",
+          "form_raw": "Shame\"ful*ly",
+          "key": "shamefully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Shamefulness",
+          "form_raw": "Shame\"ful*ness",
+          "key": "shamefulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Bringing shame or disgrace; injurious to reputation; disgraceful."
+          ],
+          "quotes": [
+            "His naval preparations were not more surprising than his quick and shameful retreat."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Exciting the feeling of shame in others; indecent; as, a shameful picture; a shameful sight."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Disgraceful",
+            "reproachful",
+            "indecent",
+            "unbecoming",
+            "degrading",
+            "scandalous",
+            "ignominious",
+            "infamous"
+          ]
+        }
+      ]
+    }
+  ]
+}

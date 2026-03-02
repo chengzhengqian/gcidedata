@@ -1,0 +1,61 @@
+{
+  "key": "shamefaced",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Shamefaced",
+      "headword_raw": "Shame\"faced`",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[For shamefast; AS. scamfaest. See Shame, n., and Fast firm.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Shamefaced",
+          "form_raw": "Shame\"faced",
+          "key": "shamefaced",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Shamefacedness",
+          "form_raw": "Shame\"faced`ness",
+          "key": "shamefacedness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Easily confused or put out of countenance; diffident; bashful; modest."
+          ],
+          "quotes": [
+            "Your shamefaced virtue shunned the people's prise."
+          ],
+          "notes": [
+            "☞ Shamefaced was once shamefast, shamefacedness was shamefastness, like steadfast and steadfastness; but the ordinary manifestations of shame being by the face, have brought it to its present orthography. Trench."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

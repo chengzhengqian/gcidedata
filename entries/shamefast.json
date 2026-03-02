@@ -1,0 +1,61 @@
+{
+  "key": "shamefast",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Shamefast",
+      "headword_raw": "Shame\"fast",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[AS. scamfæst.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Shamefastly",
+          "form_raw": "Shame\"fast*ly",
+          "key": "shamefastly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Shamefastness",
+          "form_raw": "Shame\"fast*ness",
+          "key": "shamefastness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Modest; shamefaced."
+          ],
+          "quotes": [
+            "Shamefast she was in maiden shamefastness.",
+            "[Conscience] is a blushing shamefast spirit.",
+            "Modest apparel with shamefastness."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

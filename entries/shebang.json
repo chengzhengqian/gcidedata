@@ -1,0 +1,59 @@
+{
+  "key": "shebang",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Shebang",
+      "headword_raw": "She*bang\"",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. Shebeen.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A jocosely depreciative name for a dwelling or shop; a primitive dwelling; a shanty."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The structure of an object, process, organization, or anything viewed as complicated; -- used primarily in the phrase the whole shebang; as, it comes with unnecessary frills, but you have to buy the whole shebang."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(computers)"
+          ],
+          "defs": [
+            "The character sequence #!, which frequently begins shell scripts in a Unix system."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

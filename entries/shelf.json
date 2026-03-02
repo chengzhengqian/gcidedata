@@ -1,0 +1,76 @@
+{
+  "key": "shelf",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Shelf",
+      "headword_raw": "Shelf",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "v. i."
+      ],
+      "ety": "[OE. shelfe, schelfe, AS. scylfe; akin to G. schelfe, Icel. skjālf. In senses 2 & 3, perhaps a different word (cf. Shelve, v. i.).]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Arch.)"
+          ],
+          "defs": [
+            "A flat tablet or ledge of any material set horizontally at a distance from the floor, to hold objects of use or ornament."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A sand bank in the sea, or a rock, or ledge of rocks, rendering the water shallow, and dangerous to ships."
+          ],
+          "quotes": [
+            "On the tawny sands and shelves.",
+            "On the secret shelves with fury cast."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Mining)"
+          ],
+          "defs": [
+            "A stratum lying in a very even manner; a flat, projecting layer of rock."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Naut.)"
+          ],
+          "defs": [
+            "A piece of timber running the whole length of a vessel inside the timberheads."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "key": "sextant",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Sextant",
+      "headword_raw": "Sex\"tant",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. sextans, -antis, the sixth part of an as, fr. sextus sixth, sex six. See Six.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "The sixth part of a circle."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "An instrument for measuring angular distances between objects, -- used esp. at sea, for ascertaining the latitude and longitude. It is constructed on the same optical principle as Hadley's quadrant, but usually of metal, with a nicer graduation, telescopic sight, and its arc the sixth, and sometimes the third, part of a circle. See Quadrant."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Astron.)"
+          ],
+          "defs": [
+            "The constellation Sextans."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

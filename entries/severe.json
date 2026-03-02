@@ -1,0 +1,128 @@
+{
+  "key": "severe",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Severe",
+      "headword_raw": "Se*vere\"",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "Compar.",
+        "superl.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. severus; perhaps akin to Gr. <?/<?/<?/ awe, <?/<?/<?/ revered, holy, solemn, Goth. swikns innocent, chaste: cf. F. svre. Cf. Asseverate, Persevere.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Severely",
+          "form_raw": "Se*vere\"ly",
+          "key": "severely",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Severeness",
+          "form_raw": "Se*vere\"ness",
+          "key": "severeness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Serious in feeling or manner; sedate; grave; austere; not light, lively, or cheerful."
+          ],
+          "quotes": [
+            "Your looks alter, as your subject does, From kind to fierce, from wanton to severe."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Very strict in judgment, discipline, or government; harsh; not mild or indulgent; rigorous; as, severe criticism; severe punishment."
+          ],
+          "quotes": [
+            "Come! you are too severe a moraler.",
+            "Let your zeal, if it must be expressed in anger, be always more severe against thyself than against others."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Rigidly methodical, or adherent to rule or principle; exactly conformed to a standard; not allowing or employing unneccessary ornament, amplification, etc.; strict; -- said of style, argument, etc."
+          ],
+          "quotes": [
+            "The Latin, a most severe and compendious language."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Sharp; afflictive; distressing; violent; extreme; as, severe pain, anguish, fortune; severe cold."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "Difficult to be endured; exact; critical; rigorous; as, a severe test."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Strict",
+            "grave",
+            "austere",
+            "stern",
+            "morose",
+            "rigid",
+            "exact",
+            "rigorous",
+            "hard",
+            "rough",
+            "harsh",
+            "censorious",
+            "tart",
+            "acrimonious",
+            "sarcastic",
+            "satirical",
+            "cutting",
+            "biting",
+            "keen",
+            "bitter",
+            "cruel. See Strict"
+          ]
+        }
+      ]
+    }
+  ]
+}

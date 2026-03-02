@@ -1,0 +1,51 @@
+{
+  "key": "antenna",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Antenna",
+      "headword_raw": "An*ten\"na",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. antenna sail-yard; NL., a feeler, horn of an insect.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "A movable, articulated organ of sensation, attached to the heads of insects and Crustacea. There are two in the former, and usually four in the latter. They are used as organs of touch, and in some species of Crustacea the cavity of the ear is situated near the basal joint. In insects, they are popularly called horns, and also feelers. The term in also applied to similar organs on the heads of other arthropods and of annelids."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Electronics)"
+          ],
+          "defs": [
+            "A metallic device, variously shaped, designed for the purpose of either transmitting or receiving radio waves, as for radio or television broadcasting, or for transmitting communication signals. Some types are: whip antenna, antenna tower, horn antenna, dish antenna, directional antenna and rabbit ears. See transmitter, receiver."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

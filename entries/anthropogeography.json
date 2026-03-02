@@ -1,0 +1,56 @@
+{
+  "key": "anthropogeography",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Anthropogeography",
+      "headword_raw": "An`thro*po*ge*og\"ra*phy",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Gr. 'a`nqrwpos man + geography.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Anthropogeographer",
+          "form_raw": "An`thro*po*ge*og\"ra*pher",
+          "key": "anthropogeographer",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Anthropogeographical",
+          "form_raw": "An`thro*po*ge`o*graph\"ic*al",
+          "key": "anthropogeographical",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The science of the human species as to geographical distribution and environment. Broadly, it includes industrial, commercial, and political geography, and that part of ethnology which deals with distribution and physical environment."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

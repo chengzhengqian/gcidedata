@@ -1,0 +1,53 @@
+{
+  "key": "anticipated",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "anticipated",
+      "headword_raw": "anticipated",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "expected; opposite of unanticipated and unexpected."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "awaited(predicate)",
+            "hoped-for",
+            "prospective"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "rightfully expected."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "looked-for(prenominal)"
+          ]
+        }
+      ]
+    }
+  ]
+}

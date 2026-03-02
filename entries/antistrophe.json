@@ -1,0 +1,51 @@
+{
+  "key": "antistrophe",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Antistrophe",
+      "headword_raw": "An*tis\"tro*phe",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L., fr. Gr. <?/, fr. <?/ to turn to the opposite side; 'anti` against + <?/ to turn. See Strophe.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "In Greek choruses and dances, the returning of the chorus, exactly answering to a previous strophe or movement from right to left. Hence: The lines of this part of the choral song."
+          ],
+          "quotes": [
+            "It was customary, on some occasions, to dance round the altars whilst they sang the sacred hymns, which consisted of three stanzas or parts; the first of which, called strophe, was sung in turning from east to west; the other, named antistrophe, in returning from west to east; then they stood before the altar, and sang the epode, which was the last part of the song."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Rhet.)"
+          ],
+          "defs": [
+            "The repetition of words in an inverse order; as, the master of the servant and the servant of the master.",
+            "The retort or turning of an adversary's plea against him."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

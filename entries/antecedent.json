@@ -1,0 +1,142 @@
+{
+  "key": "antecedent",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Antecedent",
+      "headword_raw": "An`te*ced\"ent",
+      "pr": "(<?/)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. antecedens, -entis, p. pr. of antecedere: cf. F. antcdent.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Going before in time; prior; anterior; preceding; as, an event antecedent to the Deluge; an antecedent cause."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Presumptive; as, an antecedent improbability."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Prior",
+            "previous",
+            "foregoing"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Antecedent",
+      "headword_raw": "An`te*ced\"ent",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. antcdent.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "That which goes before in time; that which precedes."
+          ],
+          "quotes": [
+            "The Homeric mythology, as well as the Homeric language, has surely its antecedents."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "One who precedes or goes in front."
+          ],
+          "quotes": [
+            "My antecedent, or my gentleman usher."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "The earlier events of one's life; previous principles, conduct, course, history."
+          ],
+          "quotes": [
+            "If the troops . . . prove worthy of their antecedents, the victory is surely ours."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Gram.)"
+          ],
+          "defs": [
+            "The noun to which a relative refers; as, in the sentence “Solomon was the prince who built the temple,” prince is the antecedent of who."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Logic)"
+          ],
+          "defs": [
+            "The first or conditional part of a hypothetical proposition; as, If the earth is fixed, the sun must move.",
+            "The first of the two propositions which constitute an enthymeme or contracted syllogism; as, Every man is mortal; therefore the king must die."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "The first of the two terms of a ratio; the first or third of the four terms of a proportion. In the ratio a:b, a is the antecedent, and b the consequent."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

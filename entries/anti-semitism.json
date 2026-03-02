@@ -1,0 +1,57 @@
+{
+  "key": "anti-semitism",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Anti-Semitism",
+      "headword_raw": "An`ti-Sem\"i*tism",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl.",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Anti-Semite",
+          "form_raw": "An`ti-Sem\"ite",
+          "key": "anti-semite",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Anti-Semitic",
+          "form_raw": "An`ti-Sem*it\"ic",
+          "key": "anti-semitic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Opposition to, or hatred of, Semites, esp. Jews. The word is sometimes also applied to acts motivated by or evincing antisemitism."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

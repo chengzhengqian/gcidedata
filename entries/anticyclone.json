@@ -1,0 +1,59 @@
+{
+  "key": "anticyclone",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Anticyclone",
+      "headword_raw": "An\"ti*cy`clone",
+      "pr": "(n\"t*sī`klōn)",
+      "pos": [
+        "n.",
+        "a.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Anticyclonic",
+          "form_raw": "An`ti*cy*clon\"ic",
+          "key": "anticyclonic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(<?/)"
+        },
+        {
+          "form": "Anticyclonically",
+          "form_raw": "An`ti*cy*clon\"ic*al*ly",
+          "key": "anticyclonically",
+          "pos": [
+            "adv."
+          ],
+          "pr": "(<?/)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Meteorol.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A movement of the atmosphere opposite in character, as regards direction of the wind and distribution of barometric pressure, to that of a cyclone."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

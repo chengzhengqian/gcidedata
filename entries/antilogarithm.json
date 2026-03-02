@@ -1,0 +1,49 @@
+{
+  "key": "antilogarithm",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Antilogarithm",
+      "headword_raw": "An`ti*log\"a*rithm",
+      "pr": "(<?/)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Antilogarithmic",
+          "form_raw": "An`ti*log`a*rith\"mic",
+          "key": "antilogarithmic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(<?/)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Math.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The number corresponding to a logarithm. The word has been sometimes, though rarely, used to denote the complement of a given logarithm; also the logarithmic cosine corresponding to a given logarithmic sine."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

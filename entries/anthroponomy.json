@@ -1,0 +1,47 @@
+{
+  "key": "anthroponomy",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Anthroponomy",
+      "headword_raw": "An`thro*pon\"o*my",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Gr. 'a`nqrwpos man + <?/ usage, law, rule.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Anthroponomical",
+          "form_raw": "An`thro*po*nom\"ic*al",
+          "key": "anthroponomical",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The science of the laws of the development of the human organism in relation to other organisms and to environment."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

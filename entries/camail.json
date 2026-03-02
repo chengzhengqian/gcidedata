@@ -1,0 +1,51 @@
+{
+  "key": "camail",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Camail",
+      "headword_raw": "Ca*mail\"",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. camail (cf. It. camaglio), fr. L. caput head + source of E. mail.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Ancient Armor)"
+          ],
+          "defs": [
+            "A neck guard of chain mall, hanging from the bascinet or other headpiece."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Eccl.)"
+          ],
+          "defs": [
+            "A hood of other material than mail;",
+            "a hood worn in church services, -- the amice, or the like."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

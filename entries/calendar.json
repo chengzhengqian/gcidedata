@@ -1,0 +1,91 @@
+{
+  "key": "calendar",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Calendar",
+      "headword_raw": "Cal\"en*dar",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. kalender, calender, fr. L. kalendarium an interest or account book (cf. F. calendrier, OF. calendier) fr. L. calendue, kalendae, calends. See Calends.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "An orderly arrangement of the division of time, adapted to the purposes of civil life, as years, months, weeks, and days; also, a register of the year with its divisions; an almanac."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Eccl.)"
+          ],
+          "defs": [
+            "A tabular statement of the dates of feasts, offices, saints' days, etc., esp. of those which are liable to change yearly according to the varying date of Easter."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "An orderly list or enumeration of persons, things, or events; a schedule; as, a calendar of state papers; a calendar of bills presented in a legislative assembly; a calendar of causes arranged for trial in court; a calendar of a college or an academy."
+          ],
+          "quotes": [],
+          "notes": [
+            "Shepherds of people had need know the calendars of tempests of state."
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Calendar",
+      "headword_raw": "Cal\"en*dar",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Calendared (?); p. pr. & vb. n. Calendaring.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To enter or write in a calendar; to register."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

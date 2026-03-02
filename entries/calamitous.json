@@ -1,0 +1,83 @@
+{
+  "key": "calamitous",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Calamitous",
+      "headword_raw": "Ca*lam\"i*tous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. Calamitosus; cf. F. calamiteux.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Calamitously",
+          "form_raw": "Ca*lam\"i*tous*ly",
+          "key": "calamitously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Calamitousness",
+          "form_raw": "Ca*lam\"i*tous*ness",
+          "key": "calamitousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Suffering calamity; wretched; miserable."
+          ],
+          "quotes": [
+            "Ten thousands of calamitous persons."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Producing, or attended with distress and misery; making wretched; wretched; unhappy."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Miserable",
+            "deplorable",
+            "distressful",
+            "afflictive",
+            "wretched",
+            "grievous",
+            "baleful",
+            "disastrous",
+            "adverse",
+            "unhappy",
+            "severe",
+            "sad",
+            "unfortunate"
+          ]
+        }
+      ]
+    }
+  ]
+}

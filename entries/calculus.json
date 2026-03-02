@@ -1,0 +1,50 @@
+{
+  "key": "calculus",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Calculus",
+      "headword_raw": "Cal\"cu*lus",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L, calculus. See Calculate, and Calcule.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "Any solid concretion, formed in any part of the body, but most frequent in the organs that act as reservoirs, and in the passages connected with them; as, biliary calculi; urinary calculi, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "A method of computation; any process of reasoning by the use of symbols; any branch of mathematics that may involve calculation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

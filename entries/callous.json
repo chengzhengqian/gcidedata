@@ -1,0 +1,68 @@
+{
+  "key": "callous",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Callous",
+      "headword_raw": "Cal\"lous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[L. callosus callous hard, fr. callum, callus, callous skin: cf. F. calleux.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Callously",
+          "form_raw": "Cal\"lous*ly",
+          "key": "callously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Hardened; indurated."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Hardened in mind; insensible; unfeeling; unsusceptible."
+          ],
+          "quotes": [
+            "It is an immense blessing to be perfectly callous to ridicule.",
+            "A callousness and numbness of soul."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Obdurate",
+            "hard",
+            "hardened",
+            "indurated",
+            "insensible",
+            "unfeeling",
+            "unsusceptible. See Obdurate"
+          ]
+        }
+      ]
+    }
+  ]
+}

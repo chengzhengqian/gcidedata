@@ -1,0 +1,80 @@
+{
+  "key": "camphor",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Camphor",
+      "headword_raw": "Cam\"phor",
+      "pr": "(km\"fr)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. camfere, F. camphre (cf. It. canfora, Sp. camfora, alcanfor, LL. canfora, camphora, NGr. kafoyra`), fr. Ar. kāfūr, prob. fr. Skr. karpūra.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A tough, white, aromatic resin, or gum, obtained from different species of the Laurus family, esp. from Cinnamomum camphara (the Laurus camphora of Linnæus.). Camphor, C10H16O, is volatile and fragrant, and is used in medicine as a diaphoretic, a stimulant, or sedative."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "originally, a gum resembling ordinary camphor, obtained from a tree (Dryobalanops aromatica formerly Dryobalanops camphora) growing in Sumatra and Borneo; now applied to its main constituent, a terpene alcohol obtainable as a white solid C10H18O, called also Borneo camphor, Malay camphor, Malayan camphor, camphor of Borneo, Sumatra camphor, bornyl alcohol, camphol, and borneol. The isomer from Dryobalanops is dextrorotatory; the levoratatory form is obtainable from other species of plants, and the racemic mixture may be obtained by reduction of camphor. It is used in perfumery, and for manufacture of its esters. See Borneol."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The name camphor is also applied to a number of bodies of similar appearance and properties, as cedar camphor, obtained from the red or pencil cedar (Juniperus Virginiana), and peppermint camphor, or menthol, obtained from the oil of peppermint."
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Camphor",
+      "headword_raw": "Cam\"phor",
+      "pr": "(?)",
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To impregnate or wash with camphor; to camphorate."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

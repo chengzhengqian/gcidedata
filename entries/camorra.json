@@ -1,0 +1,46 @@
+{
+  "key": "camorra",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Camorra",
+      "headword_raw": "Ca*mor\"ra",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[It.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Camorrist",
+          "form_raw": "Ca*mor\"rist",
+          "key": "camorrist",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A secret organization formed at Naples, Italy, early in the 19th century, and used partly for political ends and partly for practicing extortion, violence, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

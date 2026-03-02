@@ -1,0 +1,70 @@
+{
+  "key": "calamity",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Calamity",
+      "headword_raw": "Ca*lam\"i*ty",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. calamitas, akin to in-columis unharmed: cf. F. calamit]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "-- Calamity, Disaster, Misfortune, Mishap, Mischance. Of these words, calamity is the strongest. It supposes a somewhat continuous state, produced not usually by the direct agency of man, but by natural causes, such as fire, flood, tempest, disease, etc, Disaster denotes literally ill-starred, and is some unforeseen and distressing event which comes suddenly upon us, as if from hostile planet. Misfortune is often due to no specific cause; it is simply the bad fortune of an individual; a link in the chain of events; an evil independent of his own conduct, and not to be charged as a fault. Mischance and mishap are misfortunes of a trivial nature, occurring usually to individuals. “A calamity is either public or private, but more frequently the former; a disaster is rather particular than private; it affects things rather than persons; journey, expedition, and military movements are often attended with disasters; misfortunes are usually personal; they immediately affect the interests of the individual.”"
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Any great misfortune or cause of misery; -- generally applied to events or disasters which produce extensive evil, either to communities or individuals."
+          ],
+          "quotes": [
+            "Strokes of calamity that scathe and scorch the soul."
+          ],
+          "notes": [
+            "The word calamity was first derived from calamus when the corn could not get out of the stalk."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A state or time of distress or misfortune; misery."
+          ],
+          "quotes": [
+            "The deliberations of calamity are rarely wise.",
+            "Where'er I came I brought calamity."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Disaster",
+            "distress",
+            "affliction",
+            "adversity",
+            "misfortune",
+            "unhappiness",
+            "infelicity",
+            "mishap",
+            "mischance",
+            "misery",
+            "evil",
+            "extremity",
+            "exigency",
+            "downfall"
+          ]
+        }
+      ]
+    }
+  ]
+}

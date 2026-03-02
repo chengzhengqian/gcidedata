@@ -1,0 +1,42 @@
+{
+  "key": "calciferol",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "calciferol",
+      "headword_raw": "cal*cif\"er*ol",
+      "pr": "(kl*sf\"r*l)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "vitamin D",
+        "ergocalciferol",
+        "cholecarciferol",
+        "D"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "One of the forms of vitamin D, a fat-soluble vitamin that prevents rickets. It is an unsaturated alcohol (C28H43OH) found in foods such as milk and fish liver oils. It is used as a dietary supplement in milk."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

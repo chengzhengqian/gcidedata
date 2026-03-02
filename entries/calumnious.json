@@ -1,0 +1,67 @@
+{
+  "key": "calumnious",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Calumnious",
+      "headword_raw": "Ca*lum\"ni*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. calumniosus.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Calumniously",
+          "form_raw": "Ca*lum\"ni*ous*ly",
+          "key": "calumniously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Calumniousness",
+          "form_raw": "Ca*lum\"ni*ous*ness",
+          "key": "calumniousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        ". Slanderous",
+        "defamatory",
+        "scurrilous",
+        "opprobrious",
+        "derogatory",
+        "libelous",
+        "abusive"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Containing or implying calumny; false, malicious, and injurious to reputation; slanderous; as, calumnious reports."
+          ],
+          "quotes": [
+            "Virtue itself 'scapes not calumnious strokes."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

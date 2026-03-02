@@ -1,0 +1,59 @@
+{
+  "key": "caliginous",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Caliginous",
+      "headword_raw": "Ca*lig\"i*nous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. caliginosus; cf. F. caligineux.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Caliginously",
+          "form_raw": "Ca*lig\"i*nous*ly",
+          "key": "caliginously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Caliginousness",
+          "form_raw": "Ca*lig\"i*nous*ness",
+          "key": "caliginousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Affected with darkness or dimness; dark; obscure."
+          ],
+          "quotes": [
+            "The caliginous regions of the air."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

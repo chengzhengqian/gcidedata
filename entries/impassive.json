@@ -1,0 +1,60 @@
+{
+  "key": "impassive",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Impassive",
+      "headword_raw": "Im*pas\"sive",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Impassively",
+          "form_raw": "Im*pas\"sive*ly",
+          "key": "impassively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Impassiveness",
+          "form_raw": "Im*pas\"sive*ness",
+          "key": "impassiveness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not susceptible of pain or suffering; apathetic; impassible; unmoved."
+          ],
+          "quotes": [
+            "Impassive as the marble in the quarry.",
+            "On the impassive ice the lightings play."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

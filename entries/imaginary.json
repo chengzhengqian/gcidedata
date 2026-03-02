@@ -1,0 +1,80 @@
+{
+  "key": "imaginary",
+  "source_file": "CIDE.I",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Imaginary",
+      "headword_raw": "Im*ag\"i*na*ry",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. imaginarius: cf. F. imaginaire.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "Ideal",
+        "fanciful",
+        "chimerical",
+        "visionary",
+        "fancied",
+        "unreal",
+        "illusive"
+      ],
+      "entry_fields": [
+        "(Alg.)",
+        "(Geom.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Existing only in imagination or fancy; not real; fancied; visionary; ideal."
+          ],
+          "quotes": [
+            "Wilt thou add to all the griefs I suffer Imaginary ills and fancied tortures?"
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Imaginary",
+      "headword_raw": "Im*ag\"i*na*ry",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Alg.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An imaginary expression or quantity."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

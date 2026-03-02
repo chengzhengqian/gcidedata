@@ -1,0 +1,63 @@
+{
+  "key": "illiterate",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Illiterate",
+      "headword_raw": "Il*lit\"er*ate",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. illiteratus: pref. il- not + literatus learned. See In- not, and Literal.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Illiterately",
+          "form_raw": "Il*lit\"er*ate*ly",
+          "key": "illiterately",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Illiterateness",
+          "form_raw": "Il*lit\"er*ate*ness",
+          "key": "illiterateness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Ignorant",
+        "untaught",
+        "unlearned",
+        "unlettered",
+        "unscholary. See Ignorant"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Unable to read or write; ignorant of letters or books; unlettered; uninstructed; uneducated; as, an illiterate man, or people."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

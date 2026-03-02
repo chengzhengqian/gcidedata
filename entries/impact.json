@@ -1,0 +1,102 @@
+{
+  "key": "impact",
+  "source_file": "CIDE.I",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Impact",
+      "headword_raw": "Im*pact\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. impactus, p. p. of impingere to push, strike against. See Impinge.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": "[imp. & p. p. Impacted; p. pr. & vb. n. Impacting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To drive close; to press firmly together: to wedge into a place."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To affect or influence, especially in a significant or undesirable manner; as, budget cuts impacted the entire research program; the fish populations were adversely impacted by pollution."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To collide forcefully with; to strike."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Impact",
+      "headword_raw": "Im\"pact",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Contact or impression by touch; collision; forcible contact; force communicated."
+          ],
+          "quotes": [
+            "The quarrel, by that impact driven."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mech.)"
+          ],
+          "defs": [
+            "The single instantaneous stroke of a body in motion against another either in motion or at rest."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

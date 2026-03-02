@@ -1,0 +1,49 @@
+{
+  "key": "illimited",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Illimited",
+      "headword_raw": "Il*lim\"it*ed",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Illimitedness",
+          "form_raw": "Il*lim\"it*ed*ness",
+          "key": "illimitedness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not limited; interminable."
+          ],
+          "quotes": [
+            "The absoluteness and illimitedness of his commission was generally much spoken of."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

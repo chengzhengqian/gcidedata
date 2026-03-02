@@ -1,0 +1,69 @@
+{
+  "key": "immediate",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Immediate",
+      "headword_raw": "Im*me\"di*ate",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[F. immdiat. See In- not, and Mediate.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Not separated in respect to place by anything intervening; proximate; close; as, immediate contact."
+          ],
+          "quotes": [
+            "You are the most immediate to our throne."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Not deferred by an interval of time; present; instant."
+          ],
+          "quotes": [
+            "Death . . . not yet inflicted, as he feared, By some immediate stroke."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Surg.)"
+          ],
+          "defs": [
+            "Acting with nothing interposed or between, or without the intervention of another object as a cause, means, or agency; acting, perceived, or produced, directly; as, an immediate cause."
+          ],
+          "quotes": [
+            "The immediate knowledge of the past is therefore impossible."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Proximate",
+            "close",
+            "direct",
+            "next"
+          ]
+        }
+      ]
+    }
+  ]
+}

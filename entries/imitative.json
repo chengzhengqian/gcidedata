@@ -1,0 +1,112 @@
+{
+  "key": "imitative",
+  "source_file": "CIDE.I",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Imitative",
+      "headword_raw": "Im\"i*ta*tive",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. imitavitus: cf. F. imitatif.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Imitatively",
+          "form_raw": "Im\"i*ta*tive*ly",
+          "key": "imitatively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Imitativeness",
+          "form_raw": "Im\"i*ta*tive*ness",
+          "key": "imitativeness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Inclined to imitate, copy, or follow; imitating; exhibiting some of the qualities or characteristics of a pattern or model; dependent on example; not original; as, man is an imitative being; painting is an imitative art."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Formed after a model, pattern, or original."
+          ],
+          "quotes": [
+            "This temple, less in form, with equal grace, Was imitative of the first in Thrace."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Nat. Hist.)"
+          ],
+          "defs": [
+            "Designed to imitate another species of animal, or a plant, or inanimate object, for some useful purpose, such as protection from enemies; having resemblance to something else; as, imitative colors; imitative habits; dendritic and mammillary forms of minerals are imitative."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Imitative",
+      "headword_raw": "Im\"i*ta*tive",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Gram.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A verb expressive of imitation or resemblance."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

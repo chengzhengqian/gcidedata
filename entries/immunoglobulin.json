@@ -1,0 +1,40 @@
+{
+  "key": "immunoglobulin",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "immunoglobulin",
+      "headword_raw": "im`mu*no*glob\"ulin",
+      "pr": "(m`m*n*glb\"*ln)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "Ig"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "any one of a class of globular proteins which are antibodies and are produced by the immune system in animals."
+          ],
+          "quotes": [],
+          "notes": [
+            "The immunoglobulins form a series of related proteins which are each composed of two pairs of polypeptide chains, called heavy (H) and light (L, meaning of lower molecular weight), all linked together by disulfide bonds. They are subdivided on the basis of the structural and antigenic properties of the H chains into four subgroups, immunoglobulin G (IgG), immunoglobulin A (IgA), immunoglobulin M (IgM), and immunoglobulin D (IgD). They are divided also into subclasses. Both H and L chains of anny given class and subclass have regions which are of constant structure within that class, as well as regions which are of variable structure. The variable regions impart the ability to recognize and bind to specific molecular structures, thus providing the organism the capacity to recognize and defend itself against the harmful effects of substances foreign to the body."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

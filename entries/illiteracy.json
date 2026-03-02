@@ -1,0 +1,48 @@
+{
+  "key": "illiteracy",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Illiteracy",
+      "headword_raw": "Il*lit\"er*a*cy",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[From Illiterate.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The state of being illiterate, or uneducated; lack of learning, or knowledge; ignorance; specifically, inability to read and write; as, the illiteracy shown by the last census."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "An instance of ignorance; a literary blunder."
+          ],
+          "quotes": [
+            "The many blunders and illiteracies of the first publishers of his [Shakespeare's] works."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

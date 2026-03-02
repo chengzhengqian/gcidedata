@@ -1,0 +1,60 @@
+{
+  "key": "immutable",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Immutable",
+      "headword_raw": "Im*mu\"ta*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[L. immutabilis; pref. im- not + mutabilis mutable. See Mutable.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Immutableness",
+          "form_raw": "Im*mu\"ta*ble*ness",
+          "key": "immutableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Immutably",
+          "form_raw": "Im*mu\"ta*bly",
+          "key": "immutably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not mutable; not capable or susceptible of change; unchangeable; unalterable."
+          ],
+          "quotes": [
+            "That by two immutable things, in which it was impossible for God to lie, we might have a strong consolation.",
+            "Immutable, immortal, infinite, Eternal King."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

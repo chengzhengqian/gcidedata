@@ -1,0 +1,59 @@
+{
+  "key": "illicit",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Illicit",
+      "headword_raw": "Il*lic\"it",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. illicitus; pref. il- not + licitus, p. p. of licere to be allowed or permitted: cf. F. illicite. See In- not, and License.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Illicitly",
+          "form_raw": "Il*lic\"it*ly",
+          "key": "illicitly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Illicitness",
+          "form_raw": "Il*lic\"it*ness",
+          "key": "illicitness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not permitted or allowed; prohibited; unlawful; as, illicit trade; illicit intercourse; illicit pleasure."
+          ],
+          "quotes": [
+            "One illicit . . . transaction always leads to another."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "key": "illness",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Illness",
+      "headword_raw": "Ill\"ness",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[From Ill.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "-- Illness, Sickness. Within the present century, there has been a tendency in England to use illness in the sense of a continuous disease, disorder of health, or sickness, and to confine sickness more especially to a sense of nausea, or “sickness of the stomach.”"
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The condition of being ill, evil, or bad; badness; unfavorableness."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Disease; indisposition; malady; disorder of health; sickness; as, a short or a severe illness."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Wrong moral conduct; wickedness."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Malady",
+            "disease",
+            "indisposition",
+            "ailment"
+          ]
+        }
+      ]
+    }
+  ]
+}

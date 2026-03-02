@@ -1,0 +1,59 @@
+{
+  "key": "imaginable",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Imaginable",
+      "headword_raw": "Im*ag\"i*na*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[L. imaginabilis: cf. F. imaginable.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Imaginableness",
+          "form_raw": "Im*ag\"i*na*ble*ness",
+          "key": "imaginableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Imaginably",
+          "form_raw": "Im*ag\"i*na*bly",
+          "key": "imaginably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Capable of being imagined; conceivable."
+          ],
+          "quotes": [
+            "Men sunk into the greatest darkness imaginable."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

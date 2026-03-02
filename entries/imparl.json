@@ -1,0 +1,48 @@
+{
+  "key": "imparl",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Imparl",
+      "headword_raw": "Im*parl\"",
+      "pr": "(?)",
+      "pos": [
+        "v. i."
+      ],
+      "ety": "[OF. emparler; pref. em- (L. in) + parler to speak. See In, prep., and Parley.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To hold discourse; to parley."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "To have time before pleading; to have delay for mutual adjustment."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

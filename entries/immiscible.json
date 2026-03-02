@@ -1,0 +1,51 @@
+{
+  "key": "immiscible",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Immiscible",
+      "headword_raw": "Im*mis\"ci*ble",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Pref. im- not + miscible: cf. F. immiscible.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Not capable of being mixed or mingled."
+          ],
+          "quotes": [
+            "A chaos of immiscible and conflicting particles."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "Not miscible; forming two distinct phases when mixed at some concentration; -- of two liquids; as, water and gasoline are immiscible."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

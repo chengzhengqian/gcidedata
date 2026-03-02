@@ -1,0 +1,53 @@
+{
+  "key": "crisis",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Crisis",
+      "headword_raw": "Cri\"sis",
+      "pr": "(kr?\"s?s)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. crisis, Gr. <?/<?/<?/<?/, fr. <?/<?/<?/<?/ to separate. See Certain.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The point of time when it is to be decided whether any affair or course of action must go on, or be modified or terminate; the decisive moment; the turning point."
+          ],
+          "quotes": [
+            "This hour's the very crisis of your fate.",
+            "The very times of crisis for the fate of the country."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "That change in a disease which indicates whether the result is to be recovery or death; sometimes, also, a striking change of symptoms attended by an outward manifestation, as by an eruption or sweat."
+          ],
+          "quotes": [
+            "Till some safe crisis authorize their skill."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

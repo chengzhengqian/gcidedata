@@ -1,0 +1,36 @@
+{
+  "key": "critical_point",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "critical point",
+      "headword_raw": "crit\"ic*al point",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "That combination of volume and pressure, at the critical temperature of the substance, at which the liquid and gaseous phases of a given quantity of a substance have identical values for their densities and other properties."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

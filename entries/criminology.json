@@ -1,0 +1,57 @@
+{
+  "key": "criminology",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Criminology",
+      "headword_raw": "Crim`i*nol\"o*gy",
+      "pr": "(-n?l\"?-j?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. crimen, crimenis, crime + -logy.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Criminologist",
+          "form_raw": "Crim`i*nol\"o*gist",
+          "key": "criminologist",
+          "pos": [
+            "n."
+          ],
+          "pr": "(-j<?/st)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A treatise on crime or the criminal population."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The branch of sociology which studies crime and criminals."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "key": "cross-link",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "cross-link",
+      "headword_raw": "cross-link",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "cross-linkage"
+      ],
+      "entry_fields": [
+        "(Chem., Biochem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a covalent bond that links two chains of atoms, or two sections of one chain, in a polymeric molecule; the cross-link is created by a third bond in a monomer unit in addition to the two bonds forming the polymeric chain; -- a cross-link may be internal to a single chain, rather than between two otherwise unlinked chains; as, ultraviolet irradiation creates cross-links between the two chains of a DNA double helix; many enzymes have cross-links formed by disulfide bonds; polystyrene resins have their porosity controlled by the proportion of cross-links. Called also cross-linkage."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "cross-link",
+      "headword_raw": "cross-link",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": "[imp. & p. p. cross-linked (?), p. pr. & vb. n. cross-linking.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem., Biochem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "to create cross links in; -- of polymeric molecules."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

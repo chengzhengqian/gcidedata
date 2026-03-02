@@ -1,0 +1,36 @@
+{
+  "key": "critical_temperature",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "critical temperature",
+      "headword_raw": "crit\"ic*al tem\"per*a*ture",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A certain temperature, different for different gases, but always the same for each gas, regarded as the temperature above which no amount of pressure can produce condensation to a liquid; the temperature above which a gas cannot be liquified."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

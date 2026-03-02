@@ -1,0 +1,42 @@
+{
+  "key": "cro",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "CRO",
+      "headword_raw": "CRO",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "oscilloscope",
+        "scope",
+        "cathode-ray oscilloscope"
+      ],
+      "entry_fields": [
+        "(Electronics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "acronym for cathode-ray oscilloscope, an electronic device which provides visual images of varying electrical quantities. See oscilloscope."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

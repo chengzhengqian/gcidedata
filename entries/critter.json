@@ -1,0 +1,46 @@
+{
+  "key": "critter",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "critter",
+      "headword_raw": "crit\"ter",
+      "pr": "(krt\"tr)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[from creature.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Any animal; as, lots of critters come out only at night."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A domestic animal or a non-predatory wild animal; -- contrasted with varmint, also dialectal."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

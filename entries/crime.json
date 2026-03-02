@@ -1,0 +1,79 @@
+{
+  "key": "crime",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Crime",
+      "headword_raw": "Crime",
+      "pr": "(krīm)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. crime, fr. L. crimen judicial decision, that which is subjected to such a decision, charge, fault, crime, fr. the root of cernere to decide judicially. See Certain.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "-- Crime, Sin,Vice. Sin is the generic term, embracing wickedness of every kind, but specifically denoting an offense as committed against God. Crime is strictly a violation of law either human or divine; but in present usage the term is commonly applied to actions contrary to the laws of the State. Vice is more distinctively that which springs from the inordinate indulgence of the natural appetites, which are in themselves innocent. Thus intemperance, unchastity, duplicity, etc., are vices; while murder, forgery, etc., which spring from the indulgence of selfish passions, are crimes."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Any violation of law, either divine or human; an omission of a duty commanded, or the commission of an act forbidden by law."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Gross violation of human law, in distinction from a misdemeanor or trespass, or other slight offense. Hence, also, any aggravated offense against morality or the public welfare; any outrage or great wrong."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Crimes, in the English common law, are grave offenses which were originally capitally punished (murder, rape, robbery, arson, burglary, and larceny), as distinguished from misdemeanors, which are offenses of a lighter grade. See Misdemeanors."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Any great wickedness or sin; iniquity."
+          ],
+          "quotes": [
+            "No crime was thine, if 'tis no crime to love."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "That which occasion crime."
+          ],
+          "quotes": [
+            "The tree of life, the crime of our first father's fall."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Sin",
+            "vice",
+            "iniquity",
+            "wrong"
+          ]
+        }
+      ]
+    }
+  ]
+}

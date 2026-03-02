@@ -1,0 +1,50 @@
+{
+  "key": "creditor",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Creditor",
+      "headword_raw": "Cred\"it*or",
+      "pr": "(kr?d\"?t-?r)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L.: cf. F. cr<?/diteur. See Credit.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One who credits, believes, or trusts."
+          ],
+          "quotes": [
+            "The easy creditors of novelties."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "One who gives credit in business matters; hence, one to whom money is due; -- correlative to debtor."
+          ],
+          "quotes": [
+            "Creditors have better memories than debtors."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

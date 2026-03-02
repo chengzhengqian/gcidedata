@@ -1,0 +1,52 @@
+{
+  "key": "snakebird",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Snakebird",
+      "headword_raw": "Snake\"bird`",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[So named from its snakelike neck.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Zool.)"
+      ],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Any one of four species of aquatic birds of the genus Anhinga or Plotus. They are allied to the gannets and cormorants, but have very long, slender, flexible necks, and sharp bills."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The American species (Anhinga anhinga syn. Plotus anhinga) inhabits the Southern United States and tropical America; -- called also darter, and water turkey. The Asiatic species (Anhinga melanogaster) is native of Southern Asia and the East Indies. Two other species inhabit Africa and Australia respectively."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "The wryneck."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

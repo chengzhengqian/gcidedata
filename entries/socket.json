@@ -1,0 +1,76 @@
+{
+  "key": "socket",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Socket",
+      "headword_raw": "Sock\"et",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. soket, a dim. through OF. fr. L. soccus. See Sock a covering for the foot.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "An opening into which anything is fitted; any hollow thing or place which receives and holds something else; as, the sockets of the teeth."
+          ],
+          "quotes": [
+            "His eyeballs in their hollow sockets sink."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Especially, the hollow tube or place in which a candle is fixed in the candlestick."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Electricity)"
+          ],
+          "defs": [
+            "the receptacle of an electric lamp into which a light bulb is inserted, containing contacts to conduct electricity to the bulb."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Electricity)",
+            "(Mach.)"
+          ],
+          "defs": [
+            "the receptacle fixed in a wall and connected by conductive wiring to an electrical supply, containing contacts to conduct electricity, and into which the plug of an electrical device is inserted; -- called also a wall socket or outlet. The socket will typically have two or three contacts; if three, the third is connected to a ground for safety."
+          ],
+          "quotes": [
+            "And in the sockets oily bubbles dance."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

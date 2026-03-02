@@ -1,0 +1,69 @@
+{
+  "key": "snappish",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Snappish",
+      "headword_raw": "Snap\"pish",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Snappishly",
+          "form_raw": "Snap\"pish*ly",
+          "key": "snappishly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Snappishness",
+          "form_raw": "Snap\"pish*ness",
+          "key": "snappishness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Apt to snap at persons or things; eager to bite; as, a snapping cur."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Sharp in reply; apt to speak angrily or testily; easily provoked; tart; peevish."
+          ],
+          "quotes": [
+            "The taunting address of a snappish misanthrope."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

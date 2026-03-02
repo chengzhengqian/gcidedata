@@ -1,0 +1,81 @@
+{
+  "key": "smutty",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Smutty",
+      "headword_raw": "Smut\"ty",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "Compar.",
+        "superl.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Smuttily",
+          "form_raw": "Smut\"ti*ly",
+          "key": "smuttily",
+          "pos": [
+            "adv."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Smuttiness",
+          "form_raw": "Smut\"ti*ness",
+          "key": "smuttiness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Soiled with smut; smutted."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Tainted with mildew; as, smutty corn."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Obscene; not modest or pure; as, a smutty saying."
+          ],
+          "quotes": [
+            "The smutty joke, ridiculously lewd."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

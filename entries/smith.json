@@ -1,0 +1,80 @@
+{
+  "key": "smith",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Smith",
+      "headword_raw": "Smith",
+      "pr": "(smth)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[AS. smið; akin to D. smid, G. schmied, OHG. smid, Icel. smiðr, Dan. & Sw. smed, Goth. smiþa (in comp.); cf. Gr. smi`lh a sort of knife, sminy`h a hoe, mattock.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One who forges with the hammer; one who works in metals; as, a blacksmith, goldsmith, silversmith, and the like."
+          ],
+          "quotes": [
+            "Nor yet the smith hath learned to form a sword."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "One who makes or effects anything."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Smith",
+      "headword_raw": "Smith",
+      "pr": null,
+      "pos": [
+        "v. t.",
+        "n."
+      ],
+      "ety": "[AS. smiðian. See Smith, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To beat into shape; to forge."
+          ],
+          "quotes": [
+            "What smith that any [weapon] smitheth."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

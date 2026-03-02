@@ -1,0 +1,121 @@
+{
+  "key": "snake",
+  "source_file": "CIDE.S",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Snake",
+      "headword_raw": "Snake",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[AS. snaca; akin to LG. snake, schnake, Icel. snākr, sn<?/kr, Dan. snog, Sw. snok; of uncertain origin.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Zool.)",
+        "(Zool.)",
+        "(Zool.)",
+        "(Zool.)",
+        "(Zool.)",
+        "(Bot.)",
+        "(Zool.)",
+        "(Bot.)",
+        "(Bot.)",
+        "(Zool.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Any species of the order Ophidia; an ophidian; a serpent, whether harmless or venomous. See Ophidia, and Serpent."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Snakes are abundant in all warm countries, and much the larger number are harmless to man."
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Snake",
+      "headword_raw": "Snake",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Snaked (?); p. pr. & vb. n. Snaking.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To drag or draw, as a snake from a hole; -- often with out."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Naut.)"
+          ],
+          "defs": [
+            "To wind round spirally, as a large rope with a smaller, or with cord, the small rope lying in the spaces between the strands of the large one; to worm."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Snake",
+      "headword_raw": "Snake",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To crawl like a snake."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

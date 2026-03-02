@@ -1,0 +1,56 @@
+{
+  "key": "soda_water",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Soda water",
+      "headword_raw": "So\"da wat`er",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "originally, a beverage consisting of a weak solution of sodium bicarbonate to which an acid (such as phosphoric acid) has been added to generate carbon dioxide and thus cause effervescence; the term now is also used as a synonym for soda pop. Soda water without flavoring is used as a beverage or as a component of a mixed beverage. It is typically bottled or canned under pressure so that the carbon dioxide and effervescence will be preserved until use."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a beverage containing supersaturated carbon dioxide (carbonic acid) and thus effervescent."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "same as soda pop."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

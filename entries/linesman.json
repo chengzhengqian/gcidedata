@@ -1,0 +1,49 @@
+{
+  "key": "linesman",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "linesman",
+      "headword_raw": "linesman",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "the official (in tennis or soccer) who watches the lines."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a person who installs or repairs electrical or telephone lines."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "electrician",
+            "lineman"
+          ]
+        }
+      ]
+    }
+  ]
+}

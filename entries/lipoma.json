@@ -1,0 +1,49 @@
+{
+  "key": "lipoma",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Lipoma",
+      "headword_raw": "Li*po\"ma",
+      "pr": "(l*pō\"m)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[NL., from Gr. li`pos fat + -oma.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Lipomatous",
+          "form_raw": "Li*pom\"a*tous",
+          "key": "lipomatous",
+          "pos": [
+            "a."
+          ],
+          "pr": "(-pm\"*ts)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A tumor consisting of fat or adipose tissue."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

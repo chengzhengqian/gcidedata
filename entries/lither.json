@@ -1,0 +1,61 @@
+{
+  "key": "lither",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Lither",
+      "headword_raw": "Li\"ther",
+      "pr": "(lī\"r)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[AS. lðer bad, wicked.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Litherly",
+          "form_raw": "Li\"ther*ly",
+          "key": "litherly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Litherness",
+          "form_raw": "Li\"ther*ness",
+          "key": "litherness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Bad; wicked; false; worthless; slothful."
+          ],
+          "quotes": [
+            "Not lither in business, fervent in spirit."
+          ],
+          "notes": [
+            "☞ Professor Skeat thinks “ the lither sky” as found in Shakespeare's Henry VI. ((Part I. IV. VII., 21) means the stagnant or pestilential sky."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "key": "loathsome",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Loathsome",
+      "headword_raw": "Loath\"some",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Loathsomely",
+          "form_raw": "Loath\"some*ly",
+          "key": "loathsomely",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Loathsomeness",
+          "form_raw": "Loath\"some*ness",
+          "key": "loathsomeness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Fitted to cause loathing; exciting disgust; disgusting; as, a loathsome disease."
+          ],
+          "quotes": [
+            "The most loathsome and deadly forms of infection."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

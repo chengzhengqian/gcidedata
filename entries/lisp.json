@@ -1,0 +1,176 @@
+{
+  "key": "lisp",
+  "source_file": "CIDE.L",
+  "record_count": 4,
+  "records": [
+    {
+      "headword": "Lisp",
+      "headword_raw": "Lisp",
+      "pr": "(lsp)",
+      "pos": [
+        "v. i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OE. lispen, lipsen, AS. wlisp stammering, lisping; akin to D. & OHG. lispen to lisp, G. lispeln, Sw. läspa, Dan. lespe.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Lisped (lspt); p. pr. & vb. n. Lisping.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To pronounce the sibilant letter s imperfectly; to give s and z the sound of th; -- a defect common among children."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To speak with imperfect articulation; to mispronounce, as a child learning to talk."
+          ],
+          "quotes": [
+            "As yet a child, nor yet a fool to fame, I lisped in numbers, for the numbers came."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To speak hesitatingly with a low voice, as if afraid."
+          ],
+          "quotes": [
+            "Lest when my lisping, guilty tongue should halt."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Lisp",
+      "headword_raw": "Lisp",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To pronounce with a lisp."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To utter with imperfect articulation; to express with words pronounced imperfectly or indistinctly, as a child speaks; hence, to express by the use of simple, childlike language."
+          ],
+          "quotes": [
+            "To speak unto them after their own capacity, and to lisp the words unto them according as the babes and children of that age might sound them again."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To speak with reserve or concealment; to utter timidly or confidentially; as, to lisp treason."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Lisp",
+      "headword_raw": "Lisp",
+      "pr": null,
+      "pos": [
+        "n.",
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The habit or act of lisping. See Lisp, v. i., 1."
+          ],
+          "quotes": [
+            "I overheard her answer, with a very pretty lisp, “O! Strephon, you are a dangerous creature.”"
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "LISP",
+      "headword_raw": "LISP",
+      "pr": "(lsp)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[List Processing.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Computers)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a high-level computer programming language in which statements and data are in the form of lists, enclosed in parentheses; -- used especially for rapid development of prototype programs in artificial intelligence applications ."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

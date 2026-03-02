@@ -1,0 +1,48 @@
+{
+  "key": "littoral",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Littoral",
+      "headword_raw": "Lit\"to*ral",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. littoralis, litoralis, from littus, litus, the seashore: cf. F. littoral.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to a shore, as of the sea."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Biol.)"
+          ],
+          "defs": [
+            "Inhabiting the seashore, esp. the zone between high-water and low-water mark."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

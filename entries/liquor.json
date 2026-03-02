@@ -1,0 +1,107 @@
+{
+  "key": "liquor",
+  "source_file": "CIDE.L",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Liquor",
+      "headword_raw": "Liq\"uor",
+      "pr": "(lk\"r)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. licour, licur, OF. licur, F. liqueur, fr. L. liquor, fr. liquere to be liquid. See Liquid, and cf. Liqueur.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Any liquid substance, as water, milk, blood, sap, juice, or the like."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Specifically, alcoholic or spirituous fluid, either distilled or fermented, as brandy, wine, whisky, beer, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Pharm.)",
+            "(Old Chem.)",
+            "(Old Chem.)",
+            "(Old Chem.)",
+            "(Physiol.)"
+          ],
+          "defs": [
+            "A solution of a medicinal substance in water; -- distinguished from tincture and aqua."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The U. S. Pharmacopoeia includes, in this class of preparations, all aqueous solutions without sugar, in which the substance acted on is wholly soluble in water, excluding those in which the dissolved matter is gaseous or very volatile, as in the aquæ or waters."
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Liquor",
+      "headword_raw": "Liq\"uor",
+      "pr": "(lk\"rd)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Liquored (lk\"rd); p. pr. & vb. n. Liquoring.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To supply with liquor."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To grease."
+          ],
+          "quotes": [
+            "Liquor fishermen's boots."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

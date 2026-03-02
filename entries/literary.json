@@ -1,0 +1,50 @@
+{
+  "key": "literary",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Literary",
+      "headword_raw": "Lit\"er*a*ry",
+      "pr": "(lt\"r**r)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. litterarius, literarius, fr. littera, litera, a letter: cf. F. littraire. See Letter.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to letters or literature; pertaining to learning or learned men; as, literary fame; a literary history; literary conversation."
+          ],
+          "quotes": [
+            "He has long outlived his century, the term commonly fixed as the test of literary merit."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Versed in, or acquainted with, literature; occupied with literature as a profession; connected with literature or with men of letters; as, a literary man."
+          ],
+          "quotes": [
+            "In the literary as well as fashionable world."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

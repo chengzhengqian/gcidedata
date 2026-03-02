@@ -1,0 +1,49 @@
+{
+  "key": "linotype",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Linotype",
+      "headword_raw": "Lin\"o*type",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[See Line; Type.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Linotypist",
+          "form_raw": "Lin\"o*typ`ist",
+          "key": "linotypist",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Print.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A kind of typesetting machine which produces castings, each of which corresponds to a line of separate types. By pressing the keys of a keyboard like one on a typewriter, the matrices for one line are properly arranged; the entire line, or stereotype, or slug, is then cast and planed, and the matrices are returned to their proper places, the whole process being automatic.",
+            "The slug produced by the machine, or matter composed in such lines."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

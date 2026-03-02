@@ -1,0 +1,70 @@
+{
+  "key": "listless",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Listless",
+      "headword_raw": "List\"less",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[OE. listles, lustles. See Lust.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Listlessly",
+          "form_raw": "List\"less*ly",
+          "key": "listlessly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Listlessness",
+          "form_raw": "List\"less*ness",
+          "key": "listlessness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Heedless",
+        "careless",
+        "indifferent",
+        "vacant",
+        "uninterested",
+        "languid",
+        "spiritless",
+        "supine",
+        "indolent"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Having no desire or inclination; indifferent; heedless; spiritless."
+          ],
+          "quotes": [
+            "Benumbed with cold, and listless of their gain.",
+            "I was listless, and desponding."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

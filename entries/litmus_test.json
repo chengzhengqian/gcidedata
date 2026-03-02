@@ -1,0 +1,49 @@
+{
+  "key": "litmus_test",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "litmus test",
+      "headword_raw": "litmus test",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "A test to determine acidity or alkalinity, using litmus as an inddicator."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Politics)"
+          ],
+          "defs": [
+            "A test for a single factor, which has only two outcomes, positive or negative;",
+            "the question of whether a candidate for office is for or against a particular position on an issue; -- used, e.g. by voters concerned predominantly with a single issue, to decide whether to vote for or against a candidate; as, many voters take a candidate's position on abortion as their litmus test."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

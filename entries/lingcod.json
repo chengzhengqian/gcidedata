@@ -1,0 +1,48 @@
+{
+  "key": "lingcod",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "lingcod",
+      "headword_raw": "lingcod",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The flesh of a lean-fleshed fish caught off the U.S. Pacific coast."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A food fish (Ophiodon elongatus) of Northern Pacific waters related to greenlings."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Ophiodon elongatus"
+          ]
+        }
+      ]
+    }
+  ]
+}

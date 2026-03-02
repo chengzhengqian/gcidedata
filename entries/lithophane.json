@@ -1,0 +1,56 @@
+{
+  "key": "lithophane",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Lithophane",
+      "headword_raw": "Lith\"o*phane",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Litho- + Gr. fai`nein to show, reveal.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Lithophanic",
+          "form_raw": "Lith`o*phan\"ic",
+          "key": "lithophanic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Lithophany",
+          "form_raw": "Li*thoph\"a*ny",
+          "key": "lithophany",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Porcelain impressed with figures which are made distinct by transmitted light, as in a lamp shade or when hung in a window."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

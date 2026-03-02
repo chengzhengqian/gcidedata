@@ -1,0 +1,65 @@
+{
+  "key": "liquefied",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "liquefied",
+      "headword_raw": "liquefied",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "converted to a liquid; as, liquified natural gas; liquified coal."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "liquified"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "rendered liquid by heating; changed from a solid to a liquid state; melted."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "molten",
+            "liquified"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "rendered liquid by dissolution in a solvent; -- of solids."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "dissolved",
+            "liquified"
+          ]
+        }
+      ]
+    }
+  ]
+}

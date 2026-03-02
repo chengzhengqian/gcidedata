@@ -1,0 +1,59 @@
+{
+  "key": "lissome",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Lissome",
+      "headword_raw": "Lis\"some",
+      "pr": "(ls\"sm)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": "[For lithesome.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Lissomeness",
+          "form_raw": "Lis\"some*ness",
+          "key": "lissomeness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Limber; supple; flexible; lithe; lithesome."
+          ],
+          "quotes": [
+            "Straight, but as lissome as a hazel wand."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Light; nimble; active."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

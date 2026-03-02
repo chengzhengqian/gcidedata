@@ -1,0 +1,58 @@
+{
+  "key": "liquefaction",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Liquefaction",
+      "headword_raw": "Liq`ue*fac\"tion",
+      "pr": "(lk`w*fk\"shn)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. liquefactio: cf. F. liqufaction. See Liquefy.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act or operation of making or becoming liquid; especially, the conversion of a solid into a liquid by the sole agency of heat."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The state of being liquid."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Chem. Physics)"
+          ],
+          "defs": [
+            "The act, process, or method, of reducing a gas or vapor to a liquid by means of cold or pressure; as, the liquefaction of oxygen or hydrogen."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

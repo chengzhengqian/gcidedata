@@ -1,0 +1,48 @@
+{
+  "key": "liquation",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Liquation",
+      "headword_raw": "Li*qua\"tion",
+      "pr": "(l*kwā\"shn)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. liquatio: cf. F. liquation.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act or operation of making or becoming liquid; also, the capacity of becoming liquid."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Metal.)"
+          ],
+          "defs": [
+            "The process of separating, by heat, an easily fusible metal from one less fusible; eliquation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

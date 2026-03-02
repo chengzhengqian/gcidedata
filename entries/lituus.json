@@ -1,0 +1,51 @@
+{
+  "key": "lituus",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Lituus",
+      "headword_raw": "Lit\"u*us",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Rom. Antig.)"
+          ],
+          "defs": [
+            "A curved staff used by the augurs in quartering the heavens.",
+            "An instrument of martial music; a kind of trumpet of a somewhat curved form and shrill note."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "A spiral whose polar equation is r2 = a; that is, a curve the square of whose radius vector varies inversely as the angle which the radius vector makes with a given line."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

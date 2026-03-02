@@ -1,0 +1,48 @@
+{
+  "key": "infantry",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Infantry",
+      "headword_raw": "In\"fan*try",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. infanterie, It. infanteria, fr. infante infant, child, boy servant, foot soldier, fr. L. infans, -antis, child; foot soldiers being formerly the servants and followers of knights. See Infant.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A body of children."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mil.)"
+          ],
+          "defs": [
+            "A body of soldiers serving on foot; foot soldiers, in distinction from cavalry."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

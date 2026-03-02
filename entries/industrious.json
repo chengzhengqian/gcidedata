@@ -1,0 +1,71 @@
+{
+  "key": "industrious",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Industrious",
+      "headword_raw": "In*dus\"tri*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. industrius, industriosus: cf. F. industrieux. See Industry.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Industriously",
+          "form_raw": "In*dus\"tri*ous*ly",
+          "key": "industriously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Industriousness",
+          "form_raw": "In*dus\"tri*ous*ness",
+          "key": "industriousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Given to industry; characterized by diligence; constantly, regularly, or habitually occupied; busy; assiduous; not slothful or idle; -- commonly implying devotion to lawful and useful labor."
+          ],
+          "quotes": [
+            "Frugal and industrious men are commonly friendly to the established government."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Steadily and perseveringly active in a particular pursuit or aim; as, he was negligent in business, but industrious in pleasure; an industrious mischief maker."
+          ],
+          "quotes": [
+            "Industrious to seek out the truth of all things."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

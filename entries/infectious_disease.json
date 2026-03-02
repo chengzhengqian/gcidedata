@@ -1,0 +1,35 @@
+{
+  "key": "infectious_disease",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Infectious disease",
+      "headword_raw": "In*fec\"tious dis*ease\"",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Any disease caused by the entrance, growth, and multiplication of microorganisms in the body; a germ disease. It may not be contagious.",
+            "Sometimes, as distinguished from contagious disease, such a disease communicated by germs carried in the air or water, and thus spread without contact with the patient, as measles."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

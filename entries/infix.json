@@ -1,0 +1,92 @@
+{
+  "key": "infix",
+  "source_file": "CIDE.I",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Infix",
+      "headword_raw": "In*fix\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. infixus, p. p of infigere to infix; pref. in- in + figere to fix: cf. F. infixer. See Fix.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Infixed (?); p. pr. & vb. n. Infixing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To set; to fasten or fix by piercing or thrusting in; as, to infix a sting, spear, or dart."
+          ],
+          "quotes": [
+            "The fatal dart a ready passage found, And deep within her heart infixed the wound."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To implant or fix; to instill; to inculcate, as principles, thoughts, or instructions; as, to infix good principles in the mind, or ideas in the memory."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Infix",
+      "headword_raw": "In\"fix",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Something infixed."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Grammar)"
+          ],
+          "defs": [
+            "An element that is inserted into the body of an elemt which it threby modifies, as a letter within a word."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

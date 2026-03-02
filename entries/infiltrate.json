@@ -1,0 +1,80 @@
+{
+  "key": "infiltrate",
+  "source_file": "CIDE.I",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Infiltrate",
+      "headword_raw": "In*fil\"trate",
+      "pr": "(?)",
+      "pos": [
+        "v. i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[Pref. in- + filtrate: cf. F, s'infiltrer. Cf. Infilter.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": "[imp. & p. p. Infiltrated (?); p. pr. & vb. n. Infiltrating (?).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To enter by penetrating the pores or interstices of a substance; to filter into or through something."
+          ],
+          "quotes": [
+            "The water infiltrates through the porous rock."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To enter secretly (into an organization, territory, etc.) for hostile purposes, such as spying or sabotage; as, the FBI infiltrated into the U. S. communist party's upper echelons; also used transitively; as, to infiltrate the opponent's organization; to infiltrate one's agents into a hostile country."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Infiltrate",
+      "headword_raw": "In*fil\"trate",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To penetrate gradually; -- sometimes used reflexively."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

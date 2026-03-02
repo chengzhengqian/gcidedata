@@ -1,0 +1,50 @@
+{
+  "key": "infarct",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Infarct",
+      "headword_raw": "In*farct\"",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[See Infarce.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "An obstruction or embolus in one of the blood vessels."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "The morbid condition of a limited area resulting from such obstruction; also, the localized necrotic (dead) tissue resulting from such obstruction; as, a hemorrhagic infarct."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

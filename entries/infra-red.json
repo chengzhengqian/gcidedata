@@ -1,0 +1,60 @@
+{
+  "key": "infra-red",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Infra-red",
+      "headword_raw": "In`fra-red\"",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Infra- + red.]",
+      "sources": [
+        "Webster 1913 Suppl.",
+        "+PJC",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Physics)"
+          ],
+          "defs": [
+            "Lying outside the visible spectrum at its red end; -- said of rays having a longer wavelength (and thus less refrangible) than the extreme red rays, specifically those electromagnetic waves having a wavelength of between 700 nanometers and 1 millimeter."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "relating to, using, or producing infrared radiation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "affected by infrared radiation; as, infrared detector; infrared film."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

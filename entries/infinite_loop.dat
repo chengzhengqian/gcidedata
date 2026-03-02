@@ -1,0 +1,26 @@
+SIMPLE: infinite_loop
+RECORDS: 1
+
+==== ENTRY 1 ====
+HEADWORD: infinite loop
+<hw>infinite loop</hw> <pos>n.</pos> <sn>1.</sn> <fld>(Computers)</fld>
+<def>a series of instructions in a computer program which, when
+executed, cause a cyclic repetition of the same instructions, with no
+other action by the program, for as long as the program continues to be
+executed, or the loop is interrupted by some external action.</def>⟦br⟧
+[<source>PJC</source>]</p>
+
+<p><note>⟦hand⟧ An <ex>infinite loop</ex> is rarely written
+intentionally except in cases where the loop is intended merely as a
+waiting sequence, to be interrupted by some action of the user. It is
+more commonly the result of a serious logical error on the part of the
+programmer, resulting in a failure of the program. Its execution can be
+halted only by halting execution of the program, e.g. by intervention of
+the operating system or by halting or resetting the computer. In
+single-user systems, when executing an <ex>infinite loop</ex>, the
+computer will appear to halt operation of the program, and the program
+will be unresponsive to normal keyboard input, though it may be
+interrupted by an unmasked interrupt.</note>⟦br⟧
+[<source>PJC</source>]</p>
+
+<p><ent>Infinitely</ent>⟦br⟧

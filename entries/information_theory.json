@@ -1,0 +1,38 @@
+{
+  "key": "information_theory",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "information theory",
+      "headword_raw": "in`for*ma\"tion the\"o*ry",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Math., Telecommunications)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The science which studies the capacity of systems to contain, store, and transmit information{2 and 4}, and the factors such as noise and channel capacity that may affect the rate or accuracy of information transmission and reception."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

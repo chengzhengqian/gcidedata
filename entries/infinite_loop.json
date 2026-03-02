@@ -1,0 +1,40 @@
+{
+  "key": "infinite_loop",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "infinite loop",
+      "headword_raw": "infinite loop",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "a series of instructions in a computer program which, when executed, cause a cyclic repetition of the same instructions, with no other action by the program, for as long as the program continues to be executed, or the loop is interrupted by some external action."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ An infinite loop is rarely written intentionally except in cases where the loop is intended merely as a waiting sequence, to be interrupted by some action of the user. It is more commonly the result of a serious logical error on the part of the programmer, resulting in a failure of the program. Its execution can be halted only by halting execution of the program, e.g. by intervention of the operating system or by halting or resetting the computer. In single-user systems, when executing an infinite loop, the computer will appear to halt operation of the program, and the program will be unresponsive to normal keyboard input, though it may be interrupted by an unmasked interrupt."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

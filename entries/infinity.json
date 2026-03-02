@@ -1,0 +1,84 @@
+{
+  "key": "infinity",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Infinity",
+      "headword_raw": "In*fin\"i*ty",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. infinitas; pref. in- not + finis boundary, limit, end: cf. F. infinit. See Finite.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Unlimited extent of time, space, or quantity; eternity; boundlessness; immensity."
+          ],
+          "quotes": [
+            "There can not be more infinities than one; for one of them would limit the other."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Unlimited capacity, energy, excellence, or knowledge; as, the infinity of God and his perfections."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Endless or indefinite number; great multitude; as an infinity of beauties."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "A quantity greater than any assignable quantity of the same kind."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Mathematically considered, infinity is always a limit of a variable quantity, resulting from a particular supposition made upon the varying element which enters it."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Geom.)"
+          ],
+          "defs": [
+            "That part of a line, or of a plane, or of space, which is infinitely distant. In modern geometry, parallel lines or planes are sometimes treated as lines or planes meeting at infinity."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

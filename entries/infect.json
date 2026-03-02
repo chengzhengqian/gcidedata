@@ -1,0 +1,109 @@
+{
+  "key": "infect",
+  "source_file": "CIDE.I",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Infect",
+      "headword_raw": "In*fect\"",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "v. t."
+      ],
+      "ety": "[L. infectus: cf. F. infect. See Infect, v. t.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Infected. Cf. Enfect."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Infect",
+      "headword_raw": "In*fect\"",
+      "pr": null,
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. infectus, p. p. of inficere to put or dip into, to stain, infect; pref. in- in + facere to make; cf. F. infecter. See Fact.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Infected; p. pr. & vb. n. Infecting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To taint with morbid matter or any pestilential or noxious substance or effluvium by which disease is produced; as, to infect a lancet; to infect an apartment."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To affect with infectious disease; to communicate infection to; as, infected with the plague."
+          ],
+          "quotes": [
+            "Them that were left alive being infected with this disease."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To communicate to or affect with, as qualities or emotions, esp. bad qualities; to corrupt; to contaminate; to taint by the communication of anything noxious or pernicious."
+          ],
+          "quotes": [
+            "Infected Ston's daughters with like heat."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "To contaminate with illegality or to expose to penalty."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "poison",
+            "vitiate",
+            "pollute",
+            "defile"
+          ]
+        }
+      ]
+    }
+  ]
+}

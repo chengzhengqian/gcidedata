@@ -1,0 +1,125 @@
+{
+  "key": "influence",
+  "source_file": "CIDE.I",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Influence",
+      "headword_raw": "In\"flu*ence",
+      "pr": "(n\"fl*ns)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. influence, fr. L. influens, -entis, p. pr. See Influent, and cf. Influenza.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A flowing in or upon; influx."
+          ],
+          "quotes": [
+            "God hath his influence into the very essence of all things."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Hence, in general, the bringing about of an effect, physical or moral, by a gradual process; controlling power quietly exerted; agency, force, or tendency of any kind which affects, modifies, or sways; as, the influence which the sun exerts on animal and vegetable life; the influence of education on the mind; the influence, according to astrologers, of the stars over affairs."
+          ],
+          "quotes": [
+            "Astrologers call the evil influences of the stars, evil aspects.",
+            "Canst thou bind the sweet influences of Pleiades, or loose the bands of Orion?",
+            "She said : “Ah, dearest lord! what evil star On you hath frown'd, and poured, his influence bad?”"
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Power or authority arising from elevated station, excelence of character or intellect, wealth, etc.; reputation; acknowledged ascendency; as, he is a man of influence in the community."
+          ],
+          "quotes": [
+            "Such influence hath your excellency."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Elec.)"
+          ],
+          "defs": [
+            "Induction."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Control",
+            "persuasion",
+            "ascendency",
+            "sway",
+            "power",
+            "authority",
+            "supremacy",
+            "mastery",
+            "management",
+            "restraint",
+            "character",
+            "reputation",
+            "prestige"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Influence",
+      "headword_raw": "In\"flu*ence",
+      "pr": "(n\"fl*nst)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Influenced (n\"fl*nst); p. pr. & vb. n. Influencing (n\"fl*n*sng).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To control or move by power, physical or moral; to affect by gentle action; to exert an influence upon; to modify, bias, or sway; to affect; to move; to persuade; to induce."
+          ],
+          "quotes": [
+            "These experiments succeed after the same manner in vacuo as in the open air, and therefore are not influenced by the weight or pressure of the atmosphere.",
+            "This standing revelation . . . is sufficient to influence their faith and practice, if they attend.",
+            "The principle which influenced their obedience has lost its efficacy."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

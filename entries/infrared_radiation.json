@@ -1,0 +1,40 @@
+{
+  "key": "infrared_radiation",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Infrared Radiation",
+      "headword_raw": "In`fra*red\" Ra`di*a\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Infra- + red.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "electromagnetic radiation having a wavelength of between 700 nanometers and 1 millimeter."
+          ],
+          "quotes": [],
+          "notes": [
+            "Infrared radiation is that electromagnetic radiation lying between the visible spectrum and the longest microwaves. It may be absorbed by matter in a manner specific to the absorbing substance, causing increased vibration of molecules. The infrared absorption spectrum of a chemical compound is often very specific, and the infrared absorption spectrum is therefore used to help identify chemical substances. Infrared radiation is used in certain communication devices, such as television remote controls and communication devices between computers or between computers and peripherals."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

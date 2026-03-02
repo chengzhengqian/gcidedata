@@ -1,0 +1,39 @@
+{
+  "key": "influenza",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Influenza",
+      "headword_raw": "In`flu*en\"za",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[It. influenza influence, an epidemic formerly attributed by astrologers to the influence of the heavenly bodies, influenza. See Influence.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An epidemic viral infectious disease characterized by acute nasal catarrh, or by inflammation of the throat or the bronchi, and usually accompanied by fever and general weakness; also called grippe. It is caused by several forms of RNA virus which mutate readily and thereby render vaccines prepared against older forms ineffective, often requiring a new form of vaccine for each new outbreak."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

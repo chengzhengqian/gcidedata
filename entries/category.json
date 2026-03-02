@@ -1,0 +1,52 @@
+{
+  "key": "category",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Category",
+      "headword_raw": "Cat\"e*go*ry",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. categoria, Gr. <?/, fr. <?/ to accuse, affirm, predicate; <?/ down, against + <?/ to harrangue, assert, fr. <?/ assembly.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Logic.)"
+          ],
+          "defs": [
+            "One of the highest classes to which the objects of knowledge or thought can be reduced, and by which they can be arranged in a system; an ultimate or undecomposable conception; a predicament."
+          ],
+          "quotes": [
+            "The categories or predicaments -- the former a Greek word, the latter its literal translation in the Latin language -- were intended by Aristotle and his followers as an enumeration of all things capable of being named; an enumeration by the summa genera i.e., the most extensive classes into which things could be distributed."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Class; also, state, condition, or predicament; as, we are both in the same category."
+          ],
+          "quotes": [
+            "There is in modern literature a whole class of writers standing within the same category."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

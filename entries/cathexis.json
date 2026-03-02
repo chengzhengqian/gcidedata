@@ -1,0 +1,50 @@
+{
+  "key": "cathexis",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Cathexis",
+      "headword_raw": "Cath*ex\"is",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. ka`qexis, keeping.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Psychiatry)"
+          ],
+          "defs": [
+            "the process of investing mental, emotional, or libidinal energy or significance in an object, person, or idea."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Psychiatry)"
+          ],
+          "defs": [
+            "the emotional or libidinal energy invested in an object, person, or idea."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "key": "cataract",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Cataract",
+      "headword_raw": "Cat\"a*ract",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. cataracta, catarracles, a waterfall, Gr. <?/, <?/, fr. <?/ to break down; in the passive, to fall or rush down (of tumors) to burst; kata` down + <?/ to break.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A great fall of water over a precipice; a large waterfall."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Surg.)"
+          ],
+          "defs": [
+            "An opacity of the crystalline lens, or of its capsule, which prevents the passage of the rays of light and impairs or destroys the sight."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Mach.)"
+          ],
+          "defs": [
+            "A kind of hydraulic brake for regulating the action of pumping engines and other machines; -- sometimes called dashpot."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

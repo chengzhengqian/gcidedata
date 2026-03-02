@@ -1,0 +1,40 @@
+{
+  "key": "cd-r",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "CD-R",
+      "headword_raw": "CD-R",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[from Compact Disk-Recordable.]",
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "compact disc recordable",
+        "CD-WO",
+        "compact disc write-once"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a recordable compact disk; a compact disc on which you can write only once and thereafter is read-only."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

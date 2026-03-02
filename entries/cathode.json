@@ -1,0 +1,39 @@
+{
+  "key": "cathode",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Cathode",
+      "headword_raw": "Cath\"ode",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. <?/ descent; <?/ down + <?/ way.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physics)",
+        "(Phys.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The part of a voltaic battery by which the electric current leaves substances through which it passes, or the surface at which the electric current passes out of the electrolyte; the negative pole; -- opposed to anode."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

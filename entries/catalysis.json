@@ -1,0 +1,52 @@
+{
+  "key": "catalysis",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Catalysis",
+      "headword_raw": "Ca*tal\"y*sis",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[ML., fr. Gr. <?/ dissolution, fr. <?/ to destroy, dissolve; kata` down, wholly + <?/ to loose.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Dissolution; degeneration; decay."
+          ],
+          "quotes": [
+            "Sad catalysis and declension of piety."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "A process by which a chemical reaction is accelerated in the presence of certain agents which were formerly believed to exert an influence by mere contact. It is now believed that such reactions are attended with the formation of an intermediate compound or compounds, so that by alternate composition and decomposition the agent is apparently left unchanged; as, the catalysis of making ether from alcohol by means of sulphuric acid; or catalysis in the action of enzymes (as diastase, or ptyalin) on starch.",
+            "The catalytic force."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

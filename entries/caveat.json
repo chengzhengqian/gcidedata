@@ -1,0 +1,66 @@
+{
+  "key": "caveat",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Caveat",
+      "headword_raw": "Ca\"ve*at",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. caved let him beware, pres. subj. of cavere to be on one's guard to, beware.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "A notice given by an interested party to some officer not to do a certain act until the party is heard in opposition; as, a caveat entered in a probate court to stop the proving of a will or the taking out of letters of administration, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(U. S. Patent Laws)"
+          ],
+          "defs": [
+            "A description of some invention, designed to be patented, lodged in the patent office before the patent right is applied for, and operating as a bar to the issue of letters patent to any other person, respecting the same invention."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ A caveat is operative for one year only, but may be renewed."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "Intimation of caution; warning; protest."
+          ],
+          "quotes": [
+            "We think it right to enter our caveat against a conclusion."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "key": "catharsis",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Catharsis",
+      "headword_raw": "Ca*thar\"sis",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[NL., fr. Gr. <?/. See Cathartic.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A natural or artificial purgation of any passage, as of the mouth, bowels, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Psychotherapy)"
+          ],
+          "defs": [
+            "The process of relieving an abnormal excitement by reëstablishing the association of the emotion with the memory or idea of the event that first caused it, and of eliminating it by complete expression (called the abreaction)."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

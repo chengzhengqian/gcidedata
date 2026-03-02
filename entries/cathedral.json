@@ -1,0 +1,87 @@
+{
+  "key": "cathedral",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Cathedral",
+      "headword_raw": "Ca*the\"dral",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[LL. cathedralis (sc. ecclesia): cf. F. cathdrale. See Cathedra.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The principal church in a diocese, so called because in it the bishop has his official chair (Cathedra) or throne."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Cathedral",
+      "headword_raw": "Ca*the\"dral",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": "[LL. cathedralis: cf. F. cathdral.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Pertaining to the head church of a diocese; as, a cathedral church; cathedral service."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Emanating from the chair of office, as of a pope or bishop; official; authoritative."
+          ],
+          "quotes": [
+            "Now, what solemnity can be more required for the pope to make a cathedral determination of an article!"
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Resembling the aisles of a cathedral; as, cathedral walks."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

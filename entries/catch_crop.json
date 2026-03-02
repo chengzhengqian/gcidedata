@@ -1,0 +1,48 @@
+{
+  "key": "catch_crop",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Catch crop",
+      "headword_raw": "Catch crop",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Catch-cropping",
+          "form_raw": "Catch\"-crop`ping",
+          "key": "catch-cropping",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Any crop grown between the rows of another crop or intermediate between two crops in ordinary rotation in point of time."
+          ],
+          "quotes": [
+            "Radishes . . . are often grown as a catch crop with other vegetables."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

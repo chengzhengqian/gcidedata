@@ -1,0 +1,65 @@
+{
+  "key": "casualty",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Casualty",
+      "headword_raw": "Cas\"u*al*ty",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. casualit, LL. casualitas.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "That which comes without design or without being foreseen; contingency."
+          ],
+          "quotes": [
+            "Losses that befall them by mere casualty."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Any injury of the body from accident; hence, death, or other misfortune, occasioned by an accident; as, an unhappy casualty."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Mil. & Naval)"
+          ],
+          "defs": [
+            "Numerical loss caused by death, wounds, discharge, or desertion."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Accident",
+            "contingency",
+            "fortuity",
+            "misfortune"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "key": "cathartic",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Cathartic",
+      "headword_raw": "Ca*thar\"tic",
+      "pr": "(?)",
+      "pos": [],
+      "ety": null,
+      "sources": [],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Cathartic",
+      "headword_raw": "Ca*thar\"tic",
+      "pr": null,
+      "pos": [
+        "n.",
+        "adv."
+      ],
+      "ety": "[Gr. <?/.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Cathartically",
+          "form_raw": "Ca*thar\"tic*al*ly",
+          "key": "cathartically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Catharticalness",
+          "form_raw": "Ca*thar\"tic*al*ness",
+          "key": "catharticalness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A medicine that promotes alvine discharges; a purge; a purgative of moderate activity."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The cathartics are more energetic and certain in action that the laxatives, which simply increase the tendency to alvine evacuation; and less powerful and irritaint that the drastic purges, which cause profuse, repeated, and watery evacuations."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

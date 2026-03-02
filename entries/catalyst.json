@@ -1,0 +1,62 @@
+{
+  "key": "catalyst",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "catalyst",
+      "headword_raw": "catalyst",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "a substance that initiates or accelerates a chemical reaction without itself being affected; as, thousands of enzymes serve in concert as calaysts to produce the sequence of reactions we call “life”; the industrial production of cheap ammonia depended on finding a good catalyst."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "something that serves as a precipitating occasion for an event; as, the invasion acted as a catalyst to unite the country."
+          ],
+          "quotes": [],
+          "notes": [
+            "A catalyst is never the main cause of an event, but may serve to hasten events for which the underlying causes are present prior to the appearance or occurrence of the catalyst."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "something or someone that causes events to happen with itself being changed."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

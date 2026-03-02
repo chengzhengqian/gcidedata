@@ -1,0 +1,48 @@
+{
+  "key": "categorical",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Categorical",
+      "headword_raw": "Cat`e*gor\"ic*al",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to a category."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Not hypothetical or relative; admitting no conditions or exceptions; declarative; absolute; positive; express; as, a categorical proposition, or answer."
+          ],
+          "quotes": [
+            "The scriptures by a multitude of categorical and intelligible decisions . . . distinguish between the things seen and temporal and those that are unseen and eternal."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

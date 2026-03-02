@@ -1,0 +1,41 @@
+{
+  "key": "catalyze",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "catalyze",
+      "headword_raw": "catalyze",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(chemistry)"
+          ],
+          "defs": [
+            "to cause (a chemical reaction) to proceed more quickly by contacting the reactant(s) with another substance; as, moisture catalyzes the oxidation of iron in air."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "change by catalysis",
+            "cause to catalyze"
+          ]
+        }
+      ]
+    }
+  ]
+}

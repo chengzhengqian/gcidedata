@@ -1,0 +1,108 @@
+{
+  "key": "cd",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Cd",
+      "headword_raw": "Cd",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "the chemical symbol for cadmium, a metallic element of atomic number 48."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "cadmium"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "the abbreviation for the candela, the basic unit of luminous intensity adopted under the System International d'Unites."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "candle",
+            "candela",
+            "standard candle"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "CD",
+      "headword_raw": "CD",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "an acronym for compact disk, a disk-shaped recording of binary data that is smaller than a phonograph record, and is recorded and played back by a compact disk player, an electronic device containing a laser. The term is also used generically to refer to the medium as a data storage medium."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "compact disc",
+            "compact disk"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a compact disk player."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "an acronym for certificate of deposit, a debt instrument issued by a bank for a fixed time period, usually paying interest."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "certificate of deposit"
+          ]
+        }
+      ]
+    }
+  ]
+}

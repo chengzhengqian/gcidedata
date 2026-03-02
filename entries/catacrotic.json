@@ -1,0 +1,49 @@
+{
+  "key": "catacrotic",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Catacrotic",
+      "headword_raw": "Cat`a*crot\"ic",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": "[Cata- + Gr. <?/ a beating.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Catacrotism",
+          "form_raw": "Ca*tac\"rotism",
+          "key": "catacrotism",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physiol.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Designating, pertaining to, or characterized by, that form of pulse tracing, or sphygmogram, in which the descending portion of the curve is marked by secondary elevations due to two or more expansions of the artery in the same beat."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

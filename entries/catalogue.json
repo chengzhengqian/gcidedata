@@ -1,0 +1,74 @@
+{
+  "key": "catalogue",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Catalogue",
+      "headword_raw": "Cat\"a*logue",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F., fr. catalogus, fr. Gr. <?/ a counting up, list, fr. <?/ to count up; kata` down, completely + <?/ to say.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "List",
+        "roll",
+        "index",
+        "schedule",
+        "enumeration",
+        "inventory. See List"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A list or enumeration of names, or articles arranged methodically, often in alphabetical order; as, a catalogue of the students of a college, or of books, or of the stars."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Catalogue",
+      "headword_raw": "Cat\"a*logue",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Catalogued (?); p. pr. & vb. n. Cataloguing (?).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To make a list or catalogue; to insert in a catalogue."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

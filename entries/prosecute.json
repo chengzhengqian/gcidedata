@@ -1,0 +1,105 @@
+{
+  "key": "prosecute",
+  "source_file": "CIDE.P",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Prosecute",
+      "headword_raw": "Pros\"e*cute",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. prosecutus, p. p. of prosequi to follow, pursue. See Pursue.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Prosecuted (?); p. pr. & vb. n. Prosecuting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To follow or pursue with a view to reach, execute, or accomplish; to endeavor to obtain or complete; to carry on; to continue; as, to prosecute a scheme, hope, or claim."
+          ],
+          "quotes": [
+            "I am beloved Hermia; Why should not I, then, prosecute my right ?"
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To seek to obtain by legal process; as, to prosecute a right or a claim in a court of law."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "To pursue with the intention of punishing; to accuse of some crime or breach of law, or to pursue for redress or punishment, before a legal tribunal; to proceed against judicially; as, to prosecute a man for trespass, or for a riot."
+          ],
+          "quotes": [
+            "To acquit themselves and prosecute their foes."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Prosecute",
+      "headword_raw": "Pros\"e*cute",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To follow after."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "To institute and carry on a legal prosecution; as, to prosecute for public offenses."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

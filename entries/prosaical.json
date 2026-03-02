@@ -1,0 +1,67 @@
+{
+  "key": "prosaical",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Prosaical",
+      "headword_raw": "Pro*sa\"ic*al",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. prosaius, from prosa prose: cf. F,. prosaque. See Prose.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Prosaically",
+          "form_raw": "Pro*sa\"ic*al*ly",
+          "key": "prosaically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Prosaicalness",
+          "form_raw": "Pro*sa\"ic*al*ness",
+          "key": "prosaicalness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to prose; resembling prose; in the form of prose; unpoetical; writing or using prose; as, a prosaic composition."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Dull; uninteresting; commonplace; unimaginative; prosy; as, a prosaic person."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

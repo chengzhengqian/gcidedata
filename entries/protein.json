@@ -1,0 +1,73 @@
+{
+  "key": "protein",
+  "source_file": "CIDE.P",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Protein",
+      "headword_raw": "Pro\"te*in",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physiol. Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "In chemical analysis, the total nitrogenous material in vegetable or animal substances, obtained by multiplying the total nitrogen found by a factor, usually 6.25, assuming most proteids to contain approximately 16 per cent of nitrogen."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Protein",
+      "headword_raw": "Pro\"te*in",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. prw^tos first: cf. prwtei^on the first place.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physiol. Chem.)",
+        "(Bot.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "any polymer of an amino acid joined by peptide (amide) bonds. Most natural proteins have alpha-amino acids as the monomeric constituents. All classical enzymes are composed of protein, and control most of the biochemical transformations carried out in living cells. They may be soluble, as casein, albumins, and other globular proteins, or insoluble (e. g. \"structural proteins\"), as collagen or keratin. \"albumin\", an older term for protein, is now used primarily to refer to certain specific soluble globular proteins found in eggs or blood serum, e.g. bovine serum albumin, the main soluble protein in the serum of cattle, used as an enzymatically inert protein in biochemical research."
+          ],
+          "quotes": [],
+          "notes": [
+            "In the 1913 dictionary, protein was defined as: “A body now known as alkali albumin, but originally considered to be the basis of all albuminous substances, whence its name.”"
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

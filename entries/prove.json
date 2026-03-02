@@ -1,0 +1,159 @@
+{
+  "key": "prove",
+  "source_file": "CIDE.P",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Prove",
+      "headword_raw": "Prove",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OE. prover, F. prouver, fr. L. probare to try, approve, prove, fr. probus good, proper. Cf. Probable, Proof, Probe.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Proved (?); p. pr. & vb. n. Proving.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To try or to ascertain by an experiment, or by a test or standard; to test; as, to prove the strength of gunpowder or of ordnance; to prove the contents of a vessel by a standard measure."
+          ],
+          "quotes": [
+            "Thou hast proved mine heart."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To evince, establish, or ascertain, as truth, reality, or fact, by argument, testimony, or other evidence."
+          ],
+          "quotes": [
+            "They have inferred much from slender premises, and conjectured when they could not prove."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To ascertain or establish the genuineness or validity of; to verify; as, to prove a will."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "To gain experience of the good or evil of; to know by trial; to experience; to suffer."
+          ],
+          "quotes": [
+            "Where she, captived long, great woes did prove."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Arith.)"
+          ],
+          "defs": [
+            "To test, evince, ascertain, or verify, as the correctness of any operation or result; thus, in subtraction, if the difference between two numbers, added to the lesser number, makes a sum equal to the greater, the correctness of the subtraction is proved."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [
+            "(Printing)"
+          ],
+          "defs": [
+            "To take a trial impression of; to take a proof of; as, to prove a page."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "try",
+            "verify",
+            "justify",
+            "confirm",
+            "establish",
+            "evince",
+            "manifest",
+            "show",
+            "demonstrate"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Prove",
+      "headword_raw": "Prove",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To make trial; to essay."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To be found by experience, trial, or result; to turn out to be; as, a medicine proves salutary; the report proves false."
+          ],
+          "quotes": [
+            "So life a winter's morn may prove."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To succeed; to turn out as expected."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "key": "prosperous",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Prosperous",
+      "headword_raw": "Pros\"per*ous",
+      "pr": "(<?/)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. prosperus or prosper, originally, answering to hope; pro according to + the root of sperare to hope. See Despair.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Prosperously",
+          "form_raw": "Pros\"per*ous*ly",
+          "key": "prosperously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Prosperousness",
+          "form_raw": "Pros\"per*ous*ness",
+          "key": "prosperousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Tending to prosperity; favoring; favorable; helpful."
+          ],
+          "quotes": [
+            "A happy passage and a prosperous wind."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Being prospered; advancing in the pursuit of anything desirable; making gain, or increase; thriving; successful; as, a prosperous voyage; a prosperous undertaking; a prosperous man or nation."
+          ],
+          "quotes": [
+            "By moderation either state to bear Prosperous or adverse."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Fortunate",
+            "successful",
+            "flourishing",
+            "thriving",
+            "favorable",
+            "auspicious",
+            "lucky. See Fortunate"
+          ]
+        }
+      ]
+    }
+  ]
+}

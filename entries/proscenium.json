@@ -1,0 +1,50 @@
+{
+  "key": "proscenium",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Proscenium",
+      "headword_raw": "Pro*sce\"ni*um",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L., fr. Gr. <?/; <?/ before + <?/ a tent, a wooden stage, the stage. See Scene.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Anc. Theater)"
+          ],
+          "defs": [
+            "The part where the actors performed; the stage."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Modern Theater)"
+          ],
+          "defs": [
+            "The part of the stage in front of the curtain; sometimes, the curtain and its framework."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

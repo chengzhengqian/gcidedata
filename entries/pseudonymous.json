@@ -1,0 +1,57 @@
+{
+  "key": "pseudonymous",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Pseudonymous",
+      "headword_raw": "Pseu*don\"y*mous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Gr. <?/; pseydh`s false + <?/, <?/, a name: cf. F. pseudonyme. See Pseudo-, and Name.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Pseudonymously",
+          "form_raw": "Pseu*don\"y*mous*ly",
+          "key": "pseudonymously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Pseudonymousness",
+          "form_raw": "Pseu*don\"y*mous*ness",
+          "key": "pseudonymousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Bearing a false or fictitious name; as, a pseudonymous work."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "key": "proteid",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Proteid",
+      "headword_raw": "Pro\"te*id",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Gr. prw^tos first.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC",
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Proteid",
+          "form_raw": "Pro\"te*id",
+          "key": "proteid",
+          "pos": [
+            "a."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "protein"
+      ],
+      "entry_fields": [
+        "(Physiol. Chem.)",
+        "(Physiol. Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An older, imprecise term replaced by protein."
+          ],
+          "quotes": [],
+          "notes": [
+            "Proteid was defined in the 1913 Webster as “One of a class of amorphous nitrogenous principles, containing, as a rule, a small amount of sulphur; an albuminoid, as blood fibrin, casein of milk, etc. Proteids are present in nearly all animal fluids and make up the greater part of animal tissues and organs. They are also important constituents of vegetable tissues. See 2d Note under Food.”"
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

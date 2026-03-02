@@ -1,0 +1,151 @@
+{
+  "key": "protest",
+  "source_file": "CIDE.P",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Protest",
+      "headword_raw": "Pro*test\"",
+      "pr": "(?)",
+      "pos": [
+        "v. i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[F. protester, L. protestari, pro before + testari to be a witness, testis a witness. See Testify.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Protested; p. pr. & vb. n. Protesting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To affirm in a public or formal manner; to bear witness; to declare solemnly; to avow."
+          ],
+          "quotes": [
+            "He protest that his measures are pacific.",
+            "The lady doth protest too much, methinks."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To make a solemn declaration (often a written one) expressive of opposition; -- with against; as, he protest against your votes."
+          ],
+          "quotes": [
+            "The conscience has power . . . to protest againts the exorbitancies of the passions."
+          ],
+          "notes": [],
+          "synonyms": [
+            "affirm",
+            "asseverate",
+            "assert",
+            "aver",
+            "attest",
+            "testify",
+            "declare",
+            "profess. See Affirm"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Protest",
+      "headword_raw": "Pro*test\"",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To make a solemn declaration or affirmation of; to proclaim; to display; as, to protest one's loyalty."
+          ],
+          "quotes": [
+            "I will protest your cowardice."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "To call as a witness in affirming or denying, or to prove an affirmation; to appeal to."
+          ],
+          "quotes": [
+            "Fiercely [they] opposed My journey strange, with clamorous uproar Protesting fate supreme."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Protest",
+      "headword_raw": "Pro\"test",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "v."
+      ],
+      "ety": "[Cf. F. prott, It. protesto. See Protest, v.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A solemn declaration of opinion, commonly a formal objection against some act; especially, a formal and solemn declaration, in writing, of dissent from the proceedings of a legislative body; as, the protest of lords in Parliament."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "A solemn declaration in writing, in due form, made by a notary public, usually under his notarial seal, on behalf of the holder of a bill or note, protesting against all parties liable for any loss or damage by the nonacceptance or nonpayment of the bill, or by the nonpayment of the note, as the case may be.",
+            "A declaration made by the master of a vessel before a notary, consul, or other authorized officer, upon his arrival in port after a disaster, stating the particulars of it, and showing that any damage or loss sustained was not owing to the fault of the vessel, her officers or crew, but to the perils of the sea, etc., ads the case may be, and protesting against them.",
+            "A declaration made by a party, before or while paying a tax, duty, or the like, demanded of him, which he deems illegal, denying the justice of the demand, and asserting his rights and claims, in order to show that the payment was not voluntary."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

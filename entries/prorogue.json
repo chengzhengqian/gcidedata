@@ -1,0 +1,67 @@
+{
+  "key": "prorogue",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Prorogue",
+      "headword_raw": "Pro*rogue\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[F. proroger, L. prorogare, prorogatum; pro forward + rogare to ask, to ask one for his opinion or vote, or about a law. See Rogation.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Prorogued (?); p. pr. & vb. n. Proroguing (?).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To protract; to prolong; to extend."
+          ],
+          "quotes": [
+            "He prorogued his government."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To defer; to delay; to postpone; as, to proroguedeath; to prorogue a marriage."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To end the session of a parliament by an order of the sovereign, thus deferring its business."
+          ],
+          "quotes": [
+            "Parliament was prorogued to [meet at] Westminster.",
+            "The Parliament was again prorogued to a distant day."
+          ],
+          "notes": [],
+          "synonyms": [
+            "adjourn",
+            "postpone",
+            "defer. See Adjourn"
+          ]
+        }
+      ]
+    }
+  ]
+}

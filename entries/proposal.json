@@ -1,0 +1,52 @@
+{
+  "key": "proposal",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Proposal",
+      "headword_raw": "Pro*pos\"al",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[From Propose.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "That which is proposed, or propounded for consideration or acceptance; a scheme or design; terms or conditions proposed; offer; as, to make proposals for a treaty of peace; to offer proposals for erecting a building; to make proposals of marriage."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "The offer by a party of what he has in view as to an intended business transaction, which, with acceptance, constitutes a contract."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Proffer",
+            "tender",
+            "overture. See Proposition"
+          ]
+        }
+      ]
+    }
+  ]
+}

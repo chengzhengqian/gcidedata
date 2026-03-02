@@ -1,0 +1,58 @@
+{
+  "key": "chemiotaxis",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Chemiotaxis",
+      "headword_raw": "Chem`i*o*tax\"is",
+      "pr": "(#)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[Chemical + Gr. <?/ arrangement, fr. <?/ to arrange.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Chemotactic",
+          "form_raw": "Chem`o*tac\"tic",
+          "key": "chemotactic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Chemotactically",
+          "form_raw": "Chem`o*tac\"tic*al*ly",
+          "key": "chemotactically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Biol.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The sensitiveness exhibited by small free-swimming organisms, as bacteria, zoospores of algæ, etc., to chemical substances held in solution. They may be attracted (positive chemotaxis) or repelled (negative chemotaxis)."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

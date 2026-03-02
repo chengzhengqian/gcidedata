@@ -1,0 +1,50 @@
+{
+  "key": "checked",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "checked",
+      "headword_raw": "checked",
+      "pr": "(chkt)",
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Held back from some action especially by force."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "curbed"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "having a pattern of alternating dark and light squares in rows and columns."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "checkered"
+          ]
+        }
+      ]
+    }
+  ]
+}

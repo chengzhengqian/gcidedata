@@ -1,0 +1,56 @@
+{
+  "key": "chancy",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "chancy",
+      "headword_raw": "chancy",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "depending on chance."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "chanceful",
+            "dicey",
+            "dodgy",
+            "hazardous",
+            "risky"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "subject to accident or chance or change."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "fluky",
+            "flukey",
+            "iffy"
+          ]
+        }
+      ]
+    }
+  ]
+}

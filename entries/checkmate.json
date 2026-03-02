@@ -1,0 +1,91 @@
+{
+  "key": "checkmate",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Checkmate",
+      "headword_raw": "Check\"mate",
+      "pr": "(chk\"māt)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. chec et mat, fr. Per. shāh māt checkmate, lit., the king is dead, fr. Ar. māta he died, is dead. The king, when made prisoner, or checkmated, is assumed to be dead, and the game is finished. See Chess.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The position in the game of chess when a king is in check and cannot be released, -- which ends the game."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A complete check; utter defeat or overthrow."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Checkmate",
+      "headword_raw": "Check\"mate",
+      "pr": "(-māt)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Checkmated; p. pr. & vb. n. Checkmating.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Chess)"
+          ],
+          "defs": [
+            "To check (an adversary's king) in such a manner that escape in impossible; to defeat (an adversary) by putting his king in check from which there is no escape."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To defeat completely; to terminate; to thwart."
+          ],
+          "quotes": [
+            "To checkmate and control my just demands."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

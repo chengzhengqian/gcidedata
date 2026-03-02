@@ -1,0 +1,50 @@
+{
+  "key": "challenged",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "challenged",
+      "headword_raw": "challenged",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "having doubts expressed about its truth."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "disputed",
+            "questioned"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "handicapped or disabled; -- used as a euphemism, especially in combinations; as, physically challenged; mentally challenged."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "key": "characterize",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Characterize",
+      "headword_raw": "Char\"ac*ter*ize",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[LL. characterizare, Gr. <?/: cf. F. charactriser.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": "[imp. & p. p. Characterized (?); p. pr. & vb. n. Characterizing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To make distinct and recognizable by peculiar marks or traits; to make with distinctive features."
+          ],
+          "quotes": [
+            "European, Asiatic, Chinese, African, and Grecian faces are Characterized."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To engrave or imprint."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To indicate the character of; to describe."
+          ],
+          "quotes": [
+            "Under the name of Tamerlane he intended to characterize King William."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "To be a characteristic of; to make, or express the character of."
+          ],
+          "quotes": [
+            "The softness and effeminacy which characterize the men of rank in most countries."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "to identify the structure or nature of; as, the antibiotic activity in the sample was characterized by HPLC, and proved to be erythromycin."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "describe",
+            "distinguish",
+            "mark",
+            "designate",
+            "style",
+            "particularize",
+            "entitle"
+          ]
+        }
+      ]
+    }
+  ]
+}

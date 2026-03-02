@@ -1,0 +1,68 @@
+{
+  "key": "cheerless",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Cheerless",
+      "headword_raw": "Cheer\"less",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Cheerlessly",
+          "form_raw": "Cheer\"less*ly",
+          "key": "cheerlessly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Cheerlessness",
+          "form_raw": "Cheer\"less*ness",
+          "key": "cheerlessness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Gloomy",
+        "sad",
+        "comfortless",
+        "dispiriting",
+        "disconsolate",
+        "dejected",
+        "melancholy",
+        "forlorn"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Without joy, gladness, or comfort."
+          ],
+          "quotes": [
+            "My cheerful day is turned to cheerless night."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

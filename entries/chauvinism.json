@@ -1,0 +1,70 @@
+{
+  "key": "chauvinism",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Chauvinism",
+      "headword_raw": "Chau\"vin*ism",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "n. & adj.",
+        "a."
+      ],
+      "ety": "[F. chauvinisme, from Nicolas Chauvin, a character represented as making grotesque and threatening displays of his attachment to his fallen chief, Napoleon I., in 1815 (in the play La Cocarde tricolor, 1831).]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Chauvinist",
+          "form_raw": "Chau\"vin*ist",
+          "key": "chauvinist",
+          "pos": [
+            "n. & adj."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Chauvinistic",
+          "form_raw": "Chau`vin*is\"tic",
+          "key": "chauvinistic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(<?/)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Blind and absurd devotion to a fallen leader or an obsolete cause; hence, absurdly vainglorious or exaggerated patriotism."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "exaggerated and unreasoning partisanship to any group or cause; -- as, male chauvinism, i.e. belief in the superiority of males."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ To have a generous belief in the greatness of one's country is not chauvinism. It is the character of the latter quality to be wildly extravagant, to be fretful and childish and silly, to resent a doubt as an insult, and to offend by its very frankness."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

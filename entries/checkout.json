@@ -1,0 +1,50 @@
+{
+  "key": "checkout",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "checkout",
+      "headword_raw": "checkout",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "the latest time for vacating a hotel room without being charged for extra time; as, the checkout here is 12 noon."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "checkout time"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A counter in a supermarket or other retail store where one pays for one's purchases."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "checkout counter"
+          ]
+        }
+      ]
+    }
+  ]
+}

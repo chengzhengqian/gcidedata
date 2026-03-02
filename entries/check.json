@@ -1,0 +1,368 @@
+{
+  "key": "check",
+  "source_file": "CIDE.C",
+  "record_count": 4,
+  "records": [
+    {
+      "headword": "Check",
+      "headword_raw": "Check",
+      "pr": "(chk)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. chek, OF. eschec, F. chec, a stop, hindrance, orig. check in the game of chess, pl. checs chess, through Ar., fr. Pers. shāh king. See Shah, and cf. Checkmate, Chess, Checker.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Chess)"
+          ],
+          "defs": [
+            "A word of warning denoting that the king is in danger; such a menace of a player's king by an adversary's move as would, if it were any other piece, expose it to immediate capture. A king so menaced is said to be in check, and must be made safe at the next move."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A condition of interrupted or impeded progress; arrest; stop; delay; as, to hold an enemy in check."
+          ],
+          "quotes": [
+            "Which gave a remarkable check to the first progress of Christianity.",
+            "No check, no stay, this streamlet fears."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Whatever arrests progress, or limits action; an obstacle, guard, restraint, or rebuff."
+          ],
+          "quotes": [
+            "Useful check upon the administration of government.",
+            "A man whom no check could abash."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "A mark, certificate, or token, by which, errors may be prevented, or a thing or person may be identified; as, checks placed against items in an account; a check given for baggage; a return check on a railroad."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "A written order directing a bank or banker to pay money as therein stated. See Bank check, below."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [],
+          "defs": [
+            "A woven or painted design in squares resembling the pattern of a checkerboard; one of the squares of such a design; also, cloth having such a figure."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "7.",
+          "fields": [
+            "(Falconry)"
+          ],
+          "defs": [
+            "The forsaking by a hawk of its proper game to follow other birds."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "8.",
+          "fields": [
+            "(Mech.)",
+            "(Mech.)"
+          ],
+          "defs": [
+            "Small chick or crack."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Hindrance",
+            "setback",
+            "interruption",
+            "obstruction",
+            "reprimand",
+            "censure",
+            "rebuke",
+            "reproof",
+            "repulse",
+            "rebuff",
+            "tally",
+            "counterfoil",
+            "counterbalance",
+            "ticket",
+            "draft"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Check",
+      "headword_raw": "Check",
+      "pr": "(chkt)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "+PJC",
+        "PJC"
+      ],
+      "morph": "[imp. & p. p. Checked (chkt); p. pr. & vb. n. checking.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Chess)"
+          ],
+          "defs": [
+            "To make a move which puts an adversary's piece, esp. his king, in check; to put in check."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Ice Hockey)"
+          ],
+          "defs": [
+            "To put a sudden restraint upon; to stop temporarily; to hinder; to repress; to curb.",
+            "To obstruct the motion of an opposing player by contacting him with one's body."
+          ],
+          "quotes": [
+            "So many clogs to check and retard the headlong course of violence and oppression."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To verify, to guard, to make secure, by means of a mark, token, or other check; to distinguish by a check; to put a mark against (an item) after comparing with an original or a counterpart in order to secure accuracy.",
+            "To compare with an original or with some standard, to insure correctness; as, to check an account; to check with a supervisor about procedures."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "To chide, rebuke, or reprove."
+          ],
+          "quotes": [
+            "The good king, his master, will check him for it."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Naut.)"
+          ],
+          "defs": [
+            "To slack or ease off, as a brace which is too stiffly extended."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [],
+          "defs": [
+            "To make checks or chinks in; to cause to crack; as, the sun checks timber."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "7.",
+          "fields": [],
+          "defs": [
+            "To leave (something) in the temporary custody of another; as, to check baggage; to check one's firearms at the door; to check one's coat at the cloakroom."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "8.",
+          "fields": [],
+          "defs": [
+            "To accept (something) for temporary custody from another; as, to check a customer's baggage; to check a customer's coat."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "9.",
+          "fields": [],
+          "defs": [
+            "To make a checkered pattern upon."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "restrain",
+            "curb",
+            "bridle",
+            "repress",
+            "control",
+            "hinder",
+            "impede",
+            "obstruct",
+            "interrupt",
+            "tally",
+            "rebuke",
+            "reprove",
+            "rebuff"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Check",
+      "headword_raw": "Check",
+      "pr": "(chk)",
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To clash or interfere."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To act as a curb or restraint."
+          ],
+          "quotes": [
+            "It [his presence] checks too strong upon me."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "To crack or gape open, as wood in drying; or to crack in small checks, as varnish, paint, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Falconry)"
+          ],
+          "defs": [
+            "To turn, when in pursuit of proper game, and fly after other birds."
+          ],
+          "quotes": [
+            "And like the haggard, check at every feather That comes before his eye."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Check",
+      "headword_raw": "Check",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Checkered; designed in checks."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

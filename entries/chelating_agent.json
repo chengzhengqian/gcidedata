@@ -1,0 +1,40 @@
+{
+  "key": "chelating_agent",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "chelating agent",
+      "headword_raw": "che\"lat*ing a`gent",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a compound which forms a chelate with a metal ion."
+          ],
+          "quotes": [],
+          "notes": [
+            "Commonly used chelating agents in laboratory use are EDTA and sodium citrate. Citrate is used as an additive to blood collected in blood banks, to chelate the calcium ions and retard clotting."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "key": "chariot",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Chariot",
+      "headword_raw": "Char\"i*ot",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. Chariot, from char car. See Car.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Antiq.)"
+          ],
+          "defs": [
+            "A two-wheeled car or vehicle for war, racing, state processions, etc."
+          ],
+          "quotes": [
+            "First moved the chariots, after whom the foot."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A four-wheeled pleasure or state carriage, having one seat."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Chariot",
+      "headword_raw": "Char\"i*ot",
+      "pr": null,
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Charioted; p. pr. & vb. n. Charioting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To convey in a chariot."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

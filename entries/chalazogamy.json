@@ -1,0 +1,49 @@
+{
+  "key": "chalazogamy",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Chalazogamy",
+      "headword_raw": "Chal`a*zog\"a*my",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Chalaza + -gamy, as in polygamy.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Chalazogamic",
+          "form_raw": "Chal`a*zo*gam\"ic",
+          "key": "chalazogamic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Bot.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A process of fecundation in which the pollen tube penetrates to the embryosac through the tissue of the chalaza, instead of entering through the micropyle. It was originally discovered by Treub in Casuarina, and has since been found to occur regularly in the families Betulaceæ and Juglandaceæ. Partial chalazogamy is found in Ulmus, the tube here penetrating the nucleus midway between the chalaza and micropyle."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

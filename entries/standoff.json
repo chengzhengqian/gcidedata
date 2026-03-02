@@ -1,0 +1,94 @@
+{
+  "key": "standoff",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "standoff",
+      "headword_raw": "stand\"off",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A situation in a contest in which the winner is undecided; a draw or stalemate."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "draw",
+            "tie",
+            "stalemate",
+            "deadlock"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A successful stand."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "repulsion",
+            "repelling"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Something that serves to keep one object at a distance from another, such as a prop attached to the top of a ladder to keep it from leaning directly against the vertical surface which supports it."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "standoff",
+      "headword_raw": "stand\"off",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Serving to keep two objects or parts of a machine separated; as, a standoff insulator."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

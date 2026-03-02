@@ -1,0 +1,59 @@
+{
+  "key": "stand-offish",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "stand-offish",
+      "headword_raw": "stand-off\"ish",
+      "pr": null,
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "standoffishness",
+          "form_raw": "stand*off\"ish*ness",
+          "key": "standoffishness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "standoffishly",
+          "form_raw": "stand*off\"ish*ly",
+          "key": "standoffishly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "offish"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Shy or distant in manner; cold; aloof; reserved; not friendly."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

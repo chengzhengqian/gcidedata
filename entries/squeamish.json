@@ -1,0 +1,66 @@
+{
+  "key": "squeamish",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Squeamish",
+      "headword_raw": "Squeam\"ish",
+      "pr": "(skwēm\"sh)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[OE. squaimous, sweymous, probably from OE. sweem, swem, dizziness, a swimming in the head; cf. Icel. sveimr a bustle, a stir, Norw. sveim a hovering about, a sickness that comes upon one, Icel. svimi a giddiness, AS. swīma. The word has been perhaps confused with qualmish. Cf. Swim to be dizzy.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Squeamishly",
+          "form_raw": "Squeam\"ish*ly",
+          "key": "squeamishly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Squeamishness",
+          "form_raw": "Squeam\"ish*ness",
+          "key": "squeamishness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Fastidious",
+        "dainty",
+        "overnice",
+        "scrupulous. See Fastidious"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Having a stomach that is easily turned or nauseated; hence, nice to excess in taste; fastidious; easily disgusted; apt to be offended at trifling improprieties."
+          ],
+          "quotes": [
+            "Quoth he, that honor's very squeamish That takes a basting for a blemish.",
+            "His muse is rustic, and perhaps too plain The men of squeamish taste to entertain.",
+            "So ye grow squeamish, Gods, and sniff at heaven."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

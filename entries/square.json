@@ -1,0 +1,454 @@
+{
+  "key": "square",
+  "source_file": "CIDE.S",
+  "record_count": 4,
+  "records": [
+    {
+      "headword": "Square",
+      "headword_raw": "Square",
+      "pr": "(skwr)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OF. esquarre, esquierre, F. querre a carpenter's square (cf. It. squadra), fr. (assumed) LL. exquadrare to make square; L. ex + quadrus a square, fr. quattuor four. See Four, and cf. Quadrant, Squad, Squire a square.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Geom.)"
+          ],
+          "defs": [
+            "The corner, or angle, of a figure.",
+            "A parallelogram having four equal sides and four right angles."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Print.)",
+            "(Carp.)"
+          ],
+          "defs": [
+            "Hence, anything which is square, or nearly so",
+            "A square piece or fragment.",
+            "A pane of glass.",
+            "A certain number of lines, forming a portion of a column, nearly square; -- used chiefly in reckoning the prices of advertisements in newspapers.",
+            "One hundred superficial feet."
+          ],
+          "quotes": [
+            "He bolted his food down his capacious throat in squares of three inches."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "An area of four sides, generally with houses on each side; sometimes, a solid block of houses; also, an open place or area for public use, as at the meeting or intersection of two or more streets."
+          ],
+          "quotes": [
+            "The statue of Alexander VII. stands in the large square of the town."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Mech. & Joinery)"
+          ],
+          "defs": [
+            "An instrument having at least one right angle and two or more straight edges, used to lay out or test square work. It is of several forms, as the T square, the carpenter's square, the try-square., etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "Hence, a pattern or rule."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [
+            "(Arith. & Alg.)"
+          ],
+          "defs": [
+            "The product of a number or quantity multiplied by itself; thus, 64 is the square of 8, for 8 8 = 64; the square of a + b is a2 + 2ab + b2."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "7.",
+          "fields": [],
+          "defs": [
+            "Exact proportion; justness of workmanship and conduct; regularity; rule."
+          ],
+          "quotes": [
+            "They of Galatia [were] much more out of square.",
+            "I have not kept my square."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "8.",
+          "fields": [
+            "(Mil.)"
+          ],
+          "defs": [
+            "A body of troops formed in a square, esp. one formed to resist a charge of cavalry; a squadron."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "9.",
+          "fields": [],
+          "defs": [
+            "Fig.: The relation of harmony, or exact agreement; equality; level."
+          ],
+          "quotes": [
+            "We live not on the square with such as these."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "10.",
+          "fields": [
+            "(Astrol.)"
+          ],
+          "defs": [
+            "The position of planets distant ninety degrees from each other; a quadrate."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "11.",
+          "fields": [],
+          "defs": [
+            "The act of squaring, or quarreling; a quarrel."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "12.",
+          "fields": [
+            "(Mil.)"
+          ],
+          "defs": [
+            "The front of a woman's dress over the bosom, usually worked or embroidered."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Square",
+      "headword_raw": "Square",
+      "pr": "(skwr)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Geom.)"
+          ],
+          "defs": [
+            "Having four equal sides and four right angles; as, a square figure."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Forming a right angle; as, a square corner."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Having a shape broad for the height, with rectilineal and angular rather than curving outlines; as, a man of a square frame."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Exactly suitable or correspondent; true; just."
+          ],
+          "quotes": [
+            "She's a most triumphant lady, if report be square to her."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "Rendering equal justice; exact; fair; honest; as, square dealing."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [],
+          "defs": [
+            "Even; leaving no balance; as, to make or leave the accounts square."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "7.",
+          "fields": [],
+          "defs": [
+            "Leaving nothing; hearty; vigorous."
+          ],
+          "quotes": [
+            "By Heaven, square eaters. More meat, I say."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "8.",
+          "fields": [
+            "(Naut.)",
+            "(Math.)",
+            "(Naut.)",
+            "(Naut.)"
+          ],
+          "defs": [
+            "At right angles with the mast or the keel, and parallel to the horizon; -- said of the yards of a square-rigged vessel when they are so braced."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Square is often used in self-explaining compounds or combinations, as in square-built, square-cornered, square-cut, square-nosed, etc."
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Square",
+      "headword_raw": "Square",
+      "pr": "(skwrd)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "n."
+      ],
+      "ety": "[Cf. OF. escarrer, esquarrer. See Square, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Squared (skwrd); p. pr. & vb. n. Squaring.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To form with four equal sides and four right angles."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To form with right angles and straight lines, or flat surfaces; as, to square masons' work."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To compare with, or reduce to, any given measure or standard."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "To adjust; to regulate; to mold; to shape; to fit; as, to square our actions by the opinions of others."
+          ],
+          "quotes": [
+            "Square my trial To my proportioned strength."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "To make even, so as to leave no remainder or difference; to balance; as, to square accounts."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "To multiply by itself; as, to square a number or a quantity."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "7.",
+          "fields": [
+            "(Astrol.)"
+          ],
+          "defs": [
+            "To hold a quartile position respecting."
+          ],
+          "quotes": [
+            "The icy Goat and Crab that square the Scales."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "8.",
+          "fields": [
+            "(Naut.)",
+            "(Math.)"
+          ],
+          "defs": [
+            "To place at right angles with the keel; as, to square the yards."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Square",
+      "headword_raw": "Square",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To accord or agree exactly; to be consistent with; to conform or agree; to suit; to fit."
+          ],
+          "quotes": [
+            "No works shall find acceptance . . . That square not truly with the Scripture plan."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To go to opposite sides; to take an attitude of offense or defense, or of defiance; to quarrel."
+          ],
+          "quotes": [
+            "Are you such fools To square for this?"
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To take a boxing attitude; -- often with up, sometimes with off."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

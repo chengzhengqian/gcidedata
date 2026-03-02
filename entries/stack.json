@@ -1,0 +1,165 @@
+{
+  "key": "stack",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Stack",
+      "headword_raw": "Stack",
+      "pr": "(stk)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Icel. stakkr; akin to Sw. stack, Dan. stak. Cf. Stake.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A large and to some degree orderly pile of hay, grain, straw, or the like, usually of a nearly conical form, but sometimes rectangular or oblong, contracted at the top to a point or ridge, and sometimes covered with thatch."
+          ],
+          "quotes": [
+            "But corn was housed, and beans were in the stack."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "An orderly pile of any type of object, indefinite in quantity; -- used especially of piles of wood. A stack is usually more orderly than a pile"
+          ],
+          "quotes": [
+            "Against every pillar was a stack of billets above a man's height."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A pile of wood containing 108 cubic feet."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "A large quantity; as, a stack of cash."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Arch.)"
+          ],
+          "defs": [
+            "A number of flues embodied in one structure, rising above the roof.",
+            "Any single insulated and prominent structure, or upright pipe, which affords a conduit for smoke; as, the brick smokestack of a factory; the smokestack of a steam vessel."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [
+            "(Computer programming)"
+          ],
+          "defs": [
+            "A section of memory in a computer used for temporary storage of data, in which the last datum stored is the first retrieved.",
+            "A data structure within random-access memory used to simulate a hardware stack; as, a push-down stack."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "7.",
+          "fields": [
+            "(Mil.)"
+          ],
+          "defs": [
+            "The section of a library containing shelves which hold books less frequently requested."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Stack",
+      "headword_raw": "Stack",
+      "pr": "(stkt)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "n."
+      ],
+      "ety": "[Cf. Sw. stacka, Dan. stakke. See Stack, n.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": "[imp. & p. p. Stacked (stkt); p. pr. & vb. n. Stacking.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To lay in a conical or other pile; to make into a large pile; as, to stack hay, cornstalks, or grain; to stack or place wood."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To place in a vertical arrangement so that each item in a pile is resting on top of another item in the pile, except for the bottom item; as, to stack the papers neatly on the desk; to stack the bricks."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Mil.)"
+          ],
+          "defs": [
+            "To select or arrange dishonestly so as to achieve an unfair advantage; as, to stack a deck of cards; to stack a jury with persons prejudiced against the defendant."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

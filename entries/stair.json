@@ -1,0 +1,48 @@
+{
+  "key": "stair",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Stair",
+      "headword_raw": "Stair",
+      "pr": "(str)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. steir, steyer, AS. stǣger, from stīgan to ascend, rise. √164. See Sty to ascend.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One step of a series for ascending or descending to a different level; -- commonly applied to those within a building."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Arch.)"
+          ],
+          "defs": [
+            "A series of steps, as for passing from one story of a house to another; -- commonly used in the plural; but originally used in the singular only."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

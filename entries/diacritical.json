@@ -1,0 +1,38 @@
+{
+  "key": "diacritical",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Diacritical",
+      "headword_raw": "Di`a*crit\"ic*al",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Gr. diakritiko`s, fr. diakri`nein to separate, distinguish; dia` through + kri`nw to separate. See Critic.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "That separates or distinguishes; -- applied to points or marks used to distinguish letters of similar form, or different sounds of the same letter, as, ā, , ä, ō, , etc."
+          ],
+          "quotes": [
+            "A glance at this typography will reveal great difficulties, which diacritical marks necessarily throw in the way of both printer and writer."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

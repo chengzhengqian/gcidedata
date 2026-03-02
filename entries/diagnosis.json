@@ -1,0 +1,74 @@
+{
+  "key": "diagnosis",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Diagnosis",
+      "headword_raw": "Di`ag*no\"sis",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[NL., fr. Gr. dia`gnwsis, fr. diagignw`skw to distinguish; dia` through, asunder + gignw`skw to know. See Know.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "The art or act of recognizing the presence of disease from its signs or symptoms, and deciding as to its character; also, the decision arrived at."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Hence, the act or process of identifying the nature or cause of some phenomenon, especially the abnormal behavior of an animal or artifactual device; as, diagnosis of a vibration in an automobile; diagnosis of the failure of a sales campaign; diagnosis of a computer malfunction."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Scientific determination of any kind; the concise description of characterization of a species."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "Critical perception or scrutiny; judgment based on such scrutiny; esp., perception of, or judgment concerning, motives and character."
+          ],
+          "quotes": [
+            "The quick eye for effects, the clear diagnosis of men's minds, and the love of epigram.",
+            "My diagnosis of his character proved correct."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

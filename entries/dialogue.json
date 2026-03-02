@@ -1,0 +1,106 @@
+{
+  "key": "dialogue",
+  "source_file": "CIDE.D",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Dialogue",
+      "headword_raw": "Di\"a*logue",
+      "pr": "(?; 115)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. dialogue, L. dialogus, fr. Gr. <?/, fr. <?/ to converse, dia` through + <?/ to speak: cf. F. dialogue. See Legend.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A conversation between two or more persons; particularly, a formal conservation in theatrical performances or in scholastic exercises."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A written composition in which two or more persons are represented as conversing or reasoning on some topic; as, the Dialogues of Plato."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Dialogue",
+      "headword_raw": "Di\"a*logue",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": "[Cf. F. dialoguer.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To take part in a dialogue; to dialogize."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Dialogue",
+      "headword_raw": "Di\"a*logue",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To express as in dialogue."
+          ],
+          "quotes": [
+            "And dialogued for him what he would say."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

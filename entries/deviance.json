@@ -1,0 +1,52 @@
+{
+  "key": "deviance",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "deviance",
+      "headword_raw": "deviance",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "an aberrant state or condition."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "aberrance",
+            "aberrancy",
+            "aberration"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "deviate behavior."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "deviation"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "key": "developing",
+  "source_file": "CIDE.D",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "developing",
+      "headword_raw": "developing",
+      "pr": null,
+      "pos": [
+        "adj.",
+        "pr. p."
+      ],
+      "ety": "[pr. p. of develop (WN definition 5)]",
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "not industrialized but undergoing industrialization; -- sometimes used as a euphemism for \"undeveloped\"; -- of nations."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "underdeveloped"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "becoming or arising; as, the rushing yellow of the developing day."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "developing",
+      "headword_raw": "developing",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "development"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "the process of treating a photosensitive material with chemicals in order to make a latent image visible."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

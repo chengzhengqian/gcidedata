@@ -1,0 +1,75 @@
+{
+  "key": "dialysis",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Dialysis",
+      "headword_raw": "Di*al\"y*sis",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L., separation, fr. Gr. <?/, fr. <?/ to part asunder, dissolve; dia` through + <?/ to loose.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Gram.)"
+          ],
+          "defs": [
+            "Diæresis. See Diæresis, 1."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Rhet.)"
+          ],
+          "defs": [
+            "Same as Asyndeton."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "Debility.",
+            "A solution of continuity; division; separation of parts."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "The separation of different substances in solution, as crystalloids and colloids, by means of their unequal diffusion, especially through natural or artificial membranes."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

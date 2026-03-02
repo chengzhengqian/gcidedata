@@ -1,0 +1,78 @@
+{
+  "key": "devilish",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Devilish",
+      "headword_raw": "Dev\"il*ish",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Devilishly",
+          "form_raw": "Dev\"il*ish*ly",
+          "key": "devilishly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Devilishness",
+          "form_raw": "Dev\"il*ish*ness",
+          "key": "devilishness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Resembling, characteristic of, or pertaining to, the devil; diabolical; wicked in the extreme."
+          ],
+          "quotes": [
+            "This wisdom descendeth not from above, but is earthly, sensual, devilish."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Extreme; excessive."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Diabolical",
+            "infernal",
+            "hellish",
+            "satanic",
+            "wicked",
+            "malicious",
+            "detestable",
+            "destructive"
+          ]
+        }
+      ]
+    }
+  ]
+}

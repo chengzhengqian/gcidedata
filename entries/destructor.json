@@ -1,0 +1,65 @@
+{
+  "key": "destructor",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Destructor",
+      "headword_raw": "De*struc\"tor",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L., from destruere. See Destroy, and cf. Destroyer.]",
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl.",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A destroyer."
+          ],
+          "quotes": [
+            "Fire, the destructor and the artificial death of things."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Sewage Disposal)"
+          ],
+          "defs": [
+            "A furnace or oven for the burning or carbonizing of refuse",
+            "a furnace (called in full refuse destructor) in which the more solid constituents of sewage are burnt. Destructors are often so constructed as to utilize refuse as fuel."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "in object-oriented programming, a function which destroys an object which was previously created by a different function."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

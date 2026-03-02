@@ -1,0 +1,87 @@
+{
+  "key": "detect",
+  "source_file": "CIDE.D",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Detect",
+      "headword_raw": "De*tect\"",
+      "pr": "(d*tkt\")",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. detectus, p. p. of detegere to uncover, detect; de + tegere to cover. See Tegument.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Detected."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Detect",
+      "headword_raw": "De*tect\"",
+      "pr": "(d*tkt\")",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Detected; p. pr. & vb. n. Detecting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To uncover; to discover; to find out; to bring to light; as, to detect a crime or a criminal; to detect a mistake in an account."
+          ],
+          "quotes": [
+            "Plain good intention . . . is as easily discovered at the first view, as fraud is surely detected at last.",
+            "Like following life through creatures you dissect, You lose it in the moment you detect."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To inform against; to accuse."
+          ],
+          "quotes": [
+            "He was untruly judged to have preached such articles as he was detected of."
+          ],
+          "notes": [],
+          "synonyms": [
+            "discover",
+            "find out",
+            "lay bare",
+            "expose"
+          ]
+        }
+      ]
+    }
+  ]
+}

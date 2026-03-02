@@ -1,0 +1,40 @@
+{
+  "key": "di-iodotyrosine",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "di-iodotyrosine",
+      "headword_raw": "di-iodotyrosine",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem., Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a chemical substance consisting of tyrosine with two hydrogen atoms on the benzene ring replaced by iodine atoms."
+          ],
+          "quotes": [],
+          "notes": [
+            "The isomer 3,5-diiodotyrosine is an inhibitor of thyroid function."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

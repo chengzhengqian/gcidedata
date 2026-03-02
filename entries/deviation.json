@@ -1,0 +1,72 @@
+{
+  "key": "deviation",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "deviation",
+      "headword_raw": "de`vi*a\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[LL. deviatio: cf. F. dviation.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of deviating; a wandering from the way; variation from the common way, from an established rule, etc.; departure, as from the right course or the path of duty."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The state or result of having deviated; a transgression; an act of sin; an error; an offense."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Com.)"
+          ],
+          "defs": [
+            "The voluntary and unnecessary departure of a ship from, or delay in, the regular and usual course of the specific voyage insured, thus releasing the underwriters from their responsibility."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Statistics, Physics)",
+            "(Physics)"
+          ],
+          "defs": [
+            "the difference between an expected value of an observation or measurement and the actual value."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "key": "determinant",
+  "source_file": "CIDE.D",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Determinant",
+      "headword_raw": "De*ter\"mi*nant",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. determinans, p. pr. of determinare: cf. F. dterminant.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Serving to determine or limit; determinative."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Determinant",
+      "headword_raw": "De*ter\"mi*nant",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "That which serves to determine; that which causes determination."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "The sum of a series of products of several numbers, these products being formed according to certain specified laws"
+          ],
+          "quotes": [],
+          "notes": [
+            "thus, the determinant of the nine numbers a, b, c,a, b, c,a, b, c, is a b c - a b c + a b c] - a b c + a b c. The determinant is written by placing the numbers from which it is formed in a square between two vertical lines. The theory of determinants forms a very important branch of modern mathematics."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Logic)"
+          ],
+          "defs": [
+            "A mark or attribute, attached to the subject or predicate, narrowing the extent of both, but rendering them more definite and precise."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

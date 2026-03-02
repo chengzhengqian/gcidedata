@@ -1,0 +1,72 @@
+{
+  "key": "devious",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Devious",
+      "headword_raw": "De\"vi*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. devius; de + via way. See Viaduct.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Deviously",
+          "form_raw": "De\"vi*ous*ly",
+          "key": "deviously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Deviousness",
+          "form_raw": "De\"vi*ous*ness",
+          "key": "deviousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Out of a straight line; winding; varying from directness; as, a devious path or way."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Going out of the right or common course; going astray; erring; wandering; as, a devious step."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Wandering",
+            "roving",
+            "rambling",
+            "vagrant"
+          ]
+        }
+      ]
+    }
+  ]
+}

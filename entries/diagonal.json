@@ -1,0 +1,94 @@
+{
+  "key": "diagonal",
+  "source_file": "CIDE.D",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Diagonal",
+      "headword_raw": "Di*ag\"o*nal",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. diagonalis, fr. Gr. diagw`nios from to angle; dia` through + gwni`a an angle; perh. akin to E. knee: cf. F. diagonal.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Geom.)",
+        "(Masonry)",
+        "(Shipbuilding)",
+        "(Arch.)",
+        "(Arch.)",
+        "(Geol.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Joining two not adjacent angles of a quadrilateral or multilateral figure; running across from corner to corner; crossing at an angle with one of the sides."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Diagonal",
+      "headword_raw": "Di*ag\"o*nal",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A right line drawn from one angle to another not adjacent, of a figure of four or more sides, and dividing it into two parts."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Engin.)"
+          ],
+          "defs": [
+            "A member, in a framed structure, running obliquely across a panel."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A diagonal cloth; a kind of cloth having diagonal stripes, ridges, or welts made in the weaving."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

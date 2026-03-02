@@ -1,0 +1,53 @@
+{
+  "key": "umbra",
+  "source_file": "CIDE.U",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Umbra",
+      "headword_raw": "Um\"bra",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L., a shadow.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Astron.)"
+          ],
+          "defs": [
+            "The conical shadow projected from a planet or satellite, on the side opposite to the sun, within which a spectator could see no portion of the sun's disk; -- used in contradistinction from penumbra. See Penumbra.",
+            "The central dark portion, or nucleus, of a sun spot.",
+            "The fainter part of a sun spot; -- now more commonly called penumbra."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Zool.)",
+            "(Bot.)"
+          ],
+          "defs": [
+            "Any one of several species of sciaenoid food fishes of the genus Umbrina, especially the Mediterranean species (Umbrina cirrhosa), which is highly esteemed as a market fish; -- called also ombre, and umbrine."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

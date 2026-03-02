@@ -1,0 +1,69 @@
+{
+  "key": "ulcerous",
+  "source_file": "CIDE.U",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Ulcerous",
+      "headword_raw": "Ul\"cer*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. ulcerosus: cf. F. ulcreux.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Ulcerously",
+          "form_raw": "Ul\"cer*ous*ly",
+          "key": "ulcerously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Ulcerousness",
+          "form_raw": "Ul\"cer*ous*ness",
+          "key": "ulcerousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Having the nature or character of an ulcer; discharging purulent or other matter."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Affected with an ulcer or ulcers; ulcerated."
+          ],
+          "quotes": [
+            "It will but skin and film the ulcerous place."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

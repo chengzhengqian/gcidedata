@@ -1,0 +1,45 @@
+{
+  "key": "typolithography",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Typolithography",
+      "headword_raw": "Ty`po*li*thog\"ra*phy",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Gr. <?/ type + lithography.]",
+      "sources": [],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Typolithographic",
+          "form_raw": "Ty`po*lith`o*graph\"ic",
+          "key": "typolithographic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A branch of lithography in which impressions from printers' types are transferred to stone for reproduction."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

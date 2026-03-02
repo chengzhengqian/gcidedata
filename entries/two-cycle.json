@@ -1,0 +1,49 @@
+{
+  "key": "two-cycle",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Two-cycle",
+      "headword_raw": "Two\"-cy`cle",
+      "pr": null,
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Two-cycle",
+          "form_raw": "Two\"-cy`cle",
+          "key": "two-cycle",
+          "pos": [
+            "a."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Thermodynamics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A two-stroke cycle for an internal-combustion engine."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

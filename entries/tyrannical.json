@@ -1,0 +1,57 @@
+{
+  "key": "tyrannical",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Tyrannical",
+      "headword_raw": "Ty*ran\"nic*al",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[L. tyrannicus, Gr. <?/: cf. F. tyrannique. See Tyrant.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Tyrannically",
+          "form_raw": "Ty*ran\"nic*al*ly",
+          "key": "tyrannically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Tyrannicalness",
+          "form_raw": "Ty*ran\"nic*al*ness",
+          "key": "tyrannicalness",
+          "pos": [],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to a tyrant; suiting a tyrant; unjustly severe in government; absolute; imperious; despotic; cruel; arbitrary; as, a tyrannical prince; a tyrannical master; tyrannical government."
+          ],
+          "quotes": [
+            "Our sects a more tyrannic power assume.",
+            "The oppressor ruled tyrannic where he durst."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

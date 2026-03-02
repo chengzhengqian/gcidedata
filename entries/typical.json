@@ -1,0 +1,71 @@
+{
+  "key": "typical",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Typical",
+      "headword_raw": "Typ\"ic*al",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. typicus, Gr. <?/, from <?/ type: cf. F. typique. See Type.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Typically",
+          "form_raw": "Typ\"ic*al*ly",
+          "key": "typically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Typicalness",
+          "form_raw": "Typ\"ic*al*ness",
+          "key": "typicalness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of the nature of a type; representing something by a form, model, or resemblance; emblematic; prefigurative."
+          ],
+          "quotes": [
+            "The Levitical priesthood was only typical of the Christian."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Nat. Hist.)"
+          ],
+          "defs": [
+            "Combining or exhibiting the essential characteristics of a group; as, a typical genus."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "key": "unarmed",
+  "source_file": "CIDE.U",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Unarmed",
+      "headword_raw": "Unarmed",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "See armed."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Unarmed",
+      "headword_raw": "Un*armed\"",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Pref. un- not + armed.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Not armed or armored; having no arms or weapons."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Nat. Hist.)"
+          ],
+          "defs": [
+            "Having no hard and sharp projections, as spines, prickles, spurs, claws, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Not in a state in which it may be detonated; unable to be detonated; -- used of nuclear and certain other explosive devices, which, as a safety precaution, are stored and transported in a state in which normal triggering mechanisms will not function to cause the device to detonate. The weapon must first be armed by a separate action, and only subsequent to such arming will the weapon be able to detonate."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

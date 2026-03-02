@@ -1,0 +1,40 @@
+{
+  "key": "umlaut",
+  "source_file": "CIDE.U",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "umlaut",
+      "headword_raw": "um\"laut",
+      "pr": "(m\"lout)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[G., from um about + laut sound.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Philol.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The euphonic modification of a root vowel sound by the influence of a, u, or especially i, in the syllable which formerly followed."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ It is peculiar to the Teutonic languages, and was common in Anglo-Saxon. In German the umlauted vowels resulting from a, o, u, followed by old i, are written ä, ö, ü, or ae, oe, ue; as, männer or maenner, men, from mann, man. Examples of forms resulting from umlaut in English are geese pl. of goose, men pl. of man, etc."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

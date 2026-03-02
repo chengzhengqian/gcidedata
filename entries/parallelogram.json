@@ -1,0 +1,39 @@
+{
+  "key": "parallelogram",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Parallelogram",
+      "headword_raw": "Par`al*lel\"o*gram",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. <?/; <?/ parallel + <?/ to write: cf. F. paralllogramme. See Parallel, and -gram.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Geom.)",
+        "(Mech.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A right-lined quadrilateral figure, whose opposite sides are parallel, and consequently equal; -- sometimes restricted in popular usage to a rectangle, or quadrilateral figure which is longer than it is broad, and with right angles."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

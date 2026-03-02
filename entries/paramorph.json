@@ -1,0 +1,72 @@
+{
+  "key": "paramorph",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Paramorph",
+      "headword_raw": "Par\"a*morph",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Pref. para- + Gr. morfh` form.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "paramorphic",
+          "form_raw": "par`a*mor\"phic",
+          "key": "paramorphic",
+          "pos": [
+            "a."
+          ],
+          "pr": null
+        },
+        {
+          "form": "paramorphous",
+          "form_raw": "par`a*mor\"phous",
+          "key": "paramorphous",
+          "pos": [
+            "a."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Min.)"
+          ],
+          "defs": [
+            "A kind of pseudomorph, in which there has been a change of physical characters, by a change in crystal structure without alteration of chemical composition, as the change of aragonite to calcite; called also allomorph."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Biol.)"
+          ],
+          "defs": [
+            "A taxonomic variant observed within a species, for which a more specific term has not been assigned."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

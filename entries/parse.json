@@ -1,0 +1,43 @@
+{
+  "key": "parse",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "parse",
+      "headword_raw": "parse",
+      "pr": "(pärs)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "n."
+      ],
+      "ety": "[L. pars a part; pars orationis a part of speech. See Part, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. parsed (pärst); p. pr. & vb. n. parsing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Gram.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To resolve into its elements, as a sentence, pointing out the several parts of speech, and their relation to each other by government or agreement; to analyze and describe grammatically."
+          ],
+          "quotes": [
+            "Let him construe the letter into English, and parse it over perfectly."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

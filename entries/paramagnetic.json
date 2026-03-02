@@ -1,0 +1,51 @@
+{
+  "key": "paramagnetic",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Paramagnetic",
+      "headword_raw": "Par`a*mag*net\"ic",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[Pref. para- + magnetic.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Paramagnetically",
+          "form_raw": "Par`a*mag*net\"ic*al*ly",
+          "key": "paramagnetically",
+          "pos": [
+            "adv."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Having or exhibiting paramagnetism; -- opposed to diamagnetic and contrasted with ferromagnetic.",
+            "A paramagnetic substance."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

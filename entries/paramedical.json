@@ -1,0 +1,48 @@
+{
+  "key": "paramedical",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "paramedical",
+      "headword_raw": "par`a*med\"i*cal",
+      "pr": "(pr`*md\"*kl)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to those providing medical care who are not physicians but serve in the capacity of assisting physicians; nurses, physiotherapists, dieticians, Physical Therapy instructors, and respiratory therapy technicians are examples of paramedical personnel."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to the type of medical care provided by paramedics or other paramedical personnel; as, paramedical treatment."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

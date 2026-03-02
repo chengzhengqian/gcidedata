@@ -1,0 +1,61 @@
+{
+  "key": "parallax",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Parallax",
+      "headword_raw": "Par\"al*lax",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. <?/ alternation, the mutual inclination of two lines forming an angle, fr. <?/ to change a little, go aside, deviate; para` beside, beyond + <?/ to change: cf. F. parallaxe. Cf. Parallel.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The apparent displacement, or difference of position, of an object, as seen from two different stations, or points of view."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Astron.)"
+          ],
+          "defs": [
+            "The apparent difference in position of a body (as the sun, or a star) as seen from some point on the earth's surface, and as seen from some other conventional point, as the earth's center or the sun."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Astron.)"
+          ],
+          "defs": [
+            "The annual parallax. See annual parallax, below."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

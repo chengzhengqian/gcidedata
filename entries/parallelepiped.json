@@ -1,0 +1,42 @@
+{
+  "key": "parallelepiped",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "parallelepiped",
+      "headword_raw": "parallelepiped",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "parallelopiped",
+        "parallelepipedon",
+        "parallelopipedon"
+      ],
+      "entry_fields": [
+        "(Geometry)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A prism whose bases are parallelograms."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

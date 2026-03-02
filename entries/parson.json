@@ -1,0 +1,52 @@
+{
+  "key": "parson",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Parson",
+      "headword_raw": "Par\"son",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. persone person, parson, OF. persone, F. personne person, LL. persona (sc. ecclesiae), fr. L. persona a person. See Person.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Eng. Eccl. Law)"
+          ],
+          "defs": [
+            "A person who represents a parish in its ecclesiastical and corporate capacities; hence, the rector or incumbent of a parochial church, who has full possession of all the rights thereof, with the cure of souls."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "Any clergyman having ecclesiastical preferment; one who is in orders, or is licensed to preach; a preacher."
+          ],
+          "quotes": [
+            "He hears the parson pray and preach."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

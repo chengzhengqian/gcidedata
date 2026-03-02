@@ -1,0 +1,158 @@
+{
+  "key": "parole",
+  "source_file": "CIDE.P",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Parole",
+      "headword_raw": "Pa*role\"",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. parole. See Parley, and cf. Parol.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A word; an oral utterance."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mil.)"
+          ],
+          "defs": [
+            "Word of promise; word of honor; plighted faith;",
+            "promise, upon one's faith and honor, to fulfill stated conditions, as not to bear arms against one's captors, to return to custody, or the like."
+          ],
+          "quotes": [
+            "This man had forfeited his military parole."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Mil.)"
+          ],
+          "defs": [
+            "A watchword given only to officers of guards; -- distinguished from countersign, which is given to all guards."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "Oral declaration. See 1st Parol, 2."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "The release of a prisoner from confinement prior to the end of the original sentence, conditioned on good behavior and often with other specific conditions, such as not to associate with known criminals. Such early release is common where the sentence provides a minimum and maximum term; as, he was released on parole after three years of his five-year sentence; he is out on parole."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [],
+          "defs": [
+            "A document authorizing a parole{5}."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Parole",
+      "headword_raw": "Pa*role\"",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "See 2d Parol."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Parole",
+      "headword_raw": "Pa*role\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Paroled (?); p. pr. & vb. n. Paroling.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Mil. and Penology)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To set at liberty on parole; as, to parole prisoners."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

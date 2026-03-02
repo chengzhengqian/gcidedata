@@ -1,0 +1,42 @@
+{
+  "key": "parallelopiped",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Parallelopiped",
+      "headword_raw": "Par`al*lel`o*pi\"ped",
+      "pr": "(pr`l*ll`*pī\"pd)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. para`llhlos parallel + 'epi`pedon a plane surface, 'epi`pedos on the ground, or level with it, level, flat; 'epi` on + pe`don the ground: cf. F. paralllopipde.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "parallelepiped",
+        "parallelepipedon",
+        "parallelopipedon"
+      ],
+      "entry_fields": [
+        "(Geom.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A solid, the faces of which are six parallelograms, the opposite pairs being parallel, and equal to each other; a prism whose base is a parallelogram."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

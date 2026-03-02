@@ -1,0 +1,67 @@
+{
+  "key": "paregoric",
+  "source_file": "CIDE.P",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Paregoric",
+      "headword_raw": "Par`e*gor\"ic",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. paregoricus, Gr. <?/, from <?/ addressing, encouraging, soothing; para` beside + <?/ an assembly: cf. F. pargorique. See Allegory.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Mitigating; assuaging or soothing pain; as, paregoric elixir."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Paregoric",
+      "headword_raw": "Par`e*gor\"ic",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A medicine that mitigates pain; an anodyne; specifically, camphorated tincture of opium; -- called also paregoric elexir."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

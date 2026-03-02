@@ -1,0 +1,50 @@
+{
+  "key": "paranoid",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "paranoid",
+      "headword_raw": "par\"a*noid`",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "Affected with paranoia; as, a paranoid schizophrenic."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "paranoiac"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Suffering from delusions of being persecuted by the conspiratorial actions of others; having an unwarranted suspicion of the motives of others; -- used loosely in a negative sense, not as a medical term; as, just because you're paranoid doesn't mean they are not out to get you."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

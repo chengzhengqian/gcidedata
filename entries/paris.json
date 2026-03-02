@@ -1,0 +1,71 @@
+{
+  "key": "paris",
+  "source_file": "CIDE.P",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Paris",
+      "headword_raw": "Par\"is",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[From Paris, the son of Priam.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Bot.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A plant common in Europe (Paris quadrifolia); herb Paris; truelove. It has been used as a narcotic."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ It much resembles the American genus Trillium, but has usually four leaves and a tetramerous flower."
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Paris",
+      "headword_raw": "Par\"is",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The chief city of France."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

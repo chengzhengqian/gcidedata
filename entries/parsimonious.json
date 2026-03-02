@@ -1,0 +1,70 @@
+{
+  "key": "parsimonious",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Parsimonious",
+      "headword_raw": "Par`si*mo\"ni*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Cf. F. parcimonieux. See Parsimony.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Parsimoniously",
+          "form_raw": "Par`si*mo\"ni*ous*ly",
+          "key": "parsimoniously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Parsimoniousness",
+          "form_raw": "Par`si*mo\"ni*ous*ness",
+          "key": "parsimoniousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Covetous",
+        "niggardly",
+        "miserly",
+        "penurious",
+        "close",
+        "saving",
+        "mean",
+        "stingy",
+        "frugal. See Avaricious"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Exhibiting parsimony; sparing in expenditure of money; frugal to excess; penurious; niggardly; stingy."
+          ],
+          "quotes": [
+            "A prodigal king is nearer a tyrant than a parsimonious.",
+            "Extraordinary funds for one campaign may spare us the expense of many years; whereas a long, parsimonious war will drain us of more men and money."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

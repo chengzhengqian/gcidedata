@@ -1,0 +1,73 @@
+{
+  "key": "parasitical",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Parasitical",
+      "headword_raw": "Par`a*sit\"ic*al",
+      "pr": "(pr`*st\"*kl)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. parasiticus, Gr. <?/: cf. F. parasitique.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Parasitically",
+          "form_raw": "Par`a*sit\"ic*al*ly",
+          "key": "parasitically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Parasiticalness",
+          "form_raw": "Par`a*sit\"ic*al*ness",
+          "key": "parasiticalness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of the nature of a parasite; having the habits of a parasite; fawning for food or favors; sycophantic."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "leechlike",
+            "bloodsucking"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Bot. & Zool.)",
+            "(Zool.)"
+          ],
+          "defs": [
+            "Of or pertaining to parasites; living on, or deriving nourishment from, some other living animal or plant. See Parasite, 2 & 3."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

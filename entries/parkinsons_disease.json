@@ -1,0 +1,45 @@
+{
+  "key": "parkinsons_disease",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Parkinsons disease",
+      "headword_raw": "Parkinson's disease",
+      "pr": null,
+      "pos": [
+        "prop. n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "paralysis agitans",
+        "Parkinsonism",
+        "Parkinson's disease syndrome",
+        "shaking palsy"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A disease causing parkinsonism, a degenerative nervous disorder; sometimes used loosely as a synonym for parkinsonism. More precisely, parkinson's disease is the term for the underlying physiological disorder and parkinsonism is the term for the set of symptoms associated with the disease. See parkinsonism."
+          ],
+          "quotes": [
+            "Parkinson's disease is the most common form of parkinsonism, a group of disorders that are the result of the loss of dopamine-producing brain cells.",
+            "According to the National Parkinson's Foundation (NPF), 1 million Americans -- including former heavyweight boxing champion Muhammad Ali, U.S. Attorney General Janet Reno, and television and film star Michael J. Fox -- are affected by Parkinson's disease."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

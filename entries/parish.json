@@ -1,0 +1,90 @@
+{
+  "key": "parish",
+  "source_file": "CIDE.P",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "parish",
+      "headword_raw": "par\"ish",
+      "pr": "(pr\"sh)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. parishe, paresche, parosche, OF. paroisse, parosse, paroiche, F. paroisse, L. parochia, corrupted fr. paroecia, Gr. paroiki`a, fr. pa`roikos dwelling beside or near; para` beside + o'i^kos a house, dwelling; akin to L. vicus village. See Vicinity, and cf. Parochial.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Eccl. & Eng. Law)"
+          ],
+          "defs": [
+            "That circuit of ground committed to the charge of one parson or vicar, or other minister having cure of souls therein.",
+            "The same district, constituting a civil jurisdiction, with its own officers and regulations, as respects the poor, taxes, etc."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Populous and extensive parishes are now divided, under various parliamentary acts, into smaller ecclesiastical districts for spiritual purposes."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "An ecclesiastical society, usually not bounded by territorial limits, but composed of those persons who choose to unite under the charge of a particular priest, clergyman, or minister; also, loosely, the territory in which the members of a congregation live."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "In Louisiana, a civil division corresponding to a county in other States."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Parish",
+      "headword_raw": "Par\"ish",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to a parish; parochial; as, a parish church; parish records; a parish priest; maintained by the parish; as, parish poor."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

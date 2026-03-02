@@ -1,0 +1,45 @@
+{
+  "key": "parkinsonism",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "parkinsonism",
+      "headword_raw": "parkinsonism",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "paralysis agitans",
+        "Parkinson's disease",
+        "Parkinson's syndrome",
+        "Parkinson's",
+        "shaking palsy"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A degenerative nervous disorder occurring mostly in persons older than 60 years, characterized in advanced stages by rhythmic muscular tremors, especially in the hands, and by rigidity of movement, a drooping posture, slow speech, and a masklike facial expression; the term designates a set of symptoms, and the underlying disease causing these symptoms is most commonly Parkinson's disease. Parkinsonism results from a deficiency in the neurotransmitter dopamine caused by degeneration of the cells producing that agent. It can be mitigated by chemotherapy with agents such as levodopa (3-hydroxy-L-tyrosine)."
+          ],
+          "quotes": [
+            "A Mayo Clinic study finds parkinsonism, a group of ailments that includes Parkinson's disease, is three times more common than previously thought and men are more likely to develop it than women. The study, published Tuesday in the journal Neurology, found the lifetime risk of developing parkinsonism is 7.5 percent, three times higher than previously thought."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "key": "partition",
+  "source_file": "CIDE.P",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Partition",
+      "headword_raw": "Par*ti\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "v."
+      ],
+      "ety": "[F. partition, L. partitio. See Part, v.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of parting or dividing; the state of being parted; separation; division; distribution; as, the partition of a kingdom."
+          ],
+          "quotes": [
+            "And good from bad find no partition."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That which divides or separates; that by which different things, or distinct parts of the same thing, are separated; separating boundary; dividing line or space; specifically, an interior wall dividing one part or apartment of a house, a compartment of a room, an inclosure, or the like, from another; as, a brick partition; lath and plaster partitions; cubicles with four-foot high partitions."
+          ],
+          "quotes": [
+            "No sight could pass Betwixt the nice partitions of the grass."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A part divided off by walls; an apartment; a compartment."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Law.)"
+          ],
+          "defs": [
+            "The severance of common or undivided interests, particularly in real estate. It may be effected by consent of parties, or by compulsion of law."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Mus.)",
+            "(Math.)"
+          ],
+          "defs": [
+            "A score."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Partition",
+      "headword_raw": "Par*ti\"tion",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Partitioned (?); p. pr. & vb. n. Partitioning.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To divide into parts or shares; to divide and distribute; as, to partition an estate among various heirs."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To divide into distinct parts by lines, walls, etc.; as, to partition a house."
+          ],
+          "quotes": [
+            "Uniform without, though severally partitioned within."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "key": "partitioning",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "partitioning",
+      "headword_raw": "partitioning",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "breakdown"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Separation by the creation of a boundary that divides or keeps apart."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "division",
+            "partition",
+            "segmentation",
+            "subdivision"
+          ]
+        }
+      ]
+    }
+  ]
+}

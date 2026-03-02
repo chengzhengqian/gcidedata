@@ -1,0 +1,52 @@
+{
+  "key": "parenthesis",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Parenthesis",
+      "headword_raw": "Pa*ren\"the*sis",
+      "pr": "(p*rn\"th*ss)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[NL., fr. Gr. pare`nqesis, fr. parentiqe`nai to put in beside, insert; para` beside + 'en in + tiqe`nai to put, place. See Para-, En-, 2, and Thesis.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A word, phrase, or sentence, by way of comment or explanation, inserted in, or attached to, a sentence which would be grammatically complete without it. It is usually inclosed within curved lines (see def. 2 below), or dashes."
+          ],
+          "quotes": [
+            "Don't suffer every occasional thought to carry you away into a long parenthesis."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Print.)"
+          ],
+          "defs": [
+            "One of the curved lines () which inclose a parenthetic word or phrase."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Parenthesis, in technical grammar, is that part of a sentence which is inclosed within the recognized sign; but many phrases and sentences which are punctuated by commas are logically parenthetical. In def. 1, the phrase “by way of comment or explanation” is inserted for explanation, and the sentence would be grammatically complete without it. The present tendency is to avoid using the distinctive marks, except when confusion would arise from a less conspicuous separation."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

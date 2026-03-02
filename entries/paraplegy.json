@@ -1,0 +1,49 @@
+{
+  "key": "paraplegy",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Paraplegy",
+      "headword_raw": "Par\"a*ple`gy",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[NL. paraplegia, fr. Gr. <?/ hemiplegia, fr. <?/ to strike at the side; para` beside + <?/ to strike: cf. F. paraplgie.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Paraplegic",
+          "form_raw": "Par`a*pleg\"ic",
+          "key": "paraplegic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Palsy of the lower half of the body on both sides, caused usually by disease of the spinal cord."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "key": "parsec",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "parsec",
+      "headword_raw": "par\"sec",
+      "pr": "(pär\"sk)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[From parallax second. See parallax second and annual parallax, under parallax.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Astron.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A unit of length used in describing astronomical distances, equal to 3.26 light years, or 3.086 x 1013 km. Abbreviated pc. The derived units of kiloparsec (kpc, 1000 parsecs) and megaparsec (mpc, one million parsecs) are often found in discussion of astronomical distances."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

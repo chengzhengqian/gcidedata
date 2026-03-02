@@ -1,0 +1,81 @@
+{
+  "key": "mood",
+  "source_file": "CIDE.M",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Mood",
+      "headword_raw": "Mood",
+      "pr": "(md)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[The same word as mode, perh. influenced by mood temper. See Mode.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Manner; style; mode; logical form; musical style; manner of action or being. See Mode which is the preferable form)."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Gram.)"
+          ],
+          "defs": [
+            "Manner of conceiving and expressing action or being, as positive, possible, conditional, hypothetical, obligatory, imperitive, etc., without regard to other accidents, such as time, person, number, etc.; as, the indicative mood; the imperitive mood; the infinitive mood; the subjunctive mood. Same as Mode."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Mood",
+      "headword_raw": "Mood",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. mood, mod, AS. mōdmind, feeling, heart, courage; akin to OS. & OFries. mōd, D. moed, OHG. muot, G. muth, mut, courage, Dan. & Sw. mod, Icel. mōðr wrath, Goth. mōds.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Temper of mind; temporary state of the mind in regard to passion or feeling; humor; as, a melancholy mood; a suppliant mood."
+          ],
+          "quotes": [
+            "Till at the last aslaked was his mood.",
+            "Fortune is merry, And in this mood will give us anything.",
+            "The desperate recklessness of her mood."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

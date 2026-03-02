@@ -1,0 +1,75 @@
+{
+  "key": "monacid",
+  "source_file": "CIDE.M",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "monacid",
+      "headword_raw": "mon*ac\"id",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Mon- + acid.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "monoacid",
+        "monoacidic",
+        "monacidic"
+      ],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Capable of neutralizing one equivalent of a monobasic acid; -- said of bases, and of certain metals."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "monacid",
+      "headword_raw": "mon*ac\"id",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "monoacid"
+      ],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An acid having one replaceable hydrogen atom."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

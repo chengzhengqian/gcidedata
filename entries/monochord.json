@@ -1,0 +1,38 @@
+{
+  "key": "monochord",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Monochord",
+      "headword_raw": "Mon\"o*chord",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. monochordon, Gr. <?/, fr. <?/ with but one string; <?/ only, single + <?/ string: cf. F. monocorde. See Chord, and cf. Mainchord.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Mus.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An instrument for experimenting upon the mathematical relations of musical sounds. It consists of a single string stretched between two bridges, one or both of which are movable, and which stand upon a graduated rule for the purpose of readily changing and measuring the length of the part of the string between them."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

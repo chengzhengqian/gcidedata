@@ -1,0 +1,56 @@
+{
+  "key": "moody",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Moody",
+      "headword_raw": "Mood\"y",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "Compar.",
+        "superl."
+      ],
+      "ety": "[AS. mōdig courageous.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Subject to varying moods, especially to states of mind which are unamiable or depressed."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Hence: Out of humor; peevish; angry; fretful; also, abstracted and pensive; sad; gloomy; melancholy."
+          ],
+          "quotes": [
+            "Arouse thee from thy moody dream!"
+          ],
+          "notes": [],
+          "synonyms": [
+            "Gloomy",
+            "pensive",
+            "sad",
+            "fretful",
+            "capricious"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "key": "moorhen",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "moorhen",
+      "headword_raw": "moorhen",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Zool.)"
+      ],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A black gallinule (Gallinula chloropus) that inhabits ponds and lakes."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Gallinula chloropus"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The female of the moor fowl; the moor hen."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

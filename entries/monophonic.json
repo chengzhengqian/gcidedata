@@ -1,0 +1,49 @@
+{
+  "key": "monophonic",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Monophonic",
+      "headword_raw": "Mon`o*phon\"ic",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Mono- + Gr. <?/ a voice.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Mus.)"
+          ],
+          "defs": [
+            "Single-voiced; having but one part; as, a monophonic composition; -- opposed to polyphonic."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Of or relating to a system for recording and reproducing sound, which has only one sound channel; also called monaural or mono. It contrasts with stereophonic (or stereo), quadraphonic, or surround-sound, which have two or more channels, and can thus reproduce the effect of the sound coming from more than one direction."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

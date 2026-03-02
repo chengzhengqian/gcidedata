@@ -1,0 +1,57 @@
+{
+  "key": "monotonous",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Monotonous",
+      "headword_raw": "Mo*not\"o*nous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Gr. <?/; mo`nos alone, single + <?/ tone. See Tone.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Monotonously",
+          "form_raw": "Mo*not\"o*nous*ly",
+          "key": "monotonously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Monotonousness",
+          "form_raw": "Mo*not\"o*nous*ness",
+          "key": "monotonousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Uttered in one unvarying tone; continued with dull uniformity; characterized by monotony; without change or variety; wearisome."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

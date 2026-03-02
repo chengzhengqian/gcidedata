@@ -1,0 +1,50 @@
+{
+  "key": "montant",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Montant",
+      "headword_raw": "Mon\"tant",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F.,prop., mounting, fr. monter to mount, fr. L. mons, montis, mountain. See Mount.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Fencing)"
+          ],
+          "defs": [
+            "An upward thrust or blow."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Arch.)"
+          ],
+          "defs": [
+            "An upright piece in any framework; a mullion or muntin; a stile."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

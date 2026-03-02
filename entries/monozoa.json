@@ -1,0 +1,49 @@
+{
+  "key": "monozoa",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Monozoa",
+      "headword_raw": "Mon`o*zo\"a",
+      "pr": "(?)",
+      "pos": [
+        "n. pl.",
+        "a."
+      ],
+      "ety": "[NL., from Gr. mo`nos single + zw^,on an animal.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Monozoic",
+          "form_raw": "Mon`o*zo\"ic",
+          "key": "monozoic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Zool.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A division of Radiolaria; -- called also Monocyttaria."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

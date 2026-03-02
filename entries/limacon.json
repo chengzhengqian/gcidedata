@@ -1,0 +1,38 @@
+{
+  "key": "limacon",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Limaçon",
+      "headword_raw": "Li`ma`<cced/on\"",
+      "pr": "(l`m`sN\")",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. limaçon, lit., a snail.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Geom.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A curve of the fourth degree, invented by Pascal. Its polar equation is r = a cos + b."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

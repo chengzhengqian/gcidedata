@@ -1,0 +1,163 @@
+{
+  "key": "libel",
+  "source_file": "CIDE.L",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Libel",
+      "headword_raw": "Li\"bel",
+      "pr": "(lī\"bl)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. libellus a little book, pamphlet, libel, lampoon, dim. of liber the liber or inner bark of a tree; also (because the ancients wrote on this bark), paper, parchment, or a roll of any material used to write upon, and hence, a book or treatise: cf. F. libelle.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A brief writing of any kind, esp. a declaration, bill, certificate, request, supplication, etc."
+          ],
+          "quotes": [
+            "A libel of forsaking [divorcement]."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Any defamatory writing; a lampoon; a satire."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "A malicious publication expressed either in print or in writing, or by pictures, effigies, or other signs, tending to expose another to public hatred, contempt, or ridicule. Such publication is indictable at common law."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The term, in a more extended sense, includes the publication of such writings, pictures, and the like, as are of a blasphemous, treasonable, seditious, or obscene character. These also are indictable at common law."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "The crime of issuing a malicious defamatory publication."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Civil Law & Courts of Admiralty)"
+          ],
+          "defs": [
+            "A written declaration or statement by the plaintiff of his cause of action, and of the relief he seeks."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Libel",
+      "headword_raw": "Li\"bel",
+      "pr": "(-bld)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Libeled (-bld) or Libelled; p. pr. & vb. n. Libeling or Libelling.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To defame, or expose to public hatred, contempt, or ridicule, by a writing, picture, sign, etc.; to lampoon."
+          ],
+          "quotes": [
+            "Some wicked wits have libeled all the fair."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "To proceed against by filing a libel, particularly against a ship or goods."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Libel",
+      "headword_raw": "Li\"bel",
+      "pr": "(lī\"bl)",
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To spread defamation, written or printed; -- with against."
+          ],
+          "quotes": [
+            "What's this but libeling against the senate?",
+            "[He] libels now 'gainst each great man."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

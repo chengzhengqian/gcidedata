@@ -1,0 +1,62 @@
+{
+  "key": "lined",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "lined",
+      "headword_raw": "lined",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "furnished with items in a line or as if in a line."
+          ],
+          "quotes": [],
+          "notes": [
+            "Often used in hyphenated form, prefixed by the item arranged in a line; as, tree-lined streets."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "having visible lines; -- used especially of skin; as, their lined faces were immeasurably sad. Contrasted to smooth."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "furrowed",
+            "seamed"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "having a lining or a liner; often used in combination; as, a lined skirt; a silk-lined jacket. Opposite of unlined."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

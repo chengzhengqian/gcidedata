@@ -1,0 +1,108 @@
+{
+  "key": "lewd",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Lewd",
+      "headword_raw": "Lewd",
+      "pr": "(lūd)",
+      "pos": [
+        "a.",
+        "Compar.",
+        "superl.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[OE. lewed, lewd, lay, ignorant, vile, AS. lǣwed laical, belonging to the laity.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Lewdly",
+          "form_raw": "Lewd\"ly",
+          "key": "lewdly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Lewdness",
+          "form_raw": "Lewd\"ness",
+          "key": "lewdness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Not clerical; laic; laical; hence, unlearned; simple."
+          ],
+          "quotes": [
+            "For if a priest be foul, on whom we trust, No wonder is a lewed man to rust.",
+            "So these great clerks their little wisdom show To mock the lewd, as learn'd in this as they."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Belonging to the lower classes, or the rabble; idle and lawless; bad; vicious."
+          ],
+          "quotes": [
+            "But the Jews, which believed not, . . . took unto them certain lewd fellows of the baser sort, . . . and assaulted the house of Jason.",
+            "Too lewd to work, and ready for any kind of mischief."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Given to the promiscuous indulgence of lust; dissolute; lustful; libidinous."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Suiting, or proceeding from, lustfulness; involving unlawful sexual desire; as, lewd thoughts, conduct, or language."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Lustful",
+            "libidinous",
+            "licentious",
+            "profligate",
+            "dissolute",
+            "sensual",
+            "unchaste",
+            "impure",
+            "lascivious",
+            "lecherous",
+            "rakish",
+            "debauched"
+          ]
+        }
+      ]
+    }
+  ]
+}

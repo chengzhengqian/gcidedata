@@ -1,0 +1,47 @@
+{
+  "key": "lexicalize",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "lexicalize",
+      "headword_raw": "lex\"i*cal*ize",
+      "pr": "(lks\"*kl*īz)",
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To make into a word, coin into a word; as, The concept expressed by German \"Gemuetlichkeit\" is not lexicalized in English."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To increase the importance of, or emphasis on, words as opposed to other parts of a theory or program; -- said of grammatical theories and computer programs, especially programs for understanding language; as, lexicalized tree-adjoining grammar."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

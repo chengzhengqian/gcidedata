@@ -1,0 +1,38 @@
+{
+  "key": "ligase",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "ligase",
+      "headword_raw": "ligase",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Biochem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An enzyme which catalyzes creation of a covalent bond between two substrates, resulting in a larger product which is a combination of the two starting materials; especially, DNA ligase, an enzyme which creates a phosphate bond between 5 and 3 ends of a DNA chain, resulting in a longer chain of DNA. DNA ligase is important in normal biosynthesis of DNA in the replication cycle of cells."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

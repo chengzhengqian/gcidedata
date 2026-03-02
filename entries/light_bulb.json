@@ -1,0 +1,43 @@
+{
+  "key": "light_bulb",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "light bulb",
+      "headword_raw": "light bulb",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "light bulb",
+        "bulb",
+        "incandescent lamp",
+        "electric light",
+        "electric-light bulb"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A glass bulb with metallic contacts on the outside connected to a wire filament (usually tungsten) inside that emits light when heated by passage of electricity through the filament; -- used as the replaceable light-emitting component of an electric lamp, flashlight, lighting fixture, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

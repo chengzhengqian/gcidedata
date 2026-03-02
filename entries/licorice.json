@@ -1,0 +1,54 @@
+{
+  "key": "licorice",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Licorice",
+      "headword_raw": "Lic\"o*rice",
+      "pr": "(lk\"*rs)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. licoris, through old French, fr. L. liquiritia, corrupted fr. glycyrrhiza, Gr. glyky`rriza; glyky`s sweet + \"ri`za root. Cf. Glycerin, Glycyrrhiza, Wort.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Bot.)"
+          ],
+          "defs": [
+            "A plant of the genus Glycyrrhiza (Glycyrrhiza glabra), the root of which abounds with a sweet juice, and is much used in demulcent compositions."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Bot.)",
+            "(Chem.)",
+            "(Bot.)",
+            "(Bot.)",
+            "(Bot.)"
+          ],
+          "defs": [
+            "The inspissated juice of licorice root, used as a confection and for medicinal purposes."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

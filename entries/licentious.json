@@ -1,0 +1,86 @@
+{
+  "key": "licentious",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Licentious",
+      "headword_raw": "Li*cen\"tious",
+      "pr": "(-shs)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. licentiosus: cf. F. licencieux. See License.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Licentiously",
+          "form_raw": "Li*cen\"tious*ly",
+          "key": "licentiously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Licentiousness",
+          "form_raw": "Li*cen\"tious*ness",
+          "key": "licentiousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Characterized by license; passing due bounds; excessive; abusive of freedom; wantonly offensive; as, a licentious press."
+          ],
+          "quotes": [
+            "A wit that no licentious pertness knows."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Unrestrained by law or morality; lawless; immoral; dissolute; lewd; lascivious; as, a licentious man; a licentious life."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Unrestrained",
+            "uncurbed",
+            "uncontrolled",
+            "unruly",
+            "riotous",
+            "ungovernable",
+            "wanton",
+            "profligate",
+            "dissolute",
+            "lax",
+            "loose",
+            "sensual",
+            "impure",
+            "unchaste",
+            "lascivious",
+            "immoral"
+          ]
+        }
+      ]
+    }
+  ]
+}

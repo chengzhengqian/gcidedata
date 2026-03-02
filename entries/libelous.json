@@ -1,0 +1,47 @@
+{
+  "key": "libelous",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Libelous",
+      "headword_raw": "Li\"bel*ous",
+      "pr": "(lī\"bl*s)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Libelously",
+          "form_raw": "Li\"bel*ous*ly",
+          "key": "libelously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Containing or involving a libel; defamatory; containing that which exposes some person to public hatred, contempt, or ridicule; as, a libelous pamphlet."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "key": "limit",
+  "source_file": "CIDE.L",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Limit",
+      "headword_raw": "Lim\"it",
+      "pr": "(lm\"t)",
+      "pos": [
+        "n.",
+        "v. t."
+      ],
+      "ety": "[From L. limes, limitis: cf. F. limite; -or from E. limit, v. See Limit, v. t.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "That which terminates, circumscribes, restrains, or confines; the bound, border, or edge; the utmost extent; as, the limit of a walk, of a town, of a country; the limits of human knowledge or endeavor."
+          ],
+          "quotes": [
+            "As eager of the chase, the maid Beyond the forest's verdant limits strayed."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The space or thing defined by limits."
+          ],
+          "quotes": [
+            "The archdeacon hath divided it Into three limits very equally."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "That which terminates a period of time; hence, the period itself; the full time or extent."
+          ],
+          "quotes": [
+            "The dateless limit of thy dear exile.",
+            "The limit of your lives is out."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "A restriction; a check; a curb; a hindrance."
+          ],
+          "quotes": [
+            "I prithee, give no limits to my tongue."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Logic & Metaph.)"
+          ],
+          "defs": [
+            "A determining feature; a distinguishing characteristic; a differentia."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "A determinate quantity, to which a variable one continually approaches, and may differ from it by less than any given difference, but to which, under the law of variation, the variable can never become exactly equivalent."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Boundary",
+            "border",
+            "edge",
+            "termination",
+            "restriction",
+            "bound",
+            "confine"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Limit",
+      "headword_raw": "Lim\"it",
+      "pr": "(lm\"t)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[F. limiter, L. limitare, fr. limes, limitis, limit; prob. akin to limen threshold, E. eliminate; cf. L. limus sidelong.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Limited; p. pr. & vb. n. Limiting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Astron.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To apply a limit to, or set a limit for; to terminate, circumscribe, or restrict, by a limit or limits; as, to limit the acreage of a crop; to limit the issue of paper money; to limit one's ambitions or aspirations; to limit the meaning of a word."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Limit",
+      "headword_raw": "Lim\"it",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To beg, or to exercise functions, within a certain limited region; as, a limiting friar."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

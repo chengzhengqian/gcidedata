@@ -1,0 +1,93 @@
+{
+  "key": "lightness",
+  "source_file": "CIDE.L",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Lightness",
+      "headword_raw": "Light\"ness",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[From Light not heavy.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "Levity",
+        "volatility",
+        "instability",
+        "inconstancy",
+        "unsteadiness",
+        "giddiness",
+        "flightiness",
+        "airiness",
+        "gayety",
+        "liveliness",
+        "agility",
+        "nimbleness",
+        "sprightliness",
+        "briskness",
+        "swiftness",
+        "ease",
+        "facility"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The state, condition, or quality, of being light or not heavy; buoyancy; levity; fickleness; nimbleness; delicacy; grace."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Lightness",
+      "headword_raw": "Light\"ness",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[From Light bright.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Illumination, or degree of illumination; as, the lightness of a room."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Absence of depth or of duskiness in color; as, the lightness of a tint; lightness of complexion."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "key": "light-headed",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Light-headed",
+      "headword_raw": "Light\"-head`ed",
+      "pr": "(līt\"hd`d)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Light-headedness",
+          "form_raw": "Light\"-head`ed*ness",
+          "key": "light-headedness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Disordered in the head; dizzy; feeling faint; delirious."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "faint",
+            "swooning",
+            "lightheaded"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Thoughtless; heedless; volatile; unsteady; fickle; loose; lacking seriousness; given to frivolity; as, light-headed teenagers."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "airheaded",
+            "dizzy",
+            "empty-headed",
+            "featherbrained",
+            "giddy",
+            "lightheaded",
+            "silly"
+          ]
+        }
+      ]
+    }
+  ]
+}

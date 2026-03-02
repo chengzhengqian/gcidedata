@@ -1,0 +1,51 @@
+{
+  "key": "ligament",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Ligament",
+      "headword_raw": "Lig\"a*ment",
+      "pr": "(lg\"*mnt)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. ligamentum, fr. ligare to bind; cf. f. ligament. Cf. Lien, n., Ligature.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Anything that ties or unites one thing or part to another; a bandage; a bond."
+          ],
+          "quotes": [
+            "Interwoven is the love of liberty with every ligament of your hearts."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Anat.)"
+          ],
+          "defs": [
+            "A tough band or plate of dense, fibrous, connective tissue or fibrocartilage serving to unite bones or form joints.",
+            "A band of connective tissue, or a membranous fold, which supports or retains an organ in place; as, the gastrophrenic ligament, connecting the diaphragm and stomach."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

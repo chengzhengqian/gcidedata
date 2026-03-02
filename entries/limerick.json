@@ -1,0 +1,41 @@
+{
+  "key": "limerick",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Limerick",
+      "headword_raw": "Lim\"er*ick",
+      "pr": "(lm\"r*k)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Said to be from a song with the same verse construction, current in Ireland, the refrain of which contains the place name Limerick.]",
+      "sources": [
+        "Webster 1913 Suppl.",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A humorous, often nonsensical, and sometimes risq poem of five anapestic lines, of which lines 1, 2, and 5 are of three feet, and rhyme, and lines 3 and 4 are of two feet, and rhyme."
+          ],
+          "quotes": [
+            "There was a young lady, Amanda, Whose Ballades Lyriques were quite fin de Sicle, I deem But her Journal Intime Was what sent her papa to Uganda."
+          ],
+          "notes": [
+            "It often begins with \"There once was a . . .\" or \"There was a . . .\"; as --"
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

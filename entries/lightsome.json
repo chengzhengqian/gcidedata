@@ -1,0 +1,72 @@
+{
+  "key": "lightsome",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Lightsome",
+      "headword_raw": "Light\"some",
+      "pr": "(līt\"sm)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Lightsomely",
+          "form_raw": "Light\"some*ly",
+          "key": "lightsomely",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Lightsomeness",
+          "form_raw": "Light\"some*ness",
+          "key": "lightsomeness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Having light; lighted; not dark or gloomy; bright."
+          ],
+          "quotes": [
+            "White walls make rooms more lightsome than black."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Gay; airy; cheering; exhilarating."
+          ],
+          "quotes": [
+            "That lightsome affection of joy.",
+            "Happiness may walk soberly in dark attire, as well as dance lightsomely in a gala dress."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

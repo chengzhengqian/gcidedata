@@ -1,0 +1,49 @@
+{
+  "key": "ligate",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Ligate",
+      "headword_raw": "Li\"gate",
+      "pr": "(lī\"gāt)",
+      "pos": [
+        "v. t."
+      ],
+      "ety": "[L. ligatus, p. p. of ligare.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To tie with a ligature; to bind around; to bandage."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Molecular biology)"
+          ],
+          "defs": [
+            "To concatenate two strands of (nucleic acid, usually DNA), in an end-to-end fashion, using a ligase."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

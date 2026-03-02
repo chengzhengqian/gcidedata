@@ -1,0 +1,67 @@
+{
+  "key": "linear",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Linear",
+      "headword_raw": "Lin\"e*ar",
+      "pr": "(ln\"*r)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. linearis, linearius, fr. linea line: cf. F. linaire. See 3d Line.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to a line; consisting of lines; in a straight direction; lineal."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Bot.)"
+          ],
+          "defs": [
+            "Like a line; narrow; of the same breadth throughout, except at the extremities; as, a linear leaf."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Math.)",
+            "(Math.)",
+            "(Math.)",
+            "(Geom.)",
+            "(Alg.)"
+          ],
+          "defs": [
+            "Thinking in a step-by-step analytical and logical fashion; contrasted with holistic, i.e. thinking in terms of complex interrelated patterns; as, linear thinkers."
+          ],
+          "quotes": [
+            "Linear thinkers concluded that by taking the world apart, the actions of people were more predictable and controllable."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

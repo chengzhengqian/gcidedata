@@ -1,0 +1,59 @@
+{
+  "key": "helpful",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Helpful",
+      "headword_raw": "Help\"ful",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Helpfully",
+          "form_raw": "Help\"ful*ly",
+          "key": "helpfully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Helpfulness",
+          "form_raw": "Help\"ful*ness",
+          "key": "helpfulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Furnishing help; giving aid; assistant; useful; salutary."
+          ],
+          "quotes": [
+            "Heavens make our presence and our practices Pleasant and helpful to him!"
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

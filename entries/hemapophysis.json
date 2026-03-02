@@ -1,0 +1,47 @@
+{
+  "key": "hemapophysis",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Hemapophysis",
+      "headword_raw": "Hem`a*poph\"y*sis",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[NL. See Haema-, and Apophysis.]",
+      "sources": [],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Hemapophysial",
+          "form_raw": "Hem`a*po*phys\"i*al",
+          "key": "hemapophysial",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Anat.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The second element in each half of a hemal arch, corresponding to the sternal part of a rib."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

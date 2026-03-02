@@ -1,0 +1,65 @@
+{
+  "key": "heinous",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Heinous",
+      "headword_raw": "Hei\"nous",
+      "pr": "(hā\"ns)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[OF. hanos hateful, F. haineux, fr. OF. hane hate, F. haine, fr. har to hate; of German origin. See Hate.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Heinously",
+          "form_raw": "Hei\"nous*ly",
+          "key": "heinously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Heinousness",
+          "form_raw": "Hei\"nous*ness",
+          "key": "heinousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Monstrous",
+        "flagrant",
+        "flagitious",
+        "atrocious"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Hateful; hatefully bad; flagrant; odious; atrocious; giving great offense; -- applied to deeds or to character."
+          ],
+          "quotes": [
+            "It were most heinous and accursed sacrilege.",
+            "How heinous had the fact been, how deserving Contempt!"
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "key": "helpless",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Helpless",
+      "headword_raw": "Help\"less",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Helplessly",
+          "form_raw": "Help\"less*ly",
+          "key": "helplessly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Helplessness",
+          "form_raw": "Help\"less*ness",
+          "key": "helplessness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Destitute of help or strength; unable to help or defend one's self; needing help; feeble; weak; as, a helpless infant."
+          ],
+          "quotes": [
+            "How shall I then your helpless fame defend?"
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Beyond help; irremediable."
+          ],
+          "quotes": [
+            "Some helpless disagreement or dislike, either of mind or body."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Bringing no help; unaiding."
+          ],
+          "quotes": [
+            "Yet since the gods have been Helpless foreseers of my plagues."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Unsupplied; destitute; -- with of."
+          ],
+          "quotes": [
+            "Helpless of all that human wants require."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "key": "hemipeptone",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Hemipeptone",
+      "headword_raw": "Hem`i*pep\"tone",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Hemi- + peptone.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physiol. Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A product of the gastric and pancreatic digestion of albuminous matter."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Unlike antipeptone it is convertible into leucin and tyrosin, by the continued action of pancreatic juice. See Peptone. It is also formed from hemialbumose and albumin by the action of boiling dilute sulphuric acid."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

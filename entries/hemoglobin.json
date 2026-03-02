@@ -1,0 +1,38 @@
+{
+  "key": "hemoglobin",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Hemoglobin",
+      "headword_raw": "Hem\"o*glo\"bin",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Hemo- + globe.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physiol.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The normal coloring matter of the red blood corpuscles of vertebrate animals. It is composed of hematin and globulin, and is also called haematoglobulin. In arterial blood, it is always combined with oxygen, and is then called oxyhemoglobin. It crystallizes under different forms from different animals, and when crystallized, is called haematocrystallin. See Blood crystal, under Blood."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

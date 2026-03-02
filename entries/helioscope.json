@@ -1,0 +1,49 @@
+{
+  "key": "helioscope",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Helioscope",
+      "headword_raw": "He\"li*o*scope",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Helio- + -scope: cf. F. hlioscope.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Helioscopic",
+          "form_raw": "He`li*o*scop`ic",
+          "key": "helioscopic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Astron.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A telescope or instrument for viewing the sun without injury to the eyes, as through colored glasses, or with mirrors which reflect but a small portion of light."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

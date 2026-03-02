@@ -1,0 +1,40 @@
+{
+  "key": "hemorrhage",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Hemorrhage",
+      "headword_raw": "Hem\"or*rhage",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. haemorrhagia, Gr. a\"imorragi`a; a\"i^ma blood + \"rhgny`nai to break, burst: cf. F. hmorragie, hmorrhagie.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Any discharge of blood from the blood vessels."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The blood circulates in a system of closed tubes, the rupture of which gives rise to hemorrhage."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

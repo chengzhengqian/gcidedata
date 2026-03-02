@@ -1,0 +1,49 @@
+{
+  "key": "hemihedral",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Hemihedral",
+      "headword_raw": "Hem`i*he\"dral",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[Hemi- + Gr. <?/ seat, base, fr. <?/ to sit.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Hemihedrally",
+          "form_raw": "Hem`i*he\"dral*ly",
+          "key": "hemihedrally",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Crystallog.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Having half of the similar parts of a crystals, instead of all; consisting of half the planes which full symmetry would require, as when a cube has planes only on half of its eight solid angles, or one plane out of a pair on each of its edges; or as in the case of a tetrahedron, which is hemihedral to an octahedron, it being contained under four of the planes of an octahedron."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

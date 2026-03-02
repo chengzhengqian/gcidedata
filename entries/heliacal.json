@@ -1,0 +1,40 @@
+{
+  "key": "heliacal",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Heliacal",
+      "headword_raw": "He*li\"a*cal",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Gr. <?/ belonging to the sun, fr. <?/ the sun: cf. F. hliaque.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Astron.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Emerging from the light of the sun, or passing into it; rising or setting at the same, or nearly the same, time as the sun."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The heliacal rising of a star is when, after being in conjunction with the sun, and invisible, it emerges from the light so as to be visible in the morning before sunrising. On the contrary, the heliacal setting of a star is when the sun approaches conjunction so near as to render the star invisible."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

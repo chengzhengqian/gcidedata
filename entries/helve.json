@@ -1,0 +1,80 @@
+{
+  "key": "helve",
+  "source_file": "CIDE.H",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Helve",
+      "headword_raw": "Helve",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. helve, helfe, AS. hielf, helf, hylf, cf. OHG. halb; and also E. halter, helm of a rudder.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The handle of an ax, hatchet, or adze."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Iron Working)"
+          ],
+          "defs": [
+            "The lever at the end of which is the hammer head, in a forge hammer.",
+            "A forge hammer which is lifted by a cam acting on the helve between the fulcrum and the head."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Helve",
+      "headword_raw": "Helve",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Helved (?); p. pr. & vb. n. Helving.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To furnish with a helve, as an ax."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "key": "hemisystole",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Hemisystole",
+      "headword_raw": "Hem`i*sys\"to*le",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physiol.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Contraction of only one ventricle of the heart."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Hemisystole is noticed in rare cases of insufficiency of the mitral valve, in which both ventricles at times contract simultaneously, as in a normal heart, this condition alternating with contraction of the right ventricle alone; hence, intermittent hemisystole."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

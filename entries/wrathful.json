@@ -1,0 +1,72 @@
+{
+  "key": "wrathful",
+  "source_file": "CIDE.W",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Wrathful",
+      "headword_raw": "Wrath\"ful",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Wrathfully",
+          "form_raw": "Wrath\"ful*ly",
+          "key": "wrathfully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Wrathfulness",
+          "form_raw": "Wrath\"ful*ness",
+          "key": "wrathfulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Full of wrath; very angry; greatly incensed; ireful; passionate; as, a wrathful man."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Springing from, or expressing, wrath; as, a wrathful countenance."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Furious",
+            "raging",
+            "indignant",
+            "resentful"
+          ]
+        }
+      ]
+    }
+  ]
+}

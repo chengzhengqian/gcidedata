@@ -1,0 +1,55 @@
+{
+  "key": "wrist",
+  "source_file": "CIDE.W",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Wrist",
+      "headword_raw": "Wrist",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. wriste, wrist, AS. wrist; akin to OFries. wriust, LG. wrist, G. rist wrist, instep, Icel. rist instep, Dan. & Sw. vrist, and perhaps to E. writhe.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Anat.)"
+          ],
+          "defs": [
+            "The joint, or the region of the joint, between the hand and the arm; the carpus. See Carpus."
+          ],
+          "quotes": [
+            "He took me by the wrist, and held me hard."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mach.)",
+            "(Med.)",
+            "(Med.)",
+            "(Steam Engine)"
+          ],
+          "defs": [
+            "A stud or pin which forms a journal; -- also called wrist pin."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

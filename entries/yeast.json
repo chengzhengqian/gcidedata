@@ -1,0 +1,51 @@
+{
+  "key": "yeast",
+  "source_file": "CIDE.Y",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Yeast",
+      "headword_raw": "Yeast",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. eest, est, AS. gist; akin to D. gest, gist, G. gischt, gäscht, OHG. jesan, jerian, to ferment, G. gischen, gäschen, gähren, Gr. <?/ boiled, zei^n to boil, Skr. yas. √111.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The foam, or troth (top yeast), or the sediment (bottom yeast), of beer or other in fermentation, which contains the yeast plant or its spores, and under certain conditions produces fermentation in saccharine or farinaceous substances; a preparation used for raising dough for bread or cakes, and making it light and puffy; barm; ferment."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Bot.)"
+          ],
+          "defs": [
+            "Spume, or foam, of water.",
+            "A form of fungus which grows as individual rounded cells, rather than in a mycelium, and reproduces by budding; esp. members of the orders Endomycetales and Moniliales. Some fungi may grow both as a yeast or as a mycelium, depending on the conditions of growth."
+          ],
+          "quotes": [
+            "They melt thy yeast of waves, which mar Alike the Armada's pride, or spoils of Trafalgar."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

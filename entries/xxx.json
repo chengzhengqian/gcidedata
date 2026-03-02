@@ -1,0 +1,72 @@
+{
+  "key": "xxx",
+  "source_file": "CIDE.X",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "xxx",
+      "headword_raw": "xxx",
+      "pr": "(?)",
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "thirty",
+        "30"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The Roman number representing thirty; -- in the postposition, designating the thirtieth in a series."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "xxx",
+      "headword_raw": "xxx",
+      "pr": "(?)",
+      "pos": [
+        "adj."
+      ],
+      "ety": "[by reduplication of the \"X\" used in some movie-rating systems.]",
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "X-rated",
+        "obscene",
+        "pornographic"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Very obscene or pornographic."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

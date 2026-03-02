@@ -1,0 +1,138 @@
+{
+  "key": "wound",
+  "source_file": "CIDE.W",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Wound",
+      "headword_raw": "Wound",
+      "pr": "(?)",
+      "pos": [
+        "imp. & p. p."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "imp. & p. p. of Wind to twist, and Wind to sound by blowing."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Wound",
+      "headword_raw": "Wound",
+      "pr": "(?; 277)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. wounde, wunde, AS. wund; akin to OFries. wunde, OS. wunda, D. wonde, OHG. wunta, G. wunde, Icel. und, and to AS., OS., & G. wund sore, wounded, OHG. wunt, Goth. wunds, and perhaps also to Goth. winnan to suffer, E. win. √140. Cf. Zounds.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A hurt or injury caused by violence; specifically, a breach of the skin and flesh of an animal, or in the substance of any creature or living thing; a cut, stab, rent, or the like."
+          ],
+          "quotes": [
+            "Showers of blood Rained from the wounds of slaughtered Englishmen."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Fig.: An injury, hurt, damage, detriment, or the like, to feeling, faculty, reputation, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Criminal Law)",
+            "(Zool.)"
+          ],
+          "defs": [
+            "An injury to the person by which the skin is divided, or its continuity broken; a lesion of the body, involving some solution of continuity."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Walker condemns the pronunciation woond as a “capricious novelty.” It is certainly opposed to an important principle of our language, namely, that the Old English long sound written ou, and pronounced like French ou or modern English oo, has regularly changed, when accented, into the diphthongal sound usually written with the same letters ou in modern English, as in ground, hound, round, sound. The use of ou in Old English to represent the sound of modern English oo was borrowed from the French, and replaced the older and Anglo-Saxon spelling with u. It makes no difference whether the word was taken from the French or not, provided it is old enough in English to have suffered this change to what is now the common sound of ou; but words taken from the French at a later time, or influenced by French, may have the French sound."
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Wound",
+      "headword_raw": "Wound",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "n."
+      ],
+      "ety": "[AS. wundian. √140. See Wound, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Wounded; p. pr. & vb. n. Wounding.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To hurt by violence; to produce a breach, or separation of parts, in, as by a cut, stab, blow, or the like."
+          ],
+          "quotes": [
+            "The archers hit him; and he was sore wounded of the archers."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To hurt the feelings of; to pain by disrespect, ingratitude, or the like; to cause injury to."
+          ],
+          "quotes": [
+            "When ye sin so against the brethren, and wound their weak conscience, ye sin against Christ."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

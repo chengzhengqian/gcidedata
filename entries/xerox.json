@@ -1,0 +1,71 @@
+{
+  "key": "xerox",
+  "source_file": "CIDE.X",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Xerox",
+      "headword_raw": "Xe\"rox",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[From a brand name of the Xerox corporation.]",
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "xerox",
+        "xerographic copier",
+        "xerox machine"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A copy made by the xerox process."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "xerox copy"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "xerox",
+      "headword_raw": "xe\"rox",
+      "pr": "(?)",
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To copy a printed document on a xerographic device."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

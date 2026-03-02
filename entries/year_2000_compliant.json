@@ -1,0 +1,40 @@
+{
+  "key": "year_2000_compliant",
+  "source_file": "CIDE.Y",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "year 2000 compliant",
+      "headword_raw": "year 2000 compliant",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "date compliant"
+      ],
+      "entry_fields": [
+        "(Computers)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "having dates fully and properly represented, and not susceptible to failure due to the year 2000 bug."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

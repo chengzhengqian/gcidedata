@@ -1,0 +1,64 @@
+{
+  "key": "writer",
+  "source_file": "CIDE.W",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Writer",
+      "headword_raw": "Writ\"er",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[AS. wrītere.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One who writes, or has written; a scribe; a clerk."
+          ],
+          "quotes": [
+            "They [came] that handle the pen of the writer.",
+            "My tongue is the pen of a ready writer."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "One who is engaged in literary composition as a profession; an author; as, a writer of novels."
+          ],
+          "quotes": [
+            "This pitch, as ancient writers do report, doth defile."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Eng. Law)",
+            "(Med.)"
+          ],
+          "defs": [
+            "A clerk of a certain rank in the service of the late East India Company, who, after serving a certain number of years, became a factor."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

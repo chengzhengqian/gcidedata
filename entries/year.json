@@ -1,0 +1,64 @@
+{
+  "key": "year",
+  "source_file": "CIDE.Y",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Year",
+      "headword_raw": "Year",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. yer, yeer, er, AS. ger; akin to OFries. i<?/r, g<?/r, D. jaar, OHG. jār, G. jahr, Icel. ār, Dan. aar, Sw. r, Goth. j<?/r, Gr. <?/ a season of the year, springtime, a part of the day, an hour, <?/ a year, Zend yāre year. √4, 279. Cf. Hour, Yore.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The time of the apparent revolution of the sun trough the ecliptic; the period occupied by the earth in making its revolution around the sun, called the astronomical year; also, a period more or less nearly agreeing with this, adopted by various nations as a measure of time, and called the civil year; as, the common lunar year of 354 days, still in use among the Mohammedans; the year of 360 days, etc. In common usage, the year consists of 365 days, and every fourth year (called bissextile, or leap year) of 366 days, a day being added to February on that year, on account of the excess above 365 days (see Bissextile)."
+          ],
+          "quotes": [
+            "Of twenty year of age he was, I guess."
+          ],
+          "notes": [
+            "☞ The civil, or legal, year, in England, formerly commenced on the 25th of March. This practice continued throughout the British dominions till the year 1752."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The time in which any planet completes a revolution about the sun; as, the year of Jupiter or of Saturn."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Eccl.)",
+            "(Com.)",
+            "(O. Eng. Law)"
+          ],
+          "defs": [
+            "Age, or old age; as, a man in years."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

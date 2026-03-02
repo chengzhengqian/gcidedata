@@ -1,0 +1,57 @@
+{
+  "key": "enchant",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Enchant",
+      "headword_raw": "En*chant\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[F. enchanter, L. incantare to chant or utter a magic formula over or against one, to bewitch; in in, against + cantare to sing. See Chant, and cf. Incantation.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Enchanted; p. pr. & vb. n. Enchanting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To charm by sorcery; to act on by enchantment; to get control of by magical words and rites."
+          ],
+          "quotes": [
+            "And now about the caldron sing, Like elves and fairies in a ring, Enchanting all that you put in.",
+            "He is enchanted, cannot speak."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To delight in a high degree; to charm; to enrapture; as, music enchants the ear."
+          ],
+          "quotes": [
+            "Arcadia was the charmed circle where all his spirits forever should be enchanted."
+          ],
+          "notes": [],
+          "synonyms": [
+            "charm",
+            "bewitch",
+            "fascinate. Cf. Charm"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "key": "encrypt",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "encrypt",
+      "headword_raw": "encrypt",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "encode",
+        "code",
+        "encipher",
+        "cipher",
+        "cypher",
+        "inscribe",
+        "write in code"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To convert ordinary language or other data into code; to hide the meaning of a message by converting it into a form that cannot be interpreted without knowing the secret method for interpretation, called the key; to encode."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

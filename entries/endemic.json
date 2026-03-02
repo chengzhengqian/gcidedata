@@ -1,0 +1,63 @@
+{
+  "key": "endemic",
+  "source_file": "CIDE.E",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Endemic",
+      "headword_raw": "En*de\"mic",
+      "pr": "(?)",
+      "pos": [],
+      "ety": null,
+      "sources": [],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Endemic",
+      "headword_raw": "En*dem\"ic",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An endemic disease."
+          ],
+          "quotes": [
+            "Fear, which is an endemic latent in every human heart, sometimes rises into an epidemic."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

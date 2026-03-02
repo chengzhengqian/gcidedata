@@ -1,0 +1,44 @@
+{
+  "key": "encode",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "encode",
+      "headword_raw": "en*code\"",
+      "pr": "(n*kōd\")",
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "encrypt",
+        "code",
+        "encipher",
+        "cipher",
+        "cypher",
+        "inscribe",
+        "write in code"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To convert (a text, data) into a series of secret symbols by means of a code{5}; to encrypt."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

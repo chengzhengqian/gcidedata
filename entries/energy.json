@@ -1,0 +1,82 @@
+{
+  "key": "energy",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Energy",
+      "headword_raw": "En\"er*gy",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. nergie, LL. energia, fr. Gr.<?/, fr. <?/ active; <?/ in + <?/ work. See In, and Work.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Internal or inherent power; capacity of acting, operating, or producing an effect, whether exerted or not; as, men possessing energies may suffer them to lie inactive."
+          ],
+          "quotes": [
+            "The great energies of nature are known to us only by their effects."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Power efficiently and forcibly exerted; vigorous or effectual operation; as, the energy of a magistrate."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Strength of expression; force of utterance; power to impress the mind and arouse the feelings; life; spirit; -- said of speech, language, words, style; as, a style full of energy."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Physics)",
+            "(Physics)"
+          ],
+          "defs": [
+            "Capacity for performing work."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The kinetic energy of a body is the energy it has in virtue of being in motion. It is measured by one half of the product of the mass of each element of the body multiplied by the square of the velocity of the element, relative to some given body or point. The available kinetic energy of a material system unconnected with any other system is that energy which is due to the motions of the parts of the system relative to its center of mass. The potential energy of a body or system is that energy which is not kinetic; -- energy due to configuration. Kinetic energy is sometimes called actual energy. Kinetic energy is exemplified in the vis viva of moving bodies, in heat, electric currents, etc.; potential energy, in a bent spring, or a body suspended a given distance above the earth and acted on by gravity."
+          ],
+          "synonyms": [
+            "Force",
+            "power",
+            "potency",
+            "vigor",
+            "strength",
+            "spirit",
+            "efficiency",
+            "resolution"
+          ]
+        }
+      ]
+    }
+  ]
+}

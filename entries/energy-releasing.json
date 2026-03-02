@@ -1,0 +1,50 @@
+{
+  "key": "energy-releasing",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "energy-releasing",
+      "headword_raw": "energy-releasing",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "releasing energy."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "exoergic"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "catabolic."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "destructive-metabolic(prenominal)"
+          ]
+        }
+      ]
+    }
+  ]
+}

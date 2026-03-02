@@ -1,0 +1,129 @@
+{
+  "key": "encounter",
+  "source_file": "CIDE.E",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Encounter",
+      "headword_raw": "En*coun\"ter",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "adv."
+      ],
+      "ety": "[OF. encontrer; pref. en- (L. in) + contre against, L. contra. See Counter, adv.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Encountered (?); p. pr. & vb. n. Encountering.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To come against face to face; to meet; to confront, either by chance, suddenly, or deliberately; especially, to meet in opposition or with hostile intent; to engage in conflict with; to oppose; to struggle with; as, to encounter a friend in traveling; two armies encounter each other; to encounter obstacles or difficulties, to encounter strong evidence of a truth."
+          ],
+          "quotes": [
+            "Then certain philosophers of the Epicureans, and of the Stoics, encountered him.",
+            "I am most fortunate thus accidentally to encounter you."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Encounter",
+      "headword_raw": "En*coun\"ter",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To meet face to face; to have a meeting; to meet, esp. as enemies; to engage in combat; to fight; as, three armies encountered at Waterloo."
+          ],
+          "quotes": [
+            "I will encounter with Andronicus.",
+            "Perception and judgment, employed in the investigation of all truth, have in the first place to encounter with particulars."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Encounter",
+      "headword_raw": "En*coun\"ter",
+      "pr": null,
+      "pos": [
+        "n.",
+        "v. t."
+      ],
+      "ety": "[OF. encontre, fr. encontrer. See Encounter, v. t.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A meeting face to face; a running against; a sudden or incidental meeting; an interview."
+          ],
+          "quotes": [
+            "To shun the encounter of the vulgar crowd."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A meeting, with hostile purpose; hence, a combat; a battle; as, a bloody encounter."
+          ],
+          "quotes": [
+            "As one for . . . fierce encounters fit",
+            "To join their dark encounter in mid-air"
+          ],
+          "notes": [],
+          "synonyms": [
+            "Contest",
+            "conflict",
+            "fight",
+            "combat",
+            "assault",
+            "rencounter",
+            "attack",
+            "engagement",
+            "onset. See Contest"
+          ]
+        }
+      ]
+    }
+  ]
+}

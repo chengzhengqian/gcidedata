@@ -1,0 +1,40 @@
+{
+  "key": "end-user",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "end-user",
+      "headword_raw": "end-user",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "consumer"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a person who uses an item of commerce for its designed purpose; -- contrasted with those who produce or resell the item or incorporate the item into another product."
+          ],
+          "quotes": [],
+          "notes": [
+            "Purchasers of items who are not end-users include: reseller; value-added reseller, VAR; and producer, manufacturer."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

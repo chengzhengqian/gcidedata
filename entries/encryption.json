@@ -1,0 +1,45 @@
+{
+  "key": "encryption",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "encryption",
+      "headword_raw": "encryption",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "encoding",
+        "coding",
+        "enciphering",
+        "ciphering",
+        "cyphering",
+        "writing in code"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "the process of converting messages in ordinary language, or other information into a secret coded form that cannot be interpreted without knowing the secret method for interpretation, called the key."
+          ],
+          "quotes": [],
+          "notes": [
+            "Encryption is used commonly to allow messages to be transmitted between parties at a distance without permitting others to read and understand the message. It is also used to make data more secure from possible discovery and uninterpretable by unauthorized people accessing the data. In order to read an encrypted message, a party normally requires knowledge of both the method of encryption and the secret key, which may be a single word or more complex sequence of characters. Until recently, transmission of such secret messages required that the key be transmitted secretly by some seecure and reliable method to the party receiving the message. More recently, a mathematical method was discovered to allow a party to publish an encoding key (the public key) which allows anyone to encode a message, but the message thus encoded can only be decoded by the person possessing a corresponding key, called the private key. This two-key system is called the public-key encryption method."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

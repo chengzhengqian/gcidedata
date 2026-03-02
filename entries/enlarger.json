@@ -1,0 +1,49 @@
+{
+  "key": "enlarger",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Enlarger",
+      "headword_raw": "En*lar\"ger",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One who or that which enlarges."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Photography)"
+          ],
+          "defs": [
+            "an optical device for making copies of photographs larger than the original, having a head for holding the original, a source of illumination to project the image, and a bed for holding the sensitized photographic paper which will received the larger image."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

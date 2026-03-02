@@ -1,0 +1,48 @@
+{
+  "key": "endocardial",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Endocardial",
+      "headword_raw": "En`do*car\"di*al",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Pertaining to the endocardium."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "Seated or generated within the heart; as, endocardial murmurs."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

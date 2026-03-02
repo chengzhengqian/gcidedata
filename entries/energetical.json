@@ -1,0 +1,75 @@
+{
+  "key": "energetical",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Energetical",
+      "headword_raw": "En`er*get\"ic*al",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Gr. <?/, fr. <?/ to work, be active, fr. <?/ active. See Energy.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Energetically",
+          "form_raw": "En`er*get\"ic*al*ly",
+          "key": "energetically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Energeticalness",
+          "form_raw": "En`er*get\"ic*al*ness",
+          "key": "energeticalness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Having energy or energies; possessing a capacity for vigorous action or for exerting force; active."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Exhibiting energy; operating with force, vigor, and effect; forcible; powerful; efficacious; as, energetic measures; energetic laws."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Forcible",
+            "powerful",
+            "efficacious",
+            "potent",
+            "vigorous",
+            "effective",
+            "strenuous"
+          ]
+        }
+      ]
+    }
+  ]
+}

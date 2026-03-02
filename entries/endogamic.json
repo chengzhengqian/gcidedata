@@ -1,0 +1,49 @@
+{
+  "key": "endogamic",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "endogamic",
+      "headword_raw": "endogamic",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "fertilized by pollen from another flower of the same plant."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "of marriage within a class or tribe as required by custom or law; same as endogamous."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "endogamous",
+            "within-group"
+          ]
+        }
+      ]
+    }
+  ]
+}

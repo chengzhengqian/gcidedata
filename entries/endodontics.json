@@ -1,0 +1,49 @@
+{
+  "key": "endodontics",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "endodontics",
+      "headword_raw": "endodontics",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "the branch of dentistry dealing with diseases of the dental pulp."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "endodontia"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "the treatment of diseases of the dental pulp, especially by completely removing the pulp and nerve inside a tooth and its root, and replacing it with a filling material; root canal therapy; pulp canal therapy."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

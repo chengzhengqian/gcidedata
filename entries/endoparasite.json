@@ -1,0 +1,49 @@
+{
+  "key": "endoparasite",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Endoparasite",
+      "headword_raw": "En`do*par\"a*site",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Endo- + parasite.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Endoparasitic",
+          "form_raw": "En`do*par`a*sit\"ic",
+          "key": "endoparasitic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Zoöl.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Any parasite which lives in the internal organs of an animal, as the tapeworms, Trichina, etc.; -- opposed to ectoparasite. See Entozoön."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

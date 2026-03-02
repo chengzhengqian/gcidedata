@@ -1,0 +1,54 @@
+{
+  "key": "encumbrance",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Encumbrance",
+      "headword_raw": "En*cum\"brance",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. OF. encombrance. Cf. Incumbrance.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "That which encumbers; a burden which impedes action, or renders it difficult and laborious; a clog; an impediment. See Incumbrance."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "Same as Incumbrance."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Burden",
+            "clog",
+            "impediment",
+            "check",
+            "hindrance"
+          ]
+        }
+      ]
+    }
+  ]
+}

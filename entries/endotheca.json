@@ -1,0 +1,49 @@
+{
+  "key": "endotheca",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Endotheca",
+      "headword_raw": "En`do*the\"ca",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[NL., from Gr. 'e`ndon within + qh`kh a case, box, fr. <?/ to place.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Endothecal",
+          "form_raw": "En`do*the\"cal",
+          "key": "endothecal",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Zoöl.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The tissue which partially fills the interior of the interseptal chambers of most madreporarian corals. It usually consists of a series of oblique transverse septa, one above another."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

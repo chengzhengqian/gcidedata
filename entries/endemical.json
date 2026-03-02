@@ -1,0 +1,53 @@
+{
+  "key": "endemical",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Endemical",
+      "headword_raw": "En*de\"mic*al",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Gr. <?/, <?/; <?/ + <?/ the people: cf. F. endmique.]",
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Peculiar to a district or particular locality, or class of persons; as, an endemic disease."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ An endemic disease is one which is constantly present to a greater or less degree in any place, as distinguished from an epidemic disease, which prevails widely at some one time, or periodically, and from a sporadic disease, of which a few instances occur now and then."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Belonging or native to a particular people or country; native as distinguished from introduced or naturalized; hence, regularly or ordinarily occurring in a given region; local; as, a plant endemic in Australia; -- often distinguished from exotic."
+          ],
+          "quotes": [
+            "The traditions of folklore . . . form a kind of endemic symbolism."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

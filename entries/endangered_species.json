@@ -1,0 +1,38 @@
+{
+  "key": "endangered_species",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "endangered species",
+      "headword_raw": "en*dan\"gered spe\"cies",
+      "pr": "(?)",
+      "pos": [
+        "n. sing. & pl."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A species of plant or animal that has declined in numbers to a point where further irreversible decline and extinction{3} has a significant chance. Lists of endangered species are maintained by government agencies, and in many cases the killing of such species or destruction of their habitat is prohibited by law."
+          ],
+          "quotes": [],
+          "notes": [
+            "In the U. S. in recent years, development of certain tracts of land has been prohibited due to the likelihood that it will cause a reduction in the numbers of an endangered species. In some cases environmental organizations have initiated litigation to cause the courts to rule that a certain development plan is illegal due to a threat to an endangered species. Laws protecting endangered species have become in some cases a contentious political issue."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

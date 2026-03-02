@@ -1,0 +1,75 @@
+{
+  "key": "enervate",
+  "source_file": "CIDE.E",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Enervate",
+      "headword_raw": "E*ner\"vate",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. enervatus, p. p. of enervare, fr. enervis nerveless, weak; e out + nervus nerve. See Nerve.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Enervated (?); p. pr. & vb. n. Enervating.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "weaken",
+        "enfeeble",
+        "unnerve",
+        "debilitate"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To deprive of nerve, force, strength, or courage; to render feeble or impotent; to make effeminate; to impair the moral powers of."
+          ],
+          "quotes": [
+            "A man . . . enervated by licentiousness.",
+            "And rhyme began t' enervate poetry."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Enervate",
+      "headword_raw": "E*ner\"vate",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. enervatus, p. p.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Weakened; weak; without strength of force."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

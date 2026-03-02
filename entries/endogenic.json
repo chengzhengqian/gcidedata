@@ -1,0 +1,53 @@
+{
+  "key": "endogenic",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "endogenic",
+      "headword_raw": "en`do*gen\"ic",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Biol.)"
+          ],
+          "defs": [
+            "Relating to or arising from an internal process; same as endogenous."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Geol.)"
+          ],
+          "defs": [
+            "Relating to the interior of the earth; of or pertaining to a metamorphic process occurring within a planet. Opposed to exogenetic."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "endogenic"
+          ]
+        }
+      ]
+    }
+  ]
+}

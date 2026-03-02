@@ -1,0 +1,52 @@
+{
+  "key": "enfeoff",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Enfeoff",
+      "headword_raw": "En*feoff\"",
+      "pr": "(?; see Feoff, 277)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[Pref. en- + feoff, fief: cf. LL. infeofare, OF. enfeffer, enfeofer.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Enfeoffed (?); p. pr. & vb. n. Enfeoffing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "To give a feud, or right in land, to; to invest with a fief or fee; to invest (any one) with a freehold estate by the process of feoffment."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To give in vassalage; to make subservient."
+          ],
+          "quotes": [
+            "[The king] enfeoffed himself to popularity."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "key": "enforced",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Enforced",
+      "headword_raw": "En*forced\"",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Enforcedly",
+          "form_raw": "En*for\"ced*ly",
+          "key": "enforcedly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Compelled; forced; not voluntary."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

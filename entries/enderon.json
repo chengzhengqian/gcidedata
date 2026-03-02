@@ -1,0 +1,49 @@
+{
+  "key": "enderon",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Enderon",
+      "headword_raw": "En\"de*ron",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[NL., fr. Gr. <?/ in + <?/ skin.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Enderonic",
+          "form_raw": "En`de*ron\"ic",
+          "key": "enderonic",
+          "pos": [
+            "a."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Anat.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The deep sensitive and vascular layer of the skin and mucous membranes."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

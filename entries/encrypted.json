@@ -1,0 +1,43 @@
+{
+  "key": "encrypted",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "encrypted",
+      "headword_raw": "encrypted",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "encoded",
+        "coded",
+        "enciphered",
+        "ciphered",
+        "cyphered",
+        "written in code"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "converted into a coded form that cannot be interpreted without knowing the secret method for interpretation, called the key; -- of messages or other forms of information."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "key": "amphotericin_b",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "amphotericin B",
+      "headword_raw": "amphotericin B",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "an antibiotic and antifungal agent (C47H73NO17), produced by a strain of Streptomyces nodosus. It is one of a class of polyene macrolide antibiotics effective against fungal infections. It has a molecular weight of 924.11; it is soluble in organic solvents but only slightly soluble in water."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Fungizone"
+          ]
+        }
+      ]
+    }
+  ]
+}

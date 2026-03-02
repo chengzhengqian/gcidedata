@@ -1,0 +1,80 @@
+{
+  "key": "amygdalate",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "amygdalate",
+      "headword_raw": "a*myg\"da*late",
+      "pr": "(*mg\"d*lt)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. amygdala, amygdalum, almond, Gr. 'amygda`lh, 'amy`gdalon. See Almond.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Pertaining to, resembling, or made of, almonds."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Amygdalate",
+      "headword_raw": "A*myg\"da*late",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "AS"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "An emulsion made of almonds; milk of almonds."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "A salt of amygdalic acid. Called also mandelate."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "key": "analemma",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Analemma",
+      "headword_raw": "An`a*lem\"ma",
+      "pr": "(-lm\"m)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. analemma a sun dial on a pedestal, showing the latitude and meridian of a place, Gr. 'ana`lhmma a support, or thing supported, a sun dial, fr. 'analamba`nein to take up; 'ana` + lamba`nein to take.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "An orthographic projection of the sphere on the plane of the meridian, the eye being supposed at an infinite distance, and in the east or west point of the horizon."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "An instrument of wood or brass, on which this projection of the sphere is made, having a movable horizon or cursor; -- formerly much used in solving some common astronomical problems."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A scale of the sun's declination for each day of the year, drawn across the torrid zone on an artificial terrestrial globe."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "key": "analyze",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Analyze",
+      "headword_raw": "An\"a*lyze",
+      "pr": "(<?/)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[Cf. F. analyser. See Analysis.]",
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5"
+      ],
+      "morph": "[imp. & p. p. Analyzed (<?/); p. pr. & vb. n. Analyzing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To subject to analysis; to resolve (anything complex) into its elements; to separate into the constituent parts, for the purpose of an examination of each separately; to examine in such a manner as to ascertain the elements or nature of the thing examined; to consider in detail in order to discover essential features or meaning; as, to analyze an action to ascertain its morality; to analyse a sonnet by Shakespeare; to analyse the evidence in a criminal trial; to analyse your real motives."
+          ],
+          "quotes": [
+            "No one, I presume, can analyze the sensations of pleasure or pain."
+          ],
+          "notes": [],
+          "synonyms": [
+            "analyze",
+            "study",
+            "examine"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "make a mathematical, chemical, or grammatical analysis of; break down into components or essential features; as, to analyse a specimen; to analyze a fossil substance; to analyze a sentence or a word; to analyse a chemical compound."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "analyze",
+            "break down",
+            "dissect",
+            "take apart"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "subject to psychoanalytic treatment."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "analyze",
+            "psychoanalyze",
+            "psychoanalyse"
+          ]
+        }
+      ]
+    }
+  ]
+}

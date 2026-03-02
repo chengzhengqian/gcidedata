@@ -1,0 +1,51 @@
+{
+  "key": "anaphora",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "anaphora",
+      "headword_raw": "a*naph\"o*ra",
+      "pr": "(*nf\"*r)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L., fr. Gr. 'anafora`, fr. 'anafe`rein to carry up or back; 'ana` + fe`rein to carry.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Rhet.)"
+      ],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A repetition of a word or of words at the beginning of two or more successive clauses."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The use of a substitute word, such as a pronoun, in reference to a something already mentioned in a discourse; also, the relation between the substitute word and its antecedent. It is contrasted with cataphora, the use of a pronoun for a word or topic not yet mentioned."
+          ],
+          "quotes": [],
+          "notes": [
+            "Thus, in the sentence “John was tall but he was not very heavy.” the “he” is an anaphora for John, or an anaphoric reference to John."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

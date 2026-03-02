@@ -1,0 +1,39 @@
+{
+  "key": "anaphylactic_shock",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "anaphylactic shock",
+      "headword_raw": "anaphylactic shock",
+      "pr": "(n`*fī*lk\"tk shk`)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC",
+        "AS"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Shock resulting from anaphylaxis{2}. It is a severe form of physiological shock, often having a fatal outcome, and is caused by an extreme immunological reaction to antigens. It is characterized by smooth muscle contraction and capillary dilation throughout the body, initiated by antibodies of the IgE class. It is usually seen when an antigen to which a person has become hypersensitized is injected intravenously or subcutaneously. It is also called generalyzed anaphylaxis or systemic anaphylaxis, and sometimes anaphylaxis."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "key": "amsterdam",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Amsterdam",
+      "headword_raw": "Amsterdam",
+      "pr": null,
+      "pos": [
+        "prop. n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "Dutch capital",
+        "capital of The Netherlands"
+      ],
+      "entry_fields": [
+        "(Geography)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A large city which is an industrial center and the official capital of The Netherlands. Population (2000) = 724,096."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

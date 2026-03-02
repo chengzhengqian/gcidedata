@@ -1,0 +1,70 @@
+{
+  "key": "analgesic",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "analgesic",
+      "headword_raw": "an`al*ge\"sic",
+      "pr": "(n`l*jē\"zk or n'l*jē\"zk)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[NL., fr. Gr. 'analghsi`a; 'an priv. + 'a`lghsis sense of pain.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Serving to reduce the sensibility to pain without loss of consciousness."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "analgesic",
+      "headword_raw": "an`al*ge\"sic",
+      "pr": "(n`l*jē\"zk)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[NL., fr. Gr. 'analghsi`a; 'an priv. + 'a`lghsis sense of pain.]",
+      "sources": [
+        "PJC",
+        "AS"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a medication which serves to reduce the sensibility to pain without loss of consciousness. Aspirin and acetaminophen (paracetamol, trade name Tylenol) are commonly used non-prescription analgesics."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

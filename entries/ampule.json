@@ -1,0 +1,53 @@
+{
+  "key": "ampule",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "ampule",
+      "headword_raw": "ampule",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a small glass bottle which has been or can be sealed hermetically by application of flame to a narrow opening at the top."
+          ],
+          "quotes": [],
+          "notes": [
+            "aAn ampule usually has a narrow constriction near the top which can be scored and easily broken to open the ampule. Once opened, they cannot be hermetically re-sealed; thus the quantity contained is usually that which is to be used at once or within a short time. The contents are often sealed under vacuum to retard degradation by air."
+          ],
+          "synonyms": [
+            "phial",
+            "vial",
+            "ampoule"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "an ampule, or vial resembling an ampule, which contains a drug."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "key": "anaerobes",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Anaerobes",
+      "headword_raw": "An\"aer*obes",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Anaërobes",
+      "headword_raw": "An*a\"<eum/r*obes",
+      "pr": "(?)",
+      "pos": [
+        "n. pl."
+      ],
+      "ety": "[NL. anaerobia; an-not + aëro- + Gr.<?/ life.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Bacteriol.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Anaërobic bacteria. They are called facultative anaërobes when able to live either in the presence or absence of free oxygen; obligate anaërobes, or obligatory anaërobes, when they thrive only in its absence."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "key": "amylolysis",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "amylolysis",
+      "headword_raw": "am`y*lol\"y*sis",
+      "pr": "(m`*ll\"*ss)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Amylum + Gr. ly`sis a loosing.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Amylolytic",
+          "form_raw": "Am`y*lo*lyt\"ic",
+          "key": "amylolytic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The conversion of starch into soluble products, as dextrins and sugar, esp. by the action of enzymes."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "key": "ampicillin",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "ampicillin",
+      "headword_raw": "ampicillin",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a semisynthetic penicillin which can be considered as the common benzylpenicillin containing an amino group at the alpha benzyl position."
+          ],
+          "quotes": [],
+          "notes": [
+            "It is more active against certain gram-negative bacteria than is benzylpenicillin. It found wide use in treatment of bacterial infections, and has been sold under many trade names."
+          ],
+          "synonyms": [
+            "D(-)",
+            "aminobenzylpenicillin"
+          ]
+        }
+      ]
+    }
+  ]
+}

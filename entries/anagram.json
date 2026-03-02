@@ -1,0 +1,67 @@
+{
+  "key": "anagram",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Anagram",
+      "headword_raw": "An\"a*gram",
+      "pr": "(n\"*grm)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. anagramme, LL. anagramma, fr. Gr. 'ana` back, again + gra`fein to write. See Graphic.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Literally, the letters of a word read backwards, but in its usual wider sense, the change of one word or phrase into another by the transposition of its letters. Thus Galenus becomes angelus; William Noy (attorney-general to Charles I., and a laborious man) may be turned into I moyl in law."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Anagram",
+      "headword_raw": "An\"a*gram",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To anagrammatize."
+          ],
+          "quotes": [
+            "Some of these anagramed his name, Benlowes, into Benevolus."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

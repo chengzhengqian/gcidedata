@@ -1,0 +1,66 @@
+{
+  "key": "analogous",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Analogous",
+      "headword_raw": "A*nal\"o*gous",
+      "pr": "(<?/)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. analogous, Gr. <?/ according to a due ratio, proportionate; <?/ + <?/ ratio, proportion. See Logic.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Analo gously",
+          "form_raw": "A*nal\"o gous*ly",
+          "key": "analo_gously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Analogousness",
+          "form_raw": "A*nal\"o*gous*ness",
+          "key": "analogousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Correspondent",
+        "similar",
+        "like"
+      ],
+      "entry_fields": [
+        "(Pyroelect.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Having analogy; corresponding to something else; bearing some resemblance or proportion; -- often followed by to."
+          ],
+          "quotes": [
+            "Analogous tendencies in arts and manners.",
+            "Decay of public spirit, which may be considered analogous to natural death."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

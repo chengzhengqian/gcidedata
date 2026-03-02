@@ -1,0 +1,49 @@
+{
+  "key": "amphoteric",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "amphoteric",
+      "headword_raw": "am`pho*ter\"ic",
+      "pr": "(m`f*tr\"k)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Gr. 'amfo`teros both.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Partly one and partly the other"
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "Having both acidic and basic groups within the same molecule, and consequently neither acid nor alkaline; neutral."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

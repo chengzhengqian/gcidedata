@@ -1,0 +1,36 @@
+{
+  "key": "ampre_turn",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Ampre turn",
+      "headword_raw": "Amp<egrave/re turn",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Elec.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A unit of magnetomotive force equal to the product of one complete convolution (of a coiled conductor) into one ampre of current; thus, a conductor having five convolutions and carrying a current of half an ampre is said to have 2½ ampre turns. The magnetizing effect of a coil is proportional to the number of its ampre turns."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "key": "analysis_of_variance",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Analysis of variance",
+      "headword_raw": "A*nal\"y*sis of variance",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Statistics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a statistical technique by which the results of an observation or experiment are analyzed to determine the relative contributions of the different possible causative factors or variables to the outcome. Abbreviated ANOVA."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

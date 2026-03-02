@@ -1,0 +1,74 @@
+{
+  "key": "anaphylaxis",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "anaphylaxis",
+      "headword_raw": "an`a*phy*lax\"is",
+      "pr": "(n`*fī*lk\"ss or n`*f*lk\"ss)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. 'ana` back, way from + fy`laxis security, protection.]",
+      "sources": [
+        "WordNet 1.5",
+        "AS",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "1.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "Hypersensitivity (to a foreign antigen) resulting from prior contact with the same or a related substance."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "An immediate but transient systemic reaction to an antigenic substance to which a person has become hypersensitized; it is characterized by the contraction of smooth muscle and capillary dilation."
+          ],
+          "quotes": [],
+          "notes": [
+            "The cascade of events is triggered by binding of the foreign antigen to immunoglobulin E and release of mediators such as histamine, bradykinin, serotonin, and slow-reacting substance from mast cells. It involves more than one organ system. The most commonly involved organs are skin, cardiovascular, respiratory and gastrointestinal systems. Anaphylaxis is manifested by a range of signs and symptoms including pruritus, urticaria, itching, dyspnea, abdominal pain and cardiovascular collapse (shock). A severe form of the reaction is called anaphylactic shock."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Med)"
+          ],
+          "defs": [
+            "Anaphylactic shock."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

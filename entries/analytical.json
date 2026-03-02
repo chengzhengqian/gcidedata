@@ -1,0 +1,103 @@
+{
+  "key": "analytical",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Analytical",
+      "headword_raw": "An`a*lyt\"ic*al",
+      "pr": "(<?/)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Gr. <?/: cf. F. analytique. See Analysis.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to analysis; resolving into elements or constituent parts; as, an analytical experiment; -- opposed to synthetic."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "analytical",
+      "headword_raw": "analytical",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "of or pertaining to analysis (definition 2)."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Logic)"
+          ],
+          "defs": [
+            "of a proposition; necessarily true independent of fact or experience, such as “all spinsters are unmarried”. Opposite of synthetic."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "exercising or involving careful analytical evaluations; as, analytic reasoning; an analytical discussion."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "appraising(prenominal)",
+            "evaluative"
+          ]
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Nat. Hist.)"
+          ],
+          "defs": [
+            "capable of or given to analyzing; -- of people."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

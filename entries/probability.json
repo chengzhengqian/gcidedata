@@ -1,0 +1,68 @@
+{
+  "key": "probability",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Probability",
+      "headword_raw": "Prob`a*bil\"i*ty",
+      "pr": "(#)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. probabilitas: cf. F. probabilit.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The quality or state of being probable; appearance of reality or truth; reasonable ground of presumption; likelihood."
+          ],
+          "quotes": [
+            "Probability is the appearance of the agreement or disagreement of two ideas, by the intervention of proofs whose connection is not constant, but appears for the most part to be so."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That which is or appears probable; anything that has the appearance of reality or truth."
+          ],
+          "quotes": [
+            "The whole life of man is a perpetual comparison of evidence and balancing of probabilities.",
+            "We do not call for evidence till antecedent probabilities fail."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "Likelihood of the occurrence of any event in the doctrine of chances, or the ratio of the number of favorable chances to the whole number of chances, favorable and unfavorable. See 1st Chance, n., 5."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Likeliness",
+            "credibleness",
+            "likelihood",
+            "chance"
+          ]
+        }
+      ]
+    }
+  ]
+}

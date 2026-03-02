@@ -1,0 +1,108 @@
+{
+  "key": "privilege",
+  "source_file": "CIDE.P",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Privilege",
+      "headword_raw": "Priv\"i*lege",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. privilge, L. privilegium an ordinance or law against or in favor of an individual; privus private + lex, legis, law. See Private, and Legal.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "-- Privilege, Prerogative. Privilege, among the Romans, was something conferred upon an individual by a private law; and hence, it denotes some peculiar benefit or advantage, some right or immunity, not enjoyed by the world at large. Prerogative, among the Romans, was the right of voting first; and, hence, it denotes a right of precedence, or of doing certain acts, or enjoying certain privileges, to the exclusion of others. It is the privilege of a member of Congress not to be called in question elsewhere for words uttered in debate. It is the prerogative of the president to nominate judges and executive officers. It is the privilege of a Christian child to be instructed in the true religion. It is the prerogative of a parent to govern and direct his children."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A peculiar benefit, advantage, or favor; a right or immunity not enjoyed by others or by all; special enjoyment of a good, or exemption from an evil or burden; a prerogative; advantage; franchise."
+          ],
+          "quotes": [
+            "He pleads the legal privilege of a Roman.",
+            "The privilege birthright was a double portion.",
+            "A people inheriting privileges, franchises, and liberties."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Stockbroker's Cant)",
+            "(Parliamentary practice)",
+            "(Law)"
+          ],
+          "defs": [
+            "See Call, Put, Spread, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Prerogative",
+            "immunity",
+            "franchise",
+            "right",
+            "claim",
+            "liberty"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Privilege",
+      "headword_raw": "Priv\"i*lege",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[Cf. F. privilgier.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Privileged (?); p. pr. & vb. n. Privileging.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To grant some particular right or exemption to; to invest with a peculiar right or immunity; to authorize; as, to privilege representatives from arrest."
+          ],
+          "quotes": [
+            "To privilege dishonor in thy name."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To bring or put into a condition of privilege or exemption from evil or danger; to exempt; to deliver."
+          ],
+          "quotes": [
+            "He took this place for sanctuary, And it shall privilege him from your hands."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

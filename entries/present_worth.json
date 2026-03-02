@@ -1,0 +1,34 @@
+{
+  "key": "present_worth",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Present worth",
+      "headword_raw": "Pres\"ent worth",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The principal which, drawing interest at a given rate, will amount to the given sum at the date on which this is to be paid; thus, interest being at 6%, the present value of $106 due one year hence is $100."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

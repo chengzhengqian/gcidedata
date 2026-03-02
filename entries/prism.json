@@ -1,0 +1,66 @@
+{
+  "key": "prism",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Prism",
+      "headword_raw": "Prism",
+      "pr": "(prz'm)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. prisma, Gr. pri`sma, fr. pri`zein, pri`ein, to saw: cf. F. prisme.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Geom.)"
+          ],
+          "defs": [
+            "A solid whose bases or ends are any similar, equal, and parallel plane figures, and whose sides are parallelograms."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Prisms of different forms are often named from the figure of their bases; as, a triangular prism, a quadrangular prism, a rhombic prism, etc."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Opt.)"
+          ],
+          "defs": [
+            "A transparent body, with usually three rectangular plane faces or sides, and two equal and parallel triangular ends or bases; -- used in experiments on refraction, dispersion, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Crystallog.)",
+            "(Opt.)",
+            "(Opt.)"
+          ],
+          "defs": [
+            "A form the planes of which are parallel to the vertical axis. See Form, n., 13."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

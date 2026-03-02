@@ -1,0 +1,48 @@
+{
+  "key": "probator",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Probator",
+      "headword_raw": "Pro*ba\"tor",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "An examiner; an approver."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(O. Eng. Law)"
+          ],
+          "defs": [
+            "One who, when indicted for crime, confessed it, and accused others, his accomplices, in order to obtain pardon; a state's evidence."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

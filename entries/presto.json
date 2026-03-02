@@ -1,0 +1,51 @@
+{
+  "key": "presto",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Presto",
+      "headword_raw": "Pres\"to",
+      "pr": "(?)",
+      "pos": [
+        "adv.",
+        "a."
+      ],
+      "ety": "[It. or Sp. presto quick, quickly. See Prest, a.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Quickly; immediately; in haste; suddenly."
+          ],
+          "quotes": [
+            "Presto! begone! 'tis here again."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mus.)"
+          ],
+          "defs": [
+            "Quickly; rapidly; -- a direction for a quick, lively movement or performance; quicker than allegro, or any rate of time except prestissimo."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

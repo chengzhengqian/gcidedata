@@ -1,0 +1,126 @@
+{
+  "key": "prescribe",
+  "source_file": "CIDE.P",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Prescribe",
+      "headword_raw": "Pre*scribe\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr & vb. n."
+      ],
+      "ety": "[L. praescribere, praescriptum; prae before + scriebe to write. See Scribe.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Prescribed (?); p. pr & vb. n. Prescribing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To lay down authoritatively as a guide, direction, or rule of action; to impose as a peremptory order; to dictate; to appoint; to direct."
+          ],
+          "quotes": [
+            "Prescribe not us our duties.",
+            "Let streams prescribe their fountains where to run."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "To direct, as a remedy to be used by a patient; as, the doctor prescribed quinine."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "appoint",
+            "order",
+            "command",
+            "dictate",
+            "ordain",
+            "institute",
+            "establish"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Prescribe",
+      "headword_raw": "Pre*scribe\"",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To give directions; to dictate."
+          ],
+          "quotes": [
+            "A forwardness to prescribe to their opinions."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To influence by long use"
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "To write or to give medical directions; to indicate remedies; as, to prescribe for a patient in a fever."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "To claim by prescription; to claim a title to a thing on the ground of immemorial use and enjoyment, that is, by a custom having the force of law."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

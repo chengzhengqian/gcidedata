@@ -1,0 +1,86 @@
+{
+  "key": "priest",
+  "source_file": "CIDE.P",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Priest",
+      "headword_raw": "Priest",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. prest, preost, AS. prest, fr. L. presbyter, Gr. <?/ elder, older, n., an elder, compar. of <?/ an old man, the first syllable of which is probably akin to L. pristinus. Cf. Pristine, Presbyter.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Christian Church)",
+            "(R. C. Ch. & Gr. Ch.)",
+            "(Ch. of Eng. & Prot. Epis. Ch.)"
+          ],
+          "defs": [
+            "A presbyter elder; a minister",
+            "One who is authorized to consecrate the host and to say Mass; but especially, one of the lowest order possessing this power.",
+            "A presbyter; one who belongs to the intermediate order between bishop and deacon. He is authorized to perform all ministerial services except those of ordination and confirmation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "One who officiates at the altar, or performs the rites of sacrifice; one who acts as a mediator between men and the divinity or the gods in any form of religion; as, Buddhist priests."
+          ],
+          "quotes": [
+            "Then the priest of Jupiter . . . brought oxen and garlands . . . and would have done sacrifice with the people.",
+            "Every priest taken from among men is ordained for men in things pertaining to God, that he may offer both gifts and sacrifices for sins."
+          ],
+          "notes": [
+            "☞ In the New Testament presbyters are not called priests; but Christ is designated as a priest, and as a high priest, and all Christians are designated priests."
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Priest",
+      "headword_raw": "Priest",
+      "pr": "(?)",
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To ordain as priest."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

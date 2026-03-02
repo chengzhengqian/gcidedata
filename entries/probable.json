@@ -1,0 +1,61 @@
+{
+  "key": "probable",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Probable",
+      "headword_raw": "Prob\"a*ble",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. probabilis, fr. probare to try, approve, prove: cf. F. probable. See Prove, and cf. Provable.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Capable of being proved."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Having more evidence for than against; supported by evidence which inclines the mind to believe, but leaves some room for doubt; likely."
+          ],
+          "quotes": [
+            "That is accounted probable which has better arguments producible for it than can be brought against it.",
+            "I do not say that the principles of religion are merely probable; I have before asserted them to be morally certain."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "Rendering probable; supporting, or giving ground for, belief, but not demonstrating; as, probable evidence; probable presumption."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

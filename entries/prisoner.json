@@ -1,0 +1,48 @@
+{
+  "key": "prisoner",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Prisoner",
+      "headword_raw": "Pris\"on*er",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. prisonnier.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One who is confined in a prison."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A person under arrest, or in custody, whether in prison or not; a person held in involuntary restraint; a captive; as, a prisoner at the bar of a court."
+          ],
+          "quotes": [
+            "Prisoner of Hope thou art, -- look up and sing."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

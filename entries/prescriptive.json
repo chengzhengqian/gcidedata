@@ -1,0 +1,51 @@
+{
+  "key": "prescriptive",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Prescriptive",
+      "headword_raw": "Pre*scrip\"tive",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. praescriptivus of a demurrer or legal exception.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "Consisting in, or acquired by, immemorial or long-continued use and enjoyment; as, a prescriptive right of title; pleading the continuance and authority of long custom."
+          ],
+          "quotes": [
+            "The right to be drowsy in protracted toil has become prescriptive."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to the doctrine that acceptable grammatical rules should be prescribed by authority, rather than be determined by common usage."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

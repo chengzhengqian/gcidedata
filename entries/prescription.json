@@ -1,0 +1,66 @@
+{
+  "key": "prescription",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Prescription",
+      "headword_raw": "Pre*scrip\"tion",
+      "pr": "(pr*skrp\"shn)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. prescription, L. praescriptio, an inscription, preface, precept, demurrer, prescription (in sense 3), fr. praescribere. See Prescribe.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of prescribing, directing, or dictating; direction; precept; also, that which is prescribed."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "A direction of a remedy or of remedies for a disease, and the manner of using them; a medical recipe; also, a prescribed remedy.",
+            "a written order from a physician for a medication, which allows a patient to legally obtain medication which is required by law to be dispensed only on authorization from a physician or other qualified medical practitioner."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "A prescribing for title; the claim of title to a thing by virtue of immemorial use and enjoyment; the right or title acquired by possession had during the time and in the manner fixed by law."
+          ],
+          "quotes": [
+            "That profound reverence for law and prescription which has long been characteristic of Englishmen."
+          ],
+          "notes": [
+            "☞ Prescription differs from custom, which is a local usage, while prescription is personal, annexed to the person only. Prescription only extends to incorporeal rights, such as a right of way, or of common. What the law gives of common rights is not the subject of prescription. Blackstone. Cruise. Kent. In Scotch law, prescription is employed in the sense in which limitation is used in England and America, namely, to express that operation of the lapse of time by which obligations are extinguished or title protected. Sir T. Craig. Erskine."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "key": "probationer",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Probationer",
+      "headword_raw": "Pro*ba\"tion*er",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One who is undergoing probation; one who is on trial; a novice."
+          ],
+          "quotes": [
+            "While yet a young probationer, And candidate of heaven."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A student in divinity, who, having received certificates of good morals and qualifications from his university, is admitted to several trials by a presbytery, and, on acquitting himself well, is licensed to preach."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

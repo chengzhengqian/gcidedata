@@ -1,0 +1,57 @@
+{
+  "key": "unnecessary",
+  "source_file": "CIDE.U",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Unnecessary",
+      "headword_raw": "Un*nec\"es*sa*ry",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Unnecessarily",
+          "form_raw": "Un*nec\"es*sa*ri*ly",
+          "key": "unnecessarily",
+          "pos": [
+            "adv."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Unnecessariness",
+          "form_raw": "Un*nec\"es*sa*ri*ness",
+          "key": "unnecessariness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not necessary; not required under the circumstances; unless; needless; as, unnecessary labor, care, or rigor."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

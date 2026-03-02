@@ -1,0 +1,59 @@
+{
+  "key": "unnatural",
+  "source_file": "CIDE.U",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Unnatural",
+      "headword_raw": "Un*nat\"u*ral",
+      "pr": "(?; 135)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Unnaturally",
+          "form_raw": "Un*nat\"u*ral*ly",
+          "key": "unnaturally",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Unnaturalness",
+          "form_raw": "Un*nat\"u*ral*ness",
+          "key": "unnaturalness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "See Factitious"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not natural; contrary, or not conforming, to the order of nature; being without natural traits; as, unnatural crimes."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

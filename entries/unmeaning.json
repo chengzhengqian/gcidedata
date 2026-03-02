@@ -1,0 +1,69 @@
+{
+  "key": "unmeaning",
+  "source_file": "CIDE.U",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Unmeaning",
+      "headword_raw": "Un*mean\"ing",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Unmeaningly",
+          "form_raw": "Un*mean\"ing*ly",
+          "key": "unmeaningly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Unmeaningness",
+          "form_raw": "Un*mean\"ing*ness",
+          "key": "unmeaningness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Having no meaning or signification; as, unmeaning words."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Not indicating intelligence or sense; senseless; expressionless; as, an unmeaning face."
+          ],
+          "quotes": [
+            "There pride sits blazoned on the unmeaning brow."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

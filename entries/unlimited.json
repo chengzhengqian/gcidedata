@@ -1,0 +1,81 @@
+{
+  "key": "unlimited",
+  "source_file": "CIDE.U",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Unlimited",
+      "headword_raw": "Un*lim\"it*ed",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Unlimitedly",
+          "form_raw": "Un*lim\"it*ed*ly",
+          "key": "unlimitedly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Unlimitedness",
+          "form_raw": "Un*lim\"it*ed*ness",
+          "key": "unlimitedness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Not limited; having no bounds; boundless; as, an unlimited expanse of ocean."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Undefined; indefinite; not bounded by proper exceptions; as, unlimited terms."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "Unconfined; not restrained; unrestricted."
+          ],
+          "quotes": [
+            "Ascribe not unto God such an unlimited exercise of mercy as may destroy his justice."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

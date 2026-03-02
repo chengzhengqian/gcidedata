@@ -1,0 +1,133 @@
+{
+  "key": "intermediate",
+  "source_file": "CIDE.I",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Intermediate",
+      "headword_raw": "In`ter*me\"di*ate",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Pref. inter- + mediate: cf. F. intermdiat.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Lying or being in the middle place or degree, or between two extremes; coming or done between; intervening; interposed; interjacent; as, an intermediate space or time; intermediate colors."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Theol.)",
+            "(Math.)",
+            "(Arch.)"
+          ],
+          "defs": [
+            "Of or pertaining to an intermediate school; as, intermediate education."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Intermediate",
+      "headword_raw": "In`ter*me\"di*ate",
+      "pr": "(?)",
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To come between; to intervene; to interpose."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Intermediate",
+      "headword_raw": "In`ter*me\"di*ate",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A person who intermediates between others, especially in negotiations; an intermediary; a mediator."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Something that is intermediate."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "A compound which is produced in the course of a chemical synthesis, which is not itself the final product, but is used in further reactions which produce the final product; also called synthetic intermediate, intermediate compound or intermediate product; -- contrasted to starting material and end product or final product. There may be many different intermediates between the starting material and end product in the course of a complex synthesis; as, many industrial chemicals are produced primarily to be used as intermediates in other syntheses."
+          ],
+          "quotes": [],
+          "notes": [
+            "The term has the same meaning with respect to intermediate compounds produced in a biosynthetic pathway in living organisms."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

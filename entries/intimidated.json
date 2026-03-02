@@ -1,0 +1,51 @@
+{
+  "key": "intimidated",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "intimidated",
+      "headword_raw": "intimidated",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "made timid or fearful as by threats."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "frightened into submission or compliance."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "browbeaten",
+            "bullied",
+            "cowed",
+            "hangdog"
+          ]
+        }
+      ]
+    }
+  ]
+}

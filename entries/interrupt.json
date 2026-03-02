@@ -1,0 +1,79 @@
+{
+  "key": "interrupt",
+  "source_file": "CIDE.I",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Interrupt",
+      "headword_raw": "In`ter*rupt\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. interruptus, p. p. of interrumpere to interrupt; inter between + rumpere to break. See Rupture.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Interrupted; p. pr. & vb. n. Interrupting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To break into, or between; to stop, or hinder by breaking in upon the course or progress of; to interfere with the current or motion of; to cause a temporary cessation of; as, to interrupt the remarks of anyone speaking."
+          ],
+          "quotes": [
+            "Do not interrupt me in my course."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To divide; to separate; to break the monotony of; as, the evenness of the road was not interrupted by a single hill."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Interrupt",
+      "headword_raw": "In`ter*rupt\"",
+      "pr": null,
+      "pos": [
+        "p. a."
+      ],
+      "ety": "[L. interruptus, p. p.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Broken; interrupted."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

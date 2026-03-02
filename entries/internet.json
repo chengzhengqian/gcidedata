@@ -1,0 +1,36 @@
+{
+  "key": "internet",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "internet",
+      "headword_raw": "in\"ter*net",
+      "pr": "(n\"tr*nt)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A large network{3} of numerous computers connected through a number of major nodes of high-speed computers having high-speed communications channels between the major nodes, and numerous minor nodes allowing electronic communication among millions of computers around the world; -- usually referred to as the internet. It is the basis for the World-Wide Web."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

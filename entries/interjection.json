@@ -1,0 +1,53 @@
+{
+  "key": "interjection",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Interjection",
+      "headword_raw": "In`ter*jec\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. interjectio: cf. F. interjection. See Interject.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of interjecting or throwing between; also, that which is interjected."
+          ],
+          "quotes": [
+            "The interjection of laughing."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Gram.)"
+          ],
+          "defs": [
+            "A word or form of speech thrown in to express emotion or feeling, as O! Alas! Ha ha! Begone! etc. Compare Exclamation."
+          ],
+          "quotes": [
+            "An interjection implies a meaning which it would require a whole grammatical sentence to expound, and it may be regarded as the rudiment of such a sentence. But it is a confusion of thought to rank it among the parts of speech.",
+            "How now! interjections? Why, then, some be of laughing, as, ah, ha, he!"
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

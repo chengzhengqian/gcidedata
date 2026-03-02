@@ -1,0 +1,52 @@
+{
+  "key": "intransitive",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Intransitive",
+      "headword_raw": "In*tran\"si*tive",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. intransitivus: cf. F. intransitif. See In- not, and Transitive.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Not passing farther; kept; detained."
+          ],
+          "quotes": [
+            "And then it is for the image's sake and so far is intransitive; but whatever is paid more to the image is transitive and passes further."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Gram.)"
+          ],
+          "defs": [
+            "Not transitive; not passing over to an object; expressing an action or state that is limited to the agent or subject, or, in other words, an action which does not require an object to complete the sense; as, an intransitive verb, e. g., the bird flies; the dog runs."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Intransitive verbs have no passive form. Some verbs which appear at first sight to be intransitive are in reality, or were originally, transitive verbs with a reflexive or other object omitted; as, he keeps (i. e., himself) aloof from danger. Intransitive verbs may take a noun of kindred signification for a cognate object; as, he died the death of a hero; he dreamed a dream. Some intransitive verbs, by the addition of a preposition, become transitive, and so admit of a passive voice; as, the man laughed at; he was laughed at by the man."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

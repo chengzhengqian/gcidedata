@@ -1,0 +1,71 @@
+{
+  "key": "intolerable",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Intolerable",
+      "headword_raw": "In*tol\"er*a*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[F. intolrable, L. intolerabilis. See In- not, and Tolerable.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Intolerableness",
+          "form_raw": "In*tol\"er*a*ble*ness",
+          "key": "intolerableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Intolerably",
+          "form_raw": "In*tol\"er*a*bly",
+          "key": "intolerably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Not tolerable; not capable of being borne or endured; not proper or right to be allowed; insufferable; insupportable; unbearable; as, intolerable pain; intolerable heat or cold; an intolerable burden."
+          ],
+          "quotes": [
+            "His insolence is more intolerable Than all the princes in the land beside."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Enormous."
+          ],
+          "quotes": [
+            "This intolerable deal of sack."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

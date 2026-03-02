@@ -1,0 +1,47 @@
+{
+  "key": "interlinear",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Interlinear",
+      "headword_raw": "In`ter*lin\"e*ar",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[Cf. LL. interlinearis, F. interlinaire.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Interlinearly",
+          "form_raw": "In`ter*lin\"e*ar*ly",
+          "key": "interlinearly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Contained between lines; written or inserted between lines already written or printed; containing interlineations; as, an interlinear manuscript, translation, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

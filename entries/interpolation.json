@@ -1,0 +1,60 @@
+{
+  "key": "interpolation",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Interpolation",
+      "headword_raw": "In*ter`po*la\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. interpolatio an alteration made here and there: cf. F. interpolation.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of introducing or inserting anything, especially that which is spurious or foreign."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That which is introduced or inserted, especially something foreign or spurious."
+          ],
+          "quotes": [
+            "Bentley wrote a letter . . . . upon the scriptural glosses in our present copies of Hesychius, which he considered interpolations from a later hand."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "The method or operation of finding from a few given terms of a series, as of numbers or observations, other intermediate terms in conformity with the law of the series."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

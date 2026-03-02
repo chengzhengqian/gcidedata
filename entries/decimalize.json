@@ -1,0 +1,47 @@
+{
+  "key": "decimalize",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Decimalize",
+      "headword_raw": "Dec\"i*mal*ize",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Decimalization",
+          "form_raw": "Dec`i*mal*i*za\"tion",
+          "key": "decimalization",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "to convert the dominant units of measure (e.g. of currency) to a decimal-based system; to reduce to a decimal system; as, to decimalize the currency."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

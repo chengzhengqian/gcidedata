@@ -1,0 +1,49 @@
+{
+  "key": "deadlock",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "deadlock",
+      "headword_raw": "dead\"lock`",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A lock which is not self-latching, but requires a key to throw the bolt forward."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A counteraction of things, which produces an entire stoppage; a complete obstruction of action."
+          ],
+          "quotes": [
+            "Things are at a deadlock.",
+            "The Board is much more likely to be at a deadlock of two to two."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

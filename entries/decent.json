@@ -1,0 +1,94 @@
+{
+  "key": "decent",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "decent",
+      "headword_raw": "de\"cent",
+      "pr": "(dē\"snt)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. decens, decentis, p. pr. of decere to be fitting or becoming; akin to decus glory, honor, ornament, Gr. dokei^n to seem good, to seem, think; cf. Skr. dāç to grant, to give; and perh. akin to E. attire, tire: cf. F. dcent. Cf. Decorate, Decorum, Deign.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Decently",
+          "form_raw": "De\"cent*ly",
+          "key": "decently",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Decentness",
+          "form_raw": "De\"cent*ness",
+          "key": "decentness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Suitable in words, behavior, dress, or ceremony; becoming; fit; decorous; proper; seemly; as, decent conduct; decent language."
+          ],
+          "quotes": [
+            "Before his decent steps."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Free from immodesty or obscenity; modest."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Comely; shapely; well-formed."
+          ],
+          "quotes": [
+            "A sable stole of cyprus lawn Over thy decent shoulders drawn.",
+            "By foreign hands thy decent limbs composed."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Moderate, but competent; sufficient; hence, respectable; fairly good; reasonably comfortable or satisfying; as, a decent fortune; a decent person."
+          ],
+          "quotes": [
+            "A decent retreat in the mutability of human affairs."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

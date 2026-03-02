@@ -1,0 +1,79 @@
+{
+  "key": "debit",
+  "source_file": "CIDE.D",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Debit",
+      "headword_raw": "Deb\"it",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. debitum what is due, debt, from debere to owe: cf. F. dbit. See Debt.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A debt; an entry on the debtor (Dr.) side of an account; -- mostly used adjectively; as, the debit side of an account."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Debit",
+      "headword_raw": "Deb\"it",
+      "pr": null,
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Debited; p. pr. & vb. n. Debiting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To charge with debt; -- the opposite of, and correlative to, credit; as, to debit a purchaser for the goods sold."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Bookkeeping)"
+          ],
+          "defs": [
+            "To enter on the debtor (Dr.) side of an account; as, to debit the amount of goods sold."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

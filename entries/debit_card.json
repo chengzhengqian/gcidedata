@@ -1,0 +1,36 @@
+{
+  "key": "debit_card",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Debit card",
+      "headword_raw": "Deb\"it card`",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[See debit.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a small usually plastic card with a magnetic coded number, similar to a credit card, which is used to pay for purchases by the electronic deduction of a sum of money (a debit) directly from the card-holder's bank account. Such cards do not require the establishment of a credit line, and such transactions do not incur any interest payments."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

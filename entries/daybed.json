@@ -1,0 +1,51 @@
+{
+  "key": "daybed",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "daybed",
+      "headword_raw": "daybed",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "an armless couch; a seat by day and a bed by night."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "divan bed"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a long chair; for reclining."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "chaise longue",
+            "chaise"
+          ]
+        }
+      ]
+    }
+  ]
+}

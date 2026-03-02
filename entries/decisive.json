@@ -1,0 +1,73 @@
+{
+  "key": "decisive",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Decisive",
+      "headword_raw": "De*ci*sive",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Cf. F. dcisif. See Decision.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Decisively",
+          "form_raw": "De*ci\"sive*ly",
+          "key": "decisively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Decisiveness",
+          "form_raw": "De*ci\"sive*ness",
+          "key": "decisiveness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Having the power or quality of deciding a question or controversy; putting an end to contest or controversy; final; conclusive."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Marked by promptness and decision."
+          ],
+          "quotes": [
+            "A noble instance of this attribute of the decisive character."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Decided",
+            "positive",
+            "conclusive. See Decided"
+          ]
+        }
+      ]
+    }
+  ]
+}

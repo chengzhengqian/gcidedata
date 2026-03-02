@@ -1,0 +1,72 @@
+{
+  "key": "decelerate",
+  "source_file": "CIDE.D",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "decelerate",
+      "headword_raw": "decelerate",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "to reduce speed; as, The car decelerated. Opposite of accelerate."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "slow",
+            "slow down",
+            "slow up",
+            "retard"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "decelerate",
+      "headword_raw": "decelerate",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "slow down"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "to cause to reduce speed. Opposite of accelerate."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

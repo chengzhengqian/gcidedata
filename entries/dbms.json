@@ -1,0 +1,38 @@
+{
+  "key": "dbms",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "DBMS",
+      "headword_raw": "DBMS",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[acronym from DataBase Management System.]",
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "database management system"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a database management system, a software system that facilitates the creation and maintenance and use of an electronic database."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

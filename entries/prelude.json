@@ -1,0 +1,125 @@
+{
+  "key": "prelude",
+  "source_file": "CIDE.P",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Prelude",
+      "headword_raw": "Pre\"lude",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "v. t."
+      ],
+      "ety": "[F. prlude (cf. It. preludio, LL. praeludium), fr. L. prae before + ludus play. See Prelude, v. t.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "Preface",
+        "introduction",
+        "preliminary",
+        "preamble",
+        "forerunner",
+        "harbinger",
+        "precursor"
+      ],
+      "entry_fields": [
+        "(Mus.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An introductory performance, preceding and preparing for the principal matter; a preliminary part, movement, strain, etc.; especially (Mus.), a strain introducing the theme or chief subject; a movement introductory to a fugue, yet independent; -- with recent composers often synonymous with overture."
+          ],
+          "quotes": [
+            "The last Georgic was a good prelude to the Aenis",
+            "The cause is more than the prelude, the effect is more than the sequel, of the fact."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Prelude",
+      "headword_raw": "Pre*lude\"",
+      "pr": "(?)",
+      "pos": [
+        "v. i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. praeludere, praelusum; prae before + ludere to play: cf. F. prluder. See Ludicrous.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Preluded; p. pr. & vb. n. Preluding.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To play an introduction or prelude; to give a prefatory performance; to serve as prelude."
+          ],
+          "quotes": [
+            "The musicians preluded on their instruments.",
+            "We are preluding too largely, and must come at once to the point."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Prelude",
+      "headword_raw": "Pre*lude\"",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To introduce with a previous performance; to play or perform a prelude to; as, to prelude a concert with a lively air."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To serve as prelude to; to precede as introductory."
+          ],
+          "quotes": [
+            "[Music] preluding some great tragedy."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

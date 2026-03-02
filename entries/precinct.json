@@ -1,0 +1,58 @@
+{
+  "key": "precinct",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Precinct",
+      "headword_raw": "Pre\"cinct",
+      "pr": "(?; 277)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[LL. praecinctum, fr. L. praecingere, praecinctum, to gird about, to encompass; prae before + cingere to gird, surround. See Pre-, and Cincture.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The limit or exterior line encompassing a place; a boundary; a confine; limit of jurisdiction or authority; -- often in the plural; as, the precincts of a state."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A district within certain boundaries; a minor territorial or jurisdictional division; as, an election precinct; a school precinct."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A parish or prescribed territory attached to a church, and taxed for its support."
+          ],
+          "quotes": [
+            "The parish, or precinct, shall proceed to a new choice."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

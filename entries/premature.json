@@ -1,0 +1,77 @@
+{
+  "key": "premature",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Premature",
+      "headword_raw": "Pre`ma*ture\"",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. praematurus; prae before + maturus ripe. See Mature.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Prematurely",
+          "form_raw": "Pre`ma*ture\"ly",
+          "key": "prematurely",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Prematureness",
+          "form_raw": "Pre`ma*ture\"ness",
+          "key": "prematureness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Mature or ripe before the proper time; as, the premature fruits of a hotbed."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Happening, arriving, existing, or performed before the proper or usual time; adopted too soon; too early; untimely; as, a premature fall of snow; a premature birth; a premature opinion; premature decay."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Arriving or received without due authentication or evidence; as, a premature report."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

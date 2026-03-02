@@ -1,0 +1,69 @@
+{
+  "key": "prejudicial",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Prejudicial",
+      "headword_raw": "Prej`u*di\"cial",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. praejudicialis belonging to a preceding judgment: cf. F. prjudiciel.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Prejudicially",
+          "form_raw": "Prej`u*di\"cial*ly",
+          "key": "prejudicially",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Prejudicialness",
+          "form_raw": "Prej`u*di\"cial*ness",
+          "key": "prejudicialness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Biased, possessed, or blinded by prejudices; as, to look with a prejudicial eye."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Tending to obstruct or impair; hurtful; injurious; disadvantageous; detrimental."
+          ],
+          "quotes": [
+            "His going away . . . was most prejudicial and most ruinous to the king's affairs."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

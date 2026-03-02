@@ -1,0 +1,82 @@
+{
+  "key": "precise",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Precise",
+      "headword_raw": "Pre*cise\"",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. praecisus cut off, brief, concise, p. p. of praecidere to cut off in front, to cut off; prae before + caedere to cut: cf. F. prcis. Cf. Concise.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Precisely",
+          "form_raw": "Pre*cise\"ly",
+          "key": "precisely",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Preciseness",
+          "form_raw": "Pre*cise\"ness",
+          "key": "preciseness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Having determinate limitations; exactly or sharply defined or stated; definite; exact; nice; not vague or equivocal; as, precise rules of morality."
+          ],
+          "quotes": [
+            "The law in this point is not precise.",
+            "For the hour precise Exacts our parting hence."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Strictly adhering or conforming to rule; very nice or exact; punctilious in conduct or ceremony; formal; ceremonious."
+          ],
+          "quotes": [
+            "He was ever precise in promise-keeping."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Accurate",
+            "exact",
+            "definite",
+            "correct",
+            "scrupulous",
+            "punctilious",
+            "particular",
+            "nice",
+            "formal. See Accurate"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "key": "precarious",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Precarious",
+      "headword_raw": "Pre*ca\"ri*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. precarius obtained by begging or prayer, depending on request or on the will of another, fr. precari to pray, beg. See Pray.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "-- Precarious, Uncertain. Precarious in stronger than uncertain. Derived originally from the Latin precari, it first signified “granted to entreaty,” and, hence, “wholly dependent on the will of another.” Thus it came to express the highest species of uncertainty, and is applied to such things as depend wholly on future casualties."
+      ],
+      "wordforms": [
+        {
+          "form": "Precariously",
+          "form_raw": "Pre*ca\"ri*ous*ly",
+          "key": "precariously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Precariousness",
+          "form_raw": "Pre*ca\"ri*ous*ness",
+          "key": "precariousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Depending on the will or pleasure of another; held by courtesy; liable to be changed or lost at the pleasure of another; as, precarious privileges."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Held by a doubtful tenure; depending on unknown causes or events; exposed to constant risk; not to be depended on for certainty or stability; uncertain; as, a precarious state of health; precarious fortunes."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Uncertain",
+            "unsettled",
+            "unsteady",
+            "doubtful",
+            "dubious",
+            "equivocal"
+          ]
+        }
+      ]
+    }
+  ]
+}

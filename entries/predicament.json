@@ -1,0 +1,53 @@
+{
+  "key": "predicament",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Predicament",
+      "headword_raw": "Pre*dic\"a*ment",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. prdicament, L. praedicamentum. See Predicate.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A class or kind described by any definite marks; hence, condition; particular situation or state; especially, an unfortunate or trying position or condition."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Logic)"
+          ],
+          "defs": [
+            "See Category."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Category",
+            "condition",
+            "state",
+            "plight"
+          ]
+        }
+      ]
+    }
+  ]
+}

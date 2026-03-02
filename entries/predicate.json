@@ -1,0 +1,155 @@
+{
+  "key": "predicate",
+  "source_file": "CIDE.P",
+  "record_count": 4,
+  "records": [
+    {
+      "headword": "Predicate",
+      "headword_raw": "Pred\"i*cate",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. praedicatus, p. p. of praedicare to cry in public, to proclaim. See Preach.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Predicated (?); p. pr. & vb. n. Predicating.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To assert to belong to something; to affirm (one thing of another); as, to predicate whiteness of snow."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To found; to base."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Predicate is sometimes used in the United States for found or base; as, to predicate an argument on certain principles; to predicate a statement on information received. Predicate is a term in logic, and used only in a single case, namely, when we affirm one thing of another. “Similitude is not predicated of essences or substances, but of figures and qualities only.”"
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Predicate",
+      "headword_raw": "Pred\"i*cate",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To affirm something of another thing; to make an affirmation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Predicate",
+      "headword_raw": "Pred\"i*cate",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "v. t."
+      ],
+      "ety": "[L. praedicatum, neut. of praedicatus, p. p. praedicare: cf. F. prdicat. See Predicate, v. t.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Logic)"
+          ],
+          "defs": [
+            "That which is affirmed or denied of the subject. In these propositions, “Paper is white,” “Ink is not white,” whiteness is the predicate affirmed of paper and denied of ink."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Gram.)"
+          ],
+          "defs": [
+            "The word or words in a proposition which express what is affirmed of the subject."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Affirmation",
+            "declaration"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Predicate",
+      "headword_raw": "Pred\"i*cate",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. praedicatus, p. p.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Predicated."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

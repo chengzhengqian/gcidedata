@@ -1,0 +1,106 @@
+{
+  "key": "precedent",
+  "source_file": "CIDE.P",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Precedent",
+      "headword_raw": "Pre*ced\"ent",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. praecedens, -entis, p. pr. of praecedere: cf. F. prcdent. See Precede.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Law)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Going before; anterior; preceding; antecedent; as, precedent services."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Precedent",
+      "headword_raw": "Prec\"e*dent",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "-- Precedent, Example. An example in a similar case which may serve as a rule or guide, but has no authority out of itself. A precedent is something which comes down to us from the past with the sanction of usage and of common consent. We quote examples in literature, and precedents in law."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Something done or said that may serve as an example to authorize a subsequent act of the same kind; an authoritative example."
+          ],
+          "quotes": [
+            "Examples for cases can but direct as precedents only."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A preceding circumstance or condition; an antecedent; hence, a prognostic; a token; a sign."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A rough draught of a writing which precedes a finished copy."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "A judicial decision which serves as a rule for future determinations in similar or analogous cases; an authority to be followed in courts of justice; forms of proceeding to be followed in similar cases."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Example",
+            "antecedent"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "key": "precept",
+  "source_file": "CIDE.P",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Precept",
+      "headword_raw": "Pre\"cept",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. praeceptum, from praecipere to take beforehand, to instruct, teach; prae before + capere to take: cf. F. prcepte. See Pre-, and Capacious.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Any commandment, instruction, or order intended as an authoritative rule of action; esp., a command respecting moral conduct; an injunction; a rule."
+          ],
+          "quotes": [
+            "For precept must be upon precept.",
+            "No arts are without their precepts."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "A command in writing; a species of writ or process."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Commandment",
+            "injunction",
+            "mandate",
+            "law",
+            "rule",
+            "direction",
+            "principle",
+            "maxim. See Doctrine"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Precept",
+      "headword_raw": "Pre\"cept",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To teach by precepts."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

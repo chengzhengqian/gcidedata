@@ -1,0 +1,40 @@
+{
+  "key": "apodosis",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Apodosis",
+      "headword_raw": "A*pod\"o*sis",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L., fr. Gr. <?/, fr. <?/ to give back; <?/ from, back again + <?/ to give.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Gram.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The consequent clause or conclusion in a conditional sentence, expressing the result, and thus distinguished from the protasis or clause which expresses a condition. Thus, in the sentence, “Though he slay me, yet will I trust in him,” the former clause is the protasis, and the latter the apodosis."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Some grammarians extend the terms protasis and apodosis to the introductory clause and the concluding clause, even when the sentence is not conditional."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "key": "aphetic",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Aphetic",
+      "headword_raw": "A*phet\"ic",
+      "pr": "(<?/)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[Gr. <?/ letting go, fr. <?/ to let go.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Aphetically",
+          "form_raw": "A*phet\"ic*al*ly",
+          "key": "aphetically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Shortened by dropping a letter or a syllable from the beginning of a word; as, an aphetic word or form."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

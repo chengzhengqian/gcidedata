@@ -1,0 +1,41 @@
+{
+  "key": "aplastic_anemia",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Aplastic anemia",
+      "headword_raw": "A*plas\"tic a*ne\"mi*a",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[from aplasia{2}.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "Ehrlich's anemia",
+        "anemia gravis"
+      ],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "an anemia characterized by substantial reduction or cessation of production of red blood cells and hemoglobin by the bone marrow."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

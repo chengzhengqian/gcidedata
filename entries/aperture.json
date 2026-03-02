@@ -1,0 +1,63 @@
+{
+  "key": "aperture",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Aperture",
+      "headword_raw": "Ap\"er*ture",
+      "pr": "(?; 135)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. apertura, fr. aperire. See Aperient.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of opening."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "An opening; an open space; a gap, cleft, or chasm; a passage perforated; a hole; as, an aperture in a wall."
+          ],
+          "quotes": [
+            "An aperture between the mountains.",
+            "The back aperture of the nostrils."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Opt.)"
+          ],
+          "defs": [
+            "The diameter of the exposed part of the object glass of a telescope or other optical instrument; as, a telescope of four-inch aperture."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The aperture of microscopes is often expressed in degrees, called also the angular aperture, which signifies the angular breadth of the pencil of light which the instrument transmits from the object or point viewed; as, a microscope of 100° aperture."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "key": "applesauce",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "applesauce",
+      "headword_raw": "applesauce",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "puree of stewed apples usually sweetened and spiced."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "apple sauce"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "nonsensical talk or writing."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "folderol",
+            "rubbish",
+            "tripe",
+            "trumpery",
+            "trash",
+            "wish-wash"
+          ]
+        }
+      ]
+    }
+  ]
+}

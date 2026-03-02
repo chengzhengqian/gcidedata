@@ -1,0 +1,49 @@
+{
+  "key": "apochromatic",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Apochromatic",
+      "headword_raw": "Ap`o*chro*mat\"ic",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": "[Pref. apo- + chromatic.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Apochromatism",
+          "form_raw": "Ap`o*chro\"ma*tism",
+          "key": "apochromatism",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Optics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Free from chromatic and spherical aberration; -- said esp. of a lens in which rays of three or more colors are brought to the same focus, the degree of achromatism thus obtained being more complete than where two rays only are thus focused, as in the ordinary achromatic objective."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

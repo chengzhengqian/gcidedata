@@ -1,0 +1,88 @@
+{
+  "key": "applaud",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Applaud",
+      "headword_raw": "Ap*plaud\"",
+      "pr": "(<?/)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. applaudere; ad + plaudere to clash, to clap the hands: cf. F. applaudir. Cf. Explode.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Applauded; p. pr. & vb. n. Applauding.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To show approval of by clapping the hands, acclamation, or other significant sign."
+          ],
+          "quotes": [
+            "I would applaud thee to the very echo, That should applaud again."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To praise by words; to express approbation of; to commend; to approve."
+          ],
+          "quotes": [
+            "By the gods, I do applaud his courage."
+          ],
+          "notes": [],
+          "synonyms": [
+            "praise",
+            "extol",
+            "commend",
+            "cry up",
+            "magnify",
+            "approve. See Praise"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Applaud",
+      "headword_raw": "Ap*plaud\"",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To express approbation loudly or significantly."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

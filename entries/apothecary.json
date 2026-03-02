@@ -1,0 +1,49 @@
+{
+  "key": "apothecary",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Apothecary",
+      "headword_raw": "A*poth\"e*ca*ry",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. apotecarie, fr. LL. apothecarius, fr. L. apotheca storehouse, Gr. apo, fr. <?/ to put away; <?/ from + <?/ to put: cf. F. apothicaire, OF. apotecaire. See Thesis.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One who prepares and sells drugs or compounds for medicinal purposes; a druggist; a pharmacist."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ In England an apothecary is one of a privileged class of practitioners, licensed to prescribe medicine -- a kind of sub-physician. The surgeon apothecary is the ordinary family medical attendant. One who sells drugs and makes up prescriptions is now commonly called in England a druggist or a pharmaceutical chemist."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A drugstore; a store where medicines are sold."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

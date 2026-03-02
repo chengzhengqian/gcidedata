@@ -1,0 +1,50 @@
+{
+  "key": "apotome",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Apotome",
+      "headword_raw": "A*pot\"o*me",
+      "pr": "(*pt\"*m)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. 'apotomh` a cutting off, fr. 'apote`mnein to cut off; 'apo` from + te`mnein to cut.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "The difference between two quantities commensurable only in power, as between √2 and 1, or between the diagonal and side of a square."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mus)"
+          ],
+          "defs": [
+            "The remaining part of a whole tone after a smaller semitone has been deducted from it; a major semitone."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

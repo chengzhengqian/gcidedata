@@ -1,0 +1,40 @@
+{
+  "key": "aorta",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Aorta",
+      "headword_raw": "A*or\"ta",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[NL., fr. Gr. <?/, fr. <?/ to lift, heave.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Anat.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The great artery which carries the blood from the heart to all parts of the body except the lungs; the main trunk of the arterial system."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ In fishes and the early stages of all higher vertebrates the aorta divides near its origin into several branches (the aortic arches) which pass in pairs round the œsophagus and unite to form the systemic aorta. One or more pairs of these arches persist in amphibia and reptiles, but only one arch in birds and mammals, this being on the right side in the former, and on the left in the latter."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

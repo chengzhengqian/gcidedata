@@ -1,0 +1,51 @@
+{
+  "key": "appositive",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Appositive",
+      "headword_raw": "Ap*pos\"i*tive",
+      "pr": "(<?/)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Appositively",
+          "form_raw": "Ap*pos\"i*tive*ly",
+          "key": "appositively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of or relating to apposition; in apposition.",
+            "A noun in apposition."
+          ],
+          "quotes": [
+            "Appositive to the words going immediately before."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

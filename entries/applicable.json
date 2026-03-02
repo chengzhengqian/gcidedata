@@ -1,0 +1,57 @@
+{
+  "key": "applicable",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Applicable",
+      "headword_raw": "Ap\"pli*ca*ble",
+      "pr": "(<?/)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[Cf. F. aplicable, fr. L. applicare. See Apply.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Applicableness",
+          "form_raw": "Ap\"pli*ca*ble*ness",
+          "key": "applicableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Applicably",
+          "form_raw": "Ap\"pli*ca*bly",
+          "key": "applicably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Capable of being applied; fit or suitable to be applied; having relevance; as, this observation is applicable to the case under consideration."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

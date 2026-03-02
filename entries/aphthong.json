@@ -1,0 +1,47 @@
+{
+  "key": "aphthong",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Aphthong",
+      "headword_raw": "Aph\"thong",
+      "pr": "(?; 277)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Gr. <?/ silent; 'a priv. + <?/ voice, sound, fr. <?/ to sound.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Aphthongal",
+          "form_raw": "Aph*thon\"gal",
+          "key": "aphthongal",
+          "pos": [
+            "a."
+          ],
+          "pr": "(<?/)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A letter, or a combination of letters, employed in spelling a word, but in the pronunciation having no sound."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "key": "osculate",
+  "source_file": "CIDE.O",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Osculate",
+      "headword_raw": "Os\"cu*late",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. osculatus, p. p. of osculari to kiss, fr. osculum a little mouth, a kiss, dim. of os mouth. See Oral, and cf. Oscillate.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Osculated (?); p. pr. & vb. n. Osculating.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To kiss."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Geom.)"
+          ],
+          "defs": [
+            "To touch closely, so as to have a common curvature at the point of contact. See Osculation, 2."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Osculate",
+      "headword_raw": "Os\"cu*late",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To kiss one another; to kiss."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Geom.)"
+          ],
+          "defs": [
+            "To touch closely. See Osculation, 2."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Biol.)"
+          ],
+          "defs": [
+            "To have characters in common with two genera or families, so as to form a connecting link between them; to interosculate. See Osculant."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

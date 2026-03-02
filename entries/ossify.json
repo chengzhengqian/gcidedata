@@ -1,0 +1,81 @@
+{
+  "key": "ossify",
+  "source_file": "CIDE.O",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Ossify",
+      "headword_raw": "Os\"si*fy",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. os, ossis, bone + -fy: cf. F. ossifier. See Osseous.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Ossified (?); p. pr. & vb. n. Ossifying (?).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Physiol.)"
+          ],
+          "defs": [
+            "To form into bone; to change from a soft animal substance into bone, as by the deposition of lime salts."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To harden; as, to ossify the heart."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Ossify",
+      "headword_raw": "Os\"si*fy",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physiol.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To become bone; to change from a soft tissue to a hard bony tissue."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

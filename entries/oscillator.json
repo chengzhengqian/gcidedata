@@ -1,0 +1,54 @@
+{
+  "key": "oscillator",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "oscillator",
+      "headword_raw": "os\"cil*la`tor",
+      "pr": "(s\"sl*lā`tr)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl.",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Electronics)"
+          ],
+          "defs": [
+            "One that oscillates",
+            "Any device or circuit for producing electric oscillations, whether of current or voltage; esp., an apparatus for generating electric waves in a system of wireless telegraphy."
+          ],
+          "quotes": [],
+          "notes": [
+            "Oscillators are essential components of radio transmission devices and digital computers, as well as many other types of electronic device. In computers the oscillator provides the voltage impulses which permit information bits to be transferred between parts of the computer in a defined sequence."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mech.)"
+          ],
+          "defs": [
+            "An instrument for measuring rigidity by the torsional oscillations of a weighted wire."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

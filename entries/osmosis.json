@@ -1,0 +1,41 @@
+{
+  "key": "osmosis",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "osmosis",
+      "headword_raw": "os*mo\"sis",
+      "pr": "(z*mō\"ss)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[NL., fr. Gr. 'wsmo`s, equiv. to 'w^sis impulse, fr. 'wqei^n to push.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chemical Physics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The tendency in fluids to mix, or become equably diffused, when in contact. It was first observed between fluids of differing densities, and as taking place through a membrane or an intervening porous structure. An older term for the phenomenon was Osmose.",
+            "The action produced by this tendency."
+          ],
+          "quotes": [],
+          "notes": [
+            "The more rapid flow from the thinner to the thicker fluid was then called endosmosis (formerly endosmose), and the opposite, slower current, exosmosis (formerly exosmose). Both are, however, results of the same force. Osmosis may be regarded as a form of molecular attraction, allied to that of adhesion. See also osmotic pressure."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

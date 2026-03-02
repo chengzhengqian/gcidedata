@@ -1,0 +1,38 @@
+{
+  "key": "osmotic_pressure",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "osmotic pressure",
+      "headword_raw": "os*mot\"ic pres\"sure",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physical Chemistry)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The pressure which a solution of a substance in a liquid exerts on a semipermeable membrane, through which the solvent can diffuse but the dissolved substance (the solute) cannot diffuse, when separated across the membrane from the pure solvent. In general, the osmotic pressure will depend almost proportionally up to certain concentrations upon the molal concentration of the solute."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

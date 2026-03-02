@@ -1,0 +1,41 @@
+{
+  "key": "orthopedics",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "orthopedics",
+      "headword_raw": "orthopedics",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[Ortho- + Gr. <?/, <?/, a child.]",
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "orthopaedics",
+        "orthopedy"
+      ],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The art or practice of correcting disorders or deformities of the spine and joints, or, by extension, any deformities of the human body."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

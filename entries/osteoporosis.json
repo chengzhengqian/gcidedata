@@ -1,0 +1,39 @@
+{
+  "key": "osteoporosis",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Osteoporosis",
+      "headword_raw": "Os`te*o*po*ro\"sis",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[NL.; osteo- + Gr. po`ros pore.]",
+      "sources": [
+        "Webster 1913 Suppl.",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med. & Physiol.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An absorption of bone so that the bone tissue becomes unusually porous. It occurs especially in elderly men and postmenopausal women, and predisposes the elderly to fractures of the bones."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

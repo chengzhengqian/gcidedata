@@ -1,0 +1,54 @@
+{
+  "key": "oscilloscope",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "oscilloscope",
+      "headword_raw": "os*cil\"lo*scope",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[L. oscillare to swing + -scope.]",
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "oscilloscopic",
+          "form_raw": "os*cil\"lo*scop`ic",
+          "key": "oscilloscopic",
+          "pos": [
+            "a."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "scope",
+        "cathode-ray oscilloscope",
+        "CRO"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An electronic measuring instrument which provides a visual representation of the time variation of electrical quantities, such as voltage or current. It may be used to measure the shape of a voltage pulse or the frequency of an oscillating voltage. It can also be used to measure properties of other physical variables, such as sound or light intensity, if they can be translated into electrical voltage or current."
+          ],
+          "quotes": [],
+          "notes": [
+            "The common cathode-ray oscilloscope uses a cathode-ray tube to project a beam of electrons onto the interior of a nearly flat surface surface of the tube, which is coated with a material which fluoresces when struck by the moving electrons. The location of the beam of electrons on the target surface is controlled by electrodes surrounding the point of origin of the beam, which control the horizontal and vertical deflection. The degree of deflection from the vertical center can be made to represent the electrical variable to be measured. The cathode-ray oscilloscope is similar in many respects to the most common form of television tube."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

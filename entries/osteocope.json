@@ -1,0 +1,49 @@
+{
+  "key": "osteocope",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Osteocope",
+      "headword_raw": "Os\"te*o*cope",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Gr. <?/; 'oste`on a bone + <?/ a striking, pain: cf. F. ostocope.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Osteocopic",
+          "form_raw": "Os`te*o*cop\"ic",
+          "key": "osteocopic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Pain in the bones; a violent fixed pain in any part of a bone."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

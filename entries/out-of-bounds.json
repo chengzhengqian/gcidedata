@@ -1,0 +1,61 @@
+{
+  "key": "out-of-bounds",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "out-of-bounds",
+      "headword_raw": "out-of-bounds",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Sports)"
+          ],
+          "defs": [
+            "outside the delimited playing field."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "barred to a designated group."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "off-limits"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Beyond the limits of the expected standard of taste or propriety; as, an out-of-bounds remark."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

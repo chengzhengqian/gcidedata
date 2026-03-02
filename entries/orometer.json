@@ -1,0 +1,38 @@
+{
+  "key": "orometer",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Orometer",
+      "headword_raw": "O*rom\"e*ter",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. 'o`ros mountain + -meter.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Meteor.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An aneroid barometer having a second scale that gives the approximate elevation above sea level of the place where the observation is made."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "key": "otto_cycle",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Otto cycle",
+      "headword_raw": "Ot\"to cy`cle",
+      "pr": "(?)",
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Thermodynamics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A four-stroke cycle for internal-combustion engines consisting of the following operations: First stroke, suction into cylinder of explosive charge, as of gas and air; second stroke, compression, ignition, and explosion of this charge; third stroke (the working stroke), expansion of the gases; fourth stroke, expulsion of the products of combustion from the cylinder. This is the cycle invented by Beau de Rochas in 1862 and applied by Dr. Otto in 1877 in the Otto-Crossley gas engine, the first commercially successful internal-combustion engine made."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "key": "oscillograph",
+  "source_file": "CIDE.O",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "oscillograph",
+      "headword_raw": "oscillograph",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a device for making a record of the wave forms of fluctuating ."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Oscillograph",
+      "headword_raw": "Os\"cil*lo*graph",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[L. oscillare to swing + -graph.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Oscillographic",
+          "form_raw": "Os`cil*lo*graph\"ic",
+          "key": "oscillographic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Elec.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An apparatus for recording or indicating alternating-current wave forms or other electrical oscillations, especially of voltages or currents; it usually consists of a galvanometer with strong field, in which the mass of the moving part is very small and frequency of vibration very high."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

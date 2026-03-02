@@ -1,0 +1,49 @@
+{
+  "key": "osiris",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Osiris",
+      "headword_raw": "O*si\"ris",
+      "pr": "(?)",
+      "pos": [
+        "prop. n.",
+        "a."
+      ],
+      "ety": "[L., fr. Gr. <?/; of Egyptian origin.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Osirian",
+          "form_raw": "O*sir\"i*an",
+          "key": "osirian",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Myth.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "One of the principal divinities of Egypt, the brother and husband of Isis. He was figured as a mummy wearing the royal cap of Upper Egypt, and was symbolized by the sacred bull, called Apis. Cf. Serapis."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

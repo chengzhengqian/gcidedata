@@ -1,0 +1,36 @@
+{
+  "key": "coenzyme",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "coenzyme",
+      "headword_raw": "co*en\"zyme",
+      "pr": "(k*n\"zīm)",
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Biochem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a molecule that is essential for the activity of some enzymes; it may exist free in solution within a living organism, but functions by binding to an enzyme to assist in catalyzing a reaction. The molecule itself may be temporarily changed during the reaction, but is ultimately restored to its original form. Many vitamins function as coenzymes."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "key": "code",
+  "source_file": "CIDE.C",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Code",
+      "headword_raw": "Code",
+      "pr": "(kōd)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F., fr. L. codex, caudex, the stock or stem of a tree, a board or tablet of wood smeared over with wax, on which the ancients originally wrote; hence, a book, a writing.]",
+      "sources": [
+        "1913 Webster",
+        "PJC",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A body of law, sanctioned by legislation, in which the rules of law to be specifically applied by the courts are set forth in systematic form; a compilation of laws by public authority; a digest."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The collection of laws made by the order of Justinian is sometimes called, by way of eminence, “The Code” . Wharton."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Any system of rules or regulations relating to one subject; as, the medical code, a system of rules for the regulation of the professional conduct of physicians."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Any set of symbols or combinations of symbols used for communication in any medium, such as by telegraph or semaphore. See Morse code, and error-correcting code."
+          ],
+          "quotes": [],
+          "notes": [
+            "A system of rules for making communications at sea by means of signals has been referred to as the naval code."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Any set of standards established by the governing authority of a geopolitical entity restricting the ways that certain activities may be performed, especially the manner in which buildings or specific systems within buildings may be constructed; as, a building code; a plumbing code; a health code."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "Any system used for secrecy in communication, in which the content of a communication is converted, prior to transmission, into symbols whose meaning is known only to authorized recipients of the message; such codes are used to prevent unauthorized persons from learning the content of the communication. The process of converting a communication into secret symbols by means of a code is called encoding or encryption. However, unauthorized persons may learn the code by various means, as in code-breaking."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [],
+          "defs": [
+            "An error-correcting code. See below."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "7.",
+          "fields": [
+            "(Computers)",
+            "(Computers)",
+            "(Computers)",
+            "(Biochemistry, genetics)"
+          ],
+          "defs": [
+            "The set of instructions for a computer program written by a programmer, usually in a programming language such as Fortran, C, Cobol, Java, C++, etc.; also, the executable binary object code. All such programs except for the binary object code must be converted by a compiler program into object code, which is the arrangement of data bits which can be directly interpreted by a computer."
+          ],
+          "quotes": [],
+          "notes": [
+            "The genetic code is represented by the following table: The Genetic Code ===================================================== UUU Phenylalanine (Phe) AUU Isoleucine (Ile) UCU Serine (Ser) ACU Threonine (Thr) UAU Tyrosine (Tyr) AAU Asparagine (Asn) UGU Cysteine (Cys) AGU Serine (Ser) UUC Phe AUC Ile UCC Ser ACC Thr UAC Tyr AAC Asn UGC Cys AGC Ser UUA Leucine (Leu) AUA Ile UCA Ser ACA Thr UAA STOP AAA Lysine (Lys) UGA STOP AGA Arginine (Arg) UUG Leu AUG Methionine (Met) or START UCG Ser ACG Thr UAG STOP AAG Lys UGG Tryptophan (Trp) AGG Arg CUU Leucine (Leu) GUU Valine Val CCU Proline (Pro) GCU Alanine (Ala) CAU Histidine (His) GAU Aspartic acid (Asp) CGU Arginine (Arg) GGU Glycine (Gly) CUC Leu GUC (Val) CCU Pro GCC Ala CAC His GAC Asp CGC Arg GGC Gly CUA Leu GUA Val CCA Pro GCA Ala CAA Glutamine (Gln) GAA Glutamic acid (Glu) CGA Arg GGA Gly CUG Leu GUG Val CCG Pro GCG Ala CAG Gln GAG Glu CGG Arg GGG Gly"
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Code",
+      "headword_raw": "Code",
+      "pr": "(kōd)",
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To convert (a text or other information) into a encoded form by means of a code{5}."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To write a computer program in a programming language; as, to code a sorting routine."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Code",
+      "headword_raw": "Code",
+      "pr": "(kōd)",
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Biochemistry, genetics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To serve as the nucleotide sequence directing the synthesis of a particular amino acid or sequence of amino acids in protein biosynthesis; as, this sequence of nucleotides encodes the hemoglobin alpha chain.."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

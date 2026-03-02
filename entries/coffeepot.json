@@ -1,0 +1,50 @@
+{
+  "key": "coffeepot",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "coffeepot",
+      "headword_raw": "cof\"fee*pot",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A covered pot in which coffee is prepared, or is brought upon the table for drinking."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a tall pot in which coffee is brewed, especially one in which the heating of the water is accomplished by electricity."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "coffeepot",
+            "coffee pot"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "key": "coefficient",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Coefficient",
+      "headword_raw": "Co`ef*fi\"cient",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Coefficiently",
+          "form_raw": "Co`ef*fi\"cient*ly",
+          "key": "coefficiently",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Cooperating; acting together to produce an effect."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Coefficient",
+      "headword_raw": "Co`ef*fi\"cient",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. coefficient.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "That which unites in action with something else to produce the same effect."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "A number or letter put before a letter or quantity, known or unknown, to show how many times the latter is to be taken; as, 6x; bx; here 6 and b are coefficients of x."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Physics)",
+            "(Math.)"
+          ],
+          "defs": [
+            "A number, commonly used in computation as a factor, expressing the amount of some change or effect under certain fixed conditions as to temperature, length, volume, etc.; as, the coefficient of expansion; the coefficient of friction."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "key": "colic",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Colic",
+      "headword_raw": "Col\"ic",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. colique, fr. L. colicus sick with the colic, Gr. <?/, fr. <?/, <?/, the colon. The disease is so named from its being seated in or near the colon. See Colon.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A severe paroxysmal pain in the abdomen, due to spasm, obstruction, or distention of some one of the hollow viscera."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Colic",
+      "headword_raw": "Col\"ic",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to colic; affecting the bowels."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Anat.)"
+          ],
+          "defs": [
+            "Of or pertaining to the colon; as, the colic arteries."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

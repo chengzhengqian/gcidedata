@@ -1,0 +1,157 @@
+SIMPLE: code
+RECORDS: 3
+
+==== ENTRY 1 ====
+HEADWORD: Code
+<hw>Code</hw> <pr>(k⟦omac⟧d)</pr>, <pos>n.</pos> <ety>[F., fr. L.
+<ets>codex</ets>, <ets>caudex</ets>, the stock or stem of a tree, a
+board or tablet of wood smeared over with wax, on which the ancients
+originally wrote; hence, a book, a writing.]</ety> <sn>1.</sn> <def>A
+body of law, sanctioned by legislation, in which the rules of law to be
+specifically applied by the courts are set forth in systematic form; a
+compilation of laws by public authority; a digest.</def>⟦br⟧
+[<source>1913 Webster</source>]</p>
+
+<p><note>⟦hand⟧ The collection of laws made by the order of Justinian is
+sometimes called, by way of eminence, ⟦ldquo⟧<xex>The Code</xex>⟦rdquo⟧
+. <rj><au>Wharton.</au></rj></note>⟦br⟧
+[<source>1913 Webster</source>]</p>
+
+<p><sn>2.</sn> <def>Any system of rules or regulations relating to one
+subject; <as>as, the medical <ex>code</ex>, a system of rules for the
+regulation of the professional conduct of physicians</as>.</def>⟦br⟧
+[<source>1913 Webster</source>]</p>
+
+<p><sn>3.</sn> <def>Any set of symbols or combinations of symbols used
+for communication in any medium, such as by telegraph or semaphore. See
+<er>Morse code</er>, and <cref>error-correcting code</cref>.</def>⟦br⟧
+[<source>PJC</source>]</p>
+
+<p><note> A system of rules for making communications at sea by means of
+signals has been referred to as the <col>naval code</col>.</note>⟦br⟧
+[<source>1913 Webster</source>]</p>
+
+<p><sn>4.</sn> <def>Any set of standards established by the governing
+authority of a geopolitical entity restricting the ways that certain
+activities may be performed, especially the manner in which buildings or
+specific systems within buildings may be constructed; <as>as, a building
+<ex>code</ex>; a plumbing <ex>code</ex>; a health
+<ex>code</ex></as>.</def>⟦br⟧
+[<source>PJC</source>]</p>
+
+<p><sn>5.</sn> <def>Any system used for secrecy in communication, in
+which the content of a communication is converted, prior to
+transmission, into symbols whose meaning is known only to authorized
+recipients of the message; such codes are used to prevent unauthorized
+persons from learning the content of the communication. The process of
+converting a communication into secret symbols by means of a code is
+called <er>encoding</er> or <er>encryption</er>. However, unauthorized
+persons may learn the code by various means, as in
+<er>code-breaking</er>.</def>⟦br⟧
+[<source>PJC</source>]</p>
+
+<p><sn>6.</sn> <def>An <cref>error-correcting code</cref>. See
+below.</def>⟦br⟧
+[<source>PJC</source>]</p>
+
+<p><sn>7.</sn> <fld>(Computers)</fld> <def>The set of instructions for a
+computer program written by a programmer, usually in a programming
+language such as Fortran, C, Cobol, Java, C++, etc.; also, the
+executable binary <cref>object code</cref>. All such programs except for
+the binary <cref>object code</cref> must be converted by a compiler
+program into <cref>object code</cref>, which is the arrangement of data
+bits which can be directly interpreted by a computer.</def>⟦br⟧
+[<source>PJC</source>]</p>
+
+<p><cs><mcol><col><b>Code civil</b></col> <it>or</it> <col><b>Code
+Napoleon</b></col></mcol>, <cd>a code enacted in France in 1803 and
+1804, embodying the law of rights of persons and of property
+generally.</cd> <rj><au>Abbot.</au></rj> <col><b>error-correcting
+code</b></col> <fld>(Computers)</fld> <cd>A set of symbols used to
+represent blocks of binary data, in which the original block of data is
+represented by a larger block of data which includes additional bits
+arranged in such a way that the original data may be read even if one or
+more of the bits of the encoded data is changed, as in a noisy
+communicaiton channel. Various codes are available which can correct
+different numbers or patterns of errors in the transmitted data. Such
+codes are used to achieve higher accuracy in data transmission, and in
+data storage devices such as disk drives and tape drives.</cd>
+<col><b>object code</b></col> <fld>(Computers)</fld> <cd>the arrangement
+of bits stored in computer memory or a data storage device which, when
+fed to the instruction processor of a computer's central processing
+unit, can be interpreted directly as instructions for execution.</cd>
+<col><b>genetic code</b></col> <fld>(Biochemistry, genetics)</fld>
+<cd>The set of correspondences between sequences of three bases (codons)
+in a RNA chain to the amino acid which those three bases represent in
+the process of protein synthesis. Thus, the sequence <it>UUU</it> codes
+for phenylalanine, and <it>AUG</it> codes for methionine. There are
+twenty-one naturally-occurring amino acids, and sixty-four possible
+arrangements of three bases in RNA; thus some of the amino acids are
+represented by more than one codon. Several codons do not represent
+amino acids, but cause termination of the synthesis of a growing amnio
+acid chain.</cd></cs>⟦br⟧
+[<source>1913 Webster</source> <source>+PJC</source>]</p>
+
+<p><note>The genetic code is represented by the following table: <tt>The
+Genetic Code⟦br⟧
+=====================================================⟦br⟧
+UUU Phenylalanine (Phe) AUU Isoleucine (Ile)⟦br⟧
+UCU Serine (Ser) ACU Threonine (Thr)⟦br⟧
+UAU Tyrosine (Tyr) AAU Asparagine (Asn)⟦br⟧
+UGU Cysteine (Cys) AGU Serine (Ser)⟦br⟧
+UUC Phe AUC Ile⟦br⟧
+UCC Ser ACC Thr⟦br⟧
+UAC Tyr AAC Asn⟦br⟧
+UGC Cys AGC Ser⟦br⟧
+UUA Leucine (Leu) AUA Ile⟦br⟧
+UCA Ser ACA Thr⟦br⟧
+UAA STOP AAA Lysine (Lys)⟦br⟧
+UGA STOP AGA Arginine (Arg)⟦br⟧
+UUG Leu AUG Methionine (Met) or START⟦br⟧
+UCG Ser ACG Thr⟦br⟧
+UAG STOP AAG Lys⟦br⟧
+UGG Tryptophan (Trp) AGG Arg⟦br⟧
+CUU Leucine (Leu) GUU Valine Val⟦br⟧
+CCU Proline (Pro) GCU Alanine (Ala)⟦br⟧
+CAU Histidine (His) GAU Aspartic acid (Asp)⟦br⟧
+CGU Arginine (Arg) GGU Glycine (Gly)⟦br⟧
+CUC Leu GUC (Val)⟦br⟧
+CCU Pro GCC Ala⟦br⟧
+CAC His GAC Asp⟦br⟧
+CGC Arg GGC Gly⟦br⟧
+CUA Leu GUA Val⟦br⟧
+CCA Pro GCA Ala⟦br⟧
+CAA Glutamine (Gln) GAA Glutamic acid (Glu)⟦br⟧
+CGA Arg GGA Gly⟦br⟧
+CUG Leu GUG Val⟦br⟧
+CCG Pro GCG Ala⟦br⟧
+CAG Gln GAG Glu ⟦br⟧
+CGG Arg GGG Gly⟦br⟧
+</tt></note>⟦br⟧
+[<source>PJC</source>]</p>
+
+<p><ent>Code</ent>⟦br⟧
+
+==== ENTRY 2 ====
+HEADWORD: Code
+<hw>Code</hw> <pr>(k⟦omac⟧d)</pr>, <pos>v. t.</pos> <sn>1.</sn> <def>To
+convert (a text or other information) into a encoded form by means of a
+code{5}.</def>⟦br⟧
+[<source>PJC</source>]</p>
+
+<p><sn>2.</sn> <def>To write a computer program in a programming
+language; <as>as, to <ex>code</ex> a sorting routine</as>.</def>⟦br⟧
+[<source>PJC</source>]</p>
+
+<p><ent>Code</ent>⟦br⟧
+
+==== ENTRY 3 ====
+HEADWORD: Code
+<hw>Code</hw> <pr>(k⟦omac⟧d)</pr>, <pos>v. i.</pos> <fld>(Biochemistry,
+genetics)</fld> <def>To serve as the nucleotide sequence directing the
+synthesis of a particular amino acid or sequence of amino acids in
+protein biosynthesis; <as>as, this sequence of nucleotides
+<ex>encodes</ex> the hemoglobin alpha chain.</as>.</def>⟦br⟧
+[<source>PJC</source>]</p>
+
+<p><ent>code-breaking</ent>⟦br⟧

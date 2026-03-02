@@ -1,0 +1,67 @@
+{
+  "key": "cohesive",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Cohesive",
+      "headword_raw": "Co*he\"sive",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Cohesively",
+          "form_raw": "Co*he\"sive*ly",
+          "key": "cohesively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Cohesiveness",
+          "form_raw": "Co*he\"sive*ness",
+          "key": "cohesiveness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Holding the particles of a homogeneous body together; as, cohesive attraction; producing cohesion; as, a cohesive force."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Cohering, or sticking together, as in a mass; capable of cohering; tending to cohere; as, cohesive clay."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "key": "coherent_light",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "coherent light",
+      "headword_raw": "co*her\"ent light",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physics, Optics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Light in which the phases of all electromagnetic waves at each point on a line normal to the direction of the the beam are identical. Coherent light is usually monochromatic, and the most common source of such light for practical uses is from a laser."
+          ],
+          "quotes": [],
+          "notes": [
+            "The constant phase relations of coherent light allows the achievement of certain effects, such as holography, not possible with noncoherent light. The low degree of angular dispersion of coherent light beams also allows the use of such light in laser ranging, over distances as far as from the earth to the moon."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

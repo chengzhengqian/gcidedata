@@ -1,0 +1,49 @@
+{
+  "key": "cold-short",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Cold-short",
+      "headword_raw": "Cold\"-short`",
+      "pr": null,
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": "[Prob. fr. Sw. kallskör; kall cold + skör brittle. Oxf. E. D.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Cold-shortness",
+          "form_raw": "Cold\"-short`ness",
+          "key": "cold-shortness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Metal.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Brittle when cold (that is, below a red heat); as, cold-short iron."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

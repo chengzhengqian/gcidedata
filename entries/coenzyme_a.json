@@ -1,0 +1,36 @@
+{
+  "key": "coenzyme_a",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "coenzyme A",
+      "headword_raw": "co*en\"zyme A`",
+      "pr": "(k*n\"zīm ā`)",
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Biochem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a coenzyme (C21H36N7O16P3S) that participates in the transfer of acetyl groups in biochemical reactions; -- abbreviated CoA. It contains adenosine, phosphate, pantothenic acid and cysteamine groups. The acetyl group to be transferred during biosynthesis is temporarily attached to the free sulhydryl of the cysteamine group to form a thioester, in which state it is called acetyl coenzyme A. The strength of a preparation of coenzyme A may be expressed by the Lippman unit; one milligram of CoA contains 413 Lippman units."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

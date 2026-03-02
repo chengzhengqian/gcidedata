@@ -1,0 +1,74 @@
+{
+  "key": "cohere",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Cohere",
+      "headword_raw": "Co*here\"",
+      "pr": "(?)",
+      "pos": [
+        "v. i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "a."
+      ],
+      "ety": "[L. cohaerere, cohaesum; co- + haerere to stick, adhere. See Aghast, a.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Cohered (?); p. pr. & vb. n. Cohering (?).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To stick together; to cleave; to be united; to hold fast, as parts of the same mass."
+          ],
+          "quotes": [
+            "Neither knows he . . . how the solid parts of the body are united or cohere together."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To be united or connected together in subordination to one purpose; to follow naturally and logically, as the parts of a discourse, or as arguments in a train of reasoning; to be logically consistent."
+          ],
+          "quotes": [
+            "They have been inserted where they best seemed to cohere."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To suit; to agree; to fit."
+          ],
+          "quotes": [
+            "Had time cohered with place, or place with wishing."
+          ],
+          "notes": [],
+          "synonyms": [
+            "cleave",
+            "unite",
+            "adhere",
+            "stick",
+            "suit",
+            "agree",
+            "fit",
+            "be consistent"
+          ]
+        }
+      ]
+    }
+  ]
+}

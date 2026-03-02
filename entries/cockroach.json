@@ -1,0 +1,41 @@
+{
+  "key": "cockroach",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Cockroach",
+      "headword_raw": "Cock\"roach",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Sp. cucaracha.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Zool.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An orthopterous insect of the genus Blatta, and allied genera."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The species are numerous, especially in hot countries. Those most commonly infesting houses in Europe and North America are Blatta orientalis, a large species often called black beetle, and the Croton bug (Blatta Germanica, formerly Ectobia Germanica), also called the German cockroach."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

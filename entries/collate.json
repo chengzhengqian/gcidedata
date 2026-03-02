@@ -1,0 +1,105 @@
+{
+  "key": "collate",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Collate",
+      "headword_raw": "Col*late\"",
+      "pr": "(kl*lāt\")",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[From Collation.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Collated; p. pr. & vb. n. Collating.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To compare critically, as books or manuscripts, in order to note the points of agreement or disagreement."
+          ],
+          "quotes": [
+            "I must collate it, word by word, with the original Hebrew."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To gather and place in order, as the sheets of a book for binding."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Eccl.)"
+          ],
+          "defs": [
+            "To present and institute in a benefice, when the person presenting is both the patron and the ordinary; -- followed by to."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "To bestow or confer."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Collate",
+      "headword_raw": "Col*late\"",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Ecl.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To place in a benefice, when the person placing is both the patron and the ordinary."
+          ],
+          "quotes": [
+            "If the bishop neglects to collate within six months, the right to do it devolves on the archbishop."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

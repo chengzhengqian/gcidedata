@@ -1,0 +1,60 @@
+{
+  "key": "cohesion",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Cohesion",
+      "headword_raw": "Co*he\"sion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. cohsion. See Cohere.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act or state of sticking together; close union."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Physics)"
+          ],
+          "defs": [
+            "That from of attraction by which the particles of a body are united throughout the mass, whether like or unlike; -- distinguished from adhesion, which unites bodies by their adjacent surfaces."
+          ],
+          "quotes": [
+            "Solids and fluids differ in the degree of cohesion, which, being increased, turns a fluid into a solid."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Logical agreement and dependence; as, the cohesion of ideas."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

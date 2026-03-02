@@ -1,0 +1,54 @@
+{
+  "key": "coercive",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Coercive",
+      "headword_raw": "Co*er\"cive",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Coercively",
+          "form_raw": "Co*er\"cive*ly",
+          "key": "coercively",
+          "pos": [
+            "adv.",
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Magnetism)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Serving or intended to coerce; having power to constrain."
+          ],
+          "quotes": [
+            "Coercive power can only influence us to outward practice.",
+            "The power of resisting magnetization or demagnization is sometimes called coercive force."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

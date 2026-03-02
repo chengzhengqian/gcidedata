@@ -1,0 +1,51 @@
+{
+  "key": "lumen",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Lumen",
+      "headword_raw": "Lu\"men",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L., light, an opening for light.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Photom.)"
+          ],
+          "defs": [
+            "A unit of illumination, being the amount of illumination of a unit area of spherical surface, due to a light of unit intensity placed at the center of the sphere.",
+            "A unit of light flux, being the flux through one square meter of surface the illumination of which is uniform and of unit brightness."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Biol.)"
+          ],
+          "defs": [
+            "An opening, space, or cavity, esp. a tubular cavity; a vacuole."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

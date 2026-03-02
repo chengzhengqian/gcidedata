@@ -1,0 +1,41 @@
+{
+  "key": "ltm",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "LTM",
+      "headword_raw": "LTM",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "long-term memory"
+      ],
+      "entry_fields": [
+        "(Psychology, Neurophysiology)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "long-term memory, the term for the set of neurons and neural processes responsible for the general store of information remembered for more than a day."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

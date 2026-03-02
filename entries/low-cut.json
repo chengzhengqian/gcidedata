@@ -1,0 +1,50 @@
+{
+  "key": "low-cut",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "low-cut",
+      "headword_raw": "low-cut",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "having a neckline low enough to expose part of the breast; -- of a woman's garment; as, a low-cut party dress."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "decollete",
+            "low-necked"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "having a back exposing skin between the shoulder blades."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

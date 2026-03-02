@@ -1,0 +1,49 @@
+{
+  "key": "luke",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Luke",
+      "headword_raw": "Luke",
+      "pr": "(lūk)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": "[Prob. fr. lew, perh. influenced by AS. wlæc warm, lukewarm, remiss. Cf. Lew.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Lukeness",
+          "form_raw": "Luke\"ness",
+          "key": "lukeness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Moderately warm; not hot; tepid; lukewarm."
+          ],
+          "quotes": [
+            "Nine penn'orth o'brandy and water luke."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

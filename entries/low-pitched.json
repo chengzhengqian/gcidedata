@@ -1,0 +1,48 @@
+{
+  "key": "low-pitched",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "low-pitched",
+      "headword_raw": "low-pitched",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "low in pitch or frequency; -- used of sounds and voices. Opposite of high-pitched."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "low"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "set at a low angle or slant; having a low degree of pitch; as, a low-pitched roof."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

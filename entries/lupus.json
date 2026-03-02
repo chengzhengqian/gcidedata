@@ -1,0 +1,53 @@
+{
+  "key": "lupus",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Lupus",
+      "headword_raw": "Lu\"pus",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L., a wolf. See Wolf.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "originally, a cutaneous disease with the appearance of the skin having been gnawed, and occurring under two distinct forms. Now used as a generic term for over ten distinguishable diseases having visible cutaneous symptoms."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Lupus erythematosus is characterized by an eruption of red patches, which become incrusted, leaving superficial scars. Lupus vulgaris is marked by the development of nodules which often ulcerate deeply and produce great deformity. Prior to 1900 the latter was often confounded with cancer, and some varieties of cancer were included under Lupus. Systemic lupus erythematosus is an inflammatory connective tissue disease occurring mostly in women, characterized by skin rash, fever, and arthritic symptoms, and often accompanied by hemolytic anemia, inflammation of the pericardium, glomerular lesions, and hyperglobulinemia; the condition shows positive in the LE cell test. [Stedman]"
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Astron.)"
+          ],
+          "defs": [
+            "The Wolf, a constellation situated south of Scorpio."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

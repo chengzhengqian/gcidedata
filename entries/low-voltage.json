@@ -1,0 +1,38 @@
+{
+  "key": "low-voltage",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "low-voltage",
+      "headword_raw": "low-voltage",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Electricity)"
+          ],
+          "defs": [
+            "subjected to or capable of operating under relative low voltage, usually considered as no greater than 250 volts. Contrasted with high-voltage."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

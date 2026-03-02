@@ -1,0 +1,43 @@
+{
+  "key": "luggage",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Luggage",
+      "headword_raw": "Lug\"gage",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[From 4th Lug.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "Plunder",
+        "baggage"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "That which is lugged; anything cumbrous and heavy to be carried; especially, a traveler's trunks, baggage, etc., or their contents."
+          ],
+          "quotes": [
+            "I am gathering up my luggage, and preparing for my journey.",
+            "What do you mean, To dote thus on such luggage!"
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

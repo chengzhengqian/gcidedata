@@ -1,0 +1,49 @@
+{
+  "key": "low-pressure",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Low-pressure",
+      "headword_raw": "Low\"-pres`sure",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Having, employing, or exerting, a low degree of pressure."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "same as easygoing, 4; as, a low-pressure salesman."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "easygoing"
+          ]
+        }
+      ]
+    }
+  ]
+}

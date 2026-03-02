@@ -1,0 +1,87 @@
+{
+  "key": "luminous",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Luminous",
+      "headword_raw": "Lu\"mi*nous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. luminosus, fr. lumen light: cf. F. lumineux. See Luminary, Illuminate.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Luminously",
+          "form_raw": "Lu\"mi*nous*ly",
+          "key": "luminously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Luminousness",
+          "form_raw": "Lu\"mi*nous*ness",
+          "key": "luminousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Shining; emitting or reflecting light; brilliant; bright; as, the is a luminous body; a luminous color."
+          ],
+          "quotes": [
+            "Fire burneth wood, making it . . . luminous.",
+            "The mountains lift . . . their lofty and luminous heads."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Illuminated; full of light; bright; as, many candles made the room luminous."
+          ],
+          "quotes": [
+            "Up the staircase moved a luminous space in the darkness."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Enlightened; intelligent; also, clear; intelligible; as, a luminous mind."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Lucid",
+            "clear",
+            "shining",
+            "perspicuous"
+          ]
+        }
+      ]
+    }
+  ]
+}

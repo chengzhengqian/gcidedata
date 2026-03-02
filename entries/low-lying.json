@@ -1,0 +1,48 @@
+{
+  "key": "low-lying",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "low-lying",
+      "headword_raw": "low-lying",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "having a small elevation above the ground or horizon or sea level; as, low-lying clouds."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "at a low elevation above sea level."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "sea-level"
+          ]
+        }
+      ]
+    }
+  ]
+}

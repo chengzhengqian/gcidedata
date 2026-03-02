@@ -1,0 +1,69 @@
+{
+  "key": "lukewarm",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Lukewarm",
+      "headword_raw": "Luke\"warm`",
+      "pr": "(lūk\"wrm`)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[See Luke.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Lukewarmly",
+          "form_raw": "Luke\"warm`ly",
+          "key": "lukewarmly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Lukewarmness",
+          "form_raw": "Luke\"warm`ness",
+          "key": "lukewarmness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Moderately warm; neither cold nor hot; tepid."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Not ardent; not zealous; cool; indifferent."
+          ],
+          "quotes": [
+            "An obedience so lukewarm and languishing that it merits not the name of passion."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

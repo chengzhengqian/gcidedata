@@ -1,0 +1,55 @@
+{
+  "key": "lucky",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Lucky",
+      "headword_raw": "Luck\"y",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "Compar.",
+        "superl."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Favored by luck; fortunate; meeting with good success or good fortune; -- said of persons; as, a lucky adventurer."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Producing, or resulting in, good by chance, or unexpectedly; favorable; auspicious; fortunate; as, a lucky mistake; a lucky cast; a lucky hour."
+          ],
+          "quotes": [
+            "We doubt not of a fair and lucky war."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Successful",
+            "fortunate",
+            "prosperous",
+            "auspicious"
+          ]
+        }
+      ]
+    }
+  ]
+}

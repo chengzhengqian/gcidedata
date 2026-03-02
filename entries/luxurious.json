@@ -1,0 +1,57 @@
+{
+  "key": "luxurious",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Luxurious",
+      "headword_raw": "Lux*u\"ri*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. luxuriosus: cf. F. luxurieux. See Luxury.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Luxuriously",
+          "form_raw": "Lux*u\"ri*ous*ly",
+          "key": "luxuriously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Luxuriousness",
+          "form_raw": "Lux*u\"ri*ous*ness",
+          "key": "luxuriousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to luxury; ministering to luxury; supplied with the conditions of luxury; as, a luxurious life; a luxurious table; luxurious ease."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

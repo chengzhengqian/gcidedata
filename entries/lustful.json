@@ -1,0 +1,88 @@
+{
+  "key": "lustful",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Lustful",
+      "headword_raw": "Lust\"ful",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Lustfully",
+          "form_raw": "Lust\"ful*ly",
+          "key": "lustfully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Lustfulness",
+          "form_raw": "Lust\"ful*ness",
+          "key": "lustfulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Full of lust; excited by lust."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Exciting lust; characterized by lust or sensuality."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Strong; lusty."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "sensual",
+            "fleshly",
+            "carnal",
+            "inordinate",
+            "licentious",
+            "lewd",
+            "unchaste",
+            "impure",
+            "libidinous",
+            "lecherous"
+          ]
+        }
+      ]
+    }
+  ]
+}

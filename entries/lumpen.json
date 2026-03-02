@@ -1,0 +1,84 @@
+{
+  "key": "lumpen",
+  "source_file": "CIDE.L",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "lumpen",
+      "headword_raw": "lump\"en",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "mentally sluggish."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "lumpish",
+            "sluggish",
+            "unthinking"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Lumpen",
+      "headword_raw": "Lump\"en",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC",
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Politics)"
+          ],
+          "defs": [
+            "same as lumpenproletariat."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "The European eelpout; -- called also lumper."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

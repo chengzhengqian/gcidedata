@@ -1,0 +1,79 @@
+{
+  "key": "ludicrous",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Ludicrous",
+      "headword_raw": "Lu\"di*crous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. ludicrus, or ludicer, from ludus play, sport, fr. ludere to play.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [
+        "-- Ludicrous, Laughable, Ridiculous. We speak of a thing as ludicrous when it tends to produce laughter; as laughable when the impression is somewhat stronger; as ridiculous when more or less contempt is mingled with the merriment created."
+      ],
+      "wordforms": [
+        {
+          "form": "Ludicrously",
+          "form_raw": "Lu\"di*crous*ly",
+          "key": "ludicrously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Ludicrousness",
+          "form_raw": "Lu\"di*crous*ness",
+          "key": "ludicrousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Adapted to excite laughter, without scorn or contempt; sportive."
+          ],
+          "quotes": [
+            "A chapter upon German rhetoric would be in the same ludicrous predicament as Van Troil's chapter on the snakes of Iceland, which delivers its business in one summary sentence, announcing, that snakes in Iceland -- there are none."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Ridiculously absurd."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Laughable",
+            "sportive",
+            "burlesque",
+            "comic",
+            "droll",
+            "ridiculous"
+          ]
+        }
+      ]
+    }
+  ]
+}

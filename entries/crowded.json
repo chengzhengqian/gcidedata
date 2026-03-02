@@ -1,0 +1,59 @@
+{
+  "key": "crowded",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "crowded",
+      "headword_raw": "crowded",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "overfilled or compacted or concentrated; filled to excess; as, a crowded program. Opposite of uncrowded."
+          ],
+          "quotes": [],
+          "notes": [
+            "[Narrower terms: full, jammed, jam-packed, packed]"
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "filled with a crowd; as, a crowded marketplace."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "having an uncomfortable density of people; filled to excess with people; as, crowded trains; a crowded theater."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "key": "crouch",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Crouch",
+      "headword_raw": "Crouch",
+      "pr": "(krouch; 129)",
+      "pos": [
+        "v. i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OE. cruchen, crouchen, crouken; cf. E. creep, G. krauchen, kriechen, or E. crook to bend, also crouch to cross.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Crouched (kroucht); p. pr. & vb. n. Crouching.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To bend down; to stoop low; to lie close to the ground with the logs bent, as an animal when waiting for prey, or in fear."
+          ],
+          "quotes": [
+            "Now crouch like a cur."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To bend servilely; to stoop meanly; to fawn; to cringe."
+          ],
+          "quotes": [
+            "Must I stand and crouch Under your testy humor?"
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Crouch",
+      "headword_raw": "Crouch",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": "[OE. cruchen, crouchen, from cruche, crouche, cross. Cf. Crosier, Crook.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To sign with the cross; to bless."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To bend, or cause to bend, as in humility or fear."
+          ],
+          "quotes": [
+            "She folded her arms across her chest, And crouched her head upon her breast."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

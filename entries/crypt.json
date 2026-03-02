@@ -1,0 +1,51 @@
+{
+  "key": "crypt",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Crypt",
+      "headword_raw": "Crypt",
+      "pr": "(krpt)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. crypta vault, crypt, Gr. kry`pth, fr. kry`ptein to hide. See Grot, Grotto.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A vault wholly or partly under ground; especially, a vault under a church, whether used for burial purposes or for a subterranean chapel or oratory."
+          ],
+          "quotes": [
+            "Priesthood works out its task age after age, . . . treasuring in convents and crypts the few fossils of antique learning.",
+            "My knees are bowed in crypt and shrine."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Anat.)"
+          ],
+          "defs": [
+            "A simple gland, glandular cavity, or tube; a follicle; as, the crypts of Lieberkühn, the simple tubular glands of the small intestines."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

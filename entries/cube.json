@@ -1,0 +1,84 @@
+{
+  "key": "cube",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Cube",
+      "headword_raw": "Cube",
+      "pr": "(kūb)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. cube, L. cubus, fr. Gr. <?/<?/<?/<?/ a cube, a cubical die.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Geom.)"
+          ],
+          "defs": [
+            "A regular solid body, with six equal square sides."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)",
+            "(Min.)",
+            "(Math.)",
+            "(Min.)"
+          ],
+          "defs": [
+            "The product obtained by taking a number or quantity three times as a factor; as, 4x4=16, and 16x4=64, the cube of 4."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Cube",
+      "headword_raw": "Cube",
+      "pr": "(kūbd)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Cubed (kūbd); p. pr. & vb. n. Cubing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To raise to the third power; to obtain the cube of."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

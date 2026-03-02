@@ -1,0 +1,83 @@
+{
+  "key": "crossover",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "crossover",
+      "headword_raw": "crossover",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(genetics)"
+          ],
+          "defs": [
+            "the interchange of sections between pairing homologous chromosomes during the prophase of meiosis."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "crossing over"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a structure, such as a bridge, bearing a path for crossing over a river or highway."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "votes from members of one political party cast for candidates of another party; -- called also crossover vote; as, there was a high crossover in this election."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "a member of one political party who votes for a candidate of another party; -- called also crossover voter."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Plumbing)"
+          ],
+          "defs": [
+            "a U-shaped section of pipe which serves to pass one pipeline over another which is directly in its path."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

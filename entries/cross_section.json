@@ -1,0 +1,109 @@
+{
+  "key": "cross_section",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "cross section",
+      "headword_raw": "cross section",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a flat plane cutting through a three-dimensional object, usually at right angles to the longest axis of the object."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "any visual representation of a cross section{1}, showing the internal structure of the object in the plane of the cross section; as, the technician prepared a series of MRI cross sections of the skull."
+          ],
+          "quotes": [],
+          "notes": [
+            "Different cross sections created by different techniques may show different aspects of internal structure. Thus computerized axial tomography using X-rays shows different structures than are visualized by MRI."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "a thin slice of an object made by cutting it transversely; as, to view a cross section of a bacterium with an electron microscope after staining the DNA; cross sections were prepared with a microtome."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "a representative sample of a complex group; as, the town contained a cross section of the American population."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Physics)"
+          ],
+          "defs": [
+            "a measure of the probability that a nucleus will interact in a specified way with a bombarding particle, expressed as the effective area that the nucleus presents to the particle; -- called also nuclear cross section."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "cross section",
+      "headword_raw": "cross section",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "to create one or a series of cross sections{3} by cutting (an object) into thin slices."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

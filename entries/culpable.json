@@ -1,0 +1,69 @@
+{
+  "key": "culpable",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Culpable",
+      "headword_raw": "Cul\"pa*ble",
+      "pr": "(k?l\"p?-b'l)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[OE. culpable, coulpable, coupable, F. coupable, formerly also coupable, formerly also coulpable, culpable, fr. L. culpabilis, fr. culpare to blame, fr. culpa fault.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Culpableness",
+          "form_raw": "Cul\"pa*ble*ness",
+          "key": "culpableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Culpably",
+          "form_raw": "Cul\"pa*bly",
+          "key": "culpably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Deserving censure; worthy of blame; faulty; immoral; criminal."
+          ],
+          "quotes": [
+            "If he acts according to the best reason he hath, he is not culpable, though he be mistaken in his measures."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Guilty; as, culpable of a crime."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

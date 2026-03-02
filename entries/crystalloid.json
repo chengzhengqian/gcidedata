@@ -1,0 +1,79 @@
+{
+  "key": "crystalloid",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Crystalloid",
+      "headword_raw": "Crys\"tal*loid",
+      "pr": "(krs\"tl*loid)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Gr. kry`stallos crystal + -oid.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Crystal-like; transparent like crystal."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Crystalloid",
+      "headword_raw": "Crys\"tal*loid",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "A body which, in solution, diffuses readily through animal membranes, and generally is capable of being crystallized; -- opposed to colloid."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Bot.)"
+          ],
+          "defs": [
+            "One of the microscopic particles resembling crystals, consisting of protein matter, which occur in certain plant cells; -- called also protein crystal."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

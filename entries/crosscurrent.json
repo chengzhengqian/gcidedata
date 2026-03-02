@@ -1,0 +1,51 @@
+{
+  "key": "crosscurrent",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "crosscurrent",
+      "headword_raw": "crosscurrent",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a stretch of turbulent water in the sea."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "rip",
+            "riptide",
+            "tide rip"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a tendency or sentiment within a group which conflicts with that of the majority; -- often used in the plural."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "key": "incomprehensible",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Incomprehensible",
+      "headword_raw": "In*com`pre*hen\"si*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[L. incomprehensibilis: cf. F. incomprhensible. See In- not, and Comprehensible.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Incomprehensibleness",
+          "form_raw": "In*com`pre*hen\"si*ble*ness",
+          "key": "incomprehensibleness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Incomprehensibly",
+          "form_raw": "In*com`pre*hen\"si*bly",
+          "key": "incomprehensibly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Not capable of being contained within limits."
+          ],
+          "quotes": [
+            "An infinite and incomprehensible substance."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Not capable of being comprehended or understood; beyond the reach of the human intellect; inconceivable."
+          ],
+          "quotes": [
+            "And all her numbered stars that seem to roll Spaces incomprehensible."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

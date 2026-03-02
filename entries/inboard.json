@@ -1,0 +1,50 @@
+{
+  "key": "inboard",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Inboard",
+      "headword_raw": "In\"board`",
+      "pr": "(?)",
+      "pos": [
+        "a. & adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Naut.)"
+          ],
+          "defs": [
+            "Inside the line of a vessel's bulwarks or hull; the opposite of outboard; as, an inboard engine; an inboard cargo; haul the boom inboard."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mech.)"
+          ],
+          "defs": [
+            "From without inward; toward the inside; as, the inboard stroke of a steam engine piston, the inward or return stroke."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

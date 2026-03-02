@@ -1,0 +1,89 @@
+{
+  "key": "incentive",
+  "source_file": "CIDE.I",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Incentive",
+      "headword_raw": "In*cen\"tive",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. incentivus, from incinere to strike up or set the tune; pref. in- + canere to sing. See Enchant, Chant.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Inciting; encouraging or moving; rousing to action; stimulative."
+          ],
+          "quotes": [
+            "Competency is the most incentive to industry."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Serving to kindle or set on fire."
+          ],
+          "quotes": [
+            "Part incentive reed Provide, pernicious with one touch of fire."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Incentive",
+      "headword_raw": "In*cen\"tive",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. incentivum.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "Motive",
+        "spur",
+        "stimulus",
+        "incitement",
+        "encouragement",
+        "inducement",
+        "influence"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "That which moves or influences the mind, or operates on the passions; that which incites, or has a tendency to incite, to determination or action; that which prompts to good or ill; motive; spur; as, the love of money, and the desire of promotion, are two powerful incentives to action."
+          ],
+          "quotes": [
+            "The greatest obstacles, the greatest terrors that come in their way, are so far from making them quit the work they had begun, that they rather prove incentives to them to go on in it."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

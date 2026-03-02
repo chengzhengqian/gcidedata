@@ -1,0 +1,57 @@
+{
+  "key": "inappropriate",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Inappropriate",
+      "headword_raw": "In`ap*pro\"pri*ate",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Inappropriately",
+          "form_raw": "In`ap*pro\"pri*ate*ly",
+          "key": "inappropriately",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Inappropriateness",
+          "form_raw": "In`ap*pro\"pri*ate*ness",
+          "key": "inappropriateness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not instrument (to); not appropriate; unbecoming; unsuitable; not specially fitted; -- followed by to or for."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

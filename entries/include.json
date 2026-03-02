@@ -1,0 +1,70 @@
+{
+  "key": "include",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Include",
+      "headword_raw": "In*clude\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. includere, inclusum; pref. in- in + claudere to shut. See Close, and cf. Enclose.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Included; p. pr. & vb. n. Including.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To confine within; to hold; to contain; to shut up; to inclose; as, the shell of a nut includes the kernel; a pearl is included in a shell."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To comprehend or comprise, as a genus the species, the whole a part, an argument or reason the inference; to contain; to embrace; as, this volume of Shakespeare includes his sonnets; he was included in the invitation to the family; to and including page twenty-five."
+          ],
+          "quotes": [
+            "The whole included race, his purposed prey.",
+            "The loss of such a lord includes all harm."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To conclude; to end; to terminate."
+          ],
+          "quotes": [
+            "Come, let us go; we will include all jars With triumphs, mirth, and rare solemnity."
+          ],
+          "notes": [],
+          "synonyms": [
+            "contain",
+            "inclose",
+            "comprise",
+            "comprehend",
+            "embrace",
+            "involve"
+          ]
+        }
+      ]
+    }
+  ]
+}

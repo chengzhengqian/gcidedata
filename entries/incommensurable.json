@@ -1,0 +1,88 @@
+{
+  "key": "incommensurable",
+  "source_file": "CIDE.I",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Incommensurable",
+      "headword_raw": "In`com*men\"su*ra*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[Pref. in- not + commensurable: cf. F. incommensurable.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Incommensurableness",
+          "form_raw": "In`com*men\"su*ra*ble*ness",
+          "key": "incommensurableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Incommensurably",
+          "form_raw": "In`com*men\"su*ra*bly",
+          "key": "incommensurably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not commensurable; having no common measure or standard of comparison; as, quantities are incommensurable when no third quantity can be found that is an aliquot part of both; the side and diagonal of a square are incommensurable with each other; the diameter and circumference of a circle are incommensurable."
+          ],
+          "quotes": [
+            "They are quantities incommensurable."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Incommensurable",
+      "headword_raw": "In`com*men\"su*ra*ble",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "One of two or more quantities which have no common measure."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

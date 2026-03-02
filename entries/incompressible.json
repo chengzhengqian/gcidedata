@@ -1,0 +1,47 @@
+{
+  "key": "incompressible",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Incompressible",
+      "headword_raw": "In`com*press\"i*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": "[Pref. in- not + compressible: cf. F. incompressible.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Incompressibleness",
+          "form_raw": "In`com*press\"i*ble*ness",
+          "key": "incompressibleness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not compressible; incapable of being reduced by force or pressure into a smaller compass or volume; resisting compression; as, many liquids and solids appear to be almost incompressible."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

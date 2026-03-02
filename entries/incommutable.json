@@ -1,0 +1,55 @@
+{
+  "key": "incommutable",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Incommutable",
+      "headword_raw": "In`com*mut\"a*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[L. incommutabilis: cf. F. incommutable. See In- not, and Commutable.]",
+      "sources": [],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Incommutableness",
+          "form_raw": "In`com*mut\"a*ble*ness",
+          "key": "incommutableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Incommutably",
+          "form_raw": "In`com*mut\"a*bly",
+          "key": "incommutably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not commutable; not capable of being exchanged with, or substituted for, another."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

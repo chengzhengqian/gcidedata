@@ -1,0 +1,57 @@
+{
+  "key": "inaudible",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Inaudible",
+      "headword_raw": "In*au\"di*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[L. inaudibilis; pref. in- not + audire to hear: cf. F. unaudible. See In- not, and Audible.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Inaudibleness",
+          "form_raw": "In*au\"di*ble*ness",
+          "key": "inaudibleness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Inaudibly",
+          "form_raw": "In*au\"di*bly",
+          "key": "inaudibly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not audible; incapable of being heard; silent."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

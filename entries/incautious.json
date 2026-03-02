@@ -1,0 +1,69 @@
+{
+  "key": "incautious",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Incautious",
+      "headword_raw": "In*cau\"tious",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Pref. in- not + cautious: cf. L. incautus.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Incautiously",
+          "form_raw": "In*cau\"tious*ly",
+          "key": "incautiously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Incautiousness",
+          "form_raw": "In*cau\"tious*ness",
+          "key": "incautiousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Unwary",
+        "indiscreet",
+        "inconsiderate",
+        "imprudent",
+        "impolitic",
+        "careless",
+        "heedless",
+        "thoughtless"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not cautious; not circumspect; not attending to the circumstances on which safety and interest depend; heedless; careless; as, an incautious step; an incautious remark."
+          ],
+          "quotes": [
+            "You . . . incautious tread On fire with faithless embers overspread.",
+            "His rhetorical expressions may easily captivate any incautious reader."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

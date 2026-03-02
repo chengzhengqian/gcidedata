@@ -1,0 +1,60 @@
+{
+  "key": "incommunicable",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Incommunicable",
+      "headword_raw": "In`com*mu\"ni*ca*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[L. incommunicabilis: cf. F. incommunicable. See In- not, and Communicable.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Incommunicableness",
+          "form_raw": "In`com*mu\"ni*ca*ble*ness",
+          "key": "incommunicableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Incommunicably",
+          "form_raw": "In`com*mu\"ni*ca*bly",
+          "key": "incommunicably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not communicable; incapable of being communicated, shared, told, or imparted, to others."
+          ],
+          "quotes": [
+            "Health and understanding are incommunicable.",
+            "Those incommunicable relations of the divine love."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "key": "incontiguous",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Incontiguous",
+      "headword_raw": "In`con*tig\"u*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[L. incontiguus that can not be touched. See In- not, and Contiguous.]",
+      "sources": [],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Incontiguously",
+          "form_raw": "In`con*tig\"u*ous*ly",
+          "key": "incontiguously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not contiguous; not adjoining or in contact; separate."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

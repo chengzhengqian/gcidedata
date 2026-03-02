@@ -1,0 +1,65 @@
+{
+  "key": "inattentive",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Inattentive",
+      "headword_raw": "In`at*ten\"tive",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Cf. F. inattentif.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Inattentively",
+          "form_raw": "In`at*ten\"tive*ly",
+          "key": "inattentively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Inattentiveness",
+          "form_raw": "In`at*ten\"tive*ness",
+          "key": "inattentiveness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Careless",
+        "heedless",
+        "regardless",
+        "thoughtless",
+        "negligent",
+        "remiss",
+        "inadvertent"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not attentive; not fixing the mind on an object; heedless; careless; negligent; regardless; as, an inattentive spectator or hearer; an inattentive habit."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

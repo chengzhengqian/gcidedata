@@ -1,0 +1,55 @@
+{
+  "key": "incapacity",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Incapacity",
+      "headword_raw": "In`ca*pac\"i*ty",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. incapacit.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Lack of capacity; lack of physical or intellectual power; inability."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "Lack of legal ability or competency to do, give, transmit, or receive something; inability; disqualification; as, the inacapacity of minors to make binding contracts, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Inability",
+            "incapability",
+            "incompetency",
+            "unfitness",
+            "disqualification",
+            "disability"
+          ]
+        }
+      ]
+    }
+  ]
+}

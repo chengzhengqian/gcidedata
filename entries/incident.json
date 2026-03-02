@@ -1,0 +1,136 @@
+{
+  "key": "incident",
+  "source_file": "CIDE.I",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Incident",
+      "headword_raw": "In\"ci*dent",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. incidens, -entis, p. pr. & of incidere to fall into or upon; pref. in- in, on + cadere to fall: cf. F. incident. See Cadence.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Falling or striking upon, as a ray of light upon a reflecting surface."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Coming or happening accidentally; not in the usual course of things; not in connection with the main design; not according to expectation; casual; fortuitous."
+          ],
+          "quotes": [
+            "As the ordinary course of common affairs is disposed of by general laws, so likewise men's rarer incident necessities and utilities should be with special equity considered."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Liable to happen; apt to occur; befalling; hence, naturally happening or appertaining."
+          ],
+          "quotes": [
+            "All chances incident to man's frail life.",
+            "The studies incident to his profession."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Law)",
+            "(Logic)"
+          ],
+          "defs": [
+            "Dependent upon, or appertaining to, another thing, called the principal."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Incident",
+      "headword_raw": "In\"ci*dent",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. incident.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "That which falls out or takes place; an event; casualty; occurrence."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That which happens aside from the main design; an accidental or subordinate action or event."
+          ],
+          "quotes": [
+            "No person, no incident, in a play but must be of use to carry on the main design."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "Something appertaining to, passing with, or depending on, another, called the principal."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Circumstance",
+            "event",
+            "fact",
+            "adventure",
+            "contingency",
+            "chance",
+            "accident",
+            "casualty. See Event"
+          ]
+        }
+      ]
+    }
+  ]
+}

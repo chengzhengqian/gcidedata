@@ -1,0 +1,85 @@
+{
+  "key": "income",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Income",
+      "headword_raw": "In\"come",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A coming in; entrance; admittance; ingress; infusion."
+          ],
+          "quotes": [
+            "More abundant incomes of light and strength from God.",
+            "At mine income I louted low."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That which is caused to enter; inspiration; influence; hence, courage or zeal imparted."
+          ],
+          "quotes": [
+            "I would then make in and steep My income in their blood."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "That gain which proceeds from labor, business, property, or capital of any kind, as the produce of a farm, the rent of houses, the proceeds of professional business, the profits of commerce or of occupation, or the interest of money or stock in funds, etc.; revenue; receipts; salary; especially, the annual receipts of a private person, or a corporation, from property; as, a large income."
+          ],
+          "quotes": [
+            "No fields afford So large an income to the village lord."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Physiol.)"
+          ],
+          "defs": [
+            "That which is taken into the body as food; the ingesta; -- sometimes restricted to the nutritive, or digestible, portion of the food. See Food. Opposed to output."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Gain",
+            "profit",
+            "proceeds",
+            "salary",
+            "revenue",
+            "receipts",
+            "interest",
+            "emolument",
+            "produce"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "key": "incomparable",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Incomparable",
+      "headword_raw": "In*com\"pa*ra*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[L. incomparabilis: cf. F. incomparable. See In- not, and Comparable.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Incomparableness",
+          "form_raw": "In*com\"pa*ra*ble*ness",
+          "key": "incomparableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Incomparably",
+          "form_raw": "In*com\"pa*ra*bly",
+          "key": "incomparably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not comparable; admitting of no comparison with others; unapproachably eminent; without a peer or equal; matchless; peerless; transcendent."
+          ],
+          "quotes": [
+            "A merchant of incomparable wealth.",
+            "A new hypothesis . . . which hath the incomparable Sir Isaac Newton for a patron.",
+            "Delights incomparably all those corporeal things."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "key": "incontestable",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Incontestable",
+      "headword_raw": "In`con*test\"a*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[Pref. in- not + contestable: cf. F. incontestable.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Incontestableness",
+          "form_raw": "In`con*test\"a*ble*ness",
+          "key": "incontestableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Incontestably",
+          "form_raw": "In`con*test\"a*bly",
+          "key": "incontestably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Incontrovertible",
+        "indisputable",
+        "irrefragable",
+        "undeniable",
+        "unquestionable",
+        "intuitable",
+        "certain"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not contestable; not to be disputed; that cannot be called in question or controverted; incontrovertible; indisputable; as, incontestable evidence, truth, or facts."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

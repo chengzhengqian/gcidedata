@@ -1,0 +1,71 @@
+{
+  "key": "incommensurate",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Incommensurate",
+      "headword_raw": "In`com*men\"su*rate",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Incommensurately",
+          "form_raw": "In`com*men\"su*rate*ly",
+          "key": "incommensurately",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Incommensurateness",
+          "form_raw": "In`com*men\"su*rate*ness",
+          "key": "incommensurateness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Not commensurate; not admitting of a common measure; incommensurable."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Not of equal of sufficient measure or extent; not adequate; as, our means are incommensurate to our wants."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Inadequate",
+            "insufficient",
+            "disproportionate"
+          ]
+        }
+      ]
+    }
+  ]
+}

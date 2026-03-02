@@ -1,0 +1,96 @@
+{
+  "key": "incidental",
+  "source_file": "CIDE.I",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Incidental",
+      "headword_raw": "In`ci*den\"tal",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Incidentally",
+          "form_raw": "In`ci*den\"tal*ly",
+          "key": "incidentally",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Incidentalness",
+          "form_raw": "In`ci*den\"tal*ness",
+          "key": "incidentalness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Accidental",
+        "casual",
+        "fortuitous",
+        "contingent",
+        "chance",
+        "collateral. See Accidental"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Happening, as an occasional event, without regularity; coming without design; casual; accidental; hence, not of prime concern; subordinate; collateral; as, an incidental conversation; an incidental occurrence; incidental expenses."
+          ],
+          "quotes": [
+            "By some, religious duties . . . appear to be regarded . . . as an incidental business.",
+            "I treat either or incidentally of colors."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Incidental",
+      "headword_raw": "In`ci*den\"tal",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An incident; that which is incidental; esp., in the plural, an aggregate of subordinate or incidental items not particularized; as, the expense of tuition and incidentals."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

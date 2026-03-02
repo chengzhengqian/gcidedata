@@ -1,0 +1,57 @@
+{
+  "key": "incombustible",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Incombustible",
+      "headword_raw": "In`com*bus\"ti*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[Pref. in- not + combustible: cf. F. incombustible.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Incombustibleness",
+          "form_raw": "In`com*bus\"ti*ble*ness",
+          "key": "incombustibleness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Incombustibly",
+          "form_raw": "In`com*bus\"ti*bly",
+          "key": "incombustibly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not combustible; not capable of being burned, decomposed, or consumed by fire; uninflammable; as, asbestus is an incombustible substance; carbon dioxide is an incombustible gas."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

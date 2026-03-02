@@ -1,0 +1,49 @@
+{
+  "key": "incompossible",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Incompossible",
+      "headword_raw": "In`com*pos\"si*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": "[Pref. in- not + compossible: cf. F. incompossible.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Incompossibility",
+          "form_raw": "In`com*pos`si*bil\"i*ty",
+          "key": "incompossibility",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not capable of joint existence; incompatible; inconsistent."
+          ],
+          "quotes": [
+            "Ambition and faith . . . are . . . incompossible."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

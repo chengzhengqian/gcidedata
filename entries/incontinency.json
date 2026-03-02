@@ -1,0 +1,51 @@
+{
+  "key": "incontinency",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Incontinency",
+      "headword_raw": "In*con\"ti*nen*cy",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. incontinentia: cf. F. incontinence.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Incapacity to hold; hence, incapacity to hold back or restrain; the quality or state of being incontinent; lack of continence; failure to restrain the passions or appetites; indulgence of lust; lewdness."
+          ],
+          "quotes": [
+            "That Satan tempt you not for your incontinency.",
+            "From the rash hand of bold incontinence."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "The inability of any of the animal organs to restrain the natural evacuations, especially urination, or defecation, so that the discharges are involuntary; as, incontinence of urine."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

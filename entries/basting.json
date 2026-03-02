@@ -1,0 +1,51 @@
+{
+  "key": "basting",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "basting",
+      "headword_raw": "basting",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Loose temporary stitches."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "baste",
+            "tacking"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Cookery)"
+          ],
+          "defs": [
+            "The act or process of moistening a roast as it is cooking."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

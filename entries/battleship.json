@@ -1,0 +1,37 @@
+{
+  "key": "battleship",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "battleship",
+      "headword_raw": "bat\"tle*ship`",
+      "pr": null,
+      "pos": [],
+      "ety": "[shortened from line-of-battle ship, i.e. the most heavily armored ship suited to be in the front line of a naval battle.]",
+      "sources": [
+        "Webster 1913 Suppl.",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Nav.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An armor-plated warship built of steel and heavily armed, generally having over ten thousand tons displacement, and intended to be fit to combat the heaviest enemy ships in line of battle; the most heavily armed and armored class of warship at any given time."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

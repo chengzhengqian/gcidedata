@@ -1,0 +1,56 @@
+{
+  "key": "basics",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "basics",
+      "headword_raw": "basics",
+      "pr": null,
+      "pos": [
+        "n. pl."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a statement of fundamental facts or principles."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "ABC",
+            "ABC's",
+            "ABCs",
+            "rudiments"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "principles from which other truths can be derived; as, let's get down to basics."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "fundamentals",
+            "fundamental principle",
+            "basic principle",
+            "bedrock"
+          ]
+        }
+      ]
+    }
+  ]
+}

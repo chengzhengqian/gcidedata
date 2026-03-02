@@ -1,0 +1,38 @@
+{
+  "key": "baum",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Baum",
+      "headword_raw": "Bau`m<eacute/\"",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Designating or conforming to either of the scales used by the French chemist Antoine Baum in the graduation of his hydrometers; of or relating to Baum's scales or hydrometers. There are two Baum hydrometers. One, which is used with liquids heavier than water, sinks to 0° in pure water, and to 15° in a 15 per cent salt solution; the other, for liquids lighter than water, sinks to 0° in a 10 per cent salt solution and to 10° in pure water. In both cases the graduation, based on the distance between these fundamental points, is continued along the stem as far as desired."
+          ],
+          "quotes": [],
+          "notes": [
+            "Since all the degrees on a Baum scale are thus equal in length, while those on a specific-gravity scale grow smaller as the density increases, there is no simple relation between degrees Baum and specific gravity. However, readings on Baums scale may be approximately reduced to specific gravities by the following formulæ (x in each case being the reading on Baum's scale): (a) for liquids heavier than water, sp. gr. = 144 ÷ (144 - x); (b) for liquids lighter than water, sp. gr. = 144 ÷ (134 + x)."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

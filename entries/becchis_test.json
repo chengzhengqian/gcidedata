@@ -1,0 +1,36 @@
+{
+  "key": "becchis_test",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Becchis test",
+      "headword_raw": "Bec\"chi's test",
+      "pr": "(?)",
+      "pos": [],
+      "ety": "[After E. Becchi, Italian chemist.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A qualitative test for cottonseed oil, based on the fact this oil imparts a maroon color to an alcoholic solution of silver nitrate."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "key": "base_pair",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "base pair",
+      "headword_raw": "base\" pair`",
+      "pr": "(bās\" pr`)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Biochemistry, Genetics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a unit of double-stranded DNA or RNA consisting of two complementary bases on opposing strands of the double-stranded polynucleotide, bound together by hydrogen bonds and other non-covalent chemical forces. The bases comprising the base pairs are adenine, thymine, cytidine, and guanine. In normal DNA, the base adenine on one strand of DNA pairs with thymine on the opposite strand, and cytosine on one strand pairs with guanine on the opposite strand. The term base pair usually includes the sugar (ribose or deoxyribose) and the phosphate bound to each base to form a nucleotide unit. One base pair is sometimes used as a unit of length or size for DNA, and in this usage is abbreviated bp; as, a 100-bp fragment of DNA. A length of 1000 base pairs is a kilobase pair or kbp."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

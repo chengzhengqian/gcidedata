@@ -1,0 +1,86 @@
+{
+  "key": "basic",
+  "source_file": "CIDE.B",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Basic",
+      "headword_raw": "Ba\"sic",
+      "pr": "(<?/)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "Relating to a base; performing the office of a base in a salt.",
+            "Having the base in excess, or the amount of the base atomically greater than that of the acid, or exceeding in proportion that of the related neutral salt.",
+            "Apparently alkaline, as certain normal salts which exhibit alkaline reactions with test paper."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Min.)",
+            "(Chem.)"
+          ],
+          "defs": [
+            "Said of crystalline rocks which contain a relatively low percentage of silica, as basalt."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "BASIC",
+      "headword_raw": "BASIC",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[Beginner's All-purpose Symbolic Iruction C.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "an artificial computer language with a relatively simplified instruction set."
+          ],
+          "quotes": [],
+          "notes": [
+            "Writing a program in BASIC or other higher computer languages is simpler than writing in assembly language. See also programming language, FORTRAN."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "key": "batch",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Batch",
+      "headword_raw": "Batch",
+      "pr": "(<?/)",
+      "pos": [
+        "n.",
+        "v. t."
+      ],
+      "ety": "[OE. bache, bacche, fr. AS. bacan to bake; cf. G. gebäck and D. baksel. See Bake, v. t.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The quantity of bread baked at one time."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A quantity of anything produced at one operation; a group or collection of persons or things of the same kind; as, a batch of letters; the next batch of business."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

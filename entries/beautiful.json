@@ -1,0 +1,68 @@
+{
+  "key": "beautiful",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Beautiful",
+      "headword_raw": "Beau\"ti*ful",
+      "pr": "(bū\"t*fl)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Beautifully",
+          "form_raw": "Beau\"ti*ful*ly",
+          "key": "beautifully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Beautifulness",
+          "form_raw": "Beau\"ti*ful*ness",
+          "key": "beautifulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Handsome",
+        "elegant",
+        "lovely",
+        "fair",
+        "charming",
+        "graceful",
+        "pretty",
+        "delightful"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Having the qualities which constitute beauty; pleasing to the sight or the mind."
+          ],
+          "quotes": [
+            "A circle is more beautiful than a square; a square is more beautiful than a parallelogram."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

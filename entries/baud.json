@@ -1,0 +1,38 @@
+{
+  "key": "baud",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "baud",
+      "headword_raw": "baud",
+      "pr": "(bd or bd)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Named after J. M. E. Baudot, a French inventor, died 1903.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Computers, telecommunications)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A unit of transmission speed for information conveyed over a digital communications channel, usually taken as equal to the number of bits of information transmitted per second. The speed in bauds indicates the number of signalling events per second; however, since it is necessary in most cases to transmit control information along with the data, the data signalling rate may be smaller than the baud rate."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

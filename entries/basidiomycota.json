@@ -1,0 +1,46 @@
+{
+  "key": "basidiomycota",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Basidiomycota",
+      "headword_raw": "Ba*sid`i*o*my*co\"ta",
+      "pr": "(?)",
+      "pos": [
+        "n. pl."
+      ],
+      "ety": "[NL., fr. NL. & E. basidium + Gr. <?/, <?/, fungus.]",
+      "sources": [
+        "Webster 1913 Suppl.",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "Basidiomycota",
+        "subdivision Basidiomycota",
+        "subdivision Basidiomycotina"
+      ],
+      "entry_fields": [
+        "(Bot.)",
+        "(Bot.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A large subdivision of the kingdom Fungi coextensive with the phylum Basidiomycetes, characterized by having the spores borne on a basidium. It embraces those fungi best known to the public, such as mushrooms, toadstools, etc. Among the classes of the Basidiomycota are: Gasteromycetes (puffballs); Tiliomycetes (comprising the orders Ustilaginales (smuts) and Uredinales (rusts)); and Hymenomycetes (mushrooms; toadstools; agarics; bracket fungi)."
+          ],
+          "quotes": [],
+          "notes": [
+            "In the 1913 Webster, the Basidiomycetes were defined as \"coördinate with the Ascomycetes\", and other fungal phyla (the Zygomycota and Deuteromycota) were not mentioned."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+SIMPLE: baud
+RECORDS: 1
+
+==== ENTRY 1 ====
+HEADWORD: baud
+<hw>baud</hw> <pr>(b⟦add⟧d or b⟦ocir⟧d)</pr>, <pos>n.</pos> <ety>[Named
+after <person>J. M. E. <etsep>Baudot</etsep></person>, a French
+inventor, died 1903.]</ety> <fld>(Computers, telecommunications)</fld>
+<def>A unit of transmission speed for information conveyed over a
+digital communications channel, usually taken as equal to the number of
+bits of information transmitted per second. The speed in bauds indicates
+the number of signalling events per second; however, since it is
+necessary in most cases to transmit control information along with the
+data, the <er>data signalling rate</er> may be smaller than the baud
+rate.</def>⟦br⟧
+[<source>PJC</source>]</p>
+
+<p><ent>Baudekin</ent>⟦br⟧

@@ -1,0 +1,61 @@
+{
+  "key": "tabid",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Tabid",
+      "headword_raw": "Tab\"id",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. tabidus: cf. F. tabide. See Tabes.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Tabidly",
+          "form_raw": "Tab\"id*ly",
+          "key": "tabidly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Tabidness",
+          "form_raw": "Tab\"id*ness",
+          "key": "tabidness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Affected by tabes; tabetic."
+          ],
+          "quotes": [
+            "In tabid persons, milk is the bset restorative."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "key": "tangible",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Tangible",
+      "headword_raw": "Tan\"gi*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[L. tangibilis, fr. tangere to touch: cf. F. tangible. See Tangent.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Tangibleness",
+          "form_raw": "Tan\"gi*ble*ness",
+          "key": "tangibleness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Tangibly",
+          "form_raw": "Tan\"gi*bly",
+          "key": "tangibly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Perceptible to the touch; tactile; palpable."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Capable of being possessed or realized; readily apprehensible by the mind; real; substantial; evident."
+          ],
+          "quotes": [
+            "Direct and tangible benefit to ourselves and others."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

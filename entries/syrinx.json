@@ -1,0 +1,52 @@
+{
+  "key": "syrinx",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Syrinx",
+      "headword_raw": "Syr\"inx",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[NL., from Gr. <?/ a pipe.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Mus.)"
+          ],
+          "defs": [
+            "A wind instrument made of reeds tied together; -- called also pandean pipes."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Anat.)"
+          ],
+          "defs": [
+            "The lower larynx in birds."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ In birds there are two laringes, an upper or true, but voiceless, larynx in the usual position behind the tongue, and a lower one, at or near the junction of the trachea and bronchi, which is the true organ of the voice."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

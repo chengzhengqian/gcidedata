@@ -1,0 +1,75 @@
+{
+  "key": "tangent",
+  "source_file": "CIDE.T",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Tangent",
+      "headword_raw": "Tan\"gent",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "v. t."
+      ],
+      "ety": "[L. tangens, -entis, p. pr. of tangere to touch; akin to Gr. <?/ having seized: cf. F. tangente. Cf. Attain, Contaminate, Contingent, Entire, Tact, Taste, Tax, v. t.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Geom.)",
+        "(Elec.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A tangent line curve, or surface; specifically, that portion of the straight line tangent to a curve that is between the point of tangency and a given line, the given line being, for example, the axis of abscissas, or a radius of a circle produced. See Trigonometrical function, under Function."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Tangent",
+      "headword_raw": "Tan\"gent",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. tangens, -entis, p. pr.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Geom.)",
+        "(Geom.)",
+        "(Gun.)",
+        "(Mach.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Touching; touching at a single point",
+            "meeting a curve or surface at a point and having at that point the same direction as the curve or surface; -- said of a straight line, curve, or surface; as, a line tangent to a curve; a curve tangent to a surface; tangent surfaces."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "key": "tactical",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Tactical",
+      "headword_raw": "Tac\"tic*al",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[Gr. taktiko`s. See tactics.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Tactically",
+          "form_raw": "Tac\"tic*al*ly",
+          "key": "tactically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to military or naval tactics; hence, pertaining to, or characterized by, planning or maneuvering for the short term; -- contrasted with strategic, planning for the long term."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

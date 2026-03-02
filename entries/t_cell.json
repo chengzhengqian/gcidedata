@@ -1,0 +1,34 @@
+{
+  "key": "t_cell",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "T cell",
+      "headword_raw": "T\" cell`",
+      "pr": "(tē\"sl`)",
+      "pos": [],
+      "ety": "[From Thymus, the site of maturation of T-cells.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A type of white blood cell that circulates in the blood and lymph, and provides cell-mediated immunity for the organism, protecting against infecting cells or the body's own malignant cells; also called T lymphocyte. There are several types of T cells. They develop, as do B cells, from progenitor cells in the bone marrow, but are distinguished from B-cells (B-lymphocytes) by their site of differentiation; T-cells mature in the thymus and B-cells in the bone marrow (in birds in the Bursa of Fabricius). They also have different antigen receptors from those of B-cells. T-cells differentiate into cells that can directly kill infecting cells (cell-mediated immunity, cytotoxity) or activate other cells of the immune system (helper T cells), whereas B-cells differentiate on activation into antibody-secreting plasma cells. Helper T cells interact with B-cells by secreting lymphokines that stimulate the B cell which have detected a foreign antigen to enter the cell cycle and develop, by repeated mitosis, into a clone of cells with identical receptors, and then to secrete antibodies to that specific antigen."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

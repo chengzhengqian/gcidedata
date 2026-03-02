@@ -1,0 +1,62 @@
+{
+  "key": "systole",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Systole",
+      "headword_raw": "Sys\"to*le",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[NL., fr. Gr. <?/, fr. <?/ to contract; sy`n with + <?/ to set, place.]",
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Systolic",
+          "form_raw": "Sys*tol\"ic",
+          "key": "systolic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Gram.)"
+          ],
+          "defs": [
+            "The shortening of the long syllable."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Physiol. & Biol.)"
+          ],
+          "defs": [
+            "The contraction of the heart and arteries by which the blood is forced onward and the circulation kept up; also, the contraction of a rhythmically pulsating contractile vacuole; -- correlative to diastole."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

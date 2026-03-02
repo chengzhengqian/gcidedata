@@ -1,0 +1,49 @@
+{
+  "key": "tacit",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Tacit",
+      "headword_raw": "Tac\"it",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[L. tacitus, p. p. of tacere to be silent, to pass over in silence; akin to Goth. þahan to be silent, Icel. þegja, OHG. dagēn: cf. F. tacite. Cf. Reticent.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Tacitly",
+          "form_raw": "Tac\"it*ly",
+          "key": "tacitly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Done or made in silence; implied, but not expressed; silent; as, tacit consent is consent by silence, or by not interposing an objection."
+          ],
+          "quotes": [
+            "The tacit and secret theft of abusing our brother in civil contracts."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

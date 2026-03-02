@@ -1,0 +1,58 @@
+{
+  "key": "syntonic",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Syntonic",
+      "headword_raw": "Syn*ton\"ic",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Syntonical",
+          "form_raw": "Syn*ton\"ic*al",
+          "key": "syntonical",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Syntonically",
+          "form_raw": "Syn*ton\"ic*al*ly",
+          "key": "syntonically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of or pert. to syntony; specif., designating, or pert. to, a system of wireless telegraphy in which the transmitting and receiving apparatus are in syntony with, and only with, one another."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

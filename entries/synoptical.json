@@ -1,0 +1,47 @@
+{
+  "key": "synoptical",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Synoptical",
+      "headword_raw": "Syn*op\"tic*al",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[Gr. <?/: cf. F. synoptique. See Synopsis.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Synoptically",
+          "form_raw": "Syn*op\"tic*al*ly",
+          "key": "synoptically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Affording a general view of the whole, or of the principal parts of a thing; as, a synoptic table; a synoptical statement of an argument."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

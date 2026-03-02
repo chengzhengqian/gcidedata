@@ -1,0 +1,62 @@
+{
+  "key": "synthesis",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Synthesis",
+      "headword_raw": "Syn\"the*sis",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L., a mixture, properly, a putting together, Gr. <?/, fr. <?/ to place or put together; sy`n with + <?/ to place. See Thesis.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Composition, or the putting of two or more things together, as in compounding medicines."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "The art or process of making a compound by putting the ingredients together, as contrasted with analysis; thus, water is made by synthesis from hydrogen and oxygen; hence, specifically, the building up of complex compounds by special reactions, whereby their component radicals are so grouped that the resulting substances are identical in every respect with the natural articles when such occur; thus, artificial alcohol, urea, indigo blue, alizarin, etc., are made by synthesis."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Logic)"
+          ],
+          "defs": [
+            "The combination of separate elements of thought into a whole, as of simple into complex conceptions, species into genera, individual propositions into systems; -- the opposite of analysis."
+          ],
+          "quotes": [
+            "Analysis and synthesis, though commonly treated as two different methods, are, if properly understood, only the two necessary parts of the same method. Each is the relative and correlative of the other."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

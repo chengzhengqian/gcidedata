@@ -1,0 +1,41 @@
+{
+  "key": "tanakh",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Tanakh",
+      "headword_raw": "Tanakh",
+      "pr": "(t*nk\")",
+      "pos": [
+        "n."
+      ],
+      "ety": "[From the initial (Hebrew) letters of Torah, Nevi'im, and Kethubim.]",
+      "sources": [
+        "PJC",
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A term used among Jews for the Hebrew Bible; the Old Testament."
+          ],
+          "quotes": [
+            "The Hebrew Bible is divided into three parts: (1) The Torah, “Law,” or Pentateuch. (2) The Prophets . . . (3) The Kethubim, or the “Writings,” generally termed Hagiographa."
+          ],
+          "notes": [
+            "Although Christians use the term “Old Testament”, this term implies the superseding force of the “New Testament”, not recognized as revelation by the Jewish faith."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

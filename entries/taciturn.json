@@ -1,0 +1,52 @@
+{
+  "key": "taciturn",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Taciturn",
+      "headword_raw": "Tac\"i*turn",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[L. taciturnus: cf. F. taciturne. See Tacit.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "Taciturn, Silent. Silent has reference to the act; taciturn, to the habit. A man may be silent from circumstances; he is taciturn from disposition. The loquacious man is at times silent; one who is taciturn may now and then make an effort at conversation."
+      ],
+      "wordforms": [
+        {
+          "form": "Taciturnly",
+          "form_raw": "Tac\"i*turn*ly",
+          "key": "taciturnly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Silent",
+        "reserved"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Habitually silent; not given to converse; not apt to talk or speak."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

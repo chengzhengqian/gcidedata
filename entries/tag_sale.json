@@ -1,0 +1,38 @@
+{
+  "key": "tag_sale",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Tag sale",
+      "headword_raw": "Tag sale",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[From the price tag usually attached to each item.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A sale of usually used items (such as furniture, clothing, household items or bric-a-brac), conducted by one or a small group of individuals, at a location which is not a normal retail establishment."
+          ],
+          "quotes": [],
+          "notes": [
+            "Frequently it is held in the private home or in a yard attached to a private home belonging to the seller. Similar to a yard sale or garage sale. Compare flea market, where used items are sold by many individuals in a place rented for the purpose."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

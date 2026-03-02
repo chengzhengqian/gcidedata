@@ -1,0 +1,51 @@
+{
+  "key": "syntonize",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Syntonize",
+      "headword_raw": "Syn\"to*nize",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "n."
+      ],
+      "ety": "[See Syntony.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": "[imp. & p. p. -nized (?); p. pr. & vb. n. -nizing (?).]",
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Syntonization",
+          "form_raw": "Syn`to*ni*za\"tion",
+          "key": "syntonization",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To adjust or devise so as to emit or respond to electric oscillations of a certain wave length; to tune; specif., to put (two or more instruments or systems of wireless telegraphy) in syntony with each other."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

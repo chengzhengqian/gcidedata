@@ -1,0 +1,53 @@
+{
+  "key": "suborn",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Suborn",
+      "headword_raw": "Sub*orn\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[F. suborner, L. subornare; sub under, secretly + ornare to furnish, provide, equip, adorn. See Ornament.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Suborned (?); p. pr. & vb. n. Suborning.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "To procure or cause to take a false oath amounting to perjury, such oath being actually taken."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To procure privately, or by collusion; to procure by indirect means; to incite secretly; to instigate."
+          ],
+          "quotes": [
+            "Thou art suborned against his honor.",
+            "Those who by despair suborn their death."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

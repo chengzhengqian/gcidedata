@@ -1,0 +1,83 @@
+{
+  "key": "subcostal",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Subcostal",
+      "headword_raw": "Sub*cos\"tal",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Anat. & Zool.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Situated below the costas, or ribs; as, the subcostal muscles."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The subcostal muscles are distinct from, and within, the intercostal."
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Subcostal",
+      "headword_raw": "Sub*cos\"tal",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Anat.)"
+          ],
+          "defs": [
+            "A subcostal muscle."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "One of the principal nervures of the wings of an insect. It is situated next beneath or behind the costal. See Nervure."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

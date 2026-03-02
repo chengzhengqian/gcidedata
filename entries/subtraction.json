@@ -1,0 +1,62 @@
+{
+  "key": "subtraction",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Subtraction",
+      "headword_raw": "Sub*trac\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. subtractio a drawing back. See Subtract, and cf. Substraction.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act or operation of subtracting or taking away a part."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "The taking of a lesser number or quantity from a greater of the same kind or denomination; an operation for finding the difference between two numbers or quantities."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "The withdrawing or withholding from a person of some right to which he is entitled by law."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Thus the subtraction of conjugal rights is when either the husband or wife withdraws from the other and lives separate without sufficient reason. The subtraction of a legacy is the withholding or detailing of it from the legatee by the executor. In like manner, the withholding of any service, rent, duty, or custom, is a subtraction, for which the law gives a remedy."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

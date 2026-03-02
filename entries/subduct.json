@@ -1,0 +1,48 @@
+{
+  "key": "subduct",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Subduct",
+      "headword_raw": "Sub*duct\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t."
+      ],
+      "ety": "[L. subducere, subductum; sub under + ducere to lead, to draw. See Duke, and cf. Subdue.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To withdraw; to take away."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To subtract by arithmetical operation; to deduct."
+          ],
+          "quotes": [
+            "If, out of that infinite multitude of antecedent generations, we should subduce ten."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

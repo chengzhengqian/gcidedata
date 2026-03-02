@@ -1,0 +1,90 @@
+{
+  "key": "subscription",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Subscription",
+      "headword_raw": "Sub*scrip\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. subscriptio: cf. F. souscription.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of subscribing."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That which is subscribed.",
+            "A paper to which a signature is attached.",
+            "The signature attached to a paper.",
+            "Consent or attestation by underwriting the name.",
+            "Sum subscribed; amount of sums subscribed; as, an individual subscription to a fund."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Eccl.)",
+            "(Ch. of Eng.)"
+          ],
+          "defs": [
+            "The acceptance of articles, or other tests tending to promote uniformity; esp. (Ch. of Eng.), formal assent to the Thirty-nine Articles and the Book of Common Prayer, required before ordination."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Submission; obedience."
+          ],
+          "quotes": [
+            "You owe me no subscription."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Pharm.)"
+          ],
+          "defs": [
+            "That part of a prescription which contains the direction to the apothecary.",
+            "A method of purchasing items produced periodically in a series, as newspapers or magazines, in which a certain number of the items are delivered as produced, without need for ordering each item individually; also, the purchase thus executed."
+          ],
+          "quotes": [],
+          "notes": [
+            "The right to attend a series of public performances of ballet, opera, or music are also often sold by subscription. The payment for a subscription may be made prior to delivery of any items (common with magazines and performances), or after a certain number of the items have been delivered (common with newspapers or works of art produced in a series)."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

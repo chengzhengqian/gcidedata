@@ -1,0 +1,39 @@
+{
+  "key": "subtrahend",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Subtrahend",
+      "headword_raw": "Sub\"tra*hend`",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. subtrahendus that is to be subtracted, p.fut.pess. of subtrahere. See Subtract.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Math.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The sum or number to be subtracted, or taken from another (the minuend) to find the difference."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

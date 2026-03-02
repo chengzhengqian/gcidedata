@@ -1,0 +1,65 @@
+{
+  "key": "successful",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Successful",
+      "headword_raw": "Suc*cess\"ful",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Successfully",
+          "form_raw": "Suc*cess\"ful*ly",
+          "key": "successfully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Successfulness",
+          "form_raw": "Suc*cess\"ful*ness",
+          "key": "successfulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Happy",
+        "prosperous",
+        "fortunate",
+        "auspicious",
+        "lucky. See Fortunate"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Resulting in success; assuring, or promotive of, success; accomplishing what was proposed; having the desired effect; hence, prosperous; fortunate; happy; as, a successful use of medicine; a successful experiment; a successful enterprise."
+          ],
+          "quotes": [
+            "Welcome, nephews, from successful wars."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

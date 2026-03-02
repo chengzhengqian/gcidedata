@@ -1,0 +1,110 @@
+{
+  "key": "subtile",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Subtile",
+      "headword_raw": "Sub\"tile",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. subtilis. See Subtile.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "In acute the image is that of a needle's point; in subtile that of a thread spun out to fineness. The acute intellect pierces to its aim; the subtile (or subtle) intellect winds its way through obstacles."
+      ],
+      "wordforms": [
+        {
+          "form": "Subtilely",
+          "form_raw": "Sub\"tile*ly",
+          "key": "subtilely",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Subtileness",
+          "form_raw": "Sub\"tile*ness",
+          "key": "subtileness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Thin; not dense or gross; rare; as, subtile air; subtile vapor; a subtile medium."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Delicately constituted or constructed; nice; fine; delicate; tenuous; finely woven."
+          ],
+          "quotes": [
+            "More subtile web Arachne can not spin.",
+            "I do distinguish plain Each subtile line of her immortal face."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Acute; piercing; searching."
+          ],
+          "quotes": [
+            "The slow disease and subtile pain."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "Characterized by nicety of discrimination; discerning; delicate; refined; subtle."
+          ],
+          "quotes": [
+            "The genius of the Spanish people is exquisitely subtile, without being at all acute; hence there is so much humor and so little wit in their literature. The genius of the Italians, on the contrary, is acute, profound, and sensual, but not subtile; hence what they think to be humorous, is merely witty.",
+            "The subtile influence of an intellect like Emerson's."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "Sly; artful; cunning; crafty; subtle; as, a subtile person; a subtile adversary; a subtile scheme."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Subtile",
+            "Acute"
+          ]
+        }
+      ]
+    }
+  ]
+}

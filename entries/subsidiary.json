@@ -1,0 +1,80 @@
+{
+  "key": "subsidiary",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Subsidiary",
+      "headword_raw": "Sub*sid\"i*a*ry",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. subsidiarius: cf. F. subsidiaire. See Subsidy.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Furnishing aid; assisting; auxiliary; helping; tributary; especially, aiding in an inferior position or capacity; as, a subsidiary stream."
+          ],
+          "quotes": [
+            "Chief ruler and principal head everywhere, not suffragant and subsidiary.",
+            "They constituted a useful subsidiary testimony of another state of existence."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to a subsidy; constituting a subsidy; being a part of, or of the nature of, a subsidy; as, subsidiary payments to an ally."
+          ],
+          "quotes": [
+            "George the Second relied on his subsidiary treaties."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Subsidiary",
+      "headword_raw": "Sub*sid\"i*a*ry",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "One who, or that which, contributes aid or additional supplies; an assistant; an auxiliary."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

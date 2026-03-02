@@ -1,0 +1,38 @@
+{
+  "key": "substituent",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Substituent",
+      "headword_raw": "Sub*stit\"u*ent",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. substituens, p. pr. See Substitute.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Any atom, group, or radical substituted for another, or entering a molecule in place of some other part which is removed."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

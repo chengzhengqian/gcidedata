@@ -1,0 +1,80 @@
+{
+  "key": "succinct",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Succinct",
+      "headword_raw": "Suc*cinct\"",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. succinctus, p. p. of succingere to gird below or from below, to tuck up; sub + cingere to gird. Cf. Cincture.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Succinctly",
+          "form_raw": "Suc*cinct\"ly",
+          "key": "succinctly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Succinctness",
+          "form_raw": "Suc*cinct\"ness",
+          "key": "succinctness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Girded or tucked up; bound; drawn tightly together."
+          ],
+          "quotes": [
+            "His habit fit for speed succinct."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Compressed into a narrow compass; brief; concise."
+          ],
+          "quotes": [
+            "Let all your precepts be succinct and clear.",
+            "The shortest and most succinct model that ever grasped all the needs and necessities of mankind."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Short",
+            "brief",
+            "concise",
+            "summary",
+            "compendious",
+            "laconic",
+            "terse"
+          ]
+        }
+      ]
+    }
+  ]
+}

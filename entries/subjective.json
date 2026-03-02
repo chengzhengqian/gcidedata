@@ -1,0 +1,84 @@
+{
+  "key": "subjective",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Subjective",
+      "headword_raw": "Sub*jec\"tive",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. subjectivus: cf. F. subjectif.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Subjectively",
+          "form_raw": "Sub*jec\"tive*ly",
+          "key": "subjectively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Subjectiveness",
+          "form_raw": "Sub*jec\"tive*ness",
+          "key": "subjectiveness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to a subject."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Especially, pertaining to, or derived from, one's own consciousness, in distinction from external observation; ralating to the mind, or intellectual world, in distinction from the outward or material excessively occupied with, or brooding over, one's own internal states."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ In the philosophy of the mind, subjective denotes what is to be referred to the thinking subject, the ego; objective, what belongs to the object of thought, the non-ego. See Objective, a., 2."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Lit. & Art)",
+            "(Physiol.)"
+          ],
+          "defs": [
+            "Modified by, or making prominent, the individuality of a writer or an artist; as, a subjective drama or painting; a subjective writer."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "See Objective"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "key": "subtract",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Subtract",
+      "headword_raw": "Sub*tract\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. subtractus, p. p. of subtrahere to draw from beneath, withdraw, remove; sub under + trahere to draw. See Trace, v. t., and cf. Substract.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Subtracted; p. pr. & vb. n. Subtracting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To withdraw, or take away, as a part from the whole; to deduct; as, subtract 5 from 9, and the remainder is 4."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

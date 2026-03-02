@@ -1,0 +1,80 @@
+{
+  "key": "submissive",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Submissive",
+      "headword_raw": "Sub*mis\"sive",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Submissively",
+          "form_raw": "Sub*mis\"sive*ly",
+          "key": "submissively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Submissiveness",
+          "form_raw": "Sub*mis\"sive*ness",
+          "key": "submissiveness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Inclined or ready to submit; acknowledging one's inferiority; yielding; obedient; humble."
+          ],
+          "quotes": [
+            "Not at his feet submissive in distress, Creature so fair his reconcilement seeking."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Showing a readiness to submit; expressing submission; as, a submissive demeanor."
+          ],
+          "quotes": [
+            "With a submissive step I hasted down."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Obedient",
+            "compliant",
+            "yielding",
+            "obsequious",
+            "subservient",
+            "humble",
+            "modest",
+            "passive"
+          ]
+        }
+      ]
+    }
+  ]
+}

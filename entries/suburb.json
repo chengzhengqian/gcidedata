@@ -1,0 +1,50 @@
+{
+  "key": "suburb",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Suburb",
+      "headword_raw": "Sub\"urb",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. suburbium; sub under, below, near + urbs a city. See Urban.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "An outlying part of a city or town; a smaller place immediately adjacent to a city; in the plural, the region which is on the confines of any city or large town; as, a house stands in the suburbs; a garden situated in the suburbs of Paris."
+          ],
+          "quotes": [
+            "[London] could hardly have contained less than thirty or forty thousand souls within its walls; and the suburbs were very populous."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Hence, the confines; the outer part; the environment."
+          ],
+          "quotes": [
+            "The suburb of their straw-built citadel."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

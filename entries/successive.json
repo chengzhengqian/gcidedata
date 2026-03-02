@@ -1,0 +1,50 @@
+{
+  "key": "successive",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Successive",
+      "headword_raw": "Suc*ces\"sive",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Cf. F. successif. See Succeed.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Following in order or in uninterrupted course; coming after without interruption or interval; following one after another in a line or series; consecutive; as, the successive revolution of years; the successive kings of Egypt; successive strokes of a hammer."
+          ],
+          "quotes": [
+            "Send the successive ills through ages down."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "Having or giving the right of succeeding to an inheritance; inherited by succession; hereditary; as, a successive title; a successive empire."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

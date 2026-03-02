@@ -1,0 +1,63 @@
+{
+  "key": "vestry",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Vestry",
+      "headword_raw": "Ves\"try",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. vestrye, F. vestiaire, L. vestiarium, fr. vestiarius belonging to clothes, fr. vestis a garment. See Vest, n., and cf. Vestiary.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A room appendant to a church, in which sacerdotal vestments and sacred utensils are sometimes kept, and where meetings for worship or parish business are held; a sacristy; -- formerly called revestiary."
+          ],
+          "quotes": [
+            "He said unto him that was over the vestry, Bring forth vestments for all the worshipers of Baal."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Ch. of Eng.)"
+          ],
+          "defs": [
+            "A parochial assembly; an assembly of persons who manage parochial affairs; -- so called because usually held in a vestry."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Prot. Epis. Ch.)",
+            "(Ch. of Eng.)"
+          ],
+          "defs": [
+            "A body, composed of wardens and vestrymen, chosen annually by a parish to manage its temporal concerns."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

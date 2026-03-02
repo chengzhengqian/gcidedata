@@ -1,0 +1,103 @@
+{
+  "key": "vertical",
+  "source_file": "CIDE.V",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Vertical",
+      "headword_raw": "Ver\"ti*cal",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Cf. F. vertical. See Vertex.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to the vertex; situated at the vertex, or highest point; directly overhead, or in the zenith; perpendicularly above one."
+          ],
+          "quotes": [
+            "Charity . . . is the vertical top of all religion."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Astron. & Geod.)",
+            "(Bot.)",
+            "(Astron.)",
+            "(Mil.)",
+            "(Bot.)",
+            "(Dialing)",
+            "(Conic Sections)",
+            "(Surv.)",
+            "(Geom., Drawing, etc.)",
+            "(Conic Sections)",
+            "(Projections)",
+            "(Persp.)"
+          ],
+          "defs": [
+            "Perpendicular to the plane of the horizon; upright; plumb; as, a vertical line."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Vertical",
+      "headword_raw": "Ver\"ti*cal",
+      "pr": null,
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Vertical position; zenith."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "A vertical line, plane, or circle."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

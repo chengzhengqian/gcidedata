@@ -1,0 +1,61 @@
+{
+  "key": "verbigerate",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Verbigerate",
+      "headword_raw": "Ver*big\"er*ate",
+      "pr": "(?)",
+      "pos": [
+        "v. i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "n."
+      ],
+      "ety": "[L. verbigerate, -atum, to talk.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": "[imp. & p. p. verbigerated (?); p. pr. & vb. n. verbigerating (?).]",
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Verbigeration",
+          "form_raw": "Ver*big`er*a\"tion",
+          "key": "verbigeration",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To talk; chat."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "To repeat a word or sentence, in speaking or writing, without wishing to do so or in spite of efforts to cease."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

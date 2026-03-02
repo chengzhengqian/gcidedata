@@ -1,0 +1,58 @@
+{
+  "key": "velocity",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Velocity",
+      "headword_raw": "Ve*loc\"i*ty",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. velocitas, from velox, -ocis, swift, quick; perhaps akin to volare to fly (see Volatile): cf. F. vlocit.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Quickness of motion; swiftness; speed; celerity; rapidity; as, the velocity of wind; the velocity of a planet or comet in its orbit or course; the velocity of a cannon ball; the velocity of light."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ In such phrases, velocity is more generally used than celerity. We apply celerity to animals; as, a horse or an ostrich runs with celerity; but bodies moving in the air or in ethereal space move with greater or less velocity, not celerity. This usage is arbitrary, and perhaps not universal."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mech.)"
+          ],
+          "defs": [
+            "Rate of motion; the relation of motion to time, measured by the number of units of space passed over by a moving body or point in a unit of time, usually the number of feet passed over in a second. See the Note under Speed."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ In variable velocity, the velocity, strictly, at any given instant, is the rate of motion at that instant, and is expressed by the units of space, which, if the velocity at that instant were continued uniform during a unit of time, would be described in the unit of time; thus, the velocity of a falling body at a given instant is the number of feet which, if the motion which the body has at that instant were continued uniformly for one second, it would pass through in the second. The scientific sense of velocity differs from the popular sense in being applied to all rates of motion, however slow, while the latter implies more or less rapidity or quickness of motion."
+          ],
+          "synonyms": [
+            "Swiftness",
+            "celerity",
+            "rapidity",
+            "fleetness",
+            "speed"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "key": "verdict",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Verdict",
+      "headword_raw": "Ver\"dict",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. verdit, OF. verdit, veirdit, LL. verdictum, veredictum; L. vere truly (fr. verus true) + dictum a saying, a word, fr. dicere, dictum, to say. See Very, and Dictum.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "The answer of a jury given to the court concerning any matter of fact in any cause, civil or criminal, committed to their examination and determination; the finding or decision of a jury on the matter legally submitted to them in the course of the trial of a cause."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The decision of a judge or referee, upon an issue of fact, is not called a verdict, but a finding, or a finding of fact. Abbott."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Decision; judgment; opinion pronounced; as, to be condemned by the verdict of the public."
+          ],
+          "quotes": [
+            "These were enormities condemned by the most natural verdict of common humanity.",
+            "Two generations have since confirmed the verdict which was pronounced on that night."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

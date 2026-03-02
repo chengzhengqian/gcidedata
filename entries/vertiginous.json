@@ -1,0 +1,71 @@
+{
+  "key": "vertiginous",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Vertiginous",
+      "headword_raw": "Ver*tig\"i*nous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. vertiginosus, fr. vertigo a whirling around, giddiness: cf. F. vertigineux. See Vertigo.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Vertiginously",
+          "form_raw": "Ver*tig\"i*nous*ly",
+          "key": "vertiginously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Vertiginousness",
+          "form_raw": "Ver*tig\"i*nous*ness",
+          "key": "vertiginousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Turning round; whirling; rotary; revolving; as, a vertiginous motion."
+          ],
+          "quotes": [
+            "Some vertiginous whirl of fortune."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Affected with vertigo; giddy; dizzy."
+          ],
+          "quotes": [
+            "They [the angels] grew vertiginous, and fell from the battlements of heaven."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

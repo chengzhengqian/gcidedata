@@ -1,0 +1,145 @@
+{
+  "key": "verse",
+  "source_file": "CIDE.V",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Verse",
+      "headword_raw": "Verse",
+      "pr": "(vrs)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. vers, AS. fers, L. versus a line in writing, and, in poetry, a verse, from vertere, versum, to turn, to turn round; akin to E. worth to become: cf. F. vers. See Worth to become, and cf. Advertise, Averse, Controversy, Convert, Divers, Invert, Obverse, Prose, Suzerain, Vortex.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A line consisting of a certain number of metrical feet (see Foot, n., 9) disposed according to metrical rules."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Verses are of various kinds, as hexameter, pentameter, tetrameter, etc., according to the number of feet in each. A verse of twelve syllables is called an Alexandrine. Two or more verses form a stanza or strophe."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Metrical arrangement and language; that which is composed in metrical form; versification; poetry."
+          ],
+          "quotes": [
+            "Such prompt eloquence Flowed from their lips in prose or numerous verse.",
+            "Virtue was taught in verse.",
+            "Verse embalms virtue."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Script.)",
+            "(Mus.)"
+          ],
+          "defs": [
+            "A short division of any composition.",
+            "A stanza; a stave; as, a hymn of four verses.",
+            "One of the short divisions of the chapters in the Old and New Testaments.",
+            "A portion of an anthem to be performed by a single voice to each part."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Although this use of verse is common, it is objectionable, because not always distinguishable from the stricter use in the sense of a line.",
+            "☞ The author of the division of the Old Testament into verses is not ascertained. The New Testament was divided into verses by Robert Stephens [or Estienne], a French printer. This arrangement appeared for the first time in an edition printed at Geneva, in 1551."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "A piece of poetry."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Verse",
+      "headword_raw": "Verse",
+      "pr": "(vrst)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Versed (vrst); p. pr. & vb. n. Versing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To tell in verse, or poetry."
+          ],
+          "quotes": [
+            "Playing on pipes of corn and versing love."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Verse",
+      "headword_raw": "Verse",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To make verses; to versify."
+          ],
+          "quotes": [
+            "It is not rhyming and versing that maketh a poet."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

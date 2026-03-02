@@ -1,0 +1,57 @@
+{
+  "key": "venturesome",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Venturesome",
+      "headword_raw": "Ven\"ture*some",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Venturesomely",
+          "form_raw": "Ven\"ture*some*ly",
+          "key": "venturesomely",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Venturesomeness",
+          "form_raw": "Ven\"ture*some*ness",
+          "key": "venturesomeness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Inclined to venture; not loth to run risk or danger; venturous; bold; daring; adventurous; as, a venturesome boy or act."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

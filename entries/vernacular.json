@@ -1,0 +1,69 @@
+{
+  "key": "vernacular",
+  "source_file": "CIDE.V",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Vernacular",
+      "headword_raw": "Ver*nac\"u*lar",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. vernaculus born in one's house, native, fr. verna a slave born in his master's house, a native, probably akin to Skr. vas to dwell, E. was.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Belonging to the country of one's birth; one's own by birth or nature; native; indigenous; -- now used chiefly of language; as, English is our vernacular language."
+          ],
+          "quotes": [
+            "His skill in the vernacular dialect of the Celtic tongue.",
+            "Which in our vernacular idiom may be thus interpreted."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Vernacular",
+      "headword_raw": "Ver*nac\"u*lar",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The vernacular language; one's mother tongue; often, the common forms of expression in a particular locality, opposed to literary or learned forms."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

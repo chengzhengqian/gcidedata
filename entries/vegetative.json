@@ -1,0 +1,79 @@
+{
+  "key": "vegetative",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Vegetative",
+      "headword_raw": "Veg\"e*ta*tive",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Cf. F. vgtatif.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Vegetatively",
+          "form_raw": "Veg\"e*ta*tive*ly",
+          "key": "vegetatively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Vegetativeness",
+          "form_raw": "Veg\"e*ta*tive*ness",
+          "key": "vegetativeness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Growing, or having the power of growing, as plants; capable of vegetating."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Having the power to produce growth in plants; as, the vegetative properties of soil."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Biol.)"
+          ],
+          "defs": [
+            "Having relation to growth or nutrition; partaking of simple growth and enlargement of the systems of nutrition, apart from the sensorial or distinctively animal functions; vegetal."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

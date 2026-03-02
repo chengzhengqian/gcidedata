@@ -1,0 +1,89 @@
+{
+  "key": "vendible",
+  "source_file": "CIDE.V",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Vendible",
+      "headword_raw": "Vend\"i*ble",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. vendibilis: cf. OF. vendible, F. vendable.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Capable of being vended, or sold; that may be sold; salable."
+          ],
+          "quotes": [
+            "The regulating of prices of things vendible."
+          ],
+          "notes": [
+            "☞ Vendible differs from marketable; the latter signifies proper or fit for market, according to the laws or customs of a place. Vendible has no reference to such legal fitness."
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Vendible",
+      "headword_raw": "Vend\"i*ble",
+      "pr": null,
+      "pos": [
+        "n.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Vendibleness",
+          "form_raw": "Vend\"i*ble*ness",
+          "key": "vendibleness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Vendibly",
+          "form_raw": "Vend\"i*bly",
+          "key": "vendibly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Something to be sold, or offered for sale."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

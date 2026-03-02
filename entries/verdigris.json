@@ -1,0 +1,82 @@
+{
+  "key": "verdigris",
+  "source_file": "CIDE.V",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Verdigris",
+      "headword_raw": "Ver\"di*gris",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. vert-de-gris, apparently from verd, vert, green + de of + gris gray, but really a corruption of LL. viride aeris (equivalent to L. aerugo), from L. viridis green + aes, aeris, brass. See Verdant, and 2d Ore.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "A green poisonous substance used as a pigment and drug, obtained by the action of acetic acid on copper, and consisting essentially of a complex mixture of several basic copper acetates."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Chem.)",
+            "(Old Chem.)"
+          ],
+          "defs": [
+            "The green rust formed on copper."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ This rust is a carbonate of copper, and should not be confounded with true verdigris."
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Verdigris",
+      "headword_raw": "Ver\"di*gris",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To cover, or coat, with verdigris."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

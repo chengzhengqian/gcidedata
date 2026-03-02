@@ -1,0 +1,81 @@
+{
+  "key": "venomous",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Venomous",
+      "headword_raw": "Ven\"om*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[OE. venemous, venimous, F. venimeux, L. venenosus, fr. venenum poison. See Venom, and cf. Venenose.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Venomously",
+          "form_raw": "Ven\"om*ous*ly",
+          "key": "venomously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Venomousness",
+          "form_raw": "Ven\"om*ous*ness",
+          "key": "venomousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Full of venom; noxious to animal life; poisonous; as, the bite of a serpent may be venomous."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "Having a poison gland or glands for the secretion of venom, as certain serpents and insects."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "Noxious; mischievous; malignant; spiteful; as, a venomous progeny; a venomous writer."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

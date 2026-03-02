@@ -1,0 +1,54 @@
+{
+  "key": "ventral",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Ventral",
+      "headword_raw": "Ven\"tral",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": "[L. ventralis, fr. venter the belly; perhaps akin to G. wanst: cf. F. ventral.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Anat.)"
+          ],
+          "defs": [
+            "Of, pertaining to, or situated near, the belly, or ventral side, of an animal or of one of its parts; hemal; abdominal; as, the ventral fin of a fish; the ventral root of a spinal nerve; -- opposed to dorsal."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Bot.)",
+            "(Zool.)",
+            "(Acoustics)"
+          ],
+          "defs": [
+            "Of or pertaining to that surface of a carpel, petal, etc., which faces toward the center of a flower.",
+            "Of or pertaining to the lower side or surface of a creeping moss or other low flowerless plant. Opposed to dorsal."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

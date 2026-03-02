@@ -1,0 +1,59 @@
+{
+  "key": "venturous",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Venturous",
+      "headword_raw": "Ven\"tur*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[Aphetic form of OE. aventurous. See Adventurous, Venture, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Venturously",
+          "form_raw": "Ven\"tur*ous*ly",
+          "key": "venturously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Venturousness",
+          "form_raw": "Ven\"tur*ous*ness",
+          "key": "venturousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Daring; bold; hardy; fearless; venturesome; adventurous; as, a venturous soldier."
+          ],
+          "quotes": [
+            "This said, he paused not, but with venturous arm He plucked, he tasted."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

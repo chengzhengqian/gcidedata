@@ -1,0 +1,40 @@
+{
+  "key": "versor",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Versor",
+      "headword_raw": "Ver\"sor",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[NL., fr. L. vertere, versus, to turn. See Version.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Geom.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The turning factor of a quaternion."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The change of one vector into another is considered in quaternions as made up of two operations; 1st, the rotation of the first vector so that it shall be parallel to the second; 2d, the change of length so that the first vector shall be equal to the second. That which expresses in amount and kind the first operation is a versor, and is denoted geometrically by a line at right angles to the plane in which the rotation takes place, the length of this line being proportioned to the amount of rotation. That which expresses the second operation is a tensor. The product of the versor and tensor expresses the total operation, and is called a quaternion. See Quaternion."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

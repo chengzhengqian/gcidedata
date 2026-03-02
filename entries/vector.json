@@ -1,0 +1,50 @@
+{
+  "key": "vector",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Vector",
+      "headword_raw": "Vec\"tor",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L., a bearer, carrier. fr. vehere, vectum, to carry.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Same as Radius vector."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "A directed quantity, as a straight line, a force, or a velocity. Vectors are said to be equal when their directions are the same and their magnitudes equal. Cf. Scalar."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ In a triangle, either side is the vector sum of the other two sides taken in proper order; the process finding the vector sum of two or more vectors is vector addition (see under Addition)."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

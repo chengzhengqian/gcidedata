@@ -1,0 +1,50 @@
+{
+  "key": "verb",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Verb",
+      "headword_raw": "Verb",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. verbe, L. verbum a word, verb. See Word.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A word; a vocable."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Gram.)"
+          ],
+          "defs": [
+            "A word which affirms or predicates something of some person or thing; a part of speech expressing being, action, or the suffering of action."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ A verb is a word whereby the chief action of the mind [the assertion or the denial of a proposition] finds expression. Earle."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "key": "venue",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Venue",
+      "headword_raw": "Ven\"ue",
+      "pr": "(vn\")",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. venue a coming, arrival, fr. venir to come, L. venire; hence, in English, the place whither the jury are summoned to come. See Come, and cf. Venew, Veney.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "A neighborhood or near place; the place or county in which anything is alleged to have happened; also, the place where an action is laid."
+          ],
+          "quotes": [
+            "The twelve men who are to try the cause must be of the same venue where the demand is made."
+          ],
+          "notes": [
+            "☞ In certain cases, the court has power to change the venue, which is to direct the trial to be had in a different county from that where the venue is laid."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "A bout; a hit; a turn. See Venew."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

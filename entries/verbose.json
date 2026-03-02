@@ -1,0 +1,59 @@
+{
+  "key": "verbose",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Verbose",
+      "headword_raw": "Ver*bose\"",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. verbosus, from verbum a word. See Verb.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Verbosely",
+          "form_raw": "Ver*bose\"ly",
+          "key": "verbosely",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Verboseness",
+          "form_raw": "Ver*bose\"ness",
+          "key": "verboseness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Abounding in words; using or containing more words than are necessary; tedious by a multiplicity of words; prolix; wordy; as, a verbose speaker; a verbose argument."
+          ],
+          "quotes": [
+            "Too verbose in their way of speaking."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

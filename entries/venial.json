@@ -1,0 +1,71 @@
+{
+  "key": "venial",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Venial",
+      "headword_raw": "Ve\"ni*al",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[OF. venial, F. vniel, L. venialis, from venia forgiveness, pardon, grace, favor, kindness; akin to venerari to venerate. See Venerate.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Venially",
+          "form_raw": "Ve\"ni*al*ly",
+          "key": "venially",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Venialness",
+          "form_raw": "Ve\"ni*al*ness",
+          "key": "venialness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Capable of being forgiven; not heinous; excusable; pardonable; as, a venial fault or transgression."
+          ],
+          "quotes": [
+            "So they do nothing, 't is a venial slip."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(R. C. Theol.)"
+          ],
+          "defs": [
+            "Allowed; permitted."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

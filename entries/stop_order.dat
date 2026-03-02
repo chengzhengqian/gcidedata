@@ -1,0 +1,23 @@
+SIMPLE: stop_order
+RECORDS: 1
+
+==== ENTRY 1 ====
+HEADWORD: Stop order
+<hw>Stop order</hw>. <fld>(Finance)</fld> <def>An order in a financial
+market that aims to limit losses by fixing a figure at which purchases
+shall be sold or sales bought in, as where stock is bought at 100 and
+the broker is directed to sell if the market price drops to 98.</def>
+<note>For a simple <ex>stop order</ex>, when the specified price has
+been reached by a traded security, the order becomes a market order to
+buy or sell at the market price. Thus in the given example, the stock
+bought at 100 might in fact be sold at 97 if the market is dropping
+rapidly. A <contr>stop-limit order</contr> is allowed by some exchanges
+and traders, in which case, when the specified price has been reached by
+a traded security, the order becomes a <contr>limit order</contr> to buy
+or sell, with the possibility that the ordered transaction may not take
+place.</note>⟦br⟧
+[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+
+<p><ent>Stop-over</ent>⟦br⟧
+<ent>Stopover</ent>⟦br⟧
+<mhw>

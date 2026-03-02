@@ -1,0 +1,51 @@
+{
+  "key": "stimulus",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Stimulus",
+      "headword_raw": "Stim\"u*lus",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "v. t."
+      ],
+      "ety": "[L., for stigmulus, akin to L. instigare to stimulate. See Instigare, Stick, v. t.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A goad; hence, something that rouses the mind or spirits; an incentive; as, the hope of gain is a powerful stimulus to labor and action."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Physiol.)"
+          ],
+          "defs": [
+            "That which excites or produces a temporary increase of vital action, either in the whole organism or in any of its parts; especially (Physiol.), any substance or agent capable of evoking the activity of a nerve or irritable muscle, or capable of producing an impression upon a sensory organ or more particularly upon its specific end organ."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Of the stimuli applied to the sensory apparatus, physiologists distinguish two kinds: (a) Homologous stimuli, which act only upon the end organ, and for whose action the sense organs are especially adapted, as the rods and cones of the retina for the vibrations of the either. (b) Heterologous stimuli, which are mechanical, chemical, electrical, etc., and act upon the nervous elements of the sensory apparatus along their entire course, producing, for example, the flash of light beheld when the eye is struck."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

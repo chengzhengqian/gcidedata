@@ -1,0 +1,95 @@
+{
+  "key": "stile",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Stile",
+      "headword_raw": "Stile",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[See Style.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A pin set on the face of a dial, to cast a shadow; a style. See Style."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Mode of composition. See Style."
+          ],
+          "quotes": [
+            "May I not write in such a stile as this?"
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Stile",
+      "headword_raw": "Stile",
+      "pr": null,
+      "pos": [
+        "n.",
+        "v. i."
+      ],
+      "ety": "[OE. stile, AS. stigel a step, a ladder, from stīgan to ascend; akin to OHG. stigila a stile. √164. See Sty, v. i., and cf. Stair.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A step, or set of steps, for ascending and descending, in passing a fence or wall."
+          ],
+          "quotes": [
+            "There comes my master . . . over the stile, this way.",
+            "Over this stile in the way to Doubting Castle."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Arch.)"
+          ],
+          "defs": [
+            "One of the upright pieces in a frame; one of the primary members of a frame, into which the secondary members are mortised."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ In an ordinary door the principal upright pieces are called stiles, the subordinate upright pieces mullions, and the crosspieces rails. In wainscoting the principal pieces are sometimes called stiles, even when horizontal."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

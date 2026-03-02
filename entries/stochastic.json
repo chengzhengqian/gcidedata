@@ -1,0 +1,73 @@
+{
+  "key": "stochastic",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Stochastic",
+      "headword_raw": "Sto*chas\"tic",
+      "pr": "(st*ks\"tk)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[Gr. stochastiko`s, from stocha`zesqai to aim, to guess, fr. sto`chos mark or aim.]",
+      "sources": [
+        "1913 Webster",
+        "GG",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "stochastically",
+          "form_raw": "sto*chas\"tic*al*ly",
+          "key": "stochastically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Conjectural; able to conjecture."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "random; chance; involving probability; opposite of deterministic."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Statistics)"
+          ],
+          "defs": [
+            "of or pertaining to a process in which a series of calculations, selections, or observations are made, each one being randomly determined as a sample from a probability distribution."
+          ],
+          "quotes": [],
+          "notes": [
+            "Where physical phenomena are modelled as a stochastic process, each subsequent calculation of a series may depend on the result of the previous calculation, as in the modelling of the process of diffusion of molecules. Many series may be calculated, and the results averaged, to estimate the most likely result. See also Markov chain."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

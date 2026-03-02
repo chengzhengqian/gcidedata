@@ -1,0 +1,101 @@
+{
+  "key": "strake",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Strake",
+      "headword_raw": "Strake",
+      "pr": "(?)",
+      "pos": [
+        "imp."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "imp. of Strike."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Strake",
+      "headword_raw": "Strake",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[See Streak.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A streak."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "An iron band by which the fellies of a wheel are secured to each other, being not continuous, as the tire is, but made up of separate pieces."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Shipbuilding)"
+          ],
+          "defs": [
+            "One breadth of planks or plates forming a continuous range on the bottom or sides of a vessel, reaching from the stem to the stern; a streak."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The planks or plates next the keel are called the garboard strakes; the next, or the heavy strakes at the bilge, are the bilge strakes; the next, from the water line to the lower port sill, the wales; and the upper parts of the sides, the sheer strakes."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Mining)"
+          ],
+          "defs": [
+            "A trough for washing broken ore, gravel, or sand; a launder."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

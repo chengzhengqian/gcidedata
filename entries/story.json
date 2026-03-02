@@ -1,0 +1,128 @@
+{
+  "key": "story",
+  "source_file": "CIDE.S",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Story",
+      "headword_raw": "Sto\"ry",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "v. t."
+      ],
+      "ety": "[OF. estor, estore, built, erected, p. p. of estorer to build, restore, to store. See Store, v. t.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Arch.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A set of rooms on the same floor or level; a floor, or the space between two floors. Also, a horizontal division of a building's exterior considered architecturally, which need not correspond exactly with the stories within."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ A story comprehends the distance from one floor to another; as, a story of nine or ten feet elevation. The spaces between floors are numbered in order, from below upward; as, the lower, second, or third story; a house of one story, of two stories, of five stories."
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Story",
+      "headword_raw": "Sto\"ry",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. storie, OF. estoire, F. histoire, fr. L. historia. See History.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A narration or recital of that which has occurred; a description of past events; a history; a statement; a record."
+          ],
+          "quotes": [
+            "One malcontent who did indeed get a name in story.",
+            "Venice, with its unique city and its Impressive story.",
+            "The four great monarchies make the subject of ancient story."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The relation of an incident or minor event; a short narrative; a tale; especially, a fictitious narrative less elaborate than a novel; a short romance."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A euphemism or child's word for “a lie;” a fib; as, to tell a story."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Story",
+      "headword_raw": "Sto\"ry",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Storied (?); p. pr. & vb. n. Storying.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To tell in historical relation; to make the subject of a story; to narrate or describe in story."
+          ],
+          "quotes": [
+            "How worthy he is I will leave to appear hereafter, rather than story him in his own hearing.",
+            "It is storied of the brazen colossus in Rhodes, that it was seventy cubits high."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

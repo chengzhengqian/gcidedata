@@ -1,0 +1,50 @@
+{
+  "key": "stockwork",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Stockwork",
+      "headword_raw": "Stock\"work`",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[G. stockwerk.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Mining)"
+          ],
+          "defs": [
+            "A system of working in ore, etc., when it lies not in strata or veins, but in solid masses, so as to be worked in chambers or stories."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Geol.)"
+          ],
+          "defs": [
+            "A metalliferous deposit characterized by the impregnation of the mass of rock with many small veins or nests irregularly grouped. This kind of deposit is especially common with tin ore. Such deposits are worked in floors or stories."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

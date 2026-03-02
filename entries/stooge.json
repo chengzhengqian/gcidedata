@@ -1,0 +1,107 @@
+{
+  "key": "stooge",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Stooge",
+      "headword_raw": "Stooge",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 3.0"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A person of unquestioning obedience."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "flunky",
+            "flunkey",
+            "yes-man"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A victim of ridicule or prank."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "butt",
+            "goat",
+            "laughingstock"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Stooge",
+      "headword_raw": "Stooge",
+      "pr": null,
+      "pos": [
+        "v."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 3.0"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Cruise in slow or routine flights."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Act as the stooge; \"His role was to stooge for the popular comedian.\""
+          ],
+          "quotes": [
+            "\"His role was to stooge for the popular comedian.\""
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Act as a stooge, in a compliant or subordinate manner; \"He stooged for the flamboyant Senator.\""
+          ],
+          "quotes": [
+            "\"He stooged for the flamboyant Senator.\""
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

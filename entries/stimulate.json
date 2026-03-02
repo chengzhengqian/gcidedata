@@ -1,0 +1,62 @@
+{
+  "key": "stimulate",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Stimulate",
+      "headword_raw": "Stim\"u*late",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. stimulatus, p. p. of stimulare to prick or goad on, to incite, fr. stimulus a goad. See Stimulus.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Stimulated (?); p. pr. & vb. n. Stimulating.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To excite as if with a goad; to excite, rouse, or animate, to action or more vigorous exertion by some pungent motive or by persuasion; as, to stimulate one by the hope of reward, or by the prospect of glory."
+          ],
+          "quotes": [
+            "To excite and stimulate us thereunto."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Physiol.)"
+          ],
+          "defs": [
+            "To excite; to irritate; especially, to excite the activity of (a nerve or an irritable muscle), as by electricity."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "animate",
+            "incite",
+            "encourage",
+            "impel",
+            "urge",
+            "instigate",
+            "irritate",
+            "exasperate",
+            "incense"
+          ]
+        }
+      ]
+    }
+  ]
+}

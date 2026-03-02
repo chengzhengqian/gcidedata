@@ -1,0 +1,48 @@
+{
+  "key": "stimulation",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Stimulation",
+      "headword_raw": "Stim`u*la\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. stimulatio: cf. F. stimulation.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of stimulating, or the state of being stimulated."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Physiol.)"
+          ],
+          "defs": [
+            "The irritating action of various agents (stimuli) on muscles, nerves, or a sensory end organ, by which activity is evoked; especially, the nervous impulse produced by various agents on nerves, or a sensory end organ, by which the part connected with the nerve is thrown into a state of activity; irritation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

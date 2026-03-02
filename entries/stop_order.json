@@ -1,0 +1,39 @@
+{
+  "key": "stop_order",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Stop order",
+      "headword_raw": "Stop order",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl.",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Finance)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An order in a financial market that aims to limit losses by fixing a figure at which purchases shall be sold or sales bought in, as where stock is bought at 100 and the broker is directed to sell if the market price drops to 98."
+          ],
+          "quotes": [],
+          "notes": [
+            "For a simple stop order, when the specified price has been reached by a traded security, the order becomes a market order to buy or sell at the market price. Thus in the given example, the stock bought at 100 might in fact be sold at 97 if the market is dropping rapidly. A stop-limit order is allowed by some exchanges and traders, in which case, when the specified price has been reached by a traded security, the order becomes a limit order to buy or sell, with the possibility that the ordered transaction may not take place."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "key": "straightforward",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Straightforward",
+      "headword_raw": "Straight`for\"ward",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Straightforwardly",
+          "form_raw": "Straight`for\"ward*ly",
+          "key": "straightforwardly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Straightforwardness",
+          "form_raw": "Straight`for\"ward*ness",
+          "key": "straightforwardness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Proceeding in a straight course or manner; not deviating; honest; frank.",
+            "In a straightforward manner."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

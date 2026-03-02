@@ -1,0 +1,55 @@
+{
+  "key": "still-hunt",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Still-hunt",
+      "headword_raw": "Still\"-hunt`",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Still-hunter",
+          "form_raw": "Still\"-hunt`er",
+          "key": "still-hunter",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Still-hunting",
+          "form_raw": "Still\"-hunt`ing",
+          "key": "still-hunting",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A hunting for game in a quiet and cautious manner, or under cover; stalking; hence, colloquially, the pursuit of any object quietly and cautiously."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

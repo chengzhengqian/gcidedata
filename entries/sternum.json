@@ -1,0 +1,52 @@
+{
+  "key": "sternum",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Sternum",
+      "headword_raw": "Ster\"num",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[NL., from Gr. <?/, the breast, chest.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Anat.)"
+          ],
+          "defs": [
+            "A plate of cartilage, or a series of bony or cartilaginous plates or segments, in the median line of the pectoral skeleton of most vertebrates above fishes; the breastbone."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The sternum is connected with the ribs or the pectorial girdle, or with both. In man it is a flat bone, broad anteriorly, narrowed behind, and connected with the clavicles and the cartilages of the seven anterior pairs of ribs. In most birds it has a high median keel for the attachment of the muscles of the wings."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "The ventral part of any one of the somites of an arthropod."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

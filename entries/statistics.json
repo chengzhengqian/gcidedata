@@ -1,0 +1,67 @@
+{
+  "key": "statistics",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Statistics",
+      "headword_raw": "Sta*tis\"tics",
+      "pr": "(st*ts\"tks)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. statistique, G. statistik. See State, n.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The science which has to do with the collection, classification, and analysis of facts of a numerical nature regarding any topic.",
+            "The science dealing with collection, tabulation, and analysis of facts respecting the condition of the people in a state."
+          ],
+          "quotes": [],
+          "notes": [
+            "[In this sense grammatically singular.]"
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Sport)"
+          ],
+          "defs": [
+            "Classified facts of a numerical nature regarding any topic.",
+            "Numerical facts respecting the condition of the people in a state, their health, their longevity, domestic economy, arts, property, and political strength, their resources, the state of the country, etc., or respecting any particular class or interest; especially, those facts which can be stated in numbers, or in tables of numbers, or in any tabular and classified arrangement.",
+            "Numerical facts regarding the performance of athletes or athletic teams, such as winning percentages, numbers of games won or lost in a season, batting averages (for baseball players), total yards gained (for football players). The creation and classification of such numbers is limited only by the imagination of those wishing to describe athletic performance numerically."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "stats"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "The branch of mathematics which studies methods for the calculation of probabilities."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

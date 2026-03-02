@@ -1,0 +1,74 @@
+{
+  "key": "sterilize",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Sterilize",
+      "headword_raw": "Ster\"il*ize",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[Cf. F. striliser.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC",
+        "PJC"
+      ],
+      "morph": "[imp. & p. p. Sterilized (?); p. pr. & vb. n. Sterilizing (?).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To make sterile or unproductive; to impoverish, as land; to exhaust of fertility."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Biol.)"
+          ],
+          "defs": [
+            "To deprive of the power of reproducing; to render incapable of germination or fecundation; to make sterile."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Microbiology, Medicine)"
+          ],
+          "defs": [
+            "To destroy all spores or germs in (an organic fluid or mixture) or on (a medical instrument), as by heat, so as to prevent contamination by bacteria or other organisms. A common method of sterilization in laboratories and medical facilities is to heat a liquid sample or an instrument in an autoclave."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "To destroy all spores or germs on (a surface) by wetting with an antiseptic liquid, such as an alcoholic solution."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

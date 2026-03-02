@@ -1,0 +1,133 @@
+{
+  "key": "steady",
+  "source_file": "CIDE.S",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Steady",
+      "headword_raw": "Stead\"y",
+      "pr": "(-)",
+      "pos": [
+        "a.",
+        "Compar.",
+        "superl.",
+        "n."
+      ],
+      "ety": "[Cf. AS. stedig sterile, barren, staeððig, steady (in gestaeððig), D. stedig, stadig, steeg, G. stätig, stetig. See Stead, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Firm in standing or position; not tottering or shaking; fixed; firm."
+          ],
+          "quotes": [
+            "Their feet steady, their hands diligent, their eyes watchful, and their hearts resolute."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Constant in feeling, purpose, or pursuit; not fickle, changeable, or wavering; not easily moved or persuaded to alter a purpose; resolute; as, a man steady in his principles, in his purpose, or in the pursuit of an object."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Mach)"
+          ],
+          "defs": [
+            "Regular; constant; undeviating; uniform; as, the steady course of the sun; a steady breeze of wind."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Fixed",
+            "regular",
+            "uniform",
+            "undeviating",
+            "invariable",
+            "unremitted",
+            "stable"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Steady",
+      "headword_raw": "Stead\"y",
+      "pr": "(-d)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Steadied (-d); p. pr. & vb. n. Steadying.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To make steady; to hold or keep from shaking, reeling, or falling; to make or keep firm; to support; to make constant, regular, or resolute."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Steady",
+      "headword_raw": "Stead\"y",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To become steady; to regain a steady position or state; to move steadily."
+          ],
+          "quotes": [
+            "Without a breeze, without a tide, She steadies with upright keel."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

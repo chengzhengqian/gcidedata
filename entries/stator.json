@@ -1,0 +1,42 @@
+{
+  "key": "stator",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "stator",
+      "headword_raw": "sta\"tor",
+      "pr": "(stā\"tr; stt\"r)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Mach.)",
+        "(Elec.)",
+        "(Steam Turbine)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A stationary part in or about which another part (the rotor) revolves, esp. when both are large;",
+            "The stationary member of an electrical machine, as of an induction motor.",
+            "The case inclosing a turbine wheel; the body of stationary blades or nozzles."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

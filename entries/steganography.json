@@ -1,0 +1,47 @@
+{
+  "key": "steganography",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Steganography",
+      "headword_raw": "Steg`a*nog\"ra*phy",
+      "pr": "(stg`*ng\"r*f)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. stegano`s covered (fr. ste`gein to cover closely) + -graphy.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The art of writing in cipher, or in characters which are not intelligible except to persons who have the key; cryptography."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The branch of cryptography in which messages are hidden inside other messages; -- used commonly for the process of hiding messages inside a computerized image file, as for example hiding the name and copyright notice of the owner of an image as protection against violation of the copyright."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "key": "stet",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Stet",
+      "headword_raw": "Stet",
+      "pr": "(stt)",
+      "pos": [
+        "subj. 3d pers. sing."
+      ],
+      "ety": "L., subj. 3d pers. sing. of stare to stand, remain.",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Print.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Let it stand; -- a word used by proof readers to signify that something once erased, or marked for omission, is to remain."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Stet",
+      "headword_raw": "Stet",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Stetted (?); p. pr. & vb. n. Stetting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Print.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To cause or direct to remain after having been marked for omission; to mark with the word stet, or with a series of dots below or beside the matter; as, the proof reader stetted a deled footnote."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "key": "statute",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Statute",
+      "headword_raw": "Stat\"ute",
+      "pr": "(-t)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[F. statut, LL. statutum, from L. statutus, p. p. of statuere to set, station, ordain, fr. status position, station, fr. stare, statum, to stand. See Stand, and cf. Constitute, Destitute.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "An act of the legislature of a state or country, declaring, commanding, or prohibiting something; a positive law; the written will of the legislature expressed with all the requisite forms of legislation; -- used in distinction from common law. See Common law, under Common, a."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Statute is commonly applied to the acts of a legislative body consisting of representatives. In monarchies, the laws of the sovereign are called edicts, decrees, ordinances, rescripts, etc. In works on international law and in the Roman law, the term is used as embracing all laws imposed by competent authority. Statutes in this sense are divided into statutes real, statutes personal, and statutes mixed; statutes real applying to immovables; statutes personal to movables; and statutes mixed to both classes of property."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "An act of a corporation or of its founder, intended as a permanent rule or law; as, the statutes of a university."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Eng. Law)",
+            "(Law)"
+          ],
+          "defs": [
+            "An assemblage of farming servants (held possibly by statute) for the purpose of being hired; -- called also statute fair."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Act",
+            "regulation",
+            "edict",
+            "decree. See Law"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "key": "stethoscope",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Stethoscope",
+      "headword_raw": "Steth\"o*scope",
+      "pr": "(stth\"*skōp)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. sth^qos the breast + -scope: cf. F. stthoscope.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An instrument used in auscultation for examining the organs of the chest, as the heart and lungs, by conveying to the ear of the examiner the sounds produced in the thorax."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Stethoscope",
+      "headword_raw": "Steth\"o*scope",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To auscultate, or examine, with a stethoscope."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "key": "sthetical",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Æsthetical",
+      "headword_raw": "<AE/s*thet\"ic*al",
+      "pr": "(<?/)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Æsthetically",
+          "form_raw": "<AE/s*thet\"ic*al*ly",
+          "key": "sthetically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of or Pertaining to æsthetics; versed in æsthetics; as, æsthetic studies, emotions, ideas, persons, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

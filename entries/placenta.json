@@ -1,0 +1,52 @@
+{
+  "key": "placenta",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Placenta",
+      "headword_raw": "Pla*cen\"ta",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L., a cake, Gr. <?/ a flat cake, from <?/ flat, fr. <?/, <?/, anything flat and broad.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Anat.)"
+          ],
+          "defs": [
+            "The vascular appendage which connects the fetus with the parent, and is cast off in parturition with the afterbirth."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ In most mammals the placenta is principally developed from the allantois and chorion, and tufts of vascular villi on its surface penetrate the blood vessels of the parental uterus, and thus establish a nutritive and excretory connection between the blood of the fetus and that of the parent, though the blood itself does not flow from one to the other."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Bot.)"
+          ],
+          "defs": [
+            "The part of a pistil or fruit to which the ovules or seeds are attached."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

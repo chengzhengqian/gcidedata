@@ -1,0 +1,51 @@
+{
+  "key": "pisces",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Pisces",
+      "headword_raw": "Pis\"ces",
+      "pr": "(?)",
+      "pos": [
+        "n. pl."
+      ],
+      "ety": "[L. piscis a fish.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Astron.)"
+          ],
+          "defs": [
+            "The twelfth sign of the zodiac, marked in almanacs.",
+            "A zodiacal constellation, including the first point of Aries, which is the vernal equinoctial point; the Fish."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "The class of Vertebrata that includes the fishes. The principal divisions are Elasmobranchii, Ganoidei, and Teleostei."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

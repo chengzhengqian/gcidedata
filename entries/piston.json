@@ -1,0 +1,40 @@
+{
+  "key": "piston",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Piston",
+      "headword_raw": "Pis\"ton",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. piston; cf. It. pistone piston, also pestone a large pestle; all fr. L. pinsere, pistum, to pound, to stamp. See Pestle, Pistil.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Mach.)",
+        "(Steam Eng.)",
+        "(Steam Eng.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A sliding piece which either is moved by, or moves against, fluid pressure. It usually consists of a short cylinder fitting within a cylindrical vessel along which it moves, back and forth. It is used in steam engines to receive motion from the steam, and in pumps to transmit motion to a fluid; also for other purposes."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

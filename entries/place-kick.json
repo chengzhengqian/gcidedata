@@ -1,0 +1,47 @@
+{
+  "key": "place-kick",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Place-kick",
+      "headword_raw": "Place\"-kick`",
+      "pr": null,
+      "pos": [
+        "v. t. & i.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Place-kicker",
+          "form_raw": "Place\"-kick`er",
+          "key": "place-kicker",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To make a place kick; to make (a goal) by a place kick."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "key": "pintle",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Pintle",
+      "headword_raw": "Pin\"tle",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[A diminutive of Pin.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A little pin."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mech.)"
+          ],
+          "defs": [
+            "An upright pivot pin",
+            "The pivot pin of a hinge.",
+            "A hook or pin on which a rudder hangs and turns.",
+            "A pivot about which the chassis swings, in some kinds of gun carriages.",
+            "A kingbolt of a wagon."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

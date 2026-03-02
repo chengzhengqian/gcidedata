@@ -1,0 +1,56 @@
+{
+  "key": "pilpul",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Pilpul",
+      "headword_raw": "Pil\"pul",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Aramaic pilpūl; cf. Heb. pilpel to spice, to season, dispute violently.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Pilpulist",
+          "form_raw": "Pil\"pul*ist",
+          "key": "pilpulist",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Pilpulistic",
+          "form_raw": "Pil`pul*is\"tic",
+          "key": "pilpulistic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Among the Jews, penetrating investigation, disputation, and drawing of conclusions, esp. in Talmudic study."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

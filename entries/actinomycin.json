@@ -1,0 +1,40 @@
+{
+  "key": "actinomycin",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "actinomycin",
+      "headword_raw": "actinomycin",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[From actinomyces, the genus of the organism in which they were first found.]",
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "any of various red antibiotics isolated from soil bacteria with a three-ring heterocyclic nucleus with an attached peptide chain."
+          ],
+          "quotes": [],
+          "notes": [
+            "Actinomycin D is the most well-known and has been used to treat certain tumors. They act by binding to DNA and inhibiting the transcription of RNA. Their binding to DNA has been much studied."
+          ],
+          "synonyms": [
+            "actinomycin"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "key": "actinomycin_d",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "actinomycin D",
+      "headword_raw": "actinomycin D",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[From actinomyces, the genus of the organism in which they were first found.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "dactinomycin",
+        "actinomycin IV",
+        "Cosmegen[trade name]",
+        "actinomycin C1",
+        "actinomycin I1"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The most well-known of the actinomycins (C62H86N12O16), a class of antibiotics which act by binding to DNA and inhibiting synthesis of RNA; they act against gram-positive bacteria and many eukaryotic organisma. Actinomycin D has been used in human medicine to treat certain tumors."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

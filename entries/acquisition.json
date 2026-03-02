@@ -1,0 +1,66 @@
+{
+  "key": "acquisition",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Acquisition",
+      "headword_raw": "Ac`qui*si\"tion",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. acquisitio, fr. acquirere: cf. F. acquisition. See Acquire.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act or process of acquiring."
+          ],
+          "quotes": [
+            "The acquisition or loss of a province."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Business, Finance)"
+          ],
+          "defs": [
+            "The purchase of one commercial enterprise by another, whether for cash, or in a trade of stock of the purchasing company for that of the purchased company."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "buyout",
+            "takeover"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "The thing acquired or gained; an acquirement; a gain; as, learning is an acquisition."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "See Acquirement"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "key": "addressograph",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Addressograph",
+      "headword_raw": "Addressograph",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a printer that automatically prints addresses on letters for mailing."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "addressing machine"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "key": "ack-ack",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "ack-ack",
+      "headword_raw": "ack-ack",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[from AA, meaning antiaircraft pronounced ack-ack by British signalmen.]",
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "antiaircraft",
+        "antiaircraft gun",
+        "flak",
+        "pompom",
+        "pom-pom",
+        "ack-ack gun"
+      ],
+      "entry_fields": [
+        "(Mil.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Artillery designed to shoot upward at airplanes; antiaircraft artillery."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

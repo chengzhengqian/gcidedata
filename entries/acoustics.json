@@ -1,0 +1,42 @@
+{
+  "key": "acoustics",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Acoustics",
+      "headword_raw": "A*cous\"tics",
+      "pr": "(#; 277)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Names of sciences in -ics, as, acoustics, mathematics, etc., are usually treated as singular. See -ics.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physics.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The science of sounds, teaching their nature, phenomena, and laws."
+          ],
+          "quotes": [
+            "Acoustics, then, or the science of sound, is a very considerable branch of physics."
+          ],
+          "notes": [
+            "☞ The science is, by some writers, divided, into diacoustics, which explains the properties of sounds coming directly from the ear; and catacoustica, which treats of reflected sounds or echoes."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

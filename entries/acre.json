@@ -1,0 +1,50 @@
+{
+  "key": "acre",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Acre",
+      "headword_raw": "A\"cre",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. aker, AS. æcer; akin to OS. accar, OHG. achar, Ger. acker, Icel. akr, Sw. ker, Dan. ager, Goth. akrs, L. ager, Gr. <?/, Skr. ajra. √2, 206.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Any field of arable or pasture land."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A piece of land, containing 160 square rods, or 4,840 square yards, or 43,560 square feet. This is the English statute acre. That of the United States is the same. The Scotch acre was about 1.26 of the English, and the Irish 1.62 of the English."
+          ],
+          "quotes": [
+            "I like that ancient Saxon phrase, which calls The burial ground, God's acre."
+          ],
+          "notes": [
+            "☞ The acre was limited to its present definite quantity by statutes of Edward I., Edward III., and Henry VIII."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

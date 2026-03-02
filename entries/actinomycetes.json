@@ -1,0 +1,38 @@
+{
+  "key": "actinomycetes",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "actinomycetes",
+      "headword_raw": "actinomycetes",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "branched gram-positive bacteria, often found in soil, some of which are pathogenic for humans and animals."
+          ],
+          "quotes": [],
+          "notes": [
+            "some species have been found to produce metabolites which are useful in medicine. Many species of these bacteria have been isolated and extensively screened by pharmaceutical companies and university research groups for production of useful therapeutic agents. Among the agent produced by actinomycetes are tetracyclines, streptomycin, avermectin, and thienamycin"
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

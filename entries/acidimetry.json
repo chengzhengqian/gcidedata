@@ -1,0 +1,49 @@
+{
+  "key": "acidimetry",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Acidimetry",
+      "headword_raw": "Ac`id*im\"e*try",
+      "pr": "(<?/)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[L. acidus acid + -metry.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Acidimetrical",
+          "form_raw": "Ac`id*i*met\"ric*al",
+          "key": "acidimetrical",
+          "pos": [
+            "a."
+          ],
+          "pr": "(<?/)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The measurement of the strength of acids, especially by a chemical process based on the law of chemical combinations, or the fact that, to produce a complete reaction, a certain definite weight of reagent is required."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "key": "acquittance",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Acquittance",
+      "headword_raw": "Ac*quit\"tance",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OF. aquitance, fr. aquiter. See Acquit.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The clearing off of debt or obligation; a release or discharge from debt or other liability."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A writing which is evidence of a discharge; a receipt in full, which bars a further demand."
+          ],
+          "quotes": [
+            "You can produce acquittances For such a sum, from special officers."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Acquittance",
+      "headword_raw": "Ac*quit\"tance",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To acquit."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

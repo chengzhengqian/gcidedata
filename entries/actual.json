@@ -1,0 +1,99 @@
+{
+  "key": "actual",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Actual",
+      "headword_raw": "Ac\"tu*al",
+      "pr": "(#; 135)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[OE. actuel, F. actuel, L. actualis, fr. agere to do, act.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Involving or comprising action; active."
+          ],
+          "quotes": [
+            "Her walking and other actual performances.",
+            "Let your holy and pious intention be actual; that is . . . by a special prayer or action, . . . given to God."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Existing in act or reality; really acted or acting; in fact; real; -- opposed to potential, possible, virtual, speculative, conceivable, theoretical, or nominal; as, the actual cost of goods; the actual case under discussion."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Theol.)"
+          ],
+          "defs": [
+            "In action at the time being; now exiting; present; as the actual situation of the country."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Real",
+            "genuine",
+            "positive",
+            "certain. See Real"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Actual",
+      "headword_raw": "Ac\"tu*al",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Finance)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Something actually received; real, as distinct from estimated, receipts."
+          ],
+          "quotes": [
+            "The accounts of revenues supplied . . . were not real receipts: not, in financial language, “actuals,” but only Egyptian budget estimates."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "key": "acrania",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Acrania",
+      "headword_raw": "A*cra\"ni*a",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[NL., from Gr. 'a priv. + <?/ skull.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Physiol.)"
+          ],
+          "defs": [
+            "Partial or total absence of the skull."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "The lowest group of Vertebrata, including the amphioxus, in which no skull exists."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

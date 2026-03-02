@@ -1,0 +1,52 @@
+{
+  "key": "activation",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "activation",
+      "headword_raw": "activation",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "the process of making active."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "energizing",
+            "activating"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "making active and effective (as a bomb)."
+          ],
+          "quotes": [],
+          "notes": [
+            "certain devices, as bombs or artillery shells, are designed to be unable to operate until a specific action (activation or arming) is taken to make them operable."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

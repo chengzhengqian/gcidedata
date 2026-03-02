@@ -1,0 +1,79 @@
+{
+  "key": "activated",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "activated",
+      "headword_raw": "activated",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Sewage treatment)"
+          ],
+          "defs": [
+            "treated with aeration and bacteria to aid decomposition; -- of sewage"
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Physics)"
+          ],
+          "defs": [
+            "made reactive or more reactive; -- of e.g. a molecule"
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "activated",
+            "excited"
+          ]
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "rendered active; -- as e.g. radioactive or luminescent or photosensitive or conductive"
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "activated"
+          ]
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Military)"
+          ],
+          "defs": [
+            "set up and placed on active assignment"
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "activated"
+          ]
+        }
+      ]
+    }
+  ]
+}

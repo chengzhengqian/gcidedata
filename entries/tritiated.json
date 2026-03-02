@@ -1,0 +1,40 @@
+{
+  "key": "tritiated",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Tritiated",
+      "headword_raw": "Trit\"i*at*ed",
+      "pr": "(trt\"*āt*d)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "containing tritium; -- of chemical compounds; as, tritiated thymine."
+          ],
+          "quotes": [],
+          "notes": [
+            "Compounds which are tritiated are, as a consequence, radioactive, and may be used as tracers in biochemical or chemical analysis."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

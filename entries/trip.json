@@ -1,0 +1,280 @@
+{
+  "key": "trip",
+  "source_file": "CIDE.T",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Trip",
+      "headword_raw": "Trip",
+      "pr": "(trp)",
+      "pos": [
+        "v. i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OE. trippen; akin to D. trippen, Dan. trippe, and E. tramp. See Tramp.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Tripped (trpt); p. pr. & vb. n. Tripping.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To move with light, quick steps; to walk or move lightly; to skip; to move the feet nimbly; -- sometimes followed by it. See It, 5."
+          ],
+          "quotes": [
+            "This horse anon began to trip and dance.",
+            "Come, and trip it, as you go, On the light fantastic toe.",
+            "She bounded by, and tripped so light They had not time to take a steady sight."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To make a brief journey or pleasure excursion; as, to trip to Europe."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To take a quick step, as when in danger of losing one's balance; hence, to make a false step; to catch the foot; to lose footing; to stumble."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Fig.: To be guilty of a misstep; to commit an offense against morality, propriety, or rule; to err; to mistake; to fail."
+          ],
+          "quotes": [
+            "A blind will thereupon comes to be led by a blind understanding; there is no remedy, but it must trip and stumble.",
+            "Virgil is so exact in every word that none can be changed but for a worse; he pretends sometimes to trip, but it is to make you think him in danger when most secure.",
+            "What? dost thou verily trip upon a word?"
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Trip",
+      "headword_raw": "Trip",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To cause to stumble, or take a false step; to cause to lose the footing, by striking the feet from under; to cause to fall; to throw off the balance; to supplant; -- often followed by up; as, to trip up a man in wrestling."
+          ],
+          "quotes": [
+            "The words of Hobbes's defense trip up the heels of his cause."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To overthrow by depriving of support; to put an obstacle in the way of; to obstruct; to cause to fail."
+          ],
+          "quotes": [
+            "To trip the course of law, and blunt the sword."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To detect in a misstep; to catch; to convict; also called trip up."
+          ],
+          "quotes": [
+            "These her women can trip me if I err."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Naut.)"
+          ],
+          "defs": [
+            "To raise (an anchor) from the bottom, by its cable or buoy rope, so that it hangs free.",
+            "To pull (a yard) into a perpendicular position for lowering it."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Mach.)"
+          ],
+          "defs": [
+            "To release, let fall, or set free, as a weight or compressed spring, as by removing a latch or detent; to activate by moving a release mechanism, often unintentionally; as, to trip an alarm."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Trip",
+      "headword_raw": "Trip",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A quick, light step; a lively movement of the feet; a skip."
+          ],
+          "quotes": [
+            "His heart bounded as he sometimes could hear the trip of a light female step glide to or from the door."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A brief or rapid journey; an excursion or jaunt."
+          ],
+          "quotes": [
+            "I took a trip to London on the death of the queen."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A false step; a stumble; a misstep; a loss of footing or balance. Fig.: An error; a failure; a mistake."
+          ],
+          "quotes": [
+            "Imperfect words, with childish trips.",
+            "Each seeming trip, and each digressive start."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "A small piece; a morsel; a bit."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "A stroke, or catch, by which a wrestler causes his antagonist to lose footing."
+          ],
+          "quotes": [
+            "And watches with a trip his foe to foil.",
+            "It is the sudden trip in wrestling that fetches a man to the ground."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [
+            "(Naut.)"
+          ],
+          "defs": [
+            "A single board, or tack, in plying, or beating, to windward."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "7.",
+          "fields": [],
+          "defs": [
+            "A herd or flock, as of sheep, goats, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "8.",
+          "fields": [],
+          "defs": [
+            "A troop of men; a host."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "9.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "A flock of widgeons."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

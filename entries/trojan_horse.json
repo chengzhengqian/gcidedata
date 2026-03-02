@@ -1,0 +1,61 @@
+{
+  "key": "trojan_horse",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Trojan horse",
+      "headword_raw": "Tro\"jan horse`",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[from the incident described in Homer's Iliad.]",
+      "sources": [
+        "RP",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Classical mythology)"
+          ],
+          "defs": [
+            "a large hollow wooden horse built by Greek soldiers besieging Troy during the Trojan War, and left as a “gift” when they pretended to abandon their seige. It was taken into the city by the Trojans, and Greek soldiers concealed inside came out and opened the gates to the city, enabling the capture of the city by the Greeks."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Hence, any thing or person which appears harmless but is designed to destroy or attack from within. It may sometimes refer to a group; -- see also fifth column."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "A computer program designed to evade the security precautions within a computer system and perform illicit operations, or to do malicious damage, and often designed to look like a different kind of program, such as a game, archiver, or directory lister. This term is not applied to a program that replicates itself, such as a virus."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "key": "troublesome",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Troublesome",
+      "headword_raw": "Trou\"ble*some",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Troublesomely",
+          "form_raw": "Trou\"ble*some*ly",
+          "key": "troublesomely",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Troublesomeness",
+          "form_raw": "Trou\"ble*some*ness",
+          "key": "troublesomeness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Uneasy",
+        "vexatious",
+        "perplexing",
+        "harassing",
+        "annoying",
+        "disgusting",
+        "irksome",
+        "afflictive",
+        "burdensome",
+        "tiresome",
+        "wearisome",
+        "importunate"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Giving trouble or anxiety; vexatious; burdensome; wearisome."
+          ],
+          "quotes": [
+            "This troublesome world.",
+            "These troublesome disguises that we wear.",
+            "My mother will never be troublesome to me."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

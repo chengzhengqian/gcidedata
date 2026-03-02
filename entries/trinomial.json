@@ -1,0 +1,82 @@
+{
+  "key": "trinomial",
+  "source_file": "CIDE.T",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Trinomial",
+      "headword_raw": "Tri*no\"mi*al",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Pref. tri- + -nomial as in binomial: cf. F. trinme.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Math.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A quantity consisting of three terms, connected by the sign + or -; as, x + y + z, or ax + 2b - c2."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Trinomial",
+      "headword_raw": "Tri*no\"mi*al",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "Consisting of three terms; of or pertaining to trinomials; as, a trinomial root."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Nat. Hist.)"
+          ],
+          "defs": [
+            "Consisting of, or involving the use of, three terms; as, a trinomial systematic name specifying the genus, species, and variety."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

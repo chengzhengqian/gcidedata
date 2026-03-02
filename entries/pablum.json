@@ -1,0 +1,63 @@
+{
+  "key": "pablum",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Pablum",
+      "headword_raw": "Pablum",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A form of cereal for infants."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A diet that does not require chewing."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "soft diet",
+            "pap",
+            "spoon food"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Worthless or oversimplified ideas."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "pap",
+            "pabulum{3}"
+          ]
+        }
+      ]
+    }
+  ]
+}

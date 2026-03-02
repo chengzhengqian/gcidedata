@@ -1,0 +1,59 @@
+{
+  "key": "pal_otype",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Palæotype",
+      "headword_raw": "Pa\"l<ae/*o*type",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a.",
+        "adv."
+      ],
+      "ety": "[Palæo- + -type.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Palæotypical",
+          "form_raw": "Pa`l<ae/*o*typ\"ic*al",
+          "key": "pal_otypical",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Palæotypically",
+          "form_raw": "Pa`l<ae/*o*typ\"ic*al*ly",
+          "key": "pal_otypically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Phon.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A system of representing all spoken sounds by means of the printing types in common use."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

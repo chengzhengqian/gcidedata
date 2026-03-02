@@ -1,0 +1,72 @@
+{
+  "key": "palpable",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Palpable",
+      "headword_raw": "Pal\"pa*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[F. palpable, L. palpabilis, fr. palpare to feel, stroke; cf. palpus the soft palm of the hand.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Palpableness",
+          "form_raw": "Pal\"pa*ble*ness",
+          "key": "palpableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Palpably",
+          "form_raw": "Pal\"pa*bly",
+          "key": "palpably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Capable of being touched and felt; perceptible by the touch; as, a palpable form."
+          ],
+          "quotes": [
+            "Darkness must overshadow all his bounds, Palpable darkness."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Easily perceptible; plain; distinct; obvious; readily perceived and detected; gross; as, palpable imposture; palpable absurdity; palpable errors."
+          ],
+          "quotes": [
+            "[Lies] gross as a mountain, open, palpable.",
+            "A hit, A very palpable hit."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

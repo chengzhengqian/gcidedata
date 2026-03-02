@@ -1,0 +1,48 @@
+{
+  "key": "packinghouse",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "packinghouse",
+      "headword_raw": "packinghouse",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A place where foodstuffs are processed and packed; as, they came from an apple packinghouse."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A plant where livestock are slaughtered and processed and packed as meat products."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "packing plant"
+          ]
+        }
+      ]
+    }
+  ]
+}

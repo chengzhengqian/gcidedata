@@ -1,0 +1,50 @@
+{
+  "key": "pal_tiology",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Palætiology",
+      "headword_raw": "Pa*l<ae/`ti*ol\"o*gy",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Palæo- + ætiology.]",
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Palætiological",
+          "form_raw": "Pa*l<ae/`ti*o*log\"ic*al",
+          "key": "pal_tiological",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [
+        "paletiology"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The science which explains, by the law of causation, the past condition and changes of the earth; the explanation of past events in terms of scientific causes, such as geological causes."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

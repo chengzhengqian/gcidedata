@@ -1,0 +1,51 @@
+{
+  "key": "pack_rat",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "pack rat",
+      "headword_raw": "pack rat",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Any of several bushy-tailed rodents of the genus Neotoma of western North America, especially Neotoma cinerea, which hoard food and other objects in their nests."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "trade rat",
+            "bushytail woodrat",
+            "Neotoma cinerea"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A person who habitually saves items, even those unlikely to be useful."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "key": "pacer",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "pacer",
+      "headword_raw": "pa\"cer",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A horse trained to a special gait in which both feet on one side leave the ground together; a horse that paces."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A horse used to set the pace in racing."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "pacemaker",
+            "pacesetter"
+          ]
+        }
+      ]
+    }
+  ]
+}

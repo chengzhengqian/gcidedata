@@ -1,0 +1,63 @@
+{
+  "key": "paired",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "paired",
+      "headword_raw": "paired",
+      "pr": "(prd)",
+      "pos": [
+        "adj.",
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Organized into compatible pairs; -- used of gloves, socks, etc. See pair{1}, v. t."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "mated"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Botany)"
+          ],
+          "defs": [
+            "Growing in pairs on either side of a stem; -- of leaves etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "opposite"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Mated sexually."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

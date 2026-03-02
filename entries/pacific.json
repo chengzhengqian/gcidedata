@@ -1,0 +1,93 @@
+{
+  "key": "pacific",
+  "source_file": "CIDE.P",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "pacific",
+      "headword_raw": "pa*cif\"ic",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. pacificus: cf. F. pacifique. See Pacify.]",
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "peaceable"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Promoting peace; suited to make or restore peace; conciliatory; as, pacific words or acts."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "irenic"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "of or pertaining to the Pacific Ocean; as, Pacific islands."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Peacemaking",
+            "appeasing",
+            "conciliatory",
+            "tranquil",
+            "calm",
+            "quiet",
+            "peaceful",
+            "reconciling",
+            "mild",
+            "gentle"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Pacific",
+      "headword_raw": "Pacific",
+      "pr": null,
+      "pos": [
+        "prop. n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "Pacific Ocean"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The Pacific Ocean, the largest ocean."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

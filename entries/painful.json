@@ -1,0 +1,90 @@
+{
+  "key": "painful",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Painful",
+      "headword_raw": "Pain\"ful",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Painfully",
+          "form_raw": "Pain\"ful*ly",
+          "key": "painfully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Painfulness",
+          "form_raw": "Pain\"ful*ness",
+          "key": "painfulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Full of pain; causing uneasiness or distress, either physical or mental; afflictive; disquieting; distressing."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Requiring labor or toil; difficult; executed with laborious effort; as a painful service; a painful march."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Painstaking; careful; industrious."
+          ],
+          "quotes": [
+            "A very painful person, and a great clerk.",
+            "Nor must the painful husbandman be tired."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Disquieting",
+            "troublesome",
+            "afflictive",
+            "distressing",
+            "grievous",
+            "laborious",
+            "toilsome",
+            "difficult",
+            "arduous"
+          ]
+        }
+      ]
+    }
+  ]
+}

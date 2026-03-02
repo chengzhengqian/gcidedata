@@ -1,0 +1,66 @@
+{
+  "key": "pacemaker",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "pacemaker",
+      "headword_raw": "pacemaker",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physiol. & Anat.)"
+      ],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a specialized bit of heart tissue that controls the heartbeat."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "cardiac pacemaker",
+            "sinoatrial node"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "An implanted electronic device that takes over the function of the natural cardiac pacemaker{1}; -- used to assist people whose heartbeat is irregular."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "artificial pacemaker"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A horse used to set the pace in racing."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "pacer",
+            "pacesetter"
+          ]
+        }
+      ]
+    }
+  ]
+}

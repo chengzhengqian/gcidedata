@@ -1,0 +1,48 @@
+{
+  "key": "mandatary",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Mandatary",
+      "headword_raw": "Man\"da*ta*ry",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. mandatarius, fr. mandatum a charge, commission, order: cf. F. mandataire. See Mandate.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One to whom a command or charge is given; hence, specifically, a person to whom the pope has, by his prerogative, given a mandate or order for his benefice."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "One who undertakes to discharge a specific business commission; a mandatory."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

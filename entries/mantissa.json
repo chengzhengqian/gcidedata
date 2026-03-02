@@ -1,0 +1,38 @@
+{
+  "key": "mantissa",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "mantissa",
+      "headword_raw": "man*tis*sa",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L., an addition, makeweight; of Tuscan origin.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Math.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The decimal part of a logarithm, as distinguished from the integral part, or characteristic."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

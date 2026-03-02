@@ -1,0 +1,41 @@
+{
+  "key": "mandibular_joint",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "mandibular joint",
+      "headword_raw": "mandibular joint",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "temporomandibular joint",
+        "articulatio temporomandibularis"
+      ],
+      "entry_fields": [
+        "(anatomy)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The joint between the head of the lower jawbone and the temporal bone."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "key": "manuscript",
+  "source_file": "CIDE.M",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Manuscript",
+      "headword_raw": "Man\"u*script",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. manu scriptus. See Manual, and Scribe.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Written with or by the hand; not printed; as, a manuscript volume."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Manuscript",
+      "headword_raw": "Man\"u*script",
+      "pr": null,
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[LL. manuscriptum, lit., something written with the hand. See Manuscript, a.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "An original literary or musical composition written by the author, formerly with the hand, now usually by typewriter or word processor. It is contrasted with a printed copy."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Writing, as opposed to print; as, the book exists only in manuscript."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The word is often abbreviated to MS., plural MSS."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

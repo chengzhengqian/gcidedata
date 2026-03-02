@@ -1,0 +1,40 @@
+{
+  "key": "malt_whisky",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "malt whisky",
+      "headword_raw": "malt whisky",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "Scotch",
+        "Scotch-whiskey",
+        "Scotch whisky"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A whiskey distilled in Scotland (esp. whiskey made from malted barley in a pot still); Scotch whisky."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

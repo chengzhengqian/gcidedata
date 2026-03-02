@@ -1,0 +1,62 @@
+{
+  "key": "manageable",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Manageable",
+      "headword_raw": "Man\"age*a*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Manageableness",
+          "form_raw": "Man\"age*a*ble*ness",
+          "key": "manageableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Manageably",
+          "form_raw": "Man\"age*a*bly",
+          "key": "manageably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Governable",
+        "tractable",
+        "controllable",
+        "docile"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Such as can be managed or used; suffering control; governable; tractable; subservient; as, a manageable horse."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

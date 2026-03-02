@@ -1,0 +1,81 @@
+{
+  "key": "mannish",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Mannish",
+      "headword_raw": "Man\"nish",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Man + -ish: cf. AS. mennisc, menisc.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Mannishly",
+          "form_raw": "Man\"nish*ly",
+          "key": "mannishly",
+          "pos": [
+            "adv."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Mannishness",
+          "form_raw": "Man\"nish*ness",
+          "key": "mannishness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Resembling a human being in form or nature; human."
+          ],
+          "quotes": [
+            "But yet it was a figure Most like to mannish creature."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Resembling, suitable to, or characteristic of, a man, manlike, masculine."
+          ],
+          "quotes": [
+            "A woman impudent and mannish grown."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Fond of men; -- said of a woman."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

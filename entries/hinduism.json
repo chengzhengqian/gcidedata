@@ -1,0 +1,77 @@
+{
+  "key": "hinduism",
+  "source_file": "CIDE.H",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Hinduism",
+      "headword_raw": "Hin\"du*ism",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The religious doctrines and rites of the Hindus; Brahmanism."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Hinduism",
+      "headword_raw": "Hinduism",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "the dominant religion of India; characterized by a caste system anud belief in reincarnation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Hindooism"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a complex of beliefs and values and customs including worship of many gods, especially the Trimurti composed of Brahma the Creator; Vishnu the preserver; and Shiva the destroyer."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Hindooism"
+          ]
+        }
+      ]
+    }
+  ]
+}

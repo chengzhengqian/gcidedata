@@ -1,0 +1,73 @@
+{
+  "key": "hipped",
+  "source_file": "CIDE.H",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Hipped",
+      "headword_raw": "Hipped",
+      "pr": "(?)",
+      "pos": [],
+      "ety": null,
+      "sources": [],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "hipped",
+      "headword_raw": "hipped",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "having hips; or, having hips of a specified type; -- used in combination; as, wide-hipped."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Architecture)"
+          ],
+          "defs": [
+            "peaked and having sloping ends rather than gables; -- of roofs; as, a hipped roof has sloping ends rather than gables."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "hip-roofed"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "key": "higher_programming_language",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "higher programming language",
+      "headword_raw": "higher programming language",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Computers)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A computer programming language with an instruction set allowing one instruction to code for several assembly language instructions."
+          ],
+          "quotes": [],
+          "notes": [
+            "The aggregation of several assembly-language instructions into one instruction allows much greater efficiency in writing computer programs. Most programs are now written in some higher programming language, such as BASIC, FORTRAN, COBOL, C, C++, PROLOG, or JAVA."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

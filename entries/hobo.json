@@ -1,0 +1,51 @@
+{
+  "key": "hobo",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Hobo",
+      "headword_raw": "Ho\"bo",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Of uncertain origin.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Hoboism",
+          "form_raw": "Ho\"bo*ism",
+          "key": "hoboism",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [
+        "tramp",
+        "bum",
+        "vagrant",
+        "knight of the road"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A professional tramp; one who spends his life traveling from place to place, esp. by stealing rides on trains, and begging for a living."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

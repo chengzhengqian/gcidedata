@@ -1,0 +1,113 @@
+{
+  "key": "hindustani",
+  "source_file": "CIDE.H",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Hindustani",
+      "headword_raw": "Hin\"du*sta\"ni",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": "[Hind. Hindūstānī an Indian, fr. Hind. and Per. Hindūstān India.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to the Hindoos or their language.",
+            "The language of Hindustan; the name given by Europeans to the most generally spoken of the modern Aryan languages of India. It is Hindi with the addition of Persian and Arabic words."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Hindustani",
+      "headword_raw": "Hindustani",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "of or pertaining to Hindustan or its inhabitants."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Hindustani",
+      "headword_raw": "Hindustani",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a native or inhabitant of Hindustan or India."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Hindu",
+            "Hindoo"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a form of Hindi spoken around Delhi. See Hindoostanee."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Hindoostani",
+            "Hindoostanee",
+            "Hindostani"
+          ]
+        }
+      ]
+    }
+  ]
+}

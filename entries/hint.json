@@ -1,0 +1,116 @@
+{
+  "key": "hint",
+  "source_file": "CIDE.H",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Hint",
+      "headword_raw": "Hint",
+      "pr": "(hnt)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OE. henten, hinten, to seize, to catch, AS. hentan to pursue, take, seize; or Icel. ymta to mutter, ymtr a muttering, Dan. ymte to whisper. √36. Cf. Hent.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Hinted; p. pr. & vb. n. Hinting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "suggest",
+        "intimate",
+        "insinuate",
+        "imply"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To bring to mind by a slight mention or remote allusion; to suggest in an indirect manner; as, to hint a suspicion."
+          ],
+          "quotes": [
+            "Just hint a fault and hesitate dislike."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Hint",
+      "headword_raw": "Hint",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "allude",
+        "refer",
+        "glance",
+        "touch"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To make an indirect reference, suggestion, or allusion; to allude vaguely to something."
+          ],
+          "quotes": [
+            "We whisper, and hint, and chuckle."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Hint",
+      "headword_raw": "Hint",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "Suggestion",
+        "allusion. See Suggestion"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A remote allusion; slight mention; intimation; insinuation; a suggestion or reminder, without a full declaration or explanation; also, an occasion or motive."
+          ],
+          "quotes": [
+            "Our hint of woe Is common.",
+            "The hint malevolent, the look oblique."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

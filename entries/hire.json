@@ -1,0 +1,139 @@
+{
+  "key": "hire",
+  "source_file": "CIDE.H",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Hire",
+      "headword_raw": "Hire",
+      "pr": "(hr)",
+      "pos": [
+        "pron."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "See Here, pron."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Hire",
+      "headword_raw": "Hire",
+      "pr": "(hīr)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. hire, hure, AS. hr; akin to D. huur, G. heuer, Dan. hyre, Sw. hyra.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The price, reward, or compensation paid, or contracted to be paid, for the temporary use of a thing or a place, for personal service, or for labor; wages; rent; pay."
+          ],
+          "quotes": [
+            "The laborer is worthy of his hire."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law.)"
+          ],
+          "defs": [
+            "A bailment by which the use of a thing, or the services and labor of a person, are contracted for at a certain price or reward."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Wages",
+            "salary",
+            "stipend",
+            "allowance",
+            "pay"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Hire",
+      "headword_raw": "Hire",
+      "pr": "(hīrd)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "n."
+      ],
+      "ety": "[OE. hiren, huren, AS. hrian; akin to D. huren, G. heuern, Dan. hyre, Sw. hyra. See Hire, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Hired (hīrd); p. pr. & vb. n. Hiring.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To procure (any chattel or estate) from another person, for temporary use, for a compensation or equivalent; to purchase the use or enjoyment of for a limited time; as, to hire a farm for a year; to hire money."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To engage or purchase the service, labor, or interest of (any one) for a specific purpose, by payment of wages; as, to hire a servant, an agent, or an advocate."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To grant the temporary use of, for compensation; to engage to give the service of, for a price; to let; to lease; -- now usually with out, and often reflexively; as, he has hired out his horse, or his time."
+          ],
+          "quotes": [
+            "They . . . have hired out themselves for bread."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

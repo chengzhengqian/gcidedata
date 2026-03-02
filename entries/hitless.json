@@ -1,0 +1,53 @@
+{
+  "key": "hitless",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "hitless",
+      "headword_raw": "hitless",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Baseball)"
+          ],
+          "defs": [
+            "Having no hits scored; -- of a baseball game (or the pitching) in which a pitcher allows the opponent no hits; as, a hitless game."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "no-hit"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Having no points scored."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "scoreless",
+            "goalless"
+          ]
+        }
+      ]
+    }
+  ]
+}

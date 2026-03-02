@@ -1,0 +1,91 @@
+{
+  "key": "historical",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "historical",
+      "headword_raw": "his*tor\"ic*al",
+      "pr": "(hs*tr\"*kl)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": "[L. historicus, Gr. \"istoriko`s: cf. F. historique. See History.]",
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Historicalness",
+          "form_raw": "His*tor\"ic*al*ness",
+          "key": "historicalness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Historicity",
+          "form_raw": "His*to*ric\"i*ty",
+          "key": "historicity",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "having once lived, existed, or taken place in the real world; -- contrasted with legendary; as, the historical Jesus; doubt that a historical Camelot every existed; actual historical events."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Belonging to the past; as, historical (or historic) times; a historical character."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Within the period of time recorded in written documents; as, within historic times. Opposite of prehistoric."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "diachronic"
+          ]
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Linguistics)"
+          ],
+          "defs": [
+            "Same as diachronic."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

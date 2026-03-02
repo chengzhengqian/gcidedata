@@ -1,0 +1,38 @@
+{
+  "key": "hodograph",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Hodograph",
+      "headword_raw": "Hod\"o*graph",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr.<?/ path + graph.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Math.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A curve described by the moving extremity of a line the other end of which is fixed, this line being constantly parallel to the direction of motion of, and having its length constantly proportional to the velocity of, a point moving in any path; -used in investigations respecting central forces."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

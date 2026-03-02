@@ -1,0 +1,59 @@
+{
+  "key": "sinful",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Sinful",
+      "headword_raw": "Sin\"ful",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[AAS. synfull.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Sinfully",
+          "form_raw": "Sin\"ful*ly",
+          "key": "sinfully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Sinfulness",
+          "form_raw": "Sin\"ful*ness",
+          "key": "sinfulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Tainted with, or full of, sin; wicked; iniquitous; criminal; unholy; as, sinful men; sinful thoughts."
+          ],
+          "quotes": [
+            "Ah sinful nation, a people laden with iniquity."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

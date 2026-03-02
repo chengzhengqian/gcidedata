@@ -1,0 +1,73 @@
+{
+  "key": "silicify",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Silicify",
+      "headword_raw": "Si*lic\"i*fy",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. silex, silicis, a flint + -fy: cf. F. silicifier.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Silicified (?); p. pr. & vb. n. Silicifying (?).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To convert into, or to impregnate with, silica, or with the compounds of silicon."
+          ],
+          "quotes": [
+            "The specimens found . . . are completely silicified."
+          ],
+          "notes": [
+            "☞ The silica may take the form of agate, chalcedony, flint, hornstone, or crystalline quartz."
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Silicify",
+      "headword_raw": "Si*lic\"i*fy",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To become converted into silica, or to be impregnated with silica."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

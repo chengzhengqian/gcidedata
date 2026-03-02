@@ -1,0 +1,50 @@
+{
+  "key": "sinuous",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Sinuous",
+      "headword_raw": "Sin\"u*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[L. sinuosus, fr. sinus a bent surface, a curve: cf. F. sinueux. See Sinus.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Sinuously",
+          "form_raw": "Sin\"u*ous*ly",
+          "key": "sinuously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Bending in and out; of a serpentine or undulating form; winding; crooked."
+          ],
+          "quotes": [
+            "Streaking the ground with sinuous trace.",
+            "Gardens bright with sinuous rills."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

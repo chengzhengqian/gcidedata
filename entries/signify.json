@@ -1,0 +1,67 @@
+{
+  "key": "signify",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Signify",
+      "headword_raw": "Sig\"ni*fy",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "n."
+      ],
+      "ety": "[F. signifier, L. significare; signum a sign + -ficare (in comp.) to make. See Sign, n., and -fy.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Signified (?); p. pr. & vb. n. Signifying (?).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To show by a sign; to communicate by any conventional token, as words, gestures, signals, or the like; to announce; to make known; to declare; to express; as, a signified his desire to be present."
+          ],
+          "quotes": [
+            "I 'll to the king; and signify to him That thus I have resign'd my charge to you.",
+            "The government should signify to the Protestants of Ireland that want of silver is not to be remedied."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To mean; to import; to denote; to betoken."
+          ],
+          "quotes": [
+            "He bade her tell him what it signified.",
+            "A tale Told by an idiot, full of sound and fury, Signifying nothing."
+          ],
+          "notes": [
+            "☞ Signify is often used impersonally; as, it signifies nothing, it does not signify, that is, it is of no importance."
+          ],
+          "synonyms": [
+            "express",
+            "manifest",
+            "declare",
+            "utter",
+            "intimate",
+            "betoken",
+            "denote",
+            "imply",
+            "mean"
+          ]
+        }
+      ]
+    }
+  ]
+}

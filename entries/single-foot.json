@@ -1,0 +1,79 @@
+{
+  "key": "single-foot",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Single-foot",
+      "headword_raw": "Sin\"gle-foot`",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An irregular gait of a horse; -- called also single-footed pace. See Single, v. i."
+          ],
+          "quotes": [
+            "Single-foot is an irregular pace, rather rare, distinguished by the posterior extremities moving in the order of a fast walk, and the anterior extremities in that of a slow trot."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Single-foot",
+      "headword_raw": "Sin\"gle-foot`",
+      "pr": null,
+      "pos": [
+        "v. i.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Single-footer",
+          "form_raw": "Sin\"gle-foot`er",
+          "key": "single-footer",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To proceed by means of the single-foot, as a horse or other quadruped."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

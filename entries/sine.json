@@ -1,0 +1,68 @@
+{
+  "key": "sine",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Sine",
+      "headword_raw": "Sine",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[LL. sinus a sine, L. sinus bosom, used in translating the Ar. jaib, properly, bosom, but probably read by mistake (the consonants being the same) for an original jība sine, from Skr. jīva bowstring, chord of an arc, sine.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Trig.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The length of a perpendicular drawn from one extremity of an arc of a circle to the diameter drawn through the other extremity.",
+            "The perpendicular itself. See Sine of angle, below."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Sine",
+      "headword_raw": "Si\"ne",
+      "pr": "(?)",
+      "pos": [
+        "prep."
+      ],
+      "ety": "[L.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Without."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

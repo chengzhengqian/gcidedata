@@ -1,0 +1,81 @@
+{
+  "key": "sist",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Sist",
+      "headword_raw": "Sist",
+      "pr": "(?)",
+      "pos": [
+        "v. t."
+      ],
+      "ety": "[L. sistere to bring to a stand, to stop.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Scots Law)"
+          ],
+          "defs": [
+            "To stay, as judicial proceedings; to delay or suspend; to stop."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To cause to take a place, as at the bar of a court; hence, to cite; to summon; to bring into court."
+          ],
+          "quotes": [
+            "Some, however, have preposterously sisted nature as the first or generative principle."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Sist",
+      "headword_raw": "Sist",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Scots Law)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A stay or suspension of proceedings; an order for a stay of proceedings."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

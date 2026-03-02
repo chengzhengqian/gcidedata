@@ -1,0 +1,164 @@
+{
+  "key": "sin",
+  "source_file": "CIDE.S",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Sin",
+      "headword_raw": "Sin",
+      "pr": "(?)",
+      "pos": [
+        "adv., prep., & conj."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Old form of Since."
+          ],
+          "quotes": [
+            "Sin that his lord was twenty year of age."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Sin",
+      "headword_raw": "Sin",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. sinne, AS. synn, syn; akin to D. zonde, OS. sundia, OHG. sunta, G. sünde, Icel., Dan. & Sw. synd, L. sons, sontis, guilty, perhaps originally from the p. pr. of the verb signifying, to be, and meaning, the one who it is. Cf. Authentic, Sooth.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Transgression of the law of God; disobedience of the divine command; any violation of God's will, either in purpose or conduct; moral deficiency in the character; iniquity; as, sins of omission and sins of commission."
+          ],
+          "quotes": [
+            "Whosoever committeth sin is the servant of sin.",
+            "Sin is the transgression of the law.",
+            "I think 't no sin. To cozen him that would unjustly win.",
+            "Enthralled By sin to foul, exorbitant desires."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "An offense, in general; a violation of propriety; a misdemeanor; as, a sin against good manners."
+          ],
+          "quotes": [
+            "I grant that poetry's a crying sin."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A sin offering; a sacrifice for sin."
+          ],
+          "quotes": [
+            "He hath made him to be sin for us, who knew no sin."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(R. C. Ch.)"
+          ],
+          "defs": [
+            "An embodiment of sin; a very wicked person."
+          ],
+          "quotes": [
+            "Thy ambition, Thou scarlet sin, robbed this bewailing land Of noble Buckingham."
+          ],
+          "notes": [
+            "☞ Sin is used in the formation of some compound words of obvious signification; as, sin-born; sin-bred, sin-oppressed, sin-polluted, and the like."
+          ],
+          "synonyms": [
+            "Iniquity",
+            "wickedness",
+            "wrong. See Crime"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Sin",
+      "headword_raw": "Sin",
+      "pr": "(?)",
+      "pos": [
+        "v. i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "n."
+      ],
+      "ety": "[OE. sinnen, singen, sinegen, AS. syngian. See Sin, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Sinned (?); p. pr. & vb. n. Sinning.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To depart voluntarily from the path of duty prescribed by God to man; to violate the divine law in any particular, by actual transgression or by the neglect or nonobservance of its injunctions; to violate any known rule of duty; -- often followed by against."
+          ],
+          "quotes": [
+            "Against thee, thee only, have I sinned.",
+            "All have sinned, and come short of the glory of God."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To violate human rights, law, or propriety; to commit an offense; to trespass; to transgress."
+          ],
+          "quotes": [
+            "I am a man More sinned against than sinning.",
+            "Who but wishes to invert the laws Of order, sins against the eternal cause."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

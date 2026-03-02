@@ -1,0 +1,86 @@
+{
+  "key": "hick",
+  "source_file": "CIDE.H",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "hick",
+      "headword_raw": "hick",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "yokel",
+        "rube",
+        "yahoo",
+        "hayseed",
+        "bumpkin",
+        "chawbacon"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A person who is not very intelligent or interested in culture; a hayseed."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "hick",
+      "headword_raw": "hick",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "rural. Opposite of urban."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "characteristic of rural people, especially those not knowledgeable about matters outside their locality; as, hick ideas; a hick town."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "bumpkinly",
+            "rustic",
+            "unsophisticated"
+          ]
+        }
+      ]
+    }
+  ]
+}

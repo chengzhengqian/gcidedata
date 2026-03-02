@@ -1,0 +1,109 @@
+{
+  "key": "heuristic",
+  "source_file": "CIDE.H",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Heuristic",
+      "headword_raw": "Heu*ris\"tic",
+      "pr": "(h*rs\"tk)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Gr. e\"yri`skein to discover.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Serving to promote discovery or learning; -- used especially of thories or paradigms which stimulate new ideas for discovering facts in experimental sciences."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Serving to stimulate people to learn and discover on their own, especially by encouraging experimental and trial-and-error methods for solving problems."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Pertaining to or based on trial-and-error and experimental methods of learning and evaluation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "Based on the use of an efficient trial-and error method to search a space of possible solutions to a problem, or to find an acceptable approximate solution, when an exact algorithmic method is unavailable or too time-consuming."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Heuristic",
+      "headword_raw": "Heu*ris\"tic",
+      "pr": "(h*rs\"tk)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A heuristic method; a specific heuristic procedure."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A theory or approach which serves to promote discovery or learning by encouraging experimentation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

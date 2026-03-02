@@ -1,0 +1,61 @@
+{
+  "key": "heterogeneous",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Heterogeneous",
+      "headword_raw": "Het`er*o*ge\"ne*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Gr. <?/; <?/ + <?/ race, kind; akin to E. kin: cf. F. htrogne.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Heterogeneously",
+          "form_raw": "Het`er*o*ge\"ne*ous*ly",
+          "key": "heterogeneously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Heterogeneousness",
+          "form_raw": "Het`er*o*ge\"ne*ous*ness",
+          "key": "heterogeneousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Gram.)",
+        "(Math.)",
+        "(Math.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Differing in kind; having unlike qualities; possessed of different characteristics; dissimilar; -- opposed to homogeneous, and said of two or more connected objects, or of a conglomerate mass, considered in respect to the parts of which it is made up."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

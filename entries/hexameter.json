@@ -1,0 +1,68 @@
+{
+  "key": "hexameter",
+  "source_file": "CIDE.H",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Hexameter",
+      "headword_raw": "Hex*am\"e*ter",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L., fr. Gr. <?/ of six meters; (sc. <?/) hexameter verse; \"e`x six + <?/ measure: cf. F. hexamtre. See Six, and Meter.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Gr. & Lat. Pros.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A verse of six feet, the first four of which may be either dactyls or spondees, the fifth must regularly be a dactyl, and the sixth always a spondee. In this species of verse are composed the Iliad of Homer and the Aeneid of Virgil. In English hexameters accent takes the place of quantity."
+          ],
+          "quotes": [
+            "Leaped like the | roe when he | hears in the | woodland the | voice of the | huntsman.",
+            "Strongly it | bears us a- | long on | swelling and | limitless | billows, Nothing be- | fore and | nothing be- | hind but the | sky and the | ocean."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Hexameter",
+      "headword_raw": "Hex*am\"e*ter",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Having six metrical feet, especially dactyls and spondees."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

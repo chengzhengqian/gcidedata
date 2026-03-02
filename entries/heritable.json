@@ -1,0 +1,50 @@
+{
+  "key": "heritable",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Heritable",
+      "headword_raw": "Her\"it*a*ble",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[OF. hritable. See Heritage, Hereditable.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Capable of being inherited or of passing by inheritance; inheritable."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Scots Law)"
+          ],
+          "defs": [
+            "Capable of inheriting or receiving by inheritance."
+          ],
+          "quotes": [
+            "This son shall be legitimate and heritable."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "key": "hexokinase",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Hexokinase",
+      "headword_raw": "Hex\"o*kin\"ase",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Hexose + -kinase.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Biochem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "an enzyme catalyzing the transfer of a phosphate residue from ATP to a hexose, as in the formation of glucose-6-phosphate from glucose."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

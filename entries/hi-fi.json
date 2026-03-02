@@ -1,0 +1,40 @@
+{
+  "key": "hi-fi",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "hi-fi",
+      "headword_raw": "hi-fi",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[shortening of high fidelity.]",
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "hi-fi",
+        "high fidelity sound system"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An electronic device that plays phonograph records, reproducing the original sound with a high degree of fidelity. It superseded the older phonographs, and itself is being displaced in popularity by CD players."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

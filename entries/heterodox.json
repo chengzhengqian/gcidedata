@@ -1,0 +1,98 @@
+{
+  "key": "heterodox",
+  "source_file": "CIDE.H",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Heterodox",
+      "headword_raw": "Het\"er*o*dox",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Gr. <?/; <?/ other + <?/ opinion; cf. F. htrodoxe.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Heterodoxly",
+          "form_raw": "Het\"er*o*dox`ly",
+          "key": "heterodoxly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Heterodoxness",
+          "form_raw": "Het\"er*o*dox`ness",
+          "key": "heterodoxness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Contrary to, or differing from, some acknowledged standard, as the Bible, the creed of a church, the decree of a council, and the like; not orthodox; heretical; -- said of opinions, doctrines, books, etc., esp. upon theological subjects."
+          ],
+          "quotes": [
+            "Raw and indigested, heterodox, preaching."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Holding heterodox opinions, or doctrines not orthodox; heretical; -- said of persons."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Heterodox",
+      "headword_raw": "Het\"er*o*dox",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An opinion opposed to some accepted standard."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

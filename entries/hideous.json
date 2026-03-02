@@ -1,0 +1,85 @@
+{
+  "key": "hideous",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Hideous",
+      "headword_raw": "Hid\"e*ous",
+      "pr": "(hd\"*s; 277)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[OE. hidous, OF. hidous, hidos, hidus, hisdos, hisdous, F. hideux: cf. OF. hide, hisde, fright; of uncertain origin; cf. OHG. egidī horror, or L. hispidosus, for hispidus rough, bristly, E. hispid.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Hideously",
+          "form_raw": "Hid\"e*ous*ly",
+          "key": "hideously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Hideousness",
+          "form_raw": "Hid\"e*ous*ness",
+          "key": "hideousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Frightful, shocking, or offensive to the eyes; dreadful to behold; as, a hideous monster; hideous looks."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Distressing or offensive to the ear; exciting terror or dismay; as, a hideous noise."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Hateful; shocking."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Frightful",
+            "ghastly",
+            "grim",
+            "grisly",
+            "horrid",
+            "dreadful",
+            "terrible"
+          ]
+        }
+      ]
+    }
+  ]
+}

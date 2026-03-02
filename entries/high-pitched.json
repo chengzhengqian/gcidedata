@@ -1,0 +1,51 @@
+{
+  "key": "high-pitched",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "high-pitched",
+      "headword_raw": "high-pitched",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "high in pitch or frequency; -- used of sounds and voices. Opposite of low."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "high"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "set at a sharp or high angle or slant; as, a high-pitched roof."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "steeply pitched",
+            "steep"
+          ]
+        }
+      ]
+    }
+  ]
+}

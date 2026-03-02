@@ -1,0 +1,36 @@
+{
+  "key": "hertz",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Hertz",
+      "headword_raw": "Hertz",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[from the German physicist Heinrich Hertz.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a unit of frequency equal to one cycle per second; it is abbreviated Hz. It is commonly used to specify the frequency of radio waves, and also the clock frequencies in digital computers. For these applications, kilohertz and megahertz are the most commonly used units, derived from hertz."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

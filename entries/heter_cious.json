@@ -1,0 +1,49 @@
+{
+  "key": "heter_cious",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Heterœcious",
+      "headword_raw": "Het`er*<oe/\"cious",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": "[Hetero- + Gr. <?/ house.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Heterœcism",
+          "form_raw": "Het`er*<oe/\"cism",
+          "key": "heter_cism",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Bot.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Passing through the different stages in its life history on an alternation of hosts, as the common wheat-rust fungus (Puccinia graminis), and certain other parasitic fungi; -- contrasted with autœcious."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

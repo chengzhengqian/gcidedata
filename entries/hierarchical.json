@@ -1,0 +1,51 @@
+{
+  "key": "hierarchical",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "hierarchical",
+      "headword_raw": "hi`er*arch\"ic*al",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[Cf. F. hirarchique.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Hierarchically",
+          "form_raw": "Hi`er*arch`ic*al*ly",
+          "key": "hierarchically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "hierarchical",
+        "hierarchal"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Pertaining to a transitive relation between objects by which they may be ordered into a hierarchy; as, a hierarchical relation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

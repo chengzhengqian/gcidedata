@@ -1,0 +1,96 @@
+{
+  "key": "meld",
+  "source_file": "CIDE.M",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Meld",
+      "headword_raw": "Meld",
+      "pr": "(?)",
+      "pos": [
+        "v. t. & i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[G. melden to announce.]",
+      "sources": [
+        "Webster 1913 Suppl.",
+        "WordNet 1.5"
+      ],
+      "morph": "[imp. & p. p. Melded; p. pr. & vb. n. Melding.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Card Playing)"
+      ],
+      "senses": [
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "to mix together so that the components are indistinguishable."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "blend",
+            "mix",
+            "conflate",
+            "commingle",
+            "immix",
+            "fuse",
+            "coalesce",
+            "combine",
+            "merge"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "meld",
+      "headword_raw": "meld",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl.",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Card Playing)"
+      ],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Any combination or score which may be declared, or melded, in pinochle."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A form of rummy using two decks and four jokers; jokers and deuces are wild; the object is to meld groups of seven of the same rank."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "canasta",
+            "basket rummy"
+          ]
+        }
+      ]
+    }
+  ]
+}

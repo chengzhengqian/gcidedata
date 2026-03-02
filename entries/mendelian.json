@@ -1,0 +1,69 @@
+{
+  "key": "mendelian",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Mendelian",
+      "headword_raw": "Men*de\"li*an",
+      "pr": "(?)",
+      "pos": [
+        "prop. a.",
+        "n."
+      ],
+      "ety": "[See Mendel's law.]",
+      "sources": [
+        "Webster 1913 Suppl.",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Mendelianism",
+          "form_raw": "Men*de\"li*an*ism",
+          "key": "mendelianism",
+          "pos": [],
+          "pr": "(#)"
+        },
+        {
+          "form": "Mendelism",
+          "form_raw": "Men*del\"ism",
+          "key": "mendelism",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Biol.)"
+          ],
+          "defs": [
+            "Pert. to Mendel, or to Mendel's law; as, Mendelian inheritance."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Biol.)"
+          ],
+          "defs": [
+            "Behaving or being in accordance with Mendel's laws of inheritance; -- said of the distribution of inherited characteristics and of traits thus distributed."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

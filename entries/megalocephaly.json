@@ -1,0 +1,49 @@
+{
+  "key": "megalocephaly",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Megalocephaly",
+      "headword_raw": "Meg`a*lo*ceph\"a*ly",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[NL. megalocephalia, fr. Gr. <?/ having a large head.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Megalocephalic",
+          "form_raw": "Meg`a*lo*ce*phal\"ic",
+          "key": "megalocephalic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The condition of having an abnormally large head; called also megacephaly."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

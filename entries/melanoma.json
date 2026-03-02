@@ -1,0 +1,40 @@
+{
+  "key": "melanoma",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Melanoma",
+      "headword_raw": "Mel`a*no\"ma",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[NL.; Gr. <?/, <?/, black + -oma.]",
+      "sources": [
+        "Webster 1913 Suppl.",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A tumor containing dark pigment. Such tumors are usually malignant and often fatal.",
+            "Development of dark-pigmented tumors."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "key": "menu",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "menu",
+      "headword_raw": "men\"u",
+      "pr": "(mn\"y)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F., slender, thin, minute. See 4th Minute.]",
+      "sources": [
+        "PJC",
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The details of a banquet; a list of the dishes served at a meal, whether or not one has a choice."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Any list of objects, activities, etc. from which to choose; a selection of alternatives."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A list of dishes form which to choose at a restaurant; a bill of fare."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "A list displayed on the computer screen, by which a program provides the user with different options for processing by the program. It usually includes a mechanism, such as pointing by a mouse or selection by arrow keys, to select the desired option from those on the list. Depending on how the menu is displayed, it may be a pop-up menu or pull-down menu."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

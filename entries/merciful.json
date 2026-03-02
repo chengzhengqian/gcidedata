@@ -1,0 +1,81 @@
+{
+  "key": "merciful",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Merciful",
+      "headword_raw": "Mer\"ci*ful",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Mercy + -ful.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Mercifully",
+          "form_raw": "Mer\"ci*ful*ly",
+          "key": "mercifully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Mercifulness",
+          "form_raw": "Mer\"ci*ful*ness",
+          "key": "mercifulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Full of mercy; having or exercising mercy; disposed to pity and spare offenders; unwilling to punish. Opposite of merciless."
+          ],
+          "quotes": [
+            "The Lord, the Lord God, merciful and gracious.",
+            "Be merciful, great duke, to men of mold."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Unwilling to give pain; compassionate."
+          ],
+          "quotes": [
+            "A merciful man will be merciful to his beast."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Compassionate",
+            "tender",
+            "humane",
+            "gracious",
+            "kind",
+            "mild",
+            "clement",
+            "benignant"
+          ]
+        }
+      ]
+    }
+  ]
+}

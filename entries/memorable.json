@@ -1,0 +1,59 @@
+{
+  "key": "memorable",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Memorable",
+      "headword_raw": "Mem\"o*ra*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[L. memorabilis, fr. memorare to bring to remembrance, fr. memor mindful, remembering. See Memory, and cf. Memorabilia.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Memorableness",
+          "form_raw": "Mem\"o*ra*ble*ness",
+          "key": "memorableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Memorably",
+          "form_raw": "Mem\"o*ra*bly",
+          "key": "memorably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Worthy to be remembered; very important or remarkable."
+          ],
+          "quotes": [
+            "Surviving fame to gain, Buy tombs, by books, by memorable deeds."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

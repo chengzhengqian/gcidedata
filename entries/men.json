@@ -1,0 +1,69 @@
+{
+  "key": "men",
+  "source_file": "CIDE.M",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Men",
+      "headword_raw": "Men",
+      "pr": "(mn)",
+      "pos": [
+        "n.",
+        "pl."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "pl. of Man."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Men",
+      "headword_raw": "Men",
+      "pr": null,
+      "pos": [
+        "pron."
+      ],
+      "ety": "[OE. me, men. “Not the plural of man, but a weakened form of the word man itself.” Skeat.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A man; one; -- used with a verb in the singular, and corresponding to the present indefinite one or they."
+          ],
+          "quotes": [
+            "Men moot give silver to the poure friars.",
+            "A privy thief, men clepeth death."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

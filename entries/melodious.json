@@ -1,0 +1,57 @@
+{
+  "key": "melodious",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Melodious",
+      "headword_raw": "Me*lo\"di*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Cf. F. mlodieux. See Melody.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Melodiously",
+          "form_raw": "Me*lo\"di*ous*ly",
+          "key": "melodiously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Melodiousness",
+          "form_raw": "Me*lo\"di*ous*ness",
+          "key": "melodiousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Containing, or producing, melody; musical; agreeable to the ear by a sweet succession of sounds; as, a melodious voice."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

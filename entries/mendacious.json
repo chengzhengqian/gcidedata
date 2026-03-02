@@ -1,0 +1,67 @@
+{
+  "key": "mendacious",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Mendacious",
+      "headword_raw": "Men*da\"cious",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. mendax, -acis, lying, cf. mentiri to lie.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Mendaciously",
+          "form_raw": "Men*da\"cious*ly",
+          "key": "mendaciously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Mendaciousness",
+          "form_raw": "Men*da\"cious*ness",
+          "key": "mendaciousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Given to deception or falsehood; lying; as, a mendacious person."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "False; counterfeit; containing falsehood; as, a mendacious statement."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

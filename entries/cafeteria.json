@@ -1,0 +1,48 @@
+{
+  "key": "cafeteria",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Cafeteria",
+      "headword_raw": "Caf`e*te\"ri*a",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. cafetire.]",
+      "sources": [
+        "Webster 1913 Suppl.",
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A restaurant or caf at which the patrons serve themselves with food kept at a counter, typically paying a cashier at the end of the counter and taking the food to tables to eat."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a room within a building functioning in the same manner as a cafeteria{1}. In certain organizations, as schools, the food may be provided gratis."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

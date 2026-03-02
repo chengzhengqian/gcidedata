@@ -1,0 +1,83 @@
+{
+  "key": "buy",
+  "source_file": "CIDE.B",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Buy",
+      "headword_raw": "Buy",
+      "pr": "(bī)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OE. buggen, buggen, bien, AS. bycgan, akin to OS. buggean, Goth. bugjan.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Bought (bt); p. pr. & vb. n. Buying (bī\"ng).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To acquire the ownership of (property) by giving an accepted price or consideration therefor, or by agreeing to do so; to acquire by the payment of a price or value; to purchase; -- opposed to sell."
+          ],
+          "quotes": [
+            "Buy what thou hast no need of, and ere long thou wilt sell thy necessaries."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To acquire or procure by something given or done in exchange, literally or figuratively; to get, at a cost or sacrifice; to buy pleasure with pain."
+          ],
+          "quotes": [
+            "Buy the truth and sell it not; also wisdom, and instruction, and understanding."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Buy",
+      "headword_raw": "Buy",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To negotiate or treat about a purchase."
+          ],
+          "quotes": [
+            "I will buy with you, sell with you."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

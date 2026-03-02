@@ -1,0 +1,74 @@
+{
+  "key": "c.o.d",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "c.o.d.",
+      "headword_raw": "c.o.d.",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "collect",
+        "collect on delivery"
+      ],
+      "entry_fields": [
+        "(Commerce)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "an abbreviation of collect on delivery; payment due by the recipient on delivery; as, a COD parcel."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "c.o.d.",
+      "headword_raw": "c.o.d.",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "collect on delivery"
+      ],
+      "entry_fields": [
+        "(Commerce)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "an abbreviation of collect on delivery; a method of payment by which goods are paid for when they are delivered to the customer's home or place of business. Contrasted to payment in advance or terms or credit."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

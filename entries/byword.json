@@ -1,0 +1,50 @@
+{
+  "key": "byword",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Byword",
+      "headword_raw": "By\"word`",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[AS. bword; b, E. by + word.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A common saying; a proverb; a saying that has a general currency."
+          ],
+          "quotes": [
+            "I knew a wise man that had it for a byword."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The object of a contemptuous saying."
+          ],
+          "quotes": [
+            "Thou makest us a byword among the heathen."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

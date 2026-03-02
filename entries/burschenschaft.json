@@ -1,0 +1,53 @@
+{
+  "key": "burschenschaft",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Burschenschaft",
+      "headword_raw": "Bur\"schen*schaft`",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[G.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Burschenschaftler",
+          "form_raw": "Bur\"schen*schaft`ler",
+          "key": "burschenschaftler",
+          "pos": [],
+          "pr": "(#)"
+        },
+        {
+          "form": "Burschenschafter",
+          "form_raw": "Bur\"schen*schaf`ter",
+          "key": "burschenschafter",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "In Germany, any of various associations of university students formed (the original one at Jena in 1815) to support liberal ideas, or the organization formed by the affiliation of the local bodies. The organization was suppressed by the government in 1819, but was secretly revived, and is now openly maintained as a social organization, the restrictive laws having been repealed prior to 1849."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

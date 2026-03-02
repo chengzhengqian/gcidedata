@@ -1,0 +1,51 @@
+{
+  "key": "byelorussian",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Byelorussian",
+      "headword_raw": "Byelorussian",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a native or inhabitant of Byelorussia."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Belorussian",
+            "White Russian"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "the language spoken in Belarus."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Belarusian"
+          ]
+        }
+      ]
+    }
+  ]
+}

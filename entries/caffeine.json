@@ -1,0 +1,39 @@
+{
+  "key": "caffeine",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Caffeine",
+      "headword_raw": "Caf*fe\"ine",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. cafine. See Coffee.]",
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A white, bitter, crystallizable substance, found in coffee and tea. It is identical with the alkaloid theine from tea leaves, and with guaranine from guarana. It is responsible for most of the stimulating effect of coffee or tea."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

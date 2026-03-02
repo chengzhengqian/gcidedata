@@ -1,0 +1,38 @@
+{
+  "key": "butyl_mercaptan",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "butyl mercaptan",
+      "headword_raw": "bu\"tyl mer*cap\"tan",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A volatile liquid, C4H9.SH, having a strong odor like that of a skunk; also called butanethiol. All three isomers, normal, sec-, and tert-butanethiol possess the skunk odor."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

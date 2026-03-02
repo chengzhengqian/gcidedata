@@ -1,0 +1,45 @@
+{
+  "key": "c.p.u",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "c.p.u.",
+      "headword_raw": "c.p.u.",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "The central processing unit, that part of the electronic circuitry of a computer in which the arithmetic and logical operations are performed on input data, which are thereby converted to output data; it is usually located on the mainboard, or motherboard, of a computer. The CPU and the memory form the central part of a computer to which the peripherals are attached. Most personal computers as of 1998 had only one CPU, but some computers may have more than one CPU."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "central processing unit",
+            "CPU",
+            "C.P.U",
+            "central processor",
+            "processor"
+          ]
+        }
+      ]
+    }
+  ]
+}

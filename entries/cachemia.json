@@ -1,0 +1,56 @@
+{
+  "key": "cachemia",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Cachemia",
+      "headword_raw": "Ca*che\"mi*a",
+      "pr": "(<?/)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[NL., fr. Gr. <?/ bad + <?/ blood.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Cachæmic",
+          "form_raw": "Ca*ch<ae/\"mic",
+          "key": "cach_mic",
+          "pos": [],
+          "pr": null
+        },
+        {
+          "form": "Cachemic",
+          "form_raw": "Ca*che\"mic",
+          "key": "cachemic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A degenerated or poisoned condition of the blood."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

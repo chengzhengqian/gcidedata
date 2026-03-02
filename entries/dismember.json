@@ -1,0 +1,61 @@
+{
+  "key": "dismember",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Dismember",
+      "headword_raw": "Dis*mem\"ber",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OF. desmembrer, F. dmembrer; pref. des- (L. dis) + OF. & F. membre limb. See Member.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Dismembered (?); p. pr. & vb. n. Dismembering.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To tear limb from limb; to dilacerate; to disjoin member from member; to tear or cut in pieces; to break up."
+          ],
+          "quotes": [
+            "Fowls obscene dismembered his remains.",
+            "A society lacerated and dismembered.",
+            "By whose hands the blow should be struck which would dismember that once mighty empire."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To deprive of membership."
+          ],
+          "quotes": [
+            "They were dismembered by vote of the house."
+          ],
+          "notes": [],
+          "synonyms": [
+            "disjoint",
+            "dislocate",
+            "dilacerate",
+            "mutilate",
+            "divide",
+            "sever"
+          ]
+        }
+      ]
+    }
+  ]
+}

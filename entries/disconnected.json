@@ -1,0 +1,100 @@
+{
+  "key": "disconnected",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "disconnected",
+      "headword_raw": "disconnected",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "marked by or composed of disconnected parts or sounds."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "abrupt",
+            "broken off(predicate)"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "not switched on or not connected to a power source; -- of electrical equipment."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "not ready",
+            "off"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "noncontinuous; not continuing in time or space. Opposite of continuous."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "disrupted",
+            "discontinuous"
+          ]
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "unconnected, detached. Opposite of connected."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "disjoined",
+            "separate"
+          ]
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "lacking orderly continuity; illogical or seemingly irrational; as, disconnected fragments of a story."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "confused",
+            "disjointed",
+            "disordered",
+            "disorganized",
+            "desultory",
+            "garbled",
+            "illogical",
+            "rambling",
+            "scattered",
+            "unconnected"
+          ]
+        }
+      ]
+    }
+  ]
+}

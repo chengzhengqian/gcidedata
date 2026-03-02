@@ -1,0 +1,108 @@
+{
+  "key": "disconsolate",
+  "source_file": "CIDE.D",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Disconsolate",
+      "headword_raw": "Dis*con\"so*late",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Disconsolateness."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Disconsolate",
+      "headword_raw": "Dis*con\"so*late",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "v. t.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[LL. disconsolatus; L. dis- + consolatus, p. p. of consolari to console. See Console, v. t.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Disconsolately",
+          "form_raw": "Dis*con\"so*late*ly",
+          "key": "disconsolately",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Disconsolateness",
+          "form_raw": "Dis*con\"so*late*ness",
+          "key": "disconsolateness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Destitute of consolation; deeply dejected and dispirited; hopelessly sad; comfortless; filled with grief; as, a bereaved and disconsolate parent."
+          ],
+          "quotes": [
+            "One morn a Peri at the gate Of Eden stood disconsolate.",
+            "The ladies and the knights, no shelter nigh, Were dropping wet, disconsolate and wan."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Inspiring dejection; saddening; cheerless; as, the disconsolate darkness of the winter nights."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Forlorn",
+            "melancholy",
+            "sorrowful",
+            "desolate",
+            "woeful",
+            "hopeless",
+            "gloomy"
+          ]
+        }
+      ]
+    }
+  ]
+}

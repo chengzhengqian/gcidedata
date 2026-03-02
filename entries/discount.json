@@ -1,0 +1,152 @@
+{
+  "key": "discount",
+  "source_file": "CIDE.D",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Discount",
+      "headword_raw": "Dis\"count`",
+      "pr": "(?; 277)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "v."
+      ],
+      "ety": "[OF. desconter, descompter, to deduct, F. dcompter to discount; pref. des- (L. dis-) + conter, compter. See Count, v.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Discounted; p. pr. & vb. n. Discounting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To deduct from an account, debt, charge, and the like; to make an abatement of; as, merchants sometimes discount five or six per cent for prompt payment of bills."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To lend money upon, deducting the discount or allowance for interest; as, the banks discount notes and bills of exchange."
+          ],
+          "quotes": [
+            "Discount only unexceptionable paper."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To take into consideration beforehand; to anticipate and form conclusions concerning (an event)."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "To leave out of account; to take no notice of."
+          ],
+          "quotes": [
+            "Of the three opinions (I discount Brown's)."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Discount",
+      "headword_raw": "Dis\"count`",
+      "pr": "(?; 277)",
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To lend, or make a practice of lending, money, abating the discount; as, the discount for sixty or ninety days."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Discount",
+      "headword_raw": "Dis\"count`",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "v. t."
+      ],
+      "ety": "[Cf. F. dcompte. See Discount, v. t.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A counting off or deduction made from a gross sum on any account whatever; an allowance upon an account, debt, demand, price asked, and the like; something taken or deducted."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A deduction made for interest, in advancing money upon, or purchasing, a bill or note not due; payment in advance of interest upon money."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "The rate of interest charged in discounting."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

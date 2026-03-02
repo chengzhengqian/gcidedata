@@ -1,0 +1,63 @@
+{
+  "key": "discredited",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "discredited",
+      "headword_raw": "discredited",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "being brought into disrepute; as, a discredited politician."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "damaged"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "suffering shame."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "disgraced",
+            "dishonored",
+            "shamed"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "having been shown to be incorrect; as, a discredited theory or policy."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

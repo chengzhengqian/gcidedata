@@ -1,0 +1,73 @@
+{
+  "key": "discreet",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Discreet",
+      "headword_raw": "Dis*creet\"",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "Compar.",
+        "superl.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[F. discret, L. discretus separated (whence the meaning reserved, prudent), p. p. of discernere. See Discern, and cf. Discrete.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Discreetly",
+          "form_raw": "Dis*creet\"ly",
+          "key": "discreetly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Discreetness",
+          "form_raw": "Dis*creet\"ness",
+          "key": "discreetness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Possessed of discernment, especially in avoiding error or evil, and in the adaptation of means to ends; prudent; sagacious; judicious; not rash or heedless; cautious."
+          ],
+          "quotes": [
+            "It is the discreet man, not the witty, nor the learned, nor the brave, who guides the conversation, and gives measures to society.",
+            "Satire 's my weapon, but I 'm too discreet To run amuck, and tilt at all I meet.",
+            "The sea is silent, the sea is discreet."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Differing; distinct."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

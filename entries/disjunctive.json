@@ -1,0 +1,83 @@
+{
+  "key": "disjunctive",
+  "source_file": "CIDE.D",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Disjunctive",
+      "headword_raw": "Dis*junc\"tive",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. disjunctivus: cf. F. disjonctif.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Tending to disjoin; separating; disjoining."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mus.)",
+            "(Gram.)",
+            "(Logic)"
+          ],
+          "defs": [
+            "Pertaining to disjunct tetrachords."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Disjunctive",
+      "headword_raw": "Dis*junc\"tive",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Gram.)",
+        "(Logic)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A disjunctive conjunction.",
+            "A disjunctive proposition."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

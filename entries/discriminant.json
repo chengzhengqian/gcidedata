@@ -1,0 +1,38 @@
+{
+  "key": "discriminant",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Discriminant",
+      "headword_raw": "Dis*crim\"i*nant",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. discriminans, p. pr. of discriminare.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Math.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The eliminant of the n partial differentials of any homogeneous function of n variables. See Eliminant."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

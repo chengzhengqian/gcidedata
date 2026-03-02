@@ -1,0 +1,70 @@
+{
+  "key": "dishonorable",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Dishonorable",
+      "headword_raw": "Dis*hon\"or*a*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[Cf. F. dshonorable.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Dishonorableness",
+          "form_raw": "Dis*hon\"or*a*ble*ness",
+          "key": "dishonorableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Dishonorably",
+          "form_raw": "Dis*hon\"or*a*bly",
+          "key": "dishonorably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Wanting in honor; not honorable; bringing or deserving dishonor; staining the character, and lessening the reputation; shameful; disgraceful; base."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Wanting in honor or esteem; disesteemed."
+          ],
+          "quotes": [
+            "He that is dishonorable in riches, how much more in poverty!",
+            "To find ourselves dishonorable graves."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

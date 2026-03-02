@@ -1,0 +1,105 @@
+{
+  "key": "discordant",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Discordant",
+      "headword_raw": "Dis*cord\"ant",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[OE. discordant, descordaunt, OF. descordant, discordant, F. discordant, p. pr. of discorder, OF. also, descorder. See Discord, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Discordantly",
+          "form_raw": "Dis*cord\"ant*ly",
+          "key": "discordantly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Discordantness",
+          "form_raw": "Dis*cord\"ant*ness",
+          "key": "discordantness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Disagreeing; incongruous; being at variance; clashing; opposing; not harmonious."
+          ],
+          "quotes": [
+            "The discordant elements out of which the emperor had compounded his realm did not coalesce."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mus.)"
+          ],
+          "defs": [
+            "Dissonant; not in harmony or musical concord; harsh; jarring; as, discordant notes or sounds."
+          ],
+          "quotes": [
+            "For still their music seemed to start Discordant echoes in each heart."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Geol.)"
+          ],
+          "defs": [
+            "Said of strata which lack conformity in direction of bedding, either as in unconformability, or as caused by a fault."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Disagreeing",
+            "incongruous",
+            "contradictory",
+            "repugnant",
+            "opposite",
+            "contrary",
+            "inconsistent",
+            "dissonant",
+            "harsh",
+            "jarring",
+            "irreconcilable"
+          ]
+        }
+      ]
+    }
+  ]
+}

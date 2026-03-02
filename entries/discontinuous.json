@@ -1,0 +1,50 @@
+{
+  "key": "discontinuous",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Discontinuous",
+      "headword_raw": "Dis`con*tin\"u*ous",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Not continuous; interrupted; broken off."
+          ],
+          "quotes": [
+            "A path that is zigzag, discontinuous, and intersected at every turn by human negligence."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "Exhibiting a dissolution of continuity; gaping."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

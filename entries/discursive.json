@@ -1,0 +1,72 @@
+{
+  "key": "discursive",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Discursive",
+      "headword_raw": "Dis*cur\"sive",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Cf. F. discursif. See Discourse, and cf. Discoursive.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Discursively",
+          "form_raw": "Dis*cur\"sive*ly",
+          "key": "discursively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Discursiveness",
+          "form_raw": "Dis*cur\"sive*ness",
+          "key": "discursiveness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Passing from one thing to another; ranging over a wide field; roving; digressive; desultory."
+          ],
+          "quotes": [
+            "The power he [Shakespeare] delights to show is not intense, but discursive.",
+            "A man rather tacit than discursive."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Reasoning; proceeding from one ground to another, as in reasoning; argumentative."
+          ],
+          "quotes": [
+            "Reason is her being, Discursive or intuitive."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

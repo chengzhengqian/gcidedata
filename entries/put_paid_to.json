@@ -1,0 +1,49 @@
+{
+  "key": "put_paid_to",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "put paid to",
+      "headword_raw": "put paid to",
+      "pr": "(?)",
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To put an end to.",
+            "To prove false; to discredit; as, Galileo's observations put paid to the notion that the Earth was the center of the universe."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To defeat; to cause the defeat of."
+          ],
+          "quotes": [
+            "The Argentine's infamous Hand of God goals when he punched the ball into the net, and a spectacular solo effort put paid to England in the last eight . . ."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

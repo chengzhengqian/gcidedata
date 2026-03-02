@@ -1,0 +1,87 @@
+{
+  "key": "pyemia",
+  "source_file": "CIDE.P",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Pyemia",
+      "headword_raw": "Py*e\"mi*a",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[NL., fr. Gr. <?/ pus + <?/ blood.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Pyæmic",
+          "form_raw": "Py*<ae/\"mic",
+          "key": "py_mic",
+          "pos": [],
+          "pr": null
+        },
+        {
+          "form": "Pyemic",
+          "form_raw": "Py*e\"mic",
+          "key": "pyemic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A form of blood poisoning produced by the absorption of pyogenic microorganisms into the blood, usually from a wound or local inflammation. It is characterized by multiple abscesses throughout the body, and is attended with irregularly recurring chills, fever, profuse sweating, and exhaustion."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Pyemia",
+      "headword_raw": "Py*e\"mi*a",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "See Pyaemia."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

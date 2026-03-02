@@ -1,0 +1,79 @@
+{
+  "key": "quadrilateral",
+  "source_file": "CIDE.Q",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Quadrilateral",
+      "headword_raw": "Quad`ri*lat\"er*al",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. quadrilaterus: cf. F. quadrilatre, quadrilatral. See Quadri- and Lateral.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Having four sides, and consequently four angles; quadrangular."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Quadrilateral",
+      "headword_raw": "Quad`ri*lat\"er*al",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Geom.)"
+          ],
+          "defs": [
+            "A plane figure having four sides, and consequently four angles; a quadrangular figure; any figure formed by four lines."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Geom.)"
+          ],
+          "defs": [
+            "An area defended by four fortresses supporting each other; as, the Venetian quadrilateral, comprising Mantua, Peschiera, Verona, and Legnano."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

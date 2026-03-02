@@ -1,0 +1,42 @@
+{
+  "key": "put_up",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "put up",
+      "headword_raw": "put up",
+      "pr": null,
+      "pos": [
+        "v. t. & i."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "to connect a device to a telephone line surreptitiously, so as to listen to or record the conversations of persons on the telephone without their knowledge; -- of telephones, persons, or locations. Used as police jargon."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "wiretap",
+            "tap",
+            "intercept",
+            "bug"
+          ]
+        }
+      ]
+    }
+  ]
+}

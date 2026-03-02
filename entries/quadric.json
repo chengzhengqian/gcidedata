@@ -1,0 +1,71 @@
+{
+  "key": "quadric",
+  "source_file": "CIDE.Q",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Quadric",
+      "headword_raw": "Quad\"ric",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Math.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to the second degree."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Quadric",
+      "headword_raw": "Quad\"ric",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Alg.)",
+        "(Geom.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A quantic of the second degree. See Quantic.",
+            "A surface whose equation in three variables is of the second degree. Spheres, spheroids, ellipsoids, paraboloids, hyperboloids, also cones and cylinders with circular bases, are quadrics."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

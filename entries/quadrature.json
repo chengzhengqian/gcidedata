@@ -1,0 +1,75 @@
+{
+  "key": "quadrature",
+  "source_file": "CIDE.Q",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Quadrature",
+      "headword_raw": "Quad\"ra*ture",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[L. quadratura: cf. F. quadrature. See Quadrate, a.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "The act of squaring; the finding of a square having the same area as some given curvilinear figure; as, the quadrature of a circle; the operation of finding an expression for the area of a figure bounded wholly or in part by a curved line, as by a curve, two ordinates, and the axis of abscissas."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A quadrate; a square."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Integral Calculus)"
+          ],
+          "defs": [
+            "The integral used in obtaining the area bounded by a curve; hence, the definite integral of the product of any function of one variable into the differential of that variable."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Astron.)",
+            "(Astron.)",
+            "(Astron.)"
+          ],
+          "defs": [
+            "The position of one heavenly body in respect to another when distant from it 90°, or a quarter of a circle, as the moon when at an equal distance from the points of conjunction and opposition."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

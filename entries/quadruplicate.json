@@ -1,0 +1,79 @@
+{
+  "key": "quadruplicate",
+  "source_file": "CIDE.Q",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Quadruplicate",
+      "headword_raw": "Quad*ru\"pli*cate",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. quadruplicatus, p. p. of quadruplicare, fr. quadruple<?/ fourfold. See Quadruplex.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Quadruplicated (?); p. pr. & vb. n. Quadruplicating.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To make fourfold; to double twice; to quadruple."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Quadruplicate",
+      "headword_raw": "Quad*ru\"pli*cate",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. quadruplicatus, p. p.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Fourfold; doubled twice; four times repeated; as, a quadruplicate ratio, or a quadruplicate proportion."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "Raised to the fourth power."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

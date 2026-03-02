@@ -1,0 +1,52 @@
+{
+  "key": "pyrometer",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Pyrometer",
+      "headword_raw": "Py*rom\"e*ter",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Pyro- + -meter: cf. F. pyromtre.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Physics)"
+          ],
+          "defs": [
+            "An instrument used for measuring the expansion of solid bodies by heat."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Physics)"
+          ],
+          "defs": [
+            "An instrument for measuring degrees of heat above those indicated by the mercurial thermometer."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ It is usually constructed so as to register the change which the heat to be measured produces in the length of some expansible substance, as a metallic rod, or in the intensity of a thermo-electric current."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

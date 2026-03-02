@@ -1,0 +1,60 @@
+{
+  "key": "quadratic",
+  "source_file": "CIDE.Q",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Quadratic",
+      "headword_raw": "Quad*rat\"ic",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Cf. F. quadratique.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to a square, or to squares; resembling a quadrate, or square; square."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Crystallog.)"
+          ],
+          "defs": [
+            "Tetragonal."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Alg.)"
+          ],
+          "defs": [
+            "Pertaining to terms of the second degree; as, a quadratic equation, in which the highest power of the unknown quantity is a square."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

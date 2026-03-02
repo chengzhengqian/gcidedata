@@ -1,0 +1,84 @@
+{
+  "key": "pygmy",
+  "source_file": "CIDE.P",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Pygmy",
+      "headword_raw": "Pyg\"my",
+      "pr": "(?)",
+      "pos": [],
+      "ety": null,
+      "sources": [],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Pygmy",
+      "headword_raw": "Pyg\"my",
+      "pr": "(#)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. pygmaeus, Gr. <?/, fr. <?/ the fist, a measure of length, the distance from the elbow to the knuckles, about 131 inches. Cf. Pugnacious, Fist.]",
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Class. Myth.)"
+          ],
+          "defs": [
+            "One of a fabulous race of dwarfs who waged war with the cranes, and were destroyed."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Hence, a short, insignificant person; a dwarf."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "One of a race of Central African Negritos found chiefly in the great forests of the equatorial belt. They are the shortest of known races, the adults ranging from less than four to about five feet in stature. They are timid and shy, dwelling in the recesses of the forests, though often on good terms with neighboring Negroes."
+          ],
+          "quotes": [
+            "Pygmies are pygmies still, though perched on Alps. And pyramids are pyramids in vales."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

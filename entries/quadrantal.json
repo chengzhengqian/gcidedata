@@ -1,0 +1,79 @@
+{
+  "key": "quadrantal",
+  "source_file": "CIDE.Q",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Quadrantal",
+      "headword_raw": "Quad*ran\"tal",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. quadrantalis containing the fourth fourth part of a measure.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Geom.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to a quadrant; also, included in the fourth part of a circle; as, quadrantal space."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Quadrantal",
+      "headword_raw": "Quad*ran\"tal",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[L.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Rom. Antiq.)"
+          ],
+          "defs": [
+            "A cubical vessel containing a Roman cubic foot, each side being a Roman square foot; -- used as a measure."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A cube."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

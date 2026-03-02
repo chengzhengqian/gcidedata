@@ -1,0 +1,65 @@
+{
+  "key": "qed",
+  "source_file": "CIDE.Q",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "QED.",
+      "headword_raw": "QED.",
+      "pr": "(kū\"ē*dē\")",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Quantum electrodynamics."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "QED",
+      "headword_raw": "QED",
+      "pr": "(kū\"ē*dē\")",
+      "pos": [
+        "interj."
+      ],
+      "ety": "[From Latin, quod erat demonstrandum, i.e. which was demonstrated.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Which was demonstrated; -- a phrase used after the conclusion of some line of reasoning, especially in mathematical or logical proofs."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

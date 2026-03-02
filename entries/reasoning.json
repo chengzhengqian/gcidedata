@@ -1,0 +1,53 @@
+{
+  "key": "reasoning",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Reasoning",
+      "headword_raw": "Rea\"son*ing",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "-- Reasoning, Argumentation. Few words are more interchanged than these; and yet, technically, there is a difference between them. Reasoning is the broader term, including both deduction and induction. Argumentation denotes simply the former, and descends from the whole to some included part; while reasoning embraces also the latter, and ascends from the parts to a whole. See Induction. Reasoning is occupied with ideas and their relations; argumentation has to do with the forms of logic. A thesis is set down: you attack, I defend it; you insist, I reply; you deny, I prove; you distinguish, I destroy your distinctions; my replies balance or overturn your objections. Such is argumentation. It supposes that there are two sides, and that both agree to the same rules. Reasoning, on the other hand, is often a natural process, by which we form, from the general analogy of nature, or special presumptions in the case, conclusions which have greater or less degrees of force, and which may be strengthened or weakened by subsequent experience."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act or process of adducing a reason or reasons; manner of presenting one's reasons."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That which is offered in argument; proofs or reasons when arranged and developed; course of argument."
+          ],
+          "quotes": [
+            "His reasoning was sufficiently profound."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Argumentation",
+            "argument"
+          ]
+        }
+      ]
+    }
+  ]
+}

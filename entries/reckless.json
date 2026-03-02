@@ -1,0 +1,81 @@
+{
+  "key": "reckless",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Reckless",
+      "headword_raw": "Reck\"less",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[AS. recceles, rēceles.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Recklessly",
+          "form_raw": "Reck\"less*ly",
+          "key": "recklessly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Recklessness",
+          "form_raw": "Reck\"less*ness",
+          "key": "recklessness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Inattentive to duty; careless; neglectful; indifferent."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Rashly negligent; utterly careless or heedless."
+          ],
+          "quotes": [
+            "It made the king as reckless as them diligent."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Heedless",
+            "careless",
+            "mindless",
+            "thoughtless",
+            "negligent",
+            "indifferent",
+            "regardless",
+            "unconcerned",
+            "inattentive",
+            "remiss",
+            "rash"
+          ]
+        }
+      ]
+    }
+  ]
+}

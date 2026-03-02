@@ -1,0 +1,41 @@
+{
+  "key": "recidivism",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Recidivism",
+      "headword_raw": "Re*cid\"i*vism",
+      "pr": "(r*sd\"*vz'm)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Criminology)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The state or quality of being recidivous; relapse,",
+            "a falling back or relapse into prior criminal habits, esp. after conviction and punishment."
+          ],
+          "quotes": [
+            "The old English system of recognizances, in which the guilty party deposits a sum of money, is an excellent guarantee to society against recidivism."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

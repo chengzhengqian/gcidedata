@@ -1,0 +1,61 @@
+{
+  "key": "re-enter",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Re-enter",
+      "headword_raw": "Re-en\"ter",
+      "pr": "(r?*?n\"t?r)",
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To enter again; as, You cannot re-enter the country with this visa."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Engraving)"
+          ],
+          "defs": [
+            "To cut deeper, as engraved lines on a plate of metal, when the engraving has not been deep enough, or the plate has become worn in printing."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "To put (data) into a document or form on a computer again; -- usually to correct an erroneous entry; as, the password was incorrect, and had to be reentered."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

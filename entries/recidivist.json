@@ -1,0 +1,49 @@
+{
+  "key": "recidivist",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Recidivist",
+      "headword_raw": "Re*cid\"i*vist",
+      "pr": "(r*sd\"*vst)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Recidivistic",
+          "form_raw": "Re*cid`i*vis\"tic",
+          "key": "recidivistic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(r*sd`*vs\"tk)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "One who is recidivous or is characterized by recidivism; an incorrigible criminal."
+          ],
+          "quotes": [
+            "The criminal by passion never becomes a recidivist, it is the social, not the antisocial, instincts that are strong within him, his crime is a solitary event in his life."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

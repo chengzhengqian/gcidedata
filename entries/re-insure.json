@@ -1,0 +1,50 @@
+{
+  "key": "re-insure",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "re-insure",
+      "headword_raw": "re-insure",
+      "pr": null,
+      "pos": [
+        "v."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "to provide additional insurance for."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "reinsure"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "to insure again by transferring to another insurance company all or a part of a liability assumed."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "reinsure"
+          ]
+        }
+      ]
+    }
+  ]
+}

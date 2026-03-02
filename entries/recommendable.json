@@ -1,0 +1,57 @@
+{
+  "key": "recommendable",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Recommendable",
+      "headword_raw": "Rec`om*mend\"a*ble",
+      "pr": "(-?*b'l)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[Cf. F. recommandable.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Recommendableness",
+          "form_raw": "Rec`om*mend\"a*ble*ness",
+          "key": "recommendableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Recommendably",
+          "form_raw": "Rec`om*mend\"a*bly",
+          "key": "recommendably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Suitable to be recommended; worthy of praise; commendable."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

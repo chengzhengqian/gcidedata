@@ -1,0 +1,80 @@
+{
+  "key": "recessive",
+  "source_file": "CIDE.R",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Recessive",
+      "headword_raw": "Re*ces\"sive",
+      "pr": "(r*ss\"sv)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Going back; receding."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Genetics)"
+          ],
+          "defs": [
+            "Not appearing in the phenotype unless both alleles of the organism have the same trait; -- of genetic characteristics, or of the genes coding for such characteristics, in diploid organisms. Opposite of dominant; hemophilia is a recessive trait."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Recessive",
+      "headword_raw": "Re*ces\"sive",
+      "pr": "(r*ss\"sv)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Genetics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A genetic trait determined by a recessive{2} allele; a trait not appearing in the phenotype unless both chromosomes of the organism have the same allele; also, an allele which is recessive{2}."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "key": "recitative",
+  "source_file": "CIDE.R",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Recitative",
+      "headword_raw": "Rec`i*ta*tive\"",
+      "pr": "(rs`*t*tēv\")",
+      "pos": [
+        "n."
+      ],
+      "ety": "[It. recitativo, or F. rcitatif. See Recite.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Mus.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A species of musical recitation in which the words are delivered in a manner resembling that of ordinary declamation; also, a piece of music intended for such recitation; -- opposed to melisma."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Recitative",
+      "headword_raw": "Rec`i*ta*tive\"",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Recitatively",
+          "form_raw": "Rec`i*ta*tive\"ly",
+          "key": "recitatively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to recitation; intended for musical recitation or declamation; in the style or manner of recitative."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

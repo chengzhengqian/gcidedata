@@ -1,0 +1,80 @@
+{
+  "key": "re-run",
+  "source_file": "CIDE.R",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "re-run",
+      "headword_raw": "re-run\"",
+      "pr": "(rē*rn\")",
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To broadcast again, as of a film; as, they reran the episode for the tenth time."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "rebroadcast"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To perform again, as an experiment; as, they reran the test to confirm the surprising result."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "re-run",
+      "headword_raw": "re\"-run",
+      "pr": "(rē\"rn)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "rebroadcast"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A repeated broadcast, such as of a film or episode of a television series; as, the seventh rerun had a surprisingly large audience."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

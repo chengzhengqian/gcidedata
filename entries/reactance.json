@@ -1,0 +1,38 @@
+{
+  "key": "reactance",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Reactance",
+      "headword_raw": "Re*act\"ance",
+      "pr": "(r*k\"tns)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[React + -ance.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Elec.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The influence of a coil of wire upon an alternating current passing through it, tending to choke or diminish the current, or the similar influence of a condenser; inductive resistance. Reactance is measured in ohms. The reactance of a circuit is equal to the component of the impressed electro-motive force at right angles to the current divided by the current, that is, the component of the impedance due to the self-inductance or capacity of the circuit."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "key": "receivable",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Receivable",
+      "headword_raw": "Re*ceiv\"a*ble",
+      "pr": "(r*sēv\"*b'l)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": "[Cf. F. recevable.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Receivableness",
+          "form_raw": "Re*ceiv\"a*ble*ness",
+          "key": "receivableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Capable of being received."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

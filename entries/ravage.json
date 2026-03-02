@@ -1,0 +1,93 @@
+{
+  "key": "ravage",
+  "source_file": "CIDE.R",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Ravage",
+      "headword_raw": "Rav\"age",
+      "pr": "(rv\"j; 48)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F., fr. (assumed) L. rapagium, rapaticum, fr. rapere to carry off by force, to ravish. See Rapacious, Ravish.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "Despoilment",
+        "devastation",
+        "desolation",
+        "pillage",
+        "plunder",
+        "spoil",
+        "waste",
+        "ruin"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Desolation by violence; violent ruin or destruction; devastation; havoc; waste; as, the ravage of a lion; the ravages of fire or tempest; the ravages of an army, or of time."
+          ],
+          "quotes": [
+            "Would one think 't were possible for love To make such ravage in a noble soul?"
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Ravage",
+      "headword_raw": "Rav\"age",
+      "pr": "(rv\"jd)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "n."
+      ],
+      "ety": "[F. ravager. See Ravage, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Ravaged (rv\"jd); p. pr. & vb. n. Ravaging (rv\"*jng).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "despoil",
+        "pillage",
+        "plunder",
+        "sack",
+        "spoil",
+        "devastate",
+        "desolate",
+        "destroy",
+        "waste",
+        "ruin"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To lay waste by force; to desolate by violence; to commit havoc or devastation upon; to spoil; to plunder; to consume."
+          ],
+          "quotes": [
+            "Already Caesar Has ravaged more than half the globe.",
+            "His lands were daily ravaged, his cattle driven away."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "key": "reciprocal",
+  "source_file": "CIDE.R",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Reciprocal",
+      "headword_raw": "Re*cip\"ro*cal",
+      "pr": "(r*sp\"r*kl)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. reciprocus; of unknown origin.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "-- Reciprocal, Mutual. The distinctive idea of mutual is, that the parties unite by interchange in the same act; as, a mutual covenant; mutual affection, etc. The distinctive idea of reciprocal is, that one party acts by way of return or response to something previously done by the other party; as, a reciprocal kindness; reciprocal reproaches, etc. Love is reciprocal when the previous affection of one party has drawn forth the attachment of the other. To make it mutual in the strictest sense, the two parties should have fallen in love at the same time; but as the result is the same, the two words are here used interchangeably. The ebbing and flowing of the tide is a case where the action is reciprocal, but not mutual."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Recurring in vicissitude; alternate."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Done by each to the other; interchanging or interchanged; given and received; due from each to each; mutual; as, reciprocal love; reciprocal duties."
+          ],
+          "quotes": [
+            "Let our reciprocal vows be remembered."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Mutually interchangeable."
+          ],
+          "quotes": [
+            "These two rules will render a definition reciprocal with the thing defined."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Gram.)"
+          ],
+          "defs": [
+            "Reflexive; -- applied to pronouns and verbs, but sometimes limited to such pronouns as express mutual action."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Math.)",
+            "(Math.)",
+            "(Geom.)",
+            "(Math.)",
+            "(Math.)",
+            "(Math.)",
+            "(Logic)"
+          ],
+          "defs": [
+            "Used to denote different kinds of mutual relation; often with reference to the substitution of reciprocals for given quantities. See the Phrases below."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Mutual",
+            "alternate"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Reciprocal",
+      "headword_raw": "Re*cip\"ro*cal",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "That which is reciprocal to another thing."
+          ],
+          "quotes": [
+            "Corruption is a reciprocal to generation."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Arith. & Alg.)"
+          ],
+          "defs": [
+            "The quotient arising from dividing unity by any quantity; thus ¼ is the reciprocal of 4; 1/(a + b) is the reciprocal of a + b. The reciprocal of a fraction is the fraction inverted, or the denominator divided by the numerator."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

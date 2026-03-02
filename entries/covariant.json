@@ -1,0 +1,38 @@
+{
+  "key": "covariant",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Covariant",
+      "headword_raw": "Co*va\"ri*ant",
+      "pr": "(k?-v?\"r?-nt)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Higher Alg.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A function involving the coefficients and the variables of a quantic, and such that when the quantic is lineally transformed the same function of the new variables and coefficients shall be equal to the old function multiplied by a factor. An invariant is a like function involving only the coefficients of the quantic."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

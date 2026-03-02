@@ -1,0 +1,60 @@
+{
+  "key": "crapaud",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Crapaud",
+      "headword_raw": "Cra*paud\"",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. crapaud.]",
+      "sources": [
+        "Webster 1913 Suppl.",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A toad."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "As a proper name, Johnny Crapaud, or Crapaud, a nickname for a Frenchman."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "large toothed frog of South and Central America (Leptodactylus pentadactylus) resembling the bullfrog."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "South American bullfrog",
+            "Leptodactylus pentadactylus"
+          ]
+        }
+      ]
+    }
+  ]
+}

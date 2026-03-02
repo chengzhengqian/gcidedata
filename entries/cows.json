@@ -1,0 +1,42 @@
+{
+  "key": "cows",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "cows",
+      "headword_raw": "cows",
+      "pr": null,
+      "pos": [
+        "n. pl.",
+        "pl."
+      ],
+      "ety": "[pl. of cow.]",
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "cattle",
+        "kine",
+        "oxen",
+        "Bos taurus"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "domesticated bovine animals as a group regardless of sex or age; as, wait till the cows come home."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

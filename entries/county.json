@@ -1,0 +1,58 @@
+{
+  "key": "county",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "County",
+      "headword_raw": "Coun\"ty",
+      "pr": "(koun\"t)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. comt, fr. LL. comitatus. See Count.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "An earldom; the domain of a count or earl."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A circuit or particular portion of a state or kingdom, separated from the rest of the territory, for certain purposes in the administration of justice and public affairs; -- called also a shire. See Shire."
+          ],
+          "quotes": [
+            "Every county, every town, every family, was in agitation."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A count; an earl or lord."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

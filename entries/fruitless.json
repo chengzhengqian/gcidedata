@@ -1,0 +1,78 @@
+{
+  "key": "fruitless",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Fruitless",
+      "headword_raw": "Fruit\"less",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Fruitlessly",
+          "form_raw": "Fruit\"less*ly",
+          "key": "fruitlessly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Fruitlnessness",
+          "form_raw": "Fruit\"lness*ness",
+          "key": "fruitlnessness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Lacking, or not bearing, fruit; barren; destitute of offspring; as, a fruitless tree or shrub; a fruitless marriage."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Productive of no advantage or good effect; vain; idle; useless; unprofitable; as, a fruitless attempt; a fruitless controversy."
+          ],
+          "quotes": [
+            "They in mutual accusation spent The fruitless hours."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Useless",
+            "barren",
+            "unprofitable",
+            "abortive",
+            "ineffectual",
+            "vain",
+            "idle",
+            "profitless. See Useless"
+          ]
+        }
+      ]
+    }
+  ]
+}

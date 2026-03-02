@@ -1,0 +1,119 @@
+{
+  "key": "ftp",
+  "source_file": "CIDE.F",
+  "record_count": 4,
+  "records": [
+    {
+      "headword": "ftp",
+      "headword_raw": "ftp",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "FTP",
+      "headword_raw": "FTP",
+      "pr": "(f`tē*pē\")",
+      "pos": [
+        "n."
+      ],
+      "ety": "[acronym from File Transfer Protocol.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Computers)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An acronym for file transfer protocol, a standardized protocol used to allow transmission of files between computers; as, send me the file by ftp. It consists of a set of coded signals which are transmitted between computers, and which inform the receiving computer of the nature of a packet of information to be transmitted, and inform the transmitting computer when a packet has been successfully received."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "ftp",
+      "headword_raw": "ftp",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "FTP",
+      "headword_raw": "FTP",
+      "pr": "(f`tē*pē\")",
+      "pos": [
+        "prop. v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[acronym from File Transfer Protocol.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": "[imp. & p. p. ftp'd or FTP'd (f`tē*pēd\"); p. pr. & vb. n. FTPing or ftp'ing or ftp-ing (f`tē*pē\"ng).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Computers)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To send from one computer to another by means of the standard file transfer protocol (ftp); as, he ftp'd me the file yesterday."
+          ],
+          "quotes": [],
+          "notes": [
+            "The participle forms have not been standardized, and either lower-case or upper-case may be used, but when lower-case is used, either a hyphen or apostrophe is used before the ed or ing endings."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

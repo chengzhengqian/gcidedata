@@ -1,0 +1,70 @@
+{
+  "key": "fruitful",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Fruitful",
+      "headword_raw": "Fruit\"ful",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Fruitfully",
+          "form_raw": "Fruit\"ful*ly",
+          "key": "fruitfully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Fruitfulness",
+          "form_raw": "Fruit\"ful*ness",
+          "key": "fruitfulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Fertile",
+        "prolific",
+        "productive",
+        "fecund",
+        "plentiful",
+        "rich",
+        "abundant",
+        "plenteous. See Fertile"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Full of fruit; producing fruit abundantly; bearing results; prolific; fertile; liberal; bountiful; as, a fruitful tree, or season, or soil; a fruitful wife."
+          ],
+          "quotes": [
+            "Be fruitful and multiply and replenish the earth.",
+            "[Nature] By disburdening grows More fruitful.",
+            "The great fruitfulness of the poet's fancy."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

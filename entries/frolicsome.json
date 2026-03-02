@@ -1,0 +1,59 @@
+{
+  "key": "frolicsome",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Frolicsome",
+      "headword_raw": "Frol\"ic*some",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Frolicsomely",
+          "form_raw": "Frol\"ic*some*ly",
+          "key": "frolicsomely",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Frolicsomeness",
+          "form_raw": "Frol\"ic*some*ness",
+          "key": "frolicsomeness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Full of gayety and mirth; given to pranks; sportive."
+          ],
+          "quotes": [
+            "Old England, who takes a frolicsome brain fever once every two or three years, for the benefit of her doctors."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

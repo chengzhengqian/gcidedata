@@ -1,0 +1,40 @@
+{
+  "key": "fugue",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Fugue",
+      "headword_raw": "Fugue",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F., fr. It. fuga, fr. L. fuga a fleeing, flight, akin to fugere to fiee. See Fugitive.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Mus.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A polyphonic composition, developed from a given theme or themes, according to strict contrapuntal rules. The theme is first given out by one voice or part, and then, while that pursues its way, it is repeated by another at the interval of a fifth or fourth, and so on, until all the parts have answered one by one, continuing their several melodies and interweaving them in one complex progressive whole, in which the theme is often lost and reappears."
+          ],
+          "quotes": [
+            "All parts of the scheme are eternally chasing each other, like the parts of a fugue."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

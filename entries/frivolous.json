@@ -1,0 +1,75 @@
+{
+  "key": "frivolous",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Frivolous",
+      "headword_raw": "Friv\"o*lous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. frivolus; prob. akin to friare to rub, crumble, E. friable: cf. F. frivole.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Frivolously",
+          "form_raw": "Friv\"o*lous*ly",
+          "key": "frivolously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Frivolousness",
+          "form_raw": "Friv\"o*lous*ness",
+          "key": "frivolousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of little weight or importance; not worth notice; slight; as, a frivolous argument."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Given to trifling; marked with unbecoming levity; silly; interested especially in trifling matters."
+          ],
+          "quotes": [
+            "His personal tastes were low and frivolous."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Trifling",
+            "trivial",
+            "slight",
+            "petty",
+            "worthless"
+          ]
+        }
+      ]
+    }
+  ]
+}

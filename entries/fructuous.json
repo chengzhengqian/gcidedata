@@ -1,0 +1,59 @@
+{
+  "key": "fructuous",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Fructuous",
+      "headword_raw": "Fruc\"tu*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. fructuosus: cf, F. fructueux.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Fructuously",
+          "form_raw": "Fruc\"tu*ous*ly",
+          "key": "fructuously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Fructuousness",
+          "form_raw": "Fruc\"tu*ous*ness",
+          "key": "fructuousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Fruitful; productive; profitable."
+          ],
+          "quotes": [
+            "Nothing fructuous or profitable."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

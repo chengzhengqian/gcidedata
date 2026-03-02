@@ -1,0 +1,69 @@
+{
+  "key": "froward",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Froward",
+      "headword_raw": "Fro\"ward",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Fro + -ward. See Fro, and cf. Fromward.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Frowardly",
+          "form_raw": "Fro\"ward*ly",
+          "key": "frowardly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Frowardness",
+          "form_raw": "Fro\"ward*ness",
+          "key": "frowardness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Untoward",
+        "wayward",
+        "unyielding",
+        "ungovernable: refractory",
+        "obstinate",
+        "petulant",
+        "cross",
+        "peevish. See Perverse"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not willing to yield or comply with what is required or is reasonable; perverse; disobedient; peevish; as, a froward child."
+          ],
+          "quotes": [
+            "A froward man soweth strife.",
+            "A froward retention of custom is as turbulent a thing as innovation."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

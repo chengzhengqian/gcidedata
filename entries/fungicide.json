@@ -1,0 +1,46 @@
+{
+  "key": "fungicide",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Fungicide",
+      "headword_raw": "Fun\"gi*cide`",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Fungi + -cide, fr. L. caedere to kill.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Fungicidal",
+          "form_raw": "Fun`gi*ci\"dal",
+          "key": "fungicidal",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Anything that kills fungi."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "key": "full-dress",
+  "source_file": "CIDE.F",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "full-dress",
+      "headword_raw": "full-dress",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "dress suit",
+        "full dress",
+        "tailcoat",
+        "tail coat",
+        "tails",
+        "white tie",
+        "white tie and tails"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "full evening dress for men."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "full-dress",
+      "headword_raw": "full-dress",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "suitable for formal occasions; as, a full-dress uniform."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "dress"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "requiring formal clothes; -- of a social event; as, a full-dress ceremony."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "dress"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "complete in every respect, including formalities; as, a full-dress debate; a full-dress investigation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

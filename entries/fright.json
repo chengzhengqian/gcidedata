@@ -1,0 +1,89 @@
+{
+  "key": "fright",
+  "source_file": "CIDE.F",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Fright",
+      "headword_raw": "Fright",
+      "pr": "(frīt)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. frigt, freyht, AS. fyrhto, fyrhtu; akin to OS. forhta, OHG. forhta, forahta, G. furcht, Dan. frygt, Sw. fruktan, Goth. farhtei fear, farhts timid.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A state of terror excited by the sudden appearance of danger; sudden and violent fear, usually of short duration; a sudden alarm."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Anything strange, ugly or shocking, producing a feeling of alarm or aversion."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Alarm",
+            "terror",
+            "consternation. See Alarm"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Fright",
+      "headword_raw": "Fright",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp.",
+        "p. pr. & vb. n.",
+        "n."
+      ],
+      "ety": "[OE. frigten to fear, frighten, AS. fyrhtan to frighten, forhtian to fear; akin to OS. forhtian, OHG. furihten, forahtan, G. fürchten, Sw. frukta, Dan. frygte, Goth. faurhtjan. See Fright, n., and cf. Frighten.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. Frighted; p. pr. & vb. n.. Frighting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "affright",
+        "dismay",
+        "daunt",
+        "intimidate"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To alarm suddenly; to shock by causing sudden fear; to terrify; to scare."
+          ],
+          "quotes": [
+            "Nor exile or danger can fright a brave spirit."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

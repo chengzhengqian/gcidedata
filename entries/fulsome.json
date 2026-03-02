@@ -1,0 +1,81 @@
+{
+  "key": "fulsome",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Fulsome",
+      "headword_raw": "Ful\"some",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Full, a. + -some.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Fulsomely",
+          "form_raw": "Ful\"some*ly",
+          "key": "fulsomely",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Fulsomeness",
+          "form_raw": "Ful\"some*ness",
+          "key": "fulsomeness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Full; abundant; plenteous; not shriveled."
+          ],
+          "quotes": [
+            "His lean, pale, hoar, and withered corpse grew fulsome, fair, and fresh."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Offending or disgusting by overfullness, excess, or grossness; cloying; gross; nauseous; esp., offensive from excess of praise; as, fulsome flattery."
+          ],
+          "quotes": [
+            "And lest the fulsome artifice should fail Themselves will hide its coarseness with a veil."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Lustful; wanton; obscene; also, tending to obscenity."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

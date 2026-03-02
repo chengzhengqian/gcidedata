@@ -1,0 +1,104 @@
+{
+  "key": "fugitive",
+  "source_file": "CIDE.F",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Fugitive",
+      "headword_raw": "Fu\"gi*tive",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[OE. fugitif, F. fugitif, fr. L. fugitivus, fr. fugere to flee. See Bow to bend, and cf. Feverfew.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Fleeing from pursuit, danger, restraint, etc., escaping, from service, duty etc.; as, a fugitive solder; a fugitive slave; a fugitive debtor."
+          ],
+          "quotes": [
+            "The fugitive Parthians follow.",
+            "Can a fugitive daughter enjoy herself while her parents are in tear?",
+            "A libellous pamphlet of a fugitive physician."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Not fixed; not durable; liable to disappear or fall away; volatile; uncertain; evanescent; liable to fade; -- applied to material and immaterial things; as, fugitive colors; a fugitive idea."
+          ],
+          "quotes": [
+            "The me more tender and fugitive parts, the leaves . . . of vegatables."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Fleeting",
+            "unstable",
+            "wandering",
+            "uncertain",
+            "volatile",
+            "fugacious",
+            "fleeing",
+            "evanescent"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Fugitive",
+      "headword_raw": "Fu\"gi*tive",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One who flees from pursuit, danger, restraint, service, duty, etc.; a deserter; as, a fugitive from justice."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "Something hard to be caught or detained."
+          ],
+          "quotes": [
+            "Or Catch that airy fugitive called wit."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

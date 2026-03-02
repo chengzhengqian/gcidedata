@@ -1,0 +1,50 @@
+{
+  "key": "funereal",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Funereal",
+      "headword_raw": "Fu*ne\"re*al",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[L. funereus, fr. fentus a funeral.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Funereally",
+          "form_raw": "Fu*ne\"re*al*ly",
+          "key": "funereally",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Suiting a funeral; pertaining to burial; solemn; as, at a funereal pace.",
+            "Dark; dismal; mournful."
+          ],
+          "quotes": [
+            "What seem to us but sad funereal tapers May be heaven's distant lamps."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

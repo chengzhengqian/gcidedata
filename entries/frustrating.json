@@ -1,0 +1,84 @@
+{
+  "key": "frustrating",
+  "source_file": "CIDE.F",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "frustrating",
+      "headword_raw": "frustrating",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "frustration",
+        "thwarting",
+        "foiling"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "an act of hindering someone's plans or efforts."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "frustrating",
+      "headword_raw": "frustrating",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "preventing realization or attainment of a desire; causing frustration."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "frustrative",
+            "thwarting"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "discouraging. Opposite of encouraging."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "disappointing"
+          ]
+        }
+      ]
+    }
+  ]
+}

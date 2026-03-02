@@ -1,0 +1,54 @@
+{
+  "key": "frivol",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Frivol",
+      "headword_raw": "Friv\"ol",
+      "pr": "(?)",
+      "pos": [
+        "v. i.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Frivoler",
+          "form_raw": "Friv\"ol*er",
+          "key": "frivoler",
+          "pos": [],
+          "pr": "(#)"
+        },
+        {
+          "form": "Frivoller",
+          "form_raw": "Friv\"ol*ler",
+          "key": "frivoller",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To act frivolously; to trifle."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

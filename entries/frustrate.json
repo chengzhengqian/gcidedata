@@ -1,0 +1,85 @@
+{
+  "key": "frustrate",
+  "source_file": "CIDE.F",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Frustrate",
+      "headword_raw": "Frus\"trate",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. frustratus, p. p. of frustrare, frustrari, to deceive, frustrate, fr. frustra in vain, witout effect, in erorr, prob. for frudtra and akin to fraus, E. fraud.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Vain; ineffectual; useless; unprofitable; null; void; nugatory; of no effect."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Frustrate",
+      "headword_raw": "Frus\"trate",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Frustrated (?); p. pr. & vb. n. Frustrating.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To bring to nothing; to prevent from attaining a purpose; to disappoint; to defeat; to baffle; as, to frustrate a plan, design, or attempt; to frustrate the will or purpose."
+          ],
+          "quotes": [
+            "Shall the adversary thus obtain His end and frustrate thine ?"
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To make null; to nullify; to render invalid or of no effect; as, to frustrate a conveyance or deed."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "balk",
+            "thwart",
+            "foil",
+            "baffle",
+            "defeat"
+          ]
+        }
+      ]
+    }
+  ]
+}

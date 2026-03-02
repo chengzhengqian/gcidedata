@@ -1,0 +1,39 @@
+{
+  "key": "ampere-second",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "ampere-second",
+      "headword_raw": "ampere-second",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a unit of charge equal to that acquired by the accumulation of one ampere for one second."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "coulomb",
+            "C"
+          ]
+        }
+      ]
+    }
+  ]
+}

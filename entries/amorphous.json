@@ -1,0 +1,79 @@
+{
+  "key": "amorphous",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Amorphous",
+      "headword_raw": "A*mor\"phous",
+      "pr": "(<?/)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Gr. <?/; 'a priv. + morfh` form.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Amorphously",
+          "form_raw": "A*mor\"phous*ly",
+          "key": "amorphously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Amorphousness",
+          "form_raw": "A*mor\"phous*ness",
+          "key": "amorphousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Having no determinate form; of irregular; shapeless."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Without crystallization in the ultimate texture of a solid substance; uncrystallized."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Of no particular kind or character; anomalous."
+          ],
+          "quotes": [
+            "Scientific treatises . . . are not seldom rude and amorphous in style."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

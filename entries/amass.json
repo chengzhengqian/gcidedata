@@ -1,0 +1,73 @@
+{
+  "key": "amass",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Amass",
+      "headword_raw": "A*mass\"",
+      "pr": "(<?/)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[F. ambusher, LL. amassare; L. ad + massa lump, mass. See Mass.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Amassed (<?/); p. pr. & vb. n. Amassing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "accumulate",
+        "heap up",
+        "pile"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To collect into a mass or heap; to gather a great quantity of; to accumulate; as, to amass a treasure or a fortune; to amass words or phrases."
+          ],
+          "quotes": [
+            "The life of Homer has been written by amassing all the traditions and hints the writers could meet with."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Amass",
+      "headword_raw": "A*mass\"",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[OF. amasse, fr. ambusher.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A mass; a heap."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

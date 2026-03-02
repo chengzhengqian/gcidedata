@@ -1,0 +1,52 @@
+{
+  "key": "amphibolous",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Amphibolous",
+      "headword_raw": "Am*phib\"o*lous",
+      "pr": "(<?/)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. amphibolus, Gr. <?/ thrown about, doubtful. See Amphibole.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Ambiguous; doubtful."
+          ],
+          "quotes": [
+            "Never was there such an amphibolous quarrel -- both parties declaring themselves for the king."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Logic)"
+          ],
+          "defs": [
+            "Capable of two meanings."
+          ],
+          "quotes": [
+            "An amphibolous sentence is one that is capable of two meanings, not from the double sense of any of the words, but from its admitting of a double construction; e. g., “The duke yet lives that Henry shall depose.”"
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

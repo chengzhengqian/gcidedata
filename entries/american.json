@@ -1,0 +1,80 @@
+{
+  "key": "american",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "American",
+      "headword_raw": "A*mer\"i*can",
+      "pr": "(*mr\"*kn)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Named from Americus Vespucius.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to America; as, the American continent: American Indians."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(U. S. Politics)",
+            "(U. S. Politics)"
+          ],
+          "defs": [
+            "Of or pertaining to the United States."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "American",
+      "headword_raw": "A*mer\"i*can",
+      "pr": "(*mr\"*kn)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A native of America; -- originally applied to the aboriginal inhabitants, but now applied to the descendants of Europeans born in America, and especially to the citizens of the United States."
+          ],
+          "quotes": [
+            "The name American must always exalt the pride of patriotism."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

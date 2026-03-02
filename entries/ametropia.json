@@ -1,0 +1,50 @@
+{
+  "key": "ametropia",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "ametropia",
+      "headword_raw": "am`e*tro\"pi*a",
+      "pr": "(m`*trō\"p*)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Gr. 'a`metros irregular + 'w`ps, 'wpo`s, eye.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Ametropic",
+          "form_raw": "Am`e*trop\"ic",
+          "key": "ametropic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(m`*trp\"k)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A visual impairment resulting from faulty refraction of light rays in the eye. Subtypes include myopia astigmatism and hyperopia."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

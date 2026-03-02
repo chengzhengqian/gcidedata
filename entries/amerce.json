@@ -1,0 +1,53 @@
+{
+  "key": "amerce",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Amerce",
+      "headword_raw": "A*merce\"",
+      "pr": "(*mrs\")",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OF. amercier, fr. a merci at the mercy of, liable to a punishment. See Mercy.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Amerced (*mrst\"); p. pr. & vb. n. Amercing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To punish by a pecuniary penalty, the amount of which is not fixed by law, but left to the discretion of the court; as, the court amerced the criminal in the sum of one hundred dollars."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The penalty or fine may be expressed without a preposition, or it may be introduced by in, with, or of."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To punish, in general; to mulct."
+          ],
+          "quotes": [
+            "Millions of spirits for his fault amerced Of Heaven.",
+            "Shall by him be amerced with penance due."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

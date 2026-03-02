@@ -1,0 +1,39 @@
+{
+  "key": "ambulance",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Ambulance",
+      "headword_raw": "Am\"bu*lance",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. ambulance, hpital ambulant, fr. L. ambulare to walk. See Amble.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Mil.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A field hospital, so organized as to follow an army in its movements, and intended to succor the wounded as soon as possible. Often used adjectively; as, an ambulance wagon; ambulance stretcher; ambulance corps.",
+            "An ambulance wagon or cart for conveying the wounded from the field, or to a hospital."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

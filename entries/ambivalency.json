@@ -1,0 +1,50 @@
+{
+  "key": "ambivalency",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "ambivalency",
+      "headword_raw": "ambivalency",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "mixed feelings or emotions; uncertainty or vacillation in making a choice."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Psychol.)"
+          ],
+          "defs": [
+            "the simultaneous existence within a person of both positive and negative feelings toward another person or action, or toward an object (as of attraction and revulsion), resulting in internal conflict."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

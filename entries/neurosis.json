@@ -1,0 +1,51 @@
+{
+  "key": "neurosis",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Neurosis",
+      "headword_raw": "Neu*ro\"sis",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[NL., fr. Gr. ney^ron nerve.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "A functional nervous affection or disease, that is, a disease of the nerves without any appreciable change of nerve structure."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Psychiatry)"
+          ],
+          "defs": [
+            "a mental or emotional disorder that affects only part of the personality, and involves less distorted perceptions of reality than a psychosis. As used in medicine, anxiety is a prominent characteristic, and the condition may be accompanied by psychosomatic symptoms. Phobias and compulsive behavior are common varieties."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

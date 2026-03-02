@@ -1,0 +1,51 @@
+{
+  "key": "neuron",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Neuron",
+      "headword_raw": "Neu\"ron",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[NL., from Gr. ney^ron nerve.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Anat.)"
+      ],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The brain and spinal cord; the cerebro-spinal axis; myelencephalon."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Cell Biology)"
+          ],
+          "defs": [
+            "The characteristic specialized cell that is part of the nervous system, serving to conduct electrical impulses to and from the brain, and also between other parts of the body, and composed of a main cell body, the axon, with a varying number of processes of varying length, the dendrites; a nerve cell. The movement and behavior of higher animals depends on the signals transmitted by such nerve cells."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "key": "nephelometer",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Nephelometer",
+      "headword_raw": "Neph`e*lom\"e*ter",
+      "pr": "(nf`*lm\"*tr)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. nefe`lh a cloud + -meter.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "An instrument for measuring or registering the amount of cloudiness."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Chem., Microbiol.)"
+          ],
+          "defs": [
+            "An instrument which measures the degree to which liquid suspensions scatter light, and by inference, the concentration of scattering particles in the suspension. It is used for various purposes, such as to estimate the number of bacteria in suspension in a liquid."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

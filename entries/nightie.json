@@ -1,0 +1,51 @@
+{
+  "key": "nightie",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "nightie",
+      "headword_raw": "nightie",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Any loose-fitting clothing for wear in bed."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a loose dress designed to be worn in bed by women; a nightgown."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "nightgown",
+            "night-robe",
+            "nightdress"
+          ]
+        }
+      ]
+    }
+  ]
+}

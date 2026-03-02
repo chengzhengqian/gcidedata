@@ -1,0 +1,96 @@
+{
+  "key": "nil",
+  "source_file": "CIDE.N",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Nil",
+      "headword_raw": "Nil",
+      "pr": "(?)",
+      "pos": [
+        "v. t."
+      ],
+      "ety": "[See Nill, v. t.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Will not."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Nil",
+      "headword_raw": "Nil",
+      "pr": null,
+      "pos": [
+        "n. & a."
+      ],
+      "ety": "[L., a contr. of nihil.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Nothing; of no account; worthless; -- a term often used for canceling, in accounts or bookkeeping."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Nil",
+      "headword_raw": "Nil",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(computers)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A special value for a variable used in certain computer languages to mean no assigned value, to be distinguished from the value zero."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

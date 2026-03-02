@@ -1,0 +1,45 @@
+{
+  "key": "nicotinic_acid",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "nicotinic acid",
+      "headword_raw": "nic`o*tin\"ic ac\"id",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "3-pyridinecarboxylic acid",
+        "niacin",
+        "antipellagra vitamin"
+      ],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An organic acid (C6H5NO2), a carboxylated derivative of pyridine, obtained by the oxidation of nicotine; called also niacin and antipellagra vitamin, and vitamin B5. Chemically it is 3-pyridinecarboxylic acid."
+          ],
+          "quotes": [],
+          "notes": [
+            "It is a cofactor in several enzymatic reactions, and is used to prevent a pellagra-like disease in dogs. [MI11]"
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

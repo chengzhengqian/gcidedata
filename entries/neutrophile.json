@@ -1,0 +1,58 @@
+{
+  "key": "neutrophile",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Neutrophile",
+      "headword_raw": "Neu\"tro*phile",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[L. neuter + Gr. <?/ loving.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Neutrophilic",
+          "form_raw": "Neu\"tro*phil\"ic",
+          "key": "neutrophilic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Neutrophilous",
+          "form_raw": "Neu*troph\"i*lous",
+          "key": "neutrophilous",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physiol.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "One of a group of leukocytes whose granules stain only with neutral dyes; it is the chief phagocytic leukocyte in the circulating blood, comprising from 54% to 65% of the total number of leukocytes."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

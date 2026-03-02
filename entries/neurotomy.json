@@ -1,0 +1,48 @@
+{
+  "key": "neurotomy",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Neurotomy",
+      "headword_raw": "Neu*rot\"o*my",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Neuro- + Gr. te`mnein to cut.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The dissection, or anatomy, of the nervous system."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "The division of a nerve, for the relief of neuralgia, or for other purposes."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "key": "nickname",
+  "source_file": "CIDE.N",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "nickname",
+      "headword_raw": "nick\"name`",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. ekename surname, hence, a nickname, an ekename being understood as a nekename, influenced also by E. nick, v. See Eke, and Name.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A name given in affectionate familiarity, sportive familiarity, contempt, or derision; a familiar or an opprobrious appellation; as, Nicholas's nickname is Nick."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Nickname",
+      "headword_raw": "Nick\"name`",
+      "pr": "(#)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Nicknamed (#); p. pr. & vb. n. Nicknaming.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To give a nickname to; to call by a nickname."
+          ],
+          "quotes": [
+            "You nickname virtue; vice you should have spoke.",
+            "I altogether disclaim what has been nicknamed the doctrine of finality."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "key": "neurotome",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Neurotome",
+      "headword_raw": "Neu\"ro*tome",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[See Neurotomy.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "An instrument for cutting or dissecting nerves."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Anat.)"
+          ],
+          "defs": [
+            "A neuromere."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

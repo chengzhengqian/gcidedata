@@ -1,0 +1,49 @@
+{
+  "key": "neurocord",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Neurocord",
+      "headword_raw": "Neu\"ro*cord",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Neuro- + cord.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Neurocordal",
+          "form_raw": "Neu`ro*cor\"dal",
+          "key": "neurocordal",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Zool.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A cordlike organ composed of elastic fibers situated above the ventral nervous cord of annelids, like the earthworm."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

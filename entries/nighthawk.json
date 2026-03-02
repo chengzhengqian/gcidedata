@@ -1,0 +1,54 @@
+{
+  "key": "nighthawk",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "nighthawk",
+      "headword_raw": "nighthawk",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A person who likes to be active late at night; a night owl."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "night owl",
+            "nightbird"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "Any of several mainly nocturnal North American goatsuckers, especially Chordeiles minor, or the related European goatsucker Caprimulgus europaeus, also called the nightjar."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "bullbat",
+            "mosquito hawk"
+          ]
+        }
+      ]
+    }
+  ]
+}

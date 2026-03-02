@@ -1,0 +1,49 @@
+{
+  "key": "solicitor",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Solicitor",
+      "headword_raw": "So*lic\"it*or",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. solliciteur, L. sollicitator.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One who solicits."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "An attorney or advocate; one who represents another in court; -- formerly, in English practice, the professional designation of a person admitted to practice in a court of chancery or equity. See the Note under Attorney.",
+            "The law officer of a city, town, department, or government; as, the city solicitor; the solicitor of the treasury."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

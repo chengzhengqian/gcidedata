@@ -1,0 +1,74 @@
+{
+  "key": "sojourn",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Sojourn",
+      "headword_raw": "So\"journ",
+      "pr": "(?)",
+      "pos": [
+        "v. i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OE. sojornen, sojournen, OF. sojorner, sejorner, F. sjourner, fr. L. sub under, about + diurnus belonging to the day. See Journal, Diurnal.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Sojourned (?); p. pr. & vb. n. Sojourning.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To dwell for a time; to dwell or live in a place as a temporary resident or as a stranger, not considering the place as a permanent habitation; to delay; to tarry."
+          ],
+          "quotes": [
+            "Abram went down into Egypt to sojourn there.",
+            "Home he goeth, he might not longer sojourn.",
+            "The soldiers first assembled at Newcastle, and there sojourned three days."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Sojourn",
+      "headword_raw": "So\"journ",
+      "pr": null,
+      "pos": [
+        "n.",
+        "v. i."
+      ],
+      "ety": "[Cf. OF. sujurn, sujur, sejor, F. sjour. See Sojourn, v. i.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A temporary residence, as that of a traveler in a foreign land."
+          ],
+          "quotes": [
+            "Though long detained In that obscure sojourn."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "key": "somebody",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Somebody",
+      "headword_raw": "Some\"bod*y",
+      "pr": "(sm\"bd*)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A person unknown or uncertain; a person indeterminate; some person."
+          ],
+          "quotes": [
+            "Jesus said, Somebody hath touched me.",
+            "We must draw in somebody that may stand 'Twixt us and danger."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A person of consideration or importance."
+          ],
+          "quotes": [
+            "Before these days rose up Theudas, boasting himself to be somebody."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

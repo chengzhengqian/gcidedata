@@ -1,0 +1,38 @@
+{
+  "key": "solenoid",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Solenoid",
+      "headword_raw": "So\"len*oid",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. <?/<?/<?/ channel + -oid.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Elec.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An electrodynamic spiral having the conjunctive wire turned back along its axis, so as to neutralize that component of the effect of the current which is due to the length of the spiral, and reduce the whole effect to that of a series of equal and parallel circular currents. When traversed by a current the solenoid exhibits polarity and attraction or repulsion, like a magnet."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

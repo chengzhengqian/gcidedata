@@ -1,0 +1,104 @@
+{
+  "key": "sonorous",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Sonorous",
+      "headword_raw": "So*no\"rous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. sonorus, fr. sonor, -oris, a sound, akin to sonus a sound. See Sound.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Sonorously",
+          "form_raw": "So*no\"rous*ly",
+          "key": "sonorously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Sonorousness",
+          "form_raw": "So*no\"rous*ness",
+          "key": "sonorousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Giving sound when struck; resonant; as, sonorous metals."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Loud-sounding; giving a clear or loud sound; as, a sonorous voice."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Yielding sound; characterized by sound; vocal; sonant; as, the vowels are sonorous."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Impressive in sound; high-sounding."
+          ],
+          "quotes": [
+            "The Italian opera, amidst all the meanness and familiarty of the thoughts, has something beautiful and sonorous in the expression.",
+            "There is nothing of the artificial Johnsonian balance in his style. It is as often marked by a pregnant brevity as by a sonorous amplitude."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Med.)",
+            "(Physics)",
+            "(Med.)"
+          ],
+          "defs": [
+            "Sonant; vibrant; hence, of sounds produced in a cavity, deep-toned; as, sonorous rhonchi."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

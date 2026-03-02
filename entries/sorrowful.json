@@ -1,0 +1,80 @@
+{
+  "key": "sorrowful",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Sorrowful",
+      "headword_raw": "Sor\"row*ful",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[OE. sorweful, AS. sorgful.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Sorrowfully",
+          "form_raw": "Sor\"row*ful*ly",
+          "key": "sorrowfully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Sorrowfulness",
+          "form_raw": "Sor\"row*ful*ness",
+          "key": "sorrowfulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Full of sorrow; exhibiting sorrow; sad; dejected; distressed."
+          ],
+          "quotes": [
+            "My soul is exceeding sorrowful, even unto death."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Producing sorrow; exciting grief; mournful; lamentable; grievous; as, a sorrowful accident."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Sad",
+            "mournful",
+            "dismal",
+            "disconsolate",
+            "drear",
+            "dreary",
+            "grievous",
+            "lamentable",
+            "doleful",
+            "distressing"
+          ]
+        }
+      ]
+    }
+  ]
+}

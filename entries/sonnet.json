@@ -1,0 +1,79 @@
+{
+  "key": "sonnet",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Sonnet",
+      "headword_raw": "Son\"net",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F., fr. It. sonetto, fr. suono a sound, a song, fr. L. sonus a sound. See Sound noise.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A short poem, -- usually amatory."
+          ],
+          "quotes": [
+            "He had a wonderful desire to chant a sonnet or hymn unto Apollo Pythius."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A poem of fourteen lines, -- two stanzas, called the octave, being of four verses each, and two stanzas, called the sestet, of three verses each, the rhymes being adjusted by a particular rule."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ In the proper sonnet each line has five accents, and the octave has but two rhymes, the second, third, sixth, and seventh lines being of one rhyme, and the first, fourth, fifth, and eighth being of another. In the sestet there are sometimes two and sometimes three rhymes; but in some way its two stazas rhyme together. Often the three lines of the first stanza rhyme severally with the three lines of the second. In Shakespeare's sonnets, the first twelve lines are rhymed alternately, and the last two rhyme together."
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Sonnet",
+      "headword_raw": "Son\"net",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To compose sonnets."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

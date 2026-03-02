@@ -1,0 +1,49 @@
+{
+  "key": "somnolent",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Somnolent",
+      "headword_raw": "Som\"no*lent",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[F. somnolent, L. somnolentus, from somnus sleep, akin to Gr. <?/, Skr. svapna sleep, dream, svap to sleep, Icel. sofa, AS. swefn sleep. Cf. Hypnotic, Somnambulism, Soporific.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Somnolently",
+          "form_raw": "Som\"no*lent*ly",
+          "key": "somnolently",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Sleepy; drowsy; inclined to sleep."
+          ],
+          "quotes": [
+            "He had no eye for such phenomena, because he had a somnolent want of interest in them."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

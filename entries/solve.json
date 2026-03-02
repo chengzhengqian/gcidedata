@@ -1,0 +1,75 @@
+{
+  "key": "solve",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Solve",
+      "headword_raw": "Solve",
+      "pr": "(slv)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. solvere, solutum; from a prefix so- expressing separation (cf. Sober) + luere to loosen; cf. OF. soldre, soudre. See Loose, and cf. Absolve.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Solved (slvd); p. pr. & vb. n. Solving.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "explain",
+        "resolve",
+        "unfold",
+        "clear up"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To explain; to resolve; to unfold; to clear up (what is obscure or difficult to be understood); to work out to a result or conclusion; as, to solve a doubt; to solve difficulties; to solve a problem."
+          ],
+          "quotes": [
+            "True piety would effectually solve such scruples.",
+            "God shall solve the dark decrees of fate."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Solve",
+      "headword_raw": "Solve",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A solution; an explanation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "key": "sonde",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Sonde",
+      "headword_raw": "Sonde",
+      "pr": null,
+      "pos": [
+        "n.",
+        "v. t."
+      ],
+      "ety": "[AS. sand. See Send, v. t.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "That which is sent; a message or messenger; hence, also, a visitation of providence; an affliction or trial."
+          ],
+          "quotes": [
+            "Ye have enough, parde, of Goddes sond."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Rocketry)"
+          ],
+          "defs": [
+            "a rocket or balloon sent into the upper atmosphere to measure atmospheric conditions or other phenomena at altitudes unattainable by aircraft."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "key": "soothe",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Soothe",
+      "headword_raw": "Soothe",
+      "pr": "(s)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "a."
+      ],
+      "ety": "[Originally, to assent to as true; OE. soðien to verify, AS. gesōðian to prove the truth of, to bear witness. See Sooth, a.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Soothed (?); p. pr. & vb. n. Soothing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To assent to as true."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To assent to; to comply with; to gratify; to humor by compliance; to please with blandishments or soft words; to flatter."
+          ],
+          "quotes": [
+            "Good, my lord, soothe him, let him take the fellow.",
+            "I've tried the force of every reason on him, Soothed and caressed, been angry, soothed again."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To assuage; to mollify; to calm; to comfort; as, to soothe a crying child; to soothe one's sorrows."
+          ],
+          "quotes": [
+            "Music hath charms to soothe the savage breast, To soften rocks, or bend a knotted oak.",
+            "Though the sound of Fame May for a moment soothe, it can not slake The fever of vain longing."
+          ],
+          "notes": [],
+          "synonyms": [
+            "soften",
+            "assuage",
+            "allay",
+            "compose",
+            "mollify",
+            "tranquilize",
+            "pacify",
+            "mitigate"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "key": "soothfast",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Soothfast",
+      "headword_raw": "Sooth\"fast`",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": "[Sooth + fast, that is, fast or firm with respect to truth.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Soothfastness",
+          "form_raw": "Sooth\"fast`ness",
+          "key": "soothfastness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Firmly fixed in, or founded upon, the thruth; true; genuine; real; also, truthful; faithful."
+          ],
+          "quotes": [
+            "Why do not you . . . bear leal and soothfast evidence in her behalf, as ye may with a clear conscience!"
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Soothfast",
+      "headword_raw": "Sooth\"fast`",
+      "pr": null,
+      "pos": [
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Soothly; really; in fact."
+          ],
+          "quotes": [
+            "I care not if the pomps you show Be what they soothfast appear."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "key": "sophistical",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Sophistical",
+      "headword_raw": "So*phis\"tic*al",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. sophisticus, Gr. <?/: cf. F. sophistique.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Sophistically",
+          "form_raw": "So*phis\"tic*al*ly",
+          "key": "sophistically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Sophisticalness",
+          "form_raw": "So*phis\"tic*al*ness",
+          "key": "sophisticalness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to a sophist; embodying sophistry; fallaciously subtile; not sound."
+          ],
+          "quotes": [
+            "His argument . . . is altogether sophistical."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

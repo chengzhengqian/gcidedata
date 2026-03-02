@@ -1,0 +1,49 @@
+{
+  "key": "sorbite",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Sorbite",
+      "headword_raw": "Sor\"bite",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[L. sorbus service tree.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Sorbitic",
+          "form_raw": "Sor*bit\"ic",
+          "key": "sorbitic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A sugarlike substance, isomeric with mannite and dulcite, found with sorbin in the ripe berries of the sorb, and extracted as a sirup or a white crystalline substance."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "key": "somite",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Somite",
+      "headword_raw": "So\"mite",
+      "pr": "(sō\"mīt)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Gr. sw^ma body.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Somitic",
+          "form_raw": "So*mit`ic",
+          "key": "somitic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Anat. & Zool.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "One of the actual or ideal serial segments of which an animal, esp. an articulate or vertebrate, is composed; somatome; metamere."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

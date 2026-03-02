@@ -1,0 +1,51 @@
+{
+  "key": "solstice",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Solstice",
+      "headword_raw": "Sol\"stice",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a.",
+        "v. i."
+      ],
+      "ety": "[L. solstitium; sol the sun + sistere to cause to stand, akin to stare to stand: cf. F. solstice. See Solar, a., Stand, v. i.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A stopping or standing still of the sun."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Astron.)"
+          ],
+          "defs": [
+            "The point in the ecliptic at which the sun is farthest from the equator, north or south, namely, the first point of the sign Cancer and the first point of the sign Capricorn, the former being the summer solstice, latter the winter solstice, in northern latitudes; -- so called because the sun then apparently stands still in its northward or southward motion.",
+            "The time of the sun's passing the solstices, or solstitial points, namely, about June 21 and December 21. See Illust. in Appendix."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

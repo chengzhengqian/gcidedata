@@ -1,0 +1,50 @@
+{
+  "key": "sonant",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Sonant",
+      "headword_raw": "So\"nant",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": "[L. sonans, -antis, p. pr. of sonare to sound. See Sound a noise.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to sound; sounding."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Phonetics)"
+          ],
+          "defs": [
+            "Uttered, as an element of speech, with tone or proper vocal sound, as distinguished from mere breath sound; intonated; voiced; vocal; tonic; the opposite of nonvocal, or surd; -- said of the vowels, semivowels, liquids, and nasals, and particularly of the consonants b, d, g hard, v, etc., as compared with their cognates p, t, k, f, etc., which are called nonvocal, surd, or aspirate.",
+            "A sonant letter."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

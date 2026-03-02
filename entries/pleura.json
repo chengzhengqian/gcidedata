@@ -1,0 +1,82 @@
+{
+  "key": "pleura",
+  "source_file": "CIDE.P",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Pleura",
+      "headword_raw": "Pleu\"ra",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "pl."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "pl. of Pleuron."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Pleura",
+      "headword_raw": "Pleu\"ra",
+      "pr": "(#)",
+      "pos": [
+        "n.",
+        "n. fem."
+      ],
+      "ety": "[NL., n. fem., fr. Gr. <?/ a rib, the side.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Anat.)"
+          ],
+          "defs": [
+            "The smooth serous membrane which closely covers the lungs and the adjacent surfaces of the thorax; the pleural membrane.",
+            "The closed sac formed by the pleural membrane about each lung, or the fold of membrane connecting each lung with the body wall."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "Same as Pleuron."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

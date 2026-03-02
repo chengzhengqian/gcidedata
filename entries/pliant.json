@@ -1,0 +1,70 @@
+{
+  "key": "pliant",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Pliant",
+      "headword_raw": "Pli\"ant",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "v.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[F. pliant, p. pr. of plier to bend. See Ply, v.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Pliantly",
+          "form_raw": "Pli\"ant*ly",
+          "key": "pliantly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Pliantness",
+          "form_raw": "Pli\"ant*ness",
+          "key": "pliantness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Capable of plying or bending; readily yielding to force or pressure without breaking; flexible; pliable; lithe; limber; plastic; as, a pliant thread; pliant wax. Also used figuratively: Easily influenced for good or evil; tractable; as, a pliant heart."
+          ],
+          "quotes": [
+            "The will was then ductile and pliant to right reason."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Favorable to pliancy."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

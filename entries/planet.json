@@ -1,0 +1,54 @@
+{
+  "key": "planet",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Planet",
+      "headword_raw": "Plan\"et",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. planete, F. plante, L. planeta, fr. Gr. <?/, and <?/ a planet; prop. wandering, fr. <?/ to wander, fr. <?/ a wandering.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Astron.)"
+          ],
+          "defs": [
+            "A celestial body which revolves about the sun in an orbit of a moderate degree of eccentricity. It is distinguished from a comet by the absence of a coma, and by having a less eccentric orbit. See Solar system."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The term planet was first used to distinguish those stars which have an apparent motion through the constellations from the fixed stars, which retain their relative places unchanged. The inferior planets are Mercury and Venus, which are nearer to the sun than is the earth; the superior planets are Mars, the asteroids, Jupiter, Saturn, Uranus, and Neptune, which are farther from the sun than is the earth. Primary planets are those which revolve about the sun; secondary planets, or moons, are those which revolve around the primary planets as satellites, and at the same time revolve with them about the sun."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mach.)"
+          ],
+          "defs": [
+            "A star, as influencing the fate of a men."
+          ],
+          "quotes": [
+            "There's some ill planet reigns."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

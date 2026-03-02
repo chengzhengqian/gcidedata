@@ -1,0 +1,53 @@
+{
+  "key": "pleiades",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Pleiades",
+      "headword_raw": "Ple\"ia*des",
+      "pr": "(?; 277)",
+      "pos": [
+        "n. pl."
+      ],
+      "ety": "[L., fr. Gr. (<?/)]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Myth.)"
+          ],
+          "defs": [
+            "The seven daughters of Atlas and the nymph Pleione, fabled to have been made by Jupiter a constellation in the sky."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Astron.)"
+          ],
+          "defs": [
+            "A group of small stars in the neck of the constellation Taurus; -- called also the seven sisters."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Alcyone, the brightest of these, a star of the third magnitude, was considered by Mädler the central point around which our universe is revolving, but such a notion has been thoroughly discounted by modern observations. Only six pleiads are distinctly visible to the naked eye, whence the ancients supposed that a sister had concealed herself out of shame for having loved a mortal, Sisyphus."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

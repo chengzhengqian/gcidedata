@@ -1,0 +1,49 @@
+{
+  "key": "plenum",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Plenum",
+      "headword_raw": "Ple\"num",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L., fr. plenus full.]",
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "That state in which every part of space is supposed to be full of matter; -- opposed to vacuum."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Ventilation)"
+          ],
+          "defs": [
+            "A condition, as in an occupied room, in which the pressure of the air is greater than that of the outside atmosphere; as, a plenum may exist in a hall ventilated by a fan blower."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

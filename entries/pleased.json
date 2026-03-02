@@ -1,0 +1,57 @@
+{
+  "key": "pleased",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Pleased",
+      "headword_raw": "Pleased",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Pleasedly",
+          "form_raw": "Pleas\"ed*ly",
+          "key": "pleasedly",
+          "pos": [
+            "adv."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Pleasedness",
+          "form_raw": "Pleas\"ed*ness",
+          "key": "pleasedness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Experiencing pleasure."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

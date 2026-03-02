@@ -1,0 +1,49 @@
+{
+  "key": "plankton",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Plankton",
+      "headword_raw": "Plank\"ton",
+      "pr": "(plk\"tn)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[NL., fr. Gr. plagto`n, neut. of plagto`s wandering, pla`zesqai to wander.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Planktonic",
+          "form_raw": "Plank*ton\"ic",
+          "key": "planktonic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Biol.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "All the animals and plants, taken collectively, which live at or near the surface of salt or fresh waters."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

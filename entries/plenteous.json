@@ -1,0 +1,83 @@
+{
+  "key": "plenteous",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Plenteous",
+      "headword_raw": "Plen\"te*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[From Plenty.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Plenteously",
+          "form_raw": "Plen\"te*ous*ly",
+          "key": "plenteously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Plenteousness",
+          "form_raw": "Plen\"te*ous*ness",
+          "key": "plenteousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Containing plenty; abundant; copious; plentiful; sufficient for every purpose; as, a plenteous supply."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Yielding abundance; productive; fruitful."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Having plenty; abounding; rich."
+          ],
+          "quotes": [
+            "The Lord shall make thee plenteous in goods."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Plentiful",
+            "copious",
+            "full. See Ample"
+          ]
+        }
+      ]
+    }
+  ]
+}

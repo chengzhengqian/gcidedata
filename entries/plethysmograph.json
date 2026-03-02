@@ -1,0 +1,49 @@
+{
+  "key": "plethysmograph",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Plethysmograph",
+      "headword_raw": "Pleth\"ys*mo*graph",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Gr. <?/ an enlargement + -graph.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Plethysmographic",
+          "form_raw": "Pleth`ys*mo*graph\"ic",
+          "key": "plethysmographic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physiol.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An instrument for determining and registering the variations in the size or volume of a limb, as the arm or leg, and hence the variations in the amount of blood in the limb."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

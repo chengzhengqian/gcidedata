@@ -1,0 +1,81 @@
+{
+  "key": "plentiful",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Plentiful",
+      "headword_raw": "Plen\"ti*ful",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Plentifully",
+          "form_raw": "Plen\"ti*ful*ly",
+          "key": "plentifully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Plentifulness",
+          "form_raw": "Plen\"ti*ful*ness",
+          "key": "plentifulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Containing plenty; copious; abundant; ample; as, a plentiful harvest; a plentiful supply of water."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Yielding abundance; prolific; fruitful."
+          ],
+          "quotes": [
+            "If it be a long winter, it is commonly a more plentiful year."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Lavish; profuse; prodigal."
+          ],
+          "quotes": [
+            "He that is plentiful in expenses will hardly be preserved from"
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

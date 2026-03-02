@@ -1,0 +1,60 @@
+{
+  "key": "pleasurable",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Pleasurable",
+      "headword_raw": "Pleas\"ur*a*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Pleasurableness",
+          "form_raw": "Pleas\"ur*a*ble*ness",
+          "key": "pleasurableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Pleasurably",
+          "form_raw": "Pleas\"ur*a*bly",
+          "key": "pleasurably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Capable of affording pleasure or satisfaction; gratifying; abounding in pleasantness or pleasantry."
+          ],
+          "quotes": [
+            "Planting of orchards is very . . . pleasurable.",
+            "O, sir, you are very pleasurable."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "key": "pliable",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Pliable",
+      "headword_raw": "Pli\"a*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "v.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[F., fr. plier to bend, to fold. See Ply, v.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Pliableness",
+          "form_raw": "Pli\"a*ble*ness",
+          "key": "pliableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Pliably",
+          "form_raw": "Pli\"a*bly",
+          "key": "pliably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Capable of being plied, turned, or bent; easy to be bent; flexible; pliant; supple; limber; yielding; as, willow is a pliable plant."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Flexible in disposition; readily yielding to influence, arguments, persuasion, or discipline; easy to be persuaded; -- sometimes in a bad sense; as, a pliable youth."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

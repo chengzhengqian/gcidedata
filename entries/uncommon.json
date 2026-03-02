@@ -1,0 +1,62 @@
+{
+  "key": "uncommon",
+  "source_file": "CIDE.U",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Uncommon",
+      "headword_raw": "Un*com\"mon",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Uncommonly",
+          "form_raw": "Un*com\"mon*ly",
+          "key": "uncommonly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Uncommonness",
+          "form_raw": "Un*com\"mon*ness",
+          "key": "uncommonness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Rare",
+        "scarce",
+        "infrequent",
+        "unwonted"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not common; unusual; infrequent; rare; hence, remarkable; strange; as, an uncommon season; an uncommon degree of cold or heat; uncommon courage."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

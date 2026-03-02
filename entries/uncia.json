@@ -1,0 +1,50 @@
+{
+  "key": "uncia",
+  "source_file": "CIDE.U",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Uncia",
+      "headword_raw": "Un\"ci*a",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. See Ounce a measure of weight.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Rom. Antiq.)"
+          ],
+          "defs": [
+            "A twelfth part, as of the Roman as; an ounce."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Alg.)"
+          ],
+          "defs": [
+            "A numerical coefficient in any particular case of the binomial theorem."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

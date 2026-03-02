@@ -1,0 +1,71 @@
+{
+  "key": "unconformable",
+  "source_file": "CIDE.U",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Unconformable",
+      "headword_raw": "Un`con*form\"a*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Unconformableness",
+          "form_raw": "Un`con*form\"a*ble*ness",
+          "key": "unconformableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Unconformably",
+          "form_raw": "Un`con*form\"a*bly",
+          "key": "unconformably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Not conformable; not agreeable; not conforming."
+          ],
+          "quotes": [
+            "Moral evil is an action unconformable to it [the rule of our duty]."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Geol.)"
+          ],
+          "defs": [
+            "Not conformable; not lying in a parallel position; as, unconformable strata."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

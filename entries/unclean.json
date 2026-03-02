@@ -1,0 +1,82 @@
+{
+  "key": "unclean",
+  "source_file": "CIDE.U",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Unclean",
+      "headword_raw": "Un*clean\"",
+      "pr": "(n*klēn\")",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[AS. unclǣne. See Unnot, and Clean.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Uncleanly",
+          "form_raw": "Un*clean\"ly",
+          "key": "uncleanly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Uncleanness",
+          "form_raw": "Un*clean\"ness",
+          "key": "uncleanness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Not clean; foul; dirty; filthy."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Ceremonially impure; needing ritual cleansing."
+          ],
+          "quotes": [
+            "He that toucheth the dead body of any man shall be unclean seven days."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Script.)",
+            "(Script.)"
+          ],
+          "defs": [
+            "Morally impure."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

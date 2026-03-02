@@ -1,0 +1,50 @@
+{
+  "key": "unconformity",
+  "source_file": "CIDE.U",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Unconformity",
+      "headword_raw": "Un`con*form\"i*ty",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Want of conformity; incongruity; inconsistency."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Geol.)"
+          ],
+          "defs": [
+            "Want of parallelism between strata in contact."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ With some authors unconformity is equivalent to unconformability; but it is often used more broadly, for example, to include the case when the parallelism of strata once conformable has been disturbed by faulting and the like."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

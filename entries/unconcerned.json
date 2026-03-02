@@ -1,0 +1,59 @@
+{
+  "key": "unconcerned",
+  "source_file": "CIDE.U",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Unconcerned",
+      "headword_raw": "Un`con*cerned\"",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Unconcernedly",
+          "form_raw": "Un`con*cern\"ed*ly",
+          "key": "unconcernedly",
+          "pos": [
+            "adv."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Unconcernedness",
+          "form_raw": "Un`con*cern\"ed*ness",
+          "key": "unconcernedness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not concerned; not anxious or solicitous; easy in mind; carelessly secure; indifferent; as, to be unconcerned at what has happened; to be unconcerned about the future."
+          ],
+          "quotes": [
+            "Happy mortals, unconcerned for more."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

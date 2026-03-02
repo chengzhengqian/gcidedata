@@ -1,0 +1,70 @@
+{
+  "key": "unavoidable",
+  "source_file": "CIDE.U",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Unavoidable",
+      "headword_raw": "Un`a*void\"a*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Unavoidableness",
+          "form_raw": "Un`a*void\"a*ble*ness",
+          "key": "unavoidableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Unavoidably",
+          "form_raw": "Un`a*void\"a*bly",
+          "key": "unavoidably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Not avoidable; incapable of being shunned or prevented; inevitable; necessary; as, unavoidable troubles."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)",
+            "(Med.)"
+          ],
+          "defs": [
+            "Not voidable; incapable of being made null or void."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

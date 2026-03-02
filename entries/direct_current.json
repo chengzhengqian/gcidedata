@@ -1,0 +1,37 @@
+{
+  "key": "direct_current",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Direct current",
+      "headword_raw": "Direct current",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Elec.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A current flowing in one direction only; -- distinguished from alternating current. When steady and not pulsating a direct current is often called a continuous current.",
+            "A direct induced current, or momentary current of the same direction as the inducing current, produced by stopping or removing the latter; also, a similar current produced by removal of a magnet."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

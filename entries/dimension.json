@@ -1,0 +1,87 @@
+{
+  "key": "dimension",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Dimension",
+      "headword_raw": "Di*men\"sion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. dimensio, fr. dimensus, p. p. of dimetiri to measure out; di- = dis- + metiri to measure: cf. F. dimension. See Measure.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Measure in a single line, as length, breadth, height, thickness, or circumference; extension; measurement; -- usually, in the plural, measure in length and breadth, or in length, breadth, and thickness; extent; size; as, the dimensions of a room, or of a ship; the dimensions of a farm, of a kingdom."
+          ],
+          "quotes": [
+            "Gentlemen of more than ordinary dimensions."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Extent; reach; scope; importance; as, a project of large dimensions."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "The degree of manifoldness of a quantity; as, time is quantity having one dimension; volume has three dimensions, relative to extension."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Alg.)"
+          ],
+          "defs": [
+            "A literal factor, as numbered in characterizing a term. The term dimensions forms with the cardinal numbers a phrase equivalent to degree with the ordinal; thus, a2b2c is a term of five dimensions, or of the fifth degree."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Phys.)",
+            "(Carp.)"
+          ],
+          "defs": [
+            "The manifoldness with which the fundamental units of time, length, and mass are involved in determining the units of other physical quantities."
+          ],
+          "quotes": [],
+          "notes": [
+            "Thus, since the unit of velocity varies directly as the unit of length and inversely as the unit of time, the dimensions of velocity are said to be length ÷ time; the dimensions of work are mass (length)2 ÷ (time)2; the dimensions of density are mass ÷ (length)3."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

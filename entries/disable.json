@@ -1,0 +1,100 @@
+{
+  "key": "disable",
+  "source_file": "CIDE.D",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Disable",
+      "headword_raw": "Dis*a\"ble",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Lacking ability; unable."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Disable",
+      "headword_raw": "Dis*a\"ble",
+      "pr": "(?; 277)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Disabled (?); p. pr. & vb. n. Disabling (?).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To render unable or incapable; to destroy the force, vigor, or power of action of; to deprive of competent physical or intellectual power; to incapacitate; to disqualify; to make incompetent or unfit for service; to impair."
+          ],
+          "quotes": [
+            "A Christian's life is a perpetual exercise, a wrestling and warfare, for which sensual pleasure disables him.",
+            "And had performed it, if my known offense Had not disabled me.",
+            "I have disabled mine estate."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "To deprive of legal right or qualification; to render legally incapable."
+          ],
+          "quotes": [
+            "An attainder of the ancestor corrupts the blood, and disables his children to inherit."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To deprive of that which gives value or estimation; to declare lacking in competency; to disparage; to undervalue."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "weaken",
+            "unfit",
+            "disqualify",
+            "incapacitate"
+          ]
+        }
+      ]
+    }
+  ]
+}

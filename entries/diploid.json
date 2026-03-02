@@ -1,0 +1,86 @@
+{
+  "key": "diploid",
+  "source_file": "CIDE.D",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "diploid",
+      "headword_raw": "dip\"loid",
+      "pr": "(dp\"loid)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. diplo`os twofold + -oid.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Crystallog.)"
+          ],
+          "defs": [
+            "A solid bounded by twenty-four similar quadrilateral faces. It is a hemihedral form of the hexoctahedron."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Biol.)"
+          ],
+          "defs": [
+            "a cell or organism having a number of chromosomes corresponding to two copies of each chromosome; a diploid cell or organism."
+          ],
+          "quotes": [
+            "A: I'm not interested in diploids. B: Oh, how I wish your parents had felt the same way!"
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "diploid",
+      "headword_raw": "dip\"loid",
+      "pr": "(dp\"loid)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Gr. diplo`os twofold + -oid.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Biol.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "having a number of chromosomes corresponding to two copies of each chromosome; having double the basic number of chromosomes, as seen in a haploid cell. Contrasted to haploid and polyploid."
+          ],
+          "quotes": [],
+          "notes": [
+            "in diploid cells, although the number of chromosomes is double that in haploid cells, it is not always true that there are two copies of every chromosome, since the two sex chromosomes in males will differ from each other. In females, and for other chromosomes, however, there are generally two copies of each, giving rise to the classical hereditary and sorting patterns of Mendelian genetics."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

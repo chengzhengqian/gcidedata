@@ -1,0 +1,53 @@
+{
+  "key": "disabled",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "disabled",
+      "headword_raw": "disabled",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "injured so as to be unable to function; as, disabled veterans."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "hors de combat",
+            "out of action"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "unable to function at normal capacity."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "handicapped",
+            "incapacitated"
+          ]
+        }
+      ]
+    }
+  ]
+}

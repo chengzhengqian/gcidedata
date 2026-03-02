@@ -1,0 +1,106 @@
+{
+  "key": "direction",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Direction",
+      "headword_raw": "Di*rec\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. directio: cf. F. direction.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "Direction, Control, Command, Order. These words, as here compared, have reference to the exercise of power over the actions of others. Control is negative, denoting power to restrain; command is positive, implying a right to enforce obedience; directions are commands containing instructions how to act. Order conveys more prominently the idea of authority than the word direction. A shipmaster has the command of his vessel; he gives orders or directions to the seamen as to the mode of sailing it; and exercises a due control over the passengers."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of directing, of aiming, regulating, guiding, or ordering; guidance; management; superintendence; administration; as, the direction o<?/ public affairs or of a bank."
+          ],
+          "quotes": [
+            "I do commit his youth To your direction.",
+            "All nature is but art, unknown to thee; ll chance, direction, which thou canst not see."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That which is imposed by directing; a guiding or authoritative instruction; prescription; order; command; as, he grave directions to the servants."
+          ],
+          "quotes": [
+            "The princes digged the well . . . by the direction of the law giver."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "The name and residence of a person to whom any thing is sent, written upon the thing sent; superscription; address; as, the direction of a letter."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "The line or course upon which anything is moving or aimed to move, or in which anything is lying or pointing; aim; line or point of tendency; direct line or course; as, the ship sailed in a southeasterly direction."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "The body of managers of a corporation or enterprise; board of directors."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [
+            "(Gun.)"
+          ],
+          "defs": [
+            "The pointing of a piece with reference to an imaginary vertical axis; -- distinguished from elevation. The direction is given when the plane of sight passes through the object."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Administration",
+            "guidance",
+            "management",
+            "superintendence",
+            "oversight",
+            "government",
+            "order",
+            "command",
+            "guide",
+            "clew"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "key": "disassemble",
+  "source_file": "CIDE.D",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "disassemble",
+      "headword_raw": "dis`as*sem\"ble",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "to take apart; to disconnect the parts of; to convert a whole into its constituent pieces."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "dismantle",
+            "take apart",
+            "break apart",
+            "break up"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "to convert a computer program in machine language into an equivalent assembly-language file."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "disassemble",
+      "headword_raw": "dis`as*sem\"ble",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "to be able to come apart easily; to be converted into constituent parts; as, the rifle disassembles into small pieces for concealment."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

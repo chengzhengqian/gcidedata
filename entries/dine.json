@@ -1,0 +1,81 @@
+{
+  "key": "dine",
+  "source_file": "CIDE.D",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Dine",
+      "headword_raw": "Dine",
+      "pr": "(?)",
+      "pos": [
+        "v. i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[F. dner, OF. disner, LL. disnare, contr. fr. an assumed disjunare; dis- + an assumed junare (OF. juner) to fast, for L. jejunare, fr. jejunus fasting. See Jejune, and cf. Dinner, Djeuner.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Dined (?); p. pr. & vb. n. Dining.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To eat the principal regular meal of the day; to take dinner."
+          ],
+          "quotes": [
+            "Now can I break my fast, dine, sup, and sleep."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Dine",
+      "headword_raw": "Dine",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To give a dinner to; to furnish with the chief meal; to feed; as, to dine a hundred men."
+          ],
+          "quotes": [
+            "A table massive enough to have dined Johnnie Armstrong and his merry men."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To dine upon; to have to eat."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

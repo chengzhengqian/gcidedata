@@ -1,0 +1,80 @@
+{
+  "key": "diminution",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Diminution",
+      "headword_raw": "Dim`i*nu\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. diminutio, or perh. rather deminutio: cf. F. diminution. See Diminish.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of diminishing, or of making or becoming less; state of being diminished; reduction in size, quantity, or degree; -- opposed to augmentation or increase."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The act of lessening dignity or consideration, or the state of being deprived of dignity; a lowering in estimation; degradation; abasement."
+          ],
+          "quotes": [
+            "The world's opinion or diminution of me.",
+            "Nor thinks it diminution to be ranked In military honor next."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "Omission, inaccuracy, or defect in a record."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Mus.)"
+          ],
+          "defs": [
+            "In counterpoint, the imitation of, or reply to, a subject, in notes of half the length or value of those the subject itself."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Decrease",
+            "decay",
+            "abatement",
+            "reduction",
+            "deduction",
+            "decrement"
+          ]
+        }
+      ]
+    }
+  ]
+}

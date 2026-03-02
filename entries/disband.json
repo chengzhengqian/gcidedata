@@ -1,0 +1,84 @@
+{
+  "key": "disband",
+  "source_file": "CIDE.D",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Disband",
+      "headword_raw": "Dis*band\"",
+      "pr": "(?; see Dis-)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[Pref. dis- + band: cf. OF. desbander, F. dbander, to unbind, unbend. See Band, and cf. Disbend, Disbind.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Disbanded; p. pr. & vb. n. Disbanding.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To loose the bands of; to set free; to disunite; to scatter; to disperse; to break up the organization of; especially, to dismiss from military service; as, to disband an army."
+          ],
+          "quotes": [
+            "They disbanded themselves and returned, every man to his own dwelling."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To divorce."
+          ],
+          "quotes": [
+            "And therefore . . . she ought to be disbanded."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Disband",
+      "headword_raw": "Dis*band\"",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To become separated, broken up, dissolved, or scattered; especially, to quit military service by breaking up organization."
+          ],
+          "quotes": [
+            "When both rocks and all things shall disband.",
+            "Human society would in a short space disband."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

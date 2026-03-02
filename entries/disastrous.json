@@ -1,0 +1,71 @@
+{
+  "key": "disastrous",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Disastrous",
+      "headword_raw": "Dis*as\"trous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Cf. F. dsastreux. See Disaster.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Disastrously",
+          "form_raw": "Dis*as\"trous*ly",
+          "key": "disastrously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Disastrousness",
+          "form_raw": "Dis*as\"trous*ness",
+          "key": "disastrousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Full of unpropitious stellar influences; unpropitious; ill-boding."
+          ],
+          "quotes": [
+            "The moon In dim eclipse, disastrous twilight sheds."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Attended with suffering or disaster; very unfortunate; calamitous; ill-fated; ending in utter failure or ruin; as, a disastrous day; a disastrous termination of an undertaking."
+          ],
+          "quotes": [
+            "Wherein I spake of most disastrous chances."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

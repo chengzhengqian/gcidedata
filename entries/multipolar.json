@@ -1,0 +1,50 @@
+{
+  "key": "multipolar",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Multipolar",
+      "headword_raw": "Mul`ti*po\"lar",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Multi- + polar.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "Anat."
+          ],
+          "defs": [
+            "Having many poles; in Anat., designating specif. a nerve cell which has several dendrites."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Elec.)"
+          ],
+          "defs": [
+            "Having, or pertaining to, many poles, as a field magnet or armature of a dynamo, or a dynamo having such a field magnet or (sometimes) armature."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

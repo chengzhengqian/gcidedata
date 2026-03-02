@@ -1,0 +1,118 @@
+{
+  "key": "multiply",
+  "source_file": "CIDE.M",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Multiply",
+      "headword_raw": "Mul\"ti*ply",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[F. multiplier, L. multiplicare, fr. multiplex manifold. See Multitude, Complex.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Multiplied (?); p. pr. & vb. n. Multiplying (?).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To increase in number; to make more numerous; to add quantity to."
+          ],
+          "quotes": [
+            "Impunity will multiply motives to disobedience."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "To add (any given number or quantity) to itself a certain number of times; to find the product of by multiplication; thus 7 multiplied by 8 produces the number 56; to multiply two numbers. See the Note under Multiplication."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Mach.)",
+            "(Opt.)"
+          ],
+          "defs": [
+            "To increase (the amount of gold or silver) by the arts of alchemy."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Multiply",
+      "headword_raw": "Mul\"ti*ply",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To become greater in number; to become numerous."
+          ],
+          "quotes": [
+            "When men began to multiply on the face of the earth, and daughters were born unto them."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To increase in extent and influence; to spread."
+          ],
+          "quotes": [
+            "The word of God grew and multiplied."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To increase amount of gold or silver by the arts of alchemy."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

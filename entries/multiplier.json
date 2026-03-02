@@ -1,0 +1,60 @@
+{
+  "key": "multiplier",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Multiplier",
+      "headword_raw": "Mul\"ti*pli`er",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. multiplier. Cf. Multiplicator.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One who, or that which, multiplies or increases number."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "The number by which another number (the multiplicand) is multiplied. See the Note under Multiplication."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Physics)"
+          ],
+          "defs": [
+            "An instrument for multiplying or increasing by repetition or accumulation the intensity of a force or action, as heat or electricity. It is particularly used to render such a force or action appreciable or measurable when feeble. See Thermomultiplier."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

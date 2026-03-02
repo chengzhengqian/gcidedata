@@ -1,0 +1,92 @@
+{
+  "key": "mulct",
+  "source_file": "CIDE.M",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Mulct",
+      "headword_raw": "Mulct",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. mulcta, multa.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A fine or penalty, esp. a pecuniary punishment or penalty."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A blemish or defect."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Amercement",
+            "forfeit",
+            "forfeiture",
+            "penalty"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Mulct",
+      "headword_raw": "Mulct",
+      "pr": null,
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. mulctare, multare.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Mulcted; p. pr. & vb. n. Mulcting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To punish for an offense or misdemeanor by imposing a fine or forfeiture, esp. a pecuniary fine; to fine."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Hence, to deprive of; to withhold by way of punishment or discipline."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

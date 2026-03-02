@@ -1,0 +1,64 @@
+{
+  "key": "multivalent",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Multivalent",
+      "headword_raw": "Mul*tiv\"a*lent",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Multi- + L. valens, p. pr. See Valence.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "Having a valence greater than one, as silicon.",
+            "Having more than one degree of valence, as sulphur."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Immunology)"
+          ],
+          "defs": [
+            "Having multiple antigen-binding sites; -- of antibody molecules."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Immunology)"
+          ],
+          "defs": [
+            "Containing several types of antibody, to protect against more than one disease; polyvalent; -- of vaccines."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

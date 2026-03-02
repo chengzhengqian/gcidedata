@@ -1,0 +1,50 @@
+{
+  "key": "muck_pile",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "muck pile",
+      "headword_raw": "muck\" pile`",
+      "pr": "(mk\" pīl`)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "RDH"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Construction)"
+          ],
+          "defs": [
+            "The broken material at the face of a tunnel being bored, after being crushed by blasting."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mining)"
+          ],
+          "defs": [
+            "Muck{5} that has been placed in a spoil area."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

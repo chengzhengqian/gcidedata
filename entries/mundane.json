@@ -1,0 +1,60 @@
+{
+  "key": "mundane",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Mundane",
+      "headword_raw": "Mun\"dane",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[L. mundanus, fr. mundus the world, an implement, toilet adornments, or dress; cf. mundus, a., clean, neat, Skr. ma to adorn, dress, maa adornment. Cf. Monde, Mound in heraldry.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Mundanely",
+          "form_raw": "Mun\"dane*ly",
+          "key": "mundanely",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to the world; worldly, as contrasted with heavenly; earthly; terrestrial; as, the mundane sphere; mundane concerns."
+          ],
+          "quotes": [
+            "The defilement of mundane passions."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Commonplace; ordinary; banal."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

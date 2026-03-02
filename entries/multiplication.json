@@ -1,0 +1,74 @@
+{
+  "key": "multiplication",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Multiplication",
+      "headword_raw": "Mul`ti*pli*ca\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. multiplicatio: cf. F. multiplication. See Multiply.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act or process of multiplying, or of increasing in number; the state of being multiplied; as, the multiplication of the human species by natural generation."
+          ],
+          "quotes": [
+            "The increase and multiplication of the world."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "The process of repeating, or adding to itself, any given number or quantity a certain number of times; commonly, the process of ascertaining by a briefer computation the result of such repeated additions; also, the rule by which the operation is performed; -- the reverse of division."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The word multiplication is sometimes used in mathematics, particularly in multiple algebra, to denote any distributive operation expressed by one symbol upon any quantity or any thing expressed by another symbol. Corresponding extensions of meaning are given to the words multiply, multiplier, multiplicand, and product. Thus, since (x + y) = x + y (see under Distributive), where (x + y), x, and y indicate the results of any distributive operation represented by the symbol upon x + y, x, and y, severally, then because of many very useful analogies (x + y) is called the product of and x + y, and the operation indicated by is called multiplication. Cf. Facient, n., 2."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Bot.)"
+          ],
+          "defs": [
+            "An increase above the normal number of parts, especially of petals; augmentation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "The art of increasing gold or silver by magic, -- attributed formerly to the alchemists."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

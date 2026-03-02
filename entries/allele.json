@@ -1,0 +1,57 @@
+{
+  "key": "allele",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "allele",
+      "headword_raw": "al*lele\"",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "one of two or more alternative forms of a gene that can have the same place on homologous chromosomes and are responsible for alternative traits."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "allelomorph"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "either of a pair of Mendelian characters that may occur in an organism as a consequence of variation at one gene locus."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

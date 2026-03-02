@@ -1,0 +1,42 @@
+{
+  "key": "alternating_current",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Alternating current",
+      "headword_raw": "Al\"ter*nat`ing cur\"rent",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl.",
+        "+PJC",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "AC"
+      ],
+      "entry_fields": [
+        "(Elec.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A current which periodically changes or reverses its direction of flow, especially an electric current that reverses direction sinusoidally, as is used for most domestic and industrial power requirements. Contrasted with direct current."
+          ],
+          "quotes": [],
+          "notes": [
+            "The common household current is alternating. Alternating current is easier than direct current to transform to high voltage and back, making long-distance transmission more efficient."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

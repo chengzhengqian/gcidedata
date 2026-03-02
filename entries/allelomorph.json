@@ -1,0 +1,52 @@
+{
+  "key": "allelomorph",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Allelomorph",
+      "headword_raw": "Al*le\"lo*morph",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Gr. <?/ of one another + Gr. morfh` form.]",
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Allelomorphic",
+          "form_raw": "Al*le`lo*mor\"phic",
+          "key": "allelomorphic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Biol.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "One of the pure unit characters commonly existing singly or in pairs in the germ cells of Mendelian hybrids, and exhibited in varying proportion among the organisms themselves; same as allele, 2. Allelomorphs which under certain circumstances are themselves compound are called hypallelomorphs. See Mendel's law."
+          ],
+          "quotes": [
+            "As we know that the several unit characters are of such a nature that any one of them is capable of independently displacing or being displaced by one or more alternative characters taken singly, we may recognize this fact by naming such characters allelomorphs."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "key": "aliveness",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "aliveness",
+      "headword_raw": "aliveness",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "the condition of living or the state of being alive."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "animation",
+            "life",
+            "living"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "having animal life as distinguished from plant life."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "animateness",
+            "liveness"
+          ]
+        }
+      ]
+    }
+  ]
+}

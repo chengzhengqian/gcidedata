@@ -1,0 +1,47 @@
+{
+  "key": "alkahest",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Alkahest",
+      "headword_raw": "Al\"ka*hest",
+      "pr": "(<?/)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[LL. alchahest, F. alcahest, a word that has an Arabic appearance, but was probably arbitrarily formed by Paracelsus.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Alkahestic",
+          "form_raw": "Al`ka*hes\"tic",
+          "key": "alkahestic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(<?/)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The fabled “universal solvent” of the alchemists; a menstruum capable of dissolving all bodies."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "key": "allegation",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Allegation",
+      "headword_raw": "Al`le*ga\"tion",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. allegatio, fr. allegare, allegatum, to send a message, cite; later, to free by giving reasons; ad + legare to send, commission. Cf. Allege and Adlegation.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of alleging or positively asserting."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That which is alleged, asserted, or declared; positive assertion; formal averment"
+          ],
+          "quotes": [
+            "I thought their allegation but reasonable."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "A statement by a party of what he undertakes to prove, -- usually applied to each separate averment; the charge or matter undertaken to be proved."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

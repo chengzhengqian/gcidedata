@@ -1,0 +1,38 @@
+{
+  "key": "all-mains",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "all-mains",
+      "headword_raw": "all-mains",
+      "pr": null,
+      "pos": [
+        "adj. prenom."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "adaptable to all voltages; -- of a radio receiver."
+          ],
+          "quotes": [],
+          "notes": [
+            "For power supplies, the term \"switching\" is used to designate ability to use more than one voltage as a power source. Typically, it is used for the ability to use both 110 and 220 volt AC sources."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

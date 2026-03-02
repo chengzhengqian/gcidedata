@@ -1,0 +1,65 @@
+{
+  "key": "allegory",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Allegory",
+      "headword_raw": "Al\"le*go*ry",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. allegoria, Gr. <?/, description of one thing under the image of another; <?/ other + <?/ to speak in the assembly, harangue, <?/ place of assembly, fr. <?/ to assemble: cf. F. allgorie.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "-- Allegory, Parable. “An allegory differs both from fable and parable, in that the properties of persons are fictitiously represented as attached to things, to which they are as it were transferred. . . . A figure of Peace and Victory crowning some historical personage is an allegory. “I am the Vine, ye are the branches” [John xv. 1-6] is a spoken allegory. In the parable there is no transference of properties. The parable of the sower [Matt. xiii. 3-23] represents all things as according to their proper nature. In the allegory quoted above the properties of the vine and the relation of the branches are transferred to the person of Christ and His apostles and disciples.”"
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A figurative sentence or discourse, in which the principal subject is described by another subject resembling it in its properties and circumstances. The real subject is thus kept out of view, and we are left to collect the intentions of the writer or speaker by the resemblance of the secondary to the primary subject."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Anything which represents by suggestive resemblance; an emblem."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Paint. & Sculpt.)"
+          ],
+          "defs": [
+            "A figure representation which has a meaning beyond notion directly conveyed by the object painted or sculptured."
+          ],
+          "quotes": [],
+          "notes": [
+            "An allegory is a prolonged metaphor. Bunyan's “Pilgrim's Progress” and Spenser's “Faërie Queene” are celebrated examples of the allegory."
+          ],
+          "synonyms": [
+            "Metaphor",
+            "fable"
+          ]
+        }
+      ]
+    }
+  ]
+}

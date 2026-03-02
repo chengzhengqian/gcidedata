@@ -1,0 +1,41 @@
+{
+  "key": "alkalic",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "alkalic",
+      "headword_raw": "alkalic",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "having the properties of an alkali. Opposite of acidic."
+          ],
+          "quotes": [],
+          "notes": [
+            "when used of aqueous solutions, it signifies that the solution has a pH greater than 7."
+          ],
+          "synonyms": [
+            "alkaline (vs. acidic)",
+            "basic"
+          ]
+        }
+      ]
+    }
+  ]
+}

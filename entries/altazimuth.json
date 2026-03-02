@@ -1,0 +1,38 @@
+{
+  "key": "altazimuth",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Altazimuth",
+      "headword_raw": "Alt*az\"i*muth",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Alltude + azimuth.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Astron.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An instrument for taking azimuths and altitudes simultaneously."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "key": "alkane_series",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "alkane series",
+      "headword_raw": "alkane series",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "methane series",
+        "alkane series",
+        "paraffin"
+      ],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a series of acyclic non-aromatic saturated hydrocarbons with the general formula CnH(2n+2). They include methane, ethane, propane, butane, and the paraffins."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "key": "allegorical",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Allegorical",
+      "headword_raw": "Al`le*gor\"ic*al",
+      "pr": "(<?/)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[F. allgorique, L. allegorius, fr. Gr. <?/. See Allegory.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Allegorically",
+          "form_raw": "Al`le*gor\"ic*al*ly",
+          "key": "allegorically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Allegoricalness",
+          "form_raw": "Al`le*gor\"ic*al*ness",
+          "key": "allegoricalness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Belonging to, or consisting of, allegory; of the nature of an allegory; describing by resemblances; figurative."
+          ],
+          "quotes": [
+            "Allegorical being . . . that kind of language which says one thing, but means another."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

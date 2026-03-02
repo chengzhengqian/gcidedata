@@ -1,0 +1,58 @@
+{
+  "key": "alphanumerical",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "alphanumerical",
+      "headword_raw": "alphanumerical",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "of or pertaining to alphanumerics."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "alphanumeric",
+            "alphameric",
+            "alphamerical"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "using or consisting of only alphabetical and numerical characters; -- contrasting with binary or control."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "alphanumeric",
+            "alphanumerical",
+            "alphameric",
+            "alphamerical"
+          ]
+        }
+      ]
+    }
+  ]
+}

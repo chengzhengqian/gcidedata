@@ -1,0 +1,59 @@
+{
+  "key": "spiritful",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Spiritful",
+      "headword_raw": "Spir\"it*ful",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Spiritfully",
+          "form_raw": "Spir\"it*ful*ly",
+          "key": "spiritfully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Spiritfulness",
+          "form_raw": "Spir\"it*ful*ness",
+          "key": "spiritfulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Full of spirit; spirited."
+          ],
+          "quotes": [
+            "The spiritful and orderly life of our own grown men."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

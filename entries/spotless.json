@@ -1,0 +1,66 @@
+{
+  "key": "spotless",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Spotless",
+      "headword_raw": "Spot\"less",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Spotlessly",
+          "form_raw": "Spot\"less*ly",
+          "key": "spotlessly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Spotlessness",
+          "form_raw": "Spot\"less*ness",
+          "key": "spotlessness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Blameless",
+        "unspotted",
+        "unblemished",
+        "pure",
+        "immaculate",
+        "irreproachable. See Blameless"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Without a spot; especially, free from reproach or impurity; pure; untainted; innocent; as, a spotless mind; spotless behavior."
+          ],
+          "quotes": [
+            "A spotless virgin, and a faultless wife."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

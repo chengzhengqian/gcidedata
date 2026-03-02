@@ -1,0 +1,49 @@
+{
+  "key": "sporophyte",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Sporophyte",
+      "headword_raw": "Spo\"ro*phyte",
+      "pr": "(spō\"r*fīt)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Spore + Gr. fyto`n plant.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Sporophytic",
+          "form_raw": "Spo`ro*phyt\"ic",
+          "key": "sporophytic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Bot.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "In plants exhibiting alternation of generations, the generation which bears asexual spores; -- opposed to gametophyte. It is not clearly differentiated in the life cycle of the lower plants."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

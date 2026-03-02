@@ -1,0 +1,79 @@
+{
+  "key": "spiritless",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Spiritless",
+      "headword_raw": "Spir\"it*less",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Spiritlessly",
+          "form_raw": "Spir\"it*less*ly",
+          "key": "spiritlessly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Spiritlessness",
+          "form_raw": "Spir\"it*less*ness",
+          "key": "spiritlessness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Destitute of spirit; wanting animation; wanting cheerfulness; dejected; depressed."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Destitute of vigor; wanting life, courage, or fire."
+          ],
+          "quotes": [
+            "A men so faint, so spiritless, So dull, so dead in lock, so woebegone."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Having no breath; extinct; dead."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

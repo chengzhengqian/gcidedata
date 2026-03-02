@@ -1,0 +1,80 @@
+{
+  "key": "spheric",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Spheric",
+      "headword_raw": "Spher\"ic",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. sphaericus, Gr. <?/<?/<?/: cf. F. sphrique.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Spherically",
+          "form_raw": "Spher\"ic*al*ly",
+          "key": "spherically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Sphericalness",
+          "form_raw": "Spher\"ic*al*ness",
+          "key": "sphericalness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Having the form of a sphere; like a sphere; globular; orbicular; as, a spherical body."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to a sphere."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to the heavenly orbs, or to the sphere or spheres in which, according to ancient astronomy and astrology, they were set."
+          ],
+          "quotes": [
+            "Knaves, thieves, and treachers by spherical predominance.",
+            "Though the stars were suns, and overburned Their spheric limitations."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

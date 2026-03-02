@@ -1,0 +1,58 @@
+{
+  "key": "spit_ball",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "spit ball",
+      "headword_raw": "spit\" ball`",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl.",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Spit baller",
+          "form_raw": "Spit baller",
+          "key": "spit_baller",
+          "pos": [],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Paper chewed, and rolled into a ball, to be thrown as a missile; -- a childish prank."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Baseball)"
+          ],
+          "defs": [
+            "A pitched ball in throwing which the pitcher grips the ball between two, or three, fingers on one side (which is made slippery, as by saliva) and the thumb on the other side, and delivers it so that it slips off the fingers with the least possible friction; -- also called spitter. When pitched directly overhand a spit ball darts downward, when pitched with the arm extended sidewise it darts down and out. The use of such a pitch is against the rules of professional baseball."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

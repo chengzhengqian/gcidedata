@@ -1,0 +1,59 @@
+{
+  "key": "sportive",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Sportive",
+      "headword_raw": "Sport\"ive",
+      "pr": "(-v)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Sportively",
+          "form_raw": "Sport\"ive*ly",
+          "key": "sportively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Sportiveness",
+          "form_raw": "Sport\"ive*ness",
+          "key": "sportiveness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Tending to, engaged in, or provocative of, sport; gay; frolicsome; playful; merry."
+          ],
+          "quotes": [
+            "Is it I That drive thee from the sportive court?"
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

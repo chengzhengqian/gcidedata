@@ -1,0 +1,71 @@
+{
+  "key": "sportful",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Sportful",
+      "headword_raw": "Sport\"ful",
+      "pr": "(-fl)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Sportfully",
+          "form_raw": "Sport\"ful*ly",
+          "key": "sportfully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Sportfulness",
+          "form_raw": "Sport\"ful*ness",
+          "key": "sportfulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Full of sport; merry; frolicsome; full of jesting; indulging in mirth or play; playful; wanton; as, a sportful companion."
+          ],
+          "quotes": [
+            "Down he alights among the sportful herd."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Done in jest, or for mere play; sportive."
+          ],
+          "quotes": [
+            "They are no sportful productions of the soil."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

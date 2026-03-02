@@ -1,0 +1,87 @@
+{
+  "key": "spontaneous",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Spontaneous",
+      "headword_raw": "Spon*ta\"ne*ous",
+      "pr": "(spn*tā\"n*s)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. spontaneus, fr. sponte of free will, voluntarily.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "Syn. -- Voluntary; uncompelled; willing. -- Spontaneous, Voluntary. What is voluntary is the result of a volition, or act of choice; it therefore implies some degree of consideration, and may be the result of mere reason without excited feeling. What is spontaneous springs wholly from feeling, or a sudden impulse which admits of no reflection; as, a spontaneous burst of applause. Hence, the term is also applied to things inanimate when they are produced without the determinate purpose or care of man. “Abstinence which is but voluntary fasting, and . . . exercise which is but voluntary labor.” J. Seed. [1913 Webster] Spontaneous joys, where nature has its play, The soul adopts, and owns their firstborn away. Goldsmith. [1913 Webster]"
+      ],
+      "wordforms": [
+        {
+          "form": "Spontaneously",
+          "form_raw": "Spon*ta\"ne*ous*ly",
+          "key": "spontaneously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Spontaneousness",
+          "form_raw": "Spon*ta\"ne*ous*ness",
+          "key": "spontaneousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Proceeding from natural feeling, temperament, or disposition, or from a native internal proneness, readiness, or tendency, without constraint; as, a spontaneous gift or proposition."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Proceeding from, or acting by, internal impulse, energy, or natural law, without external force; as, spontaneous motion; spontaneous growth."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Biol.)"
+          ],
+          "defs": [
+            "Produced without being planted, or without human labor; as, a spontaneous growth of wood."
+          ],
+          "quotes": [
+            "Spontaneous joys, where nature has its play, The soul adopts, and owns their firstborn away."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Voluntary",
+            "uncompelled",
+            "willing"
+          ]
+        }
+      ]
+    }
+  ]
+}

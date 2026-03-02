@@ -1,0 +1,71 @@
+{
+  "key": "guiltless",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Guiltless",
+      "headword_raw": "Guilt\"less",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Guiltlessly",
+          "form_raw": "Guilt\"less*ly",
+          "key": "guiltlessly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Guiltlessness",
+          "form_raw": "Guilt\"less*ness",
+          "key": "guiltlessness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Free from guilt; innocent."
+          ],
+          "quotes": [
+            "The Lord will not hold him guiltless that taketh his name in vain."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Without experience or trial; unacquainted (with)."
+          ],
+          "quotes": [
+            "Such gardening tools, as art, yet rude, Guiltless of fire, had formed."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

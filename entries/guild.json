@@ -1,0 +1,57 @@
+{
+  "key": "guild",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Guild",
+      "headword_raw": "Guild",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "v. t."
+      ],
+      "ety": "[OE. gilds, AS. gild, gield, geld, tribute, a society or company where payment was made for its charge and support, fr. AS. gildan, gieldan, to pay. See Yield, v. t.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "An association of men belonging to the same class, or engaged in kindred pursuits, formed for mutual aid and protection; a business fraternity or corporation; as, the Stationers' Guild; the Ironmongers' Guild. They were originally licensed by the government, and endowed with special privileges and authority."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A guildhall."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A religious association or society, organized for charitable purposes or for assistance in parish work."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "key": "group",
+  "source_file": "CIDE.G",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Group",
+      "headword_raw": "Group",
+      "pr": "(grp)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F groupe, It. gruppo, groppo, cluster, bunch, packet, group; of G. origin: cf. G. kropf craw, crop, tumor, bunch. See Crop, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A cluster, crowd, or throng; an assemblage, either of persons or things, collected without any regular form or arrangement; as, a group of men or of trees; a group of isles."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "An assemblage of objects in a certain order or relation, or having some resemblance or common characteristic; as, groups of strata."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Biol.)"
+          ],
+          "defs": [
+            "A variously limited assemblage of animals or plants, having some resemblance, or common characteristics in form or structure. The term has different uses, and may be made to include certain species of a genus, or a whole genus, or certain genera, or even several orders."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Mus.)"
+          ],
+          "defs": [
+            "A number of eighth, sixteenth, etc., notes joined at the stems; -- sometimes rather indefinitely applied to any ornament made up of a few short notes."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Group",
+      "headword_raw": "Group",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "n."
+      ],
+      "ety": "[Cf. F. grouper. See Group, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Grouped (?); p. pr. & vb. n. Grouping.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Arch.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To form a group of; to arrange or combine in a group or in groups, often with reference to mutual relation and the best effect; to form an assemblage of."
+          ],
+          "quotes": [
+            "The difficulty lies in drawing and disposing, or, as the painters term it, in grouping such a multitude of different objects."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

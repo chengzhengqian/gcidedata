@@ -1,0 +1,55 @@
+{
+  "key": "groundless",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Groundless",
+      "headword_raw": "Ground\"less",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[AS. grundles bottomless.]",
+      "sources": [],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Groundlessly",
+          "form_raw": "Ground\"less*ly",
+          "key": "groundlessly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Groundlessness",
+          "form_raw": "Ground\"less*ness",
+          "key": "groundlessness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Without ground or foundation; wanting cause or reason for support; not authorized; false; baseless; as, groundless fear; a groundless report, rumor, or assertion."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

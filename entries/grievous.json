@@ -1,0 +1,80 @@
+{
+  "key": "grievous",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Grievous",
+      "headword_raw": "Griev\"ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[OF. grevous, grevos, LL. gravosus. See Grief.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Grievously",
+          "form_raw": "Griev\"ous*ly",
+          "key": "grievously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Grievousness",
+          "form_raw": "Griev\"ous*ness",
+          "key": "grievousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Causing grief or sorrow; painful; afflictive; hard to bear; offensive; harmful."
+          ],
+          "quotes": [
+            "The famine was grievous in the land.",
+            "The thing was very grievous in Abraham's sight."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Characterized by great atrocity; heinous; aggravated; flagitious; as, a grievous sin."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Full of, or expressing, grief; showing great sorrow or affliction; as, a grievous cry."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

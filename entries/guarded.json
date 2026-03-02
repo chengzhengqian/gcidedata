@@ -1,0 +1,57 @@
+{
+  "key": "guarded",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Guarded",
+      "headword_raw": "Guard\"ed",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Guardedly",
+          "form_raw": "Guard\"edly",
+          "key": "guardedly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Guardedness",
+          "form_raw": "Guard\"ed*ness",
+          "key": "guardedness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Cautious; wary; circumspect; as, he was guarded in his expressions; framed or uttered with caution; as, his expressions were guarded."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

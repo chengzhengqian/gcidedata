@@ -1,0 +1,130 @@
+{
+  "key": "guide",
+  "source_file": "CIDE.G",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Guide",
+      "headword_raw": "Guide",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OE. guiden, gyden, F. guiaer, It. guidare; prob. of Teutonic origin; cf. Goth. ritan to watch over, give heed to, Icel. viti signal, AS. witan to know. The word prob. meant, to indicate, point to, and hence, to show the way. Cf. Wit, Guy a rope, Gye.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Guided; p. pr. & vb. n. Guiding.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To lead or direct in a way; to conduct in a course or path; to pilot; as, to guide a traveler."
+          ],
+          "quotes": [
+            "I wish . . . you 'ld guide me to your sovereign's court."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To regulate and manage; to direct; to order; to superintend the training or education of; to instruct and influence intellectually or morally; to train."
+          ],
+          "quotes": [
+            "He will guide his affairs with discretion.",
+            "The meek will he guide in judgment."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Guide",
+      "headword_raw": "Guide",
+      "pr": null,
+      "pos": [
+        "n.",
+        "v. t."
+      ],
+      "ety": "[OE. giae, F. guide, It. guida. See Guide, v. t.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A person who leads or directs another in his way or course, as in a strange land; one who exhibits points of interest to strangers; a conductor; also, that which guides; a guidebook."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "One who, or that which, directs another in his conduct or course of life; a director; a regulator."
+          ],
+          "quotes": [
+            "He will be our guide, even unto death."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Water Wheels)",
+            "(Surgery)",
+            "(Printing)"
+          ],
+          "defs": [
+            "Any contrivance, especially one having a directing edge, surface, or channel, for giving direction to the motion of anything, as water, an instrument, or part of a machine, or for directing the hand or eye, as of an operator",
+            "A blade or channel for directing the flow of water to the wheel buckets.",
+            "A grooved director for a probe or knife.",
+            "A strip or device to direct the compositor's eye to the line of copy he is setting."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Mil.)",
+            "(Mach.)",
+            "(Steam Engine)",
+            "(Surveying)",
+            "(Engin.)",
+            "(Mach.)",
+            "(Railroads)"
+          ],
+          "defs": [
+            "A noncommissioned officer or soldier placed on the directing flank of each subdivision of a column of troops, or at the end of a line, to mark the pivots, formations, marches, and alignments in tactics."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

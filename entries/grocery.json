@@ -1,0 +1,49 @@
+{
+  "key": "grocery",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Grocery",
+      "headword_raw": "Gro\"cer*y",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. grosserie wholesale. See Grocer.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The commodities sold by grocers, as tea, coffee, spices, etc.; -- in the United States almost always in the plural form, in this sense."
+          ],
+          "quotes": [
+            "A deal box . . . to carry groceries in.",
+            "The shops at which the best families of the neighborhood bought grocery and millinery."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A retail grocer's shop or store."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

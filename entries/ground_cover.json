@@ -1,0 +1,49 @@
+{
+  "key": "ground_cover",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "ground cover",
+      "headword_raw": "ground\" cov`er",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "low-growing plants planted in deep shade or on a steep slope where turf is difficult to grow."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "small plants other than saplings growing on a forest floor."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "ground cover",
+            "undergrowth"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "key": "growing",
+  "source_file": "CIDE.G",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "growing",
+      "headword_raw": "growing",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "growth",
+        "maturation",
+        "development",
+        "ontogeny",
+        "ontogenesis"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "the sequence of events involved in the development of an organism."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "growing",
+      "headword_raw": "growing",
+      "pr": null,
+      "pos": [
+        "adj.",
+        "p. pr."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "increasing in intensity of some quality."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "increasing(prenominal)",
+            "incremental"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "increasing in size or amount; as, her growing popularity."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "increasing in size and maturity; -- of living things normally healthy and not fully matured."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "flourishing",
+            "thriving"
+          ]
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "p. pr. of grow (definition 3); as, growing plants."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

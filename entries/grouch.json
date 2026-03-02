@@ -1,0 +1,73 @@
+{
+  "key": "grouch",
+  "source_file": "CIDE.G",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "grouch",
+      "headword_raw": "grouch",
+      "pr": "(grouch)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "grump",
+        "crank",
+        "churl",
+        "crosspatch"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A bad-tempered person."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "grouch",
+      "headword_raw": "grouch",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "grumble",
+        "gripe"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "to complain habitually, especially about minor or routine annoyances."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

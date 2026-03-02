@@ -1,0 +1,49 @@
+{
+  "key": "grillroom",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Grillroom",
+      "headword_raw": "Grill\"room`",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl.",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A room specially fitted for broiling food, esp. one in a restaurant, hotel, or clubhouse, arranged for prompt service."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a restaurant where food is cooked on a grill."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "grill"
+          ]
+        }
+      ]
+    }
+  ]
+}

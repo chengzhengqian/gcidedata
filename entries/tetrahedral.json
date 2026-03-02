@@ -1,0 +1,50 @@
+{
+  "key": "tetrahedral",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Tetrahedral",
+      "headword_raw": "Tet`ra*he\"dral",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[See Tetrahedron.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Having, or composed of, four sides."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Crystallog.)",
+            "(Geom.)"
+          ],
+          "defs": [
+            "Having the form of the regular tetrahedron.",
+            "Pertaining or related to a tetrahedron, or to the system of hemihedral forms to which the tetrahedron belongs."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

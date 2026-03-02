@@ -1,0 +1,54 @@
+{
+  "key": "therefore",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Therefore",
+      "headword_raw": "There\"fore",
+      "pr": "(?)",
+      "pos": [
+        "conj. & adv.",
+        "adv."
+      ],
+      "ety": "[OE. therfore. See There, and Fore, adv., For, and cf. Therefor.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "For that or this reason, referring to something previously stated; for that."
+          ],
+          "quotes": [
+            "I have married a wife, and therefore I can not come.",
+            "Behold, we have forsaken all, and followed thee; what shall we have therefore?"
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Consequently; by consequence."
+          ],
+          "quotes": [
+            "He blushes; therefore he is guilty."
+          ],
+          "notes": [],
+          "synonyms": [
+            "See Then"
+          ]
+        }
+      ]
+    }
+  ]
+}

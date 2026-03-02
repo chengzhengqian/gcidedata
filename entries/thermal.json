@@ -1,0 +1,61 @@
+{
+  "key": "thermal",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Thermal",
+      "headword_raw": "Ther\"mal",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. thermae hot springs, fr. Gr. <?/, pl. of <?/ heat, fr. <?/ hot, warm, <?/ to warm, make hot; perhaps akin to L. formus warm, and E. forceps.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to heat; warm; hot; as, the thermal unit; thermal waters."
+          ],
+          "quotes": [
+            "The thermal condition of the earth."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "caused by or affected by heat; as, thermal springs."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Physics)"
+          ],
+          "defs": [
+            "designed to retain heat; as, thermal underwear."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

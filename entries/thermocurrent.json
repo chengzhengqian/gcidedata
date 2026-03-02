@@ -1,0 +1,38 @@
+{
+  "key": "thermocurrent",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Thermocurrent",
+      "headword_raw": "Ther\"mo*cur`rent",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Thermo- + current.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A current developed or set in motion by heat; specif., an electric current, in a heterogeneous circuit, due to differences of temperature between the junctions of the substances of which the circuit is composed."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

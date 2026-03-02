@@ -1,0 +1,49 @@
+{
+  "key": "tetartohedral",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Tetartohedral",
+      "headword_raw": "Te*tar`to*he\"dral",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[Gr. <?/ fourth + <?/ base.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Tetartohedrally",
+          "form_raw": "Te*tar`to*he\"dral*ly",
+          "key": "tetartohedrally",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Crystallog.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Having one fourth the number of planes which are requisite to complete symmetry."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

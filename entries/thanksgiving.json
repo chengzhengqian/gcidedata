@@ -1,0 +1,52 @@
+{
+  "key": "thanksgiving",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Thanksgiving",
+      "headword_raw": "Thanks\"giv`ing",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of rending thanks, or expressing gratitude for favors or mercies."
+          ],
+          "quotes": [
+            "Every creature of God is good, and nothing to be refused, if it be received with thanksgiving.",
+            "In the thanksgiving before meat.",
+            "And taught by thee the Church prolongs Her hymns of high thanksgiving still."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A public acknowledgment or celebration of divine goodness; also, a day set apart for religious services, specially to acknowledge the goodness of God, either in any remarkable deliverance from calamities or danger, or in the ordinary dispensation of his bounties."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ In the United States it is now customary for the President by proclamation to appoint annually a day (usually the last Thursday in November) of thanksgiving and praise to God for the mercies of the past year. This is an extension of the custom long prevailing in several States in which an annual Thanksgiving day has been appointed by proclamation of the governor."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

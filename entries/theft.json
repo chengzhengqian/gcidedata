@@ -1,0 +1,52 @@
+{
+  "key": "theft",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Theft",
+      "headword_raw": "Theft",
+      "pr": "(thft)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. thefte, AS. þifðe, þfðe, þefðe. See Thief.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "The act of stealing; specifically, the felonious taking and removing of personal property, with an intent to deprive the rightful owner of the same; larceny."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ To constitute theft there must be a taking without the owner's consent, and it must be unlawful or felonious; every part of the property stolen must be removed, however slightly, from its former position; and it must be, at least momentarily, in the complete possession of the thief. See Larceny, and the Note under Robbery."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The thing stolen."
+          ],
+          "quotes": [
+            "If the theft be certainly found in his hand alive, . . . he shall restore double."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

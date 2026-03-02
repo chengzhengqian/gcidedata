@@ -1,0 +1,39 @@
+{
+  "key": "teste",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Teste",
+      "headword_raw": "Tes\"te",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[So called fr. L. teste, abl. of testis a witness, because this was formerly the initial word in the clause.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Law)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A witness.",
+            "The witnessing or concluding clause, duty attached; -- said of a writ, deed, or the like."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

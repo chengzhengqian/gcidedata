@@ -1,0 +1,71 @@
+{
+  "key": "thankful",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Thankful",
+      "headword_raw": "Thank\"ful",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[AS. þancfull.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Thankfully",
+          "form_raw": "Thank\"ful*ly",
+          "key": "thankfully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Thankfulness",
+          "form_raw": "Thank\"ful*ness",
+          "key": "thankfulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Obtaining or deserving thanks; thankworthy."
+          ],
+          "quotes": [
+            "Ladies, look here; this is the thankful glass That mends the looker's eyes; this is the well That washes what it shows."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Impressed with a sense of kindness received, and ready to acknowledge it; grateful."
+          ],
+          "quotes": [
+            "Be thankful unto him, and bless his name."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

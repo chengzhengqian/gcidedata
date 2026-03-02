@@ -1,0 +1,49 @@
+{
+  "key": "thermoluminescence",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Thermoluminescence",
+      "headword_raw": "Ther`mo*lu`mi*nes\"cence",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Thermoluminescent",
+          "form_raw": "Ther`mo*lu`mi*nes\"cent",
+          "key": "thermoluminescent",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Luminescence exhibited by a substance on being moderately heated. It is shown esp. by certain substances that have been exposed to the action of light or to X-rays."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

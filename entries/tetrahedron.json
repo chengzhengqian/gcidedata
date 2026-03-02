@@ -1,0 +1,41 @@
+{
+  "key": "tetrahedron",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Tetrahedron",
+      "headword_raw": "Tet`ra*he\"dron",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Tetra- + Gr. <?/ seat, base, fr. <?/ to sit.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Geom.)",
+        "(Geom.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A solid figure inclosed or bounded by four triangles."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ In crystallography, the regular tetrahedron is regarded as the hemihedral form of the regular octahedron."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

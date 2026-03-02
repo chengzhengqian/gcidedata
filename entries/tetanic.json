@@ -1,0 +1,84 @@
+{
+  "key": "tetanic",
+  "source_file": "CIDE.T",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Tetanic",
+      "headword_raw": "Te*tan\"ic",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": "[Cf. L. tetanicus suffering from tetanus, Gr. <?/, F. ttanique.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Physiol.)"
+          ],
+          "defs": [
+            "Of or pertaining to tetanus; having the character of tetanus; as, a tetanic state; tetanic contraction."
+          ],
+          "quotes": [
+            "This condition of muscle, this fusion of a number of simple spasms into an apparently smooth, continuous effort, is known as tetanus, or tetanic contraction."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Physiol. & Med.)"
+          ],
+          "defs": [
+            "Producing, or tending to produce, tetanus, or tonic contraction of the muscles; as, a tetanic remedy. See Tetanic, n."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Tetanic",
+      "headword_raw": "Te*tan\"ic",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physiol. & Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A substance (notably nux vomica, strychnine, and brucine) which, either as a remedy or a poison, acts primarily on the spinal cord, and which, when taken in comparatively large quantity, produces tetanic spasms or convulsions."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

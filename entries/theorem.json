@@ -1,0 +1,86 @@
+{
+  "key": "theorem",
+  "source_file": "CIDE.T",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Theorem",
+      "headword_raw": "The\"o*rem",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. theorema, Gr. <?/ a sight, speculation, theory, theorem, fr. <?/ to look at, <?/ a spectator: cf. F. thorme. See Theory.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "That which is considered and established as a principle; hence, sometimes, a rule."
+          ],
+          "quotes": [
+            "Not theories, but theorems (<?/), the intelligible products of contemplation, intellectual objects in the mind, and of and for the mind exclusively.",
+            "By the theorems, Which your polite and terser gallants practice, I re-refine the court, and civilize Their barbarous natures."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)",
+            "(Math.)",
+            "(Math.)",
+            "(Math.)",
+            "(Math.)"
+          ],
+          "defs": [
+            "A statement of a principle to be demonstrated."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ A theorem is something to be proved, and is thus distinguished from a problem, which is something to be solved. In analysis, the term is sometimes applied to a rule, especially a rule or statement of relations expressed in a formula or by symbols; as, the binomial theorem; Taylor's theorem. See the Note under Proposition, n., 5."
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Theorem",
+      "headword_raw": "The\"o*rem",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To formulate into a theorem."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "key": "thankless",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Thankless",
+      "headword_raw": "Thank\"less",
+      "pr": "(#)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Thanklessly",
+          "form_raw": "Thank\"less*ly",
+          "key": "thanklessly",
+          "pos": [
+            "adv."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Thanklessness",
+          "form_raw": "Thank\"less*ness",
+          "key": "thanklessness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Not acknowledging favors; not expressing thankfulness; unthankful; ungrateful."
+          ],
+          "quotes": [
+            "That she may feel How sharper than a serpent's tooth it is To have a thankless child!"
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Not obtaining or deserving thanks; unacceptable; as, a thankless task."
+          ],
+          "quotes": [
+            "To shepherd thankless, but by thieves that love the night allowed."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

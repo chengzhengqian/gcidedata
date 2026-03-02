@@ -1,0 +1,59 @@
+{
+  "key": "theatrical",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Theatrical",
+      "headword_raw": "The*at\"ric*al",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[L. theatricus, Gr. <?/.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Theatricality",
+          "form_raw": "The*at`ri*cal\"i*ty",
+          "key": "theatricality",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Theatrically",
+          "form_raw": "The*at\"ric*al*ly",
+          "key": "theatrically",
+          "pos": [
+            "adv."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to a theater, or to the scenic representations; resembling the manner of dramatic performers; histrionic; hence, artificial; as, theatrical performances; theatrical gestures."
+          ],
+          "quotes": [
+            "No meretricious aid whatever has been called in -- no trick, no illusion of the eye, nothing theatrical."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "key": "thermobattery",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Thermobattery",
+      "headword_raw": "Ther`mo*bat\"ter*y",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Thermo- + battery.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A thermoelectric battery; a thermopile."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "key": "choking_coil",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Choking coil",
+      "headword_raw": "Choking coil",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Elec.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A coil of small resistance and large inductance, used in an alternating-current circuit to impede or throttle the current, or to change its phase; -- called also reactance coil or reactor, these terms being now preferred in engineering usage."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

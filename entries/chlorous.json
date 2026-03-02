@@ -1,0 +1,48 @@
+{
+  "key": "chlorous",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Chlorous",
+      "headword_raw": "Chlo\"rous",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[See Chlorine.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of, pertaining to, or derived from, chlorine; -- said of those compounds of chlorine in which this element has a valence of three, the next lower than in chloric compounds; as, chlorous acid, HClO2."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Chem. Physics)"
+          ],
+          "defs": [
+            "Pertaining to, or resembling, the electro-negative character of chlorine; hence, electro-negative; -- opposed to basylous or zincous."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

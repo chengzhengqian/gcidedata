@@ -1,0 +1,50 @@
+{
+  "key": "chloral",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Chloral",
+      "headword_raw": "Chlo\"ral",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Chlorine + alcohol.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "A colorless oily liquid, CCl3.CHO, of a pungent odor and harsh taste, obtained by the action of chlorine upon ordinary or ethyl alcohol."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "Chloral hydrate."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

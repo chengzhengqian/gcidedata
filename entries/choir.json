@@ -1,0 +1,60 @@
+{
+  "key": "choir",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Choir",
+      "headword_raw": "Choir",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. quer, OF. cuer, F. chœur, fr. L. chorus a choral dance, chorus, choir, fr. Gr. <?/, orig. dancing place; prob. akin to <?/ inclosure, L. hortus garden, and E. yard. See Chorus.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A band or organized company of singers, especially in church service."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That part of a church appropriated to the singers."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Arch.)",
+            "(Mus.)",
+            "(Arch.)"
+          ],
+          "defs": [
+            "The chancel."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

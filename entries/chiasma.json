@@ -1,0 +1,49 @@
+{
+  "key": "chiasma",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Chiasma",
+      "headword_raw": "Chi*as\"ma",
+      "pr": "(k*z\"m)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[NL. chiasma, fr. Gr. chi`asma two lines placed crosswise, fr. <?/ to mark with a .]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Chiasmal",
+          "form_raw": "Chi*as\"mal",
+          "key": "chiasmal",
+          "pos": [
+            "a."
+          ],
+          "pr": "(<?/)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Anat.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A commissure; an intersection or crossing of two tracts; especially, the optic commissure, or crucial union of the optic nerves."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

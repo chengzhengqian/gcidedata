@@ -1,0 +1,54 @@
+{
+  "key": "chigger",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "chigger",
+      "headword_raw": "chigger",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a small tropical flea (Tunga penetrans, formerly Pulex penetrans); same as chigoe."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "chigoe",
+            "chigoe flea",
+            "Tunga penetrans"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a larval mite of the family Trombiculidae that sucks the blood of vertebrates including human beings, causing intense irritation, and serving to transmit several infectious diseases."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "harvest mite",
+            "jigger",
+            "redbug"
+          ]
+        }
+      ]
+    }
+  ]
+}

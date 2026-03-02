@@ -1,0 +1,49 @@
+{
+  "key": "chemosynthesis",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Chemosynthesis",
+      "headword_raw": "Chem`o*syn\"the*sis",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Chemical + synthesis.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Chemosynthetic",
+          "form_raw": "Chem`o*syn*thet\"ic",
+          "key": "chemosynthetic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Plant Physiol.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Synthesis of organic compounds by energy derived from chemical changes or reactions. Chemosynthesis of carbohydrates occurs in the nitrite bacteria through the oxidation of ammonia to nitrous acid, and in the nitrate bacteria through the conversion of nitrous into nitric acid."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

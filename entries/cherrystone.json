@@ -1,0 +1,50 @@
+{
+  "key": "cherrystone",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "cherrystone",
+      "headword_raw": "cherrystone",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "small quahog larger than a littleneck."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "cherrystone clam"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a half-grown quahog."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "cherrystone clam"
+          ]
+        }
+      ]
+    }
+  ]
+}

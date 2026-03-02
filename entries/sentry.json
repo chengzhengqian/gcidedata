@@ -1,0 +1,50 @@
+{
+  "key": "sentry",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Sentry",
+      "headword_raw": "Sen\"try",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Probably from OF. senteret a little patch; cf. F. sentier path, and OF. sente. See Sentinel.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Mil.)"
+          ],
+          "defs": [
+            "A soldier placed on guard; a sentinel."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Guard; watch, as by a sentinel."
+          ],
+          "quotes": [
+            "Here toils, and death, and death's half-brother, sleep, Forms terrible to view, their sentry keep."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

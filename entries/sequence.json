@@ -1,0 +1,147 @@
+{
+  "key": "sequence",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Sequence",
+      "headword_raw": "Se\"quence",
+      "pr": "(sē\"kwns)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. squence, L. sequentia, fr. sequens. See Sequent.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The state of being sequent; succession; order of following; arrangement."
+          ],
+          "quotes": [
+            "How art thou a king But by fair sequence and succession?",
+            "Sequence and series of the seasons of the year."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That which follows or succeeds as an effect; sequel; consequence; result."
+          ],
+          "quotes": [
+            "The inevitable sequences of sin and punishment."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Philos.)"
+          ],
+          "defs": [
+            "Simple succession, or the coming after in time, without asserting or implying causative energy; as, the reactions of chemical agents may be conceived as merely invariable sequences."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Mus.)"
+          ],
+          "defs": [
+            "Any succession of chords (or harmonic phrase) rising or falling by the regular diatonic degrees in the same scale; a succession of similar harmonic steps.",
+            "A melodic phrase or passage successively repeated one tone higher; a rosalia."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(R.C.Ch.)"
+          ],
+          "defs": [
+            "A hymn introduced in the Mass on certain festival days, and recited or sung immediately before the gospel, and after the gradual or introit, whence the name."
+          ],
+          "quotes": [
+            "Originally the sequence was called a Prose, because its early form was rhythmical prose."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [
+            "(Card Playing)",
+            "(Whist)",
+            "(Poker)"
+          ],
+          "defs": [
+            "Three or more cards of the same suit in immediately consecutive order of value; as, ace, king, and queen; or knave, ten, nine, and eight.",
+            "All five cards, of a hand, in consecutive order as to value, but not necessarily of the same suit; when of one suit, it is called a sequence flush."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "7.",
+          "fields": [],
+          "defs": [
+            "the specific order of any linear arrangement of items; as, the sequence of amino acid residues in a protein; the sequence of instructions in a computer program; the sequence of acts in a variety show."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Sequence",
+      "headword_raw": "Se\"quence",
+      "pr": "(?)",
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Biochem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "to determine the sequence of; as, to sequence a protein or a DNA fragment."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

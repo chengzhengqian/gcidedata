@@ -1,0 +1,98 @@
+{
+  "key": "serious",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Serious",
+      "headword_raw": "Se\"ri*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. serius: cf. F. srieux, LL. seriosus.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Seriously",
+          "form_raw": "Se\"ri*ous*ly",
+          "key": "seriously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Seriousness",
+          "form_raw": "Se\"ri*ous*ness",
+          "key": "seriousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Grave in manner or disposition; earnest; thoughtful; solemn; not light, gay, or volatile."
+          ],
+          "quotes": [
+            "He is always serious, yet there is about his manner a graceful ease."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Really intending what is said; being in earnest; not jesting or deceiving."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Important; weighty; not trifling; grave."
+          ],
+          "quotes": [
+            "The holy Scriptures bring to our ears the most serious things in the world."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Hence, giving rise to apprehension; attended with danger; as, a serious injury."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Grave",
+            "solemn",
+            "earnest",
+            "sedate",
+            "important",
+            "weighty. See Grave"
+          ]
+        }
+      ]
+    }
+  ]
+}

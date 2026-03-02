@@ -1,0 +1,73 @@
+{
+  "key": "serviceable",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Serviceable",
+      "headword_raw": "Serv\"ice*a*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Serviceableness",
+          "form_raw": "Serv\"ice*a*ble*ness",
+          "key": "serviceableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Serviceably",
+          "form_raw": "Serv\"ice*a*bly",
+          "key": "serviceably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Doing service; promoting happiness, interest, advantage, or any good; useful to any end; adapted to any good end use; beneficial; advantageous."
+          ],
+          "quotes": [
+            "I know thee well, a serviceable villain."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Prepared for rendering service; capable of, or fit for, the performance of duty; hence, active; diligent."
+          ],
+          "quotes": [
+            "Courteous he was, lowly, and servysable.",
+            "Bright-hearnessed angels sit in order serviceable.",
+            "Seeing her so sweet and serviceable."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

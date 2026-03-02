@@ -1,0 +1,49 @@
+{
+  "key": "serpentinize",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Serpentinize",
+      "headword_raw": "Ser\"pen*tin*ize",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Serpentinization",
+          "form_raw": "Ser`pen*tin`i*za\"tion",
+          "key": "serpentinization",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Min.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To convert (a magnesian silicate) into serpentine."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

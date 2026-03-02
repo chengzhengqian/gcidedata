@@ -1,0 +1,59 @@
+{
+  "key": "separable",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Separable",
+      "headword_raw": "Sep\"a*ra*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[L. separabilis: cf. F. sparable.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Separableness",
+          "form_raw": "Sep\"a*ra*ble*ness",
+          "key": "separableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Separably",
+          "form_raw": "Sep\"a*ra*bly",
+          "key": "separably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Capable of being separated, disjoined, disunited, or divided; as, the separable parts of plants; qualities not separable from the substance in which they exist."
+          ],
+          "quotes": [
+            "Trials permit me not to doubt of the separableness of a yellow tincture from gold."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

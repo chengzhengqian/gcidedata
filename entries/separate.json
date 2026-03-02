@@ -1,0 +1,172 @@
+{
+  "key": "separate",
+  "source_file": "CIDE.S",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Separate",
+      "headword_raw": "Sep\"a*rate",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. separatus, p. p. of separare to separate; pfref. se- aside + parare to make ready, prepare. See Parade, and cf. Sever.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Separated (<?/); p. pr. & vb. n. Separating.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To disunite; to divide; to disconnect; to sever; to part in any manner."
+          ],
+          "quotes": [
+            "From the fine gold I separate the alloy.",
+            "Separate thyself, I pray thee, from me.",
+            "Who shall separate us from the love of Christ?"
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To come between; to keep apart by occupying the space between; to lie between; as, the Mediterranean Sea separates Europe and Africa."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Bot.)"
+          ],
+          "defs": [
+            "To set apart; to select from among others, as for a special use or service."
+          ],
+          "quotes": [
+            "Separate me Barnabas and Saul for the work whereunto I have called thaem."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Separate",
+      "headword_raw": "Sep\"a*rate",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To part; to become disunited; to be disconnected; to withdraw from one another; as, the family separated."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Separate",
+      "headword_raw": "Sep\"a*rate",
+      "pr": "(?)",
+      "pos": [
+        "p. a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. separatus, p. p. ]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Separately",
+          "form_raw": "Sep\"a*rate*ly",
+          "key": "separately",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Separateness",
+          "form_raw": "Sep\"a*rate*ness",
+          "key": "separateness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Divided from another or others; disjoined; disconnected; separated; -- said of things once connected."
+          ],
+          "quotes": [
+            "Him that was separate from his brethren."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Unconnected; not united or associated; distinct; -- said of things that have not been connected."
+          ],
+          "quotes": [
+            "For such an high priest became us, who is holy, harmless, undefiled, separate from sinnere."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Law)",
+            "(Law)"
+          ],
+          "defs": [
+            "Disunited from the body; disembodied; as, a separate spirit; the separate state of souls."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

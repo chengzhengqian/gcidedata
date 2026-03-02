@@ -1,0 +1,63 @@
+{
+  "key": "senseless",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Senseless",
+      "headword_raw": "Sense\"less",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Senselessly",
+          "form_raw": "Sense\"less*ly",
+          "key": "senselessly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Senselessness",
+          "form_raw": "Sense\"less*ness",
+          "key": "senselessness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Destitute of, deficient in, or contrary to, sense; without sensibility or feeling; unconscious; stupid; foolish; unwise; unreasonable."
+          ],
+          "quotes": [
+            "You blocks, you stones, you worse than senseless things.",
+            "The ears are senseless that should give us hearing.",
+            "The senseless grave feels not your pious sorrows.",
+            "They were a senseless, stupid race.",
+            "They would repent this their senseless perverseness when it would be too late."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

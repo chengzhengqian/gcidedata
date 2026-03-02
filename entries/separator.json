@@ -1,0 +1,43 @@
+{
+  "key": "separator",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Separator",
+      "headword_raw": "Sep\"a*ra`tor",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Steam Boilers)",
+        "(Mining)",
+        "(Weaving)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "One who, or that which, separates.",
+            "A device for depriving steam of particles of water mixed with it.",
+            "An apparatus for sorting pulverized ores into grades, or separating them from gangue.",
+            "An instrument used for spreading apart the threads of the warp in the loom, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

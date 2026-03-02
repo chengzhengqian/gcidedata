@@ -1,0 +1,48 @@
+{
+  "key": "serrated",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Serrated",
+      "headword_raw": "Ser\"ra*ted",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. serratus, fr. serra a saw; perhaps akin to secare to cut, E. saw a cutting instrument. Cf. Sierra.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Notched on the edge, like a saw."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Bot.)"
+          ],
+          "defs": [
+            "Beset with teeth pointing forwards or upwards; as, serrate leaves."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

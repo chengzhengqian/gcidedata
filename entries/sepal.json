@@ -1,0 +1,40 @@
+{
+  "key": "sepal",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Sepal",
+      "headword_raw": "Se\"pal",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[NL. sepalum, formed in imitation of NL. petalum, petal, to denote one of the divisions of the calyx: cf. F. spale.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Bot.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A leaf or division of the calyx."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ When the calyx consists of but one part, it is said to be monosepalous; when of two parts, it is said to be disepalous; when of a variable and indefinite number of parts, it is said to be polysepalous; when of several parts united, it is properly called gamosepalous."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

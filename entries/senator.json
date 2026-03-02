@@ -1,0 +1,52 @@
+{
+  "key": "senator",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Senator",
+      "headword_raw": "Sen\"a*tor",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. senatour, OF. senatour, F. snateur, fr. L. senator.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A member of a senate."
+          ],
+          "quotes": [
+            "The duke and senators of Venice greet you."
+          ],
+          "notes": [
+            "☞ In the United States, each State sends two senators for a term of six years to the national Congress."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(O.Eng.Law)"
+          ],
+          "defs": [
+            "A member of the king's council; a king's councilor."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "key": "sententious",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Sententious",
+      "headword_raw": "Sen*ten\"tious",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. sentenciosus: cf. F. sentencieux.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Sententiously",
+          "form_raw": "Sen*ten\"tious*ly",
+          "key": "sententiously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Sententiousness",
+          "form_raw": "Sen*ten\"tious*ness",
+          "key": "sententiousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Abounding with sentences, axioms, and maxims; full of meaning; terse and energetic in expression; pithy; as, a sententious style or discourse; sententious truth."
+          ],
+          "quotes": [
+            "How he apes his sire, Ambitiously sententious!"
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Comprising or representing sentences; sentential."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

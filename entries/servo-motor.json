@@ -1,0 +1,51 @@
+{
+  "key": "servo-motor",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Servo-motor",
+      "headword_raw": "Ser`vo-mo\"tor",
+      "pr": "(sr`v*mō\"tr)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Sometimes erroneously spelt serro-motor.]",
+      "sources": [
+        "Webster 1913 Suppl.",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Mach.)"
+          ],
+          "defs": [
+            "A relay apparatus;",
+            "An auxiliary motor, regulated by a hand lever, for quickly and easily moving the reversing gear of a large marine engine into any desired position indicated by that of the hand lever, which controls the valve of the motor.",
+            "In a Whitehead torpedo, a compressed-air motor, for moving the rudders so as to correct deviations from the course."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a motor which forms part of a servomechanism."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

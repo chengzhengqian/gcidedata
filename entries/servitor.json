@@ -1,0 +1,50 @@
+{
+  "key": "servitor",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Servitor",
+      "headword_raw": "Serv\"i*tor",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L., fr. servire to serve: cf. F. serviteur.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One who serves; a servant; an attendant; one who acts under another; a follower or adherent."
+          ],
+          "quotes": [
+            "Your trusty and most valiant servitor."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Univ. of Oxford, Eng.)"
+          ],
+          "defs": [
+            "An undergraduate, partly supported by the college funds, whose duty it formerly was to wait at table. A servitor corresponded to a sizar in Cambridge and Dublin universities."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "key": "oleoresin",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Oleoresin",
+      "headword_raw": "O`le*o*res\"in",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[L. oleum oil + E. resin.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Oleoresinous",
+          "form_raw": "O`le*o*res\"in*ous",
+          "key": "oleoresinous",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "A natural mixture of a terebinthinate oil and a resin."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "A liquid or semiliquid preparation extracted (as from capsicum, cubebs, or ginger) by means of ether, and consisting of fixed or volatile oil holding resin in solution."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "key": "ominous",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Ominous",
+      "headword_raw": "Om\"i*nous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. ominosus, fr. omen. See Omen.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Ominously",
+          "form_raw": "Om\"i*nous*ly",
+          "key": "ominously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Ominousness",
+          "form_raw": "Om\"i*nous*ness",
+          "key": "ominousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to an omen or to omens; being or exhibiting an omen; significant; portentous; -- formerly used both in a favorable and unfavorable sense; now chiefly in the latter; foreboding or foreshowing evil; inauspicious; as, an ominous dread."
+          ],
+          "quotes": [
+            "He had a good ominous name to have made a peace.",
+            "In the heathen worship of God, a sacrifice without a heart was accounted ominous."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

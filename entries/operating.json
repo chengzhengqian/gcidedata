@@ -1,0 +1,51 @@
+{
+  "key": "operating",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "operating",
+      "headword_raw": "operating",
+      "pr": null,
+      "pos": [
+        "adj.",
+        "pr. p."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "pr. p. of operate; as, the operating conditions of the oxidation pond."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "having an effect or influence."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "at work(predicate)",
+            "in operation",
+            "operant"
+          ]
+        }
+      ]
+    }
+  ]
+}

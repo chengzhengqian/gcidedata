@@ -1,0 +1,49 @@
+{
+  "key": "one-way",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "one-way",
+      "headword_raw": "one-way",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Legally permitting movement or travel in one direction only; -- of paths, especially roads; as, one-way streets."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Transportation)"
+          ],
+          "defs": [
+            "Pertaining to or valid for transportation in one direction between two points; as, a one-way ticket; a one-way fare. Opposed to round-trip."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

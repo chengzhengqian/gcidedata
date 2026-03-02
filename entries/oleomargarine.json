@@ -1,0 +1,49 @@
+{
+  "key": "oleomargarine",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Oleomargarine",
+      "headword_raw": "O`le*o*mar\"ga*rine",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. oleum oil + E. margarine, margarin.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A liquid oil made from animal fats (esp. beef fat) by separating the greater portion of the solid fat or stearin, by crystallization. It is mainly a mixture of olein and palmitin with some little stearin."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "An artificial butter made by emulsifying a fatty oil with more or less milk and water; it was formerly made predominantly from animal fats, but now is made predominantly or exclusively from vegetable oils, sometimes mixed with animal fats."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Oleomargarine was wrongly so named, as it contains no margarin proper, but olein, palmitin, and stearin, a mixture of palmitin and stearin having formerly been called margarin by mistake."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

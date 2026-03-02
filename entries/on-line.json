@@ -1,0 +1,55 @@
+{
+  "key": "on-line",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "on-line",
+      "headword_raw": "on\"-line`",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "connected by a communications line to a computer. Opposite of off-line."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "online",
+            "on line(predicate)"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "being in progress now; ongoing; as, on-line editorial projects."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "in progress(predicate)",
+            "ongoing",
+            "on line(predicate)"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "key": "operational",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "operational",
+      "headword_raw": "operational",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "of or pertaining to operations; as, operational procedure."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Fit or ready for service; available and in working condition; as, an operational aircraft. Opposite of out-of-service."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "functional",
+            "usable",
+            "useable",
+            "in order(predicate)",
+            "in working order(predicate)",
+            "operable"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Mil.)"
+          ],
+          "defs": [
+            "of or intended for or involved in military operations. Opposite of nonoperational."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "In force; not expired or annulled; -- of rules or laws."
+          ],
+          "quotes": [
+            "de facto apartheid still operational even in the `new' African nations"
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

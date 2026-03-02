@@ -1,0 +1,128 @@
+{
+  "key": "confine",
+  "source_file": "CIDE.C",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Confine",
+      "headword_raw": "Con*fine\"",
+      "pr": "(kn*fīn\")",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[F. confiner to border upon, LL. confinare to set bounds to; con- + finis boundary, end. See Final, Finish.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Confined (?); p. pr. & vb. n. Confining.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "bound",
+        "limit",
+        "restrain",
+        "imprison",
+        "immure",
+        "inclose",
+        "circumscribe",
+        "restrict"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To restrain within limits; to restrict; to limit; to bound; to shut up; to inclose; to keep close."
+          ],
+          "quotes": [
+            "Now let not nature's hand Keep the wild flood confined! let order die!",
+            "He is to confine himself to the compass of numbers and the slavery of rhyme."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Confine",
+      "headword_raw": "Con\"fine",
+      "pr": "(? <?/); 277)",
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To have a common boundary; to border; to lie contiguous; to touch; -- followed by on or with."
+          ],
+          "quotes": [
+            "Where your gloomy bounds Confine with heaven.",
+            "Bewixt heaven and earth and skies there stands a place. Confining on all three."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Confine",
+      "headword_raw": "Con\"fine",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Common boundary; border; limit; -- used chiefly in the plural."
+          ],
+          "quotes": [
+            "Events that came to pass within the confines of Judea.",
+            "And now in little space The confines met of empyrean heaven, And of this world.",
+            "On the confines of the city and the Temple."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Apartment; place of restraint; prison."
+          ],
+          "quotes": [
+            "Confines, wards, and dungeons.",
+            "The extravagant and erring spirit hies To his confine."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

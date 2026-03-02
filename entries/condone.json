@@ -1,0 +1,53 @@
+{
+  "key": "condone",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Condone",
+      "headword_raw": "Con*done\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. condonare, -donatum, to give up, remit, forgive; con- + donare to give. See Donate.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Condoned (?); p. pr. & vb. n. Condoning.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To pardon; to forgive."
+          ],
+          "quotes": [
+            "A fraud which he had either concocted or condoned.",
+            "It would have been magnanimous in the men then in power to have overlooked all these things, and, condoning the politics, to have rewarded the poetry of Burns."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "To pardon; to overlook the offense of; esp., to forgive for a violation of the marriage law; -- said of either the husband or the wife."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

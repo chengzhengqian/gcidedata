@@ -1,0 +1,51 @@
+{
+  "key": "connotation",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Connotation",
+      "headword_raw": "Con`no*ta\"tion",
+      "pr": "(kn`n*tā\"shn)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. connotation.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a meaning implied but not explicitly denoted by some word or expression, which may be understood in addition to the explicit primary meaning."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Logic)"
+          ],
+          "defs": [
+            "the full set of necessary properties possessed by all the objects within the extension of a term; the intentional meaning of a term, which determines the objects to which the term applies; the intention of a term."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "intension"
+          ]
+        }
+      ]
+    }
+  ]
+}

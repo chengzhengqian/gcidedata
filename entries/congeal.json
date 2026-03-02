@@ -1,0 +1,89 @@
+{
+  "key": "congeal",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Congeal",
+      "headword_raw": "Con*geal\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[F. congeler, L. congelare, -gelatumn; con- + gelare to freeze, gelu frost. See Gelid.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Congealed (?); p. pr. & vb. n. Congealing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To change from a fluid to a solid state by cold; to freeze."
+          ],
+          "quotes": [
+            "A vapory deluge lies to snow congealed."
+          ],
+          "notes": [],
+          "synonyms": [
+            "jell",
+            "set"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To affect as if by freezing; to check the flow of, or cause to run cold; to chill."
+          ],
+          "quotes": [
+            "As if with horror to congeal his blood."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Congeal",
+      "headword_raw": "Con*geal\"",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "jell",
+        "set"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To grow hard, stiff, or thick, from cold or other causes; to become solid; to freeze; to cease to flow; to run cold; to be chilled."
+          ],
+          "quotes": [
+            "Lest zeal, now melted . . . Cool and congeal again to what it was."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

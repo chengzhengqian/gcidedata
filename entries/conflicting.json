@@ -1,0 +1,57 @@
+{
+  "key": "conflicting",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Conflicting",
+      "headword_raw": "Con*flict\"ing",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Being in conflict or collision, or in opposition; contending; contradictory; incompatible; contrary; opposing; marked by discord."
+          ],
+          "quotes": [
+            "Torn with sundry conflicting passions."
+          ],
+          "notes": [],
+          "synonyms": [
+            "antagonistic",
+            "at odds(predicate)",
+            "clashing"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "in disagreement; -- of facts or theories."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "at odds(predicate)",
+            "contradictory",
+            "self-contradictory"
+          ]
+        }
+      ]
+    }
+  ]
+}

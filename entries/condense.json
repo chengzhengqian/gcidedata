@@ -1,0 +1,137 @@
+{
+  "key": "condense",
+  "source_file": "CIDE.C",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Condense",
+      "headword_raw": "Con*dense\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. condensare; con- + densare to make thick or dense, densus thick, dense: cf. F. condenser. See Dense, and cf. Condensate.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Condensed (?); p. pr. & vb. n. Condensing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To make more close, compact, or dense; to compress or concentrate into a smaller compass; to consolidate; to abridge; to epitomize."
+          ],
+          "quotes": [
+            "In what shape they choose, Dilated or condensed, bright or obscure.",
+            "The secret course pursued at Brussels and at Madrid may be condensed into the usual formula, dissimulation, procrastination, and again dissimulation."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Chem. & Physics)"
+          ],
+          "defs": [
+            "To reduce into another and denser form, as by cold or pressure; as, to condense gas into a liquid form, or steam into water."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "compress",
+            "contract",
+            "crowd",
+            "thicken",
+            "concentrate",
+            "abridge",
+            "epitomize",
+            "reduce"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Condense",
+      "headword_raw": "Con*dense\"",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To become more compact; to be reduced into a denser form."
+          ],
+          "quotes": [
+            "Nitrous acid is gaseous at ordinary temperatures, but condenses into a very volatile liquid at the zero of Fahrenheit."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "To combine or unite (as two chemical substances) with or without separation of some unimportant side products.",
+            "To undergo polymerization."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Condense",
+      "headword_raw": "Con*dense\"",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. condensus.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Condensed; compact; dense."
+          ],
+          "quotes": [
+            "The huge condense bodies of planets."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

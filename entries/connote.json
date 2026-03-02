@@ -1,0 +1,54 @@
+{
+  "key": "connote",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "connote",
+      "headword_raw": "con*note\"",
+      "pr": "(kn*nōt\")",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[See connotate, and cote.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. connoted; p. pr. & vb. n. connoting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To mark along with; to suggest or indicate as additional; to designate by implication; to include in the meaning; to imply."
+          ],
+          "quotes": [
+            "Good, in the general notion of it, connotes also a certain suitableness of it to some other thing."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Logic)"
+          ],
+          "defs": [
+            "To imply as an attribute."
+          ],
+          "quotes": [
+            "The word “white” denotes all white things, as snow, paper, the foam of the sea, etc., and ipmlies, or as it was termed by the schoolmen, connotes, the attribute “whiteness.”"
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

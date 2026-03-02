@@ -1,0 +1,101 @@
+{
+  "key": "confer",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Confer",
+      "headword_raw": "Con*fer\"",
+      "pr": "(kn*fr\")",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. conferre to bring together, contribute, consult; con- + ferre to bear: cf. F. confrer. See 1st Bear.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Conferred (#); p. pr. & vb. n. Conferring.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To bring together for comparison; to compare."
+          ],
+          "quotes": [
+            "If we confer these observations with others of the like nature, we may find cause to rectify the general opinion."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To grant as a possession; to bestow."
+          ],
+          "quotes": [
+            "The public marks of honor and reward Conferred upon me."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To contribute; to conduce."
+          ],
+          "quotes": [
+            "The closeness and compactness of the parts resting together doth much confer to the strength of the union."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Confer",
+      "headword_raw": "Con*fer\"",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "counsel",
+        "advise",
+        "discourse",
+        "converse"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To have discourse; to consult; to compare views; to deliberate."
+          ],
+          "quotes": [
+            "Festus, when he had conferred with the council, answered.",
+            "You shall hear us confer of this."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

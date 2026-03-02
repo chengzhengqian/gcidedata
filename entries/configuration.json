@@ -1,0 +1,52 @@
+{
+  "key": "configuration",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Configuration",
+      "headword_raw": "Con*fig`u*ra\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. configuratio.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Form, as depending on the relative disposition of the parts of a thing; shape; figure."
+          ],
+          "quotes": [
+            "It is the variety of configurations [of the mouth] . . . which gives birth and origin to the several vowels."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Astrol.)"
+          ],
+          "defs": [
+            "Relative position or aspect of the planets; the face of the horoscope, according to the relative positions of the planets at any time."
+          ],
+          "quotes": [
+            "They [astrologers] undertook . . . to determine the course of a man's character and life from the configuration of the stars at the moment of his birth."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

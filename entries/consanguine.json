@@ -1,0 +1,55 @@
+{
+  "key": "consanguine",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Consanguine",
+      "headword_raw": "Con*san\"guine",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "related by blood; descended from a common ancestor; -- used as a term of relation between two people."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "akin(predicate)",
+            "blood-related",
+            "cognate",
+            "consanguineous",
+            "kin(predicate)"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "having the same father but different mothers; -- contrasted with uterine{2} and german."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

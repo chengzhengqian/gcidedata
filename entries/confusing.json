@@ -1,0 +1,52 @@
+{
+  "key": "confusing",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "confusing",
+      "headword_raw": "confusing",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "causing mental confusion and perplexity."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "perplexing",
+            "stupefying"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "causing bafflement and confusion; as, he sent confusing signals to Iraq."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "bewildering",
+            "confused"
+          ]
+        }
+      ]
+    }
+  ]
+}

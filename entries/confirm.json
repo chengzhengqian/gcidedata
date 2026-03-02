@@ -1,0 +1,102 @@
+{
+  "key": "confirm",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Confirm",
+      "headword_raw": "Con*firm\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OE. confermen, confirmen, OF. confermer, F. confirmer, fr. L. confirmare; con- + firmare to make firm, fr. firmus firm. See Firm.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Confrmed (?); p. pr. & vb. n. Confirming.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To make firm or firmer; to add strength to; to establish; as, health is confirmed by exercise."
+          ],
+          "quotes": [
+            "Confirm the crown to me and to mine heirs.",
+            "And confirmed the same unto Jacob for a law."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To strengthen in judgment or purpose."
+          ],
+          "quotes": [
+            "Confirmed, then, I resolve Adam shall share with me in bliss or woe."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To give new assurance of the truth of; to render certain; to verify; to corroborate; as, to confirm a rumor."
+          ],
+          "quotes": [
+            "Your eyes shall witness and confirm my tale.",
+            "These likelihoods confirm her flight."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "To render valid by formal assent; to complete by a necessary sanction; to ratify; as, to confirm the appointment of an official; the Senate confirms a treaty."
+          ],
+          "quotes": [
+            "That treaty so prejudicial ought to have been remitted rather than confimed."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Eccl.)"
+          ],
+          "defs": [
+            "To administer the rite of confirmation to. See Confirmation, 3."
+          ],
+          "quotes": [
+            "Those which are thus confirmed are thereby supposed to be fit for admission to the sacrament."
+          ],
+          "notes": [],
+          "synonyms": [
+            "strengthen",
+            "corroborate",
+            "substantiate",
+            "establish",
+            "fix",
+            "ratify",
+            "settle",
+            "verify",
+            "assure"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "key": "congestion",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Congestion",
+      "headword_raw": "Con*ges\"tion",
+      "pr": "(?; 106)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. congestio: cf. F. congestion.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of gathering into a heap or mass; accumulation."
+          ],
+          "quotes": [
+            "The congestion of dead bodies one upon another."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "Overfullness of the capillary and other blood vessels, etc., in any locality or organ (often producing other morbid symptoms); local hyperæmia, active or passive; as, arterial congestion; venous congestion; congestion of the lungs."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

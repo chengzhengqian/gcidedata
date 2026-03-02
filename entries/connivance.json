@@ -1,0 +1,50 @@
+{
+  "key": "connivance",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Connivance",
+      "headword_raw": "Con*niv\"ance",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. connivence, L. conniventia.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Intentional failure or forbearance to discover a fault or wrongdoing; voluntary oversight; passive consent or cooperation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "Corrupt or guilty assent to wrongdoing, not involving actual participation in, but knowledge of, and failure to prevent or oppose it."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "See Collusion"
+          ]
+        }
+      ]
+    }
+  ]
+}

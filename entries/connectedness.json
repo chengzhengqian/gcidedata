@@ -1,0 +1,51 @@
+{
+  "key": "connectedness",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "connectedness",
+      "headword_raw": "connectedness",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "the state of being connected."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "connection"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a relation between things or events (as in the case of one causing the other or sharing features with it)."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "connection",
+            "connexion"
+          ]
+        }
+      ]
+    }
+  ]
+}

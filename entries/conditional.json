@@ -1,0 +1,94 @@
+{
+  "key": "conditional",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Conditional",
+      "headword_raw": "Con*di\"tion*al",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. conditionalis.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Containing, implying, or depending on, a condition or conditions; not absolute; made or granted on certain terms; as, a conditional promise."
+          ],
+          "quotes": [
+            "Every covenant of God with man . . . may justly be made (as in fact it is made) with this conditional punishment annexed and declared."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Gram. & Logic)"
+          ],
+          "defs": [
+            "Expressing a condition or supposition; as, a conditional word, mode, or tense."
+          ],
+          "quotes": [
+            "A conditional proposition is one which asserts the dependence of one categorical proposition on another.",
+            "The words hypothetical and conditional may be . . . used synonymously."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Conditional",
+      "headword_raw": "Con*di\"tion*al",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A limitation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A conditional word, mode, or proposition."
+          ],
+          "quotes": [
+            "Disjunctives may be turned into conditionals."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

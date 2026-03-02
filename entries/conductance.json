@@ -1,0 +1,40 @@
+{
+  "key": "conductance",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Conductance",
+      "headword_raw": "Con*duct\"ance",
+      "pr": "(kn*dk\"tns)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Conduct, v. + -ance.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Elec.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Conducting power; -- the reciprocal of resistance. A suggested unit is the mho, the reciprocal of the ohm."
+          ],
+          "quotes": [
+            "Conductance is an attribute of any specified conductor, and refers to its shape, length, and other factors. Conductivity is an attribute of any specified material without direct reference to its shape or other factors."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

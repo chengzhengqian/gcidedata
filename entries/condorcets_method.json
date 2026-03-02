@@ -1,0 +1,34 @@
+{
+  "key": "condorcets_method",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Condorcets method",
+      "headword_raw": "Condorcet's method",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Condorcet's method is one of several pairwise methods, which are great methods for electing people in single-seat elections (president, governor, mayor, etc.). Condorcet's method is named after the 18th century election theorist who invented it. Unlike most methods which make you choose the lesser of two evils, Condorcet's method and other pairwise methods let you rank the candidates in the order in which you would see them elected. The way the votes are tallied is by computing the results of separate pairwise elections between all of the candidates, and the winner is the one that wins a majority in all of the pairwise elections. The best result of this is that if there is Candidate A on one extreme who pulls 40% of the vote, Candidate B in the middle who only pulls 20% of the vote, and Candidate C on the other extreme who pulls 40% of the vote, Candidate B will get elected as a compromise. Why? Because in a two-way contest between A and B, B would win with 60% of the vote, and in a two-way contest between B and C, B would also win with 60% of the vote. (Note that if B is a loony billionaire, he might not be able to win separate pairwise elections against anyone, and this would be reflected with Condorcet's method.) Condorcet's method lets voters mark their sincere wishes for who they would like to win the election, without having to consider strategy (\"I'd vote for Candidate B, but I'm afraid of wasting my vote.\"). It's really just a logical extension of majority rule when more than two choices are involved. Other pairwise methods, such as Copeland's method and Smith's method, have other desirable characteristics. The best of the pairwise methods is something that is quite debatable. Wait, I've heard of this before... You may have. However, there are many methods other methods similar to this one (though in my opinion, inferior), so don't be so sure. In order to be fair, here are a couple of those other methods: * Majority preference voting (MPV) -- related to PV. Like PV, the voter simply ranks candidates in an order of preference (e. 1. Perot 2. Clinton 3. Bush). The candidate with the least number of first place votes is eliminated, and their votes are \"transferred\" to their 2nd choice until a candidate has a majority. It is frequently advocated and is better than our current system, but still has some nasty properties (like possibly knocking compromise candidates out of the running early). MPV is actually in use in Australia, among other places. Also known as Hare's Method. * Approval -- Voters are allowed to vote for all candidates they approve. For example, Bush-Yes Perot-No Clinton-Yes. The candidate with the highest number of \"yes\" votes wins. For a more complete explanation, see Approval Voting. Rob Lanphier (from https://web.archive.org/web/20050722235546/http://www.eskimo.com/~robla/politics/condorcet.html)."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "key": "congenerous",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Congenerous",
+      "headword_raw": "Con*gen\"er*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": "[L. congener; con- + genus, generis, birth, kind, race. See Genus, and cf. Congener.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Congenerousness",
+          "form_raw": "Con*gen\"er*ous*ness",
+          "key": "congenerousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Allied in origin or cause; congeneric; as, congenerous diseases."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

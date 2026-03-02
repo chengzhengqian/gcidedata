@@ -1,0 +1,49 @@
+{
+  "key": "confessor",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Confessor",
+      "headword_raw": "Con*fess\"or",
+      "pr": "(?; 277)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OF. confessor, F. confesseur, fr. L. & LL. confessor.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One who confesses; one who acknowledges a fault, or the truth of a charge, at the risk of suffering; specifically, one who confesses himself a follower of Christ and endures persecution for his faith."
+          ],
+          "quotes": [
+            "He who dies for religion is a martyr; he who suffers for it is a confessor.",
+            "Our religion which hath been sealed with the blood of so many martyrs and confessors."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A priest who hears the confessions of others and is authorized to grant them absolution."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

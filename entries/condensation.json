@@ -1,0 +1,63 @@
+{
+  "key": "condensation",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Condensation",
+      "headword_raw": "Con`den*sa\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. condensatio: cf. F. condensation.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act or process of condensing or of being condensed; the state of being condensed."
+          ],
+          "quotes": [
+            "He [Goldsmith] was a great and perhaps an unequaled master of the arts of selection and condensation."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Physics)"
+          ],
+          "defs": [
+            "The act or process of reducing, by depression of temperature or increase of pressure, etc., to another and denser form, as gas to the condition of a liquid or steam to water."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Chem.)",
+            "(Chem.)"
+          ],
+          "defs": [
+            "A rearrangement or concentration of the different constituents of one or more substances into a distinct and definite compound of greater complexity and molecular weight, often resulting in an increase of density, as the condensation of oxygen into ozone, or of acetone into mesitylene."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

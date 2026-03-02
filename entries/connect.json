@@ -1,0 +1,103 @@
+{
+  "key": "connect",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Connect",
+      "headword_raw": "Con*nect\"",
+      "pr": "(kn*nkt\")",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. connectere, -nexum; con- + nectere to bind. See Annex.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": "[imp. & p. p. Connected; p. pr. & vb. n. Connecting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To join, or fasten together, as by something intervening; to associate; to combine; to unite or link together; to establish a bond or relation between."
+          ],
+          "quotes": [
+            "He fills, he bounds, connects and equals all.",
+            "A man must see the connection of each intermediate idea with those that it connects before he can use it in a syllogism."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To associate (a person or thing, or one's self) with another person, thing, business, or affair."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To establish a communication link; -- used with with; as, his telephone didn't answer, so I connected with him by email."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Mach.)"
+          ],
+          "defs": [
+            "To electronically or mechanically link (a device) to another device, or to link a device to a common communication line; -- used with with; as, the installer connected our telephones on Monday; I connected my VCR to the TV set by myself; the plumber connected a shut-off valve to my gas line."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Connect",
+      "headword_raw": "Con*nect\"",
+      "pr": "(?)",
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To join, unite, or cohere; to have a close relation; as, one line of railroad connects with another; one argument connects with another."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

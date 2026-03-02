@@ -1,0 +1,62 @@
+{
+  "key": "integrate",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Integrate",
+      "headword_raw": "In\"te*grate",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. integratus, p. p. of integrare to make whole, renew: cf. F. intgrer. See Integer, Entire.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Integrated (?); p. pr. & vb. n. Integrating (?).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To form into one whole; to make entire; to complete; to renew; to restore; to perfect."
+          ],
+          "quotes": [
+            "Two distinct substances, the soul and body, go to compound and integrate the man."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To indicate the whole of; to give the sum or total of; as, an integrating anemometer, one that indicates or registers the entire action of the wind in a given time."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "To subject to the operation of integration; to find the integral of."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

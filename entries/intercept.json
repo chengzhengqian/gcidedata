@@ -1,0 +1,137 @@
+{
+  "key": "intercept",
+  "source_file": "CIDE.I",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Intercept",
+      "headword_raw": "In`ter*cept\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. interceptus, p. p. of intercipere to intercept; inter between + capere to take, seize: cf. F. intercepter. See Capable.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": "[imp. & p. p. Intercepted; p. pr. & vb. n. Intercepting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To take or seize by the way, or before arrival at the destined place; to cause to stop on the passage; as, to intercept a letter; a telegram will intercept him at Paris."
+          ],
+          "quotes": [
+            "God will shortly intercept your breath."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To obstruct or interrupt the progress of; to stop; to hinder or oppose; as, to intercept the current of a river."
+          ],
+          "quotes": [
+            "Who intercepts me in my expedition?",
+            "We must meet first, and intercept his course."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To interrupt communication with, or progress toward; to cut off, as the destination; to blockade."
+          ],
+          "quotes": [
+            "While storms vindictive intercept the shore."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "To include between; as, that part of the line which is intercepted between the points A and B."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "To overhear or view (a communication or message intended for another), without hindering its passage; as, to intercept a telephone call."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [
+            "(Sports)"
+          ],
+          "defs": [
+            "To catch and take possession of (a ball passed between members of an opposing team); as, the back intercepted the pass and ran the ball back for a touchdown."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "To cut off",
+            "stop",
+            "catch",
+            "seize",
+            "obstruct"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Intercept",
+      "headword_raw": "In\"ter*cept`",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Math.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A part cut off or intercepted, as a portion of a line included between two points, or cut off two straight lines or curves."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

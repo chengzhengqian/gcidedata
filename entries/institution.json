@@ -1,0 +1,70 @@
+{
+  "key": "institution",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Institution",
+      "headword_raw": "In`sti*tu\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. institutio: cf. F. institution.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Eccl. Law)"
+          ],
+          "defs": [
+            "The act or process of instituting; as: (a) Establishment; foundation; enactment; as, the institution of a school.",
+            "Instruction; education.",
+            "The act or ceremony of investing a clergyman with the spiritual part of a benefice, by which the care of souls is committed to his charge."
+          ],
+          "quotes": [
+            "The institution of God's law is described as being established by solemn injunction."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That which instituted or established",
+            "Established order, method, or custom; enactment; ordinance; permanent form of law or polity.",
+            "An established or organized society or corporation; an establishment, especially of a public character, or affecting a community; a foundation; as, a literary institution; a charitable institution; also, a building or the buildings occupied or used by such organization; as, the Smithsonian Institution.",
+            "Anything forming a characteristic and persistent feature in social or national life or habits."
+          ],
+          "quotes": [
+            "The nature of our people, Our city's institutions.",
+            "We ordered a lunch (the most delightful of English institutions, next to dinner) to be ready against our return."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "That which institutes or instructs; a textbook; a system of elements or rules; an institute."
+          ],
+          "quotes": [
+            "There is another manuscript, of above three hundred years old, . . . being an institution of physic."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

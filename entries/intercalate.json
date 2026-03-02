@@ -1,0 +1,54 @@
+{
+  "key": "intercalate",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Intercalate",
+      "headword_raw": "In*ter\"ca*late",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. intercalatus, p. p. of intercalare to intercalate to intercalate; inter between + calare to call, proclaim. See Calendar.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Intercalated (?); p. pr. & vb. n. Intercalating (?).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Chron.)"
+          ],
+          "defs": [
+            "To insert, as a day or other portion of time, in a calendar."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Geol.)"
+          ],
+          "defs": [
+            "To insert among others, as a verse in a stanza; specif. (Geol.), to introduce as a bed or stratum, between the layers of a regular series of rocks."
+          ],
+          "quotes": [
+            "Beds of fresh-water shells . . . are intercalated and interstratified with the shale."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

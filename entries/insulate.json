@@ -1,0 +1,61 @@
+{
+  "key": "insulate",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Insulate",
+      "headword_raw": "In\"su*late",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. insulatus insulated, fr. insula island. See Isle, and cf. Isolate.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Insulated (?); p. pr. & vb. n. Insulating (?).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To make an island of."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To place in a detached situation, or in a state having no communication with surrounding objects; to isolate; to separate."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Elec. & Thermotics)",
+            "(Elec.)"
+          ],
+          "defs": [
+            "To prevent the transfer of electricity or heat to or from (bodies) by the interposition of nonconductors."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

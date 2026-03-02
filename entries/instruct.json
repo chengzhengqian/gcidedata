@@ -1,0 +1,113 @@
+{
+  "key": "instruct",
+  "source_file": "CIDE.I",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Instruct",
+      "headword_raw": "In*struct\"",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. instructus, p. p. of instruere to furnish, provide, construct, instruct; pref. in- in, on + struere. See Structure.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Arranged; furnished; provided."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Instructed; taught; enlightened."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Instruct",
+      "headword_raw": "In*struct\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Instructed; p. pr. & vb. n. Instructing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To put in order; to form; to prepare."
+          ],
+          "quotes": [
+            "They speak to the merits of a cause, after the proctor has prepared and instructed the same for a hearing."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To form by communication of knowledge; to inform the mind of; to impart knowledge or information to; to enlighten; to teach; to discipline."
+          ],
+          "quotes": [
+            "Schoolmasters will I keep within my house, Fit to instruct her youth."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To furnish with directions; to advise; to direct; to command; as, the judge instructs the jury."
+          ],
+          "quotes": [
+            "She, being before instructed of her mother, said, Give me here John Baptist's head in a charger.",
+            "Take her in; instruct her what she has to do."
+          ],
+          "notes": [],
+          "synonyms": [
+            "teach",
+            "educate",
+            "inform",
+            "train",
+            "discipline",
+            "indoctrinate",
+            "direct",
+            "enjoin"
+          ]
+        }
+      ]
+    }
+  ]
+}

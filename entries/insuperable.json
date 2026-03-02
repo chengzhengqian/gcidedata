@@ -1,0 +1,64 @@
+{
+  "key": "insuperable",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Insuperable",
+      "headword_raw": "In*su\"per*a*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[L. insuperabilis: cf. OF. insuperable. See In- not, and Superable.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Insuperableness",
+          "form_raw": "In*su\"per*a*ble*ness",
+          "key": "insuperableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Insuperably",
+          "form_raw": "In*su\"per*a*bly",
+          "key": "insuperably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Impassable",
+        "insurmountable",
+        "unconquerable"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Incapable of being passed over or surmounted; insurmountable; as, insuperable difficulties."
+          ],
+          "quotes": [
+            "And middle natures, how they long to join, Yet never pass the insuperable line?",
+            "The difficulty is enhanced, or is . . . insuperable."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

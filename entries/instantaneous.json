@@ -1,0 +1,72 @@
+{
+  "key": "instantaneous",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Instantaneous",
+      "headword_raw": "In`stan*ta\"ne*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Cf. F. instantan.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Instantaneously",
+          "form_raw": "In`stan*ta\"ne*ous*ly",
+          "key": "instantaneously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Instantaneousness",
+          "form_raw": "In`stan*ta\"ne*ous*ness",
+          "key": "instantaneousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Done or occurring in an instant, or without any perceptible duration of time; as, the passage of electricity appears to be instantaneous."
+          ],
+          "quotes": [
+            "His reason saw With instantaneous view, the truth of things."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Kinematics)",
+            "(Kinematics)"
+          ],
+          "defs": [
+            "At or during a given instant; as, instantaneous acceleration, velocity, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

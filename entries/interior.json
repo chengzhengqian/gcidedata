@@ -1,0 +1,94 @@
+{
+  "key": "interior",
+  "source_file": "CIDE.I",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Interior",
+      "headword_raw": "In*te\"ri*or",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L., compar. fr. inter between: cf. F. intrieur. See Inter-, and cf. Intimate.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Being within any limits, inclosure, or substance; inside; internal; inner; -- opposed to exterior, or superficial; as, the interior apartments of a house; the interior surface of a hollow ball."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Geom.)",
+            "(Astron.)"
+          ],
+          "defs": [
+            "Remote from the limits, frontier, or shore; inland; as, the interior parts of a region or country."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Internal",
+            "inside",
+            "inner",
+            "inland",
+            "inward"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Interior",
+      "headword_raw": "In*te\"ri*or",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "That which is within; the internal or inner part of a thing; the inside."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The inland part of a country, state, or kingdom."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "key": "instruction",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Instruction",
+      "headword_raw": "In*struc\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. instructio: cf. F. instruction.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of instructing, teaching, or furnishing with knowledge; information."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That which instructs, or with which one is instructed; the intelligence or information imparted",
+            "Precept; information; teachings.",
+            "Direction; order; command."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "a segment of coded data that is interpreted by a computer as a command to perform an operation or series of operations. The term instruction is applied to both the electronic form of the data as represented in and executed by the computer, and to any line of written computer code which is interpreted as one instruction by a compiler. A computer program is comprised of one or more instructions."
+          ],
+          "quotes": [],
+          "notes": [
+            "Instructions as contained in a program are formulated in a programming language, which may be an assembly language, in which one instruction corresponds to one command executed by the coputer, or in a higher-level programming language, in which one instruction may represent one of many instructions in assembly language. Higher-level programming languages include, for example, FORTRAN, ALGOL, ADA, C, \"C++\", COBOL, and JAVA; each of these languages have their own distinctive set of allowable instructions."
+          ],
+          "synonyms": [
+            "command",
+            "statement",
+            "line of code",
+            "program line",
+            "Education",
+            "teaching",
+            "indoctrination",
+            "information",
+            "advice",
+            "counsel. See Education"
+          ]
+        }
+      ]
+    }
+  ]
+}

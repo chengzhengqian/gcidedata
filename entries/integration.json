@@ -1,0 +1,60 @@
+{
+  "key": "integration",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Integration",
+      "headword_raw": "In`te*gra\"tion",
+      "pr": "(n`t*grā\"shn)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. integratio a renewing, restoring: cf. F. intgration.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act or process of making whole or entire."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "The operation of finding the primitive function which has a given function for its differential coefficient. See Integral."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The symbol of integration is (standing for the Latin summa sum), and the integral is also regarded as the limiting value of the sum of great numbers of differentials, when the magnitude of the differentials decreases, and their number increases indefinitely. See Limit, n. When the summation is made between specified values of the variable, the result is a definite integral, and those values of the variable are the limits of the integral. When the summation is made successively for two or more variables, the result is a multiple integral."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "In the theory of evolution: The process by which the manifold is compacted into the relatively simple and permanent. It is supposed to alternate with differentiation as an agent in development."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

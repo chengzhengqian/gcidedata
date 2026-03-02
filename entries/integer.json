@@ -1,0 +1,38 @@
+{
+  "key": "integer",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Integer",
+      "headword_raw": "In\"te*ger",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. integer untouched, whole, entire. See Entire.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Theory of Numbers)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A complete entity; a whole number, in contradistinction to a fraction or a mixed number."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

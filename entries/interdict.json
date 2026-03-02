@@ -1,0 +1,110 @@
+{
+  "key": "interdict",
+  "source_file": "CIDE.I",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Interdict",
+      "headword_raw": "In`ter*dict\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "n."
+      ],
+      "ety": "[OE. entrediten to forbid communion, L. interdicere, interdictum. See Interdict, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Interdicted; p. pr. & vb. n. Interdicting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To forbid; to prohibit or debar; as, to interdict intercourse with foreign nations."
+          ],
+          "quotes": [
+            "Charged not to touch the interdicted tree."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Eccl.)"
+          ],
+          "defs": [
+            "To lay under an interdict; to cut off from the enjoyment of religious privileges, as a city, a church, an individual."
+          ],
+          "quotes": [
+            "An archbishop may not only excommunicate and interdict his suffragans, but his vicar general may do the same."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Interdict",
+      "headword_raw": "In\"ter*dict`",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. entredit, enterdit, OF. entredit, F. interdit, fr. L. interdictum, fr. interdicere to interpose, prohibit; inter between + dicere to say. See Diction.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A prohibitory order or decree; a prohibition."
+          ],
+          "quotes": [
+            "These are not fruits forbidden; no interdict Defends the touching of these viands pure."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(R. C. Ch.)"
+          ],
+          "defs": [
+            "A prohibition of the pope, by which the clergy or laymen are restrained from performing, or from attending, divine service, or from administering the offices or enjoying the privileges of the church."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Scots Law)"
+          ],
+          "defs": [
+            "An order of the court of session, having the like purpose and effect with a writ of injunction out of chancery in England and America."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

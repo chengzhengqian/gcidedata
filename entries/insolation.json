@@ -1,0 +1,62 @@
+{
+  "key": "insolation",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Insolation",
+      "headword_raw": "In`so*la\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. insolatio: cf. F. insolation.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act or process to exposing to the rays of the sun for the purpose of drying or maturing, as fruits, drugs, etc., or of rendering acid, as vinegar."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "A sunstroke.",
+            "Exposure of a patient to the sun's rays; a sun bath."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Meteorology)"
+          ],
+          "defs": [
+            "The amount of sunlight impinging on the Earth's surface."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

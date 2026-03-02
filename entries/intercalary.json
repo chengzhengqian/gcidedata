@@ -1,0 +1,53 @@
+{
+  "key": "intercalary",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Intercalary",
+      "headword_raw": "In*ter\"ca*la*ry",
+      "pr": "(?; 277)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": "[L. intercalaris, intercalarius: cf. F. intercalaire. See Intercalate.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Chron.)"
+          ],
+          "defs": [
+            "Inserted or introduced among others in the calendar; as, an intercalary month, day, etc.; -- now applied particularly to the odd day (Feb. 29) inserted in the calendar of leap year. See Bissextile, n."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "Introduced or inserted among others; additional; supernumerary."
+          ],
+          "quotes": [
+            "This intercalary line . . . is made the last of a triplet."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

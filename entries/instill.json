@@ -1,0 +1,60 @@
+{
+  "key": "instill",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Instill",
+      "headword_raw": "In*still\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. instillare, instillatum; pref. in- in + stillare to drop, fr. stilla a drop: cf. F. instiller. See Distill.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": "[imp. & p. p. Instilled (?); p. pr. & vb. n. Instilling.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To drop in; to pour in drop by drop."
+          ],
+          "quotes": [
+            "That starlight dews All silently their tears of love instill."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To infuse (knowledge or attitudes) into the mind of another, slowly or gradually; to impart gradually; to cause to be imbibed."
+          ],
+          "quotes": [
+            "How hast thou instilled Thy malice into thousands."
+          ],
+          "notes": [],
+          "synonyms": [
+            "infuse",
+            "impart",
+            "inspire",
+            "implant",
+            "inculcate",
+            "insinuate"
+          ]
+        }
+      ]
+    }
+  ]
+}

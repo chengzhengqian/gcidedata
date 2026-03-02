@@ -1,0 +1,61 @@
+{
+  "key": "interface",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "interface",
+      "headword_raw": "interface",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a surface forming a common boundary between two things, especially between two fluids."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "hardware that links one device with another (especially a computer)."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "That part of a computer program which controls the way a program interacts with a user; the manner of inputting and outputting of data, and the way information is presented on a computer monitor; also called user interface; as, a graphical user interface; a character-based interface."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "key": "intangible",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Intangible",
+      "headword_raw": "In*tan\"gi*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[Pref. in- not + tangible: cf. F. intangible.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Intangibleness",
+          "form_raw": "In*tan\"gi*ble*ness",
+          "key": "intangibleness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Intangibly",
+          "form_raw": "In*tan\"gi*bly",
+          "key": "intangibly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not tangible; incapable of being touched; not perceptible to the touch; impalpable; imperceptible."
+          ],
+          "quotes": [
+            "A corporation is an artificial, invisible, intangible being."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

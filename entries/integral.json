@@ -1,0 +1,104 @@
+{
+  "key": "integral",
+  "source_file": "CIDE.I",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Integral",
+      "headword_raw": "In\"te*gral",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Cf. F. intgral. See Integer.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Lacking nothing of completeness; complete; perfect; uninjured; whole; entire."
+          ],
+          "quotes": [
+            "A local motion keepeth bodies integral."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Essential to completeness; constituent, as a part; pertaining to, or serving to form, an integer; integrant."
+          ],
+          "quotes": [
+            "Ceasing to do evil, and doing good, are the two great integral parts that complete this duty."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "Of, pertaining to, or being, a whole number or undivided quantity; not fractional.",
+            "Pertaining to, or proceeding by, integration; as, the integral calculus."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Integral",
+      "headword_raw": "In\"te*gral",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A whole; an entire thing; a whole number; an individual."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "An expression which, being differentiated, will produce a given differential. See differential Differential, and Integration. Cf. Fluent."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

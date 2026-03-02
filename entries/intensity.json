@@ -1,0 +1,74 @@
+{
+  "key": "intensity",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Intensity",
+      "headword_raw": "In*ten\"si*ty",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[LL. intensitas: cf. F. intensit. See Intense.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The state or quality of being intense; intenseness; extreme degree; as, intensity of heat, cold, mental application, passion, etc."
+          ],
+          "quotes": [
+            "If you would deepen the intensity of light, you must be content to bring into deeper blackness and more distinct and definite outline the shade that accompanies it."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Physics)"
+          ],
+          "defs": [
+            "The amount or degree of energy with which a force operates or a cause acts; effectiveness, as estimated by results produced."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Mech.)"
+          ],
+          "defs": [
+            "The magnitude of a distributed force, as pressure, stress, weight, etc., per unit of surface, or of volume, as the case may be; as, the measure of the intensity of a total stress of forty pounds which is distributed uniformly over a surface of four square inches area is ten pounds per square inch."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Photog.)"
+          ],
+          "defs": [
+            "The degree or depth of color or shade in a picture."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

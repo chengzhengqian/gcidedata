@@ -1,0 +1,81 @@
+{
+  "key": "insurance",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Insurance",
+      "headword_raw": "In*sur\"ance",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[From Insure.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of insuring, or assuring, against loss or damage by a contingent event; a contract whereby, for a stipulated consideration, called premium, one party undertakes to indemnify or guarantee another against loss by certain specified risks. Cf. Assurance, n., 6."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The person who undertakes to pay in case of loss is termed the insurer; the danger against which he undertakes, the risk; the person protected, the insured; the sum which he pays for the protection, the premium; and the contract itself, when reduced to form, the policy."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The premium paid for insuring property or life."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "The sum for which life or property is insured."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "A guaranty, security, or pledge; assurance."
+          ],
+          "quotes": [
+            "The most acceptable insurance of the divine protection."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "Any means of assuring against loss; a precaution; as, we always use our seat belts as insurance against injury."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

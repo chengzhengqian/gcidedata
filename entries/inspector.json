@@ -1,0 +1,49 @@
+{
+  "key": "inspector",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Inspector",
+      "headword_raw": "In*spect\"or",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L.: cf. F. inspecteur.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One who inspects, views, or oversees; one to whom the supervision of any work is committed; one who makes an official view or examination, as a military or civil officer; a superintendent; a supervisor; an overseer."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mil.)"
+          ],
+          "defs": [
+            "A police officer, typically holding a rank one below superintendent, and in some cases in charge of several precincts; as, inspector Clousseau is investigating the case."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

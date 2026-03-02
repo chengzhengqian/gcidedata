@@ -1,0 +1,60 @@
+{
+  "key": "instructive",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Instructive",
+      "headword_raw": "In*struct\"ive",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Cf. F. instructif.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Instructively",
+          "form_raw": "In*struct\"ive*ly",
+          "key": "instructively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Instructiveness",
+          "form_raw": "In*struct\"ive*ness",
+          "key": "instructiveness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Conveying knowledge; serving to instruct or inform; as, experience furnishes very instructive lessons."
+          ],
+          "quotes": [
+            "In various talk the instructive hours they past.",
+            "The pregnant instructiveness of the Scripture."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

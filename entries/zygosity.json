@@ -1,0 +1,38 @@
+{
+  "key": "zygosity",
+  "source_file": "CIDE.Z",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "zygosity",
+      "headword_raw": "zy*gos\"i*ty",
+      "pr": "(z*gs\"*t)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Biol.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The property of being either homogeneous or heterogeneous with respect to the allelic genes determining some hereditary trait in a diploid or polyploid organism; if homogeneous, the organism is homozygous; if heterogeneous, it is heterozygous."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

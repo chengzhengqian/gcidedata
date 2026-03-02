@@ -1,0 +1,50 @@
+{
+  "key": "zymolysis",
+  "source_file": "CIDE.Z",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Zymolysis",
+      "headword_raw": "Zy*mol\"y*sis",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[NL. See Zyme, and Lysis.]",
+      "sources": [
+        "Webster 1913 Suppl.",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Zymolytic",
+          "form_raw": "Zy`mo*lyt\"ic",
+          "key": "zymolytic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(?)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physiol. Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The action of enzymes, such as digestion or fermentation; also, the changes produced by such action."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

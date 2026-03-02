@@ -1,0 +1,49 @@
+{
+  "key": "itty-bitty",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "itty-bitty",
+      "headword_raw": "it\"ty-bit\"ty",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "bitty",
+        "bittie",
+        "teensy",
+        "teentsy",
+        "teeny",
+        "wee",
+        "weeny",
+        "weensy",
+        "teensy-weensy"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "very small; tiny."
+          ],
+          "quotes": [
+            "It was an itsy-bitsy teeny-weeny yellow polka-dot bikini that she wore for the first time today."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

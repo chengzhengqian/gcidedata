@@ -1,0 +1,51 @@
+{
+  "key": "iteration",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Iteration",
+      "headword_raw": "It`er*a\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. iteratio.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Recital or performance a second time; repetition."
+          ],
+          "quotes": [
+            "What needs this iteration, woman?"
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "The execution of a statement or series of statements in a loop which is repeated in a computer program; as, at each iteration, the counter is incremented by 2."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

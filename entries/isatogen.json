@@ -1,0 +1,49 @@
+{
+  "key": "isatogen",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Isatogen",
+      "headword_raw": "I*sat\"o*gen",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Isatin + -gen.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Isatogenic",
+          "form_raw": "I*sat`o*gen\"ic",
+          "key": "isatogenic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A complex nitrogenous radical, C8H4NO2, regarded as the essential residue of a series of compounds, related to isatin, which easily pass by reduction to indigo blue."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

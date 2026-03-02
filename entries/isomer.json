@@ -1,0 +1,42 @@
+{
+  "key": "isomer",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Isomer",
+      "headword_raw": "I\"so*mer",
+      "pr": "(ī\"s*mr)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[See Isomeric.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A compound which is isomeric with another body or compound; a compound having the same chemical composition as another compound; a member of an isomeric series."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ An isomer may be a structural isomer, in which some of the atoms are bonded to different atoms (as in CH3.CH2.NH2 and CH3.NH.CH3), or an optical isomer, in which the number and types of chemical bonds are identical, but the arrangement of the atoms in three-dimensional space is different; the latter are also called stereoisomers."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

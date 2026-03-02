@@ -1,0 +1,71 @@
+{
+  "key": "jail",
+  "source_file": "CIDE.J",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Jail",
+      "headword_raw": "Jail",
+      "pr": "(jāl)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. jaile, gail, gayhol, OF. gaole, gaiole, jaiole, F. gele, LL. gabiola, dim. of gabia cage, for L. cavea cavity, cage. See Cage.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A kind of prison; a building for the confinement of persons held in lawful custody, especially for minor offenses or with reference to some future judicial proceeding."
+          ],
+          "quotes": [
+            "This jail I count the house of liberty."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Jail",
+      "headword_raw": "Jail",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To imprison."
+          ],
+          "quotes": [
+            "[Bolts] that jail you from free life."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

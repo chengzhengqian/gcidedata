@@ -1,0 +1,49 @@
+{
+  "key": "isochor",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Isochor",
+      "headword_raw": "I\"so*chor",
+      "pr": "(ī\"s*kr)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Iso- + Gr. xhw`ra space.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Isochoric",
+          "form_raw": "I`so*chor\"ic",
+          "key": "isochoric",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A line upon a thermodynamic diagram so drawn as to represent the pressures corresponding to changes of temperature when the volume of the gas operated on is constant."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

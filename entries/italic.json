@@ -1,0 +1,80 @@
+{
+  "key": "italic",
+  "source_file": "CIDE.I",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Italic",
+      "headword_raw": "I*tal\"ic",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. Italicus: cf. F. italique. Cf. Italian.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Relating to Italy or to its people."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Arch.)"
+          ],
+          "defs": [
+            "Applied especially to a kind of type in which the letters do not stand upright, but slope toward the right; -- so called because dedicated to the States of Italy by the inventor, Aldus Manutius, about the year 1500."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Italic",
+      "headword_raw": "I*tal\"ic",
+      "pr": "(<?/)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Print.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An Italic letter, character, or type (see Italic, a., 2.); -- often in the plural; as, the Italics are the author's. Italic letters are used to distinguish words for emphasis, importance, antithesis, etc. Also, collectively, Italic letters."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

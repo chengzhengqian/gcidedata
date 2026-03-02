@@ -1,0 +1,68 @@
+{
+  "key": "irresolute",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Irresolute",
+      "headword_raw": "Ir*res\"o*lute",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Pref. ir- not + resolute: cf. F. irrsolu, L. irresolutus not loosened.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Irresolutely",
+          "form_raw": "Ir*res\"o*lute*ly",
+          "key": "irresolutely",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Irresoluteness",
+          "form_raw": "Ir*res\"o*lute*ness",
+          "key": "irresoluteness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Wavering",
+        "vacillating",
+        "undetermined",
+        "undecided",
+        "unsettled",
+        "fickle",
+        "changeable",
+        "inconstant"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not resolute; not decided or determined; wavering; given to doubt or irresolution."
+          ],
+          "quotes": [
+            "Weak and irresolute is man."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "key": "isotonic",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Isotonic",
+      "headword_raw": "I`so*ton\"ic",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Iso- + tonic.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Having or indicating, equal tones, or tension."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Physiology, Biochemistry)",
+            "(Mus.)"
+          ],
+          "defs": [
+            "Having an osmotic pressure (tonicity) equal to that of a reference solution; -- of aqueous solutions. Contrasting with hypotonic and hypertonic. See hypertonic."
+          ],
+          "quotes": [
+            "A knowledge of the colligative properties of solutions . . . is essential for one to understand fully the principles involved in rendering intravenous solutions isotonic with blood serum, or opthalmic solutions isotonic with lachrymal fluid. Solutions thus adjusted produce less shock and much less irritation than those which are hypotonic or hypertonic, and present-day practise recognizes the desirability of making the necessary adjustments whenever possible."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

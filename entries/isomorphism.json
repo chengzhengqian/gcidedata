@@ -1,0 +1,50 @@
+{
+  "key": "isomorphism",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Isomorphism",
+      "headword_raw": "I`so*mor\"phism",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. isomorphisme.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Crystallog.)"
+          ],
+          "defs": [
+            "A similarity of crystalline form between substances of similar composition, as between the sulphates of barium (BaSO4) and strontium (SrSO4). It is sometimes extended to include similarity of form between substances of unlike composition, which is more properly called homœomorphism."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "A one-to-one mapping of one set onto another set which preserves the relations between the elements of the domains of the sets."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

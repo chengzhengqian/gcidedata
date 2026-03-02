@@ -1,0 +1,59 @@
+{
+  "key": "irrevocable",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Irrevocable",
+      "headword_raw": "Ir*rev\"o*ca*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[L. irrevocabilis: cf. F. irrvocable. See In- not, and Revoke, and cf. Irrevocable.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Irrevocableness",
+          "form_raw": "Ir*rev\"o*ca*ble*ness",
+          "key": "irrevocableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Irrevocably",
+          "form_raw": "Ir*rev\"o*ca*bly",
+          "key": "irrevocably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Incapable of being recalled or revoked; unchangeable; irreversible; unalterable; as, an irrevocable promise or decree; irrevocable fate."
+          ],
+          "quotes": [
+            "Firm and irrevocable is my doom."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

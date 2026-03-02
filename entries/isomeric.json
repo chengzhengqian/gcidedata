@@ -1,0 +1,41 @@
+{
+  "key": "isomeric",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "isomeric",
+      "headword_raw": "i`so*mer\"ic",
+      "pr": "(ī`s*mr\"k)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Iso- + Gr. me`ros part: cf. F. isomrique.]",
+      "sources": [
+        "PJC",
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Having the same chemical composition and molecular weight; having the same number of atoms of each kind in the molecule; -- said of chemical compounds with known chemical composition. This property used to be called metameric to distinguish it from other forms of isomerism."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Formerly the term isomeric applied also to comopounds having the same percentage chemical composition, even if the number of atoms in a molecule differed. In the 1913 dictionary isomeric was defined as: “Having the same percentage composition; -- said of two or more different substances which contain the same ingredients in the same proportions by weight, often used with with. Specif.: (a) Polymeric; i. e., having the same elements united in the same proportion by weight, but with different molecular weights; as, acetylene and benzine are isomeric (polymeric) with each other in this sense. See Polymeric. (b) Metameric; i. e., having the same elements united in the same proportions by weight, and with the same molecular weight, but with a different structure or arrangement of the ultimate parts; as, ethyl alcohol and methyl ether are isomeric (metameric) with each other in this sense. See Metameric.”"
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

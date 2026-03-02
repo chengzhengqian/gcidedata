@@ -1,0 +1,79 @@
+{
+  "key": "itinerary",
+  "source_file": "CIDE.I",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "itinerary",
+      "headword_raw": "i*tin\"er*a*ry",
+      "pr": "(*tn\"r**r)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. itinerarius: cf. F. itinraire. See Itinerant.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Itinerant; traveling; passing from place to place; done on a journey."
+          ],
+          "quotes": [
+            "It was rather an itinerary circuit of justice than a progress."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Itinerary",
+      "headword_raw": "I*tin\"er*a*ry",
+      "pr": "(*tn\"r**rz)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[L. itinerarium: cf. F. itinraire. See Itinerary, a.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "An account of travels, or a register of places and distances as a guide to travelers; as, the Itinerary of Antoninus."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A detailed plan for a journey, including a list of places to be visited, and often other information such as the dates, places of residence, and transportation to be used during the journey; as, the catacombs aren't on our itinerary."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "key": "isotherm",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Isotherm",
+      "headword_raw": "I\"so*therm",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Iso- + Gr. <?/ heat, fr. <?/ hot.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Phys. Geog.)"
+          ],
+          "defs": [
+            "A line connecting or marking points on the earth's surface having the same temperature. This may be the temperature for a given time of observation, or the mean temperature for a year or other period. Also, a similar line based on the distribution of temperature in the ocean."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Physics)"
+          ],
+          "defs": [
+            "A line on a graph connecting points representing states having the same temperature; an isothermal line."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

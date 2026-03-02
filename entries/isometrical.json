@@ -1,0 +1,61 @@
+{
+  "key": "isometrical",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Isometrical",
+      "headword_raw": "I`so*met\"ric*al",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Iso- + Gr. me`tron measure.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Pertaining to, or characterized by, equality of measure."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Crystallog.)"
+          ],
+          "defs": [
+            "Noting, or conforming to, that system of crystallization in which the three axes are of equal length and at right angles to each other; monometric; regular; cubic. Cf. Crystallization."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Thermodynamics)"
+          ],
+          "defs": [
+            "Of or pertaining to isometrics."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

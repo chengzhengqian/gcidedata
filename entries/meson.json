@@ -1,0 +1,52 @@
+{
+  "key": "meson",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Meson",
+      "headword_raw": "Mes\"on",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[NL., fr. Gr. me`son middle, neut. of me`sos, a., middle.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Anat.)"
+          ],
+          "defs": [
+            "The mesial plane dividing the body of an animal into similar right and left halves. The line in which it meets the dorsal surface has been called the dorsimeson, and the corresponding ventral edge the ventrimeson."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Physics)",
+            "(Physics)"
+          ],
+          "defs": [
+            "An elementary particle made up of two quarks; a hadron having a baryon number of zero; any hadron other than a baryon. Mesons are bosons with integral values of spin, having a mass intermediate between those of the electron and a nucleon; they may have positive or negative charges, or may be neutral. Mesons are of three types: the pion (-meson), kaon (K-mesons), and -mesons."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

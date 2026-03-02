@@ -1,0 +1,43 @@
+{
+  "key": "methanol",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "methanol",
+      "headword_raw": "methanol",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "methyl alcohol",
+        "wood alcohol",
+        "wood spirit"
+      ],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The simplest alcohol of the paraffin series, CH3.OH; methyl alcohol. Called also wood alcohol. It is used as an antifreeze solvent, as a fuel, and as a denaturant for ethyl alcohol."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

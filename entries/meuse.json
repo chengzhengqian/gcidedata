@@ -1,0 +1,54 @@
+{
+  "key": "meuse",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Meuse",
+      "headword_raw": "Meuse",
+      "pr": null,
+      "pos": [
+        "prop. n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A European river, flowing into the North Sea."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Meuse River"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "An American operation in World War I (1918); American troops under Pershing drove back the German armies which were saved only by the Armistice on November 11."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Meuse River",
+            "Argonne",
+            "Argonne Forest",
+            "Meuse-Argonne",
+            "Meuse-Argonne operation"
+          ]
+        }
+      ]
+    }
+  ]
+}

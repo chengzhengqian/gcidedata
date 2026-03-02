@@ -1,0 +1,51 @@
+{
+  "key": "metabolism",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Metabolism",
+      "headword_raw": "Me*tab\"o*lism",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physiol.)"
+      ],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act or process, by which living tissues or cells take up and convert into their own proper substance the nutritive material brought to them by the blood, or by which they transform their cell protoplasm into simpler substances, which are fitted either for excretion or for some special purpose, as in the manufacture of the digestive enzymes. Hence, metabolism may be either constructive (anabolism), or destructive (catabolism)."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Biol.)"
+          ],
+          "defs": [
+            "The series of chemical changes which take place in an organism, by means of which food is manufactured and utilized and waste materials are eliminated."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "key": "metallic",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Metallic",
+      "headword_raw": "Me*tal\"lic",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. metallicus, fr. metallum: cf. F. mtallique. See Metal.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to a metal; of the nature of metal; resembling metal; as, a metallic appearance; a metallic alloy."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Chem.)",
+            "(Med.)"
+          ],
+          "defs": [
+            "Of, pertaining to, or characterized by, the essential and implied properties of a metal, as contrasted with a nonmetal or metalloid; conductive of electricity; basic; forming positive ions in solution; antacid."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

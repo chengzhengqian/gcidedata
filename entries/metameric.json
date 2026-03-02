@@ -1,0 +1,52 @@
+{
+  "key": "metameric",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Metameric",
+      "headword_raw": "Met`a*mer\"ic",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Pref. meta- + Gr. <?/ part.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "Having the same molecular formula, but possessing a different bonding structure and different properties; as, methyl ether and ethyl alcohol are metameric compounds. See Isomeric."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The existence of metameric compounds is due to different arrangements of the same atoms in the molecule."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Biol.)"
+          ],
+          "defs": [
+            "Of or pertaining to a metamere or its formation; as, metameric segmentation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

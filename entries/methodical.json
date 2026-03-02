@@ -1,0 +1,77 @@
+{
+  "key": "methodical",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Methodical",
+      "headword_raw": "Me*thod\"ic*al",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. methodicus, Gr. <?/: cf. F. mthodique.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Methodically",
+          "form_raw": "Me*thod\"ic*al*ly",
+          "key": "methodically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Methodicalness",
+          "form_raw": "Me*thod\"ic*al*ness",
+          "key": "methodicalness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Arranged with regard to method; disposed in a suitable manner, or in a manner to illustrate a subject, or to facilitate practical observation; well-ordered; as, the methodical arrangement of arguments; a methodical treatise."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Proceeding with regard to method; characterized by method or orderliness; systematic; as, a methodical investigation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to the ancient school of physicians called methodists."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

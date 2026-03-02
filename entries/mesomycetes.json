@@ -1,0 +1,49 @@
+{
+  "key": "mesomycetes",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Mesomycetes",
+      "headword_raw": "Mes`o*my*ce\"tes",
+      "pr": "(?)",
+      "pos": [
+        "n. pl.",
+        "a."
+      ],
+      "ety": "[NL.; meso- + mycetes.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Mesomycetous",
+          "form_raw": "Mes`o*my*ce\"tous",
+          "key": "mesomycetous",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Bot.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "One of the three classes into which the fungi are divided in Brefeld's classification."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

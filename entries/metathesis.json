@@ -1,0 +1,62 @@
+{
+  "key": "metathesis",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Metathesis",
+      "headword_raw": "Me*tath\"e*sis",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L., fr. Gr. meta`qesis, fr. metatiqe`nai to place differently, to transpose; meta` beyond, over + tiqe`nai to place, set. See Thesis.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Gram.)"
+          ],
+          "defs": [
+            "Transposition, as of the letters or syllables of a word; as, pistris for pristis; meagre for meager."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "A mere change in place of a morbid substance, without removal from the body."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "The act, process, or result of exchange, substitution, or replacement of atoms and radicals; thus, by metathesis an acid gives up all or part of its hydrogen, takes on an equivalent amount of a metal or base, and forms a salt."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "key": "mesh",
+  "source_file": "CIDE.M",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Mesh",
+      "headword_raw": "Mesh",
+      "pr": "(msh)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[AS. masc, max, mæscre; akin to D. maas, masche, OHG. masca, Icel. möskvi; cf. Lith. mazgas a knot, megsti to weave nets, to knot.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The opening or space inclosed by the threads of a net between knot and knot, or the threads inclosing such a space; network; a net."
+          ],
+          "quotes": [
+            "A golden mesh to entrap the hearts of men."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Gearing)"
+          ],
+          "defs": [
+            "The engagement of the teeth of wheels, or of a wheel and rack."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Mesh",
+      "headword_raw": "Mesh",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Meshed (?); p. pr. & vb. n. Meshing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To catch in a mesh."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Mesh",
+      "headword_raw": "Mesh",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Gearing)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To engage with each other, as the teeth of wheels."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

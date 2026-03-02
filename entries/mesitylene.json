@@ -1,0 +1,49 @@
+{
+  "key": "mesitylene",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Mesitylene",
+      "headword_raw": "Me*sit\"y*lene",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Mesitylenic",
+          "form_raw": "Me*sit`y*len\"ic",
+          "key": "mesitylenic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A colorless, fragrant liquid, C6H3(CH3)3, of the benzene series of hydrocarbons, obtained by distilling acetone with sulphuric acid."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

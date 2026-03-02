@@ -1,0 +1,49 @@
+{
+  "key": "metasomatism",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Metasomatism",
+      "headword_raw": "Met`a*so\"ma*tism",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Pref. meta- + Gr. <?/, <?/, body.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Metasomatic",
+          "form_raw": "Met`a*so*mat\"ic",
+          "key": "metasomatic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Geol.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An alteration in a mineral or rock mass when involving a chemical change of the substance, as of chrysolite to serpentine; -- opposed to ordinary metamorphism, as implying simply a recrystallization."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

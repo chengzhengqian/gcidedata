@@ -1,0 +1,40 @@
+{
+  "key": "metacentre",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Metacentre",
+      "headword_raw": "Met`a*cen\"tre",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[Pref. meta- + center.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Hydrostatics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The point of intersection of a vertical line through the center of gravity of the fluid displaced by a floating body which is tipped through a small angle from its position of equilibrium, and the inclined line which was vertical through the center of gravity of the body when in equilibrium."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ When the metacenter is above the center of gravity, the position of the body is stable; when below it, unstable."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

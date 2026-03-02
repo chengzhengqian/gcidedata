@@ -1,0 +1,78 @@
+{
+  "key": "metalloid",
+  "source_file": "CIDE.M",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Metalloid",
+      "headword_raw": "Met\"al*loid",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. metallum metal + -oid: cf. F. mtallode.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Formerly, the metallic base of a fixed alkali, or alkaline earth; -- applied by Sir Humphrey Davy to sodium, potassium, and some other metallic substances whose metallic character was supposed to be not well defined.",
+            "Now, one of several elementary substances which in the free state are unlike metals, and whose compounds possess or produce acid, rather than basic, properties; a nonmetal; as, boron, carbon, phosphorus, nitrogen, oxygen, sulphur, chlorine, bromine, etc., are metalloids."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Metalloid",
+      "headword_raw": "Met\"al*loid",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Having the appearance of a metal."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "Having the properties of a nonmetal; nonmetallic; acid; negative."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

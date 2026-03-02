@@ -1,0 +1,40 @@
+{
+  "key": "electric_chair",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "electric chair",
+      "headword_raw": "e*lec\"tric chair`",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "the chair",
+        "death chair",
+        "hot seat"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a device used for execution of criminals, consisting of a specially designed chair in which the victim is killed by passing a large current of electricity through the body. This method of killing is called electrocution."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

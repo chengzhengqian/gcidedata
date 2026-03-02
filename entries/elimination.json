@@ -1,0 +1,61 @@
+{
+  "key": "elimination",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Elimination",
+      "headword_raw": "E*lim`i*na\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. limination.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Physiol.)"
+          ],
+          "defs": [
+            "The act of expelling or throwing off",
+            "the act of discharging or excreting waste products or foreign substances through the various emunctories."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Alg.)"
+          ],
+          "defs": [
+            "Act of causing a quantity to disappear from an equation; especially, in the operation of deducing from several equations containing several unknown quantities a less number of equations containing a less number of unknown quantities."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "The act of obtaining by separation, or as the result of eliminating; deduction. [See Eliminate, 4.]"
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

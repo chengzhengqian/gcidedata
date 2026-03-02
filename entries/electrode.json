@@ -1,0 +1,41 @@
+{
+  "key": "electrode",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Electrode",
+      "headword_raw": "E*lec\"trode",
+      "pr": "(*lk\"trōd)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Electro- + Gr. \"odo`s way, path: cf. F. lectrode.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Elec.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a conducting object by which electricity is conveyed into or from a solution or other non-metallic conducting medium; esp., the ends of the wires or conductors, leading from source of electricity, and terminating in the medium traversed by the current."
+          ],
+          "quotes": [],
+          "notes": [
+            "Electrodes may be specially designed or made of a special material for particular purposes, as for example silver electrodes used in electroplating."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "key": "electricity",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Electricity",
+      "headword_raw": "E`lec*tric\"i*ty",
+      "pr": "(ē`lk*trs\"*t)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. lectricit. See Electric.]",
+      "sources": [
+        "PJC",
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Physics)"
+          ],
+          "defs": [
+            "a property of certain of the fundamental particles of which matter is composed, called also electric charge, and being of two types, designated positive and negative; the property of electric charge on a particle or physical body creates a force field which affects other particles or bodies possessing electric charge; positive charges create a repulsive force between them, and negative charges also create a repulsive force. A positively charged body and a negatively charged body will create an attractive force between them. The unit of electrical charge is the coulomb, and the intensity of the force field at any point is measured in volts."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "any of several phenomena associated with the accumulation or movement of electrically charged particles within material bodies, classified as static electricity and electric current. Static electricity is often observed in everyday life, when it causes certain materials to cling together; when sufficient static charge is accumulated, an electric current may pass through the air between two charged bodies, and is observed as a visible spark; when the spark passes from a human body to another object it may be felt as a mild to strong painful sensation. Electricity in the form of electric current is put to many practical uses in electrical and electronic devices. Lightning is also known to be a form of electric current passing between clouds and the ground, or between two clouds. Electric currents may produce heat, light, concussion, and often chemical changes when passed between objects or through any imperfectly conducting substance or space. Accumulation of electrical charge or generation of a voltage difference between two parts of a complex object may be caused by any of a variety of disturbances of molecular equilibrium, whether from a chemical, physical, or mechanical, cause. Electric current in metals and most other solid conductors is carried by the movement of electrons from one part of the metal to another. In ionic solutions and in semiconductors, other types of movement of charged particles may be responsible for the observed electrical current."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Electricity is manifested under following different forms: (a) Statical electricity, called also Frictional electricity or Common electricity, electricity in the condition of a stationary charge, in which the disturbance is produced by friction, as of glass, amber, etc., or by induction. (b) Dynamical electricity, called also Voltaic electricity, electricity in motion, or as a current produced by chemical decomposition, as by means of a voltaic battery, or by mechanical action, as by dynamo-electric machines. (c) Thermoelectricity, in which the disturbing cause is heat (attended possibly with some chemical action). It is developed by uniting two pieces of unlike metals in a bar, and then heating the bar unequally. (d) Atmospheric electricity, any condition of electrical disturbance in the atmosphere or clouds, due to some or all of the above mentioned causes. (e) Magnetic electricity, electricity developed by the action of magnets. (f) Positive electricity, the electricity that appears at the positive pole or anode of a battery, or that is produced by friction of glass; -- called also vitreous electricity. (g) Negative electricity, the electricity that appears at the negative pole or cathode, or is produced by the friction of resinous substance; -- called also resinous electricity. (h) Organic electricity, that which is developed in organic structures, either animal or vegetable, the phrase animal electricity being much more common."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "The science which studies the phenomena and laws of electricity; electrical science."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Fig.: excitement, anticipation, or emotional tension, usually caused by the occurrence or expectation of something unusual or important."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

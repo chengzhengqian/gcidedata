@@ -1,0 +1,38 @@
+{
+  "key": "electronic_device",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "electronic device",
+      "headword_raw": "electronic device",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a device depending on the principles of electronics and using the manipulation of electron flow for its operation."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Numerous electronic devices are in daily use, among them the television, radio, computer, robot, transmitter, receiver, VCR, CD player, etc."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

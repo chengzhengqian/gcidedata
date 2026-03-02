@@ -1,0 +1,63 @@
+{
+  "key": "ellipsis",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Ellipsis",
+      "headword_raw": "El*lip\"sis",
+      "pr": "(l*lp\"ss)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L., fr. Gr. 'e`lleipsis a leaving, defect, fr. 'ellei`pein to leave in, fall short; 'en in + lei`pein to leave. See In, and Loan, and cf. Ellipse.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Gram.)"
+          ],
+          "defs": [
+            "Omission; a figure of syntax, by which one or more words, which are obviously understood, are omitted; as, the virtues I admire, for, the virtues which I admire."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Geom.)"
+          ],
+          "defs": [
+            "An ellipse."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Printing)"
+          ],
+          "defs": [
+            "a printing symbol, usually three periods in a row (. . .), indicating the omission of some part of a text; -- used commonly in quotations, so as to suppress words not essential to the meaning. A long dash (---) and three asterisks (* * *) are sometimes used with the same meaning."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

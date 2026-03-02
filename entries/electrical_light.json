@@ -1,0 +1,45 @@
+{
+  "key": "electrical_light",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Electrical light",
+      "headword_raw": "Electrical light",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "the light produced by a current of electricity which in passing through a resisting medium heats it to incandescence or burns it. See under Carbon."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a lamp whose light is produced by passing an electric current through a light bulb, especially an incandescent lamp."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

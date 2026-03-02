@@ -1,0 +1,110 @@
+{
+  "key": "elaborate",
+  "source_file": "CIDE.E",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Elaborate",
+      "headword_raw": "E*lab\"o*rate",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. elaboratus, p. p. of elaborare to work out; e out + laborare to labor, labor labor. See Labor.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Elaborately",
+          "form_raw": "E*lab\"o*rate*ly",
+          "key": "elaborately",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Elaborateness",
+          "form_raw": "E*lab\"o*rate*ness",
+          "key": "elaborateness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Labored",
+        "complicated",
+        "studied",
+        "perfected",
+        "high-wrought"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Wrought with labor; finished with great care; studied; executed with exactness or painstaking; as, an elaborate discourse; an elaborate performance; elaborate research."
+          ],
+          "quotes": [
+            "Drawn to the life in each elaborate page."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Elaborate",
+      "headword_raw": "E*lab\"o*rate",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Elaborated (?); p. pr. & vb. n. Elaborating (?).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To produce with labor"
+          ],
+          "quotes": [
+            "They in full joy elaborate a sigh,"
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To perfect with painstaking; to improve or refine with labor and study, or by successive operations; as, to elaborate a painting or a literary work."
+          ],
+          "quotes": [
+            "The sap is . . . still more elaborated and exalted as it circulates through the vessels of the plant."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

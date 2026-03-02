@@ -1,0 +1,55 @@
+{
+  "key": "electrophoresis",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "electrophoresis",
+      "headword_raw": "electrophoresis",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "the motion of charged molecules or particles in a liquid medium under the influence of an electric field; particles with a positive charge move toward the cathode and negative to the anode."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "cataphoresis"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Chem., Biochem.)"
+          ],
+          "defs": [
+            "the application of the principle of electrophoresis to separate molecules, used as an analytical or preparative technique; as, separation by electrophoresis; gel electrophoresis."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Gel electrophoresis is a technique in which the molecules to be separated are moved through a gelatinous medium under the influence of an electric field. At the completion of a period of electrophoresis, the gel, unlike a liquid solution, may be manipulated as a single object, permitting the substances contained within to be detected or visualized by a variety of methods, and their relative mobilities determined. It is therefore a popular analytic tool in biochemistry, and has many variants. Popular substances used to create the gel are starch, polyacrylamide, and agarose. Since a polyacrylamide gel can be created with different concentrations and different degrees of cross-linking, the pore size of the gel can be controlled to provide special properties appropriate to separation of specific molecules, as for example optimizaion for separation within a particular molecular weight range. in SDS-polyacrylamide gel electrophoresis, SDS (sodium dodecyl sulfate, a detergent) is included; it binds to and denatures protein molecules, allowing them to be separated on the basis of their molecular weight alone. It is thus used as one method of determining the molecular weights of isolated protein chains."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

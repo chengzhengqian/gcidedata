@@ -1,0 +1,51 @@
+{
+  "key": "electrocution",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "electrocution",
+      "headword_raw": "electrocution",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "execution by electricity."
+          ],
+          "quotes": [],
+          "notes": [
+            "Electrocution as a form of punishment for crime is usually carried out while the victim is sitting in a chair specially designed for the purpose, called an electric chair, fitted with electrodes that contact the head and limbs. To be executed in such a manner is sometimes referred to in grim humor as to ride the lightning."
+          ],
+          "synonyms": [
+            "burning"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "killing by electric shock."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

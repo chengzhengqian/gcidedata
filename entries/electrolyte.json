@@ -1,0 +1,36 @@
+{
+  "key": "electrolyte",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Electrolyte",
+      "headword_raw": "E*lec\"tro*lyte",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Electro- + Gr. <?/ a dissoluble: cf. F. lectrolyte.]",
+      "sources": [],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physics & Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A compound decomposable, or subjected to decomposition, by an electric current."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

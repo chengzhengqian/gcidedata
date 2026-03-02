@@ -1,0 +1,54 @@
+{
+  "key": "eloign",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Eloign",
+      "headword_raw": "E*loign\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[F. loigner, OF. esloignier; pref. es- (L. ex) + OF. & F. loin far, far off, L. longe, fr. longus long. See Elongate.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Eloigned (?); p. pr. & vb. n. Eloigning.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To remove afar off; to withdraw."
+          ],
+          "quotes": [
+            "From worldly cares he did himself eloign."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "To convey to a distance, or beyond the jurisdiction, or to conceal, as goods liable to distress."
+          ],
+          "quotes": [
+            "The sheriff may return that the goods or beasts are eloigned."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

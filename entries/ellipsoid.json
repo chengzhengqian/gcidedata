@@ -1,0 +1,63 @@
+{
+  "key": "ellipsoid",
+  "source_file": "CIDE.E",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Ellipsoid",
+      "headword_raw": "El*lip\"soid",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Ellipse + -oid: cf. F. ellipsoide.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Geom.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A solid, all plane sections of which are ellipses or circles. See Conoid, n., 2 (a)."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The ellipsoid has three principal plane sections, a, b, and c, each at right angles to the other two, and each dividing the solid into two equal and symmetrical parts. The lines of meeting of these principal sections are the axes, or principal diameters of the ellipsoid. The point where the three planes meet is the center."
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Ellipsoid",
+      "headword_raw": "El*lip\"soid",
+      "pr": "(?)",
+      "pos": [],
+      "ety": null,
+      "sources": [],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

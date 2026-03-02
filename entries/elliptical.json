@@ -1,0 +1,63 @@
+{
+  "key": "elliptical",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Elliptical",
+      "headword_raw": "El*lip\"tic*al",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Gr. <?/: cf. F. elliptique. See Ellipsis.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to an ellipse; having the form of an ellipse; oblong, with rounded ends."
+          ],
+          "quotes": [
+            "The planets move in elliptic orbits.",
+            "The billiard sharp who any one catches, His doom's extremely hard -- He's made to dwell In a dungeon cell On a spot that's always barred. And there he plays extravagant matches In fitless finger-stalls On a cloth untrue With a twisted cue And elliptical billiard balls!"
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Having a part omitted; as, an elliptical phrase."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Math.)",
+            "(Math.)"
+          ],
+          "defs": [
+            "leaving out information essential to comprehension; so concise as to be difficult to understand; obscure or ambiguous; -- of speech or writing; as, an elliptical comment."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

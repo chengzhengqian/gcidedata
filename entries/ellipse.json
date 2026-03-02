@@ -1,0 +1,62 @@
+{
+  "key": "ellipse",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Ellipse",
+      "headword_raw": "El*lipse\"",
+      "pr": "(l*lps\")",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. 'e`lleipsis, prop., a defect, the inclination of the ellipse to the base of the cone being in defect when compared with that of the side to the base: cf. F. ellipse. See Ellipsis.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Geom.)"
+          ],
+          "defs": [
+            "An oval or oblong figure, bounded by a regular curve, which corresponds to an oblique projection of a circle, or an oblique section of a cone through its opposite sides. The greatest diameter of the ellipse is the major axis, and the least diameter is the minor axis. See Conic section, under Conic, and cf. Focus."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Gram.)"
+          ],
+          "defs": [
+            "Omission. See Ellipsis."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "The elliptical orbit of a planet."
+          ],
+          "quotes": [
+            "The Sun flies forward to his brother Sun; The dark Earth follows wheeled in her ellipse."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "key": "elusive",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Elusive",
+      "headword_raw": "E*lu\"sive",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Elusively",
+          "form_raw": "E*lu\"sive*ly",
+          "key": "elusively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Elusiveness",
+          "form_raw": "E*lu\"sive*ness",
+          "key": "elusiveness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Tending to elude; using arts or deception to escape; adroitly escaping or evading; eluding the grasp; fallacious."
+          ],
+          "quotes": [
+            "Elusive of the bridal day, she gives Fond hopes to all, and all with hopes deceives."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

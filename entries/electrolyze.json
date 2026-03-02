@@ -1,0 +1,60 @@
+{
+  "key": "electrolyze",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Electrolyze",
+      "headword_raw": "E*lec\"tro*lyze",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "n."
+      ],
+      "ety": "[Cf. F. lectrolyser. See Electrolysis.]",
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl."
+      ],
+      "morph": "[imp. & p. p. Electrolyzed (?); p. pr. & vb. n. Electrolyzing (?).]",
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Electrolyzation",
+          "form_raw": "E*lec`tro*ly*za\"tion",
+          "key": "electrolyzation",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To decompose by the direct action of electricity."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To subject to electrolysis."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "key": "electro-positive",
+  "source_file": "CIDE.E",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Electro-positive",
+      "headword_raw": "E*lec`tro-pos\"i*tive",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Physics)"
+          ],
+          "defs": [
+            "Of such a nature relatively to some other associated body or bodies, as to tend to the negative pole of a voltaic battery, in electrolysis, while the associated body tends to the positive pole; -- the converse or correlative of electro-negative."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ An element that is electro-positive in one compound may be electro-negative in another, and vice versa."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "Hence: Positive; metallic; basic; -- distinguished from negative, nonmetallic, or acid."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Electro-positive",
+      "headword_raw": "E*lec`tro-pos\"i*tive",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem. & Physics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A body which passes to the negative pole in electrolysis."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

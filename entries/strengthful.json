@@ -1,0 +1,49 @@
+{
+  "key": "strengthful",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Strengthful",
+      "headword_raw": "Strength\"ful",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Strengthfulness",
+          "form_raw": "Strength\"ful*ness",
+          "key": "strengthfulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Abounding in strength; full of strength; strong."
+          ],
+          "quotes": [
+            "Florence my friend, in court my faction Not meanly strengthful."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

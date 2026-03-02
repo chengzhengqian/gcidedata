@@ -1,0 +1,82 @@
+{
+  "key": "stupid",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Stupid",
+      "headword_raw": "Stu\"pid",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. stupidus, fr. stupere to be stupefied: cf. F. stupide.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Stupidly",
+          "form_raw": "Stu\"pid*ly",
+          "key": "stupidly",
+          "pos": [
+            "adv."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Stupidness",
+          "form_raw": "Stu\"pid*ness",
+          "key": "stupidness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Very dull; insensible; senseless; wanting in understanding; heavy; sluggish; in a state of stupor; -- said of persons."
+          ],
+          "quotes": [
+            "O that men . . . should be so stupid grown . . . As to forsake the living God!",
+            "With wild surprise, A moment stupid, motionless he stood."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Resulting from, or evincing, stupidity; formed without skill or genius; dull; heavy; -- said of things."
+          ],
+          "quotes": [
+            "Observe what loads of stupid rhymes Oppress us in corrupted times."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Simple",
+            "insensible",
+            "sluggish",
+            "senseless",
+            "doltish",
+            "sottish",
+            "dull",
+            "heavy",
+            "clodpated"
+          ]
+        }
+      ]
+    }
+  ]
+}

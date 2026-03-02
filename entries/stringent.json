@@ -1,0 +1,59 @@
+{
+  "key": "stringent",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Stringent",
+      "headword_raw": "Strin\"gent",
+      "pr": "(strn\"jnt)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. stringens, -entis, p. pr. of stringere to draw or bind tight. See Strain.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Stringently",
+          "form_raw": "Strin\"gent*ly",
+          "key": "stringently",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Stringentness",
+          "form_raw": "Strin\"gent*ness",
+          "key": "stringentness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Binding strongly; making strict requirements; restrictive; rigid; severe; as, stringent rules."
+          ],
+          "quotes": [
+            "They must be subject to a sharper penal code, and to a more stringent code of procedure."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

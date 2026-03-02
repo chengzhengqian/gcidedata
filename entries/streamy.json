@@ -1,0 +1,50 @@
+{
+  "key": "streamy",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Streamy",
+      "headword_raw": "Stream\"y",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Abounding with streams, or with running water; streamful."
+          ],
+          "quotes": [
+            "Arcadia However streamy now, adust and dry, Denied the goddess water."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Resembling a stream; issuing in a stream."
+          ],
+          "quotes": [
+            "His nodding helm emits a streamy ray."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

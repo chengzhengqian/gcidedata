@@ -1,0 +1,60 @@
+{
+  "key": "strenuous",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Strenuous",
+      "headword_raw": "Stren\"u*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. strenuus; cf. Gr. <?/ strong, hard, rough, harsh.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Strenuously",
+          "form_raw": "Stren\"u*ous*ly",
+          "key": "strenuously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Strenuousness",
+          "form_raw": "Stren\"u*ous*ness",
+          "key": "strenuousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Eagerly pressing or urgent; zealous; ardent; earnest; bold; valiant; intrepid; as, a strenuous advocate for national rights; a strenuous reformer; a strenuous defender of his country."
+          ],
+          "quotes": [
+            "And spirit-stirring wine, that strenuous makes.",
+            "Strenuous, continuous labor is pain."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

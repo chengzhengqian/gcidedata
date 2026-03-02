@@ -1,0 +1,93 @@
+{
+  "key": "stun",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Stun",
+      "headword_raw": "Stun",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OE. stonien, stownien; either fr. AS. stunian to resound (cf. D. stenen to groan, G. stöhnen, Icel. stynja, Gr. <?/, Skr. stan to thunder, and E. thunder), or from the same source as E. astonish. √168.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Stunned (?); p. pr. & vb. n. Stunning.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To make senseless or dizzy by violence; to render senseless by a blow, as on the head."
+          ],
+          "quotes": [
+            "One hung a poleax at his saddlebow, And one a heavy mace to stun the foe."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To dull or deaden the sensibility of; to overcome; especially, to overpower one's sense of hearing."
+          ],
+          "quotes": [
+            "And stunned him with the music of the spheres."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To astonish; to overpower; to bewilder."
+          ],
+          "quotes": [
+            "William was quite stunned at my discourse."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Stun",
+      "headword_raw": "Stun",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The condition of being stunned."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

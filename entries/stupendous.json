@@ -1,0 +1,59 @@
+{
+  "key": "stupendous",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Stupendous",
+      "headword_raw": "Stu*pen\"dous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. stupendus astonishing, p. future pass. of stupere to be astonished at. Cf. Stupid.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Stupendously",
+          "form_raw": "Stu*pen\"dous*ly",
+          "key": "stupendously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Stupendousness",
+          "form_raw": "Stu*pen\"dous*ness",
+          "key": "stupendousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Astonishing; wonderful; amazing; especially, astonishing in magnitude or elevation; as, a stupendous pile."
+          ],
+          "quotes": [
+            "All are but parts of one stupendous whole."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

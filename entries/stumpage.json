@@ -1,0 +1,48 @@
+{
+  "key": "stumpage",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Stumpage",
+      "headword_raw": "Stump\"age",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Timber in standing trees, -- often sold without the land at a fixed price per tree or per stump, the stumps being counted when the land is cleared."
+          ],
+          "quotes": [
+            "Only trees above a certain size are allowed to be cut by loggers buying stumpage from the owners of land."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A tax on the amount of timber cut, regulated by the price of lumber."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

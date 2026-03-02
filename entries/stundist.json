@@ -1,0 +1,48 @@
+{
+  "key": "stundist",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Stundist",
+      "headword_raw": "Stun\"dist",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Russ. shtundist, prob. fr. G. stunde hour; -- from their meetings for Bible reading.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Stundism",
+          "form_raw": "Stun\"dism",
+          "key": "stundism",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Eccl. Hist.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "One of a large sect of Russian dissenters founded, about 1860, in the village of Osnova, near Odessa, by a peasant, Onishchenko, who had apparently been influenced by a German sect settled near there. They zealously practice Bible reading and reject priestly dominion and all external rites of worship."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

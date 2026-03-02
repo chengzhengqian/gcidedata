@@ -1,0 +1,103 @@
+{
+  "key": "studious",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Studious",
+      "headword_raw": "Stu\"di*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. studious: cf. F. studieux. See Study.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Studiously",
+          "form_raw": "Stu\"di*ous*ly",
+          "key": "studiously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Studiousness",
+          "form_raw": "Stu\"di*ous*ness",
+          "key": "studiousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Given to study; devoted to the acquisition of knowledge from books; as, a studious scholar."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Given to thought, or to the examination of subjects by contemplation; contemplative."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Earnest in endeavors; aiming sedulously; attentive; observant; diligent; -- usually followed by an infinitive or by of; as, be studious to please; studious to find new friends and allies."
+          ],
+          "quotes": [
+            "You that are so studious Of my affairs, wholly neglect your own."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Planned with study; deliberate; studied."
+          ],
+          "quotes": [
+            "For the frigid villainy of studious lewdness, . . . with apology can be invented?"
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "Favorable to study; suitable for thought and contemplation; as, the studious shade."
+          ],
+          "quotes": [
+            "But let my due feet never fail To walk the studious cloister's pale."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

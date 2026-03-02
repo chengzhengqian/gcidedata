@@ -1,0 +1,79 @@
+{
+  "key": "stutter",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Stutter",
+      "headword_raw": "Stut\"ter",
+      "pr": "(?)",
+      "pos": [
+        "v. t. & i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[Freq. of stut, OE. stoten; probably of Dutch or Low German origin; cf. D. & LG. stotteren, G. stottern, D. stooten to push, to strike; akin to G. stossen, Icel. stauta, Sw. stöta, Dan. stöde, Goth. stautan, L. tundere, Skr. tud to thrust. Cf. Contuse, Obtuse.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Stuttered (?); p. pr. & vb. n. Stuttering.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To hesitate or stumble in uttering words; to speak with spasmodic repetition or pauses; to stammer."
+          ],
+          "quotes": [
+            "Trembling, stuttering, calling for his confessor."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Stutter",
+      "headword_raw": "Stut\"ter",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of stuttering; a stammer. See Stammer, and Stuttering."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "One who stutters; a stammerer."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

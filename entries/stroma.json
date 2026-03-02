@@ -1,0 +1,51 @@
+{
+  "key": "stroma",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Stroma",
+      "headword_raw": "Stro\"ma",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L., a bed covering, Gr. <?/ a couch or bed.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Anat.)"
+          ],
+          "defs": [
+            "The connective tissue or supporting framework of an organ; as, the stroma of the kidney.",
+            "The spongy, colorless framework of a red blood corpuscle or other cell."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Bot.)"
+          ],
+          "defs": [
+            "A layer or mass of cellular tissue, especially that part of the thallus of certain fungi which incloses the perithecia."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

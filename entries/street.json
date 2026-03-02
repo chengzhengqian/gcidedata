@@ -1,0 +1,70 @@
+{
+  "key": "street",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Street",
+      "headword_raw": "Street",
+      "pr": "(strēt)",
+      "pos": [
+        "n.",
+        "v.",
+        "a."
+      ],
+      "ety": "[OE. strete, AS. strǣt, fr. L. strata (sc. via) a paved way, properly fem. p. p. of sternere, stratum, to spread; akin to E. strew. See Strew, and cf. Stratum, Stray, v. & a.]",
+      "sources": [
+        "1913 Webster",
+        "PJC",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Originally, a paved way or road; a public highway; now commonly, a thoroughfare in a city or village, bordered by dwellings or business houses."
+          ],
+          "quotes": [
+            "He removed [the body of] Amasa from the street unto the field.",
+            "At home or through the high street passing.",
+            "His deserted mansion in Duke Street."
+          ],
+          "notes": [
+            "☞ In an extended sense, street designates besides the roadway, the walks, houses, shops, etc., which border the thoroughfare."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "the roadway of a street{1}, as distinguished from the sidewalk; as, children playing in the street."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Broker's Cant)"
+          ],
+          "defs": [
+            "the inhabitants of a particular street; as, the whole street knew about their impending divorce."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "See Way"
+          ]
+        }
+      ]
+    }
+  ]
+}

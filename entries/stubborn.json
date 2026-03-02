@@ -1,0 +1,76 @@
+{
+  "key": "stubborn",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Stubborn",
+      "headword_raw": "Stub\"born",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[OE. stoburn, stiborn; probably fr. AS. styb a stub. See Stub.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "Stubborn, Obstinate. Obstinate is used of either active or passive persistence in one's views or conduct, in spite of the wishes of others. Stubborn describes an extreme degree of passive obstinacy."
+      ],
+      "wordforms": [
+        {
+          "form": "Stubbornly",
+          "form_raw": "Stub\"born*ly",
+          "key": "stubbornly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Stubbornness",
+          "form_raw": "Stub\"born*ness",
+          "key": "stubbornness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Obstinate",
+        "inflexible",
+        "obdurate",
+        "headstrong",
+        "stiff",
+        "hardy",
+        "firm",
+        "refractory",
+        "intractable",
+        "rugged",
+        "contumacious",
+        "heady"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Firm as a stub or stump; stiff; unbending; unyielding; persistent; hence, unreasonably obstinate in will or opinion; not yielding to reason or persuasion; refractory; harsh; -- said of persons and things; as, stubborn wills; stubborn ore; a stubborn oak; as stubborn as a mule."
+          ],
+          "quotes": [
+            "And I was young and full of ragerie [wantonness] Stubborn and strong, and jolly as a pie.",
+            "These heretics be so stiff and stubborn.",
+            "Your stubborn usage of the pope."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

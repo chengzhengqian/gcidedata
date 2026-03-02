@@ -1,0 +1,52 @@
+{
+  "key": "chromatic",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Chromatic",
+      "headword_raw": "Chro*mat\"ic",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. chromaticus, Gr. <?/, suited for color, fr. <?/, <?/, color; akin to <?/ color, <?/ skin, color of the skin.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Relating to color, or to colors."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mus.)",
+            "(Opt.)",
+            "(Mus.)"
+          ],
+          "defs": [
+            "Proceeding by the smaller intervals (half steps or semitones) of the scale, instead of the regular intervals of the diatonic scale."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The intermediate tones were formerly written and printed in colors."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

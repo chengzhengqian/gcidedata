@@ -1,0 +1,48 @@
+{
+  "key": "chromatrope",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Chromatrope",
+      "headword_raw": "Chro\"ma*trope",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. <?/ color + <?/ turn, rotation, <?/ to turn.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Physics)"
+          ],
+          "defs": [
+            "An instrument for exhibiting certain chromatic effects of light (depending upon the persistence of vision and mixture of colors) by means of rapidly rotating disks variously colored."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A device in a magic lantern or stereopticon to produce kaleidoscopic effects."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

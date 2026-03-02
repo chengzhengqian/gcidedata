@@ -1,0 +1,65 @@
+{
+  "key": "cinema",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "cinema",
+      "headword_raw": "cinema",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "the art of creating motion pictures; as, this story would be good cinema; -- often used in the phrase the cinema."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "the film"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a theater where motion pictures are shown."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "movie theater",
+            "movie theatre",
+            "movie house",
+            "picture palace"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "same as motion picture."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

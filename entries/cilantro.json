@@ -1,0 +1,54 @@
+{
+  "key": "cilantro",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "cilantro",
+      "headword_raw": "cilantro",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "an Old World herb (Coriandrum sativum) with aromatic parsleylike leaves and seed."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "coriander",
+            "coriander plant",
+            "Chinese parsley",
+            "Coriandrum sativum"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a parsleylike herb used as seasoning or garnish."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "coriander",
+            "Chinese parsley"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "key": "cilia",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Cilia",
+      "headword_raw": "Cil\"i*a",
+      "pr": "(?)",
+      "pos": [
+        "n. pl."
+      ],
+      "ety": "[L. cilium eyelid.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Cilium",
+          "form_raw": "Cilium",
+          "key": "cilium",
+          "pos": [],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Anat.)"
+          ],
+          "defs": [
+            "The eyelashes."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Biol.)"
+          ],
+          "defs": [
+            "Small, generally microscopic, vibrating appendages lining certain organs, as the air passages of the higher animals, and in the lower animals often covering also the whole or a part of the exterior. They are also found on some vegetable organisms. In the Infusoria, and many larval forms, they are locomotive organs."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Bot.)"
+          ],
+          "defs": [
+            "Hairlike processes, commonly marginal and forming a fringe like the eyelash."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "Small, vibratory, swimming organs, somewhat resembling true cilia, as those of Ctenophora."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

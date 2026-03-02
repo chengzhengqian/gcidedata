@@ -1,0 +1,91 @@
+{
+  "key": "chronicle",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Chronicle",
+      "headword_raw": "Chron\"i*cle",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. cronicle, fr. cronique, OF. cronique, F. chronique, L. chronica, fr. Gr. <?/, neut. pl. of <?/. See Chronic.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "An historical register or account of facts or events disposed in the order of time."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A narrative of events; a history; a record."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "The two canonical books of the Old Testament in which immediately follow 2 Kings."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Register",
+            "record",
+            "annals. See History"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Chronicle",
+      "headword_raw": "Chron\"i*cle",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Chronicled (?); p. pr. & vb. n. Chronicling (?).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To record in a history or chronicle; to record; to register."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

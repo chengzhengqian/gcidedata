@@ -1,0 +1,46 @@
+{
+  "key": "chronophotograph",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Chronophotograph",
+      "headword_raw": "Chron`o*pho\"to*graph",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. <?/ time + photograph.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Chronophotography",
+          "form_raw": "Chron`o*pho*tog\"ra*phy",
+          "key": "chronophotography",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "One of a set of photographs of a moving object, taken for the purpose of recording and exhibiting successive phases of the motion."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

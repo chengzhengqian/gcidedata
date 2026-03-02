@@ -1,0 +1,67 @@
+{
+  "key": "cinematographer",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Cinematographer",
+      "headword_raw": "Cin`e*ma*tog\"ra*pher",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Cinematographic",
+          "form_raw": "Cin`e*mat`o*graph\"ic",
+          "key": "cinematographic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Cinematographically",
+          "form_raw": "Cin`e*mat`o*graph\"ic*al*ly",
+          "key": "cinematographically",
+          "pos": [
+            "adv."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One who takes motion pictures with a movie camera, especially one expert in the art."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "one who exhibits motion pictures; an operator of a motion picture projector; a projectionist."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

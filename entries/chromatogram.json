@@ -1,0 +1,48 @@
+{
+  "key": "chromatogram",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "chromatogram",
+      "headword_raw": "chro*mat\"o*gram",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "the paper strip, column, gel, or TLC plate on which substances have been separated by a process of chromatography{2}."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "the record of the results of a process of chromatography{2}, produced by an instrument which measures some property related to the concentration of substances over the course of a chromatographic process. The record may be printed, for example, on a piece of paper, showing the concentration of some substance as a function of time or volume; or it may be retained in a computer and displayed on a video display terminal."
+          ],
+          "quotes": [],
+          "notes": [
+            "The analytical methods for determining which substances have moved to which point on the chromatogram are very varied, and the records of the results of a visualization techique, such as autoradiography, may itself be referred to as a chromatogram"
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

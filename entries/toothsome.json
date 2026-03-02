@@ -1,0 +1,59 @@
+{
+  "key": "toothsome",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Toothsome",
+      "headword_raw": "Tooth\"some",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Toothsomely",
+          "form_raw": "Tooth\"some*ly",
+          "key": "toothsomely",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Toothsomeness",
+          "form_raw": "Tooth\"some*ness",
+          "key": "toothsomeness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Grateful to the taste; palatable."
+          ],
+          "quotes": [
+            "Though less toothsome to me, they were more wholesome for me."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "key": "toponymy",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Toponymy",
+      "headword_raw": "To*pon\"y*my",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Toponymal",
+          "form_raw": "To*pon\"y*mal",
+          "key": "toponymal",
+          "pos": [],
+          "pr": "(#)"
+        },
+        {
+          "form": "Toponymic",
+          "form_raw": "Top`o*nym\"ic",
+          "key": "toponymic",
+          "pos": [],
+          "pr": "(#)"
+        },
+        {
+          "form": "Toponymical",
+          "form_raw": "Top`o*nym\"ic*al",
+          "key": "toponymical",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A system of toponyms; the use of toponyms."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

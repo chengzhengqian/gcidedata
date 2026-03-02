@@ -1,0 +1,50 @@
+{
+  "key": "torse",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Torse",
+      "headword_raw": "Torse",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OF., fr. OF. & F. tors, torse, twisted, wreathed, p. p. of tordre to twist, L. torquere. See Torture.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Her.)"
+          ],
+          "defs": [
+            "A wreath."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Geom.)"
+          ],
+          "defs": [
+            "A developable surface. See under Developable."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

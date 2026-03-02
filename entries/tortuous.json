@@ -1,0 +1,95 @@
+{
+  "key": "tortuous",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Tortuous",
+      "headword_raw": "Tor\"tu*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[OE. tortuos, L. tortuosus, fr. tortus a twisting, winding, fr. torquere, tortum, to twist: cf. F. tortueux. See Torture.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Tortuously",
+          "form_raw": "Tor\"tu*ous*ly",
+          "key": "tortuously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Tortuousness",
+          "form_raw": "Tor\"tu*ous*ness",
+          "key": "tortuousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Bent in different directions; wreathed; twisted; winding; as, a tortuous train; a tortuous leaf or corolla."
+          ],
+          "quotes": [
+            "The badger made his dark and tortuous hole on the side of every hill where the copsewood grew thick."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Fig.: Deviating from rectitude; indirect; erroneous; deceitful."
+          ],
+          "quotes": [
+            "That course became somewhat lesstortuous, when the battle of the Boyne had cowed the spirit of the Jakobites."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Injurious: tortious."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Astrol.)"
+          ],
+          "defs": [
+            "Oblique; -- applied to the six signs of the zodiac (from Capricorn to Gemini) which ascend most rapidly and obliquely."
+          ],
+          "quotes": [
+            "Infortunate ascendent tortuous."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

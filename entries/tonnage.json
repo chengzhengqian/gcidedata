@@ -1,0 +1,70 @@
+{
+  "key": "tonnage",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Tonnage",
+      "headword_raw": "Ton\"nage",
+      "pr": "(?; 48)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[From Ton a measure.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The weight of goods carried in a boat or a ship."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The cubical content or burden of a vessel, or vessels, in tons; or, the amount of weight which one or several vessels may carry. See Ton, n. (b)."
+          ],
+          "quotes": [
+            "A fleet . . . with an aggregate tonnage of 60,000 seemed sufficient to conquer the world."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A duty or impost on vessels, estimated per ton, or, a duty, toll, or rate payable on goods per ton transported on canals."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "The whole amount of shipping estimated by tons; as, the tonnage of the United States. See Ton."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ There are in common use the following terms relating to tonnage: (a) Displacement. (b) Register tonnage, gross and net. (c) Freight tonnage. (d) Builders' measurement. (e) Yacht measurement. The first is mainly used for war vessels, where the total weight is likely to be nearly constant. The second is the most important, being that used for commercial purposes. The third and fourth are different rules for ascertaining the actual burden-carrying power of a vessel, and the fifth is for the proper classification of pleasure craft. Gross tonnage expresses the total cubical interior of a vessel; net tonnage, the cubical space actually available for freight-carrying purposes. Rules for ascertaining these measurements are established by law."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

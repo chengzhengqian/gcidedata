@@ -1,0 +1,50 @@
+{
+  "key": "tournament",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Tournament",
+      "headword_raw": "Tour\"na*ment",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. turnement, tornement, OF. torneiement, tornoiement, F. tournoiement a turning or wheeling round. See Tourney.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A mock fight, or warlike game, formerly in great favor, in which a number of combatants were engaged, as an exhibition of their address and bravery; hence, figuratively, a real battle."
+          ],
+          "quotes": [
+            "With cruel tournament the squadrons join."
+          ],
+          "notes": [
+            "☞ It different from the joust, which was a trial of skill between one man and another."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Any contest of skill in which there are many contestents for championship; as, a chess tournament."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "key": "tourney",
+  "source_file": "CIDE.T",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Tourney",
+      "headword_raw": "Tour\"ney",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "v. t."
+      ],
+      "ety": "[OF. tornei, tornoi, F. tournoi, fr. OF. torneier, tornoier, tournoier, to tit, to tourney, F. tournoyer to turn round and round. See Turn, v. t.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A tournament."
+          ],
+          "quotes": [
+            "At tilt or tourney or like warlike game.",
+            "We hold a tourney here to-morrow morn, And there is scantly time for half the work."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Tourney",
+      "headword_raw": "Tour\"ney",
+      "pr": null,
+      "pos": [
+        "v. i.",
+        "n."
+      ],
+      "ety": "[Cf.OF. torneier. See Tourney, n. ]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To perform in tournaments; to tilt."
+          ],
+          "quotes": [
+            "Well could he tourney, and in lists debate."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

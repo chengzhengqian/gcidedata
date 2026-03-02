@@ -1,0 +1,60 @@
+{
+  "key": "torque",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Torque",
+      "headword_raw": "Torque",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. torques a twisted neck chain, fr. torquere to twist.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A collar or neck chain, usually twisted, especially as worn by ancient barbaric nations, as the Gauls, Germans, and Britons."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mech.)"
+          ],
+          "defs": [
+            "That which tends to produce torsion; a couple of forces."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Phys. Science)"
+          ],
+          "defs": [
+            "A turning or twisting; tendency to turn, or cause to turn, about an axis."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

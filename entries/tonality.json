@@ -1,0 +1,40 @@
+{
+  "key": "tonality",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Tonality",
+      "headword_raw": "To*nal\"i*ty",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. tonalit.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Mus.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The principle of key in music; the character which a composition has by virtue of the key in which it is written, or through the family relationship of all its tones and chords to the keynote, or tonic, of the whole."
+          ],
+          "quotes": [
+            "The predominance of the tonic as the link which connects all the tones of a piece, we may, with Ftis, term the principle of tonality."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

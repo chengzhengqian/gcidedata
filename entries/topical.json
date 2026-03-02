@@ -1,0 +1,61 @@
+{
+  "key": "topical",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Topical",
+      "headword_raw": "Top\"ic*al",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": "[Cf. F. topique, LL. topicus, Gr. <?/. See Topic, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to a place; limited; logical application; as, a topical remedy; a topical claim or privilege."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Rhet. & logic)"
+          ],
+          "defs": [
+            "Pertaining to, or consisting of, a topic or topics; according to topics."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Resembling a topic, or general maxim; hence, not demonstrative, but merely probable, as an argument."
+          ],
+          "quotes": [
+            "Evidences of fact can be no more than topical and probable."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "key": "emulation",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Emulation",
+      "headword_raw": "Em`u*la\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. aemulatio: cf. F. mulation.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The endeavor to equal or to excel another in qualities or actions; an assiduous striving to equal or excel another; rivalry."
+          ],
+          "quotes": [
+            "A noble emulation heats your breast."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Jealous rivalry; envy; envious contention."
+          ],
+          "quotes": [
+            "Such factious emulations shall arise."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "imitation (of an admired model) for the purpose of improving one's own qualities."
+          ],
+          "quotes": [
+            "[Chivalry was] an ideal which, if never met with in real life, was acknowledged by all as the highest model for emulation."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "the imitation of the actions of a computer system or component, especially a processor, by means of a computer program, with the goal of predicting the behavior and performance characteristics of that system without actually manufacturing it."
+          ],
+          "quotes": [
+            "1996 marked the year that emulation became a mainstream design verification tool."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Competition",
+            "rivalry",
+            "contest",
+            "contention",
+            "strife",
+            "Emulation",
+            "Competition",
+            "Rivalry. Competition is the struggle of two or more persons for the same object. Emulation is an ardent desire for superiority",
+            "arising from competition",
+            "but now implying",
+            "of necessity",
+            "any improper feeling. Rivalry is a personal contest",
+            "and",
+            "almost of course",
+            "has a selfish object and gives rise to envy. “Competition and emulation have honor for their basis",
+            "rivalry is but a desire for selfish gratification. Competition and emulation animate to effort",
+            "rivalry usually produces hatred. Competition and emulation seek to merit success",
+            "rivalry is contented with obtaining it.”"
+          ]
+        }
+      ]
+    }
+  ]
+}

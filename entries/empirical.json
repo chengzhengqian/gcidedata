@@ -1,0 +1,53 @@
+{
+  "key": "empirical",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Empirical",
+      "headword_raw": "Em*pir\"ic*al",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Pertaining to, or founded upon, experiment or experience; depending upon the observation of phenomena; versed in experiments."
+          ],
+          "quotes": [
+            "In philosophical language, the term empirical means simply what belongs to or is the product of experience or observation.",
+            "The village carpenter . . . lays out his work by empirical rules learnt in his apprenticeship."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "Depending upon experience or observation alone, without due regard to science and theory; -- said especially of medical practice, remedies, etc.; wanting in science and deep insight; as, empiric skill, remedies."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "See Transcendental"
+          ]
+        }
+      ]
+    }
+  ]
+}

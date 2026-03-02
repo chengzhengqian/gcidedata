@@ -1,0 +1,58 @@
+{
+  "key": "emergency",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Emergency",
+      "headword_raw": "E*mer\"gen*cy",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[See Emergence.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Sudden or unexpected appearance; an unforeseen occurrence; a sudden occasion."
+          ],
+          "quotes": [
+            "Most our rarities have been found out by casual emergency."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "An unforeseen occurrence or combination of circumstances which calls for immediate action or remedy; pressing necessity; exigency."
+          ],
+          "quotes": [
+            "To whom she might her doubts propose, On all emergencies that rose.",
+            "A safe counselor in most difficult emergencies."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Crisis",
+            "conjuncture",
+            "exigency",
+            "pinch",
+            "strait",
+            "necessity"
+          ]
+        }
+      ]
+    }
+  ]
+}

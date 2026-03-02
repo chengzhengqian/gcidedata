@@ -1,0 +1,59 @@
+{
+  "key": "employment",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Employment",
+      "headword_raw": "Em*ploy\"ment",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of employing or using; also, the state of being employed."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That which engages or occupies; that which consumes time or attention; office or post of business; service; as, agricultural employments; mechanical employments; public employments; in the employment of government."
+          ],
+          "quotes": [
+            "Cares are employments, and without employ The soul is on a rack."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Work",
+            "business",
+            "occupation",
+            "vocation",
+            "calling",
+            "office",
+            "service",
+            "commission",
+            "trade",
+            "profession"
+          ]
+        }
+      ]
+    }
+  ]
+}

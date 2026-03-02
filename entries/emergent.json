@@ -1,0 +1,73 @@
+{
+  "key": "emergent",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Emergent",
+      "headword_raw": "E*mer\"gent",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. emergens, p. pr. of emergere.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Emergently",
+          "form_raw": "E*mer\"gent*ly",
+          "key": "emergently",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Emergentness",
+          "form_raw": "E*mer\"gent*ness",
+          "key": "emergentness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Rising or emerging out of a fluid or anything that covers or conceals; issuing; coming to light."
+          ],
+          "quotes": [
+            "The mountains huge appear emergent."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Chron.)"
+          ],
+          "defs": [
+            "Suddenly appearing; arising unexpectedly; calling for prompt action; urgent."
+          ],
+          "quotes": [
+            "Protection granted in emergent danger."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

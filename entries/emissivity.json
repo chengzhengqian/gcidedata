@@ -1,0 +1,39 @@
+{
+  "key": "emissivity",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Emissivity",
+      "headword_raw": "Em`is*siv\"i*ty",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Tendency to emission; comparative facility of emission, or rate at which emission takes place;",
+            "the rate of emission of heat from a bounding surface per degree of temperature difference between the surface and surrounding substances (called by Fourier external conductivity)."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

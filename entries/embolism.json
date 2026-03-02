@@ -1,0 +1,58 @@
+{
+  "key": "embolism",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Embolism",
+      "headword_raw": "Em\"bo*lism",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. embolismus, from Gr. <?/ to throw or put in, insert; cf. <?/ intercalated: cf. F. embolisme. See Emblem.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Intercalation; the insertion of days, months, or years, in an account of time, to produce regularity; as, the embolism of a lunar month in the Greek year."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Intercalated time."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "The occlusion of a blood vessel by an embolus. Embolism in the brain often produces sudden unconsciousness and paralysis."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

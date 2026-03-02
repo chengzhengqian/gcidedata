@@ -1,0 +1,49 @@
+{
+  "key": "emotion",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Emotion",
+      "headword_raw": "E*mo\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. emovere, emotum, to remove, shake, stir up; e out + movere to move: cf. F. motion. See Move, and cf. Emmove.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "Emotion, Feeling, Agitation. Feeling is the weaker term, and may be of the body or the mind. Emotion is of the mind alone, being the excited action of some inward susceptibility or feeling; as, an emotion of pity, terror, etc. Agitation may be bodily or mental, and usually arises in the latter case from a vehement struggle between contending desires or emotions. See Passion. “Agitations have but one character, viz., that of violence; emotions vary with the objects that awaken them. There are emotions either of tenderness or anger, either gentle or strong, either painful or pleasing.” Crabb."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [
+        "Feeling",
+        "agitation",
+        "tremor",
+        "trepidation",
+        "perturbation",
+        "passion",
+        "excitement"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A moving of the mind or soul; excitement of the feelings, whether pleasing or painful; disturbance or agitation of mind caused by a specific exciting cause and manifested by some sensible effect on the body."
+          ],
+          "quotes": [
+            "How different the emotions between departure and return!",
+            "Some vague emotion of delight."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

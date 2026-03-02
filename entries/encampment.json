@@ -1,0 +1,49 @@
+{
+  "key": "encampment",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Encampment",
+      "headword_raw": "En*camp\"ment",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of pitching tents or forming huts, as by an army or traveling company, for temporary lodging or rest."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The place where an army or a company is encamped; a camp; tents pitched or huts erected for temporary lodgings."
+          ],
+          "quotes": [
+            "A square of about seven hundred yards was sufficient for the encampment of twenty thousand Romans.",
+            "A green encampment yonder meets the eye."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

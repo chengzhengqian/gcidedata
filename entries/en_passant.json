@@ -1,0 +1,37 @@
+{
+  "key": "en_passant",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "En passant",
+      "headword_raw": "En` pas`sant\"",
+      "pr": "(?)",
+      "pos": [],
+      "ety": "[F.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chess)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "In passing; in the course of any procedure;",
+            "of the taking of an adverse pawn which makes a first move of two squares by a pawn already so advanced as to threaten the first of these squares. The pawn which takes en passant is advanced to the threatened square."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "key": "beer",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Beer",
+      "headword_raw": "Beer",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. beor, ber, AS. ber; akin to Fries. biar, Icel. bjrr, OHG. bior, D. & G. bier, and possibly E. brew. √93, See Brew.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A fermented liquor made from any malted grain, but commonly from barley malt, with hops or some other substance to impart a bitter flavor."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Beer has different names, as small beer, ale, porter, brown stout, lager beer, according to its strength, or other qualities. See Ale."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A fermented extract of the roots and other parts of various plants, as spruce, ginger, sassafras, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

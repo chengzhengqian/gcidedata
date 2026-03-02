@@ -1,0 +1,75 @@
+{
+  "key": "bedouin",
+  "source_file": "CIDE.B",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Bedouin",
+      "headword_raw": "Bed\"ou*in",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. bdouin, OF. bduin, fr. Ar. bedawī rural, living in the desert, fr. badw desert, fr. badā to live in the desert, to lead a nomadic life.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Bedouinism",
+          "form_raw": "Bed\"ou*in*ism",
+          "key": "bedouinism",
+          "pos": [
+            "n."
+          ],
+          "pr": "(<?/)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "One of the nomadic Arabs who live in tents, and are scattered over Arabia, Syria, and northern Africa, esp. in the deserts."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Bedouin",
+      "headword_raw": "Bed\"ou*in",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Pertaining to the Bedouins; nomad."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

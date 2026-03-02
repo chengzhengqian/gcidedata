@@ -1,0 +1,89 @@
+{
+  "key": "beneficiary",
+  "source_file": "CIDE.B",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Beneficiary",
+      "headword_raw": "Ben`e*fi\"ci*a*ry",
+      "pr": "(<?/)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Cf. F. bnficiaire, LL. beneficiarius.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Holding some office or valuable possession, in subordination to another; holding under a feudal or other superior; having a dependent and secondary possession."
+          ],
+          "quotes": [
+            "A feudatory or beneficiary king of England."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Bestowed as a gratuity; as, beneficiary gifts."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Beneficiary",
+      "headword_raw": "Ben`e*fi\"ci*a*ry",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A feudatory or vassal; hence, one who holds a benefice and uses its proceeds."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "One who receives anything as a gift; one who receives a benefit or advantage; esp. one who receives help or income from an educational fund or a trust estate."
+          ],
+          "quotes": [
+            "The rich men will be offering sacrifice to their Deity whose beneficiaries they are."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

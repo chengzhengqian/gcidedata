@@ -1,0 +1,50 @@
+{
+  "key": "bedroom",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Bedroom",
+      "headword_raw": "Bed\"room",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A room or apartment intended or used for a bed; a lodging room."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Room in a bed."
+          ],
+          "quotes": [
+            "Then by your side no bed room me deny."
+          ],
+          "notes": [
+            "[In this sense preferably bed room.]"
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

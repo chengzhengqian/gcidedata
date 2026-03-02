@@ -1,0 +1,49 @@
+{
+  "key": "beneficiate",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Beneficiate",
+      "headword_raw": "Ben`e*fi\"ci*ate",
+      "pr": "(<?/)",
+      "pos": [
+        "v. t.",
+        "n."
+      ],
+      "ety": "[Sp. beneficiar to benefit, to work mines.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Beneficiation",
+          "form_raw": "Ben`e*fi`ci*a\"tion",
+          "key": "beneficiation",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Mining)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To reduce (ores)."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

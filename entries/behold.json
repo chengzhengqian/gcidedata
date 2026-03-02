@@ -1,0 +1,81 @@
+{
+  "key": "behold",
+  "source_file": "CIDE.B",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Behold",
+      "headword_raw": "Be*hold\"",
+      "pr": "(<?/)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. p.",
+        "p. a.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OE. bihalden, biholden, AS. behealdan to hold, have in sight; pref. be- + healdan to hold, keep; akin to G. behalten to hold, keep. See Hold.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Beheld (<?/) (p. p. formerly Beholden (<?/), now used only as a p. a.); p. pr. & vb. n. Beholding.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "scan",
+        "gaze",
+        "regard",
+        "descry",
+        "view",
+        "discern"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To have in sight; to see clearly; to look at; to regard with the eyes."
+          ],
+          "quotes": [
+            "When he beheld the serpent of brass, he lived.",
+            "Behold the Lamb of God, which taketh away the sin of the world."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Behold",
+      "headword_raw": "Be*hold\"",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To direct the eyes to, or fix them upon, an object; to look; to see."
+          ],
+          "quotes": [
+            "And I beheld, and, lo, in the midst of the throne, . . . a lamb as it had been slain."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

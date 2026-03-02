@@ -1,0 +1,48 @@
+{
+  "key": "bedding",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Bedding",
+      "headword_raw": "Bed\"ding",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[AS. bedding, beding. See Bed.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A bed and its furniture; the materials of a bed, whether for man or beast; bedclothes; litter."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Geol.)"
+          ],
+          "defs": [
+            "The state or position of beds and layers."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

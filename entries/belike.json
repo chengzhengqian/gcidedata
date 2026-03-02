@@ -1,0 +1,48 @@
+{
+  "key": "belike",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Belike",
+      "headword_raw": "Be*like\"",
+      "pr": "(<?/)",
+      "pos": [
+        "adv."
+      ],
+      "ety": "[Pref. be- (for by) + like.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Belikely",
+          "form_raw": "Be*like\"ly",
+          "key": "belikely",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "It is likely or probably; perhaps."
+          ],
+          "quotes": [
+            "Belike, boy, then you are in love."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

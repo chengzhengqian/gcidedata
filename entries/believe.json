@@ -1,0 +1,90 @@
+{
+  "key": "believe",
+  "source_file": "CIDE.B",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Believe",
+      "headword_raw": "Be*lieve\"",
+      "pr": "(<?/)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "a.",
+        "n."
+      ],
+      "ety": "[OE. bileven (with pref. be- for AS. ge-), fr. AS. gelīfan, gelīfan; akin to D. gelooven, OHG. gilouban, G. glauben, OS. gilībian, Goth. galaubjan, and Goth. liubs dear. See Lief, a., Leave, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Believed (<?/); p. pr. & vb. n. Believing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "See Expect"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To exercise belief in; to credit upon the authority or testimony of another; to be persuaded of the truth of, upon evidence furnished by reasons, arguments, and deductions of the mind, or by circumstances other than personal knowledge; to regard or accept as true; to place confidence in; to think; to consider; as, to believe a person, a statement, or a doctrine."
+          ],
+          "quotes": [
+            "Our conqueror (whom I now Of force believe almighty).",
+            "King Agrippa, believest thou the prophets ?",
+            "Often followed by a dependent clause. I believe that Jesus Christ is the Son of God."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Believe",
+      "headword_raw": "Be*lieve\"",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To have a firm persuasion, esp. of the truths of religion; to have a persuasion approaching to certainty; to exercise belief or faith."
+          ],
+          "quotes": [
+            "Lord, I believe; help thou mine unbelief.",
+            "With the heart man believeth unto righteousness."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To think; to suppose."
+          ],
+          "quotes": [
+            "I will not believe so meanly of you."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

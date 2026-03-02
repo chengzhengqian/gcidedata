@@ -1,0 +1,56 @@
+{
+  "key": "kickoff",
+  "source_file": "CIDE.K",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "kickoff",
+      "headword_raw": "kickoff",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Football)"
+      ],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A kick from the center of the field to start a football game or to resume it after a score."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "the time at which an event or activity begins."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "beginning",
+            "commencement",
+            "first",
+            "outset",
+            "start",
+            "starting time",
+            "offset"
+          ]
+        }
+      ]
+    }
+  ]
+}

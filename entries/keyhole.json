@@ -1,0 +1,52 @@
+{
+  "key": "keyhole",
+  "source_file": "CIDE.K",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Keyhole",
+      "headword_raw": "Key\"hole`",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A hole or aperture in a door or lock, for receiving a key."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Carp.)",
+            "(Mach.)",
+            "(Zool.)",
+            "(Zool.)"
+          ],
+          "defs": [
+            "A hole or excavation in beams intended to be joined together, to receive the key which fastens them.",
+            "a mortise for a key or cotter."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

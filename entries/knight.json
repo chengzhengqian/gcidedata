@@ -1,0 +1,105 @@
+{
+  "key": "knight",
+  "source_file": "CIDE.K",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Knight",
+      "headword_raw": "Knight",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. knight, cniht, knight, soldier, AS. cniht, cneoht, a boy, youth, attendant, military follower; akin to D. & G. knecht servant; perh. akin to E. kin.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A young servant or follower; a military attendant."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "In feudal times, a man-at-arms serving on horseback and admitted to a certain military rank with special ceremonies, including an oath to protect the distressed, maintain the right, and live a stainless life.",
+            "One on whom knighthood, a dignity next below that of baronet, is conferred by the sovereign, entitling him to be addressed as Sir; as, Sir John.",
+            "A champion; a partisan; a lover."
+          ],
+          "quotes": [
+            "Knights, by their oaths, should right poor ladies' harms."
+          ],
+          "notes": [
+            "☞ Formerly, when a knight's name was not known, it was customary to address him as Sir Knight. The rank of a knight is not hereditary."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A piece used in the game of chess, usually bearing a horse's head."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "A playing card bearing the figure of a knight; the knave or jack."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Knight",
+      "headword_raw": "Knight",
+      "pr": null,
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Knighted; p. pr. & vb. n. Knighting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To dub or create (one) a knight; -- done in England by the sovereign only, who taps the kneeling candidate with a sword, saying: Rise, Sir ---."
+          ],
+          "quotes": [
+            "A soldier, by the honor-giving hand Of Cœur-de-Lion knighted in the field."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

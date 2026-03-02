@@ -1,0 +1,38 @@
+{
+  "key": "kinase",
+  "source_file": "CIDE.K",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "kinase",
+      "headword_raw": "ki\"nase",
+      "pr": "(kī\"nās)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Biochemistry)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "One of a class of enzymes that catalyze transfer of a phosphate group from ATP to another molecule; it is a type of phosphorylase."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

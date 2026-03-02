@@ -1,0 +1,48 @@
+{
+  "key": "kneejoint",
+  "source_file": "CIDE.K",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Kneejoint",
+      "headword_raw": "Knee\"joint`",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The joint of the knee."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mach.)"
+          ],
+          "defs": [
+            "A toggle joint; -- so called because consisting of two pieces jointed to each other end to end, making an angle like the knee when bent."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

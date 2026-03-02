@@ -1,0 +1,70 @@
+{
+  "key": "kingdom",
+  "source_file": "CIDE.K",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Kingdom",
+      "headword_raw": "King\"dom",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[AS. cyningdōm. See 2d King, and -dom.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The rank, quality, state, or attributes of a king; royal authority; sovereign power; rule; dominion; monarchy."
+          ],
+          "quotes": [
+            "Thy kingdom is an everlasting kingdom.",
+            "When Jehoram was risen up to the kingdom of his father, he strengthened himself."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The territory or country subject to a king or queen; the dominion of a monarch; the sphere in which one is king or has control."
+          ],
+          "quotes": [
+            "Unto the kingdom of perpetual night.",
+            "You're welcome, Most learned reverend sir, into our kingdom."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "An extensive scientific division distinguished by leading or ruling characteristics; a principal division; a department; as, the mineral kingdom. In modern biology, the division of life into five kingdoms is widely used for classification."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Realm",
+            "empire",
+            "dominion",
+            "monarchy",
+            "sovereignty",
+            "domain"
+          ]
+        }
+      ]
+    }
+  ]
+}

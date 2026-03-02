@@ -1,0 +1,50 @@
+{
+  "key": "seme",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "seme",
+      "headword_raw": "seme",
+      "pr": "(sēm)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. sh^ma a sign.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Linguistics)"
+          ],
+          "defs": [
+            "A linguistic sign."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Linguistics)"
+          ],
+          "defs": [
+            "A basic component of meaning of a morpheme, especially one which cannot be decomposed into more basic components; a primitive concept."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

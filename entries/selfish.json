@@ -1,0 +1,53 @@
+{
+  "key": "selfish",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Selfish",
+      "headword_raw": "Self\"ish",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Caring supremely or unduly for one's self; regarding one's own comfort, advantage, etc., in disregard, or at the expense, of those of others."
+          ],
+          "quotes": [
+            "They judge of things according to their own private appetites and selfish passions.",
+            "In that throng of selfish hearts untrue."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Ethics)"
+          ],
+          "defs": [
+            "Believing or teaching that the chief motives of human action are derived from love of self."
+          ],
+          "quotes": [
+            "Hobbes and the selfish school of philosophers."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "key": "self-evident",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Self-evident",
+      "headword_raw": "Self`-ev\"i*dent",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Self-evidently",
+          "form_raw": "Self`-ev\"i*dent*ly",
+          "key": "self-evidently",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Evident without proof or reasoning; producing certainty or conviction upon a bare presentation to the mind; as, a self-evident proposition or truth."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

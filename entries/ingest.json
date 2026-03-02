@@ -1,0 +1,47 @@
+{
+  "key": "ingest",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Ingest",
+      "headword_raw": "In*gest\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t."
+      ],
+      "ety": "[L. ingenium, p. p. of ingerere to put in; pref. in- in + gerere to bear.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To take into, or as into, the stomach or alimentary canal."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To take into the body by any means, as by inhalation, injection, absorption, as well as through the mouth."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

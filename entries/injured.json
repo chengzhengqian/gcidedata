@@ -1,0 +1,49 @@
+{
+  "key": "injured",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "injured",
+      "headword_raw": "injured",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "having received an injury;-- usually used of physical or mental injury to persons. Opposite of uninjured."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "subjected to an injustice."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "aggrieved"
+          ]
+        }
+      ]
+    }
+  ]
+}

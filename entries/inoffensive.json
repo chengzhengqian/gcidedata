@@ -1,0 +1,79 @@
+{
+  "key": "inoffensive",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Inoffensive",
+      "headword_raw": "In\"of*fen\"sive",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Pref. in- not + offensiue: cf. F. inoffensif.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Inoffensively",
+          "form_raw": "In\"of*fen\"sive*ly",
+          "key": "inoffensively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Inoffensiveness",
+          "form_raw": "In\"of*fen\"sive*ness",
+          "key": "inoffensiveness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Giving no offense, or provocation; causing no uneasiness, annoyance, or disturbance; as, an inoffensive man, answer, appearance."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Harmless; doing no injury or mischief."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Not obstructing; presenting no interruption or hindrance."
+          ],
+          "quotes": [
+            "So have I seen a river gently glide In a smooth course, and inoffensive tide."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

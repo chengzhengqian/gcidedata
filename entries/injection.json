@@ -1,0 +1,74 @@
+{
+  "key": "injection",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Injection",
+      "headword_raw": "In*jec\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. injectio : cf. F. injection.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of injecting or throwing in; -- applied particularly to the forcible insertion of a liquid or gas, by means of a syringe, pump, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That which is injected; especially, a liquid inserted thrown into a cavity of the body by a syringe or pipe; a clyster; an enema."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Anat.)"
+          ],
+          "defs": [
+            "The act or process of filling vessels, cavities, or tissues with a fluid or other substance.",
+            "A specimen prepared by injection."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Steam Eng.)",
+            "(Steam Eng.)"
+          ],
+          "defs": [
+            "The act of throwing cold water into a condenser to produce a vacuum.",
+            "The cold water thrown into a condenser."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

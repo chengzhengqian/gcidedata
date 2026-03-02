@@ -1,0 +1,86 @@
+{
+  "key": "inscribe",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Inscribe",
+      "headword_raw": "In*scribe\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. inscribere. See 1st In-, and Scribe.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Inscribed (?); p. pr. & vb. n. Inscribing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To write or engrave; to mark down as something to be read; to imprint."
+          ],
+          "quotes": [
+            "Inscribe a verse on this relenting stone."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To mark with letters, characters, or words."
+          ],
+          "quotes": [
+            "O let thy once lov'd friend inscribe thy stone."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To assign or address to; to commend to by a short address; to dedicate informally; as, to inscribe an ode to a friend."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "To imprint deeply; to impress; to stamp; as, to inscribe a sentence on the memory."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Geom.)"
+          ],
+          "defs": [
+            "To draw within so as to meet yet not cut the boundaries."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ A line is inscribed in a circle, or in a sphere, when its two ends are in the circumference of the circle, or in the surface of the sphere. A triangle is inscribed in another triangle, when the three angles of the former are severally on the three sides of the latter. A circle is inscribed in a polygon, when it touches each side of the polygon. A sphere is inscribed in a polyhedron, when the sphere touches each boundary plane of the polyhedron. The latter figure in each case is circumscribed about the former."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

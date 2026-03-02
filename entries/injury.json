@@ -1,0 +1,53 @@
+{
+  "key": "injury",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Injury",
+      "headword_raw": "In\"ju*ry",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[OE. injurie, L. injuria, fr. injurius injurious, wrongful, unjust; pref. in- not + jus, juris, right, law, justice: cf. F. injure. See Just, a.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "Harm",
+        "hurt",
+        "damage",
+        "loss",
+        "impairment",
+        "detriment",
+        "wrong",
+        "evil",
+        "injustice"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Any damage or hurt done to a person or thing; detriment to, or violation of, the person, character, feelings, rights, property, or interests of an individual; that which injures, or occasions wrong, loss, damage, or detriment; harm; hurt; loss; mischief; wrong; evil; as, his health was impaired by a severe injury; slander is an injury to the character."
+          ],
+          "quotes": [
+            "For he that doeth injury shall receive that that he did evil.",
+            "Many times we do injury to a cause by dwelling on trifling arguments.",
+            "Riot ascends above their loftiest towers, And injury and outrage."
+          ],
+          "notes": [
+            "☞ Injury in morals and jurisprudence is the intentional doing of wrong."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

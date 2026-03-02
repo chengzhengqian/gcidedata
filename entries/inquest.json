@@ -1,0 +1,52 @@
+{
+  "key": "inquest",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Inquest",
+      "headword_raw": "In\"quest",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. enqueste, OF. enqueste, F. enqute, LL. inquesta, for inquisita, fr. L. inquisitus, p. p. of inquirere. See Inquire.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Inquiry; quest; search."
+          ],
+          "quotes": [
+            "The laborious and vexatious inquest that the soul must make after science."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "Judicial inquiry; official examination, esp. before a jury; as, a coroner's inquest in case of a sudden death.",
+            "A body of men assembled under authority of law to inquire into any matter, civil or criminal, particularly any case of violent or sudden death; a jury, particularly a coroner's jury. The grand jury is sometimes called the grand inquest. See under Grand.",
+            "The finding of the jury upon such inquiry."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "key": "insensate",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Insensate",
+      "headword_raw": "In*sen\"sate",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. insensatus. See In- not, and Sensate.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Insensately",
+          "form_raw": "In*sen\"sate*ly",
+          "key": "insensately",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Insensateness",
+          "form_raw": "In*sen\"sate*ness",
+          "key": "insensateness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Wanting sensibility; destitute of sense; stupid; foolish."
+          ],
+          "quotes": [
+            "The silence and the calm Of mute, insensate things.",
+            "The meddling folly or insensate ambition of statesmen."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "key": "innocuous",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Innocuous",
+      "headword_raw": "In*noc\"u*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. innocuus; in- not + nocuus hurtful, fr. nocere to hurt. See Innocent.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Innocuously",
+          "form_raw": "In*noc\"u*ous*ly",
+          "key": "innocuously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Innocuousness",
+          "form_raw": "In*noc\"u*ous*ness",
+          "key": "innocuousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Harmless; producing no ill effect."
+          ],
+          "quotes": [
+            "A patient, innocuous, innocent man.",
+            "Where the salt sea innocuously breaks."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

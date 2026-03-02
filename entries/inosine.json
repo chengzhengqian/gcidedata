@@ -1,0 +1,38 @@
+{
+  "key": "inosine",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "inosine",
+      "headword_raw": "in\"o*sine",
+      "pr": "(n\"*sn)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A ribonucleoside (C10H12N4O5) found in meat and meat extracts, differing from adenosine in having a hydroxyl rather than an amine attached to the purine ring. It may be prepared from adenosine by the enzyme adenosine deaminase, or by chemical deamination, as with nitrous acid. It participates in some cellular functions, but is not one of the normal nucleoside components of RNA."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "key": "inhospitable",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Inhospitable",
+      "headword_raw": "In*hos\"pi*ta*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[Pref. in- not + hospitable: cf. L. inhospitalis.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Inhospitableness",
+          "form_raw": "In*hos\"pi*ta*ble*ness",
+          "key": "inhospitableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Inhospitably",
+          "form_raw": "In*hos\"pi*ta*bly",
+          "key": "inhospitably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Not hospitable; not disposed to show hospitality to strangers or guests; as, an inhospitable person or people."
+          ],
+          "quotes": [
+            "Have you no touch of pity, that the poor Stand starved at your inhospitable door?"
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Affording no shelter or sustenance; barren; desert; bleak; cheerless; wild."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

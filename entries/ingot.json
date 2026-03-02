@@ -1,0 +1,50 @@
+{
+  "key": "ingot",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Ingot",
+      "headword_raw": "In\"got",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Prob. from AS. in in + getan to pour: cf. F. linglot, LL. lingotus a mass of gold or silver, extended in the manner of a tongue, and G. einguss, LG. & OE. ingot ingot, a mold for casting metals in. See Found to cast, and cf. Linget, Lingot, Nugget.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "That in which metal is cast; a mold."
+          ],
+          "quotes": [
+            "And from the fire he took up his matter And in the ingot put it with merry cheer."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A bar or wedge of steel, gold, or other malleable metal, cast in a mold; a mass of unwrought cast metal."
+          ],
+          "quotes": [
+            "Wrought ingots from Besoara's mine."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

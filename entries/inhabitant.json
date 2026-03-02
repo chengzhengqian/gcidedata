@@ -1,0 +1,50 @@
+{
+  "key": "inhabitant",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Inhabitant",
+      "headword_raw": "In*hab\"it*ant",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. inhabitans, -antis, p. pr. of inhabitare.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One who dwells or resides permanently in a place, as distinguished from a transient lodger or visitor; as, an inhabitant of a house, a town, a city, county, or state."
+          ],
+          "quotes": [
+            "In this place, they report that they saw inhabitants which were very fair and fat people."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "One who has a legal settlement in a town, city, or parish; a permanent resident."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

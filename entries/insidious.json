@@ -1,0 +1,93 @@
+{
+  "key": "insidious",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Insidious",
+      "headword_raw": "In*sid\"i*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. insidiosus, fr. insidiae an ambush, fr. insidere to sit in; pref. in- + sedere to sit: cf. F. insidieux. See Sit.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Insidiously",
+          "form_raw": "In*sid\"i*ous*ly",
+          "key": "insidiously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Insidiousness",
+          "form_raw": "In*sid\"i*ous*ness",
+          "key": "insidiousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Lying in wait; watching an opportunity to insnare or entrap; deceitful; sly; treacherous; -- said of persons; as, the insidious foe."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Intended to entrap; characterized by treachery and deceit; as, insidious arts."
+          ],
+          "quotes": [
+            "The insidious whisper of the bad angel."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "Acting or proceeding unobserved or in a seemingly harmless manner, but slowly or eventually doing great damage; as, an insidious disease; an insidious plot."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Crafty",
+            "wily",
+            "artful",
+            "sly",
+            "designing",
+            "guileful",
+            "circumventive",
+            "treacherous",
+            "deceitful",
+            "deceptive"
+          ]
+        }
+      ]
+    }
+  ]
+}

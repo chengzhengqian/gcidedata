@@ -1,0 +1,60 @@
+{
+  "key": "inquiry",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Inquiry",
+      "headword_raw": "In*quir\"y",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[See Inquire.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of inquiring; a seeking for information by asking questions; interrogation; a question or questioning."
+          ],
+          "quotes": [
+            "He could no path nor track of foot descry, Nor by inquiry learn, nor guess by aim.",
+            "The men which were sent from Cornelius had made inquiry for Simon's house, and stood before the gate."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Search for truth, information, or knowledge; examination into facts or principles; research; investigation; as, physical inquiries."
+          ],
+          "quotes": [
+            "All that is wanting to the perfection of this art will undoubtedly be found, if able men . . . will make inquiry into it."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Interrogation",
+            "interrogatory",
+            "question",
+            "query",
+            "scrutiny",
+            "investigation",
+            "research",
+            "examination"
+          ]
+        }
+      ]
+    }
+  ]
+}

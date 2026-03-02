@@ -1,0 +1,51 @@
+{
+  "key": "inorganic",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Inorganic",
+      "headword_raw": "In`or*gan\"ic",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Pref. in- not + organic: cf. F. inorganique.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Not organic; without the organs necessary for life; devoid of an organized structure; unorganized; lifeness; inanimate."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "Of or pertaining to compounds that are not derivatives of hydrocarbons; not organic{5}."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The term inorganic is used to denote any one the large series of substances (as minerals, metals, etc.), which are not directly connected with vital processes, either in origin or nature, and which are broadly and relatively contrasted with organic substances. See Organic{5}."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "key": "inordinate",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Inordinate",
+      "headword_raw": "In*or\"di*nate",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. inordinatus disordered. See In- not, and Ordinate.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Inordinately",
+          "form_raw": "In*or\"di*nate*ly",
+          "key": "inordinately",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Inordinateness",
+          "form_raw": "In*or\"di*nate*ness",
+          "key": "inordinateness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not limited to rules prescribed, or to usual bounds; irregular; excessive; immoderate; as, an inordinate love of the world."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

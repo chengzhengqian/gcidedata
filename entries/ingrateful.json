@@ -1,0 +1,71 @@
+{
+  "key": "ingrateful",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Ingrateful",
+      "headword_raw": "In\"grate`ful",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. ingratus ingrateful (pref. in- not + gratus beloved, dear, grateful) + -ful: cf. F. ingrat. See Grateful.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Ingratefully",
+          "form_raw": "In\"grate`ful*ly",
+          "key": "ingratefully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Ingratefulness",
+          "form_raw": "In\"grate`ful*ness",
+          "key": "ingratefulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Ungrateful; thankless; unappreciative."
+          ],
+          "quotes": [
+            "He proved extremely false and ingrateful to me."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Unpleasing to the sense; distasteful; offensive."
+          ],
+          "quotes": [
+            "He gives . . . no ingrateful food."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

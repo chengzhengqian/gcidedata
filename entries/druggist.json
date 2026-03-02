@@ -1,0 +1,52 @@
+{
+  "key": "druggist",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "druggist",
+      "headword_raw": "drug\"gist",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. droguiste, fr. drogue. See 3d Drug.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One who deals in drugs; especially, one who buys and sells drugs without compounding them; one who owns or operates a drugstore."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "one who compounds drugs or distributes drugs into containers for distribution to customers; a pharmacist or apothecary."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The same person often serves as both pharmacist and retail seller of drugs. See the Note under Apothecary."
+          ],
+          "synonyms": [
+            "dispensing chemist"
+          ]
+        }
+      ]
+    }
+  ]
+}

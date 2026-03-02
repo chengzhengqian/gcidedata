@@ -1,0 +1,69 @@
+{
+  "key": "dressed",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "dressed",
+      "headword_raw": "dressed",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "same as attired."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "appareled",
+            "attired",
+            "clad",
+            "garbed",
+            "garmented",
+            "habilimented",
+            "robed"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "covered with medication or a bandage ; -- of wounds."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "bandaged"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "trim and smooth; -- of lumber or stone."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "polished"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,475 @@
+{
+  "key": "draw",
+  "source_file": "CIDE.D",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "draw",
+      "headword_raw": "draw",
+      "pr": "(dr)",
+      "pos": [
+        "v. t.",
+        "imp.",
+        "p. p.",
+        "p. pr. & vb. n.",
+        "n."
+      ],
+      "ety": "[OE. draen, drahen, draien, drawen, AS. dragan; akin to Icel. & Sw. draga, Dan. drage to draw, carry, and prob. to OS. dragan to bear, carry, D. dragen, G. tragen, Goth. dragan; cf. Skr. dhraj to move along, glide; and perh. akin to Skr. dhar to hold, bear. √73. Cf. 2d Drag, Dray a cart, 1st Dredge.]",
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl.",
+        "+PJC"
+      ],
+      "morph": "[imp. Drew (dr); p. p. Drawn (drn); p. pr. & vb. n. Drawing.]",
+      "usage": [
+        "Draw differs from drag in this, that drag implies a natural inaptitude for drawing, or positive resistance; it is applied to things pulled or hauled along the ground, or moved with toil or difficulty. Draw is applied to all bodies moved by force in advance, whatever may be the degree of force; it commonly implies that some kind of aptitude or provision exists for drawing. Draw is the more general or generic term, and drag the more specific. We say, the horses draw a coach or wagon, but they drag it through mire; yet draw is properly used in both cases."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To cause to move continuously by force applied in advance of the thing moved; to pull along; to haul; to drag; to cause to follow."
+          ],
+          "quotes": [
+            "He cast him down to ground, and all along Drew him through dirt and mire without remorse.",
+            "He hastened to draw the stranger into a private room.",
+            "Do not rich men oppress you, and draw you before the judgment seats?",
+            "The arrow is now drawn to the head."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To influence to move or tend toward one's self; to exercise an attracting force upon; to call towards itself; to attract; hence, to entice; to allure; to induce."
+          ],
+          "quotes": [
+            "The poet Did feign that Orpheus drew trees, stones, and floods.",
+            "All eyes you draw, and with the eyes the heart."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To cause to come out for one's use or benefit; to extract; to educe; to bring forth; as: (a) To bring or take out, or to let out, from some receptacle, as a stick or post from a hole, water from a cask or well, etc.",
+            "To pull from a sheath, as a sword.",
+            "To extract; to force out; to elicit; to derive.",
+            "To obtain from some cause or origin; to infer from evidence or reasons; to deduce from premises; to derive.",
+            "To take or procure from a place of deposit; to call for and receive from a fund, or the like; as, to draw money from a bank.",
+            "To take from a box or wheel, as a lottery ticket; to receive from a lottery by the drawing out of the numbers for prizes or blanks; hence, to obtain by good fortune; to win; to gain; as, he drew a prize.",
+            "To select by the drawing of lots."
+          ],
+          "quotes": [
+            "The drew out the staves of the ark.",
+            "Draw thee waters for the siege.",
+            "I opened the tumor by the point of a lancet without drawing one drop of blood.",
+            "I will draw my sword, my hand shall destroy them.",
+            "Spirits, by distillations, may be drawn out of vegetable juices, which shall flame and fume of themselves.",
+            "Until you had drawn oaths from him.",
+            "We do not draw the moral lessons we might from history.",
+            "Provided magistracies were filled by men freely chosen or drawn."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "To remove the contents of",
+            "To drain by emptying; to suck dry.",
+            "To extract the bowels of; to eviscerate; as, to draw a fowl; to hang, draw, and quarter a criminal."
+          ],
+          "quotes": [
+            "Sucking and drawing the breast dischargeth the milk as fast as it can generated.",
+            "In private draw your poultry, clean your tripe."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "To take into the lungs; to inhale; to inspire; hence, also, to utter or produce by an inhalation; to heave."
+          ],
+          "quotes": [
+            "Drew, or seemed to draw, a dying groan."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [],
+          "defs": [
+            "To extend in length; to lengthen; to protract; to stretch; to extend, as a mass of metal into wire."
+          ],
+          "quotes": [
+            "How long her face is drawn!",
+            "And the huge Offa's dike which he drew from the mouth of Wye to that of Dee."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "7.",
+          "fields": [],
+          "defs": [
+            "To run, extend, or produce, as a line on any surface; hence, also, to form by marking; to make by an instrument of delineation; to produce, as a sketch, figure, or picture."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "8.",
+          "fields": [],
+          "defs": [
+            "To represent by lines drawn; to form a sketch or a picture of; to represent by a picture; to delineate; hence, to represent by words; to depict; to describe."
+          ],
+          "quotes": [
+            "A flattering painter who made it his care To draw men as they ought to be, not as they are.",
+            "Can I, untouched, the fair one's passions move, Or thou draw beauty and not feel its power?"
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "9.",
+          "fields": [],
+          "defs": [
+            "To write in due form; to prepare a draught of; as, to draw a memorial, a deed, or bill of exchange."
+          ],
+          "quotes": [
+            "Clerk, draw a deed of gift."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "10.",
+          "fields": [],
+          "defs": [
+            "To require (so great a depth, as of water) for floating; -- said of a vessel; to sink so deep in (water); as, a ship draws ten feet of water."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "11.",
+          "fields": [],
+          "defs": [
+            "To withdraw."
+          ],
+          "quotes": [
+            "Go wash thy face, and draw the action."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "12.",
+          "fields": [],
+          "defs": [
+            "To trace by scent; to track; -- a hunting term."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "13.",
+          "fields": [
+            "(Games)",
+            "(Cricket)",
+            "(Golf)",
+            "(Billiards)",
+            "(Curling)"
+          ],
+          "defs": [
+            "To play (a short-length ball directed at the leg stump) with an inclined bat so as to deflect the ball between the legs and the wicket.",
+            "To hit (the ball) with the toe of the club so that it is deflected toward the left.",
+            "To strike (the cue ball) below the center so as to give it a backward rotation which causes it to take a backward direction on striking another ball.",
+            "To throw up (the stone) gently."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "14.",
+          "fields": [],
+          "defs": [
+            "To leave (a contest) undecided; as, the battle or game was drawn."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Draw, in most of its uses, retains some shade of its original sense, to pull, to move forward by the application of force in advance, or to extend in length, and usually expresses an action as gradual or continuous, and leisurely. We pour liquid quickly, but we draw it in a continued stream. We force compliance by threats, but we draw it by gradual prevalence. We may write a letter with haste, but we draw a bill with slow caution and regard to a precise form. We draw a bar of metal by continued beating."
+          ],
+          "synonyms": [
+            "Draw",
+            "Drag"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Draw",
+      "headword_raw": "Draw",
+      "pr": "(?)",
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To pull; to exert strength in drawing anything; to have force to move anything by pulling; as, a horse draws well; the sails of a ship draw well."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ A sail is said to draw when it is filled with wind."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To draw a liquid from some receptacle, as water from a well."
+          ],
+          "quotes": [
+            "The woman saith unto him, Sir, thou hast nothing to draw with, and the well is deep."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To exert an attractive force; to act as an inducement or enticement."
+          ],
+          "quotes": [
+            "Keep a watch upon the particular bias of their minds, that it may not draw too much."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "To have efficiency as an epispastic; to act as a sinapism; -- said of a blister, poultice, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "To have draught, as a chimney, flue, or the like; to furnish transmission to smoke, gases, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [],
+          "defs": [
+            "To unsheathe a weapon, especially a sword."
+          ],
+          "quotes": [
+            "So soon as ever thou seest him, draw; and as thou drawest, swear horrible."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "7.",
+          "fields": [],
+          "defs": [
+            "To perform the act, or practice the art, of delineation; to sketch; to form figures or pictures."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "8.",
+          "fields": [],
+          "defs": [
+            "To become contracted; to shrink."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "9.",
+          "fields": [],
+          "defs": [
+            "To move; to come or go; literally, to draw one's self; -- with prepositions and adverbs; as, to draw away, to move off, esp. in racing, to get in front; to obtain the lead or increase it; to draw back, to retreat; to draw level, to move up even (with another); to come up to or overtake another; to draw off, to retire or retreat; to draw on, to advance; to draw up, to form in array; to draw near, draw nigh, or draw towards, to approach; to draw together, to come together, to collect."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "10.",
+          "fields": [],
+          "defs": [
+            "To make a draft or written demand for payment of money deposited or due; -- usually with on or upon."
+          ],
+          "quotes": [
+            "You may draw on me for the expenses of your journey."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "11.",
+          "fields": [],
+          "defs": [
+            "To admit the action of pulling or dragging; to undergo draught; as, a carriage draws easily."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "12.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "To sink in water; to require a depth for floating."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Draw",
+      "headword_raw": "Draw",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "PJC",
+        "+PJC",
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of drawing; draught."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A lot or chance to be drawn."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "the act of drawing a lot or chance."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A drawn game or battle, etc; a tied game; a tie."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "That part of a bridge which may be raised, swung round, or drawn aside; the movable part of a drawbridge. See the Note under Drawbridge."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "The result of drawing, or state of being drawn;",
+            "A drawn battle, game, or the like.",
+            "The spin or twist imparted to a ball, or the like, by a drawing stroke."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [],
+          "defs": [
+            "That which is drawn or is subject to drawing."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

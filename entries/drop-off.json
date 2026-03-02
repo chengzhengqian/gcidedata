@@ -1,0 +1,65 @@
+{
+  "key": "drop-off",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "drop-off",
+      "headword_raw": "drop-off",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a noticeable decline in performance; as, a drop-off in attendance."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "slump",
+            "falloff",
+            "falling off"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a steep high face of rock."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "cliff"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "a change downward; as, there was a sharp drop-off in sales."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "decrease",
+            "lessening"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "key": "hearken",
+  "source_file": "CIDE.H",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Hearken",
+      "headword_raw": "Heark\"en",
+      "pr": "(härk\"'n)",
+      "pos": [
+        "v. i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OE. hercnen, hercnien, AS. hercnian, heorcnian, fr. hiran, hran, to hear; akin to OD. harcken, horcken, LG. harken, horken, G. horchen. See Hear, and cf. Hark.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Hearkened (-'nd); p. pr. & vb. n. Hearkening.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To listen; to lend the ear; to attend to what is uttered; to give heed; to hear, in order to obey or comply."
+          ],
+          "quotes": [
+            "The Furies hearken, and their snakes uncurl.",
+            "Hearken, O Israel, unto the statutes and unto the judgments, which I teach you."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To inquire; to seek information."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "attend",
+            "listen",
+            "hear",
+            "heed. See Attend",
+            "v. i"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Hearken",
+      "headword_raw": "Heark\"en",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To hear by listening."
+          ],
+          "quotes": [
+            "[She] hearkened now and then Some little whispering and soft groaning sound."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To give heed to; to hear attentively."
+          ],
+          "quotes": [
+            "The King of Naples . . . hearkens my brother's suit.",
+            "If you find none, you must hearken out a vein and buy."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

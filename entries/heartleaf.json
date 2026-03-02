@@ -1,0 +1,54 @@
+{
+  "key": "heartleaf",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "heartleaf",
+      "headword_raw": "heartleaf",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Bot.)"
+      ],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "wild ginger (Asarum shuttleworthii) having persistent heart-shaped pungent leaves, growing from Western Virginia to Alabama."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Asarum shuttleworthii"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Bot.)"
+          ],
+          "defs": [
+            "An evergreen low-growing perennial (Asarum virginicum) having mottled green and silvery-gray heart-shaped pungent leaves, growing from Virginia to South Carolina."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Asarum virginicum"
+          ]
+        }
+      ]
+    }
+  ]
+}

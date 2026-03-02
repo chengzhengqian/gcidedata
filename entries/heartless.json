@@ -1,0 +1,82 @@
+{
+  "key": "heartless",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Heartless",
+      "headword_raw": "Heart\"less",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Heartlessly",
+          "form_raw": "Heart\"less*ly",
+          "key": "heartlessly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Heartlessness",
+          "form_raw": "Heart\"less*ness",
+          "key": "heartlessness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Without a heart."
+          ],
+          "quotes": [
+            "You have left me heartless; mine is in your bosom."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Destitute of courage; spiritless; despondent."
+          ],
+          "quotes": [
+            "Heartless they fought, and quitted soon their ground.",
+            "Heartless and melancholy."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Destitute of feeling or affection; unsympathetic; cruel."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

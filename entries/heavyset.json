@@ -1,0 +1,56 @@
+{
+  "key": "heavyset",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "heavyset",
+      "headword_raw": "heavyset",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "obese."
+          ],
+          "quotes": [],
+          "notes": [
+            "usually men are portly and women are stout"
+          ],
+          "synonyms": [
+            "portly",
+            "stout"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "heavy and compact in form or build or stature."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "compact",
+            "stocky",
+            "thick",
+            "thickset"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "key": "hazardous",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Hazardous",
+      "headword_raw": "Haz\"ard*ous",
+      "pr": "(-s)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Cf. F. hasardeux.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Hazardously",
+          "form_raw": "Haz\"ard*ous*ly",
+          "key": "hazardously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Hazardousness",
+          "form_raw": "Haz\"ard*ous*ness",
+          "key": "hazardousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Perilous",
+        "dangerous",
+        "bold",
+        "daring",
+        "adventurous",
+        "venturesome",
+        "precarious",
+        "uncertain"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Exposed to hazard; dangerous; risky."
+          ],
+          "quotes": [
+            "To enterprise so hazardous and high!"
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

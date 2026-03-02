@@ -1,0 +1,80 @@
+{
+  "key": "hateful",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Hateful",
+      "headword_raw": "Hate\"ful",
+      "pr": "(-fl)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Hatefully",
+          "form_raw": "Hate\"ful*ly",
+          "key": "hatefully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Hatefulness",
+          "form_raw": "Hate\"ful*ness",
+          "key": "hatefulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Manifesting hate or hatred; malignant; malevolent."
+          ],
+          "quotes": [
+            "And worse than death, to view with hateful eyes His rival's conquest."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Exciting or deserving great dislike, aversion, or disgust; odious."
+          ],
+          "quotes": [
+            "Unhappy, wretched, hateful day!"
+          ],
+          "notes": [],
+          "synonyms": [
+            "Odious",
+            "detestable",
+            "abominable",
+            "execrable",
+            "loathsome",
+            "abhorrent",
+            "repugnant",
+            "malevolent"
+          ]
+        }
+      ]
+    }
+  ]
+}

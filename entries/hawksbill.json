@@ -1,0 +1,77 @@
+{
+  "key": "hawksbill",
+  "source_file": "CIDE.H",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "hawksbill",
+      "headword_raw": "hawks\"bill`",
+      "pr": "(-bl`)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "hawksbill turtle",
+        "hawkbill",
+        "tortoiseshell turtle",
+        "Eretmochelys imbricata"
+      ],
+      "entry_fields": [
+        "(Zool.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A sea turtle (Eretmochelys imbricata), which yields the best quality of tortoise shell; -- called also caret."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "hawksbill",
+      "headword_raw": "hawks\"bill",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "hawksbill turtle",
+        "hawkbill",
+        "tortoiseshell turtle",
+        "Eretmochelys imbricata"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "See hawkbill."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

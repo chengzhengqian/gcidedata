@@ -1,0 +1,56 @@
+{
+  "key": "heated",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "heated",
+      "headword_raw": "heated",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "characterized by great warmth and intensity of feeling; as, a heated argument. Opposite of dispassionate, passionless."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "ardent",
+            "fervent",
+            "fervid",
+            "fiery",
+            "hot",
+            "impassioned",
+            "perfervid",
+            "torrid"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "supplied with a mechanism for heating; -- of structures or devices; as, a heated fishing cabin. Opposite of unheated."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

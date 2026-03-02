@@ -1,0 +1,92 @@
+{
+  "key": "ecliptic",
+  "source_file": "CIDE.E",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "ecliptic",
+      "headword_raw": "e*clip\"tic",
+      "pr": "(*klp\"tk)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Cf. F. cliptique, L. linea ecliptica, Gr. 'ekleiptiko`s, prop. adj., of an eclipse, because in this circle eclipses of the sun and moon take place. See Ecliptic, a.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Astron.)"
+          ],
+          "defs": [
+            "A great circle of the celestial sphere, making an angle with the equinoctial of about 23° 28. It is the apparent path of the sun, or the real path of the earth as seen from the sun."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Geog.)"
+          ],
+          "defs": [
+            "A great circle drawn on a terrestrial globe, making an angle of 23° 28 with the equator; -- used for illustrating and solving astronomical problems."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Ecliptic",
+      "headword_raw": "E*clip\"tic",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. eclipticus belonging to an eclipse, Gr. 'ekleiptiko`s. See Eclipse.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Pertaining to the ecliptic; as, the ecliptic way."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Astron.)"
+          ],
+          "defs": [
+            "Pertaining to an eclipse or to eclipses."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

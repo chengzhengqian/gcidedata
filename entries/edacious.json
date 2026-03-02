@@ -1,0 +1,59 @@
+{
+  "key": "edacious",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Edacious",
+      "headword_raw": "E*da\"cious",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. edax, edacis, fr. edere to eat.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Edaciously",
+          "form_raw": "E*da\"cious*ly",
+          "key": "edaciously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Edaciousness",
+          "form_raw": "E*da\"cious*ness",
+          "key": "edaciousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Given to eating; voracious; devouring."
+          ],
+          "quotes": [
+            "Swallowed in the depths of edacious Time."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

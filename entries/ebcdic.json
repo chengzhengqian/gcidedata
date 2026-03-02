@@ -1,0 +1,38 @@
+{
+  "key": "ebcdic",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "EBCDIC",
+      "headword_raw": "EBCDIC",
+      "pr": "(b\"s*dk`)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[acronym from Extended Binary Coded Decimal Interchange Code.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Computers)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a 8-bit code for representing alphanumerical information in a digital information storage medium. It was used especially on IBM mainframes, and differed substantially from the ASCII code."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

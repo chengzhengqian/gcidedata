@@ -1,0 +1,163 @@
+{
+  "key": "echo",
+  "source_file": "CIDE.E",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Echo",
+      "headword_raw": "Ech\"o",
+      "pr": "(k\")",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. echo, Gr. 'hchw` echo, sound, akin to 'hchh`, 'h^chos, sound, noise; cf. Skr. vāç to sound, bellow; perh. akin to E. voice: cf. F. cho.]",
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A sound reflected from an opposing surface and repeated to the ear of a listener; repercussion of sound; repetition of a sound."
+          ],
+          "quotes": [
+            "The babbling echo mocks the hounds.",
+            "The woods shall answer, and the echo ring."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Fig.: Sympathetic recognition; response; answer."
+          ],
+          "quotes": [
+            "Fame is the echo of actions, resounding them.",
+            "Many kind, and sincere speeches found an echo in his heart."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Myth. & Poetic)",
+            "(Gr. Myth.)"
+          ],
+          "defs": [
+            "A wood or mountain nymph, regarded as repeating, and causing the reverberation of them.",
+            "A nymph, the daughter of Air and Earth, who, for love of Narcissus, pined away until nothing was left of her but her voice."
+          ],
+          "quotes": [
+            "Sweet Echo, sweetest nymph, that liv'st unseen Within thy airy shell.",
+            "Compelled me to awake the courteous Echo To give me answer from her mossy couch."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Whist, Contract Bridge)",
+            "(Mus.)",
+            "(Mus.)"
+          ],
+          "defs": [
+            "A signal, played in the same manner as a trump signal, made by a player who holds four or more trumps (or as played by some exactly three trumps) and whose partner has led trumps or signaled for trumps.",
+            "A signal showing the number held of a plain suit when a high card in that suit is led by one's partner."
+          ],
+          "quotes": [
+            "I would applaud thee to the very echo, That should applaud again."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Echo",
+      "headword_raw": "Ech\"o",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "3d pers. sing. pres."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Echoed (?); p. pr. & vb. n. Echoing. -- 3d pers. sing. pres. Echoes (<?/).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To send back (a sound); to repeat in sound; to reverberate."
+          ],
+          "quotes": [
+            "Those peals are echoed by the Trojan throng.",
+            "The wondrous sound Is echoed on forever."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To repeat with assent; to respond; to adopt."
+          ],
+          "quotes": [
+            "They would have echoed the praises of the men whom they envied, and then have sent to the newspaper anonymous libels upon them."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Echo",
+      "headword_raw": "Ech\"o",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To give an echo; to resound; to be sounded back; as, the hall echoed with acclamations."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "key": "eccentric",
+  "source_file": "CIDE.E",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Eccentric",
+      "headword_raw": "Ec*cen\"tric",
+      "pr": "(k*sn\"trk)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[F. excentrique, formerly also spelled eccentrique, fr. LL. eccentros out of the center, eccentric, Gr. 'e`kkentros; 'ek out of + ke`ntron center. See Ex-, and Center, and cf. Excentral.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Deviating or departing from the center, or from the line of a circle; as, an eccentric or elliptical orbit; pertaining to deviation from the center or from true circular motion."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Not having the same center; -- said of circles, ellipses, spheres, etc., which, though coinciding, either in whole or in part, as to area or volume, have not the same center; -- opposed to concentric."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Mach.)"
+          ],
+          "defs": [
+            "Pertaining to an eccentric; as, the eccentric rod in a steam engine."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Not coincident as to motive or end."
+          ],
+          "quotes": [
+            "His own ends, which must needs be often eccentric to those of his master."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Astron.)",
+            "(Mach.)",
+            "(Mach.)"
+          ],
+          "defs": [
+            "Deviating from stated methods, usual practice, or established forms or laws; deviating from an appointed sphere or way; departing from the usual course; irregular; anomalous; odd; as, eccentric conduct."
+          ],
+          "quotes": [
+            "He shines eccentric, like a comet's blaze."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Irregular",
+            "anomalous",
+            "singular",
+            "odd",
+            "peculiar",
+            "erratic",
+            "idiosyncratic",
+            "strange",
+            "whimsical"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Eccentric",
+      "headword_raw": "Ec*cen\"tric",
+      "pr": "(k*sn\"trk)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A circle not having the same center as another contained in some measure within the first."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "One who, or that which, deviates from regularity; an anomalous or irregular person or thing."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Astron.)"
+          ],
+          "defs": [
+            "In the Ptolemaic system, the supposed circular orbit of a planet about the earth, but with the earth not in its center.",
+            "A circle described about the center of an elliptical orbit, with half the major axis for radius."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Mach.)"
+          ],
+          "defs": [
+            "A disk or wheel so arranged upon a shaft that the center of the wheel and that of the shaft do not coincide. It is used for operating valves in steam engines, and for other purposes. The motion derived is precisely that of a crank having the same throw."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

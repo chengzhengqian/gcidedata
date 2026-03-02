@@ -1,0 +1,52 @@
+{
+  "key": "edulcorate",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Edulcorate",
+      "headword_raw": "E*dul\"co*rate",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. e out + dulcoratus, p. p. of dulcorare to sweeten, fr. dulcor sweetness, fr. dulcis sweet: cf. F. dulcorer.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Edulcorated (?); p. pr. & vb. n. Edulcorating.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To render sweet; to sweeten; to free from acidity."
+          ],
+          "quotes": [
+            "Succory . . . edulcorated with sugar and vinegar."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "To free from acids, salts, or other soluble substances, by washing; to purify."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "key": "egg-plant",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "egg-plant",
+      "headword_raw": "egg-plant",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Bot.)"
+          ],
+          "defs": [
+            "A plant (Solanum Melongena), of East Indian origin, allied to the tomato, and bearing a large, glossy, edible fruit, shaped somewhat like an egg; mad-apple. It is widely cultivated for its fruit, commonly eaten as a vegetable."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "eggplant",
+            "aubergine",
+            "brinjal",
+            "eggplant bush",
+            "garden egg",
+            "mad apple",
+            "Solanum melongena"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The fruit of the eggplant{1}."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

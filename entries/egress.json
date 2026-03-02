@@ -1,0 +1,80 @@
+{
+  "key": "egress",
+  "source_file": "CIDE.E",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Egress",
+      "headword_raw": "E\"gress",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. egressus, fr. egredi to go out; e out + gradi to go. See Grade.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of going out or leaving, or the power to leave; departure."
+          ],
+          "quotes": [
+            "Embarred from all egress and regress.",
+            "Gates of burning adamant, Barred over us, prohibit all egress."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Astron.)"
+          ],
+          "defs": [
+            "The passing off from the sun's disk of an inferior planet, in a transit."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Egress",
+      "headword_raw": "E*gress\"",
+      "pr": "(?)",
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To go out; to depart; to leave."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

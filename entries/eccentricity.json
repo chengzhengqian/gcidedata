@@ -1,0 +1,72 @@
+{
+  "key": "eccentricity",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Eccentricity",
+      "headword_raw": "Ec`cen*tric\"i*ty",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. excentricit.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The state of being eccentric; deviation from the customary line of conduct; oddity."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "The ratio of the distance between the center and the focus of an ellipse or hyperbola to its semi-transverse axis."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Astron.)"
+          ],
+          "defs": [
+            "The ratio of the distance of the center of the orbit of a heavenly body from the center of the body round which it revolves to the semi-transverse axis of the orbit."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Mech.)"
+          ],
+          "defs": [
+            "The distance of the center of figure of a body, as of an eccentric, from an axis about which it turns; the throw."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

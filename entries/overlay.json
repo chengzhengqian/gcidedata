@@ -1,0 +1,133 @@
+{
+  "key": "overlay",
+  "source_file": "CIDE.O",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Overlay",
+      "headword_raw": "O`ver*lay\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": "[imp. & p. p. Overlaid (?); p. pr. & vb. n. Overlaying.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To lay, or spread, something over or across; hence, to cover; to overwhelm; to press excessively upon."
+          ],
+          "quotes": [
+            "When any country is overlaid by the multitude which live upon it.",
+            "As when a cloud his beams doth overlay.",
+            "Framed of cedar overlaid with gold.",
+            "And overlay With this portentous bridge the dark abyss."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To cover (an object made of an inexpensive metal, glass, or other material) with a thin sheet of an expensive metal, especially with silver or gold. Distinguished from to plate, which is done by a chemical or electrical deposition process."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To smother with a close covering, or by lying upon."
+          ],
+          "quotes": [
+            "This woman's child died in the night; because she overlaid it.",
+            "A heap of ashes that o'erlays your fire."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Printing)"
+          ],
+          "defs": [
+            "To put an overlay on."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Overlay",
+      "headword_raw": "O\"ver*lay`",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A covering."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Printing)"
+          ],
+          "defs": [
+            "A piece of paper pasted upon the tympan sheet to improve the impression by making it stronger at a particular place."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "A subroutine which occupies a portion of main memory which is occupied at some other time by another subroutine during execution of the same program. Overlays were used as an older technique to allow larger programs to be executed in restricted main memory space; the same effect is now accomplished by different techniques."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "key": "oversell",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Oversell",
+      "headword_raw": "O`ver*sell`",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Oversold (?); p. pr. & vb. n. Overselling. ]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To sell for a higher price than; to exceed in selling price."
+          ],
+          "quotes": [
+            "One whose beauty Would oversell all Italy."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Brokers' Cant)"
+          ],
+          "defs": [
+            "To sell beyond means of delivery."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

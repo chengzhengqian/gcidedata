@@ -1,0 +1,84 @@
+{
+  "key": "scalene",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Scalene",
+      "headword_raw": "Sca*lene\"",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. scalenus, Gr. <?/: cf. F. scalne.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Geom.)"
+          ],
+          "defs": [
+            "Having the sides and angles unequal; -- said of a triangle.",
+            "Having the axis inclined to the base, as a cone."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Anat.)",
+            "(Anat.)"
+          ],
+          "defs": [
+            "Designating several triangular muscles called scalene muscles.",
+            "Of or pertaining to the scalene muscles."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Scalene",
+      "headword_raw": "Sca*lene\"",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Geom.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A triangle having its sides and angles unequal."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "key": "scatter",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Scatter",
+      "headword_raw": "Scat\"ter",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OE. scateren. See Shatter.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Scattered (?); p. pr. & vb. n. Scattering.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To strew about; to sprinkle around; to throw down loosely; to deposit or place here and there, esp. in an open or sparse order."
+          ],
+          "quotes": [
+            "And some are scattered all the floor about.",
+            "Why should my muse enlarge on Libyan swains, Their scattered cottages, and ample plains?",
+            "Teach the glad hours to scatter, as they fly, Soft quiet, gentle love, and endless joy."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To cause to separate in different directions; to reduce from a close or compact to a loose or broken order; to dissipate; to disperse."
+          ],
+          "quotes": [
+            "Scatter and disperse the giddy Goths."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Hence, to frustrate, disappoint, and overthrow; as, to scatter hopes, plans, or the like."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "disperse",
+            "dissipate",
+            "spread",
+            "strew"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Scatter",
+      "headword_raw": "Scat\"ter",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To be dispersed or dissipated; to disperse or separate; as, clouds scatter after a storm."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

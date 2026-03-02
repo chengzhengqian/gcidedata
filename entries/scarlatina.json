@@ -1,0 +1,58 @@
+{
+  "key": "scarlatina",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Scarlatina",
+      "headword_raw": "Scar`la*ti\"na",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[NL.: cf. F. scarlatine. See Scarlet.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Scarlatinal",
+          "form_raw": "Scar`la*ti\"nal",
+          "key": "scarlatinal",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Scarlatinous",
+          "form_raw": "Scar*lat\"i*nous",
+          "key": "scarlatinous",
+          "pos": [
+            "a."
+          ],
+          "pr": "(# #)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Scarlet fever."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

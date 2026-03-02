@@ -1,0 +1,55 @@
+{
+  "key": "sciascope",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Sciascope",
+      "headword_raw": "Sci\"a*scope",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. <?/ a shadow + -scope.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Skiascopy",
+          "form_raw": "Ski*as\"co*py",
+          "key": "skiascopy",
+          "pos": [],
+          "pr": "(#)"
+        },
+        {
+          "form": "Skiascopy",
+          "form_raw": "Ski*as\"co*py",
+          "key": "skiascopy",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A device for determining the refractive state of the eye by observing the movements of the retinal lights and shadows."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

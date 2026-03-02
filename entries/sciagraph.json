@@ -1,0 +1,50 @@
+{
+  "key": "sciagraph",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Sciagraph",
+      "headword_raw": "Sci\"a*graph",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[See Sciagraphy.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Arch.)"
+          ],
+          "defs": [
+            "An old term for a vertical section of a building; -- called also sciagraphy. See Vertical section, under Section."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Phys.)"
+          ],
+          "defs": [
+            "A radiograph."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

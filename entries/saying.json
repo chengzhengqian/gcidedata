@@ -1,0 +1,48 @@
+{
+  "key": "saying",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Saying",
+      "headword_raw": "Say\"ing",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "Declaration",
+        "speech",
+        "adage",
+        "maxim",
+        "aphorism",
+        "apothegm",
+        "saw",
+        "proverb",
+        "byword"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "That which is said; a declaration; a statement, especially a proverbial one; an aphorism; a proverb."
+          ],
+          "quotes": [
+            "Many are the sayings of the wise, In ancient and in modern books enrolled."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

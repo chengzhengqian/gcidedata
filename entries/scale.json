@@ -1,0 +1,433 @@
+{
+  "key": "scale",
+  "source_file": "CIDE.S",
+  "record_count": 8,
+  "records": [
+    {
+      "headword": "Scale",
+      "headword_raw": "Scale",
+      "pr": "(skāl)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[AS. scāle; perhaps influenced by the kindred Icel. skāl balance, dish, akin also to D. schaal a scale, bowl, shell, G. schale, OHG. scāla, Dan. skaal drinking cup, bowl, dish, and perh. to E. scale of a fish. Cf. Scale of a fish, Skull the brain case.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The dish of a balance; hence, the balance itself; an instrument or machine for weighing; as, to turn the scale; -- chiefly used in the plural when applied to the whole instrument or apparatus for weighing. Also used figuratively."
+          ],
+          "quotes": [
+            "Long time in even scale The battle hung.",
+            "The scales are turned; her kindness weighs no more Now than my vows."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Astron.)"
+          ],
+          "defs": [
+            "The sign or constellation Libra."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Scale",
+      "headword_raw": "Scale",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Scaled (?); p. pr. & vb. n. Scaling.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To weigh or measure according to a scale; to measure; also, to grade or vary according to a scale or system."
+          ],
+          "quotes": [
+            "Scaling his present bearing with his past."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Scale",
+      "headword_raw": "Scale",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. AS. scealu, scalu, a shell, parings; akin to D. schaal, G. schale, OHG. scala, Dan. & Sw. skal a shell, Dan. skiael a fish scale, Goth. skalja tile, and E. shale, shell, and perhaps also to scale of a balance; but perhaps rather fr. OF. escale, escaile, F. caille scale of a fish, and cale shell of beans, pease, eggs, nuts, of German origin, and akin to Goth. skalja, G. schale. See Shale.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Anat.)"
+          ],
+          "defs": [
+            "One of the small, thin, membranous, bony or horny pieces which form the covering of many fishes and reptiles, and some mammals, belonging to the dermal part of the skeleton, or dermoskeleton. See Cycloid, Ctenoid, and Ganoid."
+          ],
+          "quotes": [
+            "Fish that, with their fins and shining scales, Glide under the green wave."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Hence, any layer or leaf of metal or other material, resembling in size and thinness the scale of a fish; as, a scale of iron, of bone, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "One of the small scalelike structures covering parts of some invertebrates, as those on the wings of Lepidoptera and on the body of Thysanura; the elytra of certain annelids. See Lepidoptera."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "A scale insect. (See below.)"
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Bot.)"
+          ],
+          "defs": [
+            "A small appendage like a rudimentary leaf, resembling the scales of a fish in form, and often in arrangement; as, the scale of a bud, of a pine cone, and the like. The name is also given to the chaff on the stems of ferns."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [],
+          "defs": [
+            "The thin metallic side plate of the handle of a pocketknife."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "7.",
+          "fields": [],
+          "defs": [
+            "An incrustation deposit on the inside of a vessel in which water is heated, as a steam boiler."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "8.",
+          "fields": [
+            "(Metal.)",
+            "(Zool.)",
+            "(Zool.)",
+            "(Mil.)",
+            "(Zool.)",
+            "(Zool.)",
+            "(Zool.)",
+            "(Bot.)"
+          ],
+          "defs": [
+            "The thin oxide which forms on the surface of iron forgings. It consists essentially of the magnetic oxide, Fe3O4. Also, a similar coating upon other metals."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Scale",
+      "headword_raw": "Scale",
+      "pr": "(?)",
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To strip or clear of scale or scales; as, to scale a fish; to scale the inside of a boiler."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To take off in thin layers or scales, as tartar from the teeth; to pare off, as a surface."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To scatter; to spread."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Gun.)"
+          ],
+          "defs": [
+            "To clean, as the inside of a cannon, by the explosion of a small quantity of powder."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Scale",
+      "headword_raw": "Scale",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To separate and come off in thin layers or laminae; as, some sandstone scales by exposure."
+          ],
+          "quotes": [
+            "Those that cast their shell are the lobster and crab; the old skins are found, but the old shells never; so it is likely that they scale off."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To separate; to scatter."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Scale",
+      "headword_raw": "Scale",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. scalae, pl., scala staircase, ladder; akin to scandere to climb. See Scan; cf. Escalade.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A ladder; a series of steps; a means of ascending."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mus.)"
+          ],
+          "defs": [
+            "Hence, anything graduated, especially when employed as a measure or rule, or marked by lines at regular intervals.",
+            "A mathematical instrument, consisting of a slip of wood, ivory, or metal, with one or more sets of spaces graduated and numbered on its surface, for measuring or laying off distances, etc., as in drawing, plotting, and the like. See Gunter's scale.",
+            "A series of spaces marked by lines, and representing proportionately larger distances; as, a scale of miles, yards, feet, etc., for a map or plan.",
+            "A basis for a numeral system; as, the decimal scale; the binary scale, etc.",
+            "The graduated series of all the tones, ascending or descending, from the keynote to its octave; -- called also the gamut. It may be repeated through any number of octaves. See Chromatic scale, Diatonic scale, Major scale, and Minor scale, under Chromatic, Diatonic, Major, and Minor."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Gradation; succession of ascending and descending steps and degrees; progressive series; scheme of comparative rank or order; as, a scale of being."
+          ],
+          "quotes": [
+            "There is a certain scale of duties . . . which for want of studying in right order, all the world is in confusion."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Relative dimensions, without difference in proportion of parts; size or degree of the parts or components in any complex thing, compared with other like things; especially, the relative proportion of the linear dimensions of the parts of a drawing, map, model, etc., to the dimensions of the corresponding parts of the object that is represented; as, a map on a scale of an inch to a mile."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Scale",
+      "headword_raw": "Scale",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": "[Cf. It. scalare, fr. L. scalae, scala. See Scale a ladder.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To climb by a ladder, or as if by a ladder; to ascend by steps or by climbing; to clamber up; as, to scale the wall of a fort."
+          ],
+          "quotes": [
+            "Oft have I scaled the craggy oak."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Scale",
+      "headword_raw": "Scale",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To lead up by steps; to ascend."
+          ],
+          "quotes": [
+            "Satan from hence, now on the lower stair, That scaled by steps of gold to heaven-gate, Looks down with wonder."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

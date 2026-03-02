@@ -1,0 +1,77 @@
+{
+  "key": "scanty",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Scanty",
+      "headword_raw": "Scant\"y",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "Compar.",
+        "superl."
+      ],
+      "ety": "[From Scant, a.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Lacking amplitude or extent; narrow; small; not abundant."
+          ],
+          "quotes": [
+            "His dominions were very narrow and scanty.",
+            "Now scantier limits the proud arch confine."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Somewhat less than is needed; insufficient; scant; as, a scanty supply of words; a scanty supply of bread."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Sparing; niggardly; parsimonious."
+          ],
+          "quotes": [
+            "In illustrating a point of difficulty, be not too scanty of words."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Scant",
+            "narrow",
+            "small",
+            "poor",
+            "deficient",
+            "meager",
+            "scarce",
+            "chary",
+            "sparing",
+            "parsimonious",
+            "penurious",
+            "niggardly",
+            "grudging"
+          ]
+        }
+      ]
+    }
+  ]
+}

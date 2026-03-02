@@ -1,0 +1,51 @@
+{
+  "key": "bloodbath",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "bloodbath",
+      "headword_raw": "blood\"bath`",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Indiscriminate slaughter; the killing of multiple persons."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "bloodletting",
+            "bloodshed",
+            "battue"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Substantial losses by many people, as in a mass termination of employment or widespread financial loss; as, the sudden market drop created a bloodbath among overoptimistic investors."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

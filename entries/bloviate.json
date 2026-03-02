@@ -1,0 +1,60 @@
+{
+  "key": "bloviate",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "bloviate",
+      "headword_raw": "blo\"vi*ate",
+      "pr": "(blō\"v*āt)",
+      "pos": [
+        "v. i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": "[imp. & p. p. bloviated (blō\"v*ā*td); p. pr. & vb. n. bloviating (blō\"v*ā*tng).]",
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "bloviator",
+          "form_raw": "blo\"vi*a*tor",
+          "key": "bloviator",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "bloviation",
+          "form_raw": "blo\"vi*a*tion",
+          "key": "bloviation",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To orate pompously; -- used especially of politicians and news commentators."
+          ],
+          "quotes": [
+            "“We've had almost three weeks of lawyers bloviating about what the facts in the case are,” Mr. Rogan said. “Wouldn't it be easier to bring the witnesses?”"
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

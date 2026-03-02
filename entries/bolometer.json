@@ -1,0 +1,38 @@
+{
+  "key": "bolometer",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Bolometer",
+      "headword_raw": "Bo*lom\"e*ter",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. <?/ a stroke, ray + -meter.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An instrument for measuring minute quantities of radiant heat, especially in different parts of the spectrum; -- called also actinic balance, thermic balance."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

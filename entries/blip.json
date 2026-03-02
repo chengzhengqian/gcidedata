@@ -1,0 +1,74 @@
+{
+  "key": "blip",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "blip",
+      "headword_raw": "blip",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Radar)"
+          ],
+          "defs": [
+            "a spot of light on a radar screen, showing the position of a reflecting surface, such as an airplane or ship."
+          ],
+          "quotes": [],
+          "notes": [
+            "this sense is also used metaphorically to mean a barely perceptible object; , Kennedy's candidacy was a mere blip on Humphrey's radar screen until he won the West Virginia primary. This is the probably origin of sense 3."
+          ],
+          "synonyms": [
+            "radar echo",
+            "radar target"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a short upward or downward deviation from a trend line on a graph, especially in a plot of some variable, such as an economic variable, against time; as, a brief blip upward in the unemployment rate."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "something small or insignificant."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "a brief interruption in the continuity of a recorded or transmitted signal; as, there is a blip on my CD of Beethoven's ninth."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "key": "bocardo",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Bocardo",
+      "headword_raw": "Bo*car\"do",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[A mnemonic word.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Logic)"
+          ],
+          "defs": [
+            "A form of syllogism of which the first and third propositions are particular negatives, and the middle term a universal affirmative."
+          ],
+          "quotes": [
+            "Baroko and Bocardo have been stumbling blocks to the logicians."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A prison; -- originally the name of the old north gate in Oxford, which was used as a prison."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

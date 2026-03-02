@@ -1,0 +1,48 @@
+{
+  "key": "bologna",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Bologna",
+      "headword_raw": "Bo*lo\"gna",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[It. salsiccia di Bologna]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A city of Italy which has given its name to various objects."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Min.)"
+          ],
+          "defs": [
+            "A Bologna sausage; also informally called baloney."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

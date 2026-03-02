@@ -1,0 +1,56 @@
+{
+  "key": "bloodguilty",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Bloodguilty",
+      "headword_raw": "Blood\"guilt`y",
+      "pr": "(<?/)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Bloodguiltiness",
+          "form_raw": "Blood\"guilt`i*ness",
+          "key": "bloodguiltiness",
+          "pos": [
+            "n."
+          ],
+          "pr": "(<?/)"
+        },
+        {
+          "form": "Bloodguiltless",
+          "form_raw": "Blood\"guilt`less",
+          "key": "bloodguiltless",
+          "pos": [
+            "a."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Guilty of murder or bloodshed."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "key": "bold-faced",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Bold-faced",
+      "headword_raw": "Bold\"-faced`",
+      "pr": "(<?/)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Somewhat impudent; lacking modesty; as, a bold-faced woman."
+          ],
+          "quotes": [
+            "I have seen enough to confute all the bold-faced atheists of this age."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Print.)"
+          ],
+          "defs": [
+            "Having a conspicuous or heavy face; -- also called boldface."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ This line is bold-faced nonpareil."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

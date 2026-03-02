@@ -1,0 +1,52 @@
+{
+  "key": "bobsleigh",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Bobsleigh",
+      "headword_raw": "Bob\"sleigh`",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A short sled, mostly used as one of a pair connected by a reach or coupling; also, the compound sled so formed."
+          ],
+          "quotes": [
+            "The long wagon body set on bobsleds."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a long racing sled (for 2 or more people), having two pairs of runners, with the front pair connected to a steering mechanism. They are usually raced one at a time down a steeply sloping path or specially constructed chute, with sharp banked curves, and attain high speeds."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "bobsled"
+          ]
+        }
+      ]
+    }
+  ]
+}

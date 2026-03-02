@@ -1,0 +1,56 @@
+{
+  "key": "blowfish",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "blowfish",
+      "headword_raw": "blow\"fish",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a fish eaten as a delicacy, especially in Japan. It is highly dangerous because of a potent nerve poison (tetrodotoxin) in its ovaries and liver. Chefs require special training to learn how to remove the poisonous parts, and in Japan they must be licensed."
+          ],
+          "quotes": [],
+          "notes": [
+            "In Japan it is called fugu. Deaths due to ingestion of the meat of this fish occur almost every year."
+          ],
+          "synonyms": [
+            "sea squab",
+            "puffer",
+            "puffer fish"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "any of numerous marine fishes of the family Tetraodontidae whose elongated spiny body can inflate itself with water or air to form a globe; several species contain tetrodotoxin, a potent nerve poison; they are closely related to spiny puffers."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "puffer",
+            "globefish"
+          ]
+        }
+      ]
+    }
+  ]
+}

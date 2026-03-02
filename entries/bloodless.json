@@ -1,0 +1,81 @@
+{
+  "key": "bloodless",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Bloodless",
+      "headword_raw": "Blood\"less",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[AS. blōdles.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Bloodlessly",
+          "form_raw": "Blood\"less*ly",
+          "key": "bloodlessly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Bloodlessness",
+          "form_raw": "Blood\"less*ness",
+          "key": "bloodlessness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Destitute of blood, or apparently so; as, bloodless cheeks; lifeless; dead."
+          ],
+          "quotes": [
+            "The bloodless carcass of my Hector sold."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Not attended with shedding of blood, or slaughter; as, a bloodless victory."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Without spirit or activity."
+          ],
+          "quotes": [
+            "Thou bloodless remnant of that royal blood !"
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "key": "flour",
+  "source_file": "CIDE.F",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Flour",
+      "headword_raw": "Flour",
+      "pr": "(flour)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. fleur de farine the flower (i.e., the best) of meal, cf. Sp. flor de la harina superfine flour, Icel. flür flower, flour. See Flower.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The finely ground meal of wheat, or of any other grain; especially, the finer part of meal separated by bolting; hence, the fine and soft powder of any substance; as, flour of emery; flour of mustard."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Flour",
+      "headword_raw": "Flour",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Floured (?); p. pr. & vb. n. Flouring.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To grind and bolt; to convert into flour; as, to flour wheat."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To sprinkle with flour."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

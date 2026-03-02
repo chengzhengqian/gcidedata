@@ -1,0 +1,50 @@
+{
+  "key": "flora",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Flora",
+      "headword_raw": "Flo\"ra",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L., the goddess of flowers, from flos, floris, flower. See Flower.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Rom. Myth.)"
+          ],
+          "defs": [
+            "The goddess of flowers and spring."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Bot.)"
+          ],
+          "defs": [
+            "The complete system of vegetable species growing without cultivation in a given locality, region, or period; a list or description of, or treatise on, such plants."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

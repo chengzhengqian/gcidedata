@@ -1,0 +1,51 @@
+{
+  "key": "flypast",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "flypast",
+      "headword_raw": "fly\"past",
+      "pr": "(flī\"pst)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "the upper level of a crossing of two highways at different levels; same as flyover; called in the United States an overpass."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "overpass",
+            "flyover"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a low-altitude flight (usually of military aircraft) over spectators on the ground."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "flyover"
+          ]
+        }
+      ]
+    }
+  ]
+}

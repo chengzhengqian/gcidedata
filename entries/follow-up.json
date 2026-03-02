@@ -1,0 +1,67 @@
+{
+  "key": "follow-up",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "follow-up",
+      "headword_raw": "follow-up",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a second (or subsequent) action to increase the effectiveness of an initial action. Also used attributively; as a follow-up visit."
+          ],
+          "quotes": [],
+          "notes": [
+            "A follow-up may be of various types. After a medical examination, a second examination (or reexamination) to obtain additional information regarding some fact discovered in the first examination is considered a follow-up. A second visit or phone call in pursuit of a sale or other request would also be a follow-up."
+          ],
+          "synonyms": [
+            "reexamination",
+            "review"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Journalism)"
+          ],
+          "defs": [
+            "A subsequent story providing information discovered or events happening after a first story was published."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Journalism)"
+          ],
+          "defs": [
+            "Same as sidebar."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

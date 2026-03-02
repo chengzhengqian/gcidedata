@@ -1,0 +1,90 @@
+{
+  "key": "fluent",
+  "source_file": "CIDE.F",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Fluent",
+      "headword_raw": "Flu\"ent",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. fluens, -entis, p. pr. of fluere to flow; cf. Gr. <?/ to boil over. Cf. Fluctuate, Flux.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Flowing or capable of flowing; liquid; glodding; easily moving."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Ready in the use of words; voluble; copious; having words at command; and uttering them with facility and smoothness; as, a fluent speaker; hence, flowing; voluble; smooth; -- said of language; as, fluent speech."
+          ],
+          "quotes": [
+            "With most fluent utterance.",
+            "Fluent as the flight of a swallow is the sultan's letter."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Fluent",
+      "headword_raw": "Flu\"ent",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. fluente.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A current of water; a stream."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "A variable quantity, considered as increasing or diminishing; -- called, in the modern calculus, the function or integral."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

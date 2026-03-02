@@ -1,0 +1,68 @@
+{
+  "key": "footloose",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "footloose",
+      "headword_raw": "footloose",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "without ties to a particular location; free to roam; wandering."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "aimless",
+            "drifting",
+            "floating",
+            "vagabond",
+            "vagrant"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "without dependents or responsibilities."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "untrammeled",
+            "untrammelled"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "having no commitments or restrictions."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "fancy-free",
+            "foot-loose"
+          ]
+        }
+      ]
+    }
+  ]
+}

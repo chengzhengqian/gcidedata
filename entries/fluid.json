@@ -1,0 +1,70 @@
+{
+  "key": "fluid",
+  "source_file": "CIDE.F",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Fluid",
+      "headword_raw": "Flu\"id",
+      "pr": "(flū\"d)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. fluidus, fr. fluere to flow: cf. F. fluide. See Fluent.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Having particles which easily move and change their relative position without a separation of the mass, and which easily yield to pressure; capable of flowing; liquid or gaseous."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Fluid",
+      "headword_raw": "Flu\"id",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physiol.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A fluid substance; a body whose particles move easily among themselves."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Fluid is a generic term, including liquids and gases as species. Water, air, and steam are fluids. By analogy, the term was sometimes applied to electricity and magnetism, as in phrases electric fluid, magnetic fluid, though not strictly appropriate; such usage has disappeared."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

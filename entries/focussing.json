@@ -1,0 +1,52 @@
+{
+  "key": "focussing",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "focussing",
+      "headword_raw": "focussing",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "the concentration of attention or energy on something."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "focus",
+            "focussing"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "the act of bringing into focus."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "focalization",
+            "focalisation"
+          ]
+        }
+      ]
+    }
+  ]
+}

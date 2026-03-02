@@ -1,0 +1,50 @@
+{
+  "key": "foggy",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Foggy",
+      "headword_raw": "Fog\"gy",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "Compar.",
+        "superl."
+      ],
+      "ety": "[From 4th Fog.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Filled or abounding with fog, or watery exhalations; misty; as, a foggy atmosphere; a foggy morning."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Beclouded; dull; obscure; as, foggy ideas."
+          ],
+          "quotes": [
+            "Your coarse, foggy, drowsy conceit."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

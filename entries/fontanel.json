@@ -1,0 +1,52 @@
+{
+  "key": "fontanel",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Fontanel",
+      "headword_raw": "Fon\"ta*nel`",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. fontanelle, prop., a little fountain, fr. fontaine fountain. See Fountain.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "An issue or artificial ulcer for the discharge of humors from the body."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Anat.)"
+          ],
+          "defs": [
+            "One of the membranous intervals between the incompleted angles of the parietal and neighboring bones of a fetal or young skull; -- so called because it exhibits a rhythmical pulsation."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ In the human fetus there are six fontanels, of which the anterior, or bregmatic, situated at the junction of the coronal and sagittal sutures, is much the largest, and remains open a considerable time after birth."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

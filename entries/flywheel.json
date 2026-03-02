@@ -1,0 +1,40 @@
+{
+  "key": "flywheel",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "flywheel",
+      "headword_raw": "flywheel",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A heavy wheel or disk which stores kinetic energy by rotating on a shaft, and by its momentum smoothes the operation of a reciprocating engine by reducing fluctuations of speed. It is used in certain types of machinery, such as automobiles."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Flywheels rotating at high speed have also been proposed as a means to store kinetic energy for use as a low-polluting source of energy in vehicles."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

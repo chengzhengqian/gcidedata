@@ -1,0 +1,62 @@
+{
+  "key": "fluoroscope",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Fluoroscope",
+      "headword_raw": "Flu*or\"o*scope",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Fluorescence + -scope.]",
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Fluoroscopic",
+          "form_raw": "Flu*or`o*scop\"ic",
+          "key": "fluoroscopic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Phys.)"
+          ],
+          "defs": [
+            "An instrument for observing or exhibiting fluorescence."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Physics)"
+          ],
+          "defs": [
+            "A fluorescent screen, with hood to protect the eyes, used for observing the shadows cast by objects placed in the path of the X rays."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

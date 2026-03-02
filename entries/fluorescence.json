@@ -1,0 +1,41 @@
+{
+  "key": "fluorescence",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Fluorescence",
+      "headword_raw": "Flu`o*res\"cence",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[From Fluor.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chemistry, Optics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A luminescence emitted by certain substances due to the absorption of radiation at one wavelength, and the almost instantaneous re-emission of radiation at another, usually longer wavelength. The re-radiation stops almost as soon as the incident radiation is halted, thus distinguishing this phenomenon from phosphorescence, in which re-radiation of light may continue for some time after the incident radiation is halted."
+          ],
+          "quotes": [],
+          "notes": [
+            "The color of the radiated light typically differs from the apparent color of the material, as when green crystals of fluor spar afford blue reflections. It is due not to the difference in the color of a distinct surface layer, but to the power which the substance has of modifying the light incident upon it, by first absorbing the light to achieve an excited state, and then radiating light to resume the ground energy level. The light emitted by fluorescent substances is in general of longer wavelength than the incident light. The radiation can also be induced by ionizing radiation which is not electromagnetic, such as alpha or beta rays, and cathode rays. This property is possessed by fluorspar, uranium glass, sulphide of calcium, and many other substances. It finds use in analytical instruments to detect or measure radiation, and in some commercial applications."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

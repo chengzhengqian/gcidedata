@@ -1,0 +1,50 @@
+{
+  "key": "flyboat",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Flyboat",
+      "headword_raw": "Fly\"boat`",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Fly + boat: cf. D. vlieboot.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Naut.)"
+          ],
+          "defs": [
+            "A large Dutch coasting vessel."
+          ],
+          "quotes": [
+            "Captain George Weymouth made a voyage of discovery to the northwest with two flyboats."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A kind of passenger boat formerly used on canals."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "key": "following",
+  "source_file": "CIDE.F",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Following",
+      "headword_raw": "Fol\"low*ing",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One's followers, adherents, or dependents, collectively."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Vocation; business; profession."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Following",
+      "headword_raw": "Fol\"low*ing",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Next after; succeeding; ensuing; as, the assembly was held on the following day."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Astron.)"
+          ],
+          "defs": [
+            "(In the field of a telescope) In the direction from which stars are apparently moving (in consequence of the earth's rotation); as, a small star, north following or south following. In the direction toward which stars appear to move is called preceding."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The four principal directions in the field of a telescope are north, south, following, preceding."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

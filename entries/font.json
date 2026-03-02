@@ -1,0 +1,81 @@
+{
+  "key": "font",
+  "source_file": "CIDE.F",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Font",
+      "headword_raw": "Font",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. fonte, fr. fondre to melt or cast. See Found to cast, and cf. Fount a font.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Print.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A complete assortment of printing type of one size, including a due proportion of all the letters in the alphabet, large and small, points, accents, and whatever else is necessary for printing with that variety of types; a fount."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Font",
+      "headword_raw": "Font",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[AS. font, fant, fr. L. fons, fontis, spring, fountain; cf. OF. font, funt, F. fonts, fonts baptismaux, pl. See Fount.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A fountain; a spring; a source."
+          ],
+          "quotes": [
+            "Bathing forever in the font of bliss."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A basin or stone vessel in which water is contained for baptizing."
+          ],
+          "quotes": [
+            "That name was given me at the font."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

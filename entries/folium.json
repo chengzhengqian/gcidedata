@@ -1,0 +1,48 @@
+{
+  "key": "folium",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Folium",
+      "headword_raw": "Fo\"li*um",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L., a leaf.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A leaf, esp. a thin leaf or plate."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Geom.)"
+          ],
+          "defs": [
+            "A curve of the third order, consisting of two infinite branches, which have a common asymptote. The curve has a double point, and a leaf-shaped loop; whence the name. Its equation is x3 + y3 = axy."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

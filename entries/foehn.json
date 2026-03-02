@@ -1,0 +1,39 @@
+{
+  "key": "foehn",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Foehn",
+      "headword_raw": "Foehn",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[G. dial. (Swiss), fr. L. Favonius west wind. Cf. Favonian.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Meteor.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A warm dry wind that often blows in the northern valleys of the Alps, due to the indraught of a storm center passing over Central Europe. The wind, heated by compression in its descent from the mountains, reaches the base, particularly in winter, dry and warm.",
+            "Any similar wind, as the chinook, in other parts of the world."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "key": "food",
+  "source_file": "CIDE.F",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Food",
+      "headword_raw": "Food",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. fode, AS. fōda; akin to Icel. fæða, fæði, Sw. föda, Dan. & LG. föde, OHG. fatunga, Gr. patei^sthai to eat, and perh. to Skr. pā to protect, L. pascere to feed, pasture, pabulum food, E. pasture. √75. Cf. Feed, Fodder food, Foster to cherish.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "What is fed upon; that which goes to support life by being received within, and assimilated by, the organism of an animal or a plant; nutriment; aliment; especially, what is eaten by animals for nourishment."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ In a physiological sense, true aliment is to be distinguished as that portion of the food which is capable of being digested and absorbed into the blood, thus furnishing nourishment, in distinction from the indigestible matter which passes out through the alimentary canal as fæces.",
+            "☞ Foods are divided into two main groups: nitrogenous, or proteid, foods, i.e., those which contain nitrogen, and nonnitrogenous, i.e., those which do not contain nitrogen. The latter group embraces the fats and carbohydrates, which collectively are sometimes termed heat producers or respiratory foods, since by oxidation in the body they especially subserve the production of heat. The proteids, on the other hand, are known as plastic foods or tissue formers, since no tissue can be formed without them. These latter terms, however, are misleading, since proteid foods may also give rise to heat both directly and indirectly, and the fats and carbohydrates are useful in other ways than in producing heat."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Zool.)",
+            "(Biol.)"
+          ],
+          "defs": [
+            "Anything that instructs the intellect, excites the feelings, or molds habits of character; that which nourishes."
+          ],
+          "quotes": [
+            "This may prove food to my displeasure.",
+            "In this moment there is life and food For future years."
+          ],
+          "notes": [
+            "☞ Food is often used adjectively or in self-explaining compounds, as in food fish or food-fish, food supply."
+          ],
+          "synonyms": [
+            "Aliment",
+            "sustenance",
+            "nutriment",
+            "feed",
+            "fare",
+            "victuals",
+            "provisions",
+            "meat"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Food",
+      "headword_raw": "Food",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To supply with food."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "key": "tremulous",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Tremulous",
+      "headword_raw": "Trem\"u*lous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. tremulus, fr. tremere to tremble. See Tremble.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Tremulously",
+          "form_raw": "Trem\"u*lous*ly",
+          "key": "tremulously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Tremulousness",
+          "form_raw": "Trem\"u*lous*ness",
+          "key": "tremulousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Shaking; shivering; quivering; as, a tremulous limb; a tremulous motion of the hand or the lips; the tremulous leaf of the poplar."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Affected with fear or timidity; trembling."
+          ],
+          "quotes": [
+            "The tender, tremulous Christian."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "key": "tremendous",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Tremendous",
+      "headword_raw": "Tre*men\"dous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. tremendus that is to be trembled at, fearful, fr. tremere to tremble. See Tremble.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Tremendously",
+          "form_raw": "Tre*men\"dous*ly",
+          "key": "tremendously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Tremendousness",
+          "form_raw": "Tre*men\"dous*ness",
+          "key": "tremendousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Terrible",
+        "dreadful",
+        "frightful",
+        "terrific",
+        "horrible",
+        "awful"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Fitted to excite fear or terror; such as may astonish or terrify by its magnitude, force, or violence; terrible; dreadful; as, a tremendous wind; a tremendous shower; a tremendous shock or fall."
+          ],
+          "quotes": [
+            "A tremendous mischief was a foot."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

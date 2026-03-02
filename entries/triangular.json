@@ -1,0 +1,50 @@
+{
+  "key": "triangular",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Triangular",
+      "headword_raw": "Tri*an\"gu*lar",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. triangularis: cf. F. triangulaire.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Having three angles; having the form of a triangle."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Bot.)",
+            "(Zool.)",
+            "(Math.)"
+          ],
+          "defs": [
+            "Oblong or elongated, and having three lateral angles; as, a triangular seed, leaf, or stem."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

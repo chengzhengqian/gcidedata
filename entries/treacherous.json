@@ -1,0 +1,67 @@
+{
+  "key": "treacherous",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Treacherous",
+      "headword_raw": "Treach\"er*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[See Treacher.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Treacherously",
+          "form_raw": "Treach\"er*ous*ly",
+          "key": "treacherously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Treacherousness",
+          "form_raw": "Treach\"er*ous*ness",
+          "key": "treacherousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Faithless",
+        "perfidious",
+        "traitorous",
+        "false",
+        "insidious",
+        "plotting"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Like a traitor; involving treachery; violating allegiance or faith pledged; traitorous to the state or sovereign; perfidious in private life; betraying a trust; faithless."
+          ],
+          "quotes": [
+            "Loyal father of a treacherous son.",
+            "The treacherous smile, a mask for secret hate."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

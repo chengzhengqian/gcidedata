@@ -1,0 +1,39 @@
+{
+  "key": "trapezohedron",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Trapezohedron",
+      "headword_raw": "Trap`e*zo*he\"dron",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[NL., from trapezium + Gr. <?/ seat, base, fr. <?/ to sit.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Crystalloq.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A solid bounded by twenty-four equal and similar trapeziums; a tetragonal trisoctahedron. See the Note under Trisoctahedron.",
+            "A tetartohedral solid of the hexagonal system, bounded by six trapezoidal planes. The faces of this form are common on quartz crystals."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

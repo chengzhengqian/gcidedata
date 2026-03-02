@@ -1,0 +1,59 @@
+{
+  "key": "trilateral",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Trilateral",
+      "headword_raw": "Tri*lat\"er*al",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. trilaterus; tri- (see Tri-) + latus, lateris, side: cf. F. trilatral. See Lateral.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Trilaterally",
+          "form_raw": "Tri*lat\"er*al*ly",
+          "key": "trilaterally",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Trilateralness",
+          "form_raw": "Tri*lat\"er*al*ness",
+          "key": "trilateralness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Geom.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Having three sides; being three-sided; as, a trilateral triangle."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

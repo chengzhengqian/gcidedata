@@ -1,0 +1,50 @@
+{
+  "key": "trigger",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Trigger",
+      "headword_raw": "Trig\"ger",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[For older tricker, from D. trekker, fr. trekken to draw, pull. See Trick, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A catch to hold the wheel of a carriage on a declivity."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mech.)",
+            "(Firearms)",
+            "(Zool.)"
+          ],
+          "defs": [
+            "A piece, as a lever, which is connected with a catch or detent as a means of releasing it; especially (Firearms), the part of a lock which is moved by the finger to release the cock and discharge the piece."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

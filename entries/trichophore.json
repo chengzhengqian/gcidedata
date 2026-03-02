@@ -1,0 +1,61 @@
+{
+  "key": "trichophore",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Trichophore",
+      "headword_raw": "Trich\"o*phore",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Gr. tri`x, tricho`s, hair + fe`rein to bear.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Trichophoric",
+          "form_raw": "Trich`o*phor\"ic",
+          "key": "trichophoric",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Bot.)"
+          ],
+          "defs": [
+            "The special cell in red algae which produces or bears a trichogyne. See Illust. of Trichogyne."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "One of the saclike organs from which the setae of annelids arise."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

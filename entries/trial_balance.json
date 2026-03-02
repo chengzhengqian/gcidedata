@@ -1,0 +1,36 @@
+{
+  "key": "trial_balance",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Trial balance",
+      "headword_raw": "Tri\"al bal`ance",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Bookkeeping)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The testing of a ledger to discover whether the debits and credits balance, by finding whether the sum of the personal credits increased by the difference between the debit and credit sums in the merchandise and other impersonal accounts equals the sum of personal debits. The equality would not show that the items were all correctly posted."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

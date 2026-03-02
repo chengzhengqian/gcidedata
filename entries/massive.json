@@ -1,0 +1,49 @@
+{
+  "key": "massive",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "massive",
+      "headword_raw": "mass\"ive",
+      "pr": "(ms\"v)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[F. massif.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Forming, or consisting of, a large mass; compacted; weighty; heavy; massy."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Min.)",
+            "(Geol.)"
+          ],
+          "defs": [
+            "In mass; not necessarily without a crystalline structure, but having no regular form; as, a mineral occurs massive."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

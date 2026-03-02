@@ -1,0 +1,52 @@
+{
+  "key": "maria",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "maria",
+      "headword_raw": "maria",
+      "pr": null,
+      "pos": [
+        "n. pl."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Astron.)"
+          ],
+          "defs": [
+            "Plural form of mare, a dark region of considerable extent on the surface of the moon."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Bot.)"
+          ],
+          "defs": [
+            "A valuable timber tree of Panama."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Calophyllum longifolium"
+          ]
+        }
+      ]
+    }
+  ]
+}

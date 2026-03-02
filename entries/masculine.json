@@ -1,0 +1,93 @@
+{
+  "key": "masculine",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "masculine",
+      "headword_raw": "mas\"cu*line",
+      "pr": "(ms\"k*ln)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. masculinus, fr. masculus male, manly, dim. of mas a male: cf. F. masculin. See Male masculine.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Masculinely",
+          "form_raw": "Mas\"cu*line*ly",
+          "key": "masculinely",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Masculineness",
+          "form_raw": "Mas\"cu*line*ness",
+          "key": "masculineness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of the male sex; not female."
+          ],
+          "quotes": [
+            "Thy masculine children, that is to say, thy sons."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Having the qualities of a man; suitable to, or characteristic of, a man; virile; not feminine or effeminate; strong; robust."
+          ],
+          "quotes": [
+            "That lady, after her husband's death, held the reins with a masculine energy."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Belonging to males; appropriated to, or used by, males."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Gram.)"
+          ],
+          "defs": [
+            "Having the inflections of, or construed with, words pertaining especially to male beings, as distinguished from feminine and neuter. See Gender."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

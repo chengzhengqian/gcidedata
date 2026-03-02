@@ -1,0 +1,49 @@
+{
+  "key": "maser",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "maser",
+      "headword_raw": "ma\"ser",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[from Microwave Amplification by Stimulated Emission of Radiation.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Same as Mazer."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Physics)"
+          ],
+          "defs": [
+            "An electronic device producing coherent monochromatic microwave radiation; it produces less noise than other forms of microwave oscillator."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

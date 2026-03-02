@@ -1,0 +1,20 @@
+SIMPLE: markov_chain
+RECORDS: 1
+
+==== ENTRY 1 ====
+HEADWORD: Markov chain
+<hw>Mark"ov chain</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[after
+<person>A. A. <etsep>Markov</etsep></person>, Russian mathematician, b.
+1856, d. 1922.]</ety> <fld>(Statistics)</fld> <def>A random process
+(<isa>Markov process</isa>) in which the probabilities of discrete
+states in a series depend only on the properties of the immediately
+preceding state or the next preceding state, independent of the path by
+which the preceding state was reached. It differs from the more general
+Markov process in that the states of a <ex>Markov chain</ex> are
+discrete rather than continuous. Certain physical processes, such as
+diffusion of a molecule in a fluid, are modelled as a <ex>Markov
+chain</ex>. See also <styp><er>random walk</er></styp>.</def>
+<altsp>[Also spelled <asp>Markoff chain</asp>.]</altsp>⟦br⟧
+[<source>PJC</source>]</p>
+
+<p><ent>Markov process</ent>⟦br⟧

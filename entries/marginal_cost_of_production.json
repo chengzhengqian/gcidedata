@@ -1,0 +1,41 @@
+{
+  "key": "marginal_cost_of_production",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "marginal cost of production",
+      "headword_raw": "marginal cost of production",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "incremental cost",
+        "differential cost"
+      ],
+      "entry_fields": [
+        "(Economics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The increase in total cost of production as a result of producing one more unit of output; since certain overhead costs are fixed, the marginal cost is almost always less than the total per-unit cost of production averaged over all units produced."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

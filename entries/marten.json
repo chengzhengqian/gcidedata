@@ -1,0 +1,80 @@
+{
+  "key": "marten",
+  "source_file": "CIDE.M",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Marten",
+      "headword_raw": "Mar\"ten",
+      "pr": "(mär\"tn)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Zool.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A bird. See Martin."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "marten",
+      "headword_raw": "mar\"ten",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[From older martern, marter, martre, F. martre, marte, LL. martures (pl.), fr. L. martes; akin to AS. mearð, meard, G. marder, OHG. mardar, Icel. mörðr. Cf. Foumart.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "Any one of several fur-bearing carnivores of the genus Martes (formerly Mustela), closely allied to the sable. Among the more important species are the European beech marten or stone marten (Martes foina); the pine marten (Martes martes); and the American marten, or sable (Martes Americana), which some Zoologists consider only a variety of the Russian sable."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The fur of the marten, used for hats, muffs, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

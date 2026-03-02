@@ -1,0 +1,40 @@
+{
+  "key": "margin_call",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "margin call",
+      "headword_raw": "margin call",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "call"
+      ],
+      "entry_fields": [
+        "(Stock market)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A demand by a broker that a customer deposit enough to bring his margin up to the minimum requirement; -- caused by the decline in market prices of a security or commodity purchased on margin{5}."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

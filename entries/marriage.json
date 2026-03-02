@@ -1,0 +1,91 @@
+{
+  "key": "marriage",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Marriage",
+      "headword_raw": "Mar\"riage",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "v. t."
+      ],
+      "ety": "[OE. mariage, F. mariage. See Marry, v. t.]",
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [
+        "-- Marriage, Matrimony, Wedlock. Marriage is properly the act which unites the two parties, and matrimony the state into which they enter. Marriage is, however, often used for the state as well as the act. Wedlock is the old Anglo-Saxon term for matrimony."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of marrying, or the state of being married; legal union of a man and a woman for life, as husband and wife; wedlock; matrimony."
+          ],
+          "quotes": [
+            "Marriage is honorable in all."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The marriage vow or contract."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A feast made on the occasion of a marriage."
+          ],
+          "quotes": [
+            "The kingdom of heaven is like unto a certain king which made a marriage for his son."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Any intimate or close union."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "In pinochle, bzique, and similar games at cards, the combination of a king and queen of the same suit. If of the trump suit, it is called a royal marriage."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Matrimony",
+            "wedlock",
+            "wedding",
+            "nuptials"
+          ]
+        }
+      ]
+    }
+  ]
+}

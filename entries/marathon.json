@@ -1,0 +1,60 @@
+{
+  "key": "marathon",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "marathon",
+      "headword_raw": "marathon",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A footrace of 26 miles 385 yards."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Any long and arduous undertaking, straining the endurance of the participants."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "endurance contest"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "a battle in 490 BC in which the Athenians and their allies defeated the Persians."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "battle of Marathon"
+          ]
+        }
+      ]
+    }
+  ]
+}

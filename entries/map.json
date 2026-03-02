@@ -1,0 +1,109 @@
+{
+  "key": "map",
+  "source_file": "CIDE.M",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Map",
+      "headword_raw": "Map",
+      "pr": "(mp)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[From F. mappe, in mappemonde map of the world, fr. L. mappa napkin, signal cloth; -- a Punic word. Cf. Apron, Napkin, Nappe.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A representation of the surface of the earth, or of some portion of it, showing the relative position of the parts represented; -- usually on a flat surface. Also, such a representation of the celestial sphere, or of some part of it."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ There are five principal kinds of projection used in making maps: the orthographic, the stereographic, the globuar, the conical, and the cylindrical, or Mercator's projection. See Projection."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A graphical representation of anything showing the relative arrangement of its parts in a maplike form."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Anything which represents graphically a succession of events, states, or acts; as, an historical map."
+          ],
+          "quotes": [
+            "Thus is his cheek the map of days outworn."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Mathematics)",
+            "(Bot.)"
+          ],
+          "defs": [
+            "A relation between two sets in which an element of one set is associated with each element of the other set. Also called a mapping, transformation, or correspondence."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Map",
+      "headword_raw": "Map",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": "[imp. & p. p. Mapped (?); p. pr. & vb. n. Mapping (?).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mathematics)"
+          ],
+          "defs": [
+            "To create a mapping between two sets; see map{4}, n.. Also, to create any list of corresponding elements of two sets of things; as, to map the symbols of an ancient language into a modern phonetic alphabet."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

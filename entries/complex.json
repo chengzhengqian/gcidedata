@@ -1,0 +1,88 @@
+{
+  "key": "complex",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Complex",
+      "headword_raw": "Com\"plex",
+      "pr": "(km\"plks)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": "[L. complexus, p. p. of complecti to entwine around, comprise; com- + plectere to twist, akin to plicare to fold. See Plait, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Composed of two or more parts; composite; not simple; as, a complex being; a complex idea."
+          ],
+          "quotes": [
+            "Ideas thus made up of several simple ones put together, I call complex; such as beauty, gratitude, a man, an army, the universe."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "Involving many parts; complicated; intricate."
+          ],
+          "quotes": [
+            "When the actual motions of the heavens are calculated in the best possible way, the process is difficult and complex."
+          ],
+          "notes": [],
+          "synonyms": [
+            "See Intricate"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Complex",
+      "headword_raw": "Com\"plex",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. complexus]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Geom.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Assemblage of related things; collection; complication."
+          ],
+          "quotes": [
+            "This parable of the wedding supper comprehends in it the whole complex of all the blessings and privileges exhibited by the gospel."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+SIMPLE: compression
+RECORDS: 1
+
+==== ENTRY 1 ====
+HEADWORD: Compression
+<hw>Com*pres"sion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.
+<ets>compressio</ets>: cf. F. <ets>compression</ets>.]</ety> <sn>1.</sn>
+<def>The act of compressing, or state of being compressed.</def>
+⟦ldquo⟧<xex>Compression</xex> of thought.⟦rdquo⟧
+<rj><au>Johnson.</au></rj>⟦br⟧
+[<source>1913 Webster</source>]</p>
+
+<p><sn>2.</sn> <fld>(Computers)</fld> <def>reduction of the space
+required for storage (of binary data) by an algorithm which converts the
+data to a smaller number of bits while preserving the information
+content. The act of compressing {3}.</def> <note>Compression may be
+<stype>lossless compression</stype>, in which all of the information in
+the original data is preserved, and the original data may be recovered
+in form identical to its original form; or <stype>lossy
+compression</stype>, in which some of the information in the original
+data is lost, and decompression results in a data form slightly
+different from the original. <stype>Lossy compression</stype> is used,
+for example, to compress audio or video recordings, and sometimes
+images, where the slight differences in the original data and the data
+recovered after <stype>lossy compression</stype> may be imperceptable to
+the human eye or ear. The <stype>JPEG</stype> format is produced by a
+<stype>lossy compression</stype> algorithm.</note>⟦br⟧
+[<source>PJC</source>]</p>
+
+<p><ent>Compression projectile</ent>⟦br⟧

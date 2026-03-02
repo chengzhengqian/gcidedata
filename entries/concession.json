@@ -1,0 +1,51 @@
+{
+  "key": "concession",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Concession",
+      "headword_raw": "Con*ces\"sion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. concessio, fr. concedere: cf. F. concession. See Concede.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of conceding or yielding; usually implying a demand, claim, or request, and thus distinguished from giving, which is voluntary or spontaneous."
+          ],
+          "quotes": [
+            "By mutual concession the business was adjusted."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A thing yielded; an acknowledgment or admission; a boon; a grant; esp. a grant by government of a privilege or right to do something; as, a concession to build a canal."
+          ],
+          "quotes": [
+            "This is therefore a concession, that he doth . . . believe the Scriptures to be sufficiently plain.",
+            "When a lover becomes satisfied by small compliances without further pursuits, then expect to find popular assemblies content with small concessions."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

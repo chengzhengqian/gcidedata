@@ -1,0 +1,63 @@
+{
+  "key": "concentration",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Concentration",
+      "headword_raw": "Con`cen*tra\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. concentration.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act or process of concentrating; the process of becoming concentrated, or the state of being concentrated; concentration."
+          ],
+          "quotes": [
+            "Concentration of the lunar beams.",
+            "Intense concetration of thought."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The act or process of reducing the volume of a liquid, as by evaporation."
+          ],
+          "quotes": [
+            "The acid acquires a higher degree of concentration."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Metal.)"
+          ],
+          "defs": [
+            "The act or process of removing the dress of ore and of reducing the valuable part to smaller compass, as by currents of air or water."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "key": "complication",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Complication",
+      "headword_raw": "Com`pli*ca\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. compliasion: cf. F. complication.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act or process of complicating; the state of being complicated; intricate or confused relation of parts; entanglement; complexity."
+          ],
+          "quotes": [
+            "A complication of diseases.",
+            "Through and beyond these dark complications of the present, the New England founders looked to the great necessities of future times."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "A disease or diseases, or adventitious circumstances or conditions, coexistent with and modifying a primary disease, but not necessarily connected with it."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

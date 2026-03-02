@@ -1,0 +1,48 @@
+{
+  "key": "compositor",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Compositor",
+      "headword_raw": "Com*pos\"i*tor",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L., an arranger.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One who composes or sets in order."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Print.)"
+          ],
+          "defs": [
+            "One who sets type and arranges it for use."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

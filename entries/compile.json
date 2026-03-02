@@ -1,0 +1,87 @@
+{
+  "key": "compile",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Compile",
+      "headword_raw": "Com*pile\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[F. compiler, fr.L. compilare to plunder, pillage; com- + pilare to plunder. See Pill, v. t., Pillage.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": "[imp. & p. p. Compiled (?); p. pr. & vb. n. Compiling.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To put together; to construct; to build."
+          ],
+          "quotes": [
+            "Before that Merlin died, he did intend A brazen wall in compass to compile."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To contain or comprise."
+          ],
+          "quotes": [
+            "Which these six books compile."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To put together in a new form out of materials already existing; esp., to put together or compose out of materials from other books or documents."
+          ],
+          "quotes": [
+            "He [Goldsmith] compiled for the use of schools a History of Rome."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "To write; to compose."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "to process (computer program source code) with a compiler{2} to produce an assembly-language program or an executable program in machine language."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

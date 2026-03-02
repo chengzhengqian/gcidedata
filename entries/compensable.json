@@ -1,0 +1,52 @@
+{
+  "key": "compensable",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "compensable",
+      "headword_raw": "compensable",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "receiving money for services rendered."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "paying(prenominal)",
+            "remunerative",
+            "salaried",
+            "stipendiary"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "qualifying one for receipt of compensation, such as for a bodily injury; as, a compensable injury."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

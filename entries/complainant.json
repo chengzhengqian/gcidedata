@@ -1,0 +1,53 @@
+{
+  "key": "complainant",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Complainant",
+      "headword_raw": "Com*plain\"ant",
+      "pr": "(km*plān\"nt)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. complaignant, p. pr. of complaindre.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One who makes complaint."
+          ],
+          "quotes": [
+            "Eager complainants of the dispute."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "One who commences a legal process by a complaint.",
+            "The party suing in equity, answering to the plaintiff at common law."
+          ],
+          "quotes": [
+            "He shall forfeit one moiety to the use of the town, and the other moiety to the use of the complainant."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

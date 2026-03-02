@@ -1,0 +1,67 @@
+{
+  "key": "computation",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Computation",
+      "headword_raw": "Com`pu*ta\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. computatio: cf. F. computation.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act or process of computing; calculation; reckoning."
+          ],
+          "quotes": [
+            "By just computation of the time.",
+            "By a computation backward from ourselves."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The result of computation; the amount computed."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "The process of performing arithmetical or logical operations, on data by an electronic device."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Reckoning",
+            "calculation",
+            "estimate",
+            "account"
+          ]
+        }
+      ]
+    }
+  ]
+}

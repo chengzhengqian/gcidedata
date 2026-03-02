@@ -1,0 +1,71 @@
+{
+  "key": "compensation",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Compensation",
+      "headword_raw": "Com`pen*sa\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. compensatio a weighing, a balancing of accounts.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act or principle of compensating."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That which constitutes, or is regarded as, an equivalent; that which makes good the lack or variation of something else; that which compensates for loss or privation; amends; remuneration; recompense."
+          ],
+          "quotes": [
+            "The parliament which dissolved the monastic foundations . . . vouchsafed not a word toward securing the slightest compensation to the dispossessed owners.",
+            "No pecuniary compensation can possibly reward them."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "The extinction of debts of which two persons are reciprocally debtors by the credits of which they are reciprocally creditors; the payment of a debt by a credit of equal amount; a set-off.",
+            "A recompense or reward for some loss or service.",
+            "An equivalent stipulated for in contracts for the sale of real estate, in which it is customary to provide that errors in description, etc., shall not avoid, but shall be the subject of compensation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Recompense",
+            "reward",
+            "indemnification",
+            "consideration",
+            "requital",
+            "satisfaction",
+            "set-off"
+          ]
+        }
+      ]
+    }
+  ]
+}

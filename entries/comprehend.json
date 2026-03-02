@@ -1,0 +1,80 @@
+{
+  "key": "comprehend",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Comprehend",
+      "headword_raw": "Com`pre*hend\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. comprehendere, comprehensum; com- + prehendere to grasp, seize; prae before + hendere (used only in comp.). See Get, and cf. Comprise.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Comprehended; p. pr. & vb. n. Comprehending.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To contain; to embrace; to include; as, the states comprehended in the Austrian Empire."
+          ],
+          "quotes": [
+            "Who hath . . . comprehended the dust of the earth in a measure."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To take in or include by construction or implication; to comprise; to imply."
+          ],
+          "quotes": [
+            "Comprehended all in this one word, Discretion.",
+            "And if there be any other commandment, it is briefly comprehended in this saying."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To take into the mind; to grasp with the understanding; to apprehend the meaning of; to understand."
+          ],
+          "quotes": [
+            "At a loss to comprehend the question.",
+            "Great things doeth he, which we can not comprehend."
+          ],
+          "notes": [],
+          "synonyms": [
+            "contain",
+            "include",
+            "embrace",
+            "comprise",
+            "inclose",
+            "grasp",
+            "embody",
+            "involve",
+            "imply",
+            "apprehend",
+            "imagine",
+            "conceive",
+            "understand. See Apprehend"
+          ]
+        }
+      ]
+    }
+  ]
+}

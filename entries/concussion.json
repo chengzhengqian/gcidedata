@@ -1,0 +1,67 @@
+{
+  "key": "concussion",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Concussion",
+      "headword_raw": "Con*cus\"sion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. concussio, fr. concutere, concussum, to shake violenty; con- + quatere to shake. See Cashier, Quash.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A shaking or agitation; a shock; caused by the collision of two bodies."
+          ],
+          "quotes": [
+            "It is believed that great ringing of bells, in populous cities, hath dissipated pestilent air; which may be from the concussion of the air."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "A condition of lowered functional activity, without visible structural change, produced in an organ by a shock, as by fall or blow; as, a concussion of the brain."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Civil Law)",
+            "(Mil.)"
+          ],
+          "defs": [
+            "The unlawful forcing of another by threats of violence to yield up something of value."
+          ],
+          "quotes": [
+            "Then concussion, rapine, pilleries, Their catalogue of accusations fill."
+          ],
+          "notes": [],
+          "synonyms": [
+            "See Shock"
+          ]
+        }
+      ]
+    }
+  ]
+}

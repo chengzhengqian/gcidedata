@@ -1,0 +1,85 @@
+{
+  "key": "concur",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Concur",
+      "headword_raw": "Con*cur\"",
+      "pr": "(?)",
+      "pos": [
+        "v. i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. concurrere to run together, agree; con- + currere to run. See Current.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Concurred (<?/); p. pr. & vb. n. Concurring.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To run together; to meet."
+          ],
+          "quotes": [
+            "Anon they fierce encountering both concurred With grisly looks and faces like their fates."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To meet in the same point; to combine or conjoin; to contribute or help toward a common object or effect."
+          ],
+          "quotes": [
+            "When outward causes concur."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To unite or agree (in action or opinion); to join; to act jointly; to agree; to coincide; to correspond."
+          ],
+          "quotes": [
+            "Mr. Burke concurred with Lord Chatham in opinion.",
+            "Tories and Whigs had concurred in paying honor to Walker.",
+            "This concurs directly with the letter."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "To assent; to consent."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "agree",
+            "unite",
+            "combine",
+            "conspire",
+            "coincide",
+            "approve",
+            "acquiesce",
+            "assent"
+          ]
+        }
+      ]
+    }
+  ]
+}

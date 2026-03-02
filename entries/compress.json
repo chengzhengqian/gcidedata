@@ -1,0 +1,101 @@
+{
+  "key": "compress",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Compress",
+      "headword_raw": "Com*press\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr & vb. n."
+      ],
+      "ety": "[L. compressus, p. p. of comprimere to compress: com- + premere to press. See Press.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": "[imp. & p. p. Compressed (?); p. pr & vb. n. Compressing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To press or squeeze together; to force into a narrower compass; to reduce the volume of by pressure; to compact; to condense; as, to compress air or water."
+          ],
+          "quotes": [
+            "Events of centuries . . . compressed within the compass of a single life.",
+            "The same strength of expression, though more compressed, runs through his historical harangues."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To embrace sexually."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "to reduce the space required for storage (of binary data) by an algorithm which converts the data to a smaller number of bits while preserving the information content. The compressed data is usually decompressed to recover the initial data format before subsequent use."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "crowd",
+            "squeeze",
+            "condense",
+            "reduce",
+            "abridge"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Compress",
+      "headword_raw": "Com\"press",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. compresse.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Surg.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A folded piece of cloth, pledget of lint, etc., used to cover the dressing of wounds, and so placed as, by the aid of a bandage, to make due pressure on any part."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

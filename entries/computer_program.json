@@ -1,0 +1,41 @@
+{
+  "key": "computer_program",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "computer program",
+      "headword_raw": "computer program",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "program",
+        "program",
+        "computer programme"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a sequence of instructions, stored in any medium, that can be interpreted and executed by a computer; -- called most frequently a program. This term is used both for the written program (a document) and for its corresponding electronic version stored or executed on the computer. See instruction; as, Version 1.0 of the program had a serious bug that caused the computer to crash frequently.."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

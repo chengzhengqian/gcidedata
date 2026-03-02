@@ -1,0 +1,91 @@
+{
+  "key": "compost",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Compost",
+      "headword_raw": "Com\"post",
+      "pr": "(?; 277)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OF. compost, fr. L. compositus, p. p. See Composite.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A mixture; a compound."
+          ],
+          "quotes": [
+            "A sad compost of more bitter than sweet."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Agric.)"
+          ],
+          "defs": [
+            "A mixture for fertilizing land; esp., a composition of various substances (as muck, mold, lime, and stable manure) thoroughly mingled and decomposed, as in a compost heap."
+          ],
+          "quotes": [
+            "And do not spread the compost on the weeds To make them ranker."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Compost",
+      "headword_raw": "Com\"post",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To manure with compost."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To mingle, as different fertilizing substances, in a mass where they will decompose and form into a compost."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

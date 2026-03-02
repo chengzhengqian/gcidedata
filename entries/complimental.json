@@ -1,0 +1,59 @@
+{
+  "key": "complimental",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Complimental",
+      "headword_raw": "Com`pli*men\"tal",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Complimentally",
+          "form_raw": "Com`pli*men\"tal*ly",
+          "key": "complimentally",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Complimentalness",
+          "form_raw": "Com`pli*men\"tal*ness",
+          "key": "complimentalness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Complimentary."
+          ],
+          "quotes": [
+            "Languages . . . grow rich and abundant in complimental phrases, and such froth."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

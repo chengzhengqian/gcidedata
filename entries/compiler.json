@@ -1,0 +1,50 @@
+{
+  "key": "compiler",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Compiler",
+      "headword_raw": "Com*pil\"er",
+      "pr": "(km*pīl\"r)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. compiluor; cf. OF. compileor, fr. L. compilator.]",
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One who compiles; esp., one who makes books by compilation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "a computer program that decodes instructions written in a higher-level computer language to produce an assembly-language program or an executable program in machine language."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

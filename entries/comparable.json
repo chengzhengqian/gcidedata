@@ -1,0 +1,59 @@
+{
+  "key": "comparable",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Comparable",
+      "headword_raw": "Com\"pa*ra*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[L. comparabilis: cf. F. comparable.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Comparableness",
+          "form_raw": "Com\"pa*ra*ble*ness",
+          "key": "comparableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Comparably",
+          "form_raw": "Com\"pa*ra*bly",
+          "key": "comparably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Capable of being compared; worthy of comparison."
+          ],
+          "quotes": [
+            "There is no blessing of life comparable to the enjoyment of a discreet and virtuous friend."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

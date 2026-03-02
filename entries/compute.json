@@ -1,0 +1,78 @@
+{
+  "key": "compute",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Compute",
+      "headword_raw": "Com*pute\"",
+      "pr": "(km*pūt\")",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. computare. See Count, v. t.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Computed; p. pr. & vb. n. Computing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "calculate",
+        "number",
+        "count",
+        "reckon",
+        "estimate",
+        "enumerate",
+        "rate. See Calculate"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To determine by calculation; to reckon; to count."
+          ],
+          "quotes": [
+            "Two days, as we compute the days of heaven.",
+            "What's done we partly may compute, But know not what's resisted."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Compute",
+      "headword_raw": "Com*pute\"",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. computus: cf. F. comput.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Computation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

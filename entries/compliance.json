@@ -1,0 +1,60 @@
+{
+  "key": "compliance",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Compliance",
+      "headword_raw": "Com*pli\"ance",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[See Comply.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of complying; a yielding; as to a desire, demand, or proposal; concession; submission."
+          ],
+          "quotes": [
+            "What compliances will remove dissension?",
+            "Ready compliance with the wishes of his people."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A disposition to yield to others; complaisance."
+          ],
+          "quotes": [
+            "A man of few words and of great compliance."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Concession",
+            "submission",
+            "consent",
+            "obedience",
+            "performance",
+            "execution",
+            "acquiescence",
+            "assent"
+          ]
+        }
+      ]
+    }
+  ]
+}

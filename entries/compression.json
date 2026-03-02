@@ -1,0 +1,51 @@
+{
+  "key": "compression",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Compression",
+      "headword_raw": "Com*pres\"sion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. compressio: cf. F. compression.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of compressing, or state of being compressed."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "reduction of the space required for storage (of binary data) by an algorithm which converts the data to a smaller number of bits while preserving the information content. The act of compressing {3}."
+          ],
+          "quotes": [],
+          "notes": [
+            "Compression may be lossless compression, in which all of the information in the original data is preserved, and the original data may be recovered in form identical to its original form; or lossy compression, in which some of the information in the original data is lost, and decompression results in a data form slightly different from the original. Lossy compression is used, for example, to compress audio or video recordings, and sometimes images, where the slight differences in the original data and the data recovered after lossy compression may be imperceptable to the human eye or ear. The JPEG format is produced by a lossy compression algorithm."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "key": "conceivable",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Conceivable",
+      "headword_raw": "Con*ceiv\"a*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[Cf. F. concevable.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Conceivableness",
+          "form_raw": "Con*ceiv\"a*ble*ness",
+          "key": "conceivableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Conceivably",
+          "form_raw": "Con*ceiv\"a*bly",
+          "key": "conceivably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Capable of being conceived, imagined, or understood."
+          ],
+          "quotes": [
+            "It is not conceivable that it should be indeed that very person whose shape and voice it assumed."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

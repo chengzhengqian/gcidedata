@@ -1,0 +1,80 @@
+{
+  "key": "completed",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "completed",
+      "headword_raw": "completed",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "brought to a conclusion."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "concluded",
+            "ended",
+            "over(predicate)",
+            "all over",
+            "terminated"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "successfully accomplished or achieved."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "accomplished",
+            "effected",
+            "realized"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "completed by the first act of sexual intercourse after the ceremony; consummated; -- of a marriage. Opposite of unconsummated."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "consummated"
+          ]
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Football)"
+          ],
+          "defs": [
+            "caught in bounds by a player on the same side as the passer; -- said of a forward pass; as, Simms had six completed passes out of seven tries in the game.."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "key": "complaisant",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Complaisant",
+      "headword_raw": "Com\"plai*sant",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[F. complaisant, p. pr. of complaire to acquiesce as a favor, fr. L. complacere. See Complacent.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Complaisantly",
+          "form_raw": "Com\"plai*sant`ly",
+          "key": "complaisantly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Complaisantness",
+          "form_raw": "Com\"plai*sant`ness",
+          "key": "complaisantness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Obliging",
+        "courteous",
+        "affable",
+        "gracious",
+        "civil",
+        "polite",
+        "well-bred. See Obliging"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Desirous to please; courteous; obliging; compliant; as, a complaisant gentleman."
+          ],
+          "quotes": [
+            "There are to whom my satire seems too bold: Scarce to wise Peter complaisant enough."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

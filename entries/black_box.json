@@ -1,0 +1,50 @@
+{
+  "key": "black_box",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Black box",
+      "headword_raw": "Black\" box`",
+      "pr": "(blk\"bks`)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "any electronic instrument or part of an instrument whose function is defined, but which is treated as a unit without consideration of the internal mechanisms; broadly, any device whose internal workings are considered as incomprehensible or mysterious by the user; as, to treat the meter as a black box and take its readings on faith."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(aviation)"
+          ],
+          "defs": [
+            "a device which maintains a record of cockpit conversations and the readings of many of the instruments on board an aircraft, continuously or at frequent time intervals during a flight. It is of rugged design to withstand a violent crash, and is used to determine the causes of aircraft accidents."
+          ],
+          "quotes": [],
+          "notes": [
+            "They are often brightly colored to assist recovery, not actually black."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "key": "blacksmith",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Blacksmith",
+      "headword_raw": "Black\"smith`",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Black (in allusion to the color of the metal) + smith. Cf. Whitesmith.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A smith who works in iron with a forge, and makes iron utensils, horseshoes, etc."
+          ],
+          "quotes": [
+            "The blacksmith may forge what he pleases."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "A fish of the Pacific coast (Chromis punctipinnis, or Heliastes punctipinnis), of a blackish color."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

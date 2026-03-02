@@ -1,0 +1,65 @@
+{
+  "key": "bissextile",
+  "source_file": "CIDE.B",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Bissextile",
+      "headword_raw": "Bis*sex\"tile",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. bissextilis annus, fr. bissextus (bis + sextus sixth, fr. sex six) the sixth of the calends of March, or twenty-fourth day of February, which was reckoned twice every fourth year, by the intercalation of a day.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Leap year; every fourth year, in which a day is added to the month of February on account of the excess of the tropical year (365 d. 5 h. 48 m. 46 s.) above 365 days. But one day added every four years is equivalent to six hours each year, which is 11 m. 14 s. more than the excess of the real year. Hence, it is necessary to suppress the bissextile day at the end of every century which is not divisible by 400, while it is retained at the end of those which are divisible by 400."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Bissextile",
+      "headword_raw": "Bis*sex\"tile",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Pertaining to leap year."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "key": "blimp",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Blimp",
+      "headword_raw": "Blimp",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[from Colonel Blimp, a fictional character]",
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "Colonel Blimp"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a small nonrigid airship used for observation or as a barrage balloon."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "sausage balloon",
+            "sausage"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "key": "black_lung_disease",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "black lung disease",
+      "headword_raw": "black lung disease",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "the popular name for a form of the chronic lung disease pneumoconiosis which is observed among coal miners, and is caused by the inhalation of coal dust. It is thus named because of the black appearance of the lungs (pneumomelanosis) of those affected with the disease. See also the related condition anthracosis."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

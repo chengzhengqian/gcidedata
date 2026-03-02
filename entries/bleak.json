@@ -1,0 +1,125 @@
+{
+  "key": "bleak",
+  "source_file": "CIDE.B",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Bleak",
+      "headword_raw": "Bleak",
+      "pr": "(blēk)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[OE. blac, bleyke, bleche, AS. blāc, blǣc, pale, wan; akin to Icel. bleikr, Sw. blek, Dan. bleg, OS. blēk, D. bleek, OHG. pleih, G. bleich; all from the root of AS. blīcan to shine; akin to OHG. blīchen to shine; cf. L. flagrare to burn, Gr. fle`gein to burn, shine, Skr. bhrāj to shine, and E. flame. √98. Cf. Bleach, Blink, Flame.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Bleakish",
+          "form_raw": "Bleak\"ish",
+          "key": "bleakish",
+          "pos": [
+            "a."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Bleakly",
+          "form_raw": "Bleak\"ly",
+          "key": "bleakly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Bleakness",
+          "form_raw": "Bleak\"ness",
+          "key": "bleakness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Without color; pale; pallid."
+          ],
+          "quotes": [
+            "When she came out she looked as pale and as bleak as one that were laid out dead."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Desolate and exposed; swept by cold winds."
+          ],
+          "quotes": [
+            "Wastes too bleak to rear The common growth of earth, the foodful ear.",
+            "At daybreak, on the bleak sea beach."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Cold and cutting; cheerless; as, a bleak blast."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Bleak",
+      "headword_raw": "Bleak",
+      "pr": null,
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[From Bleak, a., cf. Blay.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Zool.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A small European river fish (Leuciscus alburnus), of the family Cyprinidæ; the blay."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The silvery pigment lining the scales of the bleak is used in the manufacture of artificial pearls."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

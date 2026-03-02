@@ -1,0 +1,47 @@
+{
+  "key": "black_hole",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "black hole",
+      "headword_raw": "black\" hole`",
+      "pr": "(<?/)",
+      "pos": [],
+      "ety": "[from the astronomical black hole.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "2.",
+          "fields": [
+            "(Physics, Astron.)"
+          ],
+          "defs": [
+            "An astronomical object whose mass is so condensed that the gravitational force does not allow anything, even light, to escape from its outer limit (the event horizon). The existence of such objects was first proposed from theoretical considerations. Because light cannot escape from such objects, they have not yet been detected with certainty (1998), but several \"candidates\" have been observed whose properties strongly suggest that they are black holes. Some theorists suggest that the centers of many galaxies may have large black holes at their cores. See also escape velocity."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "a place into which things may enter, but can never emerge."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

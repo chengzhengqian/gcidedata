@@ -1,0 +1,49 @@
+{
+  "key": "bleared",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Bleared",
+      "headword_raw": "Bleared",
+      "pr": "(<?/)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Blearedness",
+          "form_raw": "Blear\"ed*ness",
+          "key": "blearedness",
+          "pos": [
+            "n."
+          ],
+          "pr": "(<?/)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Dimmed, as by a watery humor; affected with rheum."
+          ],
+          "quotes": [
+            "Dardanian wives, With bleared visages, come forth to view The issue of the exploit."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

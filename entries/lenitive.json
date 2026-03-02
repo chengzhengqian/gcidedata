@@ -1,0 +1,80 @@
+{
+  "key": "lenitive",
+  "source_file": "CIDE.L",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Lenitive",
+      "headword_raw": "Len\"i*tive",
+      "pr": "(-tv)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Cf. F. lnitif. See Lenient.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Having the quality of softening or mitigating, as pain or acrimony; assuasive; emollient."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Lenitive",
+      "headword_raw": "Len\"i*tive",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. lnitif.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "A medicine or application that has the quality of easing pain or protecting from the action of irritants.",
+            "A mild purgative; a laxative."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That which softens or mitigates; that which tends to allay passion, excitement, or pain; a palliative."
+          ],
+          "quotes": [
+            "There is one sweet lenitive at least for evils, which Nature holds out; so I took it kindly at her hands, and fell asleep."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

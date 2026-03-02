@@ -1,0 +1,88 @@
+{
+  "key": "leftover",
+  "source_file": "CIDE.L",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "leftover",
+      "headword_raw": "leftover",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "not used up; remaining after use of part; as, unusable leftover auto parts."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "left over(predicate)",
+            "left(predicate)",
+            "odd",
+            "remaining",
+            "unexpended"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "remaining from a previous meal; -- of food; as, leftover food served at a later meal."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "cooked-over",
+            "warmed-over",
+            "reheated"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "leftover",
+      "headword_raw": "leftover",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "remnant"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An unused part or portion; -- used especially of food remaining uneaten from a previous meal; as, to have leftovers for dinner."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

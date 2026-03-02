@@ -1,0 +1,69 @@
+{
+  "key": "leprous",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Leprous",
+      "headword_raw": "Lep\"rous",
+      "pr": "(-rūs)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[OF. leprous, lepros, F. lpreux, fr. L. leprosus, fr. lepra, leprae, leprosy. See Leper.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Leprously",
+          "form_raw": "Lep\"rous*ly",
+          "key": "leprously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Leprousness",
+          "form_raw": "Lep\"rous*ness",
+          "key": "leprousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Infected with leprosy; pertaining to or resembling leprosy."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Nat. Hist.)"
+          ],
+          "defs": [
+            "Leprose."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

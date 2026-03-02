@@ -1,0 +1,111 @@
+{
+  "key": "lever",
+  "source_file": "CIDE.L",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Lever",
+      "headword_raw": "Lev\"er",
+      "pr": "(lē\"vr)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Old compar. of leve or lief.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "More agreeable; more pleasing."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Lever",
+      "headword_raw": "Lev\"er",
+      "pr": null,
+      "pos": [
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Rather."
+          ],
+          "quotes": [
+            "For lever had I die than see his deadly face."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Lever",
+      "headword_raw": "Le\"ver",
+      "pr": "(lē\"vr lv\"r; 277)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. levour, OF. leveor, prop., a lifter, fr. F. lever to raise, L. levare; akin to levis light in weight, E. levity, and perh. to E. light not heavy: cf. F. levier. Cf. Alleviate, Elevate, Leaven, Legerdemain, Levee, Levy, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Mech.)"
+          ],
+          "defs": [
+            "A rigid piece which is capable of turning about one point, or axis (the fulcrum), and in which are two or more other points where forces are applied; -- used for transmitting and modifying force and motion. Specif., a bar of metal, wood, or other rigid substance, used to exert a pressure, or sustain a weight, at one point of its length, by receiving a force or power at a second, and turning at a third on a fixed point called a fulcrum. It is usually named as the first of the six mechanical powers, and is of three kinds, according as either the fulcrum F, the weight W, or the power P, respectively, is situated between the other two, as in the figures."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mach.)"
+          ],
+          "defs": [
+            "A bar, as a capstan bar, applied to a rotatory piece to turn it.",
+            "An arm on a rock shaft, to give motion to the shaft or to obtain motion from it."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

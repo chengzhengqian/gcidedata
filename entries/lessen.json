@@ -1,0 +1,82 @@
+{
+  "key": "lessen",
+  "source_file": "CIDE.L",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Lessen",
+      "headword_raw": "Less\"en",
+      "pr": "(ls\"'n)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "a."
+      ],
+      "ety": "[From Less, a.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Lessened (-'nd); p. pr. & vb. n. Lessening.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "diminish",
+        "reduce",
+        "abate",
+        "decrease",
+        "lower",
+        "impair",
+        "weaken",
+        "degrade"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To make less; to reduce; to make smaller, or fewer; to diminish; to lower; to degrade; as, to lessen a kingdom, or a population; to lessen speed, rank, fortune."
+          ],
+          "quotes": [
+            "Charity . . . shall lessen his punishment.",
+            "St. Paul chose to magnify his office when ill men conspired to lessen it."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Lessen",
+      "headword_raw": "Less\"en",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To become less; to shrink; to contract; to decrease; to be diminished; as, the apparent magnitude of objects lessens as we recede from them; his care, or his wealth, lessened."
+          ],
+          "quotes": [
+            "The objection lessens much, and comes to no more than this: there was one witness of no good reputation."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "key": "lemmatization",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "lemmatization",
+      "headword_raw": "lem`ma*tiz*a\"tion",
+      "pr": "(lm`m*tz*ā\"shn)",
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The act or process of lemmatizing; conversion into a lemma{2}."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Lemmatization of search words in a computerized Information Retrieval System may allow more effective retrieval of documents of interest to the searcher."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

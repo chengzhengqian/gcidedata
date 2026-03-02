@@ -1,0 +1,36 @@
+{
+  "key": "lemmatize",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "lemmatize",
+      "headword_raw": "lem\"ma*tize",
+      "pr": "(lm\"m*tīz`)",
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To convert into a lemma{2}; to normalize the form of (a word) to that form used as the headword in a dictionary, glossary, or index; as, “ride” is the lemmatized form for “riding” and “ridden”."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "key": "ledger",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Ledger",
+      "headword_raw": "Ledg\"er",
+      "pr": "(lj\"r)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Akin to D. legger layer, daybook (fr. leggen to lay, liggen to lie), E. ledge, lie. See Lie to be prostrate.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A book in which a summary of accounts is laid up or preserved; the final book of record in business transactions, in which all debits and credits from the journal, etc., are placed under appropriate heads."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Arch.)",
+            "(Mining)"
+          ],
+          "defs": [
+            "A large flat stone, esp. one laid over a tomb.",
+            "A horizontal piece of timber secured to the uprights and supporting floor timbers, a staircase, scaffolding, or the like. It differs from an intertie in being intended to carry weight."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

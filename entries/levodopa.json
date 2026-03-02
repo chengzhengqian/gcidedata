@@ -1,0 +1,38 @@
+{
+  "key": "levodopa",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "levodopa",
+      "headword_raw": "le`vo*do\"pa",
+      "pr": "(lē`v*dō\"p)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Levo- + DOPA, dihydroxyphenylalanine.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem. & Biochem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A substance used as a therapy for Parkinson's Disease; the L form of Dopa; L-dihydroxyphenylalanine; L-hydroxytyrosine (C9H11NO4); also called L-dopa. In the body it is converted by the enzyme dopa-decarboxylase into dopamine, the form in which it is active in the brain, affecting neural impulse transmission."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

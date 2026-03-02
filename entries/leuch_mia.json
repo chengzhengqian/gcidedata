@@ -1,0 +1,49 @@
+{
+  "key": "leuch_mia",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Leuchæmia",
+      "headword_raw": "Leu*ch<ae/\"mi*a",
+      "pr": "(l*kē\"m*)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[NL., fr. Gr. leyko`s white + a\"i^ma blood.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Leuchæmic",
+          "form_raw": "Leu*ch<ae/m\"ic",
+          "key": "leuch_mic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(l*km\"k)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "See Leukemia."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "key": "lefty",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "lefty",
+      "headword_raw": "lefty",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a person who uses the left hand with greater skill than the right; a left-handed person."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "lefthander",
+            "southpaw"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a baseball pitcher who throws the ball with the left hand."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "left-handed pitcher",
+            "left-hander",
+            "southpaw"
+          ]
+        }
+      ]
+    }
+  ]
+}

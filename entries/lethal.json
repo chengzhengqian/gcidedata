@@ -1,0 +1,78 @@
+{
+  "key": "lethal",
+  "source_file": "CIDE.L",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Lethal",
+      "headword_raw": "Leth\"al",
+      "pr": "(lth\"l)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Lauric + ether + alcohol.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "One of the higher alcohols of the paraffine series obtained from spermaceti as a white crystalline solid. It is so called because it occurs in the ethereal salt of lauric acid."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Lethal",
+      "headword_raw": "Le\"thal",
+      "pr": "(lē\"thl)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[L. lethalis, letalis, fr. lethum, letum, death: cf. F. lthal.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Lethally",
+          "form_raw": "Le\"thal*ly",
+          "key": "lethally",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Deadly; mortal; fatal."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

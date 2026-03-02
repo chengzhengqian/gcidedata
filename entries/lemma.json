@@ -1,0 +1,49 @@
+{
+  "key": "lemma",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Lemma",
+      "headword_raw": "Lem\"ma",
+      "pr": "(lm\"m)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. lemma, Gr. lh^mma anything received, an assumption or premise taken for granted, fr. lamba`nein to take, assume. Cf. Syllable.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Math., Logic)"
+          ],
+          "defs": [
+            "A preliminary or auxiliary proposition demonstrated or accepted for immediate use in the demonstration of some other proposition, as in mathematics or logic."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A word that is included in a glossary or list of headwords; a headword."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "key": "haematolysis",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Haematolysis",
+      "headword_raw": "Haem`a*tol\"y*sis",
+      "pr": "(hm`*tl\"*ss or h`m-)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[NL.; haemato- + Gr. ly`sis a loosing, dissolving, fr. ly`ein to loose, dissolve.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Haematolytic",
+          "form_raw": "Haem`a*to*lyt\"ic",
+          "key": "haematolytic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physiol.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Dissolution of the red blood corpuscles with diminished coagulability of the blood; haemolysis."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "key": "habitual",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Habitual",
+      "headword_raw": "Ha*bit\"ual",
+      "pr": "(h*bt\"*l; 135)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[Cf. F. habituel, LL. habitualis. See Habit, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Habitually",
+          "form_raw": "Ha*bit\"u*al*ly",
+          "key": "habitually",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Habitualness",
+          "form_raw": "Ha*bit\"u*al*ness",
+          "key": "habitualness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Formed or acquired by habit or use."
+          ],
+          "quotes": [
+            "An habitual knowledge of certain rules and maxims."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "According to habit; established by habit; customary; constant; as, the habitual practice of sin."
+          ],
+          "quotes": [
+            "It is the distinguishing mark of habitual piety to be grateful for the most common and ordinary blessings."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Customary",
+            "accustomed",
+            "usual",
+            "common",
+            "wonted",
+            "ordinary",
+            "regular",
+            "familiar"
+          ]
+        }
+      ]
+    }
+  ]
+}

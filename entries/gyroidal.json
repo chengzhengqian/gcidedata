@@ -1,0 +1,60 @@
+{
+  "key": "gyroidal",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Gyroidal",
+      "headword_raw": "Gy*roid\"al",
+      "pr": "(j*roid\"l)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Gr. gy^ros circle + -oid + -al.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Spiral in arrangement or action."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Crystallog.)"
+          ],
+          "defs": [
+            "Having the planes arranged spirally, so that they incline all to the right (or left) of a vertical line; -- said of certain hemihedral forms."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Opt.)"
+          ],
+          "defs": [
+            "Turning the plane of polarization circularly or spirally to the right or left."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "key": "habitable",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Habitable",
+      "headword_raw": "Hab\"it*a*ble",
+      "pr": "(hb\"t**b'l)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[F. habitable, L. habitabilis.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Habitableness",
+          "form_raw": "Hab\"it*a*ble*ness",
+          "key": "habitableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Habitably",
+          "form_raw": "Hab\"it*a*bly",
+          "key": "habitably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Capable of being inhabited; that may be inhabited or dwelt in; as, the habitable world."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

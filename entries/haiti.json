@@ -1,0 +1,49 @@
+{
+  "key": "haiti",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Haiti",
+      "headword_raw": "Haiti",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a country on the island of Hispaniola."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "an island in the West Indies."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Hispaniola",
+            "Hayti"
+          ]
+        }
+      ]
+    }
+  ]
+}

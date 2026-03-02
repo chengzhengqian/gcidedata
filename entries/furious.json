@@ -1,0 +1,78 @@
+{
+  "key": "furious",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Furious",
+      "headword_raw": "Fu\"ri*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. furiosus, fr. furia rage, fury: cf. F. furieux. See Fury.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Furiously",
+          "form_raw": "Fu\"ri*ous*ly",
+          "key": "furiously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Furiousness",
+          "form_raw": "Fu\"ri*ous*ness",
+          "key": "furiousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Transported with passion or fury; raging; violent; as, a furious animal."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Rushing with impetuosity; moving with violence; as, a furious stream; a furious wind or storm."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Impetuous",
+            "vehement",
+            "boisterous",
+            "fierce",
+            "turbulent",
+            "tumultuous",
+            "angry",
+            "mad",
+            "frantic",
+            "frenzied"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "key": "gaelic",
+  "source_file": "CIDE.G",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Gaelic",
+      "headword_raw": "Gael\"ic",
+      "pr": "(?; 277)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Gael. Gidhealach, Gaelach, from Gidheal, Gael, a Scotch Highlander.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Ethnol.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to the Gael, esp. to the Celtic Highlanders of Scotland; as, the Gaelic language."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Gaelic",
+      "headword_raw": "Gael\"ic",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gael. Gaelig, Gilig.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The language of the Gaels, esp. of the Highlanders of Scotland. It is a branch of the Celtic."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

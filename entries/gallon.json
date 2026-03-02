@@ -1,0 +1,38 @@
+{
+  "key": "gallon",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Gallon",
+      "headword_raw": "Gal\"lon",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OF galon, jalon, LL. galo, galona, fr. galum a liquid measure; cf. F. jale large bowl. Cf. Gill a measure.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A measure of capacity, containing four quarts; -- used, for the most part, in liquid measure, but sometimes in dry measure."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The standart gallon of the Unites States contains 231 cubic inches, or 8.3389 pounds avoirdupois of distilled water at its maximum density, and with the barometer at 30 inches. This is almost exactly equivalent to a cylinder of seven inches in diameter and six inches in height, and is the same as the old English wine gallon. The beer gallon, now little used in the United States, contains 282 cubic inches. The English imperial gallon contains 10 pounds avoirdupois of distilled water at 62<?/ of Fahrenheit, and barometer at 30 inches, equal to 277.274 cubic inches."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

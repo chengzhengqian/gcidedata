@@ -1,0 +1,48 @@
+{
+  "key": "furnishings",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "furnishings",
+      "headword_raw": "fur\"nish*ings",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "the furniture and appliances and other movable accessories (including curtains and rugs) that make a home (or other building) livable."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "accessory wearing apparel."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "trappings"
+          ]
+        }
+      ]
+    }
+  ]
+}

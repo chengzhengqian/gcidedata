@@ -1,0 +1,50 @@
+{
+  "key": "gait",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Gait",
+      "headword_raw": "Gait",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[See Gate a way.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A going; a walk; a march; a way."
+          ],
+          "quotes": [
+            "Good gentleman, go your gait, and let poor folks pass."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Manner of walking or stepping; bearing or carriage while moving."
+          ],
+          "quotes": [
+            "'T is Cinna; I do know him by his gait."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

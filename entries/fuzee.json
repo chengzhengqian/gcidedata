@@ -1,0 +1,53 @@
+{
+  "key": "fuzee",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "fuzee",
+      "headword_raw": "fuzee",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a friction match with a large head that will stay alight in the wind."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "fusee"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "any device by which an explosive charge is ignited."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "fuse",
+            "fuze",
+            "fusee",
+            "primer"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "key": "gaga",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "gaga",
+      "headword_raw": "gaga",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "mentally or physically infirm with age."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "doddering",
+            "senile"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "marked by foolish or unreasoning fondness; as, gaga over his girlfriend."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "crazy about",
+            "dotty",
+            "enamored",
+            "infatuated",
+            "in love",
+            "smitten",
+            "soft on(predicate)",
+            "taken with(predicate)"
+          ]
+        }
+      ]
+    }
+  ]
+}

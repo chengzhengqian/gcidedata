@@ -1,0 +1,66 @@
+{
+  "key": "g-string",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "G-string",
+      "headword_raw": "G-string",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[from Dr. Graubau.]",
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a patch of cloth attached to and supported by string-like cords, worn over the hips, and serving to cover only the pubic area; -- often worn by stripteasers."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "thong",
+            "merkin"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A small covering for the loins."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "breechcloth",
+            "breechclout",
+            "loincloth"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Physics)"
+          ],
+          "defs": [
+            "A transmission line consisting a single wire coated with dielectric, thus permitting surface-wave propagation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "key": "gamma_ray",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Gamma ray",
+      "headword_raw": "Gam\"ma ray",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl.",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A very penetrating electromagnetic ray not appreciably deflected by a magnetic or electric field, emitted by radioactive substances. Gamma rays are photons of electromagnetic radiation having a wavelength shorter than that of X-rays, (i. e. shorter than 0.1 nanometer) and are correspondingly more penetrating than X-rays. In addition to being given off in certain types of radioactive decay, they may be found in cosmic radiation, though they are largely absorbed by the earth's atmosphere. Gamma-ray detectors orbited above the atmosphere have found bursts of gamma radiation, in some cases associated with visually observed supernova explosions, but in most cases from unidentified sources."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

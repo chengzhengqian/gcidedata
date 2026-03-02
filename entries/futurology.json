@@ -1,0 +1,56 @@
+{
+  "key": "futurology",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "futurology",
+      "headword_raw": "fu`tur*ol\"o*gy",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "futurological",
+          "form_raw": "fu`tur*o*log\"i*cal",
+          "key": "futurological",
+          "pos": [
+            "a."
+          ],
+          "pr": null
+        },
+        {
+          "form": "futurologist",
+          "form_raw": "fu`tur*ol\"o*gist",
+          "key": "futurologist",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Studies projecting or predicting the future based on current trends."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

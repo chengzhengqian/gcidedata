@@ -1,0 +1,49 @@
+{
+  "key": "extraneous",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Extraneous",
+      "headword_raw": "Ex*tra\"ne*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[L. extraneus, from extra. See Extra-, Strange.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Extraneously",
+          "form_raw": "Ex*tra\"ne*ous*ly",
+          "key": "extraneously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not belonging to, or dependent upon, a thing; without or beyond a thing; not essential or intrinsic; foreign; as, to separate gold from extraneous matter."
+          ],
+          "quotes": [
+            "Nothing is admitted extraneous from the indictment."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "key": "factum",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Factum",
+      "headword_raw": "Fac\"tum",
+      "pr": "(fk\"tm)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. See Fact.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Law)",
+            "(Civil Law)",
+            "(Testamentary Law)"
+          ],
+          "defs": [
+            "A man's own act and deed",
+            "Anything stated and made certain.",
+            "The due execution of a will, including everything necessary to its validity."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mach.)"
+          ],
+          "defs": [
+            "The product. See Facient, 2."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

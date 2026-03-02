@@ -1,0 +1,52 @@
+{
+  "key": "extremum",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "extremum",
+      "headword_raw": "extremum",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "the point located farthest from the middle of something."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "extreme point",
+            "extreme",
+            "extremity"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "the most extreme possible amount or value."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "peak"
+          ]
+        }
+      ]
+    }
+  ]
+}

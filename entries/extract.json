@@ -1,0 +1,162 @@
+{
+  "key": "extract",
+  "source_file": "CIDE.E",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Extract",
+      "headword_raw": "Ex*tract\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. extractus, p. p. of extrahere to extract; ex out + trahere to draw. See Trace, and cf. Estreat.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Extracted; p. pr. & vb. n. Extracting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To draw out or forth; to pull out; to remove forcibly from a fixed position, as by traction or suction, etc.; as, to extract a tooth from its socket, a stump from the earth, a splinter from the finger."
+          ],
+          "quotes": [
+            "The bee Sits on the bloom extracting liquid sweet."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To withdraw by expression, distillation, or other mechanical or chemical process; as, to extract an essence. Cf. Abstract, v. t., 6."
+          ],
+          "quotes": [
+            "Sunbeams may be extracted from cucumbers, but the process is tedious."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "To take by selection; to choose out; to cite or quote, as a passage from a book."
+          ],
+          "quotes": [
+            "I have extracted out of that pamphlet a few notorious falsehoods."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Extract",
+      "headword_raw": "Ex\"tract`",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "That which is extracted or drawn out."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A portion of a book or document, separately transcribed; a citation; a quotation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A decoction, solution, or infusion made by dissolving out from any substance that which gives it its essential and characteristic virtue; essence; as, extract of beef; extract of dandelion; also, any substance so extracted, and characteristic of that from which it is obtained; as, quinine is the most important extract of Peruvian bark."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "A solid preparation obtained by evaporating a solution of a drug, etc., or the fresh juice of a plant; -- distinguished from an abstract. See Abstract, n., 4."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Old Chem.)"
+          ],
+          "defs": [
+            "A peculiar principle once erroneously supposed to form the basis of all vegetable extracts; -- called also the extractive principle."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [],
+          "defs": [
+            "Extraction; descent."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "7.",
+          "fields": [
+            "(Scots Law)",
+            "(Med.)"
+          ],
+          "defs": [
+            "A draught or copy of writing; certified copy of the proceedings in an action and the judgement therein, with an order for execution."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

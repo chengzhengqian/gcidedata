@@ -1,0 +1,32 @@
+SIMPLE: factorial
+RECORDS: 2
+
+==== ENTRY 1 ====
+HEADWORD: Factorial
+<hw>Fac*to"ri*al</hw> <pr>(?)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Of or
+pertaining to a factory.</def> <rj><au>Buchanan.</au></rj>⟦br⟧
+[<source>1913 Webster</source>]</p>
+
+<p><sn>2.</sn> <fld>(Math.)</fld> <def>Related to factorials.</def>⟦br⟧
+[<source>1913 Webster</source>]</p>
+
+<p><ent>Factorial</ent>⟦br⟧
+
+==== ENTRY 2 ====
+HEADWORD: Factorial
+<hw>Fac*to"ri*al</hw>, <pos>n.</pos> <fld>(Math.)</fld> <sd>(a)</sd>
+<pluf>pl.</pluf> <def>A name given to the factors of a continued product
+when the former are derivable from one and the same function F(x) by
+successively imparting a constant increment or decrement <xex>h</xex> to
+the independent variable. Thus the product <mathex>F(x).F(x + h).F(x +
+2h) . . . F[x + (n-1)h]</mathex> is called a <xex>factorial term</xex>,
+and its several factors take the name of <xex>factorials</xex>.</def>
+<rj><au>Brande & C.</au></rj></p>
+
+<p><sd>(b)</sd> <def>The product of the consecutive whole numbers from
+unity up to any given number; <as>thus, 5 <ex>factorial</ex> is the
+product of 5 times four times three times two times one, or
+120</as>.</def>⟦br⟧
+[<source>1913 Webster</source> <source>+PJC</source>]</p>
+
+<p><ent>Factoring</ent>⟦br⟧

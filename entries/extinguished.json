@@ -1,0 +1,64 @@
+{
+  "key": "extinguished",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "extinguished",
+      "headword_raw": "extinguished",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Psychol.)"
+          ],
+          "defs": [
+            "caused to die out because of the absence or withdrawal of reinforcement; -- of a conditioned response."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "no longer burning; -- of a fire."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "extinct",
+            "out(predicate)",
+            "quenched"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "no longer existing; -- of species."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "dead"
+          ]
+        }
+      ]
+    }
+  ]
+}

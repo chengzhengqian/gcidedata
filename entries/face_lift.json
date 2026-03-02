@@ -1,0 +1,52 @@
+{
+  "key": "face_lift",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "face lift",
+      "headword_raw": "face lift",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "an operation to remove wrinkles and other signs of aging from a person's face."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "face lifting",
+            "rhytidectomy",
+            "rhytidoplasty"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a renovation that improves the outward appearance, as of a building."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "face lifting"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "key": "factorize",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "factorize",
+      "headword_raw": "fac\"tor*ize",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5"
+      ],
+      "morph": "[imp. & p. p. Factorized (-?zd); p. pr. & vb. n. Factorizing (-?\"z?ng).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "To give warning to; -- said of a person in whose hands the effects of another are attached, the warning being to the effect that he shall not pay the money or deliver the property of the defendant in his hands to him, but appear and answer the suit of the plaintiff.",
+            "To attach (the effects of a debtor) in the hands of a third person; to garnish. See Garnish."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "to resolve (a complex expression, such as a polynomial) into factors."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "factorise"
+          ]
+        }
+      ]
+    }
+  ]
+}

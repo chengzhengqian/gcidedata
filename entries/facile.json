@@ -1,0 +1,106 @@
+{
+  "key": "facile",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Facile",
+      "headword_raw": "Fac\"ile",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. facilis, prop., capable of being done or made, hence, facile, easy, fr. facere to make, do: cf. F. facile. Srr Fact, and cf. Faculty.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Facilely",
+          "form_raw": "Fac\"ile*ly",
+          "key": "facilely",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Facileness",
+          "form_raw": "Fac\"ile*ness",
+          "key": "facileness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Easy to be done or performed: not difficult; performable or attainable with little labor."
+          ],
+          "quotes": [
+            "Order . . . will render the work facile and delightful."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Easy to be surmounted or removed; easily conquerable; readily mastered."
+          ],
+          "quotes": [
+            "The facile gates of hell too slightly barred."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Easy of access or converse; mild; courteous; not haughty, austere, or distant; affable; complaisant."
+          ],
+          "quotes": [
+            "I meant she should be courteous, facile, sweet."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Easily persuaded to good or bad; yielding; ductile to a fault; pliant; flexible."
+          ],
+          "quotes": [
+            "Since Adam, and his facile consort Eve, Lost Paradise, deceived by me.",
+            "This is treating Burns like a child, a person of so facile a disposition as not to be trusted without a keeper on the king's highway."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "Ready; quick; expert; as, he is facile in expedients; he wields a facile pen."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

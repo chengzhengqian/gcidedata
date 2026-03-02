@@ -1,0 +1,59 @@
+{
+  "key": "facete",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Facete",
+      "headword_raw": "Fa*cete\"",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. facetus elegant, fine, facetious; akin to facies. See Face, and cf. Facetious.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Facetely",
+          "form_raw": "Fa*cete\"ly",
+          "key": "facetely",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Faceteness",
+          "form_raw": "Fa*cete\"ness",
+          "key": "faceteness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Facetious; witty; humorous."
+          ],
+          "quotes": [
+            "“How to interpose” with a small, smart remark, sentiment facete, or unctuous anecdote."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

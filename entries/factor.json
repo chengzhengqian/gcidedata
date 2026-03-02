@@ -1,0 +1,108 @@
+{
+  "key": "factor",
+  "source_file": "CIDE.F",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Factor",
+      "headword_raw": "Fac\"tor",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. factor a doer: cf. F. facteur a factor. See Fact.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "One who transacts business for another; an agent; a substitute; especially, a mercantile agent who buys and sells goods and transacts business for others in commission; a commission merchant or consignee. He may be a home factor or a foreign factor. He may buy and sell in his own name, and he is intrusted with the possession and control of the goods; and in these respects he differs from a broker."
+          ],
+          "quotes": [
+            "My factor sends me word, a merchant's fled That owes me for a hundred tun of wine."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A steward or bailiff of an estate."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "One of the elements or quantities which, when multiplied together, form a product."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "One of the elements, circumstances, or influences which contribute to produce a result; a constituent; a contributory cause."
+          ],
+          "quotes": [
+            "The materal and dynamical factors of nutrition."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Factor",
+      "headword_raw": "Fac\"tor",
+      "pr": "(-trd)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Factored (-trd); p. pr. & vb. n. Factoring.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Mach.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To resolve (a quantity) into its factors."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

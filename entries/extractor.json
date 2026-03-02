@@ -1,0 +1,64 @@
+{
+  "key": "extractor",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Extractor",
+      "headword_raw": "Ex*tract\"or",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Surg.)",
+            "(Breech-loading Firearms)"
+          ],
+          "defs": [
+            "One who, or that which, extracts",
+            "A forceps or instrument for extracting substances.",
+            "A device for withdrawing a cartridge or spent cartridge shell from the chamber of the barrel."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A centrifugal drying machine."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Apiculture)"
+          ],
+          "defs": [
+            "A machine for clearing combs of honey; also, a device for rendering wax."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

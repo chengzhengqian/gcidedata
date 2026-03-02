@@ -1,0 +1,48 @@
+{
+  "key": "facture",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Facture",
+      "headword_raw": "Fac\"ture",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. facture a making, invoice, L. factura a making. See Fact.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act or manner of making or doing anything; -- now used of a literary, musical, or pictorial production."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Com.)"
+          ],
+          "defs": [
+            "An invoice or bill of parcels."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "key": "factorise",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "factorise",
+      "headword_raw": "factorise",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "to resolve into factors, as of a polynomial; same as factorize."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "factorize"
+          ]
+        }
+      ]
+    }
+  ]
+}

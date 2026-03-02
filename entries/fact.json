@@ -1,0 +1,84 @@
+{
+  "key": "fact",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Fact",
+      "headword_raw": "Fact",
+      "pr": "(fkt)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. factum, fr. facere to make or do. Cf. Feat, Affair, Benefit, Defect, Fashion, and -fy.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A doing, making, or preparing."
+          ],
+          "quotes": [
+            "A project for the fact and vending Of a new kind of fucus, paint for ladies."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "An effect produced or achieved; anything done or that comes to pass; an act; an event; a circumstance."
+          ],
+          "quotes": [
+            "What might instigate him to this devilish fact, I am not able to conjecture.",
+            "He who most excels in fact of arms."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Reality; actuality; truth; as, he, in fact, excelled all the rest; the fact is, he was beaten."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "The assertion or statement of a thing done or existing; sometimes, even when false, improperly put, by a transfer of meaning, for the thing done, or supposed to be done; a thing supposed or asserted to be done; as, history abounds with false facts."
+          ],
+          "quotes": [
+            "I do not grant the fact.",
+            "This reasoning is founded upon a fact which is not true."
+          ],
+          "notes": [
+            "☞ The term fact has in jurisprudence peculiar uses in contrast with law; as, attorney at law, and attorney in fact; issue in law, and issue in fact. There is also a grand distinction between law and fact with reference to the province of the judge and that of the jury, the latter generally determining the fact, the former the law."
+          ],
+          "synonyms": [
+            "Act",
+            "deed",
+            "performance",
+            "event",
+            "incident",
+            "occurrence",
+            "circumstance"
+          ]
+        }
+      ]
+    }
+  ]
+}

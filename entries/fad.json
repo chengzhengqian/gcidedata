@@ -1,0 +1,72 @@
+{
+  "key": "fad",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Fad",
+      "headword_raw": "Fad",
+      "pr": "(fd)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Cf. Faddle.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Faddist",
+          "form_raw": "Fad\"dist",
+          "key": "faddist",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Faddish",
+          "form_raw": "Fad\"dish",
+          "key": "faddish",
+          "pos": [
+            "a."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A hobby ; freak; whim."
+          ],
+          "quotes": [
+            "It is your favorite fad to draw plans."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a practise followed enthusiastically by a number of people for a limited period of time; as, the latest fad in fashion."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "craze",
+            "mania"
+          ]
+        }
+      ]
+    }
+  ]
+}

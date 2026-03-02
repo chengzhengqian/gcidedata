@@ -1,0 +1,80 @@
+{
+  "key": "fabulous",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Fabulous",
+      "headword_raw": "Fab\"u*lous",
+      "pr": "(fb\"*ls)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. fabulosus; cf. F. fabuleux. See Fable.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Fabulously",
+          "form_raw": "Fab\"u*lous*ly",
+          "key": "fabulously",
+          "pos": [
+            "adv."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Fabulousness",
+          "form_raw": "Fab\"u*lous*ness",
+          "key": "fabulousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Feigned, as a story or fable; related in fable; devised; invented; not real; fictitious; as, a fabulous description; a fabulous hero."
+          ],
+          "quotes": [
+            "The fabulous birth of Minerva."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Beyond belief; exceedingly great; as, a fabulous price."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Exceptionally good; extremely pleasing."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

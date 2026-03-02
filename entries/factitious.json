@@ -1,0 +1,63 @@
+{
+  "key": "factitious",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Factitious",
+      "headword_raw": "Fac*ti\"tious",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. factitius, fr. facere to make. See Fact, and cf. Fetich.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "-- Factitious, Unnatural. Anything is unnatural when it departs in any way from its simple or normal state; it is factitious when it is wrought out or wrought up by labor and effort, as, a factitious excitement. An unnatural demand for any article of merchandise is one which exceeds the ordinary rate of consumption; a factitious demand is one created by active exertions for the purpose. An unnatural alarm is one greater than the occasion requires; a factitious alarm is one wrought up with care and effort."
+      ],
+      "wordforms": [
+        {
+          "form": "Fac-titiously",
+          "form_raw": "Fac-ti\"tious*ly",
+          "key": "fac-titiously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Factitiousness",
+          "form_raw": "Fac*ti\"tious*ness",
+          "key": "factitiousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Unnatural"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Made by art, in distinction from what is produced by nature; artificial; sham; contrived; formed by, or adapted to, an artificial or conventional, in distinction from a natural, standard or rule; not natural; as, factitious cinnabar or jewels; a factitious taste."
+          ],
+          "quotes": [
+            "He acquires a factitious propensity, he forms an incorrigible habit, of desultory reading."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

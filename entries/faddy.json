@@ -1,0 +1,51 @@
+{
+  "key": "faddy",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "faddy",
+      "headword_raw": "faddy",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "intensely fashionable for a short time."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "trendy"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "prone to follow fads; as, a faddish clique of teenagers; -- of people."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "trendy"
+          ]
+        }
+      ]
+    }
+  ]
+}

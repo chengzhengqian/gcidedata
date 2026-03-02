@@ -1,0 +1,92 @@
+{
+  "key": "extractive",
+  "source_file": "CIDE.E",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Extractive",
+      "headword_raw": "Ex*tract\"ive",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Cf. F. extractif.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Capable of being extracted."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Tending or serving to extract or draw out."
+          ],
+          "quotes": [
+            "Certain branches of industry are conveniently designated extractive: e.g., agriculture, pastoral and mining pursuits, cutting of lumber, etc."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Extractive",
+      "headword_raw": "Ex*tract\"ive",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Anything extracted; an extract."
+          ],
+          "quotes": [
+            "Extractives, of which the most constant are urea, kreatin, and grape sugar."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "A chemical principle once supposed to exist in all extracts.",
+            "Any one of a large class of substances obtained by extraction, and consisting largely of nitrogenous hydrocarbons, such as xanthin, hypoxanthin, and creatin extractives from muscle tissue."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

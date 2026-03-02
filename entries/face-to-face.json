@@ -1,0 +1,50 @@
+{
+  "key": "face-to-face",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "face-to-face",
+      "headword_raw": "face-to-face",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "without intervening persons; involving direct communication between persons in each other's presence; -- of conversation or confrontation; as, face-to-face negotiations."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "person-to-person"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "having the front parts facing each other."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

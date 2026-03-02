@@ -1,0 +1,71 @@
+{
+  "key": "factious",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Factious",
+      "headword_raw": "Fac\"tious",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. factiosus: cf. F. factieux.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Factiously",
+          "form_raw": "Fac\"tious*ly",
+          "key": "factiously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Factiousness",
+          "form_raw": "Fac\"tious*ness",
+          "key": "factiousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Given to faction; addicted to form parties and raise dissensions, in opposition to government or the common good; turbulent; seditious; prone to clamor against public measures or men; -- said of persons."
+          ],
+          "quotes": [
+            "Factious for the house of Lancaster."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Pertaining to faction; proceeding from faction; indicating, or characterized by, faction; -- said of acts or expressions; as, factious quarrels."
+          ],
+          "quotes": [
+            "Headlong zeal or factious fury."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "key": "global_positioning_system",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Global Positioning System",
+      "headword_raw": "Glob\"al Po*si\"tion*ing Sys\"tem",
+      "pr": "(glō\"b'l p*zsh\"n*ng ss\"tm)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "RH",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "GPS"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A worldwide system of electronic navigation in which a vessel, aircraft or missile determines its latitude and longitude by measuring the transmission time from several orbiting satellites. GPS is more precise than any other navigation system available, yielding position accurate within 10 meters 95% of the time."
+          ],
+          "quotes": [
+            "On June 26, 1993 . . . the U.S. Air Force launched the 24th Navstar satellite into orbit, completing a network of 24 satellites known as the Global Positioning System, or GPS. With a GPS receiver that costs less than a few hundred dollars you can instantly learn your location on the planet -- your latitude, longitude, and even altitude -- to within a few hundred feet. This incredible new technology was made possible by a combination of scientific and engineering advances, particularly development of the world's most accurate timepieces: atomic clocks that are precise to within a billionth of a second."
+          ],
+          "notes": [
+            "The precision of the GPS is dependent upon the very high timing accuracy of atomic clocks. Although the military originally intentionally degraded the signal and thus the accuracy for civilian users, GPS was nevertheless more precise than any other navigation system available. In 2000, President Clinton issued an executive order discontinuing the degrading of the signal for civilians."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

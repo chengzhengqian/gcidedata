@@ -1,0 +1,53 @@
+{
+  "key": "glassmaker",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Glassmaker",
+      "headword_raw": "Glass\"mak`er",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Glass making",
+          "form_raw": "Glass\" mak`ing",
+          "key": "glass_making",
+          "pos": [],
+          "pr": null
+        },
+        {
+          "form": "Glassmaking",
+          "form_raw": "Glass\"mak`ing",
+          "key": "glassmaking",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "One who makes, or manufactures, glass."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

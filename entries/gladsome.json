@@ -1,0 +1,70 @@
+{
+  "key": "gladsome",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Gladsome",
+      "headword_raw": "Glad\"some",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Gladsomely",
+          "form_raw": "Glad\"some*ly",
+          "key": "gladsomely",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Gladsomeness",
+          "form_raw": "Glad\"some*ness",
+          "key": "gladsomeness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Pleased; joyful; cheerful."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Causing joy, pleasure, or cheerfulness; having the appearance of gayety; pleasing."
+          ],
+          "quotes": [
+            "Of opening heaven they sung, and gladsome day.",
+            "Hours of perfect gladsomeness."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

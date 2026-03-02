@@ -1,0 +1,88 @@
+{
+  "key": "global",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "global",
+      "headword_raw": "glob\"al",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "involving the entire earth; not limited or provincial in scope; as, global war; global monetary policy."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "planetary",
+            "worldwide"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "shaped like a globe; spherical."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "ball-shaped",
+            "globose",
+            "globular",
+            "orbicular",
+            "spheric",
+            "spherical"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "broad in scope or content; comprehensive. Opposite of noncomprehensive."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "all-embracing",
+            "all-inclusive",
+            "across-the-board",
+            "blanket(prenominal)",
+            "broad",
+            "complete",
+            "panoptic",
+            "wide"
+          ]
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "Accessible and effective throughout an entire computer program, rather than in only one subroutine; -- used of variables; as, global variable. Opposite of local."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

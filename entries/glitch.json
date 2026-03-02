@@ -1,0 +1,51 @@
+{
+  "key": "glitch",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "glitch",
+      "headword_raw": "glitch",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A fault or defect in a system, plan, or machine."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "bug"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Elect.)"
+          ],
+          "defs": [
+            "A brief surge or interruption in the voltage in an electrical circuit or device."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

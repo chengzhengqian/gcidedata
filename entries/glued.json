@@ -1,0 +1,52 @@
+{
+  "key": "glued",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "glued",
+      "headword_raw": "glued",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "affixed with glue or paste."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "pasted",
+            "stuck to(predicate)"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "having the attention so concentrated as to be difficult to cause a person to leave; as, glued to the television set; The audience was glued to their seats."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "riveted"
+          ]
+        }
+      ]
+    }
+  ]
+}

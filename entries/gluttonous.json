@@ -1,0 +1,57 @@
+{
+  "key": "gluttonous",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Gluttonous",
+      "headword_raw": "Glut\"ton*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Gluttonously",
+          "form_raw": "Glut\"ton*ous*ly",
+          "key": "gluttonously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Gluttonousness",
+          "form_raw": "Glut\"ton*ous*ness",
+          "key": "gluttonousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Given to gluttony; eating to excess; indulging the appetite; voracious; as, a gluttonous age."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

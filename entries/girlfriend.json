@@ -1,0 +1,49 @@
+{
+  "key": "girlfriend",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "girlfriend",
+      "headword_raw": "girl\"friend`",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "any female friend; as, Mary and her girlfriend organized the party."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a girl or young woman with whom a man is romantically involved; as, his girlfriend kicked him out."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "girl",
+            "lady friend"
+          ]
+        }
+      ]
+    }
+  ]
+}

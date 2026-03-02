@@ -1,0 +1,59 @@
+{
+  "key": "perceptible",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Perceptible",
+      "headword_raw": "Per*cep\"ti*ble",
+      "pr": "(pr*sp\"t*b'l)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[L. perceptibilis: cf. F. perceptible. See Perceive.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Perceptibleness",
+          "form_raw": "Per*cep\"ti*ble*ness",
+          "key": "perceptibleness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Perceptibly",
+          "form_raw": "Per*cep\"ti*bly",
+          "key": "perceptibly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Capable of being perceived; cognizable; discernible; perceivable; large enough to be perceived; not so small as to be incapable of perception."
+          ],
+          "quotes": [
+            "With a perceptible blast of the air."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

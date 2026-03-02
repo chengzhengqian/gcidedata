@@ -1,0 +1,42 @@
+{
+  "key": "peptone",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Peptone",
+      "headword_raw": "Pep\"tone",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. pepto`s cooked.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physiol. Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The soluble polypeptides produced by hydrolysis of protein; specifically the soluble peptides into which food is transformed by the action of the gastric and pancreatic juices. Peptones are also formed from protein matter by the action of boiling water and boiling dilute acids.",
+            "Collectively, in a broader sense, all the products resulting from the solution of proteinaceous matter in either gastric or pancreatic juice. In this case, however, intermediate products (albumose bodies), such as antialbumose, hemialbumose, etc., are mixed with the true peptones. Also termed albuminose."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Pure peptones are of three kinds, amphopeptone, antipeptone, and hemipeptone, and, unlike most proteins, are not precipitated by saturating their solutions with ammonium sulphate."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

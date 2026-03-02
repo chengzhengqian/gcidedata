@@ -1,0 +1,86 @@
+{
+  "key": "penurious",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Penurious",
+      "headword_raw": "Pe*nu\"ri*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[From Penury.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Penuriously",
+          "form_raw": "Pe*nu\"ri*ous*ly",
+          "key": "penuriously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Penuriousness",
+          "form_raw": "Pe*nu\"ri*ous*ness",
+          "key": "penuriousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Excessively sparing in the use of money; sordid; stingy; miserly."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Not bountiful or liberal; scanty."
+          ],
+          "quotes": [
+            "Here creeps along a poor, penurious stream."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Destitute of money; suffering extreme want."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Avaricious",
+            "covetous",
+            "parsimonious",
+            "miserly",
+            "niggardly",
+            "stingy. See Avaricious"
+          ]
+        }
+      ]
+    }
+  ]
+}

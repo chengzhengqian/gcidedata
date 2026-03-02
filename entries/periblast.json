@@ -1,0 +1,48 @@
+{
+  "key": "periblast",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Periblast",
+      "headword_raw": "Per\"i*blast",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Gr. periblasta`nein to grow around. See Peri-, and -blast.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Periblastic",
+          "form_raw": "Per`i*blas\"tic",
+          "key": "periblastic",
+          "pos": [
+            "a."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Biol.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The protoplasmic matter which surrounds the entoblast, or cell nucleus, and undergoes segmentation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

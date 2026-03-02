@@ -1,0 +1,71 @@
+{
+  "key": "perilous",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Perilous",
+      "headword_raw": "Per\"il*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[OF. perillous, perilleus, F. prilleux, L. periculosus. See Peril.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Perilously",
+          "form_raw": "Per\"il*ous*ly",
+          "key": "perilously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Perilousness",
+          "form_raw": "Per\"il*ous*ness",
+          "key": "perilousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Full of, attended with, or involving, peril; dangerous; hazardous; as, a perilous undertaking."
+          ],
+          "quotes": [
+            "Infamous hills, and sandy, perilous wilds."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Daring; reckless; dangerous."
+          ],
+          "quotes": [
+            "For I am perilous with knife in hand."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "key": "peristaltic",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Peristaltic",
+      "headword_raw": "Per`i*stal\"tic",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[Gr. <?/ clasping and compressing, fr. <?/ to surround, wrap up; <?/ round + <?/ to place, arrange: cf. F. pristaltique.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Peristaltically",
+          "form_raw": "Per`i*stal\"tic*al*ly",
+          "key": "peristaltically",
+          "pos": [
+            "adv."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physiol.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Pertaining to a wormlike wave motion of the intestines, and by analogy, of other flexible tubular structures. In the body it is produced by a progressive contraction of the muscular fibers of their walls, forcing their contents onwards in the direction of the wave; as, peristaltic movement."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

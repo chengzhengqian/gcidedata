@@ -1,0 +1,51 @@
+{
+  "key": "perjury",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Perjury",
+      "headword_raw": "Per\"ju*ry",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "v."
+      ],
+      "ety": "[L. perjurium. See Perjure, v.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "False swearing."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "At common law, a willfully false statement in a fact material to the issue, made by a witness under oath in a competent judicial proceeding. By statute the penalties of perjury are imposed on the making of willfully false affirmations."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ If a man swear falsely in nonjudicial affidavits, it is made perjury by statute in some jurisdictions in the United States."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

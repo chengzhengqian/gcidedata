@@ -1,0 +1,49 @@
+{
+  "key": "perceived",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "perceived",
+      "headword_raw": "perceived",
+      "pr": "(pr*sēvd\")",
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Detected by instinct or inference rather than by recognized perceptual cues; as, a perceived threat."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "felt",
+            "sensed"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Detected by means of the senses; as, a perceived difference in temperature."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

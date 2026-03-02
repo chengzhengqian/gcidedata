@@ -1,0 +1,84 @@
+{
+  "key": "perfume",
+  "source_file": "CIDE.P",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Perfume",
+      "headword_raw": "Per*fume\"",
+      "pr": "(pr*fūm\")",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[F. parfumer (cf. Sp. perfumar); par (see Par) + fumer to smoke, L. fumare, fr. fumus smoke. See Fume.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Perfumed (pr*fūmd\"); p. pr. & vb. n. Perfuming.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To fill or impregnate with a perfume; to scent."
+          ],
+          "quotes": [
+            "And Carmel's flowery top perfumes the skies."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Perfume",
+      "headword_raw": "Per\"fume",
+      "pr": "(pr\"fūm or pr*fūm\"; 277)",
+      "pos": [
+        "n.",
+        "v."
+      ],
+      "ety": "[F. parfum; cf. Sp. perfume. See Perfume, v.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The scent, odor, or odoriferous particles emitted from a sweet-smelling substance; a pleasant odor; fragrance; aroma."
+          ],
+          "quotes": [
+            "No rich perfumes refresh the fruitful field."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A substance that emits an agreeable odor."
+          ],
+          "quotes": [
+            "And thou shalt make it a perfume."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "key": "pepsi-cola",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Pepsi-Cola",
+      "headword_raw": "Pepsi-Cola",
+      "pr": null,
+      "pos": [
+        "prop. n."
+      ],
+      "ety": "[A trademark of the Pepsi-Cola Corporation.]",
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "Pepsi"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A carbonated soft drink flavored by extract from the cola nut (kola nut). The nut is found on trees of the species Cola acuminata and Cola nitida."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

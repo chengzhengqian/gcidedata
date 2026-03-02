@@ -1,0 +1,69 @@
+{
+  "key": "pentameter",
+  "source_file": "CIDE.P",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Pentameter",
+      "headword_raw": "Pen*tam\"e*ter",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L., fr. Gr. <?/; <?/ (see Penta-) + <?/ measure.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Gr. & L.Pros.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A verse of five feet."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The dactylic pentameter consists of two parts separated by a diæresis. Each part consists of two dactyls and a long syllable. The spondee may take the place of the dactyl in the first part, but not in the second. The elegiac distich consists of the hexameter followed by the pentameter."
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Pentameter",
+      "headword_raw": "Pen*tam\"e*ter",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Having five metrical feet."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

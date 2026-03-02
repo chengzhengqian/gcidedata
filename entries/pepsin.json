@@ -1,0 +1,41 @@
+{
+  "key": "pepsin",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Pepsin",
+      "headword_raw": "Pep\"sin",
+      "pr": "(pp\"sn)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. pe`psis a cooking, digesting, digestion, fr. pe`ptein, pe`ssein, to cook, digest: cf. F. pepsine. Cf. Dyspepsia.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physiol. Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A proteolytic enzyme (MW 34,500) contained in the secretory glands of the stomach. In the gastric juice it is united with dilute hydrochloric acid (0.2 per cent, approximately) and the two together constitute the active portion of the digestive fluid. It degrades proteins to proteoses and peptides, and is notable for having a very low pH optimum for its activity. It is the active agent in the gastric juice of all animals."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ As prepared from the glandular layer of pigs' or calves' stomachs it constitutes an important article of pharmacy."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

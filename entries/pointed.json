@@ -1,0 +1,72 @@
+{
+  "key": "pointed",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Pointed",
+      "headword_raw": "Point\"ed",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Pointedly",
+          "form_raw": "Point\"ed*ly",
+          "key": "pointedly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Pointedness",
+          "form_raw": "Point\"ed*ness",
+          "key": "pointedness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Sharp; having a sharp point; as, a pointed rock."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Arch.)",
+            "(Arch.)"
+          ],
+          "defs": [
+            "Characterized by sharpness, directness, or pithiness of expression; terse; epigrammatic; especially, directed to a particular person or thing."
+          ],
+          "quotes": [
+            "His moral pleases, not his pointed wit."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

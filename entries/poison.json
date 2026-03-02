@@ -1,0 +1,153 @@
+{
+  "key": "poison",
+  "source_file": "CIDE.P",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Poison",
+      "headword_raw": "Poi\"son",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. poison, in Old French also, a potion, fr. L. potio a drink, draught, potion, a poisonous draught, fr. potare to drink. See Potable, and cf. Potion.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [
+        "-- Poison, Venom. Poison usually denotes something received into the system by the mouth, breath, etc. Venom is something discharged from animals and received by means of a wound, as by the bite or sting of serpents, scorpions, etc. Hence, venom specifically implies some malignity of nature or purpose."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Any agent which, when introduced into the animal organism, is capable of producing a morbid, noxious, or deadly effect upon it; as, morphine is a deadly poison; the poison of pestilential diseases."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Bot.)",
+            "(Bot.)",
+            "(Zool.)",
+            "(Biol.)",
+            "(Bot.)",
+            "(Bot.)",
+            "(Bot.)",
+            "(Bot.)",
+            "(Zool.)",
+            "(Bot.)"
+          ],
+          "defs": [
+            "That which taints or destroys moral purity or health; as, the poison of evil example; the poison of sin."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Venom",
+            "virus",
+            "bane",
+            "pest",
+            "malignity"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Poison",
+      "headword_raw": "Poi\"son",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "n."
+      ],
+      "ety": "[Cf. OF. poisonner, F. empoissoner, L. potionare to give to drink. See Poison, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Poisoned (?); p. pr. & vb. n. Poisoning.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To put poison upon or into; to infect with poison; as, to poison an arrow; to poison food or drink."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To injure or kill by poison; to administer poison to."
+          ],
+          "quotes": [
+            "If you poison us, do we not die ?"
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To taint; to corrupt; to vitiate; as, vice poisons happiness; slander poisoned his mind."
+          ],
+          "quotes": [
+            "Whispering tongues can poison truth."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Poison",
+      "headword_raw": "Poi\"son",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To act as, or convey, a poison."
+          ],
+          "quotes": [
+            "Tooth that poisons if it bite."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

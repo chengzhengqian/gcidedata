@@ -1,0 +1,40 @@
+{
+  "key": "polycosmic",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "polycosmic",
+      "headword_raw": "pol`y*cos\"mic",
+      "pr": "(pl`*kz\"mk)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Poly- + cosmic, containing many universes. (2003).]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Computers)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Representing multiple possible worlds; -- used of a computational ontology that includes logically inconsistent assertions (theories), structured as different possible worlds; as, the only way to accommodate different theories of physics in one ontology is for that ontology to be polycosmic."
+          ],
+          "quotes": [],
+          "notes": [
+            "A computational ontology that includes both the existence of one God and nonexistence of God as alternative and inconsistent theories would be polycosmic"
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

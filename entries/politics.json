@@ -1,0 +1,48 @@
+{
+  "key": "politics",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Politics",
+      "headword_raw": "Pol\"i*tics",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. politique, Gr. <?/ (sc.<?/). See Politic.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The science of government; that part of ethics which has to do with the regulation and government of a nation or state, the preservation of its safety, peace, and prosperity, the defense of its existence and rights against foreign control or conquest, the augmentation of its strength and resources, and the protection of its citizens in their rights, with the preservation and improvement of their morals."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The management of a political party; the conduct and contests of parties with reference to political measures or the administration of public affairs; the advancement of candidates to office; in a bad sense, artful or dishonest management to secure the success of political candidates or parties; political trickery."
+          ],
+          "quotes": [
+            "When we say that two men are talking politics, we often mean that they are wrangling about some mere party question."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

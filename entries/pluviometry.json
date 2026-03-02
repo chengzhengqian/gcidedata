@@ -1,0 +1,36 @@
+{
+  "key": "pluviometry",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Pluviometry",
+      "headword_raw": "Plu`vi*om\"e*try",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. pluvia rain + -metry.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "That branch of meteorology that treats of the measurement of the precipitation of rain, snow, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

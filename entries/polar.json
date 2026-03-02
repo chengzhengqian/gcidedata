@@ -1,0 +1,97 @@
+{
+  "key": "polar",
+  "source_file": "CIDE.P",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Polar",
+      "headword_raw": "Po\"lar",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Cf. F. polaire. See Pole of the earth.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to one of the poles of the earth, or of a sphere; situated near, or proceeding from, one of the poles; as, polar regions; polar seas; polar winds."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to the magnetic pole, or to the point to which the magnetic needle is directed."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Geom.)",
+            "(Zool.)",
+            "(Biol.)",
+            "(Astron. & Geog.)",
+            "(Physics)",
+            "(Zool.)",
+            "(Logic)",
+            "(Spherics)",
+            "(Zool.)"
+          ],
+          "defs": [
+            "Pertaining to, reckoned from, or having a common radiating point; as, polar coordinates."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Polar",
+      "headword_raw": "Po\"lar",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Conic Sections)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The right line drawn through the two points of contact of the two tangents drawn from a given point to a given conic section. The given point is called the pole of the line. If the given point lies within the curve so that the two tangents become imaginary, there is still a real polar line which does not meet the curve, but which possesses other properties of the polar. Thus the focus and directrix are pole and polar. There are also poles and polar curves to curves of higher degree than the second, and poles and polar planes to surfaces of the second degree."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

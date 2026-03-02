@@ -1,0 +1,46 @@
+{
+  "key": "poem",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Poem",
+      "headword_raw": "Po\"em",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. poëma, Gr. <?/, fr. <?/ to make, to compose, to write, especially in verse: cf. F. poëme.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A metrical composition; a composition in verse written in certain measures, whether in blank verse or in rhyme, and characterized by imagination and poetic diction; -- contradistinguished from prose; as, the poems of Homer or of Milton."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A composition, not in verse, of which the language is highly imaginative or impassioned; as, a prose poem; the poems of Ossian."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

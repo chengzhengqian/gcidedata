@@ -1,0 +1,40 @@
+{
+  "key": "pneumonia",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Pneumonia",
+      "headword_raw": "Pneu*mo\"ni*a",
+      "pr": "(n*mō\"n*)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[NL., fr. Gr. pneymoni`a, fr. pney`mwn, pl. pney`mones the lungs, also, pley`mwn, which is perh. the original form. Cf. Pneumatio, Pulmonary.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Inflammation of the lungs."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Catarrhal pneumonia, or Broncho-pneumonia, is inflammation of the lung tissue, associated with catarrh and with marked evidences of inflammation of bronchial membranes, often chronic; -- also called lobular pneumonia, from its affecting single lobules at a time. -- Croupous pneumonia, or ordinary pneumonia, is an acute affection characterized by sudden onset with a chill, high fever, rapid course, and sudden decline; -- also called lobar pneumonia, from its affecting a whole lobe of the lung at once. See under Croupous. -- Fibroid pneumonia is an inflammation of the interstitial connective tissue lying between the lobules of the lungs, and is very slow in its course, producing shrinking and atrophy of the lungs."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

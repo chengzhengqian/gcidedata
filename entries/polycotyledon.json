@@ -1,0 +1,49 @@
+{
+  "key": "polycotyledon",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Polycotyledon",
+      "headword_raw": "Pol`y*cot`y*le\"don",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Poly- + cotyledon: cf. F. polycotyldone.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Polycotyledonous",
+          "form_raw": "Pol`y*cot`y*led\"on*ous",
+          "key": "polycotyledonous",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Bot.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A plant that has many, or more than two, cotyledons in the seed."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

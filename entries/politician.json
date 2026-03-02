@@ -1,0 +1,80 @@
+{
+  "key": "politician",
+  "source_file": "CIDE.P",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Politician",
+      "headword_raw": "Pol`i*ti\"cian",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. politicien.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One versed or experienced in the science of government; one devoted to politics; a statesman."
+          ],
+          "quotes": [
+            "While empiric politicians use deceit."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "One primarily devoted to his own advancement in public office, or to the success of a political party; -- used in a depreciatory sense; one addicted or attached to politics as managed by parties (see Politics, 2); a schemer; an intriguer; as, a mere politician."
+          ],
+          "quotes": [
+            "Like a scurvy politician, seem To see the things thou dost not.",
+            "The politician . . . ready to do anything that he apprehends for his advantage."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Politician",
+      "headword_raw": "Pol`i*ti\"cian",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Cunning; using artifice; politic; artful."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

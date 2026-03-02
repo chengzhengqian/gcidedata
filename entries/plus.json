@@ -1,0 +1,52 @@
+{
+  "key": "plus",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Plus",
+      "headword_raw": "Plus",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L., more; akin to Gr. <?/, <?/, and E. full. See Full, a., and cf. Pi, Pleonasm.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "More, required to be added; positive, as distinguished from negative; -- opposed to minus."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "Hence, in a literary sense, additional; real; actual."
+          ],
+          "quotes": [
+            "Success goes invariably with a certain plus or positive power."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

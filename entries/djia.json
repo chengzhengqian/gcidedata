@@ -1,0 +1,44 @@
+{
+  "key": "djia",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "DJIA",
+      "headword_raw": "DJIA",
+      "pr": "(dē\"jā*ī`ā)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "DJI",
+        "DJIA",
+        "Dow",
+        "Dow Jones",
+        "Dow-Jones Average"
+      ],
+      "entry_fields": [
+        "(Finance)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The Dow Jones Industrial Average."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "key": "dolorous",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Dolorous",
+      "headword_raw": "Dol\"or*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. dolorosus, from dolor: cf. F. douloureux. See Dolor.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Dolorously",
+          "form_raw": "Dol\"or*ous*ly",
+          "key": "dolorously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Dolorousness",
+          "form_raw": "Dol\"or*ous*ness",
+          "key": "dolorousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Full of grief; sad; sorrowful; doleful; dismal; as, a dolorous object; dolorous discourses."
+          ],
+          "quotes": [
+            "You take me in too dolorous a sense; I spake to you for your comfort."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Occasioning pain or grief; painful."
+          ],
+          "quotes": [
+            "Their dispatch is quick, and less dolorous than the paw of the bear or teeth of the lion."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

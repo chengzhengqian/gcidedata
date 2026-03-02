@@ -1,0 +1,61 @@
+{
+  "key": "doctrine",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "doctrine",
+      "headword_raw": "doc\"trine",
+      "pr": "(dk\"trn)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. doctrine, L. doctrina, fr. doctor. See Doctor.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "-- Doctrine, Precept. Doctrine denotes whatever is recommended as a speculative truth to the belief of others. Precept is a rule down to be obeyed. Doctrine supposes a teacher; precept supposes a superior, with a right to command. The doctrines of the Bible; the precepts of our holy religion."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Teaching; instruction."
+          ],
+          "quotes": [
+            "He taught them many things by parables, and said unto them in his doctrine, Hearken."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Politics)"
+          ],
+          "defs": [
+            "That which is taught; what is held, put forth as true, and supported by a teacher, a school, or a sect; a principle or position, or the body of principles, in any branch of knowledge; any tenet or dogma; a principle of faith; as, the doctrine of atoms; the doctrine of chances."
+          ],
+          "quotes": [
+            "Articles of faith and doctrine.",
+            "Unpracticed he to fawn or seek for power By doctrines fashioned to the varying hour."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Precept",
+            "tenet",
+            "principle",
+            "maxim",
+            "dogma"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "key": "dodecahedron",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Dodecahedron",
+      "headword_raw": "Do*dec`a*he\"dron",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. <?/; <?/ twelve + <?/ seat, bottom, base: cf. F. dodcadre.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Geom. & Crystallog.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A solid having twelve faces."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The regular dodecahedron is bounded by twelve equal and regular pentagons; the pyritohedron (see Pyritohedron) is related to it; the rhombic dodecahedron is bounded by twelve equal rhombic faces."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

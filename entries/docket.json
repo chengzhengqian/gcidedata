@@ -1,0 +1,123 @@
+{
+  "key": "docket",
+  "source_file": "CIDE.D",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Docket",
+      "headword_raw": "Dock\"et",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Dock to cut off + dim. suffix -et.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A small piece of paper or parchment, containing the heads of a writing; a summary or digest."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A bill tied to goods, containing some direction, as the name of the owner, or the place to which they are to be sent; a label."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "An abridged entry of a judgment or proceeding in an action, or register or such entries; a book of original, kept by clerks of courts, containing a formal list of the names of parties, and minutes of the proceedings, in each case in court.",
+            "A list or calendar of causes ready for hearing or trial, prepared for the use of courts by the clerks."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "A list or calendar of business matters to be acted on in any assembly."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Docket",
+      "headword_raw": "Dock\"et",
+      "pr": null,
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Docketed; p. pr. & vb. n. Docketing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To make a brief abstract of (a writing) and indorse it on the back of the paper, or to indorse the title or contents on the back of; to summarize; as, to docket letters and papers."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "To make a brief abstract of and inscribe in a book; as, judgments regularly docketed.",
+            "To enter or inscribe in a docket, or list of causes for trial."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To mark with a ticket; as, to docket goods."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

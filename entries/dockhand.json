@@ -1,0 +1,44 @@
+{
+  "key": "dockhand",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "dockhand",
+      "headword_raw": "dockhand",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "stevedore",
+        "loader",
+        "longshoreman",
+        "docker",
+        "dock worker",
+        "dock-walloper",
+        "lumper"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a laborer who loads and unloads vessels in a port."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

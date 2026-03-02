@@ -1,0 +1,70 @@
+{
+  "key": "doleful",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Doleful",
+      "headword_raw": "Dole\"ful",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Dolefully",
+          "form_raw": "Dole\"ful*ly",
+          "key": "dolefully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Dolefulness",
+          "form_raw": "Dole\"ful*ness",
+          "key": "dolefulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Piteous",
+        "rueful",
+        "sorrowful",
+        "woeful",
+        "melancholy",
+        "sad gloomy",
+        "dismal",
+        "dolorous",
+        "woe-begone"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Full of dole or grief; expressing or exciting sorrow; sorrowful; sad; dismal."
+          ],
+          "quotes": [
+            "With screwed face and doleful whine.",
+            "Regions of sorrow, doleful shades."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

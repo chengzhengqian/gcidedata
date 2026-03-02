@@ -1,0 +1,52 @@
+{
+  "key": "dolerite",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Dolerite",
+      "headword_raw": "Dol\"er*ite",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Gr. dolero`s deceptive, because it was easily confounded with diorite.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Doleritic",
+          "form_raw": "Dol`er*it\"ic",
+          "key": "doleritic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Petrography)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A dark, crystalline, igneous rock, chiefly pyroxene with labradorite.",
+            "Coarse-grained basalt.",
+            "Diabase.",
+            "Any dark, igneous rock composed chiefly of silicates of iron and magnesium with some feldspar."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

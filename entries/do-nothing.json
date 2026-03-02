@@ -1,0 +1,84 @@
+{
+  "key": "do-nothing",
+  "source_file": "CIDE.D",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "do-nothing",
+      "headword_raw": "do\"-noth`ing",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "bone-idle",
+        "bone-lazy",
+        "faineant",
+        "indolent",
+        "lazy",
+        "otiose",
+        "shiftless",
+        "slothful",
+        "workshy",
+        "work-shy"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Doing nothing; disinclined to work or exertion; inactive; idle; lazy; -- of people; as, a do-nothing policy."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "do-nothing",
+      "headword_raw": "do-nothing",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "idler",
+        "loafer",
+        "layabout",
+        "bum",
+        "ne'er-do-well",
+        "good-for-nothing"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "person who does no work."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

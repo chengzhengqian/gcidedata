@@ -1,0 +1,42 @@
+{
+  "key": "dna",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "DNA",
+      "headword_raw": "DNA",
+      "pr": "(dē\"n*ā`)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "deoxyribonucleic acid",
+        "desoxyribonucleic acid",
+        "deoxyribosenucleic acid"
+      ],
+      "entry_fields": [
+        "(Biochemistry, Genetics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "abbreviation for deoxyribonucleic acid; -- more commonly used than the full name. See also RNA."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

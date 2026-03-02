@@ -1,0 +1,60 @@
+{
+  "key": "dogfish",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Dogfish",
+      "headword_raw": "Dog\"fish`",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Zool.)"
+      ],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A small shark, of many species, of the genera Mustelus, Scyllium, Spinax, etc."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The European spotted dogfishes (Scyllium catudus, and Scyllium canicula) are very abundant; the American smooth, or blue dogfish is Mustelus canis; the common picked, or horned dogfish (Squalus acanthias) abundant on both sides of the Atlantic."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The bowfin (Amia calva). See Bowfin."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "The burbot of Lake Erie."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

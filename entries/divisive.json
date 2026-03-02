@@ -1,0 +1,69 @@
+{
+  "key": "divisive",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Divisive",
+      "headword_raw": "Di*vi\"sive",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Cf. F. divisif.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Divisively",
+          "form_raw": "Di*vi\"sive*ly",
+          "key": "divisively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Divisiveness",
+          "form_raw": "Di*vi\"sive*ness",
+          "key": "divisiveness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Indicating division or distribution."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Creating, or tending to create, division, separation, or difference."
+          ],
+          "quotes": [
+            "It [culture] is after all a dainty and divisive quality, and can not reach to the depths of humanity."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

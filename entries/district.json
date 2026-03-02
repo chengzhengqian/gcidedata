@@ -1,0 +1,132 @@
+{
+  "key": "district",
+  "source_file": "CIDE.D",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "District",
+      "headword_raw": "Dis\"trict",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. districtus, p. p.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Rigorous; stringent; harsh."
+          ],
+          "quotes": [
+            "Punishing with the rod of district severity."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "District",
+      "headword_raw": "Dis\"trict",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[LL. districtus district, fr. L. districtus, p. p. of distringere: cf. F. district. See Distrain.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Feudal Law)"
+          ],
+          "defs": [
+            "The territory within which the lord has the power of coercing and punishing."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A division of territory; a defined portion of a state, town, or city, etc., made for administrative, electoral, or other purposes; as, a congressional district, judicial district, land district, school district, etc."
+          ],
+          "quotes": [
+            "To exercise exclusive legislation . . . over such district not exceeding ten miles square."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Any portion of territory of undefined extent; a region; a country; a tract."
+          ],
+          "quotes": [
+            "These districts which between the tropics lie."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Division",
+            "circuit",
+            "quarter",
+            "province",
+            "tract",
+            "region",
+            "country"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "District",
+      "headword_raw": "Dis\"trict",
+      "pr": null,
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Districted; p. pr. & vb. n. Districting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To divide into districts or limited portions of territory; as, legislatures district States for the choice of representatives."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

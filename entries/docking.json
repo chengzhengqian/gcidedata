@@ -1,0 +1,55 @@
+{
+  "key": "docking",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "docking",
+      "headword_raw": "docking",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Naut.)"
+          ],
+          "defs": [
+            "a act of securing an arriving vessel with ropes or anchors."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "mooring",
+            "tying up",
+            "dropping anchor"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Astronautics)"
+          ],
+          "defs": [
+            "the coming together and joining of two space vehicles. The joining usually is accomplished by bringing special connecting devices, the docking ports, into contact, and fastening the ships together by clamping devices. The docking ports are often fitted so as to allow a passage to be opened between the two space vehicles, and thus to permit transfer of materials or personnel between them."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

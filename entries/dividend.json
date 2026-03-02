@@ -1,0 +1,48 @@
+{
+  "key": "dividend",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Dividend",
+      "headword_raw": "Div\"i*dend",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. dividendum thing to be divided, neut. of the gerundive of dividere: cf. F. dividende.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A sum of money to be divided and distributed; the share of a sum divided that falls to each individual; a distribute sum, share, or percentage; -- applied to the profits as appropriated among shareholders, and to assets as apportioned among creditors; as, the dividend of a bank, a railway corporation, or a bankrupt estate."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "A number or quantity which is to be divided."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "key": "domain",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Domain",
+      "headword_raw": "Do*main\"",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. domaine, OF. demaine, L. dominium, property, right of ownership, fr. dominus master, owner. See Dame, and cf Demesne, Dungeon.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Dominion; empire; authority."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The territory over which dominion or authority is exerted; the possessions of a sovereign or commonwealth, or the like. Also used figuratively."
+          ],
+          "quotes": [
+            "The domain of authentic history.",
+            "The domain over which the poetic spirit ranges."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Landed property; estate; especially, the land about the mansion house of a lord, and in his immediate occupancy; demesne."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "Ownership of land; an estate or patrimony which one has in his own right; absolute proprietorship; paramount or sovereign ownership."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "the set of values which the independent variable of a function may take. Contrasted to range, which is the set of values taken by the dependent variable."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "a connected set of points, also called a region."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "7.",
+          "fields": [
+            "(Physics)"
+          ],
+          "defs": [
+            "a region within a ferromagnetic material, composed of a number of atoms whose magnetic poles are pointed in the same direction, and which may move together in a coordinated manner when disturbed, as by heating. The direction of polarity of adjacent domains may be different, but may be aligned by a strong external magnetic field."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "8.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "an address within the internet computer network, which may be a single computer, a network of computers, or one of a number of accounts on a multiuser computer. The domain specifies the location (host computer) to which communications on the internet are directed. Each domain has a corresponding 32-bit number usually represented by four numbers separated by periods, as 128.32.282.56. Each domain may also have an alphabetical name, usually composed of a name plus an extension separated by a period, as worldsoul.org; the alphabetical name is referred to as a domain name."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "9.",
+          "fields": [
+            "(Immunology)"
+          ],
+          "defs": [
+            "the three-dimensional structure within an immunoglobulin which is formed by one of the homology regions of a heavy or light chain."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "10.",
+          "fields": [],
+          "defs": [
+            "the field of knowledge, expertise, or interest of a person; as, he had a limited domain of discourse; I can't comment on that, it's outside my domain."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "domain",
+            "realm",
+            "field",
+            "area"
+          ]
+        },
+        {
+          "sn": "11.",
+          "fields": [],
+          "defs": [
+            "a particular environment or walk of life."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "sphere",
+            "domain",
+            "area",
+            "orbit",
+            "field",
+            "arena"
+          ]
+        },
+        {
+          "sn": "12.",
+          "fields": [],
+          "defs": [
+            "people in general; especially a distinctive group of people with some shared interest."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "world",
+            "domain"
+          ]
+        },
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "key": "leakage",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Leakage",
+      "headword_raw": "Leak\"age",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. D. lekkage, for sense 1.]",
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A leaking; also, the quantity that enters or issues by leaking."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Com.)"
+          ],
+          "defs": [
+            "An allowance of a certain rate per cent for the leaking of casks, or waste of liquors by leaking."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Elec.)"
+          ],
+          "defs": [
+            "A leak{3}; also; the quantity of electricity thus wasted."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "key": "leaven",
+  "source_file": "CIDE.L",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Leaven",
+      "headword_raw": "Leav\"en",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. levain, levein, F. levain, L. levamen alleviation, mitigation; but taken in the sense of, a raising, that which raises, fr. levare to raise. See Lever, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Any substance that produces, or is designed to produce, fermentation, as in dough or liquids; esp., a portion of fermenting dough, which, mixed with a larger quantity of dough, produces a general change in the mass, and renders it light; yeast; barm."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Anything which makes a general assimilating (especially a corrupting) change in the mass."
+          ],
+          "quotes": [
+            "Beware of the leaven of the Pharisees, which is hypocrisy."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Leaven",
+      "headword_raw": "Leav\"en",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Leavened (?); p. pr. & vb. n. Leavening (?).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To make light by the action of leaven; to cause to ferment."
+          ],
+          "quotes": [
+            "A little leaven leaveneth the whole lump."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To imbue; to infect; to vitiate."
+          ],
+          "quotes": [
+            "With these and the like deceivable doctrines, he leavens also his prayer."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

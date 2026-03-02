@@ -1,0 +1,78 @@
+{
+  "key": "lawful",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Lawful",
+      "headword_raw": "Law\"ful",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [
+        "-- Lawful, Legal. Lawful means conformable to the principle, spirit, or essence of the law, and is applicable to moral as well as juridical law. Legal means conformable to the letter or rules of the law as it is administered in the courts; conformable to juridical law. Legal is often used as antithetical to equitable, but lawful is seldom used in that sense."
+      ],
+      "wordforms": [
+        {
+          "form": "Lawfully",
+          "form_raw": "Law\"ful*ly",
+          "key": "lawfully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Lawfulness",
+          "form_raw": "Law\"ful*ness",
+          "key": "lawfulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Conformable to law; allowed by law; legitimate; competent."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Constituted or authorized by law; rightful; as, the lawful owner of lands."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ In some of the States, and for some purposes, a woman attains lawful age at eighteen. Abbott."
+          ],
+          "synonyms": [
+            "Legal",
+            "constitutional",
+            "allowable",
+            "regular",
+            "rightful"
+          ]
+        }
+      ]
+    }
+  ]
+}

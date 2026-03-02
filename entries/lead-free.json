@@ -1,0 +1,60 @@
+{
+  "key": "lead-free",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "lead-free",
+      "headword_raw": "lead-free",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "not containing the element lead."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Not containing a lead additive such as tetraethyllead or tetramethyllead; -- of gasoline; as, Most modern cars run on lead-free gasoline. Oposite of leaded."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "nonleaded",
+            "unleaded"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Not containing a pigment having lead as a component; -- of paints; as, lead-free paint should be used wherever children are exposed to the painted surface."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

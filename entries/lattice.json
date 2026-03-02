@@ -1,0 +1,108 @@
+{
+  "key": "lattice",
+  "source_file": "CIDE.L",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Lattice",
+      "headword_raw": "Lat\"tice",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. latis, F. lattis lathwork, fr. latte lath. See Latten, 1st Lath.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Any work of wood, metal, plastic, or other solid material, made by crossing a series of parallel laths, or thin strips, with another series at a diagonal angle, and forming a network with openings between the strips; as, the lattice of a window; -- called also latticework."
+          ],
+          "quotes": [
+            "The mother of Sisera looked out at a window, and cried through the lattice."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Her.)"
+          ],
+          "defs": [
+            "The representation of a piece of latticework used as a bearing, the bands being vertical and horizontal."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Crystallography)",
+            "(Arch.)",
+            "(Bot.)"
+          ],
+          "defs": [
+            "The arrangement of atoms or molecules in a crystal, represented as a repeating arrangement of points in space, each point representing the location of an atom or molecule; called also crystal lattice and space lattice."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Lattice",
+      "headword_raw": "Lat\"tice",
+      "pr": "(?)",
+      "pos": [
+        "v. i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Latticed (?); p. pr. & vb. n. Latticing (?).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To make a lattice of; as, to lattice timbers."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To close, as an opening, with latticework; to furnish with a lattice; as, to lattice a window."
+          ],
+          "quotes": [
+            "Therein it seemeth he [Alexander] hath latticed up Caesar."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

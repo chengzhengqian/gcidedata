@@ -1,0 +1,50 @@
+{
+  "key": "launcher",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "launcher",
+      "headword_raw": "launcher",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a device capable of launching a rocket."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "rocket launcher"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A device which launches aircraft from an aircraft carrier; -- it provides additional velocity to the airplane, to supplement that from the airplane's engines, so that the airplane rapidly achieves a velocity sufficient to sustain it in flight when taking off."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "catapult"
+          ]
+        }
+      ]
+    }
+  ]
+}

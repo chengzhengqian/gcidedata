@@ -1,0 +1,47 @@
+{
+  "key": "leaseholder",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Leaseholder",
+      "headword_raw": "Lease\"hold`er",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a. & n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Leaseholding",
+          "form_raw": "Lease\"hold`ing",
+          "key": "leaseholding",
+          "pos": [
+            "a. & n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A tenant under a lease."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

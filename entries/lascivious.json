@@ -1,0 +1,69 @@
+{
+  "key": "lascivious",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Lascivious",
+      "headword_raw": "Las*civ\"i*ous",
+      "pr": "(ls*sv\"*s)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. lascivia wantonness, fr. lascivus wanton; cf. Gr. la`stauros lecherous, lh^n to wish, Skr. lash to desire.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Lasciviously",
+          "form_raw": "Las*civ\"i*ous*ly",
+          "key": "lasciviously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Lasciviousness",
+          "form_raw": "Las*civ\"i*ous*ness",
+          "key": "lasciviousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Wanton; lewd; lustful; as, lascivious men; lascivious desires."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Tending to produce voluptuous or lewd emotions."
+          ],
+          "quotes": [
+            "He capers nimbly in a lady's chamber To the lascivious pleasing of a lute."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

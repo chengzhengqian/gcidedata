@@ -1,0 +1,115 @@
+{
+  "key": "leather",
+  "source_file": "CIDE.L",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Leather",
+      "headword_raw": "Leath\"er",
+      "pr": "(l\"r)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. lether, AS. leðer; akin to D. leder, ler, G. leder, OHG. ledar, Icel. leðr, Sw. läder, Dan. læder.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The skin of an animal, or some part of such skin, with the hair removed, and tanned, tawed, or otherwise dressed for use; also, dressed hides, collectively."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Zool.)",
+            "(Zool.)",
+            "(Bot.)",
+            "(Bot.)",
+            "(Bot.)",
+            "(Zool.)"
+          ],
+          "defs": [
+            "The skin."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Leather is much used adjectively in the sense of made of, relating to, or like, leather."
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Leather",
+      "headword_raw": "Leath\"er",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Leathered (?); p. pr. & vb. n. Leathering.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To beat, as with a thong of leather."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "leather",
+      "headword_raw": "leath\"er",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of, pertaining to or made of leather; consisting of leather; as, a black leather jacket."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

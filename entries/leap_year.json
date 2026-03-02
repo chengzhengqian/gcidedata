@@ -1,0 +1,38 @@
+{
+  "key": "leap_year",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Leap year",
+      "headword_raw": "Leap\" year`",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Bissextile; a year containing 366 days; every fourth year which leaps over a day more than a common year, giving to February twenty-nine days. See Bissextile."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Every year whose number is divisible by four without a remainder is a leap year, excepting the full centuries, which, to be leap years, must be divisible by 400 without a remainder. If not so divisible they are common years. 1900, therefore, is not a leap year, but 2000 is."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

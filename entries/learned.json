@@ -1,0 +1,62 @@
+{
+  "key": "learned",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Learned",
+      "headword_raw": "Learn\"ed",
+      "pr": "(lrn\"d)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Learnedly",
+          "form_raw": "Learn\"ed*ly",
+          "key": "learnedly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Learnedness",
+          "form_raw": "Learn\"ed*ness",
+          "key": "learnedness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to learning; possessing, or characterized by, learning, esp. scholastic learning; erudite; well-informed; as, a learned scholar, writer, or lawyer; a learned book; a learned theory."
+          ],
+          "quotes": [
+            "The learnedlover lost no time.",
+            "Men of much reading are greatly learned, but may be little knowing.",
+            "Words of learned length and thundering sound.",
+            "Every coxcomb swears as learnedly as they."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "key": "ldl",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "LDL",
+      "headword_raw": "LDL",
+      "pr": "(l`dē*l/\")",
+      "pos": [
+        "n."
+      ],
+      "ety": "[acronym from Low-Density Lipoprotein.]",
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "low-density lipoprotein"
+      ],
+      "entry_fields": [
+        "(Med., Biochem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Low-density lipoprotein, a lipoprotein that transports cholesterol in the blood; high levels are thought to be associated with increased risk of coronary heart disease and atherosclerosis; sometimes called informally bad cholesterol."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

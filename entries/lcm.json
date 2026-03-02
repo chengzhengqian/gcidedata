@@ -1,0 +1,39 @@
+{
+  "key": "lcm",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "lcm",
+      "headword_raw": "lcm",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "lowest common multiple",
+        "least common multiple"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Abbreviation for the least common multiple, the smallest multiple that is exactly divisible by every member of a set of numbers; as, the least common multiple of 12 and 18 is 36."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "key": "lateral",
+  "source_file": "CIDE.L",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Lateral",
+      "headword_raw": "Lat\"er*al",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. lateralis, fr. latus, lateris, side: cf. F. latral.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to the sides; as, the lateral walls of a house; the lateral branches of a tree."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Anat.)"
+          ],
+          "defs": [
+            "Lying at, or extending toward, the side; away from the mesial plane; external; -- opposed to mesial."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Crystallog.)",
+            "(Math.)",
+            "(Anat.)",
+            "(Mech.)",
+            "(Mech.)",
+            "(Bridge Building)"
+          ],
+          "defs": [
+            "Directed to the side; as, a lateral view of a thing."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "lateral",
+      "headword_raw": "lat\"er*al",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "lateral",
+      "headword_raw": "lat\"er*al",
+      "pr": "(?)",
+      "pos": [
+        "v. t. & i."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Football)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To pass the footbal to a receiver who is behind the passer; to make a lateral pass; as, the ball was lateraled to the fullback, who ran it for a touchdown."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "key": "latent",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Latent",
+      "headword_raw": "La\"tent",
+      "pr": "(lā\"tnt)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. latens, -entis, p. pr. of latere to lie hid or concealed; cf. Gr. lanqa`nein, E. lethargy: cf. F. latent.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Not visible or apparent; hidden; concealed; secret; dormant; as, latent springs of action."
+          ],
+          "quotes": [
+            "The evils latent in the most promising contrivances are provided for as they arise."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)",
+            "(Bot.)",
+            "(Physics)",
+            "(Med.)",
+            "(Physiol.)",
+            "(Biol.)"
+          ],
+          "defs": [
+            "Existing but not presenting symptoms; dormant or developing; -- of disease, especially infectious diseases; as, the latent phase of an infection."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

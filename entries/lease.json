@@ -1,0 +1,132 @@
+{
+  "key": "lease",
+  "source_file": "CIDE.L",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Lease",
+      "headword_raw": "Lease",
+      "pr": "(lēz)",
+      "pos": [
+        "v. i."
+      ],
+      "ety": "[AS. lesan to gather; akin to D. lezen to gather, read, G. lesen, Goth. lisan to gather; cf. Lith lesti to peck.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To gather what harvesters have left behind; to glean."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Lease",
+      "headword_raw": "Lease",
+      "pr": "(lēs)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[F. laisser, OF. laissier, lessier, to leave, transmit, L. laxare to loose, slacken, from laxus loose, wide. See Lax, and cf. Lesser.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Leased (?); p. pr. & vb. n. Leasing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To grant to another by lease the possession of, as of lands, tenements, and hereditaments; to let; to demise; as, a landowner leases a farm to a tenant; -- sometimes with out."
+          ],
+          "quotes": [
+            "There were some [houses] that were leased out for three lives."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To hold under a lease; to take lease of; as, a tenant leases his land from the owner."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Lease",
+      "headword_raw": "Lease",
+      "pr": "(lēs)",
+      "pos": [
+        "n.",
+        "v. t."
+      ],
+      "ety": "[Cf. OF. lais. See Lease, v. t.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The temporary transfer of a possession to another person in return for a fee or other valuable consideration paid for the transfer;",
+            "A demise or letting of lands, tenements, or hereditaments to another for life, for a term of years, or at will, or for any less interest than that which the lessor has in the property, usually for a specified rent or compensation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The contract for such letting."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Any tenure by grant or permission; the time for which such a tenure holds good; allotted time."
+          ],
+          "quotes": [
+            "Our high-placed Macbeth Shall live the lease of nature."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

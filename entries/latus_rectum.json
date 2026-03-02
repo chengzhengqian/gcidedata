@@ -1,0 +1,38 @@
+{
+  "key": "latus_rectum",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Latus rectum",
+      "headword_raw": "La\"tus rec\"tum",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L., the right side.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Conic Sections)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The line drawn through a focus of a conic section parallel to the directrix and terminated both ways by the curve. It is the parameter of the principal axis. See Focus, and Parameter."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

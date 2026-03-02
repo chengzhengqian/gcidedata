@@ -1,0 +1,291 @@
+{
+  "key": "leave",
+  "source_file": "CIDE.L",
+  "record_count": 5,
+  "records": [
+    {
+      "headword": "Leave",
+      "headword_raw": "Leave",
+      "pr": "(?)",
+      "pos": [
+        "v. i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Leaved (?); p. pr. & vb. n. Leaving]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To send out leaves; to leaf; -- often with out."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Leave",
+      "headword_raw": "Leave",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": "[See Levy.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To raise; to levy."
+          ],
+          "quotes": [
+            "An army strong she leaved."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Leave",
+      "headword_raw": "Leave",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. leve, leave, AS. lef; akin to lef pleasing, dear, E. lief, D. oorlof leave, G. arlaub, and erlauben to permit, Icel. leyfi. √124. See Lief.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Liberty granted by which restraint or illegality is removed; permission; allowance; license."
+          ],
+          "quotes": [
+            "David earnestly asked leave of me.",
+            "No friend has leave to bear away the dead."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The act of leaving or departing; a formal parting; a leaving; farewell; adieu; -- used chiefly in the phrase, to take leave, i. e., literally, to take permission to go."
+          ],
+          "quotes": [
+            "A double blessing is a'double grace; Occasion smiles upon a second leave.",
+            "And Paul after this tarried there yet a good while, and then took his leave of the brethren."
+          ],
+          "notes": [],
+          "synonyms": [
+            "See Liberty"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Leave",
+      "headword_raw": "Leave",
+      "pr": "(lft)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "v."
+      ],
+      "ety": "[OE. leven, AS. l<?/fan, fr. lāf remnant, heritage; akin to lifian, libban, to live, orig., to remain; cf. belīfan to remain, G. bleiben, Goth. bileiban. √119. See Live, v.]",
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5"
+      ],
+      "morph": "[imp. & p. p. Left (lft); p. pr. & vb. n. Leaving.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To withdraw one's self from; to go away from; to depart from; as, to leave the house."
+          ],
+          "quotes": [
+            "Therefore shall a man leave his father and his mother, and shall cleave unto his wife."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To let remain unremoved or undone; to let stay or continue, in distinction from what is removed or changed."
+          ],
+          "quotes": [
+            "If grape gatherers come to thee, would they not leave some gleaning grapes ?",
+            "These ought ye to have done, and not to leave the other undone.",
+            "Besides it leaveth a suspicion, as if more might be said than is expressed."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To cease from; to desist from; to abstain from."
+          ],
+          "quotes": [
+            "Now leave complaining and begin your tea."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "To desert; to abandon; to forsake; hence, to give up; to relinquish."
+          ],
+          "quotes": [
+            "Lo, we have left all, and have followed thee.",
+            "The heresies that men do leave."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "To let be or do without interference; as, I left him to his reflections; I leave my hearers to judge."
+          ],
+          "quotes": [
+            "I will leave you now to your gossiplike humor."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [],
+          "defs": [
+            "To put; to place; to deposit; to deliver; to commit; to submit -- with a sense of withdrawing one's self from; as, leave your hat in the hall; we left our cards; to leave the matter to arbitrators."
+          ],
+          "quotes": [
+            "Leave there thy gift before the altar and go thy way.",
+            "The foot That leaves the print of blood where'er it walks."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "7.",
+          "fields": [],
+          "defs": [
+            "To have remaining at death; hence, to bequeath; as, he left a large estate; he left a good name; he left a legacy to his niece."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "8.",
+          "fields": [],
+          "defs": [
+            "to cause to be; -- followed by an adjective or adverb describing a state or condition; as, the losses due to fire leave me penniless; The cost of defending himself left Bill Clinton with a mountain of lawyers' bills."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            ">- To quit",
+            "depart from",
+            "forsake",
+            "abandon",
+            "relinquish",
+            "deliver",
+            "bequeath",
+            "give up",
+            "forego",
+            "resign",
+            "surrender",
+            "forbear. See Quit"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Leave",
+      "headword_raw": "Leave",
+      "pr": "(?)",
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To depart; to set out."
+          ],
+          "quotes": [
+            "By the time I left for Scotland."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To cease; to desist; to leave off."
+          ],
+          "quotes": [
+            "Leave off, and for another summons wait."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

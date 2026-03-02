@@ -1,0 +1,51 @@
+{
+  "key": "lead-in",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "lead-in",
+      "headword_raw": "lead-in",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Elec.)"
+          ],
+          "defs": [
+            "a wire connecting an antenna to a receiver or a transmitter to a transmission line."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Radio and Television Broadcasting)"
+          ],
+          "defs": [
+            "The short segment of a program or program script introducing and immediately preceding another part of the program or a commercial."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "key": "latency",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Latency",
+      "headword_raw": "La\"ten*cy",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[See Latent.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The state or quality of being latent."
+          ],
+          "quotes": [
+            "To simplify the discussion, I shall distinguish three degrees of this latency."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The time between a stimulus the appearance of the response; the time between any causal action and the first appearance of the effect. Called also latent period."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "The time between exposure to a carcinogen or other disease-causing agent and the appearance of the consequent disease."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

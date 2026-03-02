@@ -1,0 +1,38 @@
+{
+  "key": "laser",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "laser",
+      "headword_raw": "laser",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[acronym from Light Amplification by Stimulated Emission of Radiation: ca. 1955.]",
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "optical maser"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A device which produces an intense, usually narrow, monochromatic beam of coherent light; called also optical maser. It has various forms, and is used in various applications in science and technology. The beam is produced by boosting the majority of the electrons in specific radiation-absorbing atoms in a medium into a higher energy level, from which they are stimulated by their own emitted radiation to drop back synchronously to their lower energy level, and emit light which is in phase (coherent)."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

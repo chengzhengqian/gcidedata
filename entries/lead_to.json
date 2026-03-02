@@ -1,0 +1,56 @@
+{
+  "key": "lead_to",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "lead to",
+      "headword_raw": "lead to",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC",
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Same as cause; as, the roaring stock market led to an increase in the purchase of big-ticket items during the 1996 Christmas season."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "result in",
+            "lead to"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "to be a contributory cause of; as, IBM's inattention to the needs of individual users led to the demise of OS/2 as a viable alternative to Windows 95."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "be conducive to",
+            "contribute to",
+            "lead to",
+            "conduce to"
+          ]
+        }
+      ]
+    }
+  ]
+}

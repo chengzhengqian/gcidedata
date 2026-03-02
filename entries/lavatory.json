@@ -1,0 +1,115 @@
+{
+  "key": "lavatory",
+  "source_file": "CIDE.L",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Lavatory",
+      "headword_raw": "Lav\"a*to*ry",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Washing, or cleansing by washing."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Lavatory",
+      "headword_raw": "Lav\"a*to*ry",
+      "pr": "(#)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. lavatorium: cf. lavatoire. See Lave to wash, and cf. Laver.]",
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A place for washing."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A basin or other vessel for washing in."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A wash or lotion for a diseased part."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "A place where gold is obtained by washing."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "A room containing one or more sinks for washing, as well as one or more toilet fixtures; also called bathroom, toilet, and sometimes commode. Commode and toilet may refer to a room with only a toilet fixture, but without a sink."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "toilet",
+            "lavatory",
+            "can",
+            "facility",
+            "john",
+            "privy",
+            "bathroom"
+          ]
+        }
+      ]
+    }
+  ]
+}

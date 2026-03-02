@@ -1,0 +1,42 @@
+{
+  "key": "dash-pot",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "dash-pot",
+      "headword_raw": "dash-pot",
+      "pr": "(dsh\"pt`)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Mach.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a mechanical damping device containing a piston that moves in a fluid-filled chamber to serve as a pneumatic or hydraulic cushion for a falling weight, as in the valve gear of a steam engine, to prevent shock."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ It consists of a chamber, containing air or a liquid, in which a piston (a), attached to the weight, falls freely until it enters a space (as below the openings, b) from which the air or liquid can escape but slowly (as through cock c), when its fall is gradually checked.",
+            "A cataract of an engine is sometimes called a dashpot."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

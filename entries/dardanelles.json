@@ -1,0 +1,50 @@
+{
+  "key": "dardanelles",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Dardanelles",
+      "headword_raw": "Dardanelles",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "the strait between the Aegean and the Sea of Marmara that separates European from Asian Turkey."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Hellespont"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "the unsuccessful campaign in World War I (1915) by the English and French to open a passage for aid to Russia; defeated by the Turks."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Dardanelles campaign"
+          ]
+        }
+      ]
+    }
+  ]
+}

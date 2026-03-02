@@ -1,0 +1,104 @@
+{
+  "key": "dangerous",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Dangerous",
+      "headword_raw": "Dan\"ger*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[OE., haughty, difficult, dangerous, fr. OF. dangereus, F. dangereux. See Danger.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Dangerously",
+          "form_raw": "Dan\"ger*ous*ly",
+          "key": "dangerously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Dangerousness",
+          "form_raw": "Dan\"ger*ous*ness",
+          "key": "dangerousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Attended or beset with danger; full of risk; perilous; hazardous; unsafe."
+          ],
+          "quotes": [
+            "Our troops set forth to-morrow; stay with us; The ways are dangerous.",
+            "It is dangerous to assert a negative."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Causing danger; ready to do harm or injury."
+          ],
+          "quotes": [
+            "If they incline to think you dangerous To less than gods."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "In a condition of danger, as from illness; threatened with death."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Hard to suit; difficult to please."
+          ],
+          "quotes": [
+            "My wages ben full strait, and eke full small; My lord to me is hard and dangerous."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "Reserved; not affable."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

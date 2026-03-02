@@ -1,0 +1,68 @@
+{
+  "key": "cytotaxonomy",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "cytotaxonomy",
+      "headword_raw": "cy`to*tax*on\"o*my",
+      "pr": "(sī`t*tks*n\"*m)",
+      "pos": [
+        "n.",
+        "a.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "cytotaxonomist",
+          "form_raw": "cy`to*tax*on\"o*mist",
+          "key": "cytotaxonomist",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "cytotaxonomic",
+          "form_raw": "cy`to*tax`o*nom\"ic",
+          "key": "cytotaxonomic",
+          "pos": [
+            "a."
+          ],
+          "pr": null
+        },
+        {
+          "form": "cytotaxonomically",
+          "form_raw": "cy`to*tax`o*nom\"ic*al*ly",
+          "key": "cytotaxonomically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Biology)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A branch of taxonomy which uses the characteristics of cellular structures, such as somatic chromosomes, to classify organisms."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

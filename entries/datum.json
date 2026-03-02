@@ -1,0 +1,74 @@
+{
+  "key": "datum",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Datum",
+      "headword_raw": "Da\"tum",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. See 2d Date.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Something given or admitted; a fact or principle granted; that upon which an inference or an argument is based; -- used chiefly in the plural."
+          ],
+          "quotes": [
+            "Any writer, therefore, who . . . furnishes us with data sufficient to determine the time in which he wrote."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a single piece of information; a fact; especially a piece of information obtained by observation or experiment; -- used mostly in the plural."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "The quantities or relations which are assumed to be given in any problem."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Surveying)",
+            "(Surv.)"
+          ],
+          "defs": [
+            "a point, line, or level surface used as a reference in measuring elevations."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

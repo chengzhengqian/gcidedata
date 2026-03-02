@@ -1,0 +1,61 @@
+{
+  "key": "data",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Data",
+      "headword_raw": "Da\"ta",
+      "pr": "(?)",
+      "pos": [
+        "n. pl."
+      ],
+      "ety": "[L. pl. of datum.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "See Datum."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a collection of facts, observations, or other information related to a particular question or problem; as, the historical data show that the budget deficit is only a small factor in determining interest rates."
+          ],
+          "quotes": [],
+          "notes": [
+            "The term in this sense is used especially in reference to experimental observations collected in the course of a controlled scientific investigation."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "information, most commonly in the form of a series of binary digits, stored on a physical storage medium for manipulation by a computer program. It is contrasted with the program which is a series of instructions used by the central processing unit of a computer to manipulate the data. In some computers data and executable programs are stored in separate locations."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "key": "damaged",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "damaged",
+      "headword_raw": "damaged",
+      "pr": "(dm\"jd)",
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "changed so as to reduce value, function, or other desirable trait; -- usually not used of persons. Opposite of undamaged."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Rendered imperfect by impairing the integrity of some part, or by breaking. Opposite of unbroken."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "broken"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "being unjustly brought into disrepute; as, her damaged reputation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "discredited"
+          ]
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "made to appear imperfect; -- especially of reputation; as, the senator's seriously damaged reputation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "besmirched",
+            "flyblown",
+            "spotted",
+            "stained",
+            "sullied",
+            "tainted",
+            "tarnished"
+          ]
+        }
+      ]
+    }
+  ]
+}

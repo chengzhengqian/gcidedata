@@ -1,0 +1,126 @@
+{
+  "key": "damage",
+  "source_file": "CIDE.D",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Damage",
+      "headword_raw": "Dam\"age",
+      "pr": "(dm\"j; 48)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OF. damage, domage, F. dommage, fr. assumed LL. damnaticum, from L. damnum damage. See Damn.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Injury or harm to person, property, or reputation; an inflicted loss of value; detriment; hurt; mischief."
+          ],
+          "quotes": [
+            "He that sendeth a message by the hand of a fool cutteth off the feet and drinketh damage.",
+            "Great errors and absurdities many commit for want of a friend to tell them of them, to the great damage both of their fame and fortune."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)",
+            "(Law)",
+            "(Law)"
+          ],
+          "defs": [
+            "The estimated reparation in money for detriment or injury sustained; a compensation, recompense, or satisfaction to one party, for a wrong or injury actually done to him by another."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ In common-law actions, the jury are the proper judges of damages."
+          ],
+          "synonyms": [
+            "Mischief",
+            "injury",
+            "harm",
+            "hurt",
+            "detriment",
+            "evil",
+            "ill. See Mischief"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Damage",
+      "headword_raw": "Dam\"age",
+      "pr": "(dm\"jd)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "n."
+      ],
+      "ety": "[Cf. OF. damagier, domagier. See Damage, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Damaged (dm\"jd); p. pr. & vb. n. Damaging (dm\"*jng).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To occasion damage to the soundness, goodness, or value of; to hurt; to injure; to impair."
+          ],
+          "quotes": [
+            "He . . . came up to the English admiral and gave him a broadside, with which he killed many of his men and damaged the ship."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Damage",
+      "headword_raw": "Dam\"age",
+      "pr": "(dm\"j)",
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To receive damage or harm; to be injured or impaired in soundness or value; as, some colors in cloth damage in sunlight."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

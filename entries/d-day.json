@@ -1,0 +1,61 @@
+{
+  "key": "d-day",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "D-day",
+      "headword_raw": "D-day",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Mil.)"
+          ],
+          "defs": [
+            "the day designated for the beginning of a planned attack by a military force; in communications the day is often otherwise unspecified for security reasons; as, the day before D-day the troops will move into position."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "6 June 1944, the day of the landing in France, by troops allied against the Germans in World War II."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "6 June 1944"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "the day for commencement or execution of any elaborate planned activity; -- often used jocosely."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

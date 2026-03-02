@@ -1,0 +1,84 @@
+{
+  "key": "rapacious",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Rapacious",
+      "headword_raw": "Ra*pa\"cious",
+      "pr": "(r*pā\"shs)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. rapax, -acis, from rapere to seize and carry off, to snatch away. See Rapid.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Rapaciously",
+          "form_raw": "Ra*pa\"cious*ly",
+          "key": "rapaciously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Rapaciousness",
+          "form_raw": "Ra*pa\"cious*ness",
+          "key": "rapaciousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Given to plunder; disposed or accustomed to seize by violence; seizing by force."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Accustomed to seize food; subsisting on prey, or animals seized by violence; as, a tiger is a rapacious animal; a rapacious bird."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Avaricious; grasping; extortionate; also, greedy; ravenous; voracious; as, rapacious usurers; a rapacious appetite."
+          ],
+          "quotes": [
+            "[Thy Lord] redeem thee quite from Death's rapacious claim"
+          ],
+          "notes": [],
+          "synonyms": [
+            "Greedy",
+            "grasping",
+            "ravenous",
+            "voracious"
+          ]
+        }
+      ]
+    }
+  ]
+}

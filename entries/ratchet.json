@@ -1,0 +1,51 @@
+{
+  "key": "ratchet",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Ratchet",
+      "headword_raw": "Ratch\"et",
+      "pr": "(-t)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Properly a diminutive from the same word as rack: cf. F. rochet. See 2d Ratch, Rack the instrument.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A pawl, click, or detent, for holding or propelling a ratchet wheel, or ratch, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mech.)",
+            "(Mach.)"
+          ],
+          "defs": [
+            "A mechanism composed of a ratchet wheel, or ratch, and pawl. See Ratchet wheel, below, and 2d Ratch."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ In the cut, the moving pawl c slides over the teeth in one direction, but in returning, draws the wheel with it, while the pawl d prevents it from turning in the contrary direction."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "key": "radiometry",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Radiometry",
+      "headword_raw": "Ra`di*om\"e*try",
+      "pr": "(rā`d*m\"*tr)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Radiometric",
+          "form_raw": "Ra`di*o*met\"ric",
+          "key": "radiometric",
+          "pos": [
+            "a."
+          ],
+          "pr": "(rā`d**mt\"rk)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The use of the radiometer, or the measurement of radiation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

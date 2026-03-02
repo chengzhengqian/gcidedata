@@ -1,0 +1,52 @@
+{
+  "key": "radiometer",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Radiometer",
+      "headword_raw": "Ra`di*om\"e*ter",
+      "pr": "(rā`d*m\"*tr)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. radius radius + -meter: cf. F. radiomtre.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Naut.)"
+          ],
+          "defs": [
+            "A forestaff."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Physics)"
+          ],
+          "defs": [
+            "An instrument designed for measuring the mechanical effect of radiant energy."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ It consists of a number of light disks, blackened on one side, placed at the ends of extended arms, supported on a pivot in an exhausted glass vessel. When exposed to rays of light or heat, the arms rotate."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "key": "rampart",
+  "source_file": "CIDE.R",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Rampart",
+      "headword_raw": "Ram\"part",
+      "pr": "(rm\"pärt)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. rempart, OF. rempar, fr. remparer to fortify, se remparer to fence or intrench one's self; pref. re- re- + pref. en- (L. in) + parer to defend, parry, prepare, L. parare to prepare. See Pare.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "-- Rampart, Bulwark. These words were formerly interchanged; but in modern usage a distinction has sprung up between them. The rampart of a fortified place is the enceinte or entire main embankment or wall which surrounds it. The term bulwark is now applied to peculiarly strong outworks which project for the defense of the rampart, or main work. A single bastion is a bulwark. In using these words figuratively, rampart is properly applied to that which protects by walling out; bulwark to that which stands in the forefront of danger, to meet and repel it. Hence, we speak of a distinguished individual as the bulwark, not the rampart, of the state. This distinction, however, is often disregarded."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "That which fortifies and defends from assault; that which secures safety; a defense or bulwark."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Fort.)"
+          ],
+          "defs": [
+            "A broad embankment of earth round a place, upon which the parapet is raised. It forms the substratum of every permanent fortification."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Bulwark",
+            "fence",
+            "security",
+            "guard"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Rampart",
+      "headword_raw": "Ram\"part",
+      "pr": null,
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Ramparted; p. pr. & vb. n. Ramparting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Fort.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To surround or protect with, or as with, a rampart or ramparts."
+          ],
+          "quotes": [
+            "Those grassy hills, those glittering dells, Proudly ramparted with rocks."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

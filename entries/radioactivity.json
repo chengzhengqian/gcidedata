@@ -1,0 +1,40 @@
+{
+  "key": "radioactivity",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "radioactivity",
+      "headword_raw": "ra`di*o*ac*tiv\"i*ty",
+      "pr": "(rā`d**k*tv\"*t)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a form of instability which is a property of the atomic nuclei of certain isotopes, which causes a spontaneous change in the structure of the nucleus, accompanied by emission of energetic radiation. The radiation emitted is usually sufficient to cause ionization in matter through which it passes, and is therefore called ionizing radiation. The radiation emitted by most radioactive substances is one of three types: alpha rays, beta rays, or gamma rays. Some chemical elements have no stable isotopes, and these are referred to as radioactive elements, and the element itself is said to possess radioactivity."
+          ],
+          "quotes": [],
+          "notes": [
+            "The changes in radioactive nuclei which cause radiation in most cases cause the chemical identity of the nucleus itself to change, as when tritium (an isotope of hydrogen) emits a beta ray and converts to helium. The radioactive decay process is a first-order reaction, and the rate of decay of a particular isotope can therefore be expressed as the half life of the isotope, which is the time it takes for one half of the remaining undecayed isotope to decay, and is a constant independent of the proportion of original material which has already decayed. The half life of tritium, for example, is 12.3 years."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

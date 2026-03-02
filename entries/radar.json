@@ -1,0 +1,46 @@
+{
+  "key": "radar",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "radar",
+      "headword_raw": "ra\"dar",
+      "pr": "(rā\"där)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[acronym from RAdio Detection And Ranging.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "An electronic device designed to detect objects at a distance, and determine their distance from the device, by transmitting a pulse of radio waves and measuring the time required for the echo of the pulse to return to the emitting device; as, the radar showed a plane approaching rapidly."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The method of detecting objects, finding their distance, or determining their speed, by use of a radar{1} device; as, modern radar can detect objects as small as raindrops."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

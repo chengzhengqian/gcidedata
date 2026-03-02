@@ -1,0 +1,64 @@
+{
+  "key": "radiography",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "radiography",
+      "headword_raw": "ra`di*og\"ra*phy",
+      "pr": "(rā`d*g\"r*f)",
+      "pos": [
+        "n.",
+        "a.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "radiographic",
+          "form_raw": "ra`di*o*graph\"ic",
+          "key": "radiographic",
+          "pos": [],
+          "pr": "(rā`d**grf\"k)"
+        },
+        {
+          "form": "radiographical",
+          "form_raw": "ra`di*o*graph\"ic*al",
+          "key": "radiographical",
+          "pos": [
+            "a."
+          ],
+          "pr": "(rā`d**grf\"*kl)"
+        },
+        {
+          "form": "Radiographically",
+          "form_raw": "Ra`di*o*graph\"ic*al*ly",
+          "key": "radiographically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Art or process of making radiographs, radiograms, or autoradiograms."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "key": "ratable",
+  "source_file": "CIDE.R",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Ratable",
+      "headword_raw": "Rat\"a*ble",
+      "pr": "(rāt\"*b'l)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Ratableness",
+          "form_raw": "Rat\"a*ble*ness",
+          "key": "ratableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Ratably",
+          "form_raw": "Rat\"a*bly",
+          "key": "ratably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Capable of being rated, or set at a certain value."
+          ],
+          "quotes": [
+            "Twenty orae were ratable to [at] two marks of silver."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Liable to, or subjected by law to, taxation; as, ratable estate."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Made at a proportionate rate; as, ratable payments."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "ratable",
+      "headword_raw": "rat\"a*ble",
+      "pr": "(rāt\"*b'l)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a structure which may be rated, or set at a certain value, for the purpose of taxation, usually based on the value; as, with the deterioration of the center cities, the loss of ratables worsened the situation by removing valuable sources of tax revenue."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

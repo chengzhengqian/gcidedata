@@ -1,0 +1,103 @@
+{
+  "key": "ragged",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Ragged",
+      "headword_raw": "Rag\"ged",
+      "pr": "(rg\"gd)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[From Rag, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Raggedly",
+          "form_raw": "Rag\"ged*ly",
+          "key": "raggedly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Raggedness",
+          "form_raw": "Rag\"ged*ness",
+          "key": "raggedness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Rent or worn into tatters, or till the texture is broken; as, a ragged coat; a ragged sail."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Broken with rough edges; having jags; uneven; rough; jagged; as, ragged rocks."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Hence, harsh and disagreeable to the ear; dissonant."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Wearing tattered clothes; as, a ragged fellow."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Bot.)",
+            "(Bot.)",
+            "(Bot.)"
+          ],
+          "defs": [
+            "Rough; shaggy; rugged."
+          ],
+          "quotes": [
+            "What shepherd owns those ragged sheep?"
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

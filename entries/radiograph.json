@@ -1,0 +1,87 @@
+{
+  "key": "radiograph",
+  "source_file": "CIDE.R",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "radiograph",
+      "headword_raw": "ra\"di*o*graph",
+      "pr": "(rā\"d**grf)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Radio- + -graph.]",
+      "sources": [
+        "Webster 1913 Suppl.",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "An instrument for measuring and recording solar radiation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "An image or picture produced upon a sensitive surface, as of a photographic or fluorescent plate, by some form of penetrating radiation other than light, as X-rays, beta rays, etc.; esp., a picture of the internal structure of opaque objects traversed by the rays; a skiagraph. When the picture is produced upon photographic film by X-rays, the picture is usually called an X-ray photo or X-ray. When an image is produced on photographic film by a radioactive substance in close proximity to the film, in a manner so as to record the spatial distribution of the radioactive substance, the resulting image is called an autoradiograph or autoradiogram."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "radiograph",
+      "headword_raw": "ra\"di*o*graph",
+      "pr": "(rā\"d**grf)",
+      "pos": [
+        "v. t.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "radiographer",
+          "form_raw": "ra`di*og\"ra*pher",
+          "key": "radiographer",
+          "pos": [
+            "n."
+          ],
+          "pr": "(rā`d*g\"r*fr)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To make a radiograph of."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

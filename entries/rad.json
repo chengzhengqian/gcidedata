@@ -1,0 +1,65 @@
+{
+  "key": "rad",
+  "source_file": "CIDE.R",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Rad",
+      "headword_raw": "Rad",
+      "pr": "(rd)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[radiation absorbed dose.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A unit of measurement of the amount of ionizing radiation absorbed by an object, equal to an energy of 100 ergs per gram of irradiated material (equal to 0.01 gray)."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Rad",
+      "headword_raw": "Rad",
+      "pr": "(rd)",
+      "pos": [
+        "imp. & p. p."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "imp. & p. p. of Read, Rede."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

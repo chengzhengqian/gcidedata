@@ -1,0 +1,50 @@
+{
+  "key": "radius_vector",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Radius vector",
+      "headword_raw": "Ra\"di*us vec\"tor",
+      "pr": "(vk\"tr)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "A straight line (or the length of such line) connecting any point, as of a curve, with a fixed point, or pole, round which the straight line turns, and to which it serves to refer the successive points of a curve, in a system of polar coordinates. See Coordinate, n."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Astron.)"
+          ],
+          "defs": [
+            "An ideal straight line joining the center of an attracting body with that of a body describing an orbit around it, as a line joining the sun and a planet or comet, or a planet and its satellite."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

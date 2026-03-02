@@ -1,0 +1,54 @@
+{
+  "key": "radioscopy",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Radioscopy",
+      "headword_raw": "Ra`di*os\"co*py",
+      "pr": "(rā`d*s\"k*p)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Radio- + -scopy.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Radioscopic",
+          "form_raw": "Ra`di*o*scop\"ic",
+          "key": "radioscopic",
+          "pos": [],
+          "pr": "(rā`d**skp\"k)"
+        },
+        {
+          "form": "Radioscopical",
+          "form_raw": "Ra`di*o*scop\"ic*al",
+          "key": "radioscopical",
+          "pos": [
+            "a."
+          ],
+          "pr": "(rā`d**skp\"*kl)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Direct observation of objects opaque to light by means of some other form of radiant energy, as x-rays."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

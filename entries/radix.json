@@ -1,0 +1,64 @@
+{
+  "key": "radix",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Radix",
+      "headword_raw": "Ra\"dix",
+      "pr": "(rā\"dks)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. radix, -icis, root. See Radish.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Philol.)"
+          ],
+          "defs": [
+            "A primitive word, from which spring other words; a radical; a root; an etymon."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)",
+            "(Alg.)"
+          ],
+          "defs": [
+            "A number or quantity which is arbitrarily made the fundamental number of any system; a base. Thus, 10 is the radix, or base, of the common system of logarithms, and also of the decimal system of numeration.",
+            "A finite expression, from which a series is derived."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Bot.)"
+          ],
+          "defs": [
+            "The root of a plant."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

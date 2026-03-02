@@ -1,0 +1,48 @@
+{
+  "key": "certifiable",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "certifiable",
+      "headword_raw": "certifiable",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "presenting symptoms of mental illness sufficient for legal commitment to a mental institution."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "certified"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "capable of being guaranteed or certified: a certifiable fact."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

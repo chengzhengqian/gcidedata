@@ -1,0 +1,59 @@
+{
+  "key": "centrical",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Centrical",
+      "headword_raw": "Cen\"tric*al",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Centrically",
+          "form_raw": "Cen\"tric*al*ly",
+          "key": "centrically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Centricalness",
+          "form_raw": "Cen\"tric*al*ness",
+          "key": "centricalness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Placed in the center or middle; central; situated at or near a center."
+          ],
+          "quotes": [
+            "At York or some other centrical place."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

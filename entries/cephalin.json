@@ -1,0 +1,40 @@
+{
+  "key": "cephalin",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "cephalin",
+      "headword_raw": "ceph\"a*lin",
+      "pr": "(kf\"*ln)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. kefalh` the head; it was supposed by Thudichum to exist in brain tissue.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "phosphatidylethanolamine"
+      ],
+      "entry_fields": [
+        "(Physiol. Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "One of a group of phospholipids (nitrogenous phosphorized fatty substances), present in all living cells and particularly evident in nervous tissue. The cephalins consist of glycerol phosphate in which the two free hydroxyls of the glycerol are esterified with fatty acids, and the phosphate forms an ester linkage to the hydroxyl of ethanolamine. The phosphate may be linked to the alpha (end) or beta (middle) hydroxyl of the glycerol portion. The natural isomers are of the alpha form, and have the general formula R.O.CH2.CHOR.CH2.O.PO2.O.CH2.CH2.NH2, where R and R are the acyl residues of long-chain fatty acids, which may be the same or different."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

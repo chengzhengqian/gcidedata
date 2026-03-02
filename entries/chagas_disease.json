@@ -1,0 +1,39 @@
+{
+  "key": "chagas_disease",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Chagas disease",
+      "headword_raw": "Chagas' disease",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[Carlos Chagas, a physician in Brazil, 1879-1934]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "South Amercian trypanosomiasis",
+        "Chagas-Cruz disease"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a form of trypanosomiasis caused by infection with Trypamosoma cruzi, found principally in South America. It is transmitted by certain species of reduviid bugs, and has natural reservoirs in dogs, armadillos, rodents and other domestic and wild mammals."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

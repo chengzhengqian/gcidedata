@@ -1,0 +1,50 @@
+{
+  "key": "centner",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Centner",
+      "headword_raw": "Cent\"ner",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. G. centner a hundred-weight, fr. L. centenarius of a hundred, fr. centum a hundred.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Metal. & Assaying)"
+          ],
+          "defs": [
+            "A weight divisible first into a hundred parts, and then into smaller parts."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The metallurgists use a weight divided into a hundred equal parts, each one pound; the whole they call a centner: the pound is divided into thirty-two parts, or half ounces; the half ounce into two quarters; and each of these into two drams. But the assayers use different weights. With them a centner is one dram, to which the other parts are proportioned."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The commercial hundredweight in several of the continental countries, varying in different places from 100 to about 112 pounds."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

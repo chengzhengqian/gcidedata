@@ -1,0 +1,49 @@
+{
+  "key": "cephalometry",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Cephalometry",
+      "headword_raw": "Ceph`a*lom\"e*try",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Cephalometric",
+          "form_raw": "Ceph`a*lo*met\"ric",
+          "key": "cephalometric",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Anthropometry)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The measurement of the heads of living persons."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

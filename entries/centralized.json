@@ -1,0 +1,50 @@
+{
+  "key": "centralized",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "centralized",
+      "headword_raw": "centralized",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "drawn toward a center or brought under the control of a central authority; as, centralized control of emergency relief efforts; centralized government. Opposite of decentralized."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "concentrated on or clustered around a central point or purpose; -- contrasting with distributed."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "centered",
+            "centred",
+            "focused"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "key": "centripetal",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Centripetal",
+      "headword_raw": "Cen*trip\"e*tal",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. centrum center + petere to move toward.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Tending, or causing, to approach the center."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Bot.)"
+          ],
+          "defs": [
+            "Expanding first at the base of the inflorescence, and proceeding in order towards the summit.",
+            "Having the radicle turned toward the axis of the fruit, as some embryos."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Mech.)",
+            "(Physiol.)"
+          ],
+          "defs": [
+            "Progressing by changes from the exterior of a thing toward its center; as, the centripetal calcification of a bone."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "key": "census",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Census",
+      "headword_raw": "Cen\"sus",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. census, fr. censere. See Censor.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Bot. Antiq.)"
+          ],
+          "defs": [
+            "A numbering of the people, and valuation of their estate, for the purpose of imposing taxes, etc.; -- usually made once in five years."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "An official registration of the number of the people, the value of their estates, and other general statistics of a country."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ A general census of the United States was first taken in 1790, and one has been taken at the end of every ten years since."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

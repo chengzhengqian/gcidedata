@@ -1,0 +1,36 @@
+{
+  "key": "celsius",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Celsius",
+      "headword_raw": "Cel\"si*us",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The Celsius thermometer or scale, so called from Anders Celsius, a Swedish astronomer, who invented it. It is the same as the centigrade thermometer or scale."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

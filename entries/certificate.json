@@ -1,0 +1,87 @@
+{
+  "key": "certificate",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Certificate",
+      "headword_raw": "Cer*tif\"i*cate",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. certificat, fr. LL. certificatus made certain, p. p. of certificare. See tify.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A written testimony to the truth of any fact; as, certificate of good behavior."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A written declaration legally authenticated."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Certificate",
+      "headword_raw": "Cer*tif\"i*cate",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[See Certify.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Certificated; p. pr. & vb. n. Certificating.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To verify or vouch for by certificate."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To furnish with a certificate; as, to certificate the captain of a vessel; a certificated teacher."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

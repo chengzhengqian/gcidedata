@@ -1,0 +1,49 @@
+{
+  "key": "celtuce",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "celtuce",
+      "headword_raw": "celtuce",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a type of lettuce (Lactuca sativa asparagina) valued especially for its edible stems."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "stem lettuce",
+            "Lactuca sativa asparagina"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a salad green having characteristics of both lettuce and celery; stems eaten either raw or cooked."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

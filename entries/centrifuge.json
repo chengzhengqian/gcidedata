@@ -1,0 +1,73 @@
+{
+  "key": "centrifuge",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "centrifuge",
+      "headword_raw": "centrifuge",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "extractor",
+        "separator"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "an apparatus having containers for liquids arrayed around a central pivot and rotated at a high speed, thus generating centrifugal force on the liquid, and separating substances (such as particles of solid or globules of an immiscible liquid) mixed together in suspension within the liquid. Suspensions which would settle only very slowly or not at all under gravity can be made to separate quickly in such a device."
+          ],
+          "quotes": [],
+          "notes": [
+            "The containers for holding the liquid in a centrifuge are held in a metal frame called the head or trunnion. The solid material collected at teh bottom of the liquid container is called the pellet. A centrifuge designed to run at very high speeds and thus generate very high centrifugal force is called an ultracentrifuge."
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "centrifuge",
+      "headword_raw": "centrifuge",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "centrifugate"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "to drive out; to subject to the action of a centrifuge."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

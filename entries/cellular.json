@@ -1,0 +1,62 @@
+{
+  "key": "cellular",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Cellular",
+      "headword_raw": "Cel\"lu*lar",
+      "pr": "(sl\"*lr; 135)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. cellula a little cell: cf. F. cellulaire. See Cellule.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Consisting of, or containing, cells; of or pertaining to a cell or cells."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "porous; containing cavities."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Bot.)",
+            "(Biol.)",
+            "(Anat.)",
+            "(Bot.)"
+          ],
+          "defs": [
+            "pertaining to or using a system of transmission of telephone signals by radio, in which areas are divided into geographical parts (cells), each of which is served by a transmitter whose range is limited to that region, thus permitting a single transmission frequency to be used simultaneously in different parts of the same area. Cellular telephones are typically small and battery powered, allowing a subscriber with such a telephone to carry the telephone in a pocket or purse, over the entire area served, and to be contacted by a single telephone number. The system became widespread and popular in the 1980's and 1990's; as, cellular telephones sometimes lose their link unpredictably."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

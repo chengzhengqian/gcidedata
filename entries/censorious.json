@@ -1,0 +1,77 @@
+{
+  "key": "censorious",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Censorious",
+      "headword_raw": "Cen*so\"ri*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. censorius pertaining to the censor. See Censor.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Censoriously",
+          "form_raw": "Cen*so\"ri*ous*ly",
+          "key": "censoriously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Censoriousness",
+          "form_raw": "Cen*so\"ri*ous*ness",
+          "key": "censoriousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Addicted to censure; apt to blame or condemn; severe in making remarks on others, or on their writings or manners."
+          ],
+          "quotes": [
+            "A dogmatical spirit inclines a man to be consorious of his neighbors."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Implying or expressing censure; as, censorious remarks."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Fault-finding",
+            "carping",
+            "caviling",
+            "captious",
+            "severe",
+            "condemnatory",
+            "hypercritical"
+          ]
+        }
+      ]
+    }
+  ]
+}

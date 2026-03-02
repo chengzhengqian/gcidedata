@@ -1,0 +1,57 @@
+{
+  "key": "censurable",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Censurable",
+      "headword_raw": "Cen\"sur*a*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Censurableness",
+          "form_raw": "Cen\"sur*a*bleness",
+          "key": "censurableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Censurably",
+          "form_raw": "Cen\"sur*a*bly",
+          "key": "censurably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Deserving of censure; blamable; culpable; reprehensible; as, a censurable person, or censurable conduct."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

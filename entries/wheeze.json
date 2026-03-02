@@ -1,0 +1,79 @@
+{
+  "key": "wheeze",
+  "source_file": "CIDE.W",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Wheeze",
+      "headword_raw": "Wheeze",
+      "pr": "(?)",
+      "pos": [
+        "v. i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OE. whesen, AS. hwēsan (cf. Icel. hvæsa to hiss, Sw. hväsa, Dan. hvæse); akin to AS. hwōsta a cough, D. hoest, G. husten, OHG. huosto, Icel. hōsti, Lith. kosti to cough, Skr. kās. √43. Cf. Husky hoarse.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Wheezed (?); p. pr. & vb. n. Wheezing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To breathe hard, and with an audible piping or whistling sound, as persons affected with asthma."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Wheeze",
+      "headword_raw": "Wheeze",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A piping or whistling sound caused by difficult respiration."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Phon.)"
+          ],
+          "defs": [
+            "An ordinary whisper exaggerated so as to produce the hoarse sound known as the “stage whisper.” It is a forcible whisper with some admixture of tone."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "key": "weatherboard",
+  "source_file": "CIDE.W",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Weatherboard",
+      "headword_raw": "Weath\"er*board`",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Naut.)"
+          ],
+          "defs": [
+            "That side of a vessel which is toward the wind; the windward side.",
+            "A piece of plank placed in a porthole, or other opening, to keep out water."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Arch.)"
+          ],
+          "defs": [
+            "A board extending from the ridge to the eaves along the slope of the gable, and forming a close junction between the shingling of a roof and the side of the building beneath.",
+            "A clapboard or feather-edged board used in weatherboarding."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

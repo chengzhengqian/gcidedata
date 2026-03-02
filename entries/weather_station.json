@@ -1,0 +1,36 @@
+{
+  "key": "weather_station",
+  "source_file": "CIDE.W",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Weather station",
+      "headword_raw": "Weather station",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Meteor.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A station for taking meteorological observations, making weather forecasts, or disseminating such information. Such stations are of the first order when they make observations of all the important elements either hourly or by self-registering instruments; of the second order when only important observations are taken; of the third order when simpler work is done, as to record rainfall and maximum and minimum temperatures."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "key": "western",
+  "source_file": "CIDE.W",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Western",
+      "headword_raw": "West\"ern",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to the west; situated in the west, or in the region nearly in the direction of west; being in that quarter where the sun sets; as, the western shore of France; the western ocean."
+          ],
+          "quotes": [
+            "Far o'er the glowing western main."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Hist.)"
+          ],
+          "defs": [
+            "Moving toward the west; as, a ship makes a western course; coming from the west; as, a western breeze."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "key": "wealth",
+  "source_file": "CIDE.W",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Wealth",
+      "headword_raw": "Wealth",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. welthe, from wele; cf. D. weelde luxury. See Weal prosperity.]",
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Weal; welfare; prosperity; good."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Large possessions; a comparative abundance of things which are objects of human desire; esp., abundance of worldly estate; affluence; opulence; riches."
+          ],
+          "quotes": [
+            "I have little wealth to lose.",
+            "Each day new wealth, without their care, provides.",
+            "Wealth comprises all articles of value and nothing else."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Econ.)"
+          ],
+          "defs": [
+            "In the private sense, all property which has a money value.",
+            "In the public sense, all objects, esp. material objects, which have economic utility.",
+            "Those energies, faculties, and habits directly contributing to make people industrially efficient; in this sense, specifically called personal wealth."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Riches",
+            "affluence",
+            "opulence",
+            "abundance"
+          ]
+        }
+      ]
+    }
+  ]
+}

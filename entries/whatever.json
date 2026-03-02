@@ -1,0 +1,42 @@
+{
+  "key": "whatever",
+  "source_file": "CIDE.W",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Whatever",
+      "headword_raw": "What*ev\"er",
+      "pr": "(?)",
+      "pos": [
+        "pron."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Anything soever which; the thing or things of any kind; being this or that; of one nature or another; one thing or another; anything that may be; all that; the whole that; all particulars that; -- used both substantively and adjectively."
+          ],
+          "quotes": [
+            "Whatever fortune stays from his word.",
+            "Whatever Earth, all-bearing mother, yields.",
+            "Whatever be its intrinsic value."
+          ],
+          "notes": [
+            "☞ Whatever often follows a noun, being used elliptically. “There being no room for any physical discovery whatever” [sc. it may be]."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

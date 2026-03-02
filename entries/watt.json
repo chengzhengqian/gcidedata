@@ -1,0 +1,38 @@
+{
+  "key": "watt",
+  "source_file": "CIDE.W",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Watt",
+      "headword_raw": "Watt",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[From the distinguished mechanician and scientist, James Watt.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A unit of power or activity equal to 107 C.G.S. units of power, or to work done at the rate of one joule a second. An English horse power is approximately equal to 746 watts."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

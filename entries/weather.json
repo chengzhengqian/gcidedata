@@ -1,0 +1,220 @@
+{
+  "key": "weather",
+  "source_file": "CIDE.W",
+  "record_count": 4,
+  "records": [
+    {
+      "headword": "Weather",
+      "headword_raw": "Weath\"er",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[OE. weder, AS. weder; akin to OS. wedar, OFries. weder, D. weder, wer, G. wetter, OHG. wetar, Icel. veðr, Dan. veir, Sw. väder wind, air, weather, and perhaps to OSlav. vedro fair weather; or perhaps to Lith. vetra storm, Russ. vieter', vietr', wind, and E. wind. Cf. Wither.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The state of the air or atmosphere with respect to heat or cold, wetness or dryness, calm or storm, clearness or cloudiness, or any other meteorological phenomena; meteorological condition of the atmosphere; as, warm weather; cold weather; wet weather; dry weather, etc."
+          ],
+          "quotes": [
+            "Not amiss to cool a man's stomach this hot weather.",
+            "Fair weather cometh out of the north."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Vicissitude of season; meteorological change; alternation of the state of the air."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Storm; tempest."
+          ],
+          "quotes": [
+            "What gusts of weather from that gathering cloud My thoughts presage!"
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Naut.)",
+            "(Naut.)",
+            "(Mining)",
+            "(Arch.)",
+            "(Arch.)"
+          ],
+          "defs": [
+            "A light rain; a shower."
+          ],
+          "quotes": [
+            "Peace to the artist whose ingenious thought Devised the weather house, that useful toy!"
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Weather",
+      "headword_raw": "Weath\"er",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Weathered (?); p. pr. & vb. n. Weathering.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To expose to the air; to air; to season by exposure to air."
+          ],
+          "quotes": [
+            "[An eagle] soaring through his wide empire of the air To weather his broad sails.",
+            "This gear lacks weathering."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Hence, to sustain the trying effect of; to bear up against and overcome; to sustain; to endure; to resist; as, to weather the storm."
+          ],
+          "quotes": [
+            "For I can weather the roughest gale.",
+            "You will weather the difficulties yet."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Naut.)"
+          ],
+          "defs": [
+            "To sail or pass to the windward of; as, to weather a cape; to weather another ship."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Falconry)",
+            "(Naut.)"
+          ],
+          "defs": [
+            "To place (a hawk) unhooded in the open air."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Weather",
+      "headword_raw": "Weath\"er",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To undergo or endure the action of the atmosphere; to suffer meteorological influences; sometimes, to wear away, or alter, under atmospheric influences; to suffer waste by weather."
+          ],
+          "quotes": [
+            "The organisms . . . seem indestructible, while the hard matrix in which they are imbedded has weathered from around them."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Weather",
+      "headword_raw": "Weath\"er",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Naut.)",
+        "(Naut.)",
+        "(Naut.)",
+        "(Naut.)",
+        "(Naut.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Being toward the wind, or windward -- opposed to lee; as, weather bow, weather braces, weather gauge, weather lifts, weather quarter, weather shrouds, etc."
+          ],
+          "quotes": [
+            "To veer, and tack, and steer a cause Against the weather gauge of laws."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

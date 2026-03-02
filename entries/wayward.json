@@ -1,0 +1,61 @@
+{
+  "key": "wayward",
+  "source_file": "CIDE.W",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Wayward",
+      "headword_raw": "Way\"ward",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[OE. weiward, for aweiward, i. e., turned away. See Away, and -ward.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Waywardly",
+          "form_raw": "Way\"ward*ly",
+          "key": "waywardly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Waywardness",
+          "form_raw": "Way\"ward*ness",
+          "key": "waywardness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Taking one's own way; disobedient; froward; perverse; willful."
+          ],
+          "quotes": [
+            "My wife is in a wayward mood.",
+            "Wayward beauty doth not fancy move.",
+            "Wilt thou forgive the wayward thought?"
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

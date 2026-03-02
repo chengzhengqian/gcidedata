@@ -1,0 +1,66 @@
+{
+  "key": "wearisome",
+  "source_file": "CIDE.W",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Wearisome",
+      "headword_raw": "Wea\"ri*some",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Wearisomely",
+          "form_raw": "Wea\"ri*some*ly",
+          "key": "wearisomely",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Wearisomeness",
+          "form_raw": "Wea\"ri*some*ness",
+          "key": "wearisomeness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Irksome",
+        "tiresome",
+        "tedious",
+        "fatiguing",
+        "annoying",
+        "vexatious. See Irksome"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Causing weariness; tiresome; tedious; weariful; as, a wearisome march; a wearisome day's work; a wearisome book."
+          ],
+          "quotes": [
+            "These high wild hills and rough uneven ways Draws out our miles, and makes them wearisome."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

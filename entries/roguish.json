@@ -1,0 +1,81 @@
+{
+  "key": "roguish",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Roguish",
+      "headword_raw": "Rogu\"ish",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Roguishly",
+          "form_raw": "Rogu\"ish*ly",
+          "key": "roguishly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Roguishness",
+          "form_raw": "Rogu\"ish*ness",
+          "key": "roguishness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Vagrant."
+          ],
+          "quotes": [
+            "His roguish madness Allows itself to anything."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Resembling, or characteristic of, a rogue; knavish."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Pleasantly mischievous; waggish; arch."
+          ],
+          "quotes": [
+            "The most bewitching leer with her eyes, the most roguish cast."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

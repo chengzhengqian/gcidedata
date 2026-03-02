@@ -1,0 +1,110 @@
+{
+  "key": "roof",
+  "source_file": "CIDE.R",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Roof",
+      "headword_raw": "Roof",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. rof, AS. hr<?/f top, roof; akin to D. roef cabin, Icel. hr<?/f a shed under which ships are built or kept; cf. OS. hr<?/st roof, Goth. hr<?/t. Cf. Roost.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Arch.)"
+          ],
+          "defs": [
+            "The cover of any building, including the roofing (see Roofing) and all the materials and construction necessary to carry and maintain the same upon the walls or other uprights. In the case of a building with vaulted ceilings protected by an outer roof, some writers call the vault the roof, and the outer protection the roof mask. It is better, however, to consider the vault as the ceiling only, in cases where it has farther covering."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That which resembles, or corresponds to, the covering or the ceiling of a house; as, the roof of a cavern; the roof of the mouth."
+          ],
+          "quotes": [
+            "The flowery roof Showered roses, which the morn repaired."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Mining.)",
+            "(Arch.)",
+            "(Arch.)",
+            "(Arch.)"
+          ],
+          "defs": [
+            "The surface or bed of rock immediately overlying a bed of coal or a flat vein."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Roof",
+      "headword_raw": "Roof",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Roofed (?); p. pr. & vb. n. Roofing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To cover with a roof."
+          ],
+          "quotes": [
+            "I have not seen the remains of any Roman buildings that have not been roofed with vaults or arches."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To inclose in a house; figuratively, to shelter."
+          ],
+          "quotes": [
+            "Here had we now our country's honor roofed."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

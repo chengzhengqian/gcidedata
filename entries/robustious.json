@@ -1,0 +1,59 @@
+{
+  "key": "robustious",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Robustious",
+      "headword_raw": "Ro*bus\"tious",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Cf. L. robusteus of oak.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Robustiously",
+          "form_raw": "Ro*bus\"tious*ly",
+          "key": "robustiously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Robustiousness",
+          "form_raw": "Ro*bus\"tious*ness",
+          "key": "robustiousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Robust."
+          ],
+          "quotes": [
+            "In Scotland they had handled the bishops in a more robustious manner."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "key": "road",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Road",
+      "headword_raw": "Road",
+      "pr": "(rō)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[AS. rād a riding, that on which one rides or travels, a road, fr. rīdan to ride. See Ride, and cf. Raid.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A journey, or stage of a journey."
+          ],
+          "quotes": [
+            "With easy roads he came to Leicester."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "An inroad; an invasion; a raid."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A place where one may ride; an open way or public passage for vehicles, persons, and animals; a track for travel, forming a means of communication between one city, town, or place, and another."
+          ],
+          "quotes": [
+            "The most villainous house in all the London road."
+          ],
+          "notes": [
+            "☞ The word is generally applied to highways, and as a generic term it includes highway, street, and lane."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "A place where ships may ride at anchor at some distance from the shore; a roadstead; -- often in the plural; as, Hampton Roads."
+          ],
+          "quotes": [
+            "Now strike your saile, ye jolly mariners, For we be come unto a quiet rode [road].",
+            "My hat and wig will soon be here, They are upon the road.",
+            "The highway robber -- road agent he is quaintly called."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Way",
+            "highway",
+            "street",
+            "lane",
+            "pathway",
+            "route",
+            "passage",
+            "course. See Way"
+          ]
+        }
+      ]
+    }
+  ]
+}

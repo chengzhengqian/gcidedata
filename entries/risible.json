@@ -1,0 +1,93 @@
+{
+  "key": "risible",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Risible",
+      "headword_raw": "Ris\"i*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[F., fr. L. risibilis, fr. ridere, risum, to laugh. Cf. Ridiculous.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "Risible differs from ludicrous as species from genus; ludicrous expressing that which is playful and sportive; risible, that which may excite laughter. Risible differs from ridiculous, as the latter implies something contemptuous, and risible does not."
+      ],
+      "wordforms": [
+        {
+          "form": "Risibleness",
+          "form_raw": "Ris\"i*ble*ness",
+          "key": "risibleness",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Risibly",
+          "form_raw": "Ris\"i*bly",
+          "key": "risibly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Having the faculty or power of laughing; disposed to laugh."
+          ],
+          "quotes": [
+            "Laughing is our busines, . . . it has been made the definition of man that he is risible."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Exciting laughter; worthy to be laughed at; amusing."
+          ],
+          "quotes": [
+            "I hope you find nothing risible in my complaisance."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Used in, or expressing, laughter; as, risible muscles."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Risible is sometimes used as a noun, in the plural, for the feeling of amusement and for the muscles and other organs used in laughing, collectively; as, unable to control one's risibles."
+          ],
+          "synonyms": [
+            "Ludicrous",
+            "laughable",
+            "amusing",
+            "ridiculous",
+            "Risible",
+            "Ludicrous",
+            "Ridiculous"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "key": "breakfast",
+  "source_file": "CIDE.B",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Breakfast",
+      "headword_raw": "Break\"fast",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Break + fast.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The first meal in the day, or that which is eaten at the first meal."
+          ],
+          "quotes": [
+            "A sorry breakfast for my lord protector."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A meal after fasting, or food in general."
+          ],
+          "quotes": [
+            "The wolves will get a breakfast by my death."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Breakfast",
+      "headword_raw": "Break\"fast",
+      "pr": null,
+      "pos": [
+        "v. i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. breakfasted; p. pr. & vb. n. Breakfasting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To break one's fast in the morning; too eat the first meal in the day."
+          ],
+          "quotes": [
+            "First, sir, I read, and then I breakfast."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Breakfast",
+      "headword_raw": "Break\"fast",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To furnish with breakfast."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

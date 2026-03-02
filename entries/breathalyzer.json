@@ -1,0 +1,39 @@
+{
+  "key": "breathalyzer",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "breathalyzer",
+      "headword_raw": "breathalyzer",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[a Trademark.]",
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "breathalyser",
+        "breath analyzer"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a device that measures alcohol content of a person's breath."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

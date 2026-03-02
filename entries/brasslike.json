@@ -1,0 +1,51 @@
+{
+  "key": "brasslike",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "brasslike",
+      "headword_raw": "brasslike",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "resembling the sound of a brass instrument."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "brassy"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "having an appearance resembling that of brass."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "brassy"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "key": "brainwave",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "brainwave",
+      "headword_raw": "brain\"wave`",
+      "pr": "(brān\"wāv)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "rapid fluctuations of voltage between parts of the brain."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "brain wave",
+            "cortical potential"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "the clear (and often sudden) understanding of a complex situation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "insight",
+            "brainstorm"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "key": "braggart",
+  "source_file": "CIDE.B",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Braggart",
+      "headword_raw": "Brag\"gart",
+      "pr": "(<?/)",
+      "pos": [
+        "n.",
+        "v. i."
+      ],
+      "ety": "[OF. bragard flaunting, vain, bragging. See Brag, v. i.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A boaster."
+          ],
+          "quotes": [
+            "O, I could play the woman with mine eyes, And braggart with my tongue."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Braggart",
+      "headword_raw": "Brag\"gart",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Braggartly",
+          "form_raw": "Brag\"gart*ly",
+          "key": "braggartly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Boastful."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

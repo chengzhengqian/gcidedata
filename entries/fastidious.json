@@ -1,0 +1,67 @@
+{
+  "key": "fastidious",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Fastidious",
+      "headword_raw": "Fas*tid\"i*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. fastidiosus disdainful, fr. fastidium loathing, aversion, perh. fr. fastus arrogance (of uncertain origin) + taedium loathing. Cf. Tedious, Fash.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "Fastidious, Squeamish. We call a person fastidious when his taste or feelings are offended by trifling defects or errors; we call him squeamish when he is excessively nice or critical on minor points, and also when he is overscrupulous as to questions of duty. “Whoever examines his own imperfections will cease to be fastidious; whoever restrains his caprice and scrupulosity will cease to be squeamish.” Crabb."
+      ],
+      "wordforms": [
+        {
+          "form": "Fastidiously",
+          "form_raw": "Fas*tid\"i*ous*ly",
+          "key": "fastidiously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Fastidiousness",
+          "form_raw": "Fas*tid\"i*ous*ness",
+          "key": "fastidiousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Squeamish",
+        "critical",
+        "overnice",
+        "difficult",
+        "punctilious"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Difficult to please; delicate to a fault; suited with difficulty; squeamish; as, a fastidious mind or ear; a fastidious appetite."
+          ],
+          "quotes": [
+            "Proud youth ! fastidious of the lower world."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

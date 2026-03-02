@@ -1,0 +1,38 @@
+{
+  "key": "faraday",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "faraday",
+      "headword_raw": "far\"a*day",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[From Michael Faraday, the English electrician.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Elec.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "the quantity of electric charge that, passed though an ionic solution, will cause electrolysis of one equivalent of ions; it is equal to about 96,490 coulombs. The number of univalent metal ions (such as silver in a silver nitrate solution) which would be deposited as free metal by such a current is Avogadro's number, 6.023 x 1023."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

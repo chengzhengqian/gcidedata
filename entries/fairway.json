@@ -1,0 +1,48 @@
+{
+  "key": "fairway",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Fairway",
+      "headword_raw": "Fair\"way`",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The navigable part of a river, bay, etc., through which vessels enter or depart; the part of a harbor or channel ehich is kept open and unobstructed for the passage of vessels."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(golf)"
+          ],
+          "defs": [
+            "That part of a golf course between the tee and the green which is of closely mowed grass, as contrasted to the rough."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

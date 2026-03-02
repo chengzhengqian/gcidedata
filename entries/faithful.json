@@ -1,0 +1,102 @@
+{
+  "key": "faithful",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Faithful",
+      "headword_raw": "Faith\"ful",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Faithfully",
+          "form_raw": "Faith\"ful*ly",
+          "key": "faithfully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Faithfulness",
+          "form_raw": "Faith\"ful*ness",
+          "key": "faithfulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Full of faith, or having faith; disposed to believe, especially in the declarations and promises of God."
+          ],
+          "quotes": [
+            "You are not faithful, sir."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Firm in adherence to promises, oaths, contracts, treaties, or other engagements."
+          ],
+          "quotes": [
+            "The faithful God, which keepeth covenant and mercy with them that love him."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "True and constant in affection or allegiance to a person to whom one is bound by a vow, by ties of love, gratitude, or honor, as to a husband, a prince, a friend; firm in the observance of duty; loyal; of true fidelity; as, a faithful husband or servant."
+          ],
+          "quotes": [
+            "So spake the seraph Abdiel, faithful found, Among the faithless, faithful only he."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Worthy of confidence and belief; conformable to truth ot fact; exact; accurate; as, a faithful narrative or representation."
+          ],
+          "quotes": [
+            "It is a faithful saying."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Trusty",
+            "honest",
+            "upright",
+            "sincere",
+            "veracious",
+            "trustworthy"
+          ]
+        }
+      ]
+    }
+  ]
+}

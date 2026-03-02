@@ -1,0 +1,54 @@
+{
+  "key": "falcon",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Falcon",
+      "headword_raw": "Fal\"con",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. faucon, faucoun, OF. faucon, falcon, <?/. faucon, fr. LL. falco, perh. from L. falx, falcis, a sickle or scythe, and named from its curving talons. Cf. Falchion.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "One of a family (Falconidæ) of raptorial birds, characterized by a short, hooked beak, strong claws, and powerful flight.",
+            "Any species of the genus Falco, distinguished by having a toothlike lobe on the upper mandible; especially, one of this genus trained to the pursuit of other birds, or game."
+          ],
+          "quotes": [
+            "In the language of falconry, the female peregrine (Falco peregrinus) is exclusively called the falcon."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Gun.)",
+            "(Zool.)"
+          ],
+          "defs": [
+            "An ancient form of cannon."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "key": "fallacy",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Fallacy",
+      "headword_raw": "Fal\"la*cy",
+      "pr": "(fl\"l*s)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. fallace, fallas, deception, F. fallace, fr. L. fallacia, fr. fallax deceitful, deceptive, fr. fallere to deceive. See Fail.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "-- Fallacy, Sophistry. A fallacy is an argument which professes to be decisive, but in reality is not; sophistry is also false reasoning, but of so specious and subtle a kind as to render it difficult to expose its fallacy. Many fallacies are obvious, but the evil of sophistry lies in its consummate art. “Men are apt to suffer their minds to be misled by fallacies which gratify their passions. Many persons have obscured and confounded the nature of things by their wretched sophistry; though an act be never so sinful, they will strip it of its guilt.” South."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Deceptive or false appearance; deceitfulness; that which misleads the eye or the mind; deception."
+          ],
+          "quotes": [
+            "Winning by conquest what the first man lost, By fallacy surprised."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Logic)"
+          ],
+          "defs": [
+            "An argument, or apparent argument, which professes to be decisive of the matter at issue, while in reality it is not; a sophism."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Deception",
+            "deceit",
+            "mistake"
+          ]
+        }
+      ]
+    }
+  ]
+}

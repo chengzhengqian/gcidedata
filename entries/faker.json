@@ -1,0 +1,60 @@
+{
+  "key": "faker",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "faker",
+      "headword_raw": "fak\"er",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Sometimes erroneously written fakir.]",
+      "sources": [
+        "Webster 1913 Suppl.",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One who fakes something;",
+            "a thief.",
+            "a peddler of petty things.",
+            "a workman who dresses things up."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a person who makes deceitful pretenses."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "imposter",
+            "impostor",
+            "pretender",
+            "fake",
+            "fraud",
+            "sham",
+            "pseudo",
+            "pseud",
+            "role player"
+          ]
+        }
+      ]
+    }
+  ]
+}

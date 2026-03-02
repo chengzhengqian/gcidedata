@@ -1,0 +1,535 @@
+{
+  "key": "fall",
+  "source_file": "CIDE.F",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Fall",
+      "headword_raw": "Fall",
+      "pr": "(fl)",
+      "pos": [
+        "v. i.",
+        "imp.",
+        "p. p.",
+        "p. pr. & vb. n.",
+        "v. t."
+      ],
+      "ety": "[AS. feallan; akin to D. vallen, OS. & OHG. fallan, G. fallen, Icel. Falla, Sw. falla, Dan. falde, Lith. pulti, L. fallere to deceive, Gr. sfa`llein to cause to fall, Skr. sphal, sphul, to tremble. Cf. Fail, Fell, v. t., to cause to fall.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. Fell (fl); p. p. Fallen (fl\"'n); p. pr. & vb. n. Falling.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To Descend, either suddenly or gradually; particularly, to descend by the force of gravity; to drop; to sink; as, the apple falls; the tide falls; the mercury falls in the barometer."
+          ],
+          "quotes": [
+            "I beheld Satan as lightning fall from heaven."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To cease to be erect; to take suddenly a recumbent posture; to become prostrate; to drop; as, a child totters and falls; a tree falls; a worshiper falls on his knees."
+          ],
+          "quotes": [
+            "I fell at his feet to worship him."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To find a final outlet; to discharge its waters; to empty; -- with into; as, the river Rhone falls into the Mediterranean."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "To become prostrate and dead; to die; especially, to die by violence, as in battle."
+          ],
+          "quotes": [
+            "A thousand shall fall at thy side.",
+            "He rushed into the field, and, foremost fighting, fell."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "To cease to be active or strong; to die away; to lose strength; to subside; to become less intense; as, the wind falls."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [],
+          "defs": [
+            "To issue forth into life; to be brought forth; -- said of the young of certain animals."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "7.",
+          "fields": [],
+          "defs": [
+            "To decline in power, glory, wealth, or importance; to become insignificant; to lose rank or position; to decline in weight, value, price etc.; to become less; as, the price falls; stocks fell two points."
+          ],
+          "quotes": [
+            "I am a poor fallen man, unworthy now To be thy lord and master.",
+            "The greatness of these Irish lords suddenly fell and vanished."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "8.",
+          "fields": [],
+          "defs": [
+            "To be overthrown or captured; to be destroyed."
+          ],
+          "quotes": [
+            "Heaven and earth will witness, If Rome must fall, that we are innocent."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "9.",
+          "fields": [],
+          "defs": [
+            "To descend in character or reputation; to become degraded; to sink into vice, error, or sin; to depart from the faith; to apostatize; to sin."
+          ],
+          "quotes": [
+            "Let us labor therefore to enter into that rest, lest any man fall after the same example of unbelief."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "10.",
+          "fields": [],
+          "defs": [
+            "To become insnared or embarrassed; to be entrapped; to be worse off than before; as, to fall into error; to fall into difficulties."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "11.",
+          "fields": [],
+          "defs": [
+            "To assume a look of shame or disappointment; to become or appear dejected; -- said of the countenance."
+          ],
+          "quotes": [
+            "Cain was very wroth, and his countenance fell.",
+            "I have observed of late thy looks are fallen."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "12.",
+          "fields": [],
+          "defs": [
+            "To sink; to languish; to become feeble or faint; as, our spirits rise and fall with our fortunes."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "13.",
+          "fields": [],
+          "defs": [
+            "To pass somewhat suddenly, and passively, into a new state of body or mind; to become; as, to fall asleep; to fall into a passion; to fall in love; to fall into temptation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "14.",
+          "fields": [],
+          "defs": [
+            "To happen; to to come to pass; to light; to befall; to issue; to terminate."
+          ],
+          "quotes": [
+            "The Romans fell on this model by chance.",
+            "Sit still, my daughter, until thou know how the matter will fall.",
+            "They do not make laws, they fall into customs."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "15.",
+          "fields": [],
+          "defs": [
+            "To come; to occur; to arrive."
+          ],
+          "quotes": [
+            "The vernal equinox, which at the Nicene Council fell on the 21st of March, falls now [1694] about ten days sooner."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "16.",
+          "fields": [],
+          "defs": [
+            "To begin with haste, ardor, or vehemence; to rush or hurry; as, they fell to blows."
+          ],
+          "quotes": [
+            "They now no longer doubted, but fell to work heart and soul."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "17.",
+          "fields": [],
+          "defs": [
+            "To pass or be transferred by chance, lot, distribution, inheritance, or otherwise; as, the estate fell to his brother; the kingdom fell into the hands of his rivals."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "18.",
+          "fields": [],
+          "defs": [
+            "To belong or appertain."
+          ],
+          "quotes": [
+            "If to her share some female errors fall, Look on her face, and you'll forget them all."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "19.",
+          "fields": [
+            "(Naut.)",
+            "(Naut.)",
+            "(Mil.)",
+            "(Naut.)",
+            "(Naut.)",
+            "(M. E. Ch.)",
+            "(Ship Carp.)",
+            "(Mil.)",
+            "(Naut.)",
+            "(Naut.)",
+            "(Mil.)"
+          ],
+          "defs": [
+            "To be dropped or uttered carelessly; as, an unguarded expression fell from his lips; not a murmur fell from him."
+          ],
+          "quotes": [
+            "Those captive tribes . . . fell off From God to worship calves.",
+            "A soul exasperated in ills falls out With everything, its friend, itself."
+          ],
+          "notes": [
+            "☞ Fall primarily denotes descending motion, either in a perpendicular or inclined direction, and, in most of its applications, implies, literally or figuratively, velocity, haste, suddenness, or violence. Its use is so various, and so mush diversified by modifying words, that it is not easy to enumerate its senses in all its applications."
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Fall",
+      "headword_raw": "Fall",
+      "pr": "(?)",
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To let fall; to drop."
+          ],
+          "quotes": [
+            "For every tear he falls, a Trojan bleeds."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To sink; to depress; as, to fall the voice."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To diminish; to lessen or lower."
+          ],
+          "quotes": [
+            "Upon lessening interest to four per cent, you fall the price of your native commodities."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "To bring forth; as, to fall lambs."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "To fell; to cut down; as, to fall a tree."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Fall",
+      "headword_raw": "Fall",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of falling; a dropping or descending be the force of gravity; descent; as, a fall from a horse, or from the yard of ship."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The act of dropping or tumbling from an erect posture; as, he was walking on ice, and had a fall."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Death; destruction; overthrow; ruin."
+          ],
+          "quotes": [
+            "They thy fall conspire.",
+            "Pride goeth before destruction, and a haughty spirit before a fall."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Downfall; degradation; loss of greatness or office; termination of greatness, power, or dominion; ruin; overthrow; as, the fall of the Roman empire."
+          ],
+          "quotes": [
+            "Beholds thee glorious only in thy fall."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "The surrender of a besieged fortress or town ; as, the fall of Sebastopol."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [],
+          "defs": [
+            "Diminution or decrease in price or value; depreciation; as, the fall of prices; the fall of rents."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "7.",
+          "fields": [],
+          "defs": [
+            "A sinking of tone; cadence; as, the fall of the voice at the close of a sentence."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "8.",
+          "fields": [],
+          "defs": [
+            "Declivity; the descent of land or a hill; a slope."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "9.",
+          "fields": [],
+          "defs": [
+            "Descent of water; a cascade; a cataract; a rush of water down a precipice or steep; -- usually in the plural, sometimes in the singular; as, the falls of Niagara."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "10.",
+          "fields": [],
+          "defs": [
+            "The discharge of a river or current of water into the ocean, or into a lake or pond; as, the fall of the Po into the Gulf of Venice."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "11.",
+          "fields": [],
+          "defs": [
+            "Extent of descent; the distance which anything falls; as, the water of a stream has a fall of five feet."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "12.",
+          "fields": [],
+          "defs": [
+            "The season when leaves fall from trees; autumn."
+          ],
+          "quotes": [
+            "What crowds of patients the town doctor kills, Or how, last fall, he raised the weekly bills."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "13.",
+          "fields": [],
+          "defs": [
+            "That which falls; a falling; as, a fall of rain; a heavy fall of snow."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "14.",
+          "fields": [],
+          "defs": [
+            "The act of felling or cutting down."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "15.",
+          "fields": [],
+          "defs": [
+            "Lapse or declension from innocence or goodness. Specifically: The first apostasy; the act of our first parents in eating the forbidden fruit; also, the apostasy of the rebellious angels."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "16.",
+          "fields": [],
+          "defs": [
+            "Formerly, a kind of ruff or band for the neck; a falling band; a faule."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "17.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "That part (as one of the ropes) of a tackle to which the power is applied in hoisting."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

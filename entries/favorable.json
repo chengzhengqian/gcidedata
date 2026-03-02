@@ -1,0 +1,85 @@
+{
+  "key": "favorable",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Favorable",
+      "headword_raw": "Fa\"vor*a*ble",
+      "pr": "(fā\"vr**b'l)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[F. favorable, L. favorabilis favored, popular, pleasing, fr. favor. See Favor, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Favorableness",
+          "form_raw": "Fa\"vora*ble*ness",
+          "key": "favorableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Favorably",
+          "form_raw": "Fa\"vor*a*bly",
+          "key": "favorably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Full of favor; favoring; manifesting partiality; kind; propitious; friendly."
+          ],
+          "quotes": [
+            "Lend favorable ears to our request.",
+            "Lord, thou hast been favorable unto thy land."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Conducive; contributing; tending to promote or facilitate; advantageous; convenient."
+          ],
+          "quotes": [
+            "A place very favorable for the making levies of men.",
+            "The temper of the climate, favorable to generation, health, and long life."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Beautiful; well-favored."
+          ],
+          "quotes": [
+            "The favorableness of the present times to all exertions in the cause of liberty."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

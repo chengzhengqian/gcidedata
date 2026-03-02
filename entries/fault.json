@@ -1,0 +1,213 @@
+{
+  "key": "fault",
+  "source_file": "CIDE.F",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Fault",
+      "headword_raw": "Fault",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. faut, faute, F. faute (cf. It., Sp., & Pg. falta), fr. a verb meaning to want, fail, freq., fr. L. fallere to deceive. See Fail, and cf. Default.]",
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [
+        "-- Fault, Failing, Defect, Foible. A fault is positive, something morally wrong; a failing is negative, some weakness or falling short in a man's character, disposition, or habits; a defect is also negative, and as applied to character is the absence of anything which is necessary to its completeness or perfection; a foible is a less important weakness, which we overlook or smile at. A man may have many failings, and yet commit but few faults; or his faults and failings may be few, while his foibles are obvious to all. The faults of a friend are often palliated or explained away into mere defects, and the defects or foibles of an enemy exaggerated into faults. “I have failings in common with every human being, besides my own peculiar faults; but of avarice I have generally held myself guiltless.” Fox. “Presumption and self-applause are the foibles of mankind.” Waterland."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Defect; want; lack; default."
+          ],
+          "quotes": [
+            "One, it pleases me, for fault of a better, to call my friend."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Anything that fails, that is wanting, or that impairs excellence; a failing; a defect; a blemish."
+          ],
+          "quotes": [
+            "As patches set upon a little breach Discredit more in hiding of the fault."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A moral failing; a defect or dereliction from duty; a deviation from propriety; an offense less serious than a crime."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Geol. & Mining)"
+          ],
+          "defs": [
+            "A dislocation of the strata of the vein.",
+            "In coal seams, coal rendered worthless by impurities in the seam; as, slate fault, dirt fault, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Hunting)"
+          ],
+          "defs": [
+            "A lost scent; act of losing the scent."
+          ],
+          "quotes": [
+            "Ceasing their clamorous cry till they have singled, With much ado, the cold fault cleary out."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [
+            "(Tennis)"
+          ],
+          "defs": [
+            "Failure to serve the ball into the proper court."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "7.",
+          "fields": [
+            "(Elec.)"
+          ],
+          "defs": [
+            "A defective point in an electric circuit due to a crossing of the parts of the conductor, or to contact with another conductor or the earth, or to a break in the circuit."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "8.",
+          "fields": [
+            "(Geol. & Mining)"
+          ],
+          "defs": [
+            "A dislocation caused by a slipping of rock masses along a plane of facture; also, the dislocated structure resulting from such slipping."
+          ],
+          "quotes": [],
+          "notes": [
+            "The surface along which the dislocated masses have moved is called the fault plane. When this plane is vertical, the fault is a vertical fault; when its inclination is such that the present relative position of the two masses could have been produced by the sliding down, along the fault plane, of the mass on its upper side, the fault is a normal fault, or gravity fault. When the fault plane is so inclined that the mass on its upper side has moved up relatively, the fault is then called a reverse fault (or reversed fault), thrust fault, or overthrust fault. If no vertical displacement has resulted, the fault is then called a horizontal fault. The linear extent of the dislocation measured on the fault plane and in the direction of movement is the displacement; the vertical displacement is the throw; the horizontal displacement is the heave. The direction of the line of intersection of the fault plane with a horizontal plane is the trend of the fault. A fault is a strike fault when its trend coincides approximately with the strike of associated strata (i.e., the line of intersection of the plane of the strata with a horizontal plane); it is a dip fault when its trend is at right angles to the strike; an oblique fault when its trend is oblique to the strike. Oblique faults and dip faults are sometimes called cross faults. A series of closely associated parallel faults are sometimes called step faults and sometimes distributive faults."
+          ],
+          "synonyms": [
+            "Error",
+            "blemish",
+            "defect",
+            "imperfection",
+            "weakness",
+            "blunder",
+            "failing",
+            "vice"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Fault",
+      "headword_raw": "Fault",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Faulted; p. pr. & vb. n. Faulting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To charge with a fault; to accuse; to find fault with; to blame."
+          ],
+          "quotes": [
+            "For that I will not fault thee."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Geol.)"
+          ],
+          "defs": [
+            "To interrupt the continuity of (rock strata) by displacement along a plane of fracture; -- chiefly used in the p. p.; as, the coal beds are badly faulted."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Fault",
+      "headword_raw": "Fault",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To err; to blunder, to commit a fault; to do wrong."
+          ],
+          "quotes": [
+            "If after Samuel's death the people had asked of God a king, they had not faulted."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

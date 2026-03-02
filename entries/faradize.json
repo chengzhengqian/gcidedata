@@ -1,0 +1,51 @@
+{
+  "key": "faradize",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Faradize",
+      "headword_raw": "Far\"a*dize",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": "[imp. & p. p. Faradized (?); p. pr. & vb. n. Faradizing (?).]",
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Faradizer",
+          "form_raw": "Far\"a*diz`er",
+          "key": "faradizer",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To stimulate with, or subject to, faradic, or inducted, electric currents."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

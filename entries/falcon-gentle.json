@@ -1,0 +1,66 @@
+{
+  "key": "falcon-gentle",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "falcon-gentle",
+      "headword_raw": "falcon-gentle",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. faucon-gentil. See Falcon, and Genteel.]",
+      "sources": [
+        "PJC",
+        "WordNet 1.5",
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "any female falcon;"
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "a female peregrine falcon (Falco peregrinus)."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "falcon-gentil"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "The female or young of the goshawk (Accipiter gentilis, formerly Astur palumbarius)."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

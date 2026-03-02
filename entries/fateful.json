@@ -1,0 +1,59 @@
+{
+  "key": "fateful",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Fateful",
+      "headword_raw": "Fate\"ful",
+      "pr": "(?)",
+      "pos": [
+        "a. .",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Fatefully",
+          "form_raw": "Fate\"ful*ly",
+          "key": "fatefully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Fatefulness",
+          "form_raw": "Fate\"ful*ness",
+          "key": "fatefulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Significant of fate; ominous."
+          ],
+          "quotes": [
+            "The fateful cawings of the crow."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

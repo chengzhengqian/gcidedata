@@ -1,0 +1,50 @@
+{
+  "key": "failing",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Failing",
+      "headword_raw": "Fail\"ing",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A failing short; a becoming deficient; failure; deficiency; imperfection; weakness; lapse; fault; infirmity; as, a mental failing."
+          ],
+          "quotes": [
+            "And ever in her mind she cast about For that unnoticed failing in herself."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The act of becoming insolvent of bankrupt."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "See Fault"
+          ]
+        }
+      ]
+    }
+  ]
+}

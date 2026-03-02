@@ -1,0 +1,52 @@
+{
+  "key": "familial",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "familial",
+      "headword_raw": "familial",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "relating to or having the characteristics of a family; as, children of the same familial background; familial aggregation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "tending to occur among members of a family, usually by hereditary transmission; familial traits."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "genetic",
+            "hereditary",
+            "inherited",
+            "transmitted",
+            "transmissible"
+          ]
+        }
+      ]
+    }
+  ]
+}

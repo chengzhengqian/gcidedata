@@ -1,0 +1,57 @@
+{
+  "key": "fallacious",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Fallacious",
+      "headword_raw": "Fal*la\"cious",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. fallaciosus, fr. fallacia: cf. F. fallacieux. See Fallacy.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Fallaciously",
+          "form_raw": "Fal*la\"cious*ly",
+          "key": "fallaciously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Fallaciousness",
+          "form_raw": "Fal*la\"cious*ness",
+          "key": "fallaciousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Embodying or pertaining to a fallacy; illogical; fitted to deceive; misleading; delusive; as, fallacious arguments or reasoning."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

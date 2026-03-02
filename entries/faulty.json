@@ -1,0 +1,50 @@
+{
+  "key": "faulty",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Faulty",
+      "headword_raw": "Fault\"y",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Containing faults, blemishes, or defects; imperfect; not fit for the use intended."
+          ],
+          "quotes": [
+            "Created once So goodly and erect, though faulty since."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Guilty of a fault, or of faults; hence, blamable; worthy of censure."
+          ],
+          "quotes": [
+            "The king doth speak . . . as one which is faulty."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

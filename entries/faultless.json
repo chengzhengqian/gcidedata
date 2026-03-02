@@ -1,0 +1,63 @@
+{
+  "key": "faultless",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Faultless",
+      "headword_raw": "Fault\"less",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Faultlessly",
+          "form_raw": "Fault\"less*ly",
+          "key": "faultlessly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Faultlessness",
+          "form_raw": "Fault\"less*ness",
+          "key": "faultlessness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Blameless",
+        "spotless",
+        "perfect. See Blameless"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Without fault; not defective or imperfect; free from blemish; free from incorrectness, vice, or offense; perfect; as, a faultless poem."
+          ],
+          "quotes": [
+            "Whoever thinks a faultless piece to see, Thinks what ne'er was, nor is, nor e'er shall be."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

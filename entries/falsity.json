@@ -1,0 +1,57 @@
+{
+  "key": "falsity",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Falsity",
+      "headword_raw": "Fal\"si*ty",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[L. falsitas: cf. F. fausset, OF. also, falsit. See False, a.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "-- Falsity, Falsehood, Lie. Falsity denotes the state or quality of being false. A falsehood is a false declaration designedly made. A lie is a gross, unblushing falsehood. The falsity of a person's assertion may be proved by the evidence of others and thus the charge of falsehood be fastened upon him."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The quality of being false; coutrariety or want of conformity to truth."
+          ],
+          "quotes": [
+            "Probability does not make any alteration, either in the truth or falsity of things."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That which is false; falsehood; a lie; a false assertion."
+          ],
+          "quotes": [
+            "Men often swallow falsities for truths."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Falsehood",
+            "lie",
+            "deceit"
+          ]
+        }
+      ]
+    }
+  ]
+}

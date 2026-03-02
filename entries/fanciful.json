@@ -1,0 +1,90 @@
+{
+  "key": "fanciful",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Fanciful",
+      "headword_raw": "Fan\"ci*ful",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "-- Fanciful, Fantastical, Visionary. We speak of that as fanciful which is irregular in taste and judgment; we speak of it as fantastical when it becomes grotesque and extravagant as well as irregular; we speak of it as visionary when it is wholly unfounded in the nature of things. Fanciful notions are the product of a heated fancy, without any tems are made up of oddly assorted fancies, aften of the most whimsical kind; visionary expectations are those which can never be realized in fact."
+      ],
+      "wordforms": [
+        {
+          "form": "Fancifully",
+          "form_raw": "Fan\"ci*ful*ly",
+          "key": "fancifully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Fancifulness",
+          "form_raw": "Fan\"ci*ful*ness",
+          "key": "fancifulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Full of fancy; guided by fancy, rather than by reason and experience; whimsical; as, a fanciful man forms visionary projects."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Conceived in the fancy; not consistent with facts or reason; abounding in ideal qualities or figures; as, a fanciful scheme; a fanciful theory."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Curiously shaped or constructed; as, she wore a fanciful headdress."
+          ],
+          "quotes": [
+            "Gather up all fancifullest shells."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Imaginative",
+            "ideal",
+            "visionary",
+            "capricious",
+            "chimerical",
+            "whimsical",
+            "fantastical",
+            "wild"
+          ]
+        }
+      ]
+    }
+  ]
+}

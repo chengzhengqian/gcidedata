@@ -1,0 +1,59 @@
+{
+  "key": "faint-hearted",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Faint-hearted",
+      "headword_raw": "Faint\"-heart`ed",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Faint-heartedly",
+          "form_raw": "Faint\"-heart`ed*ly",
+          "key": "faint-heartedly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Faint-heartedness",
+          "form_raw": "Faint\"-heart`ed*ness",
+          "key": "faint-heartedness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Wanting in courage; depressed by fear; easily discouraged or frightened; cowardly; timorous; dejected."
+          ],
+          "quotes": [
+            "Fear not, neither be faint-hearted."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

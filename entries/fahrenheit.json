@@ -1,0 +1,40 @@
+{
+  "key": "fahrenheit",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Fahrenheit",
+      "headword_raw": "Fah\"ren*heit",
+      "pr": "(?)",
+      "pos": [
+        "prop. a.",
+        "n."
+      ],
+      "ety": "[G.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Conforming to the scale used by Gabriel Daniel Fahrenheit in the graduation of his thermometer; of or relating to Fahrenheit's thermometric scale. Used as an alternative to celsius.",
+            "The Fahrenheit thermometer or scale."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The Fahrenheit thermometer is so graduated that the freezing point of water is at 32 degrees above the zero of its scale, and the boiling point at one atmosphere of pressure is 212 degrees. It is commonly used in the United States and in England."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

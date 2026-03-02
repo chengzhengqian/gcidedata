@@ -1,0 +1,36 @@
+{
+  "key": "faqlist",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "FAQlist",
+      "headword_raw": "FAQ\"list",
+      "pr": "(fk\"lst`)",
+      "pos": [
+        "pr. n."
+      ],
+      "ety": "[acronym from Frequently Asked Questions.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A list of questions and answers concerning a specific topic, such as how to use a particular computer program. Many such lists contain answers to the most commonly asked questions about that topic, however the questions need not derive from actual queries. Such lists are often maintained in electronic form and made available on the World Wide Web."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

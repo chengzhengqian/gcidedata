@@ -1,0 +1,38 @@
+{
+  "key": "farad",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Farad",
+      "headword_raw": "Far\"ad",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[From Michael Faraday, the English electrician.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Elec.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The standard unit of electrical capacity; the capacity of a condenser whose charge, having an electro-motive force of one volt, is equal to the amount of electricity which, with the same electromotive force, passes through one ohm in one second; the capacity, which, charged with one coulomb, gives an electro-motive force of one volt."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

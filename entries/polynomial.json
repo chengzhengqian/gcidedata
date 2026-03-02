@@ -1,0 +1,77 @@
+{
+  "key": "polynomial",
+  "source_file": "CIDE.P",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Polynomial",
+      "headword_raw": "Pol`y*no\"mi*al",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Poly- + -nomial, as in monomial, binomial: cf. F. polynme.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Alg.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An expression composed of two or more terms, connected by the signs plus or minus; as, a2 - 2ab + b2."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Polynomial",
+      "headword_raw": "Pol`y*no\"mi*al",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Containing many names or terms; multinominal; as, the polynomial theorem."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Consisting of two or more words; having names consisting of two or more words; as, a polynomial name; polynomial nomenclature."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

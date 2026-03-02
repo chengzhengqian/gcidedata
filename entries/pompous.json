@@ -1,0 +1,69 @@
+{
+  "key": "pompous",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Pompous",
+      "headword_raw": "Pomp\"ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[F. pompeux, L. pomposus. See Pomp.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Pomously",
+          "form_raw": "Pom\"ous*ly",
+          "key": "pomously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Pompousness",
+          "form_raw": "Pomp\"ous*ness",
+          "key": "pompousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Displaying pomp; stately; showy with grandeur; magnificent; as, a pompous procession."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Ostentatious; pretentious; boastful; vainglorious; as, pompous manners; a pompous style."
+          ],
+          "quotes": [
+            "he pompous vanity of the old schoolmistress."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

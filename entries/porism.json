@@ -1,0 +1,52 @@
+{
+  "key": "porism",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Porism",
+      "headword_raw": "Po\"rism",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. <?/ a thing procured, a deduction from a demonstration, fr. <?/ to bring, provide: cf. F. porisme.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Geom.)"
+          ],
+          "defs": [
+            "A proposition affirming the possibility of finding such conditions as will render a certain determinate problem indeterminate or capable of innumerable solutions."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Gr. Geom.)"
+          ],
+          "defs": [
+            "A corollary."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Three books of porisms of Euclid have been lost, but several attempts to determine the nature of these propositions and to restore them have been made by modern geometers."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

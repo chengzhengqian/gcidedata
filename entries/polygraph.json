@@ -1,0 +1,56 @@
+{
+  "key": "polygraph",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Polygraph",
+      "headword_raw": "Pol\"y*graph",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. <?/ writing much; poly`s much, many + <?/ to write: cf. F. polygraphe.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "An instrument for multiplying copies of a writing; a manifold writer; a copying machine."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "In bibliography, a collection of different works, either by one or several authors."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "An instrument for detecting deceptive statements by a subject, by measuring several physiological states of the subject, such as pulse, heartbeat, and sweating. The instrument records these parameters on a strip of paper while the subject is asked questions designed to elicit emotional responses when the subject tries to deceive the interrogator. Also called lie detector"
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

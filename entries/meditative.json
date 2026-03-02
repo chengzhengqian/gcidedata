@@ -1,0 +1,57 @@
+{
+  "key": "meditative",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Meditative",
+      "headword_raw": "Med\"i*ta*tive",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. meditativus: cf. F. mditatif.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Meditatively",
+          "form_raw": "Med\"i*ta*tive*ly",
+          "key": "meditatively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Meditativeness",
+          "form_raw": "Med\"i*ta*tive*ness",
+          "key": "meditativeness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Disposed to meditate, or to meditation; as, a meditative man; a meditative mood."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

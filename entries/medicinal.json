@@ -1,0 +1,48 @@
+{
+  "key": "medicinal",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Medicinal",
+      "headword_raw": "Me*dic\"i*nal",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. medicinalis: cf. F. mdicinal. See Medicine.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Having curative or palliative properties; used for the cure or alleviation of bodily disorders; as, medicinal tinctures, plants, or springs."
+          ],
+          "quotes": [
+            "Drop tears as fast as the Arabian trees Their medicinal gum."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to medicine; medical."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

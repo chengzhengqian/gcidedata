@@ -1,0 +1,49 @@
+{
+  "key": "matchable",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Matchable",
+      "headword_raw": "Match\"a*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Matchableness",
+          "form_raw": "Match\"a*ble*ness",
+          "key": "matchableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Capable of being matched; comparable on equal conditions; adapted to being joined together; correspondent."
+          ],
+          "quotes": [
+            "Sir Walter Raleigh . . . is matchable with the best of the ancients."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

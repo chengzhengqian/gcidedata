@@ -1,0 +1,41 @@
+{
+  "key": "mechanics",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Mechanics",
+      "headword_raw": "Me*chan\"ics",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. mcanique.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physiol.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "That science, or branch of applied mathematics, which treats of the action of forces on bodies."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ That part of mechanics which considers the action of forces in producing rest or equilibrium is called statics; that which relates to such action in producing motion is called dynamics. The term mechanics includes the action of forces on all bodies, whether solid, liquid, or gaseous. It is sometimes, however, and formerly was often, used distinctively of solid bodies only: The mechanics of liquid bodies is called also hydrostatics, or hydrodynamics, according as the laws of rest or of motion are considered. The mechanics of gaseous bodies is called also pneumatics. The mechanics of fluids in motion, with special reference to the methods of obtaining from them useful results, constitutes hydraulics."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "key": "measureless",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Measureless",
+      "headword_raw": "Meas\"ure*less",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Measurelessness",
+          "form_raw": "Meas\"ure*less*ness",
+          "key": "measurelessness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Boundless",
+        "limitless",
+        "endless",
+        "unbounded",
+        "unlimited",
+        "vast",
+        "immense",
+        "infinite",
+        "immeasurable"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Without measure; unlimited; immeasurable."
+          ],
+          "quotes": [
+            "Where Alf, the sacred river ran, Through canyons measureless to man, Down to a hidden sea."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

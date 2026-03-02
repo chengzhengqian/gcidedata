@@ -1,0 +1,65 @@
+{
+  "key": "mean-spirited",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "mean-spirited",
+      "headword_raw": "mean\"-spir`it*ed",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Mean-spiritedness",
+          "form_raw": "Mean\"-spir`it*ed*ness",
+          "key": "mean-spiritedness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of a mean spirit; petty; small-minded; base; groveling; -- of people."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Done for malevolent reasons; -- of deeds and actions."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "base",
+            "contemptible",
+            "currish",
+            "mean",
+            "meanspirited",
+            "scurvy"
+          ]
+        }
+      ]
+    }
+  ]
+}

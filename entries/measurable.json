@@ -1,0 +1,70 @@
+{
+  "key": "measurable",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Measurable",
+      "headword_raw": "Meas\"ur*a*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[F. mesurable, L. mensurabilis. See Measure, and cf. Mensurable.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Measurableness",
+          "form_raw": "Meas\"ur*a*ble*ness",
+          "key": "measurableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Measurably",
+          "form_raw": "Meas\"ur*a*bly",
+          "key": "measurably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Capable of being measured; susceptible of mensuration or computation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Moderate; temperate; not excessive."
+          ],
+          "quotes": [
+            "Of his diet measurable was he.",
+            "Yet do it measurably, as it becometh Christians."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

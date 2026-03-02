@@ -1,0 +1,79 @@
+{
+  "key": "meaning",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Meaning",
+      "headword_raw": "Mean\"ing",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Meaningless",
+          "form_raw": "Mean\"ing*less",
+          "key": "meaningless",
+          "pos": [
+            "a."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Meaningly",
+          "form_raw": "Mean\"ing*ly",
+          "key": "meaningly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "That which is meant or intended; intent; purpose; aim; object; as, a mischievous meaning was apparent."
+          ],
+          "quotes": [
+            "If there be any good meaning towards you."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That which is signified, whether by act language; signification; sense; import; as, the meaning of a hint."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Sense; power of thinking."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "key": "mattress",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Mattress",
+      "headword_raw": "Mat\"tress",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OF. materas, F. matelas, LL. matratium; cf. Sp. & Pg. almadraque, Pr. almatrac; all from Ar. marah a place where anything is thrown, what is thrown under something, fr. araha to throw.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A large pad stuffed with hair, moss, or other suitable soft material, and quilted or otherwise fastened, used as or in a bed, to support the human body while lying down."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Hydraulic Engin.)"
+          ],
+          "defs": [
+            "A mass of interwoven brush, poles, etc., to protect a bank from being worn away by currents or waves."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

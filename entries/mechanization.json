@@ -1,0 +1,53 @@
+{
+  "key": "mechanization",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "mechanization",
+      "headword_raw": "mechanization",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC",
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act or process of mechanizing."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Causing to be performed by machines, especially by a highly technical implementation, usually involving electronic hardware; as, the mechanization of a manufacturing process."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "automation",
+            "mechanisation",
+            "high technology",
+            "high-tech"
+          ]
+        }
+      ]
+    }
+  ]
+}

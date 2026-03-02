@@ -1,0 +1,67 @@
+{
+  "key": "maximum",
+  "source_file": "CIDE.M",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Maximum",
+      "headword_raw": "Max\"i*mum",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L., neut. from maximus the greatest. See Maxim.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The greatest quantity or value attainable in a given case; or, the greatest value attained by a quantity which first increases and then begins to decrease; the highest point or degree; -- opposed to minimum."
+          ],
+          "quotes": [
+            "Good legislation is the art of conducting a nation to the maximum of happiness, and the minimum of misery."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Maximum",
+      "headword_raw": "Max\"i*mum",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Greatest in quantity or highest in degree attainable or attained; as, a maximum consumption of fuel; maximum pressure; maximum heat."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

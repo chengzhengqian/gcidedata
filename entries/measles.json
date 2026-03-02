@@ -1,0 +1,105 @@
+{
+  "key": "measles",
+  "source_file": "CIDE.M",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Measles",
+      "headword_raw": "Mea\"sles",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[From 1st Measle.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Leprosy; also, a leper."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Measles",
+      "headword_raw": "Mea\"sles",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[D. mazelen; akin to G. masern, pl., and E. mazer, and orig. meaning, little spots. See Mazer.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "A contagious viral febrile disorder commencing with catarrhal symptoms, and marked by the appearance on the third day of an eruption of distinct red circular spots, which coalesce in a crescentic form, are slightly raised above the surface, and after the fourth day of the eruption gradually decline; rubeola. It is a common childhood disease."
+          ],
+          "quotes": [
+            "Measles commences with the ordinary symptoms of fever."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Veter. Med.)"
+          ],
+          "defs": [
+            "A disease of cattle and swine in which the flesh is filled with the embryos of different varieties of the tapeworm."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A disease of trees."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "The larvae of any tapeworm (Taenia) in the cysticercus stage, when contained in meat. Called also bladder worms."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

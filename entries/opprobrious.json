@@ -1,0 +1,71 @@
+{
+  "key": "opprobrious",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Opprobrious",
+      "headword_raw": "Op*pro\"bri*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. opprobriosus, fr. opprobrium. See Opprobrium.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Opprobriously",
+          "form_raw": "Op*pro\"bri*ous*ly",
+          "key": "opprobriously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Opprobriousness",
+          "form_raw": "Op*pro\"bri*ous*ness",
+          "key": "opprobriousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Expressive of opprobrium; attaching disgrace; reproachful; scurrilous; as, opprobrious language."
+          ],
+          "quotes": [
+            "They . . . vindicate themselves in terms no less opprobrious than those by which they are attacked."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Infamous; despised; rendered hateful; as, an opprobrious name."
+          ],
+          "quotes": [
+            "This dark, opprobrious den of shame."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

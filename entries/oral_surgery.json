@@ -1,0 +1,38 @@
+{
+  "key": "oral_surgery",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "oral surgery",
+      "headword_raw": "o\"ral sur\"ge*ry",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Surgery performed within the mouth cavity, especially that performed around the gums and teeth as an expedient for the purpose of preservation or replacement of teeth."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

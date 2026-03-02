@@ -1,0 +1,53 @@
+{
+  "key": "optimize",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "optimize",
+      "headword_raw": "op\"ti*mize`",
+      "pr": "(p\"t*mīz`)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": "[imp. & p. p. optimized (p\"t*mīzd`); p. pr. & vb. n. optimizing (p\"t*mī`zng).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To make as useful, effective, or functional as possible; as, to optimize the speed of a computer program."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "optimise"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To get the most out of; to use to the best effect; to exploit fully; as, to optimize one's return on investment."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "make optimal",
+            "optimise"
+          ]
+        }
+      ]
+    }
+  ]
+}

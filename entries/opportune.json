@@ -1,0 +1,88 @@
+{
+  "key": "opportune",
+  "source_file": "CIDE.O",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Opportune",
+      "headword_raw": "Op`por*tune\"",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[F. opporiun, L. opportunus, lit., at or before the port; ob (see Ob-) + a derivative of portus port, harbor. See Port harbor.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Opportunely",
+          "form_raw": "Op`por*tune\"ly",
+          "key": "opportunely",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Opportuneness",
+          "form_raw": "Op`por*tune\"ness",
+          "key": "opportuneness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Convenient; ready; hence, seasonable; timely."
+          ],
+          "quotes": [
+            "This is most opportune to our need."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Opportune",
+      "headword_raw": "Op`por*tune\"",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To suit."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

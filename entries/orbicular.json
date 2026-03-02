@@ -1,0 +1,59 @@
+{
+  "key": "orbicular",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Orbicular",
+      "headword_raw": "Or*bic\"u*lar",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. orbicularis, fr. orbiculus, dim. of orbis orb: cf. F. orbiculaire.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Orbicularly",
+          "form_raw": "Or*bic\"u*lar*ly",
+          "key": "orbicularly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Orbicularness",
+          "form_raw": "Or*bic\"u*lar*ness",
+          "key": "orbicularness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Resembling or having the form of an orb; spherical; circular; orbiculate."
+          ],
+          "quotes": [
+            "Orbicular as the disk of a planet."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

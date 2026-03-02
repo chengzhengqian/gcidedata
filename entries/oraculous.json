@@ -1,0 +1,57 @@
+{
+  "key": "oraculous",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Oraculous",
+      "headword_raw": "O*rac\"u*lous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Oraculously",
+          "form_raw": "O*rac\"u*lous*ly",
+          "key": "oraculously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Oraculousness",
+          "form_raw": "O*rac\"u*lous*ness",
+          "key": "oraculousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Oracular; of the nature of an oracle."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

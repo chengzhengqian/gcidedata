@@ -1,0 +1,38 @@
+{
+  "key": "optical_fiber",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "optical fiber",
+      "headword_raw": "optical fiber",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Communications)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A thin fiber of very pure glass used to carry signals transmitted by means of light. It has much greater information-carrying capacity than a copper wire, and in the 1990's became a dominant means of transmitting telephone communications over long distances."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

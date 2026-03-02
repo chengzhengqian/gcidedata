@@ -1,0 +1,50 @@
+{
+  "key": "optometry",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Optometry",
+      "headword_raw": "Op*tom\"e*try",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "Measurement of the range of vision, esp. by means of the optometer."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "As defined (with minor variations) in the statutes of various States of the United States:",
+            "“The employment of subjective and objective mechanical means to determine the accomodative and refractive states of the eye and the scope of its function in general.”",
+            "“The employment of any means, other than the use of drugs, for the measurement of the powers of vision and adaptation of lenses for the aid thereof.”"
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

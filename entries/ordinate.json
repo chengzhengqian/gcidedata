@@ -1,0 +1,101 @@
+{
+  "key": "ordinate",
+  "source_file": "CIDE.O",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Ordinate",
+      "headword_raw": "Or\"di*nate",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. ordinatus, p. p. of ordinare. See Ordain.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Math.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Well-ordered; orderly; regular; methodical."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Ordinate",
+      "headword_raw": "Or\"di*nate",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Geom.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The distance of any point in a curve or a straight line, measured on a line called the axis of ordinates or on a line parallel to it, from another line called the axis of abscissas, on which the corresponding abscissa of the point is measured."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The ordinate and abscissa, taken together, are called coordinates, and define the position of the point with reference to the two axes named, the intersection of which is called the origin of coordinates. In a typical two-dimensional plot, viewed on a plane graph in its normal orientation with perpendicular axes, the ordinate is the vertical axis; when the axes are labeled as x and y, it is the y-axis. See Coordinate."
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Ordinate",
+      "headword_raw": "Or\"di*nate",
+      "pr": "(?)",
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To appoint, to regulate; to harmonize."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

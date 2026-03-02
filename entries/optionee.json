@@ -1,0 +1,40 @@
+{
+  "key": "optionee",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "optionee",
+      "headword_raw": "optionee",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[option + -ee]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Finance)"
+          ],
+          "defs": [
+            "A person who holds an option to buy or sell a financial instrument. See option."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "option holder"
+          ]
+        }
+      ]
+    }
+  ]
+}

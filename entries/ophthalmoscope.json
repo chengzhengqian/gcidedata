@@ -1,0 +1,49 @@
+{
+  "key": "ophthalmoscope",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Ophthalmoscope",
+      "headword_raw": "Oph*thal\"mo*scope",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[From Gr. 'ofqalmo`s the eye + -scope.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Ophthalmoscopic",
+          "form_raw": "Oph*thal`mo*scop\"ic",
+          "key": "ophthalmoscopic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physiol.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An instrument for viewing the interior of the eye, particularly the retina. Light is thrown into the eye by a mirror (usually concave) and the interior is then examined with or without the aid of a lens."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

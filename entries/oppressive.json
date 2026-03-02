@@ -1,0 +1,80 @@
+{
+  "key": "oppressive",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Oppressive",
+      "headword_raw": "Op*press\"ive",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Cf. F. oppressif.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Oppressively",
+          "form_raw": "Op*press\"ive*ly",
+          "key": "oppressively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Oppressiveness",
+          "form_raw": "Op*press\"ive*ness",
+          "key": "oppressiveness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Unreasonably burdensome; unjustly severe, rigorous, or harsh; as, oppressive taxes; oppressive exactions of service; an oppressive game law."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Using oppression; tyrannical; as, oppressive authority or commands."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Heavy; overpowering; hard to be borne; creating a sense of heavy burden; as, oppressive grief or woe; oppressive heat or humidity; an oppressive workload."
+          ],
+          "quotes": [
+            "To ease the soul of one oppressive weight."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

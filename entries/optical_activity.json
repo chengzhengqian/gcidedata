@@ -1,0 +1,49 @@
+{
+  "key": "optical_activity",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "optical activity",
+      "headword_raw": "optical activity",
+      "pr": null,
+      "pos": [
+        "n.",
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "optically active",
+          "form_raw": "optically active",
+          "key": "optically_active",
+          "pos": [
+            "adj."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "the ability of a chemical compound to rotate the plane of plane-polarized light. This is found only in chemicals whose molecular structure does not have a plane of symmetry, and is common in biochemical compounds."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

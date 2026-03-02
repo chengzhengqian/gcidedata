@@ -1,0 +1,94 @@
+{
+  "key": "option",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Option",
+      "headword_raw": "Op\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. optio; akin to optare to choose, wish, optimus best, and perh. to E. apt: cf. F. option.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [
+        "-- Option, Choice. Choice is an act of choosing; option often means liberty to choose, and implies freedom from constraint in the act of choosing."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The power of choosing; the right of choice or election; an alternative."
+          ],
+          "quotes": [
+            "There is an option left to the United States of America, whether they will be respectable and prosperous, or contemptible and miserable, as a nation."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The exercise of the power of choice; choice."
+          ],
+          "quotes": [
+            "Transplantation must proceed from the option of the people, else it sounds like an exile."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A wishing; a wish."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Ch. of Eng.)"
+          ],
+          "defs": [
+            "A right formerly belonging to an archbishop to select any one dignity or benefice in the gift of a suffragan bishop consecrated or confirmed by him, for bestowal by himself when next vacant; -- annulled by Parliament in 1845."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Stock Exchange)"
+          ],
+          "defs": [
+            "A stipulated privilege, given to a party in a time contract, of demanding its fulfillment on any day within a specified limit; also, the contract giving that privilege; as, an option to buy a stock at a given price; to exercise an option."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ A person owning a stock may sell to another person an option or right to buy that stock at some specified price within a specified period of time, and in return will get a premium in consideration for giving the option. If the option price (the strike price) is above the market value for the entire period in which the option is valid, the option is typically not exercised, and expires with no need on the part of the stock owner to transfer the actual stock itself. If however the stock price rises above the option price, the holder of the option may exercise the option, and buy the stock at the specificed price, and may in turn resell the stock at the current market value, perhaps making a net profit on the transaction. The original holder of the stock will receive, in addition to the price at which the stock is sold, the price of the option, and will generally receive more money than if the stock itself were sold at the time that the option was sold. The actual profits for the transaction will depend on the fees that brokers charge for conducting the sales of options and stocks."
+          ],
+          "synonyms": [
+            "Choice",
+            "preference",
+            "selection"
+          ]
+        }
+      ]
+    }
+  ]
+}

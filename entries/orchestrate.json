@@ -1,0 +1,51 @@
+{
+  "key": "orchestrate",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "orchestrate",
+      "headword_raw": "orchestrate",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "to write an orchestra score for; -- of a musical composition."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To be the chief coordinator of (an activity requiring action by more than one person); to organize and coordinate."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "mastermind",
+            "engineer",
+            "direct",
+            "organize"
+          ]
+        }
+      ]
+    }
+  ]
+}

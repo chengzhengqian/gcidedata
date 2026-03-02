@@ -1,0 +1,90 @@
+{
+  "key": "orientate",
+  "source_file": "CIDE.O",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Orientate",
+      "headword_raw": "O\"ri*en*tate",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[From Orient.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": "[imp. & p. p. Orientated (?); p. pr. & vb. n. Orientating.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To place or turn toward the east; to cause to assume an easterly direction, or to veer eastward."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To arrange in order; to dispose or place (a body) so as to show its relation to other bodies, or the relation of its parts among themselves."
+          ],
+          "quotes": [
+            "A crystal is orientated when placed in its proper position so as to exhibit its symmetry."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Same as orient{2}."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Orientate",
+      "headword_raw": "O\"ri*en*tate",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To move or turn toward the east; to veer from the north or south toward the east."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

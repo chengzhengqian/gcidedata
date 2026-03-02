@@ -1,0 +1,69 @@
+{
+  "key": "oracular",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Oracular",
+      "headword_raw": "O*rac\"u*lar",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. oracularius. See Oracle.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Oracularly",
+          "form_raw": "O*rac\"u*lar*ly",
+          "key": "oracularly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Oracularness",
+          "form_raw": "O*rac\"u*lar*ness",
+          "key": "oracularness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to an oracle; uttering oracles; forecasting the future; as, an oracular tongue."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Resembling an oracle in some way, as in solemnity, wisdom, authority, obscurity, ambiguity, dogmatism."
+          ],
+          "quotes": [
+            "They have something venerable and oracular in that unadorned gravity and shortness in the expression."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

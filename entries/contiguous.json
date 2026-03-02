@@ -1,0 +1,63 @@
+{
+  "key": "contiguous",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Contiguous",
+      "headword_raw": "Con*tig\"u*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. contiguus; akin to contigere to touch on all sides. See Contingent.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Contiguously",
+          "form_raw": "Con*tig\"u*ous*ly",
+          "key": "contiguously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Contiguousness",
+          "form_raw": "Con*tig\"u*ous*ness",
+          "key": "contiguousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Adjoining",
+        "adjacent. See Adjacent"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "In actual contact; touching; also, adjacent; near; neighboring; adjoining."
+          ],
+          "quotes": [
+            "The two halves of the paper did not appear fully divided . . . but seemed contiguous at one of their angles.",
+            "Sees no contiguous palace rear its head."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

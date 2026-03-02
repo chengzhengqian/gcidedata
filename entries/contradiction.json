@@ -1,0 +1,57 @@
+{
+  "key": "contradiction",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Contradiction",
+      "headword_raw": "Con`tra*dic\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. contradictio answer, objection: cf. F. contradiction.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "An assertion of the contrary to what has been said or affirmed; denial of the truth of a statement or assertion; contrary declaration; gainsaying."
+          ],
+          "quotes": [
+            "His fair demands Shall be accomplished without contradiction."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Logic)"
+          ],
+          "defs": [
+            "Direct opposition or repugnancy; inconsistency; incongruity or contrariety; one who, or that which, is inconsistent."
+          ],
+          "quotes": [
+            "can he make deathless death? That were to make Strange contradiction.",
+            "We state our experience and then we come to a manly resolution of acting in contradiction to it.",
+            "Both parts of a contradiction can not possibly be true.",
+            "Of contradictions infinite the slave."
+          ],
+          "notes": [
+            "It develops itself in three specific forms which have been called the “Three Logical Axioms.” First, “A is A.” Second, “A is not Not-A” Third, “Everything is either A or Not-A.”"
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

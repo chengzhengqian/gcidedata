@@ -1,0 +1,92 @@
+{
+  "key": "contentious",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Contentious",
+      "headword_raw": "Con*ten\"tious",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. contentiosus: cf. F. contentieux.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Contentiously",
+          "form_raw": "Con*ten\"tious*ly",
+          "key": "contentiously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Contentiousness",
+          "form_raw": "Con*ten\"tious*ness",
+          "key": "contentiousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Fond of contention; given to angry debate; provoking dispute or contention; quarrelsome."
+          ],
+          "quotes": [
+            "Despotic and contentious temper."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Relating to contention or strife; involving or characterized by contention."
+          ],
+          "quotes": [
+            "More cheerful, though not less contentious, regions."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Law)",
+            "(Eng. Eccl. Law)"
+          ],
+          "defs": [
+            "Contested; litigated; litigious; having power to decide controversy."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Quarrelsome",
+            "pugnacious",
+            "dissentious",
+            "wrangling",
+            "litigious",
+            "perverse",
+            "peevish"
+          ]
+        }
+      ]
+    }
+  ]
+}

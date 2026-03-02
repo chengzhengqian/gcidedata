@@ -1,0 +1,110 @@
+{
+  "key": "continental",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Continental",
+      "headword_raw": "Con`ti*nen\"tal",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to a continent."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to the main land of Europe, in distinction from the adjacent islands, especially England; as, a continental tour; a continental coalition."
+          ],
+          "quotes": [
+            "No former king had involved himself so frequently in the labyrinth of continental alliances."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Amer. Hist.)",
+            "(Hist.)"
+          ],
+          "defs": [
+            "Of or pertaining to the confederated colonies collectively, in the time of the Revolutionary War; as, Continental money."
+          ],
+          "quotes": [
+            "The army before Boston was designated as the Continental army, in contradistinction to that under General Gage, which was called the “Ministerial army.”"
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Continental",
+      "headword_raw": "Con`ti*nen\"tal",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Amer. Hist.)"
+          ],
+          "defs": [
+            "A soldier in the Continental army. See Continental, a., 3."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Amer. Hist.)"
+          ],
+          "defs": [
+            "a piece of the Continental currency, paper money issued under authority of the Continental Congress. See Continental, a., 3."
+          ],
+          "quotes": [],
+          "notes": [
+            "\"Not worth a continental.\" was said of Continental currency after the American revolution, when it was considered almost worthless. Eventually, under Alexander Hamilton's direction at the Treasury department, the currency was all redeemed at full value."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

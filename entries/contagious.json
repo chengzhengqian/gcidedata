@@ -1,0 +1,67 @@
+{
+  "key": "contagious",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Contagious",
+      "headword_raw": "Con*ta\"gious",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. contagiosus: cf. F. contagieux.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [
+        "Although often used as synonyms, originally these words were used in very diverse senses; but, in general, a contagious disease has been considered as one which is caught from another by some near contact, by the breath, by bodily effluvia, etc.; while an infectious disease supposed some entirely different cause acting by a hidden influence, like the miasma of prison ships, of marshes, etc., infecting the system with disease. In either case, a pathogenic microorganism is the direct cause of the disease. This distinction, though not universally admitted by medical men, as to the literal meaning of the words, certainly applies to them in their figurative use. Thus we speak of the contagious influence of evil associates; their contagion of bad example, the contagion of fear, etc., when we refer to transmission by proximity or contact. On the other hand, we speak of infection by bad principles, etc., when we consider anything as diffused by some hidden influence."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "Communicable by contact, by a virus, or by a bodily exhalation; catching; as, a contagious disease."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Conveying or generating disease; pestilential; poisonous; as, contagious air."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Spreading or communicable from one to another; exciting similar emotions or conduct in others."
+          ],
+          "quotes": [
+            "His genius rendered his courage more contagious.",
+            "The spirit of imitation is contagious."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Contagious",
+            "Infectious"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "key": "conservator",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Conservator",
+      "headword_raw": "Con\"ser*va`tor",
+      "pr": "(?; 277)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L.: cf. F. conservateur.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One who preserves from injury or violation; a protector; a preserver."
+          ],
+          "quotes": [
+            "The great Creator and Conservator of the world."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "An officer who has charge of preserving the public peace, as a justice or sheriff.",
+            "One who has an official charge of preserving the rights and privileges of a city, corporation, community, or estate."
+          ],
+          "quotes": [
+            "The lords of the secret council were likewise made conservators of the peace of the two kingdoms.",
+            "The conservator of the estate of an idiot."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

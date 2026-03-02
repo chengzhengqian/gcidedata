@@ -1,0 +1,39 @@
+{
+  "key": "constantan",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "constantan",
+      "headword_raw": "constantan",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a copper-nickel alloy composed of approximately 55 per cent copper and 45 per cent nickel, with high electrical resistance and a low temperature coefficient; it is used as resistance wire and in thermocouples."
+          ],
+          "quotes": [],
+          "notes": [
+            "It has a resistance factor of 44.1 x 10-6 ohm-cm at 0° C, in comparison to the value 1.71 x 10-6 ohm-cm for pure copper and 7.8 x 10-6 ohm-cm for pure nickel. It is similar to the alloy Eureka, which has a = 47 x 10-6 ohm-cm. Handbook of Ch. 61."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

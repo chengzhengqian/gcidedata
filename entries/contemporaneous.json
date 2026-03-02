@@ -1,0 +1,49 @@
+{
+  "key": "contemporaneous",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Contemporaneous",
+      "headword_raw": "Con*tem`po*ra\"ne*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": "[L. contemporaneus; con- + tempus time. See Temporal, and cf. Contemporaneous.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Contemporaneousness",
+          "form_raw": "Con*tem`po*ra\"ne*ous*ness",
+          "key": "contemporaneousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Living, existing, or occurring at the same time; contemporary."
+          ],
+          "quotes": [
+            "The great age of Jewish philosophy, that of Aben Esra, Maimonides, and Kimchi, had been contemporaneous with the later Spanish school of Arabic philosophy."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

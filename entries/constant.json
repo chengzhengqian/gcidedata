@@ -1,0 +1,176 @@
+{
+  "key": "constant",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Constant",
+      "headword_raw": "Con\"stant",
+      "pr": "(kn\"stnt)",
+      "pos": [
+        "a.",
+        "v. t."
+      ],
+      "ety": "[L. onstans, -antis, p. pr. of constare to stand firm, to be consistent; con- + stare to stand: cf. F. constant. See Stand and cf. Cost, v. t.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "-- Constant, Continual, Perpetual. These words are sometimes used in an absolute and sometimes in a qualified sense. Constant denotes, in its absolute sense, unchangeably fixed; as, a constant mind or purpose. In its qualified sense, it marks something as a “standing” fact or occurence; as, liable to constant interruptions; constantly called for. Continual, in its absolute sense, coincides with continuous. See Continuous. In its qualified sense, it describes a thing as occuring in steady and rapid succession; as, a round of continual calls; continually changing. Perpetual denotes, in its absolute sense, what literally never ceases or comes to an end; as, perpetual motion. In its qualified sense, it is used hyperbolically, and denotes that which rarely ceases; as, perpetual disturbance; perpetual noise; perpetual intermeddling."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Firm; solid; fixed; immovable; -- opposed to fluid."
+          ],
+          "quotes": [
+            "If . . . you mix them, you may turn these two fluid liquors into a constant body."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Not liable, or given, to change; permanent; regular; continuous; continually recurring; steadfast; faithful; not fickle. Opposite of changeable and variable."
+          ],
+          "quotes": [
+            "Both loving one fair maid, they yet remained constant friends.",
+            "I am constant to my purposes.",
+            "His gifts, his constant courtship, nothing gained.",
+            "Onward the constant current sweeps."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Math. & Physics)"
+          ],
+          "defs": [
+            "Remaining unchanged or invariable, as a quantity, force, law, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Consistent; logical."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Fixed",
+            "steadfast",
+            "unchanging",
+            "permanent",
+            "unalterable",
+            "immutable",
+            "invariable",
+            "perpetual",
+            "continual",
+            "resolute",
+            "firm",
+            "unshaken",
+            "determined"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Constant",
+      "headword_raw": "Con\"stant",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl.",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "That which is not subject to change; that which is invariable."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "A quantity that does not change its value; -- used in countradistinction to variable."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Astron.)"
+          ],
+          "defs": [
+            "A number whose value, when ascertained (as by observation) and substituted in a general mathematical formula expressing an astronomical law, completely determines that law and enables predictions to be made of its effect in particular cases."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Physics)"
+          ],
+          "defs": [
+            "A number expressing some property or condition of a substance or of an instrument of precision; as, the dielectric constant of quartz; the collimation constant of a transit instrument."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Computers)",
+            "(Astron.)",
+            "(Math.)",
+            "(Physics)",
+            "(Astron.)",
+            "(Math.)"
+          ],
+          "defs": [
+            "a data structure that does not change during the course of execution of a program. It may be a number, a string, or a more complex data structure; -- contrasted with variable."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

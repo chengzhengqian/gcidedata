@@ -1,0 +1,51 @@
+{
+  "key": "construe",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Construe",
+      "headword_raw": "Con*strue",
+      "pr": "(?; Archaic ?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. construere: cf. F. construire. See Construct.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Construed (#); p. pr. & vb. n. Construing (#).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To apply the rules of syntax to (a sentence or clause) so as to exhibit the structure, arrangement, or connection of, or to discover the sense; to explain the construction of; to interpret; to translate."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To put a construction upon; to explain the sense or intention of; to interpret; to understand."
+          ],
+          "quotes": [
+            "Thus we are put to construe and paraphrase our own words to free ourselves either from the ignorance or malice of our enemies.",
+            "And to be dull was construed to be good."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

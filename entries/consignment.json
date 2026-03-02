@@ -1,0 +1,72 @@
+{
+  "key": "consignment",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Consignment",
+      "headword_raw": "Con*sign\"ment",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of consigning; consignation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Com.)"
+          ],
+          "defs": [
+            "The act of consigning or sending property to an agent or correspondent in another place, as for care, sale, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Com.)"
+          ],
+          "defs": [
+            "That which is consigned; the goods or commodities sent or addressed to a consignee at one time or by one conveyance."
+          ],
+          "quotes": [
+            "To increase your consignments of this valuable branch of national commerce."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "The writing by which anything is consigned."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

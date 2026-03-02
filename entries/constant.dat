@@ -1,0 +1,122 @@
+SIMPLE: constant
+RECORDS: 2
+
+==== ENTRY 1 ====
+HEADWORD: Constant
+<hw>Con"stant</hw> <pr>(k⟦ocr⟧n"st⟦ait⟧nt)</pr>, <pos>a.</pos> <ety>[L.
+<ets>onstans</ets>, <ets>-antis</ets>, p. pr. of <ets>constare</ets> to
+stand firm, to be consistent; <ets>con-</ets> + <ets>stare</ets> to
+stand: cf. F. <ets>constant</ets>. See <er>Stand</er> and cf.
+<er>Cost</er>, <pos>v. t.</pos>]</ety> <sn>1.</sn> <def>Firm; solid;
+fixed; immovable; -- opposed to <ant>fluid</ant>.</def>
+<mark>[Obs.]</mark>⟦br⟧
+[<source>1913 Webster</source>]</p>
+
+<p><q>If . . . you mix them, you may turn these two fluid liquors into a
+<qex>constant</qex> body.</q> <rj><qau>Boyle.</qau></rj>⟦br⟧
+[<source>1913 Webster</source>]</p>
+
+<p><sn>2.</sn> <def>Not liable, or given, to change; permanent; regular;
+continuous; continually recurring; steadfast; faithful; not fickle.
+Opposite of <ant>changeable</ant> and <ant>variable</ant>.</def>⟦br⟧
+[<source>1913 Webster</source>]</p>
+
+<p><q>Both loving one fair maid, they yet remained <qex>constant</qex>
+friends.</q> <rj><qau>Sir P. Sidney.</qau></rj>⟦br⟧
+[<source>1913 Webster</source>]</p>
+
+<p><q>I am <qex>constant</qex> to my purposes.</q>
+<rj><qau>Shak.</qau></rj>⟦br⟧
+[<source>1913 Webster</source>]</p>
+
+<p><q>His gifts, his <qex>constant</qex> courtship, nothing gained.</q>
+<rj><qau>Dryden.</qau></rj>⟦br⟧
+[<source>1913 Webster</source>]</p>
+
+<p><q>Onward the <qex>constant</qex> current sweeps.</q>
+<rj><qau>Longfellow.</qau></rj>⟦br⟧
+[<source>1913 Webster</source>]</p>
+
+<p><sn>3.</sn> <fld>(Math. & Physics)</fld> <def>Remaining unchanged or
+invariable, as a quantity, force, law, etc.</def>⟦br⟧
+[<source>1913 Webster</source>]</p>
+
+<p><sn>4.</sn> <def>Consistent; logical.</def> <mark>[Obs.]</mark>
+<rj><au>Shak.</au></rj></p>
+
+<p><syn><b>Syn.</b> -- Fixed; steadfast; unchanging; permanent;
+unalterable; immutable; invariable; perpetual; continual; resolute;
+firm; unshaken; determined.</syn> <usage> -- <er>Constant</er>,
+<er>Continual</er>, <er>Perpetual</er>. These words are sometimes used
+in an absolute and sometimes in a qualified sense. <xex>Constant</xex>
+denotes, in its absolute sense, unchangeably fixed; as, a
+<xex>constant</xex> mind or purpose. In its qualified sense, it marks
+something as a ⟦ldquo⟧standing⟦rdquo⟧ fact or occurence; as, liable to
+<xex>constant</xex> interruptions; <xex>constantly</xex> called for.
+<xex>Continual</xex>, in its absolute sense, coincides with
+<xex>continuous</xex>. See <er>Continuous</er>. In its qualified sense,
+it describes a thing as occuring in steady and rapid succession; as, a
+round of <xex>continual</xex> calls; <xex>continually</xex> changing.
+<xex>Perpetual</xex> denotes, in its absolute sense, what literally
+never ceases or comes to an end; as, <xex>perpetual</xex> motion. In its
+qualified sense, it is used hyperbolically, and denotes that which
+rarely ceases; as, <xex>perpetual</xex> disturbance;
+<xex>perpetual</xex> noise; <xex>perpetual</xex>
+intermeddling.</usage>⟦br⟧
+[<source>1913 Webster</source>]</p>
+
+<p><ent>Constant</ent>⟦br⟧
+
+==== ENTRY 2 ====
+HEADWORD: Constant
+<hw>Con"stant</hw>, <pos>n.</pos> <sn>1.</sn> <def>That which is not
+subject to change; that which is invariable.</def>⟦br⟧
+[<source>1913 Webster</source>]</p>
+
+<p><sn>2.</sn> <fld>(Math.)</fld> <def>A quantity that does not change
+its value; -- used in countradistinction to
+<ant>variable</ant>.</def>⟦br⟧
+[<source>1913 Webster</source>]</p>
+
+<p><sn>3.</sn> <fld>(Astron.)</fld> <def>A number whose value, when
+ascertained (as by observation) and substituted in a general
+mathematical formula expressing an astronomical law, completely
+determines that law and enables predictions to be made of its effect in
+particular cases.</def>⟦br⟧
+[<source>Webster 1913 Suppl.</source>]</p>
+
+<p><sn>4.</sn> <fld>(Physics)</fld> <def>A number expressing some
+property or condition of a substance or of an instrument of precision;
+<as>as, the dielectric <ex>constant</ex> of quartz; the collimation
+<ex>constant</ex> of a transit instrument</as>.</def>⟦br⟧
+[<source>Webster 1913 Suppl.</source>]</p>
+
+<p><sn>5.</sn> <fld>(Computers)</fld> <def>a data structure that does
+not change during the course of execution of a program. It may be a
+number, a string, or a more complex data structure; -- contrasted with
+<contr>variable</contr>.</def>⟦br⟧
+[<source>PJC</source>]</p>
+
+<p><cs><mcol><col><b>Aberration constant</b></col>, <it>or</it>
+<col><b>Constant of aberration</b></col></mcol> <fld>(Astron.)</fld>,
+<cd>a number which by substitution in the general formula for aberration
+enables a prediction to be made of the effect of aberration on a star
+anywhere situated. Its value is 20⟦sec⟧.47.</cd> -- <col><b>Absolute
+constant</b></col> <fld>(Math.)</fld>, <cd>one whose value is absolutely
+the same under all circumstances, as the number 10, or any numeral.</cd>
+-- <col><b>Arbitrary constant</b></col>, <cd>an undetermined constant in
+a differential equation having the same value during all changes in the
+values of the variables.</cd> -- <col><b>Gravitation constant</b></col>
+<fld>(Physics)</fld>, <cd>the acceleration per unit of time produced by
+the attraction of a unit of mass at unit distance. When this is known
+the acceleration produced at any distance can be calculated.</cd> --
+<col><b>Solar constant</b></col> <fld>(Astron.)</fld>, <cd>the quantity
+of heat received by the earth from the sun in a unit of time. It is, on
+the C. G. S. system, 0.0417 small calories per square centimeter per
+second.</cd> <au>Young.</au> [<source>Webster 1913 Suppl.</source>] --
+<col><b>Constant of integration</b></col> <fld>(Math.)</fld>, <cd>an
+undetermined constant added to every result of
+integration.</cd></cs>⟦br⟧
+[<source>1913 Webster</source> + <source>Webster 1913 Suppl.</source>]</p>
+
+<p><ent>constantan</ent>⟦br⟧

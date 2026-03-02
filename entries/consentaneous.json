@@ -1,0 +1,59 @@
+{
+  "key": "consentaneous",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Consentaneous",
+      "headword_raw": "Con`sen*ta\"ne*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. consentaneus.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Consentaneously",
+          "form_raw": "Con`sen*ta\"ne*ous*ly",
+          "key": "consentaneously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Consentaneousness",
+          "form_raw": "Con`sen*ta\"ne*ous*ness",
+          "key": "consentaneousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Consistent; agreeable; suitable; accordant to; harmonious; concurrent."
+          ],
+          "quotes": [
+            "A good law and consentaneous to reason."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

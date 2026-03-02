@@ -1,0 +1,80 @@
+{
+  "key": "consequence",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Consequence",
+      "headword_raw": "Con\"se*quence",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L., consequentia: cf. F. consquence. See Consequent.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "That which follows something on which it depends; that which is produced by a cause; a result."
+          ],
+          "quotes": [
+            "Shun to taste, And shun the bitter consequence."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Logic)"
+          ],
+          "defs": [
+            "A proposition collected from the agreement of other previous propositions; any conclusion which results from reason or argument; inference."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Chain of causes and effects; consecution."
+          ],
+          "quotes": [
+            "Such fatal consequence unites us three.",
+            "Link follows link by necessary consequence."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Importance with respect to what comes after; power to influence or produce an effect; value; moment; rank; distinction."
+          ],
+          "quotes": [
+            "It is a matter of small consequence.",
+            "A sense of your own worth and consequence."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Effect",
+            "result",
+            "end. See Effect"
+          ]
+        }
+      ]
+    }
+  ]
+}

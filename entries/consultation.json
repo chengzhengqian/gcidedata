@@ -1,0 +1,50 @@
+{
+  "key": "consultation",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Consultation",
+      "headword_raw": "Con`sul*ta\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. consultatio: cf. F. consultation.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of consulting or conferring; deliberation of two or more persons on some matter, with a view to a decision."
+          ],
+          "quotes": [
+            "Thus they doubtful consultations dark Ended."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "A council or conference, as of physicians, held to consider a special case, or of lawyers restrained in a cause."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

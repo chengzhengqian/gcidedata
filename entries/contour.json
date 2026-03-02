@@ -1,0 +1,53 @@
+{
+  "key": "contour",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Contour",
+      "headword_raw": "Con*tour\"",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. contour, fr. contourner to mark the outlines; con- + tourner to turn. See Turn.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The outline of a figure or body, or the line or lines representing such an outline; the line that bounds; periphery."
+          ],
+          "quotes": [
+            "Titian's coloring and contours."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mil.)",
+            "(Zool.)",
+            "(Surv.)",
+            "(Topographical Suv.)"
+          ],
+          "defs": [
+            "The outline of a horizontal section of the ground, or of works of fortification."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

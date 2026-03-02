@@ -1,0 +1,92 @@
+{
+  "key": "contemporary",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Contemporary",
+      "headword_raw": "Con*tem\"po*ra*ry",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Pref. con- + L. temporarius of belonging to time, tempus time. See Temporal, and cf. Contemporaneous.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Living, occurring, or existing, at the same time; done in, or belonging to, the same times; contemporaneous."
+          ],
+          "quotes": [
+            "This king [Henry VIII.] was contemporary with the greatest monarchs of Europe."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Of the same age; coeval."
+          ],
+          "quotes": [
+            "A grove born with himself he sees, And loves his old contemporary trees."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Contemporary",
+      "headword_raw": "Con*tem\"po*ra*ry",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One who lives at the same time with another; as, Petrarch and Chaucer were contemporaries."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a person of nearly the same age as another."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "coeval"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "key": "contraption",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Contraption",
+      "headword_raw": "Con*trap\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Contraptious",
+          "form_raw": "Con*trap\"tious",
+          "key": "contraptious",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A contrivance; a new-fangled device; -- used scornfully."
+          ],
+          "quotes": [
+            "We all remember some of the extraordinary contraptions which have been thus evolved and put upon the market."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

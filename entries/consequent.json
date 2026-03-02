@@ -1,0 +1,106 @@
+{
+  "key": "consequent",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Consequent",
+      "headword_raw": "Con\"se*quent",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. consequens, -entis, p. pr. of consequi to follow; con- + sequi to follow: cf. F. consquent. See Second, and cf. Consecution.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Following as a result, inference, or natural effect."
+          ],
+          "quotes": [
+            "The right was consequent to, and built on, an act perfectly personal."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Logic)",
+            "(Magnetism)"
+          ],
+          "defs": [
+            "Following by necessary inference or rational deduction; as, a proposition consequent to other propositions."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Consequent",
+      "headword_raw": "Con\"se*quent",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "That which follows, or results from, a cause; a result or natural effect."
+          ],
+          "quotes": [
+            "They were ill-governed, which is always a consequent of ill payment."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Logic)"
+          ],
+          "defs": [
+            "That which follows from propositions by rational deduction; that which is deduced from reasoning or argumentation; a conclusion, or inference."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "The second term of a ratio, as the term b in the ratio a:b, the first a, being the antecedent."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

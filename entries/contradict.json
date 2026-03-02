@@ -1,0 +1,85 @@
+{
+  "key": "contradict",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Contradict",
+      "headword_raw": "Con`tra*dict\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. contradictus, p. p. of contradicere to speak against; contra + dicere to speak. See Diction.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Contradicted; p. pr. & vb. n. Contradicting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To assert the contrary of; to oppose in words; to take issue with; to gainsay; to deny the truth of, as of a statement or a speaker; to impugn."
+          ],
+          "quotes": [
+            "Dear Duff, I prithee, contradict thyself, And say it is not so.",
+            "The future can not contradict the past."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To be contrary to; to oppose; to resist."
+          ],
+          "quotes": [
+            "No truth can contradict another truth.",
+            "A greater power than we can contradict Hath thwarted our intents."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Contradict",
+      "headword_raw": "Con`tra*dict",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To oppose in words; to gainsay; to deny, or assert the contrary of, something."
+          ],
+          "quotes": [
+            "They . . . spake against those things which were spoken by Paul, contradicting and blaspheming."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

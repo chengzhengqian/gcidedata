@@ -1,0 +1,78 @@
+{
+  "key": "contaminated",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "contaminated",
+      "headword_raw": "contaminated",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "containing undesired or infective microorganisms."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "dirty",
+            "infected"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "rendered impure by addition of deleterious substances; as, had to boil the contaminated water."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "polluted"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "damaged by inclusion of incorrect data or information not belonging; as, The file was contaminated by a buggy editor."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "corrupted"
+          ]
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "appearing unethical due to a questionable source or motives; -- of money or activities; as, The fund was contaminated by a large donation from a mobster."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "tainted"
+          ]
+        }
+      ]
+    }
+  ]
+}

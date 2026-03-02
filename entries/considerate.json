@@ -1,0 +1,81 @@
+{
+  "key": "considerate",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Considerate",
+      "headword_raw": "Con*sid\"er*ate",
+      "pr": "(kn*sd\"r*t)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. consideratus, p. p.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Considerately",
+          "form_raw": "Con*sid\"er*ate*ly",
+          "key": "considerately",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Considerateness",
+          "form_raw": "Con*sid\"er*ate*ness",
+          "key": "considerateness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Given to consideration or to sober reflection; regardful of consequences or circumstances; circumspect; careful; esp. careful of the rights, claims, and feelings of others."
+          ],
+          "quotes": [
+            "Of dauntless courage and considerate pride.",
+            "Æneas is patient, considerate, and careful of his people.",
+            "The wisest and most considerate men in the world."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Having respect to; regardful."
+          ],
+          "quotes": [
+            "They may be . . . more considerate of praise."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Thoughtful",
+            "reflective",
+            "careful",
+            "discreet",
+            "prudent",
+            "deliberate",
+            "serious. See Thoughtful"
+          ]
+        }
+      ]
+    }
+  ]
+}

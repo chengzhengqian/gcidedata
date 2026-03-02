@@ -1,0 +1,88 @@
+{
+  "key": "construct",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Construct",
+      "headword_raw": "Con*struct\"",
+      "pr": "(kn*strkt\")",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. constructus, p. p. of construere to bring together, to construct; con- + struere to pile up, set in order. See Structure, and cf. Construe.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Constructed; p. pr. & vb. n. Constructing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To put together the constituent parts of (something) in their proper place and order; to build; to form; to make; as, to construct an edifice."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To devise; to invent; to set in order; to arrange; as, to construct a theory of ethics."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "build",
+            "erect",
+            "form",
+            "compile",
+            "make",
+            "fabricate",
+            "originate",
+            "invent"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Construct",
+      "headword_raw": "Con\"struct",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Heb. Gram.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Formed by, or relating to, construction, interpretation, or inference."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

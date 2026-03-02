@@ -1,0 +1,118 @@
+{
+  "key": "constituent",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Constituent",
+      "headword_raw": "Con*stit\"u*ent",
+      "pr": "(kn*stt\"*nt)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. constituens, -entis, p. pr. See Constitute.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Serving to form, compose, or make up; elemental; component."
+          ],
+          "quotes": [
+            "Body, soul, and reason are the three parts necessarily constituent of a man."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Having the power of electing or appointing."
+          ],
+          "quotes": [
+            "A question of right arises between the constituent and representative body."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Constituent",
+      "headword_raw": "Con*stit\"u*ent",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The person or thing which constitutes, determines, or constructs."
+          ],
+          "quotes": [
+            "Their first composure and origination require a higher and nobler constituent than chance."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That which constitutes or composes, as a part, or an essential part; a component; an element."
+          ],
+          "quotes": [
+            "We know how to bring these constituents together, and to cause them to form water."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "One for whom another acts; especially, one who is represented by another in a legislative assembly; -- correlative to representative."
+          ],
+          "quotes": [
+            "The electors in the district of a representative in Congress, or in the legislature of a State, are termed his constituents.",
+            "To appeal from the representatives to the constituents."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "A person who appoints another to act for him as attorney in fact."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

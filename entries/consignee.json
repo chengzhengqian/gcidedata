@@ -1,0 +1,38 @@
+{
+  "key": "consignee",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Consignee",
+      "headword_raw": "Con`sign*ee\"",
+      "pr": "(?; 277)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. consign<?/, p. p. of consigner.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The person to whom goods or other things are consigned; a factor; -- correlative to consignor."
+          ],
+          "quotes": [
+            "Consigner and consignee are used by merchants to express generally the shipper of merchandise, and the person to whom it is addressed, by bill of lading or otherwise."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

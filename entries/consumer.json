@@ -1,0 +1,49 @@
+{
+  "key": "consumer",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Consumer",
+      "headword_raw": "Con*sum\"er",
+      "pr": "(kn*sūm\"r)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One who, or that which, consumes; as, the consumer of food."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Econ.)"
+          ],
+          "defs": [
+            "the person or organization that uses some item of commerce or service in its own activities, as opposed to reselling the item or including it as part of another item for resale; -- called also the end user."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

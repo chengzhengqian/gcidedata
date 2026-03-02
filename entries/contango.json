@@ -1,0 +1,50 @@
+{
+  "key": "contango",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Contango",
+      "headword_raw": "Con*tan\"go",
+      "pr": "(kn*t\"g)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Prob. a corruption of contingent.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Stock Exchange)"
+          ],
+          "defs": [
+            "The premium or interest paid by the buyer to the seller, to be allowed to defer paying for the stock purchased until the next fortnightly settlement day."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "The postponement of payment by the buyer of stock on the payment of a premium to the seller. See Backwardation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "key": "consumption",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Consumption",
+      "headword_raw": "Con*sump\"tion",
+      "pr": "(?; 215)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. consumptio: cf. F. consomption.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act or process of consuming by use, waste, etc.; decay; destruction."
+          ],
+          "quotes": [
+            "Every new advance of the price to the consumer is a new incentive to him to retrench the quality of his consumption."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The state or process of being consumed, wasted, or diminished; waste; diminution; loss; decay."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Med.)",
+            "(Med.)"
+          ],
+          "defs": [
+            "A progressive wasting away of the body; esp., that form of wasting, attendant upon pulmonary phthisis and associated with cough, spitting of blood, hectic fever, etc.; pulmonary phthisis; -- called also pulmonary consumption."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Decline",
+            "waste",
+            "decay. See Decline"
+          ]
+        }
+      ]
+    }
+  ]
+}

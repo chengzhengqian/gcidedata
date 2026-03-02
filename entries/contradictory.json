@@ -1,0 +1,91 @@
+{
+  "key": "contradictory",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Contradictory",
+      "headword_raw": "Con`tra*dict\"o*ry",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[LL. contradictorius: cf. F. contradictoire.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Affirming the contrary; implying a denial of what has been asserted; also, mutually contradicting; inconsistent."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Opposing or opposed; repugnant."
+          ],
+          "quotes": [
+            "Schemes . . . contradictory to common sense."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Contradictory",
+      "headword_raw": "Con`tra*dict\"o*ry",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A proposition or thing which denies or opposes another; contrariety."
+          ],
+          "quotes": [
+            "It is common with princes to will contradictories."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Logic)"
+          ],
+          "defs": [
+            "propositions with the same terms, but opposed to each other both in quality and quantity."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

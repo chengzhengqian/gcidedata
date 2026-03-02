@@ -1,0 +1,61 @@
+{
+  "key": "consecutive",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Consecutive",
+      "headword_raw": "Con*sec\"u*tive",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Cf. F. conscutif. See Consequent.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Following in a train; succeeding one another in a regular order; successive; uninterrupted in course or succession; with no interval or break; as, fifty consecutive years."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Following as a consequence or result; actually or logically dependent; consequential; succeeding."
+          ],
+          "quotes": [
+            "The actions of a man consecutive to volition."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Mus.)",
+            "(Mus.)"
+          ],
+          "defs": [
+            "Having similarity of sequence; -- said of certain parallel progressions of two parts in a piece of harmony; as, consecutive fifths, or consecutive octaves, which are forbidden."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

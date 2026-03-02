@@ -1,0 +1,128 @@
+{
+  "key": "console",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Console",
+      "headword_raw": "Con*sole\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. consolari,. p. p. consolatus; con- + solari to console, comfort: cf. F. consoler. See Solace.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Consoled (?); p. pr. & vb. n. Consoling.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "comfort",
+        "solace",
+        "soothe",
+        "cheer",
+        "sustain",
+        "encourage",
+        "support. See Comfort"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To cheer in distress or depression; to alleviate the grief and raise the spirits of; to relieve; to comfort; to soothe."
+          ],
+          "quotes": [
+            "And empty heads console with empty sound.",
+            "I am much consoled by the reflection that the religion of Christ has been attacked in vain by all the wits and philosophers, and its triumph has been complete."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Console",
+      "headword_raw": "Con\"sole",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F.]",
+      "sources": [
+        "1913 Webster",
+        "GG",
+        "+PJC",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Arch.)"
+          ],
+          "defs": [
+            "A bracket whose projection is not more than half its height.",
+            "Any small bracket; also, a console table."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "The keyboard and monitor of a computer considered together."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Engineering)"
+          ],
+          "defs": [
+            "The controlling portion of an electrical, electronic, or mechanical device or system, from which the operator may observe the state of the system as indicated by gauges or on some form of display{n3}, and may direct or control the action of the system."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "the desklike controlling unit of an organ containing the keyboard, pedals, stops, etc. by means of which the organ is played."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "a home entertainment device such as a television, radio, phonograph, CD player, or combination of these, designed as a piece of furniture, to stand on the floor rather than on a table or in a separate cabinet; -- also used attributively in the phrase console model."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

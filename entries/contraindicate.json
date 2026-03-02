@@ -1,0 +1,43 @@
+{
+  "key": "contraindicate",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Contraindicate",
+      "headword_raw": "Con\"tra*in*\"di*cate",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": "[imp. & p. p. Contraindicated (?); p. pr. & vb. n. Contraindicating (?).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To indicate, as by a symptom, some method of treatment contrary to that which the general tenor of the case would seem to require; especially, to indicate that a particular method of treatment should not be used; as, penicillin is contraindicated in patients who have shown hypersensitivity."
+          ],
+          "quotes": [
+            "Contraindicating symptoms must be observed."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

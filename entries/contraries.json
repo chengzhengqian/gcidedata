@@ -1,0 +1,41 @@
+{
+  "key": "contraries",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Contraries",
+      "headword_raw": "Con\"tra*ries",
+      "pr": "(? <?/; 48)",
+      "pos": [
+        "n. pl.",
+        "n."
+      ],
+      "ety": "[Pl. of Contrary, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Logic)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Propositions which directly and destructively contradict each other, but of which the falsehood of one does not establish the truth of the other."
+          ],
+          "quotes": [
+            "If two universals differ in quality, they are contraries; as, every vine is a tree; no vine is a tree. These can never be both true together; but they may be both false."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

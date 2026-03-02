@@ -1,0 +1,38 @@
+{
+  "key": "fermenter",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Fermenter",
+      "headword_raw": "Fer*ment\"er",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "an apparatus for carrying out fermentation by a liquid suspension of microorganisms; a fermentation tank; as, an industrial fermenter."
+          ],
+          "quotes": [],
+          "notes": [
+            "Laboratiory and industrial fermenters are usually equipped with a means of stirring the contained liquid so as to avoid settling of the fermenting organisms, and often have other, sometimes elaborate, mechanisms to control conditions of the fermentation, such as temperature, degree of aeration, or pH. The main structures of large industrial fermenters are typically made of steel."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

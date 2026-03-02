@@ -1,0 +1,68 @@
+{
+  "key": "fearless",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Fearless",
+      "headword_raw": "Fear\"less",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Fearlessly",
+          "form_raw": "Fear\"less*ly",
+          "key": "fearlessly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Fearlessness",
+          "form_raw": "Fear\"less*ness",
+          "key": "fearlessness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Bold",
+        "daring",
+        "courageous",
+        "intrepid",
+        "valorous",
+        "valiant",
+        "brave",
+        "undaunted",
+        "dauntless",
+        "heroic"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Free from fear."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

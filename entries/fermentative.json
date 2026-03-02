@@ -1,0 +1,57 @@
+{
+  "key": "fermentative",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Fermentative",
+      "headword_raw": "Fer*ment\"a*tive",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Cf. F. fermentatif.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Fermentatively",
+          "form_raw": "Fer*ment\"a*tive*ly",
+          "key": "fermentatively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Fermentativeness",
+          "form_raw": "Fer*ment\"a*tive*ness",
+          "key": "fermentativeness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Causing, or having power to cause, fermentation; produced by fermentation; fermenting; as, a fermentative process."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "key": "ferry",
+  "source_file": "CIDE.F",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Ferry",
+      "headword_raw": "Fer\"ry",
+      "pr": "(fr\"r)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OE. ferien to convey, AS. ferian, from faran to go; akin to Icel. ferja to ferry, Goth. farjan to sail. See Fare.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": "[imp. & p. p. Ferried (-rd); p. pr. & vb. n. Ferrying.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To carry or transport over a river, strait, or other narrow water, in a boat."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To convey back and forth regularly between two points in a vehicle; as, part of her day was spent ferrying the kids to and from school."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Ferry",
+      "headword_raw": "Fer\"ry",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To pass over water in a boat or by a ferry."
+          ],
+          "quotes": [
+            "They ferry over this Lethean sound Both to and fro."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Ferry",
+      "headword_raw": "Fer\"ry",
+      "pr": "(#)",
+      "pos": [
+        "n.",
+        "v. t."
+      ],
+      "ety": "[OE. feri; akin to Icel. ferja, Sw. färja, Dan. færge, G. fähre. See Ferry, v. t.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A place where persons or things are carried across a river, arm of the sea, etc., in a ferryboat."
+          ],
+          "quotes": [
+            "It can pass the ferry backward into light.",
+            "To row me o'er the ferry."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A vessel in which passengers and goods are conveyed over narrow waters; a ferryboat; a wherry."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A franchise or right to maintain a vessel for carrying passengers and freight across a river, bay, etc., charging tolls."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

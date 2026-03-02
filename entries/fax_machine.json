@@ -1,0 +1,36 @@
+{
+  "key": "fax_machine",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "fax machine",
+      "headword_raw": "fax\" ma*chine`",
+      "pr": "(fks'm*shēn`)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Shortened form of telefax, from tele- and facsimile.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A device which is designed to transmit and receive images by the facsimile{2} process. Such a device may also be able to perform other functions, such as scanning an image or copying an image; a telefax device."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

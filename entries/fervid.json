@@ -1,0 +1,71 @@
+{
+  "key": "fervid",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Fervid",
+      "headword_raw": "Fer\"vid",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. fervidus, fr. fervere. See Fervent.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Fervidly",
+          "form_raw": "Fer\"vid*ly",
+          "key": "fervidly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Fervidness",
+          "form_raw": "Fer\"vid*ness",
+          "key": "fervidness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Very hot; burning; boiling."
+          ],
+          "quotes": [
+            "The mounted sun Shot down direct his fervid rays."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Ardent; vehement; zealous."
+          ],
+          "quotes": [
+            "The fervid wishes, holy fires."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

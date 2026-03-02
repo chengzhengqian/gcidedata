@@ -1,0 +1,66 @@
+{
+  "key": "ferocious",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Ferocious",
+      "headword_raw": "Fe*ro\"cious",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. ferox, -ocis, fierce: cf. F. froce. See Ferocity.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "When these words are applied to human feelings or conduct, ferocious describes the disposition; fierce, the haste and violence of an act; barbarous, the coarseness and brutality by which it was marked; savage, the cruel and unfeeling spirit which it showed. A man is ferocious in his temper, fierce in his actions, barbarous in the manner of carrying out his purposes, savage in the spirit and feelings expressed in his words or deeds."
+      ],
+      "wordforms": [
+        {
+          "form": "Ferociously",
+          "form_raw": "Fe*ro\"cious*ly",
+          "key": "ferociously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Ferociousness",
+          "form_raw": "Fe*ro\"cious*ness",
+          "key": "ferociousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Ferocious",
+        "Fierce",
+        "Savage",
+        "Barbarous"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Fierce; savage; wild; indicating cruelty; ravenous; rapacious; as, ferocious look or features; a ferocious lion."
+          ],
+          "quotes": [
+            "The humbled power of a ferocious enemy."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

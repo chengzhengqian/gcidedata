@@ -1,0 +1,59 @@
+{
+  "key": "felicitous",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Felicitous",
+      "headword_raw": "Fe*lic\"i*tous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Felicitously",
+          "form_raw": "Fe*lic\"i*tous*ly",
+          "key": "felicitously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Felicitousness",
+          "form_raw": "Fe*lic\"i*tous*ness",
+          "key": "felicitousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Characterized by felicity; happy; prosperous; delightful; skillful; successful; happily applied or expressed; appropriate."
+          ],
+          "quotes": [
+            "Felicitous words and images."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

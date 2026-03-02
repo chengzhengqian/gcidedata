@@ -1,0 +1,49 @@
+{
+  "key": "festive",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Festive",
+      "headword_raw": "Fes\"tive",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[L. festivus, fr. festum holiday, feast. See feast, and cf. Festivous.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Festively",
+          "form_raw": "Fes\"tive*ly",
+          "key": "festively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Pertaining to, or becoming, a feast; festal; joyous; gay; mirthful; sportive."
+          ],
+          "quotes": [
+            "The glad circle round them yield their souls To festive mirth and wit that knows no gall."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

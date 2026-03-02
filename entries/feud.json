@@ -1,0 +1,86 @@
+{
+  "key": "feud",
+  "source_file": "CIDE.F",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Feud",
+      "headword_raw": "Feud",
+      "pr": "(fūd)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. feide, AS. fǣhð, fr. fāh hostile; akin to OHG. fēhida, G. fehde, Sw. fejd, D. feide; prob. akin to E. fiend. See Foe.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A combination of kindred to avenge injuries or affronts, done or offered to any of their blood, on the offender and all his race."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A contention or quarrel; especially, an inveterate strife between families, clans, or parties; deadly hatred; contention satisfied only by bloodshed."
+          ],
+          "quotes": [
+            "Mutual feuds and battles betwixt their several tribes and kindreds."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Affray",
+            "fray",
+            "broil",
+            "contest",
+            "dispute",
+            "strife"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Feud",
+      "headword_raw": "Feud",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[LL. feudum, feodum prob. of same origin as E. fief. See Fief, Fee.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Law)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A stipendiary estate in land, held of a superior, by service; the right which a vassal or tenant had to the lands or other immovable thing of his lord, to use the same and take the profits thereof hereditarily, rendering to his superior such duties and services as belong to military tenure, etc., the property of the soil always remaining in the lord or superior; a fief; a fee."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

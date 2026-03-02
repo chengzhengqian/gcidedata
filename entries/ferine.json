@@ -1,0 +1,58 @@
+{
+  "key": "ferine",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Ferine",
+      "headword_raw": "Fe\"rine",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[L. ferinus, fr. ferus wild. See Fierce.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Ferinely",
+          "form_raw": "Fe\"rine*ly",
+          "key": "ferinely",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Ferineness",
+          "form_raw": "Fe\"rine*ness",
+          "key": "ferineness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Wild; untamed; savage; as, lions, tigers, wolves, and bears are ferine beasts.",
+            "A wild beast; a beast of prey."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

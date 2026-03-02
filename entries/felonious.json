@@ -1,0 +1,59 @@
+{
+  "key": "felonious",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Felonious",
+      "headword_raw": "Fe*lo\"ni*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Feloniously",
+          "form_raw": "Fe*lo\"ni*ous*ly",
+          "key": "feloniously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Feloniousness",
+          "form_raw": "Fe*lo\"ni*ous*ness",
+          "key": "feloniousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Having the quality of felony; malignant; malicious; villainous; traitorous; perfidious; in a legal sense, done with intent to commit a crime; as, felonious homicide."
+          ],
+          "quotes": [
+            "O thievish Night, Why should'st thou, but for some felonious end, In thy dark lantern thus close up the stars?"
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

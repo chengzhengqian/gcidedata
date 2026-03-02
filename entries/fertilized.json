@@ -1,0 +1,53 @@
+{
+  "key": "fertilized",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "fertilized",
+      "headword_raw": "fertilized",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "united with a male gamete to begin the development of an individual embryo; -- of female gametes."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "impregnated",
+            "inseminated"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "made more suitable for growth of crops by addition of fertilizer{2}; -- of soil."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "enriched"
+          ]
+        }
+      ]
+    }
+  ]
+}

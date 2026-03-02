@@ -1,0 +1,62 @@
+{
+  "key": "feigned",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Feigned",
+      "headword_raw": "Feigned",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Feignedly",
+          "form_raw": "Feign\"ed*ly",
+          "key": "feignedly",
+          "pos": [
+            "adv."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Feignedness",
+          "form_raw": "Feign\"ed*ness",
+          "key": "feignedness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Law)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not real or genuine; pretended; counterfeit; insincere; false."
+          ],
+          "quotes": [
+            "Give ear unto my prayer, that goeth not out of feigned lips.",
+            "Her treacherous sister Judah hath not turned unto me with her whole heart, but feignedly."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

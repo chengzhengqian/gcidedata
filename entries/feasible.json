@@ -1,0 +1,70 @@
+{
+  "key": "feasible",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Feasible",
+      "headword_raw": "Fea\"si*ble",
+      "pr": "(fē\"z*b'l)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[F. faisable, fr. faire to make or do, fr. L. facere. See Fact, Feat.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Feasibleness",
+          "form_raw": "Fea\"si*ble*ness",
+          "key": "feasibleness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Feasibly",
+          "form_raw": "Fea\"si*bly",
+          "key": "feasibly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Capable of being done, executed, or effected; practicable."
+          ],
+          "quotes": [
+            "Always existing before their eyes as a thing feasible in practice.",
+            "It was not feasible to gratify so many ambitions."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Fit to be used or tilled, as land."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

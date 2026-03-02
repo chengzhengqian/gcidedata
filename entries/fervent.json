@@ -1,0 +1,74 @@
+{
+  "key": "fervent",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Fervent",
+      "headword_raw": "Fer\"vent",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[F. fervent, L. fervens, -entis. p. pr. of fervere o the boiling hot, to boil, glow.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Fervently",
+          "form_raw": "Fer\"vent*ly",
+          "key": "fervently",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Ferventness",
+          "form_raw": "Fer\"vent*ness",
+          "key": "ferventness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Hot; glowing; boiling; burning; as, a fervent summer."
+          ],
+          "quotes": [
+            "The elements shall melt with fervent heat."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Warm in feeling; ardent in temperament; earnest; full of fervor; zealous; glowing."
+          ],
+          "quotes": [
+            "Not slothful in business; fervent in spirit.",
+            "So spake the fervent angel.",
+            "A fervent desire to promote the happiness of mankind.",
+            "Laboring fervently for you in prayers."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

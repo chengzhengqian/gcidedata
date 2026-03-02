@@ -1,0 +1,67 @@
+{
+  "key": "fax",
+  "source_file": "CIDE.F",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "fax",
+      "headword_raw": "fax",
+      "pr": "(fks)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Shortened form of telefax, from tele- and facsimile.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A document which is a facsimile of another document, converted into electrical symbols by a facsimile machine at one telephone terminal, transmitted via telephone and printed on some form of paper at a facsimile machine at a second telephone terminal. A document transmitted using a computer at one or both ends may also be called a fax if the transmission protocol is similar to that used by telefax devices, i.e. if the originating or receiving device could be a telefax device."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "fax",
+      "headword_raw": "fax",
+      "pr": "(fks)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[Shortened form of telefax, from tele- and facsimile.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": "[imp. & p. p. faxed (fkst); p. pr. & vb. n. faxing (fks\"ng).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To transmit a copy of a document (a fax) over a telephone line using facsimile devices or the telefax protocol at both ends. See fax, n., and facsimile{2}, n."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

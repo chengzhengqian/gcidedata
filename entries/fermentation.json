@@ -1,0 +1,64 @@
+{
+  "key": "fermentation",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Fermentation",
+      "headword_raw": "Fer`men*ta\"tion",
+      "pr": "(fr`mn*tā\"shn)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. fermentation.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Physiol. Chem.)"
+          ],
+          "defs": [
+            "The process of undergoing an effervescent change, as by the action of yeast;",
+            "the transformation of an organic substance into new compounds by the action of a ferment{1}, whether in the form of living organisms or enzymes. It differs in kind according to the nature of the ferment which causes it."
+          ],
+          "quotes": [],
+          "notes": [
+            "In industrial microbiology fermentation usually refers to the production of chemical substances by use of microorganisms."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Biol. & Med.)"
+          ],
+          "defs": [
+            "A state of agitation or excitement, as of the intellect or the feelings."
+          ],
+          "quotes": [
+            "It puts the soul to fermentation and activity.",
+            "A univesal fermentation of human thought and faith."
+          ],
+          "notes": [
+            "Alcohol. Water. Acetaldehyde.",
+            "Acetaldehyde. Acetic acid.",
+            "Urea. Water. Ammonium carbonate.",
+            "Whenever urine is exposed to the air in open vessels for several days it undergoes this alkaline fermentation.",
+            "Hydrated milk sugar. Lactic acid.",
+            "In the lactic fermentation of dextrose or glucose, the lactic acid which is formed is very prone to undergo butyric fermentation after the manner indicated in the following equation: 2C3H6O3 (lactic acid) --> C4H8O2 (butyric acid) + 2CO2 (carbonic acid) + 2H2 (hydrogen gas)."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

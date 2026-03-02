@@ -1,0 +1,104 @@
+{
+  "key": "potential",
+  "source_file": "CIDE.P",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Potential",
+      "headword_raw": "Po*ten\"tial",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Cf. F. potentiel. See Potency.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Being potent; endowed with energy adequate to a result; efficacious; influential."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mech.)",
+            "(Gram.)"
+          ],
+          "defs": [
+            "Existing in possibility, not in actuality."
+          ],
+          "quotes": [
+            "Potential existence means merely that the thing may be at ome time; actual existence, that it now is."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Potential",
+      "headword_raw": "Po*ten\"tial",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Anything that may be possible; a possibility; potentially."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "In the theory of gravitation, or of other forces acting in space, a function of the rectangular coordinates which determine the position of a point, such that its differential coefficients with respect to the coordinates are equal to the components of the force at the point considered; -- also called potential function, or force function. It is called also Newtonian potential when the force is directed to a fixed center and is inversely as the square of the distance from the center."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Elec.)"
+          ],
+          "defs": [
+            "The energy of an electrical charge measured by its power to do work; hence, the degree of electrification as referred to some standard, as that of the earth; electro-motive force."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "key": "pr_operculum",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Præoperculum",
+      "headword_raw": "Pr<ae/`o*per\"cu*lum",
+      "pr": null,
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[NL.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Præopercular",
+          "form_raw": "Pr<ae/`o*per\"cu*lar",
+          "key": "pr_opercular",
+          "pos": [
+            "a."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Anat.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Same as Preoperculum."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

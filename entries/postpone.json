@@ -1,0 +1,57 @@
+{
+  "key": "postpone",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Postpone",
+      "headword_raw": "Post*pone\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. postponere, postpositum; post after + ponere to place, put. See Post-, and Position.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Postponed (?); p. pr. & vb. n. Postponing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To defer to a future or later time; to put off; also, to cause to be deferred or put off; to delay; to adjourn; as, to postpone the consideration of a bill to the following day, or indefinitely."
+          ],
+          "quotes": [
+            "His praise postponed, and never to be paid."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To place after, behind, or below something, in respect to precedence, preference, value, or importance."
+          ],
+          "quotes": [
+            "All other considerations should give way and be postponed to this."
+          ],
+          "notes": [],
+          "synonyms": [
+            "adjourn",
+            "defer",
+            "delay",
+            "procrastinate"
+          ]
+        }
+      ]
+    }
+  ]
+}

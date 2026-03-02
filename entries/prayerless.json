@@ -1,0 +1,57 @@
+{
+  "key": "prayerless",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Prayerless",
+      "headword_raw": "Prayer\"less",
+      "pr": "(?; 277)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Prayerlessly",
+          "form_raw": "Prayer\"less*ly",
+          "key": "prayerlessly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Prayerlessness",
+          "form_raw": "Prayer\"less*ness",
+          "key": "prayerlessness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not using prayer; habitually neglecting prayer to God; without prayer."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "key": "practicable",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Practicable",
+      "headword_raw": "Prac\"ti*ca*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[LL. practicare to act, transact, fr. L. practicus active, Gr. <?/: cf. F. practicable, pratiquer to practice. See Practical.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Practicableness",
+          "form_raw": "Prac\"ti*ca*ble*ness",
+          "key": "practicableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Practicably",
+          "form_raw": "Prac\"ti*ca*bly",
+          "key": "practicably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "That may be practiced or performed; capable of being done or accomplished with available means or resources; feasible; as, a practicable method; a practicable aim; a practicable good."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mil.)"
+          ],
+          "defs": [
+            "Capable of being used; passable; as, a practicable weapon; a practicable road."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Possible",
+            "feasible",
+            "Practicable",
+            "Possible. A thing may be possible",
+            "i. e",
+            "not forbidden by any law of nature",
+            "and yet may not now be practicable for want of the means requisite to its performance"
+          ]
+        }
+      ]
+    }
+  ]
+}

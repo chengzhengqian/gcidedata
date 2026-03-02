@@ -1,0 +1,135 @@
+{
+  "key": "pray",
+  "source_file": "CIDE.P",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Pray",
+      "headword_raw": "Pray",
+      "pr": "(?)",
+      "pos": [
+        "n. & v."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "See Pry."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Pray",
+      "headword_raw": "Pray",
+      "pr": "(?)",
+      "pos": [
+        "v. i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OE. preien, OF. preier, F. prier, L. precari, fr. prex, precis, a prayer, a request; akin to Skr. prach to ask, AS. frignan, frīnan, fricgan, G. fragen, Goth. frahnan. Cf. Deprecate, Imprecate, Precarious.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Prayed (?); p. pr. & vb. n. Praying.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "entreat",
+        "supplicate",
+        "beg",
+        "implore",
+        "invoke",
+        "beseech",
+        "petition"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To make request with earnestness or zeal, as for something desired; to make entreaty or supplication; to offer prayer to a deity or divine being as a religious act; specifically, to address the Supreme Being with adoration, confession, supplication, and thanksgiving."
+          ],
+          "quotes": [
+            "And to his goddess pitously he preyde.",
+            "When thou prayest, enter into thy closet, and when thou hast shut thy door, pray to thy Father which is in secret; and thy Father which seeth in secret shall reward thee openly.",
+            "I pray, sir. why am I beaten?"
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Pray",
+      "headword_raw": "Pray",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To address earnest request to; to supplicate; to entreat; to implore; to beseech."
+          ],
+          "quotes": [
+            "And as this earl was preyed, so did he.",
+            "We pray you . . . by ye reconciled to God."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To ask earnestly for; to seek to obtain by supplication; to entreat for."
+          ],
+          "quotes": [
+            "I know not how to pray your patience."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "To effect or accomplish by praying; as, to pray a soul out of purgatory."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

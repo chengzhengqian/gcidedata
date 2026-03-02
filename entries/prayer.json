@@ -1,0 +1,96 @@
+{
+  "key": "prayer",
+  "source_file": "CIDE.P",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Prayer",
+      "headword_raw": "Pray\"er",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "One who prays; a supplicant."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Prayer",
+      "headword_raw": "Prayer",
+      "pr": "(<?/; 277)",
+      "pos": [
+        "n.",
+        "v. i."
+      ],
+      "ety": "[OE. preiere, OF. preiere, F. prire, fr. L. precarius obtained by prayer, fr. precari to pray. See Pray, v. i.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of praying, or of asking a favor; earnest request or entreaty; hence, a petition or memorial addressed to a court or a legislative body."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The act of addressing supplication to a divinity, especially to the true God; the offering of adoration, confession, supplication, and thanksgiving to the Supreme Being; as, public prayer; secret prayer."
+          ],
+          "quotes": [
+            "As he is famed for mildness, peace, and prayer."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "The form of words used in praying; a formula of supplication; an expressed petition; especially, a supplication addressed to God; as, a written or extemporaneous prayer; to repeat one's prayers."
+          ],
+          "quotes": [
+            "He made those excellent prayers which were published immediately after his death."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Petition",
+            "orison",
+            "supplication",
+            "entreaty",
+            "suit"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "key": "powerful",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Powerful",
+      "headword_raw": "Pow\"er*ful",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Powerfully",
+          "form_raw": "Pow\"er*ful*ly",
+          "key": "powerfully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Powerfulness",
+          "form_raw": "Pow\"er*ful*ness",
+          "key": "powerfulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Full of power; capable of producing great effects of any kind; potent; mighty; efficacious; intense; as, a powerful man or beast; a powerful engine; a powerful argument; a powerful light; a powerful vessel."
+          ],
+          "quotes": [
+            "The powerful grace that lies In herbs, plants, stones, and their true qualities."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mining)"
+          ],
+          "defs": [
+            "Large; capacious; -- said of veins of ore."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Mighty",
+            "strong",
+            "potent",
+            "forcible",
+            "efficacious",
+            "energetic",
+            "intense"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "key": "rueful",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Rueful",
+      "headword_raw": "Rue\"ful",
+      "pr": "(r\"fl)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Ruefully",
+          "form_raw": "Rue\"ful*ly",
+          "key": "ruefully",
+          "pos": [],
+          "pr": null
+        },
+        {
+          "form": "Ruefulness",
+          "form_raw": "Rue\"ful*ness",
+          "key": "ruefulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Causing one to rue or lament; woeful; mournful; sorrowful."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Expressing sorrow."
+          ],
+          "quotes": [
+            "Two rueful figures, with long black cloaks."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

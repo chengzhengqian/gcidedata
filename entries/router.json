@@ -1,0 +1,52 @@
+{
+  "key": "router",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Router",
+      "headword_raw": "Rout\"er",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Carp.)"
+          ],
+          "defs": [
+            "A plane made like a spokeshave, for working the inside edges of circular sashes.",
+            "A plane with a hooked tool protruding far below the sole, for smoothing the bottom of a cavity."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mach.)"
+          ],
+          "defs": [
+            "A machine with a rapidly revolving vertical spindle and cutter for scooping out the surface of wood or metal, as between and around the engraved parts of an electrotype."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

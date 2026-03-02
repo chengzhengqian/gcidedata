@@ -1,0 +1,72 @@
+{
+  "key": "rotten",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Rotten",
+      "headword_raw": "Rot\"ten",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Icel. rotinn; akin to Sw. rutten, Dan. radden. See Rot.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Rottenly",
+          "form_raw": "Rot\"ten*ly",
+          "key": "rottenly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Rottenness",
+          "form_raw": "Rot\"ten*ness",
+          "key": "rottenness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Putrefied",
+        "decayed",
+        "carious",
+        "defective",
+        "unsound",
+        "corrupt",
+        "deceitful",
+        "treacherous"
+      ],
+      "entry_fields": [
+        "(Min.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Having rotted; putrid; decayed; as, a rotten apple; rotten meat.",
+            "Offensive to the smell; fetid; disgusting.",
+            "Not firm or trusty; unsound; defective; treacherous; unsafe; as, a rotten plank, bone, stone."
+          ],
+          "quotes": [
+            "You common cry of curs! whose breath I hate As reek of the rotten fens."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

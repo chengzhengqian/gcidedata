@@ -1,0 +1,46 @@
+{
+  "key": "runology",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Runology",
+      "headword_raw": "Ru*nol\"o*gy",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Rune + -logy.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Runologist",
+          "form_raw": "Ru*nol\"o*gist",
+          "key": "runologist",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The science of runes."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

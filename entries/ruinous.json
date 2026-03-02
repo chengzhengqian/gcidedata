@@ -1,0 +1,90 @@
+{
+  "key": "ruinous",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Ruinous",
+      "headword_raw": "Ru\"in*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. ruinosus: cf. F. ruineux. See Ruin.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Ruinously",
+          "form_raw": "Ru\"in*ous*ly",
+          "key": "ruinously",
+          "pos": [
+            "adv."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Ruinousness",
+          "form_raw": "Ru\"in*ous*ness",
+          "key": "ruinousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Causing, or tending to cause, ruin; destructive; baneful; pernicious; as, a ruinous project."
+          ],
+          "quotes": [
+            "After a night of storm so ruinous."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Characterized by ruin; ruined; dilapidated; as, an edifice, bridge, or wall in a ruinous state."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Composed of, or consisting in, ruins."
+          ],
+          "quotes": [
+            "Behold, Damascus . . . shall be a ruinous heap."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Dilapidated",
+            "decayed",
+            "demolished",
+            "pernicious",
+            "destructive",
+            "baneful",
+            "wasteful",
+            "mischievous"
+          ]
+        }
+      ]
+    }
+  ]
+}

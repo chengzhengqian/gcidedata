@@ -1,0 +1,94 @@
+{
+  "key": "rumor",
+  "source_file": "CIDE.R",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Rumor",
+      "headword_raw": "Ru\"mor",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. rumeur, L. rumor; cf. rumificare, rumitare to rumor, Skr. ru to cry.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A flying or popular report; the common talk; hence, public fame; notoriety."
+          ],
+          "quotes": [
+            "This rumor of him went forth throughout all Judea, and throughout all the region round about.",
+            "Great is the rumor of this dreadful knight."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A current story passing from one person to another, without any known authority for its truth; -- in this sense often personified."
+          ],
+          "quotes": [
+            "Rumor next, and Chance, And Tumult, and Confusion, all embroiled."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A prolonged, indistinct noise."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Rumor",
+      "headword_raw": "Ru\"mor",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Rumored (?); p. pr. & vb. n. Rumoring.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To report by rumor; to tell."
+          ],
+          "quotes": [
+            "'T was rumored My father 'scaped from out the citadel."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

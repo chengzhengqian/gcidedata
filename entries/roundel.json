@@ -1,0 +1,59 @@
+{
+  "key": "roundel",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Roundel",
+      "headword_raw": "Roun\"del",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[OF. rondel a roundelay, F. rondel, rondeau, a dim. fr. rond; for sense 2, cf. F. rondelle a round, a round shield. See Round, a., and cf. Rondel, Rondelay.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Mus.)"
+          ],
+          "defs": [
+            "A rondelay."
+          ],
+          "quotes": [
+            "Come, now a roundel and a fairy song."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Her.)",
+            "(Fort.)"
+          ],
+          "defs": [
+            "Anything having a round form; a round figure; a circle.",
+            "A small circular shield, sometimes not more than a foot in diameter, used by soldiers in the fourteenth and fifteenth centuries.",
+            "A circular spot; a sharge in the form of a small circle.",
+            "A bastion of a circular form."
+          ],
+          "quotes": [
+            "The Spaniards, casting themselves into roundels, . . . made a flying march to Calais."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "key": "rural",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Rural",
+      "headword_raw": "Ru\"ral",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[F., fr. L. ruralis, fr. rus, ruris, the country. Cf. Room space, Rustic.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "Syn. -- Rustic. -- Rural, Rustic. Rural refers to the country itself; as, rural scenes, prospects, delights, etc. Rustic refers to the character, condition, taste, etc., of the original inhabitants of the country, who were generally uncultivated and rude; as, rustic manners; a rustic dress; a rustic bridge; rustic architecture, etc. [1913 Webster] We turn To where the silver Thames first rural grows. Thomson. [1913 Webster] Lay bashfulness, that rustic virtue, by; To manly confidence thy throughts apply. Dryden. [1913 Webster]"
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to the country, as distinguished from a city or town; living in the country; suitable for, or resembling, the country; rustic; as, rural scenes; a rural prospect."
+          ],
+          "quotes": [
+            "Here is a rural fellow; . . . He brings you figs."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Eccl.)",
+            "(Eccl.)"
+          ],
+          "defs": [
+            "Of or pertaining to agriculture; as, rural economy."
+          ],
+          "quotes": [
+            "We turn To where the silver Thames first rural grows.",
+            "Lay bashfulness, that rustic virtue, by; To manly confidence thy throughts apply."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Rustic"
+          ]
+        }
+      ]
+    }
+  ]
+}

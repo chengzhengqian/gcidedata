@@ -1,0 +1,39 @@
+{
+  "key": "vitamin_k",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "vitamin K",
+      "headword_raw": "vitamin K",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[from G. Koagulationsvitamin.]",
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "naphthoquinone"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "either of two fat-soluble vitamins (vitamin K1 or vitamin K2) that help clot blood by participating in the formation of prothrombin."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "key": "vitamin_a",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "vitamin A",
+      "headword_raw": "vitamin A",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "antiophthalmic factor",
+        "axerophthol"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "any of several related fat-soluble vitamins (such as retinol) essential for normal vision; it also prevents night blindness or inflammation or dryness of the eyes."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

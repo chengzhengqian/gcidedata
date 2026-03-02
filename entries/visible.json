@@ -1,0 +1,74 @@
+{
+  "key": "visible",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Visible",
+      "headword_raw": "Vis\"i*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[L. visibilis, fr. videre, visum, to see: cf. F. visible. See Vision.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Visibleness",
+          "form_raw": "Vis\"i*ble*ness",
+          "key": "visibleness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Visibly",
+          "form_raw": "Vis\"i*bly",
+          "key": "visibly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Perceivable by the eye; capable of being seen; perceptible; in view; as, a visible star; the least spot is visible on white paper."
+          ],
+          "quotes": [
+            "Maker of heaven and earth, and of all things visible and invisible.",
+            "Virtue made visible in outward grace."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Theol.)"
+          ],
+          "defs": [
+            "Noticeable; apparent; open; conspicuous."
+          ],
+          "quotes": [
+            "The factions at court were greater, or more visible, than before."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

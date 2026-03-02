@@ -1,0 +1,49 @@
+{
+  "key": "viscous",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Viscous",
+      "headword_raw": "Vis\"cous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": "[L. viscosus. See Viscid.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Viscousness",
+          "form_raw": "Vis\"cous*ness",
+          "key": "viscousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Adhesive or sticky, and having a ropy or glutinous consistency; viscid; glutinous; clammy; tenacious; as, a viscous juice."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ There is no well-defined distinction in meaning between viscous and viscid."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "key": "vicar",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Vicar",
+      "headword_raw": "Vic\"ar",
+      "pr": "(vk\"r)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. vicar, viker, vicair, F. vicaire, fr. L. vicarius. See Vicarious.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One deputed or authorized to perform the functions of another; a substitute in office; a deputy."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Eng. Eccl. Law)",
+            "(R. C. Ch.)",
+            "(R. C. Ch.)",
+            "(Ch. of Eng.)",
+            "(R. C. Ch.)",
+            "(R. C. Ch.)"
+          ],
+          "defs": [
+            "The incumbent of an appropriated benefice."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The distinction between a parson [or rector] and vicar is this: The parson has, for the most part, the whole right to the ecclesiastical dues in his parish; but a vicar has generally an appropriator over him, entitled to the best part of the profits, to whom he is in fact perpetual curate with a standing salary. Burrill."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

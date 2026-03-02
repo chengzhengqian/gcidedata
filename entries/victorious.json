@@ -1,0 +1,60 @@
+{
+  "key": "victorious",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Victorious",
+      "headword_raw": "Vic*to\"ri*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. victoriosus: cf. F. victorieux. See Victory.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Victoriously",
+          "form_raw": "Vic*to\"ri*ous*ly",
+          "key": "victoriously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Victoriousness",
+          "form_raw": "Vic*to\"ri*ous*ness",
+          "key": "victoriousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to victory, or a victor; being a victor; bringing or causing a victory; conquering; winning; triumphant; as, a victorious general; victorious troops; a victorious day."
+          ],
+          "quotes": [
+            "But I shall rise victorious, and subdue My vanquisher.",
+            "Now are our brows bound with victorious wreaths."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

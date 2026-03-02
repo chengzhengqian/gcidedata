@@ -1,0 +1,71 @@
+{
+  "key": "vexatious",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Vexatious",
+      "headword_raw": "Vex*a\"tious",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[See Vexation.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Vexatiously",
+          "form_raw": "Vex*a\"tious*ly",
+          "key": "vexatiously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Vexatiousness",
+          "form_raw": "Vex*a\"tious*ness",
+          "key": "vexatiousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Causing vexation; agitating; afflictive; annoying; as, a vexatious controversy; a vexatious neighbor."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "Full of vexation, trouble, or disquiet; disturbed."
+          ],
+          "quotes": [
+            "He leads a vexatious life."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

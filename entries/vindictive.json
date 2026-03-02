@@ -1,0 +1,71 @@
+{
+  "key": "vindictive",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Vindictive",
+      "headword_raw": "Vin*dic\"tive",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[For vindicative, confused with L. vindicta revenge, punishment, fr. vindicare to vindicate. Cf. Vindicative.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Vindictively",
+          "form_raw": "Vin*dic\"tive*ly",
+          "key": "vindictively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Vindictiveness",
+          "form_raw": "Vin*dic\"tive*ness",
+          "key": "vindictiveness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Disposed to revenge; prompted or characterized by revenge; revengeful."
+          ],
+          "quotes": [
+            "I am vindictive enough to repel force by force."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "Punitive."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

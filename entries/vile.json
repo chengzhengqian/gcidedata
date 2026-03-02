@@ -1,0 +1,77 @@
+{
+  "key": "vile",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Vile",
+      "headword_raw": "Vile",
+      "pr": "(vīl)",
+      "pos": [
+        "a.",
+        "Comp.",
+        "superl.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[OE. vil, F. vil, from L. vilis cheap, worthless, vile, base.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Vilely",
+          "form_raw": "Vile\"ly",
+          "key": "vilely",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Vileness",
+          "form_raw": "Vile\"ness",
+          "key": "vileness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Low; base; worthless; mean; despicable."
+          ],
+          "quotes": [
+            "A poor man in vile raiment.",
+            "The craft either of fishing, which was Peter's, or of making tents, which was Paul's, were [was] more vile than the science of physic.",
+            "The inhabitants account gold but as a vile thing."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Morally base or impure; depraved by sin; hateful in the sight of God and men; sinful; wicked; bad."
+          ],
+          "quotes": [
+            "Behold, I am vile; what shall I answer thee ?"
+          ],
+          "notes": [],
+          "synonyms": [
+            "See Base"
+          ]
+        }
+      ]
+    }
+  ]
+}

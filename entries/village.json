@@ -1,0 +1,43 @@
+{
+  "key": "village",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Village",
+      "headword_raw": "Vil\"lage",
+      "pr": "(?; 48)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F., fr. L. villaticus belonging to a country house or villa. See Villa, and cf. Villatic.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "In England, a hamlet denotes a collection of houses, too small to have a parish church. A village has a church, but no market. A town has both a market and a church or churches. A city is, in the legal sense, an incorporated borough town, which is, or has been, the place of a bishop's see. In the United States these distinctions do not hold."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [
+        "Village",
+        "Hamlet",
+        "Town",
+        "City"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A small assemblage of houses in the country, less than a town or city."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

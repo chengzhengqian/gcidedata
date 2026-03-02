@@ -1,0 +1,41 @@
+{
+  "key": "vitamin_k1",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "vitamin K1",
+      "headword_raw": "vitamin K1",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "phylloquinone",
+        "phytonadione",
+        "antihemorrhagic vitamin"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "one of the two K vitamins, (C31H46O2). It is fat-soluble and occurs naturally as the trans isomer. Chemically it is 2-methyl-3-phytyl-1,4,-naphthoquinone."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

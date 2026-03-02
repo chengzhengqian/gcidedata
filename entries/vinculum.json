@@ -1,0 +1,72 @@
+{
+  "key": "vinculum",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Vinculum",
+      "headword_raw": "Vin\"cu*lum",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L., from vincire, vinctum, to bind.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A bond of union; a tie."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "A straight, horizontal mark placed over two or more members of a compound quantity, which are to be subjected to the same operation, as in the expression x2 + y2 - x + y."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Anat.)"
+          ],
+          "defs": [
+            "A band or bundle of fibers; a fraenum."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "A commissure uniting the two main tendons in the foot of certain birds."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "key": "vitamin",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Vitamin",
+      "headword_raw": "Vit\"a*min",
+      "pr": "(vīt\"*mn)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "any of several organic chemical substances not synthesized by an animal and required in small quantities for normal metabolism, present in and obtained from the natural foods eaten by the animal. Human vitamins are also produced synthetically, and taken in pure form or in mixtures, as dietary supplements. Deficiencies of specific vitamins lead to certain specific disorders, such as scurvy, caused by an insufficiency of vitamin C (ascorbic acid)."
+          ],
+          "quotes": [],
+          "notes": [
+            "Most vitamins act as coenzymes or precursors to coenzymes, and are not consumed for energy production or incorporated into structural units of the cell."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

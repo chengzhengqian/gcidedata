@@ -1,0 +1,40 @@
+{
+  "key": "vitamin_d",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "vitamin D",
+      "headword_raw": "vitamin D",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "calciferol",
+        "ergocalciferol",
+        "cholecalciferol"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "any of several chemically related fat-soluble vitamins that prevent rickets. It is found in fish-liver oils, egg yolks and milk. Component vitamin D2 is also called calciferol, and vitamin D3 is called cholecalciferol."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "key": "vitamin_b1",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "vitamin B1",
+      "headword_raw": "vitamin B1",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "thiamin",
+        "aneurin",
+        "antiberiberi factor"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a B vitamin (C12H17N4OS)Cl that prevents beriberi and maintains appetite and growth. Same as thiamine."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "key": "vitamin_b2",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "vitamin B2",
+      "headword_raw": "vitamin B2",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "vitamin G",
+        "riboflavin",
+        "lactoflavin",
+        "ovoflavin",
+        "hepatoflavin"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a B vitamin that prevents skin lesions and weight loss."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

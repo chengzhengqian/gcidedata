@@ -1,0 +1,77 @@
+{
+  "key": "virtuous",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Virtuous",
+      "headword_raw": "Vir\"tu*ous",
+      "pr": "(?; 135)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[OE. vertuous, OF. vertuos, vertuous, F. vertueux, fr. L. Virtuous. See Virtue, and cf. Virtuoso.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Virtuously",
+          "form_raw": "Vir\"tu*ous*ly",
+          "key": "virtuously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Virtuousness",
+          "form_raw": "Vir\"tu*ous*ness",
+          "key": "virtuousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Possessing or exhibiting virtue.",
+            "Exhibiting manly courage and strength; valorous; valiant; brave.",
+            "Having power or efficacy; powerfully operative; efficacious; potent.",
+            "Having moral excellence; characterized by morality; upright; righteous; pure; as, a virtuous action."
+          ],
+          "quotes": [
+            "Old Priam's son, amongst them all, was chiefly virtuous.",
+            "Lifting up his virtuous staff on high, He smote the sea, which calmd was with speed.",
+            "Every virtuous plant and healing herb.",
+            "The virtuous mind that ever walks attended By a strong siding champion, conscience."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Chaste; pure; -- applied especially to women."
+          ],
+          "quotes": [
+            "Mistress Ford . . . the virtuous creature, that hath the jealous fool to her husband."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "key": "vitamin_bc",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "vitamin Bc",
+      "headword_raw": "vitamin Bc",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "vitamin M",
+        "folic acid",
+        "folacin",
+        "pteroylglutamic acid",
+        "pteroylmonoglutamic acid"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a B vitamin that is essential for cell growth and reproduction. Also called folic acid"
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

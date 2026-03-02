@@ -1,0 +1,41 @@
+{
+  "key": "vitamin_b",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "vitamin B",
+      "headword_raw": "vitamin B",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "B-complex vitamin",
+        "B complex",
+        "vitamin B complex",
+        "B vitamin"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a group of water-soluble vitamins originally thought to be a single vitamin but now separated into several B vitamins."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

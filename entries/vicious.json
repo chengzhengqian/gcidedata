@@ -1,0 +1,118 @@
+{
+  "key": "vicious",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Vicious",
+      "headword_raw": "Vi\"cious",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[OF. vicious, F. vicieux, fr. L. vitiosus, fr. vitium vice. See Vice a fault.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Viciously",
+          "form_raw": "Vi\"cious*ly",
+          "key": "viciously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Viciousness",
+          "form_raw": "Vi\"cious*ness",
+          "key": "viciousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Characterized by vice or defects; defective; faulty; imperfect."
+          ],
+          "quotes": [
+            "Though I perchance am vicious in my guess.",
+            "The title of these lords was vicious in its origin.",
+            "A charge against Bentley of vicious reasoning."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Addicted to vice; corrupt in principles or conduct; depraved; wicked; as, vicious children; vicious examples; vicious conduct."
+          ],
+          "quotes": [
+            "Who . . . heard this heavy curse, Servant of servants, on his vicious race."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Wanting purity; foul; bad; noxious; as, vicious air, water, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Not correct or pure; corrupt; as, vicious language; vicious idioms."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "Not well tamed or broken; given to bad tricks; unruly; refractory; as, a vicious horse."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [],
+          "defs": [
+            "Bitter; spiteful; malignant."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Corrupt",
+            "faulty",
+            "wicked",
+            "depraved"
+          ]
+        }
+      ]
+    }
+  ]
+}

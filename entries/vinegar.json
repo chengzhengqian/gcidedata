@@ -1,0 +1,86 @@
+{
+  "key": "vinegar",
+  "source_file": "CIDE.V",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Vinegar",
+      "headword_raw": "Vin\"e*gar",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[OE. vinegre, F. vinaigre; vin wine (L. vinum) + aigre sour. See Wine, and Eager, a.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A sour liquid used as a condiment, or as a preservative, and obtained by the spontaneous (acetous) fermentation, or by the artificial oxidation, of wine, cider, beer, or the like."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The characteristic sourness of vinegar is due to acetic acid, of which it contains from three to five per cent. Wine vinegar contains also tartaric acid, citric acid, etc."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Zool.)",
+            "(Chem.)",
+            "(Bot.)"
+          ],
+          "defs": [
+            "Hence, anything sour; -- used also metaphorically."
+          ],
+          "quotes": [
+            "Here's the challenge: . . . I warrant there's vinegar and pepper in't."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Vinegar",
+      "headword_raw": "Vin\"e*gar",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To convert into vinegar; to make like vinegar; to render sour or sharp."
+          ],
+          "quotes": [
+            "Hoping that he hath vinegared his senses As he was bid."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

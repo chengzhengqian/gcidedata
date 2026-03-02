@@ -1,0 +1,79 @@
+{
+  "key": "villainous",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Villainous",
+      "headword_raw": "Vil\"lain*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Written also villanous.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Villainously",
+          "form_raw": "Vil\"lain*ous*ly",
+          "key": "villainously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Villainousness",
+          "form_raw": "Vil\"lain*ous*ness",
+          "key": "villainousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Base; vile; mean; depraved; as, a villainous person or wretch."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Proceeding from, or showing, extreme depravity; suited to a villain; as, a villainous action."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(O. E. Law)"
+          ],
+          "defs": [
+            "Sorry; mean; mischievous; -- in a familiar sense."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

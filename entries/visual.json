@@ -1,0 +1,54 @@
+{
+  "key": "visual",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Visual",
+      "headword_raw": "Vis\"u*al",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. visualis, from visus a seeing, sight: cf. F. visuel. See Vision.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to sight; used in sight; serving as the instrument of seeing; as, the visual nerve."
+          ],
+          "quotes": [
+            "The air, Nowhere so clear, sharpened his visual ray."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Opt.)",
+            "(Persp.)",
+            "(Physiol.)",
+            "(Physiol.)",
+            "(Physiol.)"
+          ],
+          "defs": [
+            "That can be seen; visible."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "key": "relapse",
+  "source_file": "CIDE.R",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Relapse",
+      "headword_raw": "Re*lapse\"",
+      "pr": "(r?-l?ps\")",
+      "pos": [
+        "v. i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. relapsus, p. p. of relabi to slip back, to relapse; pref. re- re- + labi to fall, slip, slide. See Lapse.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Relapsed (-l?pst\"); p. pr. & vb. n. Relapsing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To slip or slide back, in a literal sense; to turn back."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To slide or turn back into a former state or practice; to fall back from some condition attained; -- generally in a bad sense, as from a state of convalescence or amended condition; as, to relapse into a stupor, into vice, or into barbarism; -- sometimes in a good sense; as, to relapse into slumber after being disturbed."
+          ],
+          "quotes": [
+            "That task performed, [preachers] relapse into themselves."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Theol.)"
+          ],
+          "defs": [
+            "To fall from Christian faith into paganism, heresy, or unbelief; to backslide."
+          ],
+          "quotes": [
+            "They enter into the justified state, and so continue all along, unless they relapse."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Relapse",
+      "headword_raw": "Re*lapse\"",
+      "pr": null,
+      "pos": [
+        "n.",
+        "v."
+      ],
+      "ety": "[For sense 2 cf. F. relaps. See Relapse, v.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A sliding or falling back, especially into a former bad state, either of body or morals; backsliding; the state of having fallen back."
+          ],
+          "quotes": [
+            "Alas! from what high hope to what relapse Unlooked for are we fallen!"
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "One who has relapsed, or fallen back, into error; a backslider; specifically, one who, after recanting error, returns to it again."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

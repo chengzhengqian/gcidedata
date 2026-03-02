@@ -1,0 +1,124 @@
+{
+  "key": "reign",
+  "source_file": "CIDE.R",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Reign",
+      "headword_raw": "Reign",
+      "pr": "(rān)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. regne, OF. reigne, regne, F. rgne, fr. L. regnum, fr. rex, regis, a king, fr. regere to guide, rule. See Regal, Regimen.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Royal authority; supreme power; sovereignty; rule; dominion."
+          ],
+          "quotes": [
+            "He who like a father held his reign.",
+            "Saturn's sons received the threefold reign Of heaven, of ocean, and deep hell beneath."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The territory or sphere which is reigned over; kingdom; empire; realm; dominion."
+          ],
+          "quotes": [
+            "[God] him bereft the regne that he had."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "The time during which a king, queen, or emperor possesses the supreme authority; as, it happened in the reign of Elizabeth."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Reign",
+      "headword_raw": "Reign",
+      "pr": "(r?n)",
+      "pos": [
+        "v. i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "n."
+      ],
+      "ety": "[OE. regnen, reinen, OF. regner, F. rgner, fr. L. regnare, fr. regnum. See Reign, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Reigned (r?nd); p. pr. & vb. n. Reigning.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To possess or exercise sovereign power or authority; to exercise government, as a king or emperor;; to hold supreme power; to rule."
+          ],
+          "quotes": [
+            "We will not have this man to reign over us.",
+            "Shall Banquo's issue ever Reign in this kingdom?"
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Hence, to be predominant; to prevail."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To have superior or uncontrolled dominion; to rule."
+          ],
+          "quotes": [
+            "Let not sin therefore reign in your mortal body."
+          ],
+          "notes": [],
+          "synonyms": [
+            "rule",
+            "govern",
+            "direct",
+            "control",
+            "prevail"
+          ]
+        }
+      ]
+    }
+  ]
+}

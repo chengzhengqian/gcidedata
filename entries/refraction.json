@@ -1,0 +1,66 @@
+{
+  "key": "refraction",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Refraction",
+      "headword_raw": "Re*frac\"tion",
+      "pr": "(r?*fr?k\"sh?n)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. rfraction.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of refracting, or the state of being refracted."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The change in the direction of ray of light, heat, or the like, when it enters obliquely a medium of a different density from that through which it has previously moved."
+          ],
+          "quotes": [
+            "Refraction out of the rarer medium into the denser, is made towards the perpendicular."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Astron.)",
+            "(Opt.)",
+            "(Opt.)",
+            "(Astron.)",
+            "(Opt.)",
+            "(Opt.)"
+          ],
+          "defs": [
+            "The change in the direction of a ray of light, and, consequently, in the apparent position of a heavenly body from which it emanates, arising from its passage through the earth's atmosphere; -- hence distinguished as atmospheric refraction, or astronomical refraction.",
+            "The correction which is to be deducted from the apparent altitude of a heavenly body on account of atmospheric refraction, in order to obtain the true altitude."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "key": "remediless",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Remediless",
+      "headword_raw": "Re*med\"i*less",
+      "pr": "(r?-m?d\"?-l?s r?m\"?-d?-l?s; 277)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Remediless",
+          "form_raw": "Re*med\"i*less",
+          "key": "remediless",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Remedilessly",
+          "form_raw": "Re*med\"i*less*ly",
+          "key": "remedilessly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Remedilessness",
+          "form_raw": "Re*med\"i*less*ness",
+          "key": "remedilessness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Not admitting of a remedy; incapable of being restored or corrected; incurable; irreparable; as, a remediless mistake or loss."
+          ],
+          "quotes": [
+            "Hopeless are all my evils, all remediless."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Not answering as a remedy; ineffectual."
+          ],
+          "quotes": [
+            "Forced to forego the attempt remediless."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Incurable",
+            "cureless",
+            "irremediable",
+            "irrecoverable",
+            "irretrievable",
+            "irreparable",
+            "desperate"
+          ]
+        }
+      ]
+    }
+  ]
+}

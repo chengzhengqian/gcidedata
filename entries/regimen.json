@@ -1,0 +1,62 @@
+{
+  "key": "regimen",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Regimen",
+      "headword_raw": "Reg\"i*men",
+      "pr": "(r?j\"?*m?n)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. regimen, -inis, fr. regere to guide, to rule. See Right, and cf. Regal, Rgime, Regiment.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Orderly government; system of order; adminisration."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "Any regulation or remedy which is intended to produce beneficial effects by gradual operation",
+            "a systematic course of diet, etc., pursed with a view to improving or preserving the health, or for the purpose of attaining some particular effect, as a reduction of flesh; -- sometimes used synonymously with hygiene."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Gram.)"
+          ],
+          "defs": [
+            "A syntactical relation between words, as when one depends on another and is regulated by it in respect to case or mood; government.",
+            "The word or words governed."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "key": "relative",
+  "source_file": "CIDE.R",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Relative",
+      "headword_raw": "Rel\"a*tive",
+      "pr": "(r?l\"?-t?v)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[F. relatif, L. relativus. See Relate.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Having relation or reference; referring; respecting; standing in connection; pertaining; as, arguments not relative to the subject."
+          ],
+          "quotes": [
+            "I'll have grounds More relative than this."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Arising from relation; resulting from connection with, or reference to, something else; not absolute."
+          ],
+          "quotes": [
+            "Every thing sustains both an absolute and a relative capacity: an absolute, as it is such a thing, endued with such a nature; and a relative, as it is a part of the universe, and so stands in such a relations to the whole."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Gram.)"
+          ],
+          "defs": [
+            "Indicating or expressing relation; refering to an antecedent; as, a relative pronoun."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Mus.)",
+            "(Gram.)"
+          ],
+          "defs": [
+            "Characterizing or pertaining to chords and keys, which, by reason of the identify of some of their tones, admit of a natural transition from one to the other."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Relative",
+      "headword_raw": "Rel\"a*tive",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Gram.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "One who, or that which, relates to, or is considered in its relation to, something else; a relative object or term; one of two object or term; one of two objects directly connected by any relation.",
+            "A person connected by blood or affinity; strictly, one allied by blood; a relation; a kinsman or kinswoman.",
+            "A relative pronoun; a word which relates to, or represents, another word or phrase, called its antecedent; as, the relatives “who”, “which”, “that”."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

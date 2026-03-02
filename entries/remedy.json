@@ -1,0 +1,105 @@
+{
+  "key": "remedy",
+  "source_file": "CIDE.R",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Remedy",
+      "headword_raw": "Rem\"e*dy",
+      "pr": "(r?m\"?-d?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. remedium; pref. re- re- + mederi to heal, to cure: cf. F. remde remedy, remdier to remedy. See Medical.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "That which relieves or cures a disease; any medicine or application which puts an end to disease and restores health; -- with for; as, a remedy for the gout."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That which corrects or counteracts an evil of any kind; a corrective; a counteractive; reparation; cure; -- followed by for or against, formerly by to."
+          ],
+          "quotes": [
+            "What may else be remedy or cure To evils which our own misdeeds have wrought, He will instruct us."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Law)",
+            "(Coinage)"
+          ],
+          "defs": [
+            "The legal means to recover a right, or to obtain redress for a wrong."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Cure",
+            "restorative",
+            "counteraction",
+            "reparation",
+            "redress",
+            "relief",
+            "aid",
+            "help",
+            "assistance"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Remedy",
+      "headword_raw": "Rem\"e*dy",
+      "pr": "(-d?d)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "n."
+      ],
+      "ety": "[L. remediare, remediari: cf. F. remdier. See Remedy, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Remedied (-d?d); p. pr. & vb. n. Remedying.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To apply a remedy to; to relieve; to cure; to heal; to repair; to redress; to correct; to counteract."
+          ],
+          "quotes": [
+            "I will remedy this gear ere long."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

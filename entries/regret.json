@@ -1,0 +1,96 @@
+{
+  "key": "regret",
+  "source_file": "CIDE.R",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Regret",
+      "headword_raw": "Re*gret\"",
+      "pr": "(r?*gr?t\")",
+      "pos": [
+        "n.",
+        "v."
+      ],
+      "ety": "[F., fr. regretter. See Regret, v.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "-- Regret, Remorse, Compunction, Contrition, Repentance. Regret does not carry with it the energy of remorse, the sting of compunction, the sacredness of contrition, or the practical character of repentance. We even apply the term regret to circumstance over which we have had no control, as the absence of friends or their loss. When connected with ourselves, it relates rather to unwise acts than to wrong or sinful ones."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Pain of mind on account of something done or experienced in the past, with a wish that it had been different; a looking back with dissatisfaction or with longing; grief; sorrow; especially, a mourning on account of the loss of some joy, advantage, or satisfaction."
+          ],
+          "quotes": [
+            "What man does not remember with regret the first time he read Robinson Crusoe?",
+            "Never any prince expressed a more lively regret for the loss of a servant.",
+            "From its peaceful bosom [the grave] spring none but fond regrets and tender recollections."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Dislike; aversion."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Grief",
+            "concern",
+            "sorrow",
+            "lamentation",
+            "repentance",
+            "penitence",
+            "self-condemnation"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Regret",
+      "headword_raw": "Re*gret\"",
+      "pr": "(-td)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[F. regretter, OF. regreter; L. pref. re- re- + a word of Teutonic origin; cf. Goth. grētan to weep, Icel. grāta. See Greet to lament.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Regretted (-td); p. pr. & vb. n. Regretting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To experience regret on account of; to lose or miss with a sense of regret; to feel sorrow or dissatisfaction on account of (the happening or the loss of something); as, to regret an error; to regret lost opportunities or friends."
+          ],
+          "quotes": [
+            "Calmly he looked on either life, and here Saw nothing to regret, or there to fear.",
+            "In a few hours they [the Israelites] began to regret their slavery, and to murmur against their leader.",
+            "Recruits who regretted the plow from which they had been violently taken."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

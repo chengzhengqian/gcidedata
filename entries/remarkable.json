@@ -1,0 +1,70 @@
+{
+  "key": "remarkable",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Remarkable",
+      "headword_raw": "Re*mark\"a*ble",
+      "pr": "(-?-b'l)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[F. remarquable.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Remarkableness",
+          "form_raw": "Re*mark\"a*ble*ness",
+          "key": "remarkableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Remarkably",
+          "form_raw": "Re*mark\"a*bly",
+          "key": "remarkably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Observable",
+        "noticeable",
+        "extraordinary",
+        "unusual",
+        "rare",
+        "strange",
+        "wonderful",
+        "notable",
+        "eminent"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Worthy of being remarked or noticed; noticeable; conspicuous; hence, uncommon; extraordinary."
+          ],
+          "quotes": [
+            "'T is remarkable, that they Talk most who have the least to say.",
+            "There is nothing left remarlable Beneath the visiting moon."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

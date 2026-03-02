@@ -1,0 +1,119 @@
+{
+  "key": "regiment",
+  "source_file": "CIDE.R",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Regiment",
+      "headword_raw": "Reg\"i*ment",
+      "pr": "(-ment)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. rgiment a regiment of men, OF. also government, L. regimentum government, fr. regere to guide, rule. See Regimen.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Government; mode of ruling; rule; authority; regimen."
+          ],
+          "quotes": [
+            "But what are kings, when regiment is gone, But perfect shadows in a sunshine day?",
+            "The law of nature doth now require of necessity some kind of regiment."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A region or district governed."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Mil.)",
+            "(Mil.)"
+          ],
+          "defs": [
+            "A body of men, either horse, foot, or artillery, commanded by a colonel, and consisting of a number of companies, usually ten."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ In the British army all the artillery are included in one regiment, which (reversing the usual practice) is divided into brigades."
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Regiment",
+      "headword_raw": "Reg\"i*ment",
+      "pr": "(-mnt)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl.",
+        "PJC"
+      ],
+      "morph": "[imp. & p. p. Regimented; p. pr. & vb. n. Regimenting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To form into a regiment or into regiments."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To form into classified units or bodies; to systematize according to classes, districts or the like."
+          ],
+          "quotes": [
+            "The people are organized or regimented into bodies, and special functions are relegated to the several units."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To organize and manage in a uniform and rigid manner; to control with a strict discipline."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

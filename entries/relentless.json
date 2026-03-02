@@ -1,0 +1,59 @@
+{
+  "key": "relentless",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Relentless",
+      "headword_raw": "Re*lent\"less",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Relentlessly",
+          "form_raw": "Re*lent\"less*ly",
+          "key": "relentlessly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Relentlessness",
+          "form_raw": "Re*lent\"less*ness",
+          "key": "relentlessness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Unmoved by appeals for sympathy or forgiveness; insensible to the distresses of others; destitute of tenderness; unrelenting; unyielding; unpitying; as, a prey to relentless despotism."
+          ],
+          "quotes": [
+            "For this the avenging power employs his darts, . . . Thus will persist, relentless in his ire."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "key": "regardless",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Regardless",
+      "headword_raw": "Re*gard\"less",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Regardlessly",
+          "form_raw": "Re*gard\"less*ly",
+          "key": "regardlessly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Regardlessness",
+          "form_raw": "Re*gard\"less*ness",
+          "key": "regardlessness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Having no regard; heedless; careless; as, regardless of life, consequences, dignity."
+          ],
+          "quotes": [
+            "Regardless of the bliss wherein he sat."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Not regarded; slighted."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Heedless",
+            "negligent",
+            "careless",
+            "indifferent",
+            "unconcerned",
+            "inattentive",
+            "unobservant",
+            "neglectful"
+          ]
+        }
+      ]
+    }
+  ]
+}

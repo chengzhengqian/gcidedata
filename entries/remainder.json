@@ -1,0 +1,99 @@
+{
+  "key": "remainder",
+  "source_file": "CIDE.R",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Remainder",
+      "headword_raw": "Re*main\"der",
+      "pr": "(r?-m?n\"d?r)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OF. remaindre, inf. See Remain.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Anything that remains, or is left, after the separation and removal of a part; residue; remnant."
+          ],
+          "quotes": [
+            "If these decoctions be repeated till the water comes off clear, the remainder yields no salt."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "The quantity or sum that is left after subtraction, or after any deduction."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "An estate in expectancy, generally in land, which becomes an estate in possession upon the determination of a particular prior estate, created at the same time, and by the same instrument; for example, if land be conveyed to A for life, and on his death to B, A's life interest is a particuar estate, and B's interest is a remainder, or estate in remainder."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Balance",
+            "rest",
+            "residue",
+            "remnant",
+            "leavings"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Remainder",
+      "headword_raw": "Re*main\"der",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Remaining; left; left over; refuse."
+          ],
+          "quotes": [
+            "Which is as dry as the remainder biscuit After a voyage."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

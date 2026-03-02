@@ -1,0 +1,40 @@
+{
+  "key": "relativistic_mass_equation",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Relativistic mass equation",
+      "headword_raw": "Rel`a*tiv*ist\"ic mass e*qua\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(physics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "an equation expressing the mass of an object as a function of its velocity: as the velocity v of an object increases, its mass m increases from its rest mass m0 according to the equation: m = m0/1 - v2/c2 where c is the speed of light in a vacuum. If the speed of an object were to become equal to that of light, it can be seen that the mass would be infinite, from which it follows that nothing can accelerate up to or beyond the speed of light."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The theoretical possibility that there are particles which always move faster than light cannot at present be disproved and is not denied by this equation; in such a case, the relativistic mass equation asserts that such particles can never decelerate to or below the speed of light. Such hypothetical particles are referred to as tachyons."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

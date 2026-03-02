@@ -1,0 +1,52 @@
+{
+  "key": "abutment",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Abutment",
+      "headword_raw": "A*but\"ment",
+      "pr": "(*bt\"mnt)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "State of abutting."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Arch.)",
+            "(Mech.)"
+          ],
+          "defs": [
+            "That on or against which a body abuts or presses",
+            "The solid part of a pier or wall, etc., which receives the thrust or lateral pressure of an arch, vault, or strut.",
+            "A fixed point or surface from which resistance or reaction is obtained, as the cylinder head of a steam engine, the fulcrum of a lever, etc.",
+            "In breech-loading firearms, the block behind the barrel which receives the pressure due to recoil."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

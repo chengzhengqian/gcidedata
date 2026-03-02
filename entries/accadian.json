@@ -1,0 +1,56 @@
+{
+  "key": "accadian",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Accadian",
+      "headword_raw": "Ac*ca\"di*an",
+      "pr": "(<?/)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": "[From the city Accad. See Gen. x. 10.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Accadian",
+          "form_raw": "Ac*ca\"di*an",
+          "key": "accadian",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Accad",
+          "form_raw": "Ac\"cad",
+          "key": "accad",
+          "pos": [
+            "n."
+          ],
+          "pr": "(<?/)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Pertaining to a race supposed to have lived in Babylonia before the Assyrian conquest."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

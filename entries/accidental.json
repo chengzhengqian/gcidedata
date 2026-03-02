@@ -1,0 +1,114 @@
+{
+  "key": "accidental",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Accidental",
+      "headword_raw": "Ac`ci*den\"tal",
+      "pr": "(<?/)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Cf. F. accidentel, earlier accidental.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "-- Accidental, Incidental, Casual, Fortuitous, Contingent. We speak of a thing as accidental when it falls out as by chance, and not in the regular course of things; as, an accidental meeting, an accidental advantage, etc. We call a thing incidental when it falls, as it were, into some regular course of things, but is secondary, and forms no essential part thereof; as, an incremental remark, an incidental evil, an incidental benefit. We speak of a thing as casual, when it falls out or happens, as it were, by mere chance, without being prearranged or premeditated; as, a casual remark or encounter; a casual observer. An idea of the unimportant is attached to what is casual. Fortuitous is applied to what occurs without any known cause, and in opposition to what has been foreseen; as, a fortuitous concourse of atoms. We call a thing contingent when it is such that, considered in itself, it may or may not happen, but is dependent for its existence on something else; as, the time of my coming will be contingent on intelligence yet to be received."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Happening by chance, or unexpectedly; taking place not according to the usual course of things; casual; fortuitous; as, an accidental visit."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mus.)",
+            "(Opt.)",
+            "(Persp.)",
+            "(Paint.)"
+          ],
+          "defs": [
+            "Nonessential; not necessary belonging; incidental; as, are accidental to a play."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Casual",
+            "fortuitous",
+            "contingent",
+            "occasional",
+            "adventitious"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Accidental",
+      "headword_raw": "Ac`ci*den\"tal",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A property which is not essential; a nonessential; anything happening accidentally."
+          ],
+          "quotes": [
+            "He conceived it just that accidentals . . . should sink with the substance of the accusation."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Paint.)"
+          ],
+          "defs": [
+            "Those fortuitous effects produced by luminous rays falling on certain objects so that some parts stand forth in abnormal brightness and other parts are cast into a deep shadow."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Mus.)"
+          ],
+          "defs": [
+            "A sharp, flat, or natural, occurring not at the commencement of a piece of music as the signature, but before a particular note."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "key": "accented",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "accented",
+      "headword_raw": "accented",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Phonology)"
+          ],
+          "defs": [
+            "having the main stress of a word; -- used of syllables"
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "tonic (vs. atonic)"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "being pronounced with stress; -- used of syllables"
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "heavy",
+            "strong"
+          ]
+        }
+      ]
+    }
+  ]
+}

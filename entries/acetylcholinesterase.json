@@ -1,0 +1,40 @@
+{
+  "key": "acetylcholinesterase",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "acetylcholinesterase",
+      "headword_raw": "acetylcholinesterase",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "an enzyme which exists in nerve cells and hydrolyses acetylcholine into choline and acetic acid."
+          ],
+          "quotes": [],
+          "notes": [
+            "It is essential for neurotransmission at autonomous synapses and neuromuscular junctions, and its inhibition by acetylcholinesterase inhibitors can paralyze or kill an animal."
+          ],
+          "synonyms": [
+            "ACE"
+          ]
+        }
+      ]
+    }
+  ]
+}

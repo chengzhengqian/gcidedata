@@ -1,0 +1,93 @@
+{
+  "key": "absorbent",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "absorbent",
+      "headword_raw": "ab*sorb\"ent",
+      "pr": "(b*srb\"nt)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. absorbens, p. pr. of absorbere.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Paint.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Absorbing; swallowing; absorptive."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Absorbent",
+      "headword_raw": "Ab*sorb\"ent",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Anything which absorbs."
+          ],
+          "quotes": [
+            "The ocean, itself a bad absorbent of heat."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "Any substance which absorbs and neutralizes acid fluid in the stomach and bowels, as magnesia, chalk, etc.; also a substance e. g., iodine which acts on the absorbent vessels so as to reduce enlarged and indurated parts."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Physiol.)"
+          ],
+          "defs": [
+            "The vessels by which the processes of absorption are carried on, as the lymphatics in animals, the extremities of the roots in plants."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

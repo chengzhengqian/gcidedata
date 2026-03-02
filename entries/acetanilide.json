@@ -1,0 +1,47 @@
+{
+  "key": "acetanilide",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "acetanilide",
+      "headword_raw": "ac`et*an\"i*lide",
+      "pr": "(s`t*n\"*ld)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Acetyl + anilide.]",
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5",
+        "AS"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "phenylacetamide",
+        "N-phenylacetamide",
+        "antifebrin",
+        "antifebrine",
+        "acetylaminobenzene",
+        "acetylaniline"
+      ],
+      "entry_fields": [
+        "(Med., Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An amide formed from aniline and an acetyl group (C6H5.NH.CO.CH3); it is a white crystalline compound used as an analgesic and also as an antipyretic. It has molecular weight 135.16."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

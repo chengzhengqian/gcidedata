@@ -1,0 +1,73 @@
+{
+  "key": "acetylate",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "acetylate",
+      "headword_raw": "acetylate",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "receive substitution of an acetyl group; of chemical compounds"
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "acetylize"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "acetylate",
+      "headword_raw": "acetylate",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "acetylize"
+      ],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "introduce an acetyl group into a chemical compound"
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

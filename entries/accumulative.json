@@ -1,0 +1,57 @@
+{
+  "key": "accumulative",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Accumulative",
+      "headword_raw": "Ac*cu\"mu*la*tive",
+      "pr": "(<?/)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Accumulatively",
+          "form_raw": "Ac*cu\"mu*la*tive*ly",
+          "key": "accumulatively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Accumulativeness",
+          "form_raw": "Ac*cu\"mu*la*tive*ness",
+          "key": "accumulativeness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Characterized by accumulation; serving to collect or amass; cumulative; additional."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

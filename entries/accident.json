@@ -1,0 +1,100 @@
+{
+  "key": "accident",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Accident",
+      "headword_raw": "Ac\"ci*dent",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. accident, fr. L. accidens, -dentis, p. pr. of accidere to happen; ad + cadere to fall. See Cadence, Case.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Literally, a befalling; an event that takes place without one's foresight or expectation; an undesigned, sudden, and unexpected event; chance; contingency; often, an undesigned and unforeseen occurrence of an afflictive or unfortunate character; a casualty; a mishap; as, to die by an accident."
+          ],
+          "quotes": [
+            "Of moving accidents by flood and field.",
+            "Thou cam'st not to thy place by accident: It is the very place God meant for thee."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Gram.)"
+          ],
+          "defs": [
+            "A property attached to a word, but not essential to it, as gender, number, case."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Her.)"
+          ],
+          "defs": [
+            "A point or mark which may be retained or omitted in a coat of arms."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Log.)"
+          ],
+          "defs": [
+            "A property or quality of a thing which is not essential to it, as whiteness in paper; an attribute.",
+            "A quality or attribute in distinction from the substance, as sweetness, softness."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "Any accidental property, fact, or relation; an accidental or nonessential; as, beauty is an accident."
+          ],
+          "quotes": [
+            "This accident, as I call it, of Athens being situated some miles from the sea."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [],
+          "defs": [
+            "Unusual appearance or effect."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Accident, in Law, is equivalent to casus, or such unforeseen, extraordinary, extraneous interference as is out of the range of ordinary calculation."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

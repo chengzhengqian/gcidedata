@@ -1,0 +1,55 @@
+{
+  "key": "accusation",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Accusation",
+      "headword_raw": "Ac`cu*sa\"tion",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OF. acusation, F. accusation, L. accusatio, fr. accusare. See Accuse.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of accusing or charging with a crime or with a lighter offense."
+          ],
+          "quotes": [
+            "We come not by the way of accusation To taint that honor every good tongue blesses."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That of which one is accused; the charge of an offense or crime, or the declaration containing the charge."
+          ],
+          "quotes": [
+            "[They] set up over his head his accusation."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Impeachment",
+            "crimination",
+            "censure",
+            "charge"
+          ]
+        }
+      ]
+    }
+  ]
+}

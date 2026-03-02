@@ -1,0 +1,41 @@
+{
+  "key": "acetone",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "acetone",
+      "headword_raw": "ac\"e*tone",
+      "pr": "(s\"*tōn)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[See Acetic.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A volatile liquid (CH3.CO.CH3); pyroacetic spirit; methyl ketone; -- obtained by fermentation, the distillation of certain acetates, or by the destructive distillation of citric acid, starch, sugar, or gum, with quicklime. It is commonly used as a solvent."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The term was once also applied to a number of bodies of similar constitution, more frequently called ketones. See Ketone."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

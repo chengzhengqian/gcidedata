@@ -1,0 +1,39 @@
+{
+  "key": "acetylcholine",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "acetylcholine",
+      "headword_raw": "acetylcholine",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a neurotransmitter released by the transmitting dendron at autonomous synapses and at neuromuscular junctions. It is a quaternary amine with an obligatory negative counterion. The nominal formula for the hydroxide form is C7H17NO3. Structural formula (CH3)3N(+)CH2CH2.O.CO.CH3.OH(-)."
+          ],
+          "quotes": [],
+          "notes": [
+            "Acetylcholine is the first recognized and best-studied of the neurotransmitters. At receptors it is recycled into choline by the action of acetylcholinesterase. Acetylcholinesterase inhibitors therefore function as nerve poisons. For biochemical studies it is prepared typically in the chloride or bromide forms."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "key": "accelerated",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "accelerated",
+      "headword_raw": "accelerated",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "caused to move faster"
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "speeded up"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "caused to be completed in a shorter than normal time period; speeded up, as of an academic course; He took an accelerated curriculum, and graduated in three years. Opposite of delayed."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "expedited"
+          ]
+        }
+      ]
+    }
+  ]
+}

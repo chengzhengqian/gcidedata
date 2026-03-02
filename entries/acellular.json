@@ -1,0 +1,61 @@
+{
+  "key": "acellular",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "acellular",
+      "headword_raw": "acellular",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "not containing cells"
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "cell-free"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "not made up of or divided into cells"
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "noncellular"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "occurring outside of cells or without the participation of cells. Opposite of cellular."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "key": "physiotherapy",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "physiotherapy",
+      "headword_raw": "phys`i*o*ther\"a*py",
+      "pr": "(fz`**thr\"*p)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "physical therapy",
+        "physiatrics"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Therapy that uses physical agents: exercise and massage and so on."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

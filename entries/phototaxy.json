@@ -1,0 +1,59 @@
+{
+  "key": "phototaxy",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Phototaxy",
+      "headword_raw": "Pho\"to*tax`y",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a.",
+        "adv."
+      ],
+      "ety": "[NL. phototaxis; photo- + Gr. <?/ an arranging.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Phototactic",
+          "form_raw": "Pho`to*tac\"tic",
+          "key": "phototactic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Phototactically",
+          "form_raw": "Pho`to*tac\"tic*al*ly",
+          "key": "phototactically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Biol.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The influence of light on the movements of low organisms, as various infusorians, the zoospores of certain algæ, etc.; also, the tendency to follow definite directions of motion or assume definite positions under such influence. If the migration is toward the source of light, it is termed positive phototaxis; if away from the light, negative phototaxis."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

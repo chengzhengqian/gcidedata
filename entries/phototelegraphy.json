@@ -1,0 +1,56 @@
+{
+  "key": "phototelegraphy",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Phototelegraphy",
+      "headword_raw": "Pho`to*te*leg\"ra*phy",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Phototelegraph",
+          "form_raw": "Pho`to*tel\"e*graph",
+          "key": "phototelegraph",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Phototelegraphic",
+          "form_raw": "Pho`to*tel`e*graph\"ic",
+          "key": "phototelegraphic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Telegraphy by means of light, as by the heliograph or the photophone. Also, less properly, telephotography."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

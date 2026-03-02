@@ -1,0 +1,54 @@
+{
+  "key": "phototopography",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Phototopography",
+      "headword_raw": "Pho`to*to*pog\"ra*phy",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Phototopographic",
+          "form_raw": "Pho`to*top`o*graph\"ic",
+          "key": "phototopographic",
+          "pos": [],
+          "pr": "(#)"
+        },
+        {
+          "form": "Phototopographical",
+          "form_raw": "Pho`to*top`o*graph\"ic*al",
+          "key": "phototopographical",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Photogrammetry."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

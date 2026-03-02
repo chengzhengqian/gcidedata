@@ -1,0 +1,63 @@
+{
+  "key": "photosynthesis",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Photosynthesis",
+      "headword_raw": "Pho`to*syn\"the*sis",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl.",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Photosynthetic",
+          "form_raw": "Pho`to*syn*thet\"ic",
+          "key": "photosynthetic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Photosynthetically",
+          "form_raw": "Pho`to*syn*thet\"ic*al*ly",
+          "key": "photosynthetically",
+          "pos": [
+            "adv."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Plant Physiol.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The process of constructive metabolism in which green plants utilize the energy of sunlight to manufacture carbohydrates from carbon dioxide and water in the presence of chlorophyll. It was formerly called assimilation, but this is now commonly used as in animal physiology."
+          ],
+          "quotes": [],
+          "notes": [
+            "In green plants water is absorbed by the roots and carried to the leaves by the xylem, and carbon dioxide is obtained from air that enters the leaves through the stomata and diffuses to the cells containing chlorophyll. The green pigment chlorophyll is uniquely capable of converting the active energy of light into a latent form that can be stored (in food) and used when needed. The initial process in photosynthesis is the decomposition of water (H2O) into oxygen, which is released, and hydrogen; direct light is required for this process. The hydrogen and the carbon and oxygen of carbon dioxide (CO2) are then converted into a series of increasingly complex compounds that result finally in a stable organic compound, glucose (C6H12O6 ), and water. This phase of photosynthesis utilizes stored energy and therefore can proceed in the dark. The simplified equation used to represent this overall process is 6CO2+12H2O+energy=C6H12O6+6O2+6H2 O. In general, the results of this process are the reverse of those in respiration, in which carbohydrates are oxidized to release energy, with the production of carbon dioxide and water. The intermediary reactions before glucose is formed involve several enzymes, which react with the coenzyme ATP (see adenosine triphosphate ) to produce various molecules. Studies using radioactive carbon have indicated that among the intermediate products are three-carbon molecules from which acids and amino acids, as well as glucose, are derived.",
+            "The role of chlorophyll Chlorophyll contains a hydrophyllic head group and a hydrophobic tail region. A magnesium atom is held in the center of a cyclic, conjugated double bond porphyrin ring which is responsible for absorbing red light. (There also is an absorption band in the blue. Thus red and blue are absorbed and green passes through, giving plants a characteristic green color.) Light is absorbed by antenna chlorophyll molecules, then transferred to the reaction center chlorophylls. Some hundreds of antenna chlorophyll molecules transfer energy to a reaction center, with transfer times of about 10-10 sec from the edge of the unit to the center. The energy from light is used to pump H+ ions from the stroma into the thylakoid space and to reduce NADP+ to NADPH. Flow of H+ back into the stroma releases energy which is used to phosphorylate ADP to ATP. The chemiosmotic coupling is working here in a similar way to the mechanism of ATP generation used in mitochondria. Carbon Fixation Carbon fixation is catalyzed by ribulose bisphosphate carboxylase (RuBP carboxylase), the world's most abundent enzyme. The Calvin cycle combines three carbon dioxide molecules into one molecule of three carbon glyceraldehyde 3-phosphate. Some plants, particularly many which live in hot, dry climates, have a mechanism for storing carbon dioxide by combining it with a three carbon molecule to form a four carbon molecule. This pathway is known as the C4 or Hatch-Slack pathway."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

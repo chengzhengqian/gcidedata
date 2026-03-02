@@ -1,0 +1,51 @@
+{
+  "key": "phototropism",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Phototropism",
+      "headword_raw": "Pho*tot\"ro*pism",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Photo- + Gr. <?/ to turn.]",
+      "sources": [
+        "Webster 1913 Suppl.",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Plant Physiol.)"
+          ],
+          "defs": [
+            "The tendency of growing plant organs to move or curve under the influence of light. In ordinary use the term is practically synonymous with heliotropism."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Microbiology)"
+          ],
+          "defs": [
+            "exhibiting movement in a direction toward (positive phototropism) or away from (negative phototropism) a source of light."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "key": "pierce",
+  "source_file": "CIDE.P",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Pierce",
+      "headword_raw": "Pierce",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OE. percen, F. percer, OF. percier, perchier, parchier; perh. fr. (assumed) LL. pertusiare for pertusare, fr. L. pertundere, pertusum, to beat, push, bore through; per through + tundere to beat: cf. OF. pertuisier to pierce, F. pertuis a hole. Cf. Contuse, Parch, Pertuse.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Pierced (?); p. pr. & vb. n. Piercing (?).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To thrust into, penetrate, or transfix, with a pointed instrument."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To penetrate; to enter; to force a way into or through; to pass into or through; as, to pierce the enemy's line; a shot pierced the ship."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Fig.: To penetrate; to affect deeply; as, to pierce a mystery."
+          ],
+          "quotes": [
+            "Can no prayers pierce thee?"
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Pierce",
+      "headword_raw": "Pierce",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To enter; to penetrate; to make a way into or through something, as a pointed instrument does; -- used literally and figuratively."
+          ],
+          "quotes": [
+            "And pierced to the skin, but bit no more.",
+            "She would not pierce further into his meaning."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

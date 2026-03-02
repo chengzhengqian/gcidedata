@@ -1,0 +1,47 @@
+{
+  "key": "physician",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Physician",
+      "headword_raw": "Phy*si\"cian",
+      "pr": "(f*zsh\"n)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. fisician, fisicien, OF. physucien, a physician, in F., a natural philosopher, an experimentalist in physics. See Physic.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A person skilled in medicine, or the art of healing; especially, one trained and licensed to treat illness and prescribe medicines; a doctor of medicine."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Hence, figuratively, one who ministers to moral diseases; as, a physician of the soul."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

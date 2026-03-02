@@ -1,0 +1,54 @@
+{
+  "key": "pickerel",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Pickerel",
+      "headword_raw": "Pick\"er*el",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Dim. of Pike.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A young or small pike."
+          ],
+          "quotes": [
+            "Bet [better] is, quoth he, a pike than a pickerel."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Zool.)",
+            "(Bot.)"
+          ],
+          "defs": [
+            "Any one of several species of freshwater fishes of the genus Esox, esp. the smaller species.",
+            "The glasseye, or wall-eyed pike. See Wall-eye."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The federation, or chain, pickerel (Esox reticulatus) and the brook pickerel (Esox Americanus) are the most common American species. They are used for food, and are noted for their voracity. About the Great Lakes the pike is called pickerel."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

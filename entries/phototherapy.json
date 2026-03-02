@@ -1,0 +1,56 @@
+{
+  "key": "phototherapy",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Phototherapy",
+      "headword_raw": "Pho`to*ther\"a*py",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Phototherapic",
+          "form_raw": "Pho`to*the*rap\"ic",
+          "key": "phototherapic",
+          "pos": [],
+          "pr": "(#)"
+        },
+        {
+          "form": "Phototherapeutic",
+          "form_raw": "Pho`to*ther`a*peu\"tic",
+          "key": "phototherapeutic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The application of light for therapeutic purposes, esp. for treating diseases of the skin."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

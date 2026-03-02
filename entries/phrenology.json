@@ -1,0 +1,51 @@
+{
+  "key": "phrenology",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Phrenology",
+      "headword_raw": "Phre*nol\"o*gy",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. frh`n, freno`s, the mind + -logy: cf. F. phrnologie.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The science of the special functions of the several parts of the brain, or of the supposed connection between the various faculties of the mind and particular organs in the brain."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "In popular usage, the obsolete physiological hypothesis of Gall, that the mental faculties, and traits of character, are shown on the surface of the head or skull; craniology. it is considered a pseudo-science by all reputable medical personnel, but is still believed by some people."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Gall marked out on his model of the head the places of twenty-six organs, as round inclosures with vacant interspaces. Spurzheim and Combe divided the whole scalp into oblong and conterminous patches."
+          ],
+          "synonyms": [
+            "craniognomy"
+          ]
+        }
+      ]
+    }
+  ]
+}

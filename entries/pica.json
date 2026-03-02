@@ -1,0 +1,81 @@
+{
+  "key": "pica",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Pica",
+      "headword_raw": "Pi\"ca",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. pica a pie, magpie; in sense 3 prob. named from some resemblance to the colors of the magpie. Cf. Pie magpie.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "The genus that includes the magpies."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "A vitiated appetite that craves what is unfit for food, such as clay, chalk, ashes, coal, etc.; chthonophagia."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "allotriophagy"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(R. C. Ch.)"
+          ],
+          "defs": [
+            "A service-book. See Pie."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Print.)",
+            "(Print.)"
+          ],
+          "defs": [
+            "A size of type next larger than small pica, and smaller than English."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ This line is printed in pica",
+            "☞ Pica is twice the size of nonpareil, and is used as a standard of measurement in casting leads, cutting rules, etc., and also as a standard by which to designate several larger kinds of type, as double pica, two-line pica, four-line pica, and the like.",
+            "☞ This line is printed in small pica"
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

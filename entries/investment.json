@@ -1,0 +1,75 @@
+{
+  "key": "investment",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Investment",
+      "headword_raw": "In*vest\"ment",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of investing, or the state of being invested."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That with which anyone is invested; a vestment."
+          ],
+          "quotes": [
+            "Whose white investments figure innocence."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Mil.)"
+          ],
+          "defs": [
+            "The act of surrounding, blocking up, or besieging by an armed force, or the state of being so surrounded."
+          ],
+          "quotes": [
+            "The capitulation was signed by the commander of the fort within six days after its investments."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "The laying out of money in the purchase of some species of property; also, the amount of money invested, or that in which money is invested."
+          ],
+          "quotes": [
+            "Before the investment could be made, a change of the market might render it ineligible.",
+            "An investment in ink, paper, and steel pens."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

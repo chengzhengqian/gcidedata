@@ -1,0 +1,57 @@
+{
+  "key": "irascible",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Irascible",
+      "headword_raw": "I*ras\"ci*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[L. irascibilis, fr. irasci to be angry, ira anger: cf. F. irascible. See Ire.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Irascibleness",
+          "form_raw": "I*ras\"ci*ble*ness",
+          "key": "irascibleness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Irascibly",
+          "form_raw": "I*ras\"ci*bly",
+          "key": "irascibly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Prone to anger; easily provoked or inflamed to anger; choleric; irritable; as, an irascible man; an irascible temper or mood."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

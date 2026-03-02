@@ -1,0 +1,94 @@
+{
+  "key": "inverse",
+  "source_file": "CIDE.I",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Inverse",
+      "headword_raw": "In*verse\"",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. inversus, p. p. of invertere: cf. F. inverse. See Invert.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Opposite in order, relation, or effect; reversed; inverted; reciprocal; -- opposed to direct."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Bot.)"
+          ],
+          "defs": [
+            "Inverted; having a position or mode of attachment the reverse of that which is usual."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Math.)",
+            "(Geom.)",
+            "(Geom.)",
+            "(Math.)"
+          ],
+          "defs": [
+            "Opposite in nature and effect; -- said with reference to any two operations, which, when both are performed in succession upon any quantity, reproduce that quantity; as, multiplication is the inverse operation to division. The symbol of an inverse operation is the symbol of the direct operation with -1 as an index. Thus sin-1 x means the arc or angle whose sine is x."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Inverse",
+      "headword_raw": "In\"verse",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "That which is inverse."
+          ],
+          "quotes": [
+            "Thus the course of human study is the inverse of the course of things in nature."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

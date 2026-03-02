@@ -1,0 +1,59 @@
+{
+  "key": "inviting",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Inviting",
+      "headword_raw": "In*vit\"ing",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Invitingly",
+          "form_raw": "In*vit\"ing*ly",
+          "key": "invitingly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Invitingness",
+          "form_raw": "In*vit\"ing*ness",
+          "key": "invitingness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Alluring; tempting; as, an inviting amusement or prospect."
+          ],
+          "quotes": [
+            "Nothing is so easy and inviting as the retort of abuse and sarcasm."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

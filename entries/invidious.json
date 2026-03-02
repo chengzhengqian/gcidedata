@@ -1,0 +1,81 @@
+{
+  "key": "invidious",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Invidious",
+      "headword_raw": "In*vid\"i*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. invidiosus, fr. invidia envy. See Envy, and cf. Envious.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Invidiously",
+          "form_raw": "In*vid\"i*ous*ly",
+          "key": "invidiously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Invidiousness",
+          "form_raw": "In*vid\"i*ous*ness",
+          "key": "invidiousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Envious; malignant."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Worthy of envy; desirable; enviable."
+          ],
+          "quotes": [
+            "Such a person appeareth in a far more honorable and invidious state than any prosperous man."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Likely to or intended to incur or produce ill will, or to provoke envy or resentment; hateful; offensive; as, invidious distinctions."
+          ],
+          "quotes": [
+            "Agamemnon found it an invidious affair to give the preference to any one of the Grecian heroes."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

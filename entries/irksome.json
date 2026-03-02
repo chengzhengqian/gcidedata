@@ -1,0 +1,81 @@
+{
+  "key": "irksome",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Irksome",
+      "headword_raw": "Irk\"some",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "-- Irksome, Wearisome, Tedious. These epithets describe things which give pain or disgust. Irksome is applied to something which disgusts by its nature or quality; as, an irksome task. Wearisome denotes that which wearies or wears us out by severe labor; as, wearisome employment. Tedious is applied to something which tires us out by the length of time occupied in its performance; as, a tedious speech."
+      ],
+      "wordforms": [
+        {
+          "form": "Irksomely",
+          "form_raw": "Irk\"some*ly",
+          "key": "irksomely",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Irksomeness",
+          "form_raw": "Irk\"some*ness",
+          "key": "irksomeness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Wearisome; tedious; disagreeable or troublesome by reason of long continuance or repetition; as, irksome hours; irksome tasks."
+          ],
+          "quotes": [
+            "For not to irksome toil, but to delight, He made us."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Weary; vexed; uneasy."
+          ],
+          "quotes": [
+            "Let us therefore learn not to be irksome when God layeth his cross upon us.",
+            "Wearisome nights are appointed to me.",
+            "Pity only on fresh objects stays, But with the tedious sight of woes decays."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Wearisome",
+            "tedious",
+            "tiresome",
+            "vexatious",
+            "burdensome"
+          ]
+        }
+      ]
+    }
+  ]
+}

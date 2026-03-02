@@ -1,0 +1,52 @@
+{
+  "key": "introverted",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "introverted",
+      "headword_raw": "in\"tro*vert`ed",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "examining one's own sensory and perceptual experiences. Contrasted with extrospective."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "introspective"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "marked by concern predominantly with oneself or one's own feelings. Contrasted with extroverted."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "introvert",
+            "introvertive"
+          ]
+        }
+      ]
+    }
+  ]
+}

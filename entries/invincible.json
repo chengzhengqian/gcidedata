@@ -1,0 +1,59 @@
+{
+  "key": "invincible",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Invincible",
+      "headword_raw": "In*vin\"ci*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[L. invincibilis: cf. F. invincible. See In- not, and Vincible.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Invincibleness",
+          "form_raw": "In*vin\"ci*ble*ness",
+          "key": "invincibleness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Invincibly",
+          "form_raw": "In*vin\"ci*bly",
+          "key": "invincibly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Incapable of being conquered, overcome, or subdued; unconquerable; insuperable; as, an invincible army, or obstacle."
+          ],
+          "quotes": [
+            "Lead forth to battle these my sons Invincible."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

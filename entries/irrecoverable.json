@@ -1,0 +1,66 @@
+{
+  "key": "irrecoverable",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Irrecoverable",
+      "headword_raw": "Ir`re*cov\"er*a*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Irrecoverableness",
+          "form_raw": "Ir`re*cov\"er*a*ble*ness",
+          "key": "irrecoverableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Irrecoverably",
+          "form_raw": "Ir`re*cov\"er*a*bly",
+          "key": "irrecoverably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Irreparable",
+        "irretrievable",
+        "irremediable",
+        "unalterable",
+        "incurable",
+        "hopeless"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not capable of being recovered, regained, or remedied; irreparable; as, an irrecoverable loss, debt, or injury."
+          ],
+          "quotes": [
+            "That which is past is gone and irrecoverable."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

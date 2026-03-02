@@ -1,0 +1,38 @@
+{
+  "key": "ionophore",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "ionophore",
+      "headword_raw": "i*on\"o*phore`",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[ion + -phore]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Biochemistry)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A compound that enhances transport of ions across cellular membranes, by binding them and carrying them across. As a class ionophores tend to be lipophilic in nature; each compound is usually specific for one or a small number of ions."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

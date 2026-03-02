@@ -1,0 +1,70 @@
+{
+  "key": "irreducible",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Irreducible",
+      "headword_raw": "Ir`re*du\"ci*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Irreducibleness",
+          "form_raw": "Ir`re*du\"ci*ble*ness",
+          "key": "irreducibleness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Irreducibly",
+          "form_raw": "Ir`re*du\"ci*bly",
+          "key": "irreducibly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Incapable of being reduced, or brought into a different state; incapable of restoration to its proper or normal condition; as, an irreducible hernia."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)",
+            "(Alg.)"
+          ],
+          "defs": [
+            "Incapable of being reduced to a simpler form of expression; as, an irreducible formula."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "key": "iodothyrin",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Iodothyrin",
+      "headword_raw": "I`o*do*thy\"rin",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Iodo- + thyro- + -in.]",
+      "sources": [
+        "Webster 1913 Suppl.",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physiol. Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A peculiar substance obtained from the thyroid gland, containing from nine to ten per cent of iodine."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ It is a very stable compound, and is believed to be active principle in thyroid extracts and in the internal secretion of the thyroid gland. It was originally called thyroiodin.",
+            "☞ It is probably an impure extract of thyroid gland, containing thyroxine. See Merck Index 11th Ed. #9345, the entry for thyroidin."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "key": "invoice",
+  "source_file": "CIDE.I",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Invoice",
+      "headword_raw": "In\"voice`",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. envois things sent, goods forwarded, pl. of envoi a sending or things sent, fr. envoyer to send; cf. F. lettre d'envoi letter of advice of goods forwarded. See Envoy.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Com.)"
+          ],
+          "defs": [
+            "A written account of the particulars of merchandise shipped or sent to a purchaser, consignee, factor, etc., with the value or prices and charges annexed."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The lot or set of goods as shipped or received; as, the merchant receives a large invoice of goods."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Invoice",
+      "headword_raw": "In\"voice`",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Invoiced (?); p. pr. & vb. n. Invoicing (?).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To make a written list or account of, as goods to be sent to a consignee; to insert in a priced list; to write or enter in an invoice."
+          ],
+          "quotes": [
+            "Goods, wares, and merchandise imported from Norway, and invoiced in the current dollar of Norway."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

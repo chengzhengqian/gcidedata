@@ -1,0 +1,56 @@
+{
+  "key": "boo-boo",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "boo-boo",
+      "headword_raw": "boo-boo",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "an embarrassing mistake."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "blunder",
+            "blooper",
+            "bungle",
+            "foul-up",
+            "flub",
+            "botch",
+            "boner",
+            "misdoing"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a minor injury, such as an abrasion on the skin; -- child's talk."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

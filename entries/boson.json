@@ -1,0 +1,67 @@
+{
+  "key": "boson",
+  "source_file": "CIDE.B",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "boson",
+      "headword_raw": "bo\"son",
+      "pr": "(bō\"zn)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[From S. N. Bose, an Indian physicist.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A fundamental particle that obeys Bose-Einstein statistical rules, but not the Pauli exclusion principle; the spin value of a boson is always an integer. Examples of bosons are alpha particles, photons, and those nuclei which have an even mass number."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "boson",
+      "headword_raw": "bo\"son",
+      "pr": "(bō\"s'n)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "See Boatswain."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

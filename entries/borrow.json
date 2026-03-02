@@ -1,0 +1,130 @@
+{
+  "key": "borrow",
+  "source_file": "CIDE.B",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Borrow",
+      "headword_raw": "Bor\"row",
+      "pr": "(<?/)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OE. borwen, AS. borgian, fr. borg, borh, pledge; akin to D. borg, G. borg; prob. fr. root of AS. beorgan to protect. <?/95. See 1st Borough.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Borrowed (<?/); p. pr. & vb. n. Borrowing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To receive from another as a loan, with the implied or expressed intention of returning the identical article or its equivalent in kind; -- the opposite of lend."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Arith.)"
+          ],
+          "defs": [
+            "To take (one or more) from the next higher denomination in order to add it to the next lower; -- a term of subtraction when the figure of the subtrahend is larger than the corresponding one of the minuend."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To copy or imitate; to adopt; as, to borrow the style, manner, or opinions of another."
+          ],
+          "quotes": [
+            "Rites borrowed from the ancients.",
+            "It is not hard for any man, who hath a Bible in his hands, to borrow good words and holy sayings in abundance; but to make them his own is a work of grace only from above."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "To feign or counterfeit."
+          ],
+          "quotes": [
+            "The borrowed majesty of England."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "To receive; to take; to derive."
+          ],
+          "quotes": [
+            "Any drop thou borrowedst from thy mother."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Borrow",
+      "headword_raw": "Bor\"row",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Something deposited as security; a pledge; a surety; a hostage."
+          ],
+          "quotes": [
+            "Ye may retain as borrows my two priests."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The act of borrowing."
+          ],
+          "quotes": [
+            "Of your royal presence I'll adventure The borrow of a week."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

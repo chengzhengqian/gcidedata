@@ -1,0 +1,38 @@
+{
+  "key": "bose-einstein_statistics",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Bose-Einstein statistics",
+      "headword_raw": "Bo`se-Ein\"stein sta*tis\"tics",
+      "pr": "(bō`z īn\"stīn st*ts\"tks)",
+      "pos": [
+        "prop. n."
+      ],
+      "ety": "[From physicists S. N. Bose, and Albert Einstein.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A law of statistical mechanics which is obeyed by a system of particles when interchange of two particles does not change the wave function. Contrasted to Fermi-Dirac statistics. See also boson."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

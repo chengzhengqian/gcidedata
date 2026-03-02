@@ -1,0 +1,52 @@
+{
+  "key": "bounds",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "bounds",
+      "headword_raw": "bounds",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "the line or plane indicating the limit or extent of something; as, the football was caught out of bounds."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "boundary",
+            "bound"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "the greatest possible extent or degree of something."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "limit",
+            "boundary"
+          ]
+        }
+      ]
+    }
+  ]
+}

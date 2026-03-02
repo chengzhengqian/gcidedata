@@ -1,0 +1,68 @@
+{
+  "key": "bottle-nosed_dolphin",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Bottle-nosed dolphin",
+      "headword_raw": "Bot\"tle-nosed` dolphin",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "+PJC",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Zool.)"
+      ],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A grey cetacean of the Dolphin family, of several species, as Delphinus Tursio and Lagenorhyncus leucopleurus, of Europe."
+          ],
+          "quotes": [],
+          "notes": [
+            "Also Tursiops truncatus -- a synonym?"
+          ],
+          "synonyms": [
+            "bottlenose dolphin"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The puffin."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "a north Atlantic beaked whale with a bulbous forehead."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "bottle-nosed whale",
+            "bottlenose whale",
+            "Hyperoodon ampullatus"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "key": "boogie",
+  "source_file": "CIDE.B",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "boogie",
+      "headword_raw": "boogie",
+      "pr": "(b\"gē)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Music)"
+          ],
+          "defs": [
+            "An instrumental version of the blues (especially for piano)."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "boogie-woogie"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A black person; -- offensive and disparaging."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "boogie",
+      "headword_raw": "boog\"ie",
+      "pr": "(bg\"ē)",
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To do a lively dance, often with the two partners not touching, to the accompaniment of rock music."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

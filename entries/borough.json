@@ -1,0 +1,79 @@
+{
+  "key": "borough",
+  "source_file": "CIDE.B",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Borough",
+      "headword_raw": "Bor\"ough",
+      "pr": "(<?/)",
+      "pos": [
+        "n.",
+        "v. t."
+      ],
+      "ety": "[OE. burgh, burw, boru, port, town, burrow, AS. burh, burg; akin to Icel., Sw., & Dan. borg, OS. & D. burg, OHG. puruc, purc, MHG. burc, G. burg, Goth. bargs; and from the root of AS. beorgan to hide, save, defend, G. bergen; or perh. from that of AS. beorg hill, mountain. √95. See Bury, v. t., and cf. Burrow, Burg, Bury, n., Burgess, Iceberg, Borrow, Harbor, Hauberk.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "In England, an incorporated town that is not a city; also, a town that sends members to parliament; in Scotland, a body corporate, consisting of the inhabitants of a certain district, erected by the sovereign, with a certain jurisdiction; in America, an incorporated town or village, as in Pennsylvania and Connecticut."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The collective body of citizens or inhabitants of a borough; as, the borough voted to lay a tax."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Borough",
+      "headword_raw": "Bor\"ough",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[See Borrow.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(O. Eng. Law)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An association of men who gave pledges or sureties to the king for the good behavior of each other.",
+            "The pledge or surety thus given."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

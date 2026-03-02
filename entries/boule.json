@@ -1,0 +1,73 @@
+{
+  "key": "boule",
+  "source_file": "CIDE.B",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Boule",
+      "headword_raw": "Boule",
+      "pr": "(<?/)",
+      "pos": [],
+      "ety": null,
+      "sources": [],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Boule",
+      "headword_raw": "Bou\"le",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. <?/.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Gr. Antiq.)"
+          ],
+          "defs": [
+            "A legislative council of elders or chiefs; a senate."
+          ],
+          "quotes": [],
+          "notes": [
+            "The boule of Homeric times was an aristocratic body of princes and leaders, merely advisory to the king. The Athenian boule of Solon's time was an elective senate of 400, acting as a check on the popular ecclesia, for which it examined and prepared bills for discussion. It later increased to 500, chosen by lot, and extended its functions to embrace certain matters of administration and oversight."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Legislature of modern Greece. See Legislature."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

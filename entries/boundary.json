@@ -1,0 +1,52 @@
+{
+  "key": "boundary",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Boundary",
+      "headword_raw": "Bound\"a*ry",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[From Bound a limit; cf. LL. bonnarium piece of land with fixed limits.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "Bound, Boundary. Boundary, in its original and strictest sense, is a visible object or mark indicating a limit. Bound is the limit itself. But in ordinary usage the two words are made interchangeable."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [
+        "Limit",
+        "bound",
+        "border",
+        "term",
+        "termination",
+        "barrier",
+        "verge",
+        "confines",
+        "precinct"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "That which indicates or fixes a limit or extent, or marks a bound, as of a territory; a bounding or separating line; a real or imaginary limit."
+          ],
+          "quotes": [
+            "But still his native country lies Beyond the boundaries of the skies.",
+            "That bright and tranquil stream, the boundary of Louth and Meath.",
+            "Sensation and reflection are the boundaries of our thoughts."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

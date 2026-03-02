@@ -1,0 +1,47 @@
+{
+  "key": "boswellian",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Boswellian",
+      "headword_raw": "Bos*well\"i*an",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "v. i. & t."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Boswellize",
+          "form_raw": "Bos\"well*ize",
+          "key": "boswellize",
+          "pos": [
+            "v. i. & t."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Relating to, or characteristic of, Dr. Johnson's biographer, James Boswell, whose hero worship made his narrative a faithful but often uncritical record of details."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

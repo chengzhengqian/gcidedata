@@ -1,0 +1,121 @@
+{
+  "key": "bomb",
+  "source_file": "CIDE.B",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Bomb",
+      "headword_raw": "Bomb",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. bombe bombshell, fr. L. bombus a humming or buzzing noise, Gr. <?/.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A great noise; a hollow sound."
+          ],
+          "quotes": [
+            "A pillar of iron . . . which if you had struck, would make . . . a great bomb in the chamber beneath."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mil.)"
+          ],
+          "defs": [
+            "A shell; esp. a spherical shell, like those fired from mortars. See Shell."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Mil.)",
+            "(Naut.)"
+          ],
+          "defs": [
+            "A bomb ketch."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Bomb",
+      "headword_raw": "Bomb",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To bombard."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Bomb",
+      "headword_raw": "Bomb",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": "[Cf. Boom.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To sound; to boom; to make a humming or buzzing sound."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

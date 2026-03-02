@@ -1,0 +1,59 @@
+{
+  "key": "bootless",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Bootless",
+      "headword_raw": "Boot\"less",
+      "pr": "(<?/)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[From Boot profit.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Bootlessly",
+          "form_raw": "Boot\"less*ly",
+          "key": "bootlessly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Bootlessness",
+          "form_raw": "Boot\"less*ness",
+          "key": "bootlessness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Unavailing; unprofitable; useless; without advantage or success."
+          ],
+          "quotes": [
+            "I'll follow him no more with bootless prayers."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

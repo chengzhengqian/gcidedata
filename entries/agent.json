@@ -1,0 +1,100 @@
+{
+  "key": "agent",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Agent",
+      "headword_raw": "A\"gent",
+      "pr": "(<?/)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. agens, agentis, p. pr. of agere to act; akin to Gr. <?/ to lead, Icel. aka to drive, Skr. aj. √2.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Acting; -- opposed to patient, or sustaining, action."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Agent",
+      "headword_raw": "A\"gent",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One who exerts power, or has the power to act; an actor."
+          ],
+          "quotes": [
+            "Heaven made us agents, free to good or ill."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "One who acts for, or in the place of, another, by authority from him; one intrusted with the business of another; a substitute; a deputy; a factor."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "An active power or cause; that which has the power to produce an effect, such as a physical, chemical, or medicinal agent; as, heat is a powerful agent."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Biochem., Med.)"
+          ],
+          "defs": [
+            "a chemical substance having biological effects; a drug."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "key": "agnostic",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Agnostic",
+      "headword_raw": "Ag*nos\"tic",
+      "pr": "(<?/)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[Gr. 'a priv. + <?/ knowing, <?/ to know.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Agnostically",
+          "form_raw": "Ag*nos\"tic*al*ly",
+          "key": "agnostically",
+          "pos": [
+            "adv."
+          ],
+          "pr": "(<?/)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Professing ignorance; involving no dogmatic; pertaining to or involving agnosticism."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Agnostic",
+      "headword_raw": "Ag*nos\"tic",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "One who professes ignorance, or denies that we have any knowledge, save of phenomena; one who supports agnosticism, neither affirming nor denying the existence of a personal Deity, a future life, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

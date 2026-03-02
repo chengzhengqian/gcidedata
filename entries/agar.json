@@ -1,0 +1,53 @@
+{
+  "key": "agar",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "agar",
+      "headword_raw": "a\"gar",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[See agar-agar.]",
+      "sources": [
+        "PJC",
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "common shortened form of agar-agar{2}."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "gelose",
+            "agar-agar"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "any culture medium that uses agar as the gelling agent; -- used especially with a modifying prefix, as, EMB agar. The term is applied both to the dehydrated medium powder containing agar and to the gelatinous medium prepared from it."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "nutrient agar"
+          ]
+        }
+      ]
+    }
+  ]
+}

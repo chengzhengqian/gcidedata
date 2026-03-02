@@ -1,0 +1,82 @@
+{
+  "key": "agglomerated",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Agglomerated",
+      "headword_raw": "Ag*glom\"er*a`ted",
+      "pr": "(<?/)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Collected into a ball, heap, or mass."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Bot.)"
+          ],
+          "defs": [
+            "Collected into a rounded head of flowers."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "agglomerated",
+      "headword_raw": "agglomerated",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "clustered together but not coherent."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "agglomerate",
+            "agglomerative",
+            "aggregate",
+            "clustered"
+          ]
+        }
+      ]
+    }
+  ]
+}

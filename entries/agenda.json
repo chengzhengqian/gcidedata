@@ -1,0 +1,61 @@
+{
+  "key": "agenda",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "agenda",
+      "headword_raw": "agenda",
+      "pr": "(*jn\"d)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "docket",
+        "schedule"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A list of matters to be discussed (as at a meeting)."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "agendum",
+            "docket",
+            "order of business"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A motive or set of goals; as, to have one's own agenda;",
+            "a secret motive; also called hidden agenda; as, some of the news commentators themselves have an agenda."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "goal",
+            "hidden motive",
+            "secret motive",
+            "hidden agenda"
+          ]
+        }
+      ]
+    }
+  ]
+}

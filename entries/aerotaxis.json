@@ -1,0 +1,49 @@
+{
+  "key": "aerotaxis",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Aërotaxis",
+      "headword_raw": "A\"<eum/r*o*tax`is",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[NL. See Aëro-; Taxis.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Aërotactic",
+          "form_raw": "A`<eum/r*o*tac\"tic",
+          "key": "aerotactic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Bacteriology)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The positive or negative stimulus exerted by oxygen on aërobic and anaërobic bacteria."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "key": "agglutinative",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Agglutinative",
+      "headword_raw": "Ag*glu\"ti*na*tive",
+      "pr": "(<?/)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Cf. F. agglutinatif.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Pertaining to agglutination; tending to unite, or having power to cause adhesion; adhesive."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "polysynthetic",
+            "holophrastic"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Philol.)"
+          ],
+          "defs": [
+            "Formed or characterized by agglutination, as a language or a compound."
+          ],
+          "quotes": [
+            "In agglutinative languages the union of words may be compared to mechanical compounds, in inflective languages to chemical compounds.",
+            "Cf. man-kind, heir-loom, war-like, which are agglutinative compounds. The Finnish, Hungarian, Turkish, the Tamul, etc., are agglutinative languages.",
+            "Agglutinative languages preserve the consciousness of their roots."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

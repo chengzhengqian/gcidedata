@@ -1,0 +1,69 @@
+{
+  "key": "agreement",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Agreement",
+      "headword_raw": "A*gree\"ment",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. agrment.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "State of agreeing; harmony of opinion, statement, action, or character; concurrence; concord; conformity; as, a good agreement subsists among the members of the council."
+          ],
+          "quotes": [
+            "What agreement hath the temple of God with idols ?",
+            "Expansion and duration have this further agreement."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Gram.)"
+          ],
+          "defs": [
+            "Concord or correspondence of one word with another in gender, number, case, or person."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "A concurrence in an engagement that something shall be done or omitted; an exchange of promises; mutual understanding, arrangement, or stipulation; a contract.",
+            "The language, oral or written, embodying reciprocal promises."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Bargain",
+            "contract",
+            "compact",
+            "stipulation"
+          ]
+        }
+      ]
+    }
+  ]
+}

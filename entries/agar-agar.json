@@ -1,0 +1,52 @@
+{
+  "key": "agar-agar",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Agar-agar",
+      "headword_raw": "A`gar-a\"gar",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Ceylonese local name.]",
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A fucus or seaweed much used in the East for soups and jellies; Ceylon moss (Gracilaria lichenoides)."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A gelatinlike substance, or a solution of it, prepared from certain seaweeds containing gelose (such as Ceylon moss, Gracilaria lichenoides or other seaweeds of the genera Gelidium, Ceramium, Pterocladia, and Eucheuma), and used for solidifying growth media in the artificial cultivation of bacteria, or as a gelling agent in foods; -- usually called simply agar, by abbreviation."
+          ],
+          "quotes": [],
+          "notes": [
+            "In composition it is predominantly a polysaccharide, and is not degraded by most bacteria. It thus almost completely replaced the earlier protein-based gelatins used for fixing bacterial colonies on culture plates, as the gelatins were often dissolved by the proteolytic enzymes common in bacteria."
+          ],
+          "synonyms": [
+            "gelose",
+            "agar"
+          ]
+        }
+      ]
+    }
+  ]
+}

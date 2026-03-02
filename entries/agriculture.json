@@ -1,0 +1,36 @@
+{
+  "key": "agriculture",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Agriculture",
+      "headword_raw": "Ag\"ri*cul`ture",
+      "pr": "(?; 135)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. agricultura; ager field + cultura cultivation: cf. F. agriculture. See Acre and Culture.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The art or science of cultivating the ground, including the harvesting of crops, and the rearing and management of live stock; tillage; husbandry; farming."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "key": "affirm",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Affirm",
+      "headword_raw": "Af*firm\"",
+      "pr": "(f*frm\")",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OE. affermen, OF. afermer, F. affirmer, affermir, fr. L. affirmare; ad + firmare to make firm, firmus firm. See Firm.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Affirmed (-frmd\"); p. pr. & vb. n. Affirming.]",
+      "usage": [
+        "-- To Affirm, Asseverate, Aver, Protest. We affirm when we declare a thing as a fact or a proposition. We asseverate it in a peculiarly earnest manner, or with increased positiveness as what can not be disputed. We aver it, or formally declare it to be true, when we have positive knowledge of it. We protest in a more public manner and with the energy of perfect sincerity. People asseverate in order to produce a conviction of their veracity; they aver when they are peculiarly desirous to be believed; they protest when they wish to free themselves from imputations, or to produce a conviction of their innocence."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "to assert or confirm, as a judgment, decree, or order, brought before an appellate court for review."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To assert positively; to tell with confidence; to aver; to maintain as true; -- opposed to deny."
+          ],
+          "quotes": [
+            "Jesus, . . . whom Paul affirmed to be alive."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "To declare, as a fact, solemnly, under judicial sanction. See Affirmation, 4."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "assert",
+            "aver",
+            "declare",
+            "asseverate",
+            "assure",
+            "pronounce",
+            "protest",
+            "avouch",
+            "confirm",
+            "establish",
+            "ratify"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Affirm",
+      "headword_raw": "Af*firm\"",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To declare or assert positively."
+          ],
+          "quotes": [
+            "Not that I so affirm, though so it seem To thee, who hast thy dwelling here on earth."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "To make a solemn declaration, before an authorized magistrate or tribunal, under the penalties of perjury; to testify by affirmation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

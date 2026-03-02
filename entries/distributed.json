@@ -1,0 +1,52 @@
+{
+  "key": "distributed",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "distributed",
+      "headword_raw": "distributed",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC",
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "spread from a central location to multiple points or recipients. Opposite of concentrated."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "spread among a variety of securities; -- of investments."
+          ],
+          "quotes": [
+            "Distributing to the necessity of saints."
+          ],
+          "notes": [],
+          "synonyms": [
+            "diversified"
+          ]
+        }
+      ]
+    }
+  ]
+}

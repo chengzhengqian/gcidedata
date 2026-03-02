@@ -1,0 +1,61 @@
+{
+  "key": "dissolved",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "dissolved",
+      "headword_raw": "dissolved",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "changed from a solid to a liquid state by increase of temperature; melted. Opposite of unmelted."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "liquefied",
+            "liquified",
+            "melted"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "sundered by divorce, separation, or desertion; -- of social bonds and relations."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "diffused into a liquid of differing chemical composition, forming a stable solution; -- said of chemical substances."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

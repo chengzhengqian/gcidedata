@@ -1,0 +1,78 @@
+{
+  "key": "dispassionate",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Dispassionate",
+      "headword_raw": "Dis*pas\"sion*ate",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Dispassionately",
+          "form_raw": "Dis*pas\"sion*ate*ly",
+          "key": "dispassionately",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Dispassionateness",
+          "form_raw": "Dis*pas\"sion*ate*ness",
+          "key": "dispassionateness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Free from passion; not warped, prejudiced, swerved, or carried away by passion or feeling; judicial; calm; composed."
+          ],
+          "quotes": [
+            "Wise and dispassionate men."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Not dictated by passion; not proceeding from temper or bias; impartial; as, dispassionate proceedings; a dispassionate view."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Calm",
+            "cool",
+            "composed serene",
+            "unimpassioned",
+            "temperate",
+            "moderate",
+            "impartial",
+            "unruffled"
+          ]
+        }
+      ]
+    }
+  ]
+}

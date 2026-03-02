@@ -1,0 +1,50 @@
+{
+  "key": "dissolvable",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Dissolvable",
+      "headword_raw": "Dis*solv\"a*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": "[From Dissolve, cf. Dissoluble.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Dissolvableness",
+          "form_raw": "Dis*solv\"a*ble*ness",
+          "key": "dissolvableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Capable of being dissolved, or separated into component parts; capable of being liquefied; soluble."
+          ],
+          "quotes": [
+            "Though everything which is compacted be in its own nature dissolvable.",
+            "Such things as are not dissolvable by the moisture of the tongue."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

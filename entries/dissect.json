@@ -1,0 +1,52 @@
+{
+  "key": "dissect",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Dissect",
+      "headword_raw": "Dis*sect\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. dissectus, p. p. of dissecare; dis- + secare to cut. See Section.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Dissected; p. pr. & vb. n. Dissecting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Anat.)"
+          ],
+          "defs": [
+            "To divide into separate parts; to cut in pieces; to separate and expose the parts of, as an animal or a plant, for examination and to show their structure and relations; to anatomize."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To analyze, for the purposes of science or criticism; to divide and examine minutely."
+          ],
+          "quotes": [
+            "This paragraph . . . I have dissected for a sample."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

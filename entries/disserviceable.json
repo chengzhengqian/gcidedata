@@ -1,0 +1,57 @@
+{
+  "key": "disserviceable",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Disserviceable",
+      "headword_raw": "Dis*serv\"ice*a*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Disserviceableness",
+          "form_raw": "Dis*serv\"ice*a*ble*ness",
+          "key": "disserviceableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Disserviceably",
+          "form_raw": "Dis*serv\"ice*a*bly",
+          "key": "disserviceably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Calculated to do disservice or harm; not serviceable; injurious; harmful; unserviceable."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

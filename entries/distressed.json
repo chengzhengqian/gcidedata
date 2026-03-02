@@ -1,0 +1,79 @@
+{
+  "key": "distressed",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "distressed",
+      "headword_raw": "distressed",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "facing or experiencing financial trouble or difficulty; as, distressed companies need loans and technical advice."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "hard-pressed",
+            "hard put",
+            "in a bad way(predicate)",
+            "in trouble(predicate)"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "experiencing a generalized feeling of distress."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "dysphoric",
+            "unhappy"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "suffering severe physical strain or discomfort; as, he dropped out of the race, clearly distressed and having difficulty breathing."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "stressed",
+            "in a bad way(predicate)"
+          ]
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "emotionally upset."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "unstrung"
+          ]
+        }
+      ]
+    }
+  ]
+}

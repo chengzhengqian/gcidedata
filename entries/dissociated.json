@@ -1,0 +1,52 @@
+{
+  "key": "dissociated",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "dissociated",
+      "headword_raw": "dissociated",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "not connected or associated."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "unconnected"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "diffusing independently in a fluid; -- said of ions or molecules which may form relatively stable associated structures; as, the products become rapidly dissociated from the active site of the enzyme. Opposite of associated."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

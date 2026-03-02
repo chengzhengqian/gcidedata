@@ -1,0 +1,38 @@
+{
+  "key": "disposable_income",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "disposable income",
+      "headword_raw": "dis*pos\"a*ble in\"come",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Economics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "that portion of income which is available for spending on discretionary purchases; for individuals, it is usually calculated as total income less taxes. National disposable income, which is the disposable income of all individuals and businesses, is calculated as total national income minus taxes plus transfer payments."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

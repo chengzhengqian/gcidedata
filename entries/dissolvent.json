@@ -1,0 +1,80 @@
+{
+  "key": "dissolvent",
+  "source_file": "CIDE.D",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "dissolvent",
+      "headword_raw": "dis*solv\"ent",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. dissolvens, -entis, p. pr. of dissolvere.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Having power to dissolve power to dissolve a solid body; as, the dissolvent juices of the stomach."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Dissolvent",
+      "headword_raw": "Dis*solv\"ent",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "That which has the power of dissolving or melting other substances, esp. by mixture with them; a menstruum; a solvent."
+          ],
+          "quotes": [
+            "Melted in the crucible dissolvents.",
+            "The secret treaty of December acted as an immediate dissolvent to the truce."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "A remedy supposed capable of dissolving concretions in the body, such as calculi, tubercles, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

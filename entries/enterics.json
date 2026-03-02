@@ -1,0 +1,39 @@
+{
+  "key": "enterics",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "enterics",
+      "headword_raw": "enterics",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "enteric bacteria",
+        "enterobacteria"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "rod-shaped gram-negative bacteria of the family Enterobacteriaceae; most occur normally or pathogenically in intestines of humans and other animals; those of the genus Erwinia are found in plants."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

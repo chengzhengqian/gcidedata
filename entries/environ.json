@@ -1,0 +1,73 @@
+{
+  "key": "environ",
+  "source_file": "CIDE.E",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Environ",
+      "headword_raw": "En*vi\"ron",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[F. environner, fr. environ about, thereabout; pref. en- (L. in) + OF. viron circle, circuit, fr. OF. & F. virer to turn, LL. virare to turn up and down, topsy-turvy. Cf. Veer.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Environed (?); p. pr. & vb. n. Environing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To surround; to encompass; to encircle; to hem in; to be round about; to involve or envelop."
+          ],
+          "quotes": [
+            "Dwelling in a pleasant glade, With mountains round about environed.",
+            "Environed he was with many foes.",
+            "Environ me with darkness whilst I write."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Environ",
+      "headword_raw": "En*vi\"ron",
+      "pr": null,
+      "pos": [
+        "adv."
+      ],
+      "ety": "[F.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "About; around."
+          ],
+          "quotes": [
+            "Lord Godfrey's eye three times environ goes."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

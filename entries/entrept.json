@@ -1,0 +1,49 @@
+{
+  "key": "entrept",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Entrept",
+      "headword_raw": "En`tre*p<ocir/t\"",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F.]",
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A warehouse; a magazine for depositing goods, stores, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a port where merchandise can be imported and re-exported with paying import duties; a mart or place where merchandise is deposited; as, an entrept for shipping goods in transit."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "transshipment center"
+          ]
+        }
+      ]
+    }
+  ]
+}

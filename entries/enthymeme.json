@@ -1,0 +1,38 @@
+{
+  "key": "enthymeme",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Enthymeme",
+      "headword_raw": "En\"thy*meme",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. <?/, fr. <?/ to keep in mind, consider; <?/ in + <?/ mind, soul.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Logic)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An argument consisting of only two propositions, an antecedent and consequent deduced from it; a syllogism with one premise omitted; as, We are dependent; therefore we should be humble. Here the major proposition is suppressed. The complete syllogism would be, Dependent creatures should be humble; we are dependent creatures; therefore we should be humble."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

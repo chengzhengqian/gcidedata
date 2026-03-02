@@ -1,0 +1,61 @@
+{
+  "key": "ephemeris",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Ephemeris",
+      "headword_raw": "E*phem\"e*ris",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L., a diary, Gr. <?/, also, a calendar, fr. <?/. See Ephemera.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A diary; a journal."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Anat.)"
+          ],
+          "defs": [
+            "A publication giving the computed places of the heavenly bodies for each day of the year, with other numerical data, for the use of the astronomer and navigator; an astronomical almanac; as, the “American Ephemeris and Nautical Almanac.”",
+            "Any tabular statement of the assigned places of a heavenly body, as a planet or comet, on several successive days."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Literature)"
+          ],
+          "defs": [
+            "A collective name for reviews, magazines, and all kinds of periodical literature."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

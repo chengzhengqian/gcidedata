@@ -1,0 +1,96 @@
+{
+  "key": "envious",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Envious",
+      "headword_raw": "En\"vi*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[OF. envios, F. envieux, fr. L. invidiosus, fr. invidia envy. See Envy, and cf. Invidious.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Enviously",
+          "form_raw": "En\"vi*ous*ly",
+          "key": "enviously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Enviousness",
+          "form_raw": "En\"vi*ous*ness",
+          "key": "enviousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Malignant; mischievous; spiteful."
+          ],
+          "quotes": [
+            "Each envious brier his weary legs doth scratch."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Feeling or exhibiting envy; actuated or directed by, or proceeding from, envy; -- said of a person, disposition, feeling, act, etc.; jealously pained by the excellence or good fortune of another; maliciously grudging; -- followed by of, at, and against; as, an envious man, disposition, attack; envious tongues."
+          ],
+          "quotes": [
+            "My soul is envious of mine eye.",
+            "Neither be thou envious at the wicked."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Inspiring envy."
+          ],
+          "quotes": [
+            "He to him leapt, and that same envious gage Of victor's glory from him snatched away."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Excessively careful; cautious."
+          ],
+          "quotes": [
+            "No men are so envious of their health."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

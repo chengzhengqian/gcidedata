@@ -1,0 +1,76 @@
+{
+  "key": "ensue",
+  "source_file": "CIDE.E",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Ensue",
+      "headword_raw": "En*sue\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OF. ensevre, OF. & F. ensuivre, fr. L. insequi; in + sequi to pursue. See Sue.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Ensued (?); p. pr. & vb. n. Ensuing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To follow; to pursue; to follow and overtake."
+          ],
+          "quotes": [
+            "To ensue his example in doing the like mischief."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Ensue",
+      "headword_raw": "En*sue\"",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "follow",
+        "pursue",
+        "succeed. See Follow"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To follow or come afterward; to follow as a consequence or in chronological succession; to result; as, an ensuing conclusion or effect; the year ensuing was a cold one."
+          ],
+          "quotes": [
+            "So spoke the Dame, but no applause ensued.",
+            "Damage to the mind or the body, or to both, ensues, unless the exciting cause be presently removed."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "key": "entropy",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Entropy",
+      "headword_raw": "En\"tro*py",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. <?/ a turning in; <?/ in + <?/ a turn, fr. <?/ to turn.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Thermodynamics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A certain property of a body, expressed as a measurable quantity, such that when there is no communication of heat the quantity remains constant, but when heat enters or leaves the body the quantity increases or diminishes. If a small amount, h, of heat enters the body when its temperature is t in the thermodynamic scale the entropy of the body is increased by h ÷ t. The entropy is regarded as measured from some standard temperature and pressure. Sometimes called the thermodynamic function."
+          ],
+          "quotes": [
+            "The entropy of the universe tends towards a maximum."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "key": "envelop",
+  "source_file": "CIDE.E",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Envelop",
+      "headword_raw": "En*vel\"op",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OE. envolupen, envolipen, OF. envoluper, envoleper, F. envelopper; pref. en- (L. in) + voluper, voleper. See Develop.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Enveloped (?); p. pr. & vb. n. Enveloping.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To put a covering about; to wrap up or in; to inclose within a case, wrapper, integument or the like; to surround entirely; as, to envelop goods or a letter; the fog envelops a ship."
+          ],
+          "quotes": [
+            "Nocturnal shades this world envelop."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Envelop",
+      "headword_raw": "En*vel\"op",
+      "pr": "(?; 277)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. enveloppe.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "That which envelops, wraps up, encases, or surrounds; a wrapper; an inclosing cover; esp., the cover or wrapper of a document, as of a letter."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Astron.)"
+          ],
+          "defs": [
+            "The nebulous covering of the head or nucleus of a comet; -- called also coma."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Fort.)"
+          ],
+          "defs": [
+            "A work of earth, in the form of a single parapet or of a small rampart. It is sometimes raised in the ditch and sometimes beyond it."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Geom.)"
+          ],
+          "defs": [
+            "A curve or surface which is tangent to each member of a system of curves or surfaces, the form and position of the members of the system being allowed to vary according to some continuous law. Thus, any curve is the envelope of its tangents."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "A set of limits for the performance capabilities of some type of machine, originally used to refer to aircraft; -- it is often described graphically as a two-dimensional graph of a function showing the maximum of one performance variable as a function of another. Now it is also used metaphorically to refer to capabilities of any system in general, including human organizations, esp. in the phrase push the envelope. It is used to refer to the maximum performance available at the current state of the technology, and therefore refers to a class of machines in general, not a specific machine."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "key": "epical",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Epical",
+      "headword_raw": "Ep\"ic*al",
+      "pr": "(<?/)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Epically",
+          "form_raw": "Ep\"ic*al*ly",
+          "key": "epically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Epic."
+          ],
+          "quotes": [
+            "Poems which have an epical character.",
+            "His [Wordsworth's] longer poems (miscalled epical)."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "key": "entitle",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Entitle",
+      "headword_raw": "En*ti\"tle",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OF. entituler, F. intituler, LL. intitulare, fr. L. in + titulus title. See Title, and cf. Intitule.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Entitled (?); p. pr. & vb. n. Entitling (?).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To give a title to; to affix to as a name or appellation; hence, also, to dignify by an honorary designation; to denominate; to call; as, to entitle a book “Commentaries;” to entitle a man “Honorable.”"
+          ],
+          "quotes": [
+            "That which . . . we entitle patience."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To give a claim to; to qualify for, with a direct object of the person, and a remote object of the thing; to furnish with grounds for seeking or claiming with success; as, an officer's talents entitle him to command."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To attribute; to ascribe."
+          ],
+          "quotes": [
+            "The ancient proverb . . . entitles this work . . . peculiarly to God himself."
+          ],
+          "notes": [],
+          "synonyms": [
+            "name",
+            "designate",
+            "style",
+            "characterize",
+            "empower",
+            "qualify",
+            "enable",
+            "fit"
+          ]
+        }
+      ]
+    }
+  ]
+}

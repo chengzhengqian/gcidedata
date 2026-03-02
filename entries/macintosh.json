@@ -1,0 +1,49 @@
+{
+  "key": "macintosh",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Macintosh",
+      "headword_raw": "Mac\"in*tosh",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Trademark.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Same as Mackintosh."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "A brand of personal computer featuring an integrated system in which the hardware and system-operating software were designed by or under the control of a single company, the Apple Computer Corporation; among personal computers, distinguished from the IBM-compatible or Intel-based series of computers."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

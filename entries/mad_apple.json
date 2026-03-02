@@ -1,0 +1,59 @@
+{
+  "key": "mad_apple",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Mad apple",
+      "headword_raw": "Mad\" ap`ple",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Bot.)"
+          ],
+          "defs": [
+            "The eggplant bush (Solanum melongena). See Eggplant."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "eggplant",
+            "aubergine",
+            "brinjal",
+            "eggplant bush",
+            "garden egg",
+            "Solanum melongena"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The fruit of the eggplant bush, a large egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "eggplant",
+            "aubergine"
+          ]
+        }
+      ]
+    }
+  ]
+}

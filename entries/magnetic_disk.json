@@ -1,0 +1,39 @@
+{
+  "key": "magnetic_disk",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "magnetic disk",
+      "headword_raw": "magnetic disk",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "disk",
+        "disc"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A ditical memory device consisting of a flat disk covered with a magnetic coating on which information is stored; a hard disk, floppy disk, and diskette are typically magnetic disks."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

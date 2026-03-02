@@ -1,0 +1,53 @@
+{
+  "key": "made-to-order",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "made-to-order",
+      "headword_raw": "made-to-order",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "made specially for a specific purpose; -- of articles of manufacture. Contrasted with mass-produced, standard."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "custom-made"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "made or tailored to fit a specific person; -- of clothing. Contrasted with off-the-rack, ready-to-wear."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "custom-made",
+            "custom-tailored"
+          ]
+        }
+      ]
+    }
+  ]
+}

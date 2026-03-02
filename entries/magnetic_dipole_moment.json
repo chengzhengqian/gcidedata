@@ -1,0 +1,36 @@
+{
+  "key": "magnetic_dipole_moment",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "magnetic dipole moment",
+      "headword_raw": "magnetic dipole moment",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A physical quantity associated with the magnetic field of a dundamental particle; as, An orbiting electron in an atom will have a magnetic dipole moment."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "key": "macromolecule",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "macromolecule",
+      "headword_raw": "mac`ro*mol\"e*cule",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem., Biochem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A very large molecule, especially a polymer having from hundreds to many thousands of atoms, such as DNA, RNA, protein, polysaccharide, polyethylene, polycarbonate, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

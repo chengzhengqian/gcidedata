@@ -1,0 +1,80 @@
+{
+  "key": "macule",
+  "source_file": "CIDE.M",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Macule",
+      "headword_raw": "Mac\"ule",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. macule. See Macula.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A spot."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Print.)"
+          ],
+          "defs": [
+            "A blur, or an appearance of a double impression, as when the paper slips a little; a mackle."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Macule",
+      "headword_raw": "Mac\"ule",
+      "pr": null,
+      "pos": [
+        "v. t.",
+        "v."
+      ],
+      "ety": "[Cf. F. maculer. See Maculate, v.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Print.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To blur; especially (Print.), to blur or double an impression from type. See Mackle."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

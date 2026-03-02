@@ -1,0 +1,39 @@
+{
+  "key": "magnetic_tape",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "magnetic tape",
+      "headword_raw": "magnetic tape",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "mag tape",
+        "tape"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A long thin plastic ribbon coated with iron oxide or other ferromagnetic material, used to record audio or video signals digital data in the form of small magnetized regions on the tape; it is a common digital data storage medium for computer information."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

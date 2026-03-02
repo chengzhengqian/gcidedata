@@ -1,0 +1,54 @@
+{
+  "key": "magnet",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Magnet",
+      "headword_raw": "Mag\"net",
+      "pr": "(mg\"nt)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. magnete, OF. magnete, L. magnes, -etis, Gr. Magnh^tis li`qos a magnet, metal that looked like silver, prop., Magnesian stone, fr. Gr. Magnhsi`a, a country in Thessaly. Cf. Magnesia, Manganese.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The loadstone; a species of iron ore (the ferrosoferric or magnetic ore, Fe3O4) which has the property of attracting iron and some of its ores, and, when freely suspended, of pointing to the poles; -- called also natural magnet."
+          ],
+          "quotes": [
+            "Dinocrates began to make the arched roof of the temple of Arsinoë all of magnet, or this loadstone.",
+            "Two magnets, heaven and earth, allure to bliss, The larger loadstone that, the nearer this."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Physics)",
+            "(Physics & Elec.)"
+          ],
+          "defs": [
+            "A bar or mass of steel or iron to which the peculiar properties of the loadstone have been imparted; -- called, in distinction from the loadstone, an artificial magnet."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ An artificial magnet, produced by the action of an electrical current, is called an electro-magnet."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

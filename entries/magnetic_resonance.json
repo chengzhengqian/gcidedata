@@ -1,0 +1,39 @@
+{
+  "key": "magnetic_resonance",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "magnetic resonance",
+      "headword_raw": "magnetic resonance",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A phenomenon resulting from quantization in the magnetic field of electrons or atoms or molecules or nuclei exposed to an external magnetic field, by which a narrow frequency band of radio waves may be absorbed and re-emitted by the object."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

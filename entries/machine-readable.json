@@ -1,0 +1,39 @@
+{
+  "key": "machine-readable",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "machine-readable",
+      "headword_raw": "ma*chin\"e-read\"a*ble",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Computers)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Readable by a machine;",
+            "available on a data-storage medium in a binary format that can be rapidly converted by standard input devices into data in a computer memory; as, the CIDE dictionary is a machine-readable dictionary."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "key": "macabre",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "macabre",
+      "headword_raw": "macabre",
+      "pr": "(m*kä\"br)",
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "portraying human injury or death in a way so as to inspiring shock or horror; gruesome; ghastly; as, macabre tortures conceived by madmen."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "ghastly",
+            "grisly",
+            "gruesome",
+            "lurid"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Pertaining to or portraying the grim aspects of death, or the allegorical dance of death."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

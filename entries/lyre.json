@@ -1,0 +1,54 @@
+{
+  "key": "lyre",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Lyre",
+      "headword_raw": "Lyre",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. lire, OF. lyre, L. lyra, Gr. <?/. Cf. Lyra.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Mus.)"
+          ],
+          "defs": [
+            "A stringed instrument of music; a kind of harp much used by the ancients, as an accompaniment to poetry."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The lyre was the peculiar instrument of Apollo, the tutelary god of music and poetry. It gave name to the species of verse called lyric, to which it originally furnished an accompaniment."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Astron.)",
+            "(Zool.)",
+            "(Zool.)"
+          ],
+          "defs": [
+            "One of the constellations; Lyra. See Lyra."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "key": "madding",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Madding",
+      "headword_raw": "Mad\"ding",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Maddingly",
+          "form_raw": "Mad\"ding*ly",
+          "key": "maddingly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Affected with madness; raging; furious."
+          ],
+          "quotes": [
+            "Far from the madding crowd's ignoble strife.",
+            "The madding wheels Of brazen chariots raged."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

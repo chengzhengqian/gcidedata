@@ -1,0 +1,105 @@
+{
+  "key": "macro",
+  "source_file": "CIDE.M",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "macro",
+      "headword_raw": "macro",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[shortened form of macroinstruction]",
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a single computer instruction which symbolizes, and is converted at the time of program execution or by a compiler into, a series of instructions in the same computer language."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A keystroke (or combination of keystrokes) which symbolizes and is replaced by a series of keystrokes; -- a convenient feature of some advanced programs, such as word processors or database programs, which allows a user to rapidly execute any series of operations which may be performed multiple times. Such macros may typically be defined by the program user, without rewriting or recompiling the program."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "macro",
+      "headword_raw": "macro",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "very large in scale or scope or capability; as, macroeconomics."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Macro-",
+      "headword_raw": "Mac\"ro-",
+      "pr": "(?)",
+      "pos": [
+        "pref."
+      ],
+      "ety": "[Gr. makro`s, adj.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A combining form signifying long, large, great; as macrodiagonal, macrospore, macromolecule, macrocosm."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

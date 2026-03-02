@@ -1,0 +1,52 @@
+{
+  "key": "magnetic_induction",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "magnetic induction",
+      "headword_raw": "magnetic induction",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The process that makes a substance magnetic (temporarily or permanently)."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "magnetization",
+            "magnetisation"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Same as magnetic field strength."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "magnetic intensity",
+            "magnetic flux density"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "key": "hypertonic",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "hypertonic",
+      "headword_raw": "hy`per*ton\"ic",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Pref. hyper- + tonic.]",
+      "sources": [
+        "PJC",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physiology, Biochemistry)"
+      ],
+      "senses": [
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Having an osmotic pressure greater than that of blood plasma, which is approximately that of a 0.2 normal solution of sodium chloride. Cells taken from a medium of normal physiological osmolality and placed in a hypertonic medium will shrink."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "in a state of abnormally high tension; -- of muscle."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "pumped-up"
+          ]
+        }
+      ]
+    }
+  ]
+}

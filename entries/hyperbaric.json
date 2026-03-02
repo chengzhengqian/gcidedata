@@ -1,0 +1,46 @@
+{
+  "key": "hyperbaric",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Hyperbaric",
+      "headword_raw": "Hy`per*bar\"ic",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[hyper- + baric.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of, pertaining to, or using a pressure that is greater than normal atmospheric pressure; as, a hyperbaric chamber, where divers may decompress slowly to avoid the bends."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Of, pertaining to, or using an oxygen pressure that is greater than that at normal atmospheric pressure; as, a hyperbaric tent to provide additional oxygen to patients with breathing difficulty."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

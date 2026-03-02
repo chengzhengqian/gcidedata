@@ -1,0 +1,69 @@
+{
+  "key": "hyperboloid",
+  "source_file": "CIDE.H",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Hyperboloid",
+      "headword_raw": "Hy*per\"bo*loid",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Hyperbola + -oid: cf. F. hyperbolode.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Geom.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A surface of the second order, which is cut by certain planes in hyperbolas; also, the solid, bounded in part by such a surface."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Hyperboloid",
+      "headword_raw": "Hy*per\"bo*loid",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Geom.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Having some property that belongs to an hyperboloid or hyperbola."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

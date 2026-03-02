@@ -1,0 +1,53 @@
+{
+  "key": "hypermetropy",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Hypermetropy",
+      "headword_raw": "Hy`per*met\"ro*py",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[NL. hypermetropia, fr. Gr. <?/ excessive + <?/, <?/, the eye. See Hypermeter.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Hypermetropic",
+          "form_raw": "Hy`per*me*trop\"ic",
+          "key": "hypermetropic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [
+        "hyperopia",
+        "farsightedness",
+        "longsightedness"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An abnormal condition of the eye in which, through shortness of the eyeball or fault of the refractive media, the rays of light come to a focus behind the retina, making vision for distant objects better than for near objects; farsightedness; -- now most commonly called hyperopia. Cf. Emmetropia."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ In hypermetropia, vision for distant objects, although not better absolutely, is better than that for near objects, and hence, the individual is said to be farsighted. It is corrected by the use of convex glasses."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

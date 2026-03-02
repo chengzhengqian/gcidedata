@@ -1,0 +1,51 @@
+{
+  "key": "hyperopia",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Hyperopia",
+      "headword_raw": "Hy`per*o\"pi*a",
+      "pr": "(hī`pr*ō\"p*)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[NL., fr. Gr. \"ype`r over + 'w`ps, 'wpo`s, the eye.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Hyperoptic",
+          "form_raw": "Hy`per*op\"tic",
+          "key": "hyperoptic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [
+        "hypermetropia",
+        "farsightedness",
+        "longsightedness"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An abnormal condition of the eye in which, through shortness of the eyeball or fault of the refractive media, the rays of light come to a focus behind the retina, making vision for distant objects better than for near objects; farsightedness; -- called also hypermetropia. Cf. Emmetropia."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

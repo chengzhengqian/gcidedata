@@ -1,0 +1,55 @@
+{
+  "key": "hydrolytic",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Hydrolytic",
+      "headword_raw": "Hy`dro*lyt\"ic",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Hydro-, 1 + Gr. <?/ to loose.]",
+      "sources": [
+        "1913 Webster",
+        "PJC",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "Tending to remove or separate water; eliminating water."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Chem.)",
+            "(Physiol. Chem.)"
+          ],
+          "defs": [
+            "of, pertaining to, or accompanied by hydrolysis."
+          ],
+          "quotes": [
+            "Hydrolytic agents, such as sulphuric acid or caustic alkali."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

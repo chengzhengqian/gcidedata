@@ -1,0 +1,49 @@
+{
+  "key": "hydrobranchiata",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Hydrobranchiata",
+      "headword_raw": "Hy`dro*bran`chi*a\"ta",
+      "pr": "(?)",
+      "pos": [
+        "n. pl.",
+        "a."
+      ],
+      "ety": "[NL., fr. Gr. \"y`dwr water + <?/ gills.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Hydrobranchiate",
+          "form_raw": "Hy`dro*bran\"chi*ate",
+          "key": "hydrobranchiate",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Zool.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An extensive artificial division of gastropod mollusks, including those that breathe by gills, as contrasted with the Pulmonifera."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "key": "hydrometer",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Hydrometer",
+      "headword_raw": "Hy*drom\"e*ter",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Hydro-, 1 + -meter: cf. F. hydromtre.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Physics)"
+          ],
+          "defs": [
+            "An instrument for determining the specific gravities of liquids, and thence the strength spirituous liquors, saline solutions, etc."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ It is usually made of glass with a graduated stem, and indicates the specific gravity of a liquid by the depth to which it sinks in it, the zero of the scale marking the depth to which it sinks in pure water. Extra weights are sometimes used to adapt the scale to liquids of different densities."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "An instrument, variously constructed, used for measuring the velocity or discharge of water, as in rivers, from reservoirs, etc., and called by various specific names according to its construction or use, as tachometer, rheometer, hydrometer, pendulum, etc.; a current gauge."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

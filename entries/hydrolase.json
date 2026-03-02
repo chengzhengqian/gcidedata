@@ -1,0 +1,40 @@
+{
+  "key": "hydrolase",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Hydrolase",
+      "headword_raw": "Hy\"dro*lase",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Hydrolysis + -ase.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "an enzyme which causes the splitting of a chemical bond with the addition of the elements of water; a hydrolytic enzyme. Formerly called a hydrolytic ferment."
+          ],
+          "quotes": [],
+          "notes": [
+            "There are many known hydrolases, including nearly all of the digestive enzymes. Among the hydrolases are the esterases, which split ester bonds and amidases, which split amide bonds, and among the latter are the proteases and peptidases, which split peptide bonds, such as those found in proteins."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

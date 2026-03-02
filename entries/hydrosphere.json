@@ -1,0 +1,50 @@
+{
+  "key": "hydrosphere",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Hydrosphere",
+      "headword_raw": "Hy\"dro*sphere",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Pref. hydro-, 1 + sphere.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Meteor.)"
+          ],
+          "defs": [
+            "The aqueous vapor of the entire atmosphere."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Phys. Geog.)"
+          ],
+          "defs": [
+            "The aqueous envelope of the earth, including the ocean, all lakes, streams, and underground waters, and the aqueous vapor in the atmosphere."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

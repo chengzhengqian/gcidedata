@@ -1,0 +1,49 @@
+{
+  "key": "lancet",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Lancet",
+      "headword_raw": "Lan\"cet",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. lancette, dim. of lance lance. See Lance.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A surgical knife-like instrument of various forms, commonly sharp-pointed and two-edged, used in venesection, and in opening abscesses, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Metal.)",
+            "(Arch.)"
+          ],
+          "defs": [
+            "An iron bar used for tapping a melting furnace."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

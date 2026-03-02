@@ -1,0 +1,69 @@
+{
+  "key": "larboard",
+  "source_file": "CIDE.L",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Larboard",
+      "headword_raw": "Lar\"board`",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Lar- is of uncertain origin, possibly the same as lower, i. e., humbler in rank, because the starboard side is considered by mariners as higher in rank; cf. D. laag low, akin to E. low. See Board, n., 8.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Naut.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The left-hand side of a ship to one on board facing toward the bow; port; -- opposed to starboard."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Larboard is a nearly obsolete term, having been superseded by port to avoid liability of confusion with starboard, owing to similarity of sound."
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Larboard",
+      "headword_raw": "Lar\"board`",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "On or pertaining to the left-hand side of a vessel; port; as, the larboard quarter."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

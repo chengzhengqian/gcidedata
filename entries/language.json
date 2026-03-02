@@ -1,0 +1,185 @@
+{
+  "key": "language",
+  "source_file": "CIDE.L",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Language",
+      "headword_raw": "Lan\"guage",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. langage, F. langage, fr. L. lingua the tongue, hence speech, language; akin to E. tongue. See Tongue, cf. Lingual.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [
+        "-- Language, Speech, Tongue, Idiom, Dialect. Language is generic, denoting, in its most extended use, any mode of conveying ideas; speech is the language of articulate sounds; tongue is the Anglo-Saxon term for language, esp. for spoken language; as, the English tongue. Idiom denotes the forms of construction peculiar to a particular language; dialects are varieties of expression which spring up in different parts of a country among people speaking substantially the same language."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Any means of conveying or communicating ideas;",
+            "human speech; the expression of ideas by the voice; sounds, expressive of thought, articulated by the organs of the throat and mouth."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Language consists in the oral utterance of sounds which usage has made the representatives of ideas. When two or more persons customarily annex the same sounds to the same ideas, the expression of these sounds by one person communicates his ideas to another. This is the primary sense of language, the use of which is to communicate the thoughts of one person to another through the organs of hearing. Articulate sounds are represented to the eye by letters, marks, or characters, which form words."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The expression of ideas by writing, or any other instrumentality."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "The forms of speech, or the methods of expressing ideas, peculiar to a particular nation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "The characteristic mode of arranging words, peculiar to an individual speaker or writer; manner of expression; style."
+          ],
+          "quotes": [
+            "Others for language all their care express."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "The inarticulate sounds by which animals inferior to man express their feelings or their wants."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [],
+          "defs": [
+            "The suggestion, by objects, actions, or conditions, of ideas associated therewith; as, the language of flowers."
+          ],
+          "quotes": [
+            "There was . . . language in their very gesture."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "7.",
+          "fields": [],
+          "defs": [
+            "The vocabulary and phraseology belonging to an art or department of knowledge; as, medical language; the language of chemistry or theology."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "8.",
+          "fields": [],
+          "defs": [
+            "A race, as distinguished by its speech."
+          ],
+          "quotes": [
+            "All the people, the nations, and the languages, fell down and worshiped the golden image."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "9.",
+          "fields": [],
+          "defs": [
+            "Any system of symbols created for the purpose of communicating ideas, emotions, commands, etc., between sentient agents."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "10.",
+          "fields": [
+            "(computers)"
+          ],
+          "defs": [
+            "Any set of symbols and the rules for combining them which are used to specify to a computer the actions that it is to take; also referred to as a computer lanugage or programming language; as, JAVA is a new and flexible high-level language which has achieved popularity very rapidly."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Computer languages are classed a low-level if each instruction specifies only one operation of the computer, or high-level if each instruction may specify a complex combination of operations. Machine language and assembly language are low-level computer languages. FORTRAN, COBOL and C are high-level computer languages. Other computer languages, such as JAVA, allow even more complex combinations of low-level operations to be performed with a single command. Many programs, such as databases, are supplied with special languages adapted to manipulate the objects of concern for that specific program. These are also high-level languages."
+          ],
+          "synonyms": [
+            "Speech",
+            "tongue",
+            "idiom",
+            "dialect",
+            "phraseology",
+            "diction",
+            "discourse",
+            "conversation",
+            "talk"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Language",
+      "headword_raw": "Lan\"guage",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Languaged (?); p. pr. & vb. n. Languaging (?).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To communicate by language; to express in language."
+          ],
+          "quotes": [
+            "Others were languaged in such doubtful expressions that they have a double sense."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

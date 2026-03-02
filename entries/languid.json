@@ -1,0 +1,94 @@
+{
+  "key": "languid",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Languid",
+      "headword_raw": "Lan\"guid",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. languidus, fr. languere to be faint or languid: cf. F. languide. See Languish.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Languidly",
+          "form_raw": "Lan\"guid*ly",
+          "key": "languidly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Languidness",
+          "form_raw": "Lan\"guid*ness",
+          "key": "languidness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Drooping or flagging from exhaustion; indisposed to exertion; without animation; weak; weary; heavy; dull."
+          ],
+          "quotes": [
+            "Fire their languid souls with Cato's virtue."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Slow in progress; tardy."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Promoting or indicating weakness or heaviness; as, a languid day."
+          ],
+          "quotes": [
+            "Feebly she laugheth in the languid moon.",
+            "Their idleness, aimless flirtations and languid airs."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Feeble",
+            "weak",
+            "faint",
+            "sickly",
+            "pining",
+            "exhausted",
+            "weary",
+            "listless",
+            "heavy",
+            "dull",
+            "heartless"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "key": "landholder",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Landholder",
+      "headword_raw": "Land\"hold`er",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "n. & a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Landholding",
+          "form_raw": "Land\"hold`ing",
+          "key": "landholding",
+          "pos": [
+            "n. & a."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A holder, owner, or proprietor of land."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

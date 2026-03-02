@@ -1,0 +1,48 @@
+{
+  "key": "lancaster",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Lancaster",
+      "headword_raw": "Lancaster",
+      "pr": null,
+      "pos": [
+        "prop. n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A city in Northwest England on the river Lune."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The English royal house that reigned from 1399 to 1461; its symbol was a red rose; called also the House of Lancaster."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Lancastrian line"
+          ]
+        }
+      ]
+    }
+  ]
+}

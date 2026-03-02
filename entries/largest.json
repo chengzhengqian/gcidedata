@@ -1,0 +1,52 @@
+{
+  "key": "largest",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "largest",
+      "headword_raw": "largest",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "greatest in size of those under consideration."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "biggest",
+            "greatest"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "maximal."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "outside"
+          ]
+        }
+      ]
+    }
+  ]
+}

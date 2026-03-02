@@ -1,0 +1,77 @@
+{
+  "key": "lamentable",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Lamentable",
+      "headword_raw": "Lam\"en*ta*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[L. lamentabilis: cf. F. lamentable.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Lamentableness",
+          "form_raw": "Lam\"en*ta*ble*ness",
+          "key": "lamentableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Lamentably",
+          "form_raw": "Lam\"en*ta*bly",
+          "key": "lamentably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Mourning; sorrowful; expressing grief; as, a lamentable countenance."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Fitted to awaken lament; to be lamented; sorrowful; pitiable; regrettable; unfortunate; as, a lamentable misfortune, or error."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Miserable; pitiful; paltry; -- in a contemptuous or ridiculous sense."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

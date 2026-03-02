@@ -1,0 +1,49 @@
+{
+  "key": "landlord",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Landlord",
+      "headword_raw": "Land\"lord`",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[See Land, and Lord.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The lord of a manor, or of land; the owner of land or houses which he leases to a tenant or tenants."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The master of an inn or of any form of lodging house; as, the landlord collects the rents on the first of the month."
+          ],
+          "quotes": [
+            "Upon our arrival at the inn, my companion fetched out the jolly landlord."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

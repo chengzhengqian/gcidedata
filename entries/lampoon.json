@@ -1,0 +1,88 @@
+{
+  "key": "lampoon",
+  "source_file": "CIDE.L",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Lampoon",
+      "headword_raw": "Lam*poon\"",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. lampon a drinking song, fr. lampons let us drink, -- the burden of such a song, fr. lamper to guzzle, to drink much and greedily; of German origin, and akin to E. lap to drink. Prob. so called because drinking songs often contain personal slander or satire.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A personal satire in writing; usually, malicious and abusive censure written only to reproach and distress."
+          ],
+          "quotes": [
+            "Like her who missed her name in a lampoon, And grieved to find herself decayed so soon."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Any satire ridiculing or mocking a person, activity, or institution by representing its character or behavior in an exaggerated or grotesque form; the representation may be written, filmed, or performed as a live skit, and may be intended as a severe reproach, or as good-natured humor."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Lampoon",
+      "headword_raw": "Lam*poon\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": "[imp. & p. p. Lampooned (?); p. pr. & vb. n. Lampooning.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "libel",
+        "defame",
+        "satirize",
+        "lash"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To subject to abusive ridicule expressed in a work of art; to make (a person, behavior, or institution) the subject of a lampoon."
+          ],
+          "quotes": [
+            "Ribald poets had lampooned him."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

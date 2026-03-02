@@ -1,0 +1,57 @@
+{
+  "key": "land_league",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Land League",
+      "headword_raw": "Land League",
+      "pr": "(#)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Landleaguer",
+          "form_raw": "Land\"*lea`guer",
+          "key": "landleaguer",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Landleaguism",
+          "form_raw": "Land\"*lea`guism",
+          "key": "landleaguism",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "In Ireland, a combination of tenant farmers and other, organized, with Charles Stewart Parnell as president, in 1879 with a view to the reduction of farm rents and a reconstruction of the land laws."
+          ],
+          "quotes": [
+            "The Land League, of which Michael Davitt was the founder, originated in Mayo in August, and at a Dublin in October the organization was extended to all Ireland, with Parnell as president."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

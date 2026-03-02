@@ -1,0 +1,41 @@
+{
+  "key": "patchboard",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "patchboard",
+      "headword_raw": "patch\"board",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "switchboard",
+        "plugboard"
+      ],
+      "entry_fields": [
+        "(Computers)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A circuit board where circuits are completed and modified by making connections with patchcords."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

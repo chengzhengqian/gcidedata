@@ -1,0 +1,36 @@
+{
+  "key": "passenger_mile",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Passenger mile",
+      "headword_raw": "Pas\"sen*ger mile",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Railroads)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A unit of measurement of the passenger transportation performed by a railroad during a given period, usually a year, the total of which consists of the sum of the miles traversed by all the passengers on the road in the period in question."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "key": "pathological",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Pathological",
+      "headword_raw": "Path`o*log\"ic*al",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[Gr. <?/: cf. F. pathologique.]",
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Pathologically",
+          "form_raw": "Path`o*log\"ic*al*ly",
+          "key": "pathologically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to pathology."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "caused by or due to disease; abnormal; morbid; as, pathological tissue; a pathological condition."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

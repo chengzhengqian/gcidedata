@@ -1,0 +1,58 @@
+{
+  "key": "payment",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Payment",
+      "headword_raw": "Pay\"ment",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. payment, paiement. See Pay to requite.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of paying, or giving compensation; the discharge of a debt or an obligation."
+          ],
+          "quotes": [
+            "No man envieth the payment of a debt."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That which is paid; the thing given in discharge of a debt, or an obligation, or in fulfillment of a promise; reward; recompense; requital; return."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Punishment; chastisement."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

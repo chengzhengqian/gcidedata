@@ -1,0 +1,48 @@
+{
+  "key": "pay_streak",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Pay streak",
+      "headword_raw": "Pay streak",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Mining)"
+          ],
+          "defs": [
+            "The zone, parallel to the walls of a vein, in which the ore is concentrated, or any narrow streak of paying ore in less valuable material."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Oil Boring)"
+          ],
+          "defs": [
+            "A stratum of oil sand thick enough to make a well pay."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "key": "pathology",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "pathology",
+      "headword_raw": "pa*thol\"o*gy",
+      "pr": "(-j)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. pa`qos a suffering, disease + -logy: cf. F. pathologie.]",
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "The science which treats of diseases, their nature, causes, progress, symptoms, etc."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Pathology is general or special, according as it treats of disease or morbid processes in general, or of particular diseases; it is also subdivided into internal and external, or medical and surgical pathology. Its departments are nosology, ætiology, morbid anatomy, symptomatology, and therapeutics, which treat respectively of the classification, causation, organic changes, symptoms, and cure of diseases."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "The condition of an organ, tissue, or fluid produced by disease."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "key": "payable",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Payable",
+      "headword_raw": "Pay\"a*ble",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Cf. F. payable. Cf. Pacable.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "That may, can, or should be paid; suitable to be paid; justly due."
+          ],
+          "quotes": [
+            "Thanks are a tribute payable by the poorest."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "That may be discharged or settled by delivery of value.",
+            "Matured; now due."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

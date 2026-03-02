@@ -1,0 +1,202 @@
+{
+  "key": "pay",
+  "source_file": "CIDE.P",
+  "record_count": 4,
+  "records": [
+    {
+      "headword": "Pay",
+      "headword_raw": "Pay",
+      "pr": "(pā)",
+      "pos": [
+        "v. t."
+      ],
+      "ety": "[OF. peier, fr. L. picare to pitch, pix pitch: cf. OF. peiz pitch, F. poix. See Pitch a black substance.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Naut.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To cover, as bottom of a vessel, a seam, a spar, etc., with tar or pitch, or waterproof composition of tallow, resin, etc.; to smear."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Pay",
+      "headword_raw": "Pay",
+      "pr": "(pād)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OE. paien, F. payer, fr. L. pacare to pacify, appease, fr. pax, pacis, peace. See Peace.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Paid (pād); p. pr. & vb. n. Paying.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To satisfy, or content; specifically, to satisfy (another person) for service rendered, property delivered, etc.; to discharge one's obligation to; to make due return to; to compensate; to remunerate; to recompense; to requite; as, to pay workmen or servants."
+          ],
+          "quotes": [
+            "May no penny ale them pay [i. e., satisfy].",
+            "[She] pays me with disdain."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Hence, figuratively: To compensate justly; to requite according to merit; to reward; to punish; to retort or retaliate upon."
+          ],
+          "quotes": [
+            "For which, or pay me quickly, or I'll pay you."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To discharge, as a debt, demand, or obligation, by giving or doing what is due or required; to deliver the amount or value of to the person to whom it is owing; to discharge a debt by delivering (money owed)."
+          ],
+          "quotes": [
+            "Have patience with me, and I will pay thee all.",
+            "If they pay this tax, they starve."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "To discharge or fulfill, as a duty; to perform or render duty, as that which has been promised."
+          ],
+          "quotes": [
+            "This day have I paid my vows."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Naut.)"
+          ],
+          "defs": [
+            "To give or offer, without an implied obligation; as, to pay attention; to pay a visit."
+          ],
+          "quotes": [
+            "Not paying me a welcome."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Pay",
+      "headword_raw": "Pay",
+      "pr": "(pā)",
+      "pos": [
+        "v. i."
+      ],
+      "ety": "[Etymol. uncertain.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "2.",
+          "fields": [
+            "(Naut.)",
+            "(Naut.)"
+          ],
+          "defs": [
+            "Hence, to make or secure suitable return for expense or trouble; to be remunerative or profitable; to be worth the effort or pains required; as, it will pay to ride; it will pay to wait; politeness always pays."
+          ],
+          "quotes": [
+            "'T was I paid for your sleeps; I watched your wakings."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Pay",
+      "headword_raw": "Pay",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Satisfaction; content."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mining)"
+          ],
+          "defs": [
+            "An equivalent or return for money due, goods purchased, or services performed; salary or wages for work or service; compensation; recompense; payment; hire; as, the pay of a clerk; the pay of a soldier."
+          ],
+          "quotes": [
+            "Where only merit constant pay receives.",
+            "There is neither pay nor plunder to be got."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

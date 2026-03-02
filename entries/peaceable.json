@@ -1,0 +1,65 @@
+{
+  "key": "peaceable",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Peaceable",
+      "headword_raw": "Peace\"a*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": "[OE. peisible, F. paisible.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "Peaceable, Peaceful. Peaceable describes the state of an individual, nation, etc., in reference to external hostility, attack, etc.; peaceful, in respect to internal disturbance. The former denotes “in the spirit of peace;” latter; “in the possession or enjoyment of peace.” A peaceable adjustment of difficulties; a peaceful life, scene."
+      ],
+      "wordforms": [
+        {
+          "form": "Peaceableness",
+          "form_raw": "Peace\"a*ble*ness",
+          "key": "peaceableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Peaceably",
+          "form_raw": "Peace\"a*bly",
+          "key": "peaceably",
+          "pos": [],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Peaceful",
+        "pacific",
+        "tranquil",
+        "quiet",
+        "mild",
+        "undisturbed",
+        "serene",
+        "still"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Begin in or at peace; tranquil; quiet; free from, or not disposed to, war, disorder, or excitement; not quarrelsome."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

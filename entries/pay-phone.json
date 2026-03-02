@@ -1,0 +1,38 @@
+{
+  "key": "pay-phone",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "pay-phone",
+      "headword_raw": "pay-phone",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a coin-operated telephone."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "pay-station"
+          ]
+        }
+      ]
+    }
+  ]
+}

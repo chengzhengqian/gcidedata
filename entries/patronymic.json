@@ -1,0 +1,68 @@
+{
+  "key": "patronymic",
+  "source_file": "CIDE.P",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Patronymic",
+      "headword_raw": "Pa`tro*nym\"ic",
+      "pr": "(-nm\"k)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. patronymicus, Gr. patrwnymiko`s; path`r father + 'o`noma name: cf. F. patronymique.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Derived from ancestors; as, a patronymic denomination."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Patronymic",
+      "headword_raw": "Pa`tro*nym\"ic",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. patrwnymiko`n.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A modification of the father's name borne by the son; a name derived from that of a parent or ancestor; as, Pelides, the son of Peleus; Johnson, the son of John; Macdonald, the son of Donald; Paulowitz, the son of Paul; also, the surname of a family; the family name."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ In Russia, the patronymic is taken routinely as a middle name, and is commonly used together with the given name in addressing people with whom one is familiar, thus Ivan Ivanovich would be commonly used to address Ivan, whose father was Ivan; likewise Boris Michaelovich would address Boris the son of Michael, and Lena Ivanova would address Lena, the daughter of Ivan."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

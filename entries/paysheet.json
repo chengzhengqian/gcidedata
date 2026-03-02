@@ -1,0 +1,50 @@
+{
+  "key": "paysheet",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "paysheet",
+      "headword_raw": "pay\"sheet`",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "the total amount of money paid in wages; as, the company had a large paysheet."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "payroll"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a list of employees and their salaries; as, the company had a long paysheet."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "payroll"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "key": "pattern_matching",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Pattern matching",
+      "headword_raw": "Pat\"tern match\"ing",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[See pattern.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Computers)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A technique in automated data analysis, usually performed on a computer, by which a group of characteristic properties of an unknown object is compared with the comparable groups of characteristics of a set of known objects, to discover the idenity or proper classification of the unknown object."
+          ],
+          "quotes": [],
+          "notes": [
+            "There are two major types of pattern matching, statistical pattern matching and syntactic pattern matching. In statistical pattern matching, the criteria used to recognize identity or class membership vary, but in general some combination of the differences in the groups of characteristics of known and unknown objects are considered to be a measure of the difference (\"distance\") between them, and the closest known object or objects are viewed as presenting the most likely identity or class for the unknown object. In syntactic pattern matching, a set of known patterns, e.g. as in the possible order of parts of speech in a language, is defined, and the unknown pattern is compared to find that known pattern or patterns which matches the unknown exactly. In general, statistical pattern matching is used where properties of objects with continuous values are being compared, and syntactic pattern matching where a complex arrangement of at least two different objects may be built by application of a set of rules (a \"grammar\") for combining the objects in a specified order. Examples of the latter are natural and formal languages."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

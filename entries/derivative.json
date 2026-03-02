@@ -1,0 +1,149 @@
+{
+  "key": "derivative",
+  "source_file": "CIDE.D",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Derivative",
+      "headword_raw": "De*riv\"a*tive",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. derivativus: cf. F. drivatif.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Derivatively",
+          "form_raw": "De*riv\"a*tive*ly",
+          "key": "derivatively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Derivativeness",
+          "form_raw": "De*riv\"a*tive*ness",
+          "key": "derivativeness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Hence, unoriginal (said of art or other intellectual products."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Derivative",
+      "headword_raw": "De*riv\"a*tive",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "That which is derived; anything obtained or deduced from another."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Gram.)"
+          ],
+          "defs": [
+            "A word formed from another word, by a prefix or suffix, an internal modification, or some other change; a word which takes its origin from a root."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Mus.)"
+          ],
+          "defs": [
+            "A chord, not fundamental, but obtained from another by inversion; or, vice versa, a ground tone or root implied in its harmonics in an actual chord."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "An agent which is adapted to produce a derivation (in the medical sense)."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "A derived function; a function obtained from a given function by a certain algebraic process."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Except in the mode of derivation the derivative is the same as the differential coefficient. See Differential coefficient, under Differential."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "A substance so related to another substance by modification or partial substitution as to be regarded as derived from it; thus, the amido compounds are derivatives of ammonia, and the hydrocarbons are derivatives of methane, benzene, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

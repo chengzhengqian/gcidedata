@@ -1,0 +1,74 @@
+{
+  "key": "description",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Description",
+      "headword_raw": "De*scrip\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. description, L. descriptio. See Describe.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of describing; a delineation by marks or signs."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A sketch or account of anything in words; a portraiture or representation in language; an enumeration of the essential qualities of a thing or species."
+          ],
+          "quotes": [
+            "Milton has descriptions of morning."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A class to which a certain representation is applicable; kind; sort."
+          ],
+          "quotes": [
+            "A difference . . . between them and another description of public creditors.",
+            "The plates were all of the meanest description."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Account",
+            "definition",
+            "recital",
+            "relation",
+            "detail",
+            "narrative",
+            "narration",
+            "explanation",
+            "delineation",
+            "representation",
+            "kind",
+            "sort. See Definition"
+          ]
+        }
+      ]
+    }
+  ]
+}

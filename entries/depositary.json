@@ -1,0 +1,61 @@
+{
+  "key": "depositary",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Depositary",
+      "headword_raw": "De*pos\"i*ta*ry",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. depositarius, fr. deponere. See Deposit.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One with whom anything is lodged in the trust; one who receives a deposit; -- the correlative of depositor."
+          ],
+          "quotes": [
+            "I . . . made you my guardians, my depositaries.",
+            "The depositaries of power, who are mere delegates of the people."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A storehouse; a depository."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "One to whom goods are bailed, to be kept for the bailor without a recompense."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

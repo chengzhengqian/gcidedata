@@ -1,0 +1,94 @@
+{
+  "key": "departed",
+  "source_file": "CIDE.D",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "departed",
+      "headword_raw": "departed",
+      "pr": null,
+      "pos": [
+        "n. sing. & pl."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "dead person",
+        "dead soul",
+        "deceased person",
+        "deceased",
+        "decedent"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "someone who is no longer alive; as, let us pray for the departed."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "departed",
+      "headword_raw": "departed",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "past; -- used of time; as, departed summers."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "bygone",
+            "bypast",
+            "foregone",
+            "gone"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "dead; as, our dear departed parents."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "asleep(predicate)",
+            "at peace(predicate)",
+            "at rest(predicate)",
+            "cold",
+            "deceased",
+            "gone"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "key": "derive",
+  "source_file": "CIDE.D",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Derive",
+      "headword_raw": "De*rive\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[F. driver, L. derivare; de- + rivus stream, brook. See Rival.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Derived (?); p. pr. & vb. n. Deriving.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To turn the course of, as water; to divert and distribute into subordinate channels; to diffuse; to communicate; to transmit; -- followed by to, into, on, upon."
+          ],
+          "quotes": [
+            "For fear it [water] choke up the pits . . . they [the workman] derive it by other drains.",
+            "Her due loves derived to that vile witch's share.",
+            "Derived to us by tradition from Adam to Noah."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To receive, as from a source or origin; to obtain by descent or by transmission; to draw; to deduce; -- followed by from."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To trace the origin, descent, or derivation of; to recognize transmission of; as, he derives this word from the Anglo-Saxon."
+          ],
+          "quotes": [
+            "From these two causes . . . an ancient set of physicians derived all diseases."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "To obtain one substance from another by actual or theoretical substitution; as, to derive an organic acid from its corresponding hydrocarbon."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "trace",
+            "deduce",
+            "infer"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Derive",
+      "headword_raw": "De*rive\"",
+      "pr": "(?)",
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To flow; to have origin; to descend; to proceed; to be deduced."
+          ],
+          "quotes": [
+            "Power from heaven Derives, and monarchs rule by gods appointed."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

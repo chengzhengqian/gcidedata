@@ -1,0 +1,40 @@
+{
+  "key": "dereplication",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Dereplication",
+      "headword_raw": "De`rep*li*ca\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Biochem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "the process of testing samples of mixtures which are active in a screening process, so as to recognize and eliminate from consideration those active substances already studied; -- a stage subsequent to the preliminary screening in the process of discovery of new pharmacologically active substances in mixtures of natural products; -- also called counterscreening. See screening."
+          ],
+          "quotes": [],
+          "notes": [
+            "In the process of pharmaceutical screening (testing a large number of substances to find those having desirable pharmacological activity), the testing of samples of substances extracted from living organisms (plants, microorganisms, etc.) often detects substances already detected in prior screening. Such “known” or “replicate” activities must be recognized at an early stage to avoid duplicating previous efforts at purification and structural identification. The process of testing an sample which is active in a primary screen, to determine if the activity is due to a previously known substance, is called dereplication or counterscreening."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

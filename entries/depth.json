@@ -1,0 +1,122 @@
+{
+  "key": "depth",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Depth",
+      "headword_raw": "Depth",
+      "pr": "(spth)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[From Deep; akin to D. diepte, Icel. dpt, dpð, Goth. diupiþa.]",
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl.",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The quality of being deep; deepness; perpendicular measurement downward from the surface, or horizontal measurement backward from the front; as, the depth of a river; the depth of a body of troops."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Profoundness; extent or degree of intensity; abundance; completeness; as, depth of knowledge, or color."
+          ],
+          "quotes": [
+            "Mindful of that heavenly love Which knows no end in depth or height."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Lowness; as, depth of sound."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "That which is deep; a deep, or the deepest, part or place; the deep; the middle part; as, the depth of night, or of winter."
+          ],
+          "quotes": [
+            "From you unclouded depth above.",
+            "The depth closed me round about."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Logic)"
+          ],
+          "defs": [
+            "The number of simple elements which an abstract conception or notion includes; the comprehension or content."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [
+            "(Horology)"
+          ],
+          "defs": [
+            "A pair of toothed wheels which work together."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "7.",
+          "fields": [
+            "(Aëronautics)"
+          ],
+          "defs": [
+            "The perpendicular distance from the chord to the farthest point of an arched surface."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "8.",
+          "fields": [
+            "(Computers)",
+            "(Naut.)"
+          ],
+          "defs": [
+            "the maximum number of times a type of procedure is reiteratively called before the last call is exited; -- of subroutines or procedures which are reentrant; -- used of call stacks."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

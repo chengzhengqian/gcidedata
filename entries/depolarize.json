@@ -1,0 +1,54 @@
+{
+  "key": "depolarize",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Depolarize",
+      "headword_raw": "De*po\"lar*ize",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[Pref. de- + polarize: cf. F. dpolarizer.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Depolarized (?); p. pr. & vb. n. Depolarizing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Opt.)"
+          ],
+          "defs": [
+            "To deprive of polarity; to reduce to an unpolarized condition."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ This word has been inaccurately applied in optics to describe the effect of a polarizing medium, as a crystalline plate, in causing the reappearance of a ray, in consequence of a change in its plane of polarization, which previously to the change was intercepted by the analyzer."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Elec.)"
+          ],
+          "defs": [
+            "To free from polarization, as the negative plate of the voltaic battery."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

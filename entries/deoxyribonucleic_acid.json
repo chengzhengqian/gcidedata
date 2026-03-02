@@ -1,0 +1,41 @@
+{
+  "key": "deoxyribonucleic_acid",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "deoxyribonucleic acid",
+      "headword_raw": "deoxyribonucleic acid",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "DNA",
+        "desoxyribonucleic acid"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a nucleic acid, usually of very high molecular weight, consisting of a linear sequence of monomer units of deoxyribonucleotides, occurring in most organisms in pairs of strands, wound together in the form of a double helix; it is the main component of chromosomes and contains the genetic information which is the basis of heredity, transmitted from parent to progeny, and found in all living organisms except for certain viruses which have RNA as their basic genetic material; -- usually referred to by the acronym DNA."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The monomer units making up the DNA each contain one of four heterocyclic bases: thymine, adenine, cytosine, or guanine. The genetic information is contained in the precise sequence of these monomer units, which ultimately specify the sequence of proteins to be made by the organism's biosynthetic processes, mediated through the synthesis of RNA having a base sequence corresponding to that of the DNA. The DNA sequence also specifies the sequence of the various RNA molecules the RNA base sequence being a copy of that on one of the DNA strands. Most of the RNA synthesized is involved in protein synthesis. In the double-helical form of DNA, the thymine on one strand is paired with the adenine on the opposite strand, and cytosine of one strand is paired with guanine on the opposite strand. There is in DNA also certain controlling information concerning the timing and amount of RNA to be made, encoded within the sequence of the DNA in ways that are still being elucidated. When this structure is replicated in the course of cell multiplication, two identical double-helical molecules are formed, each containing one strand from the original molecule. Each resulting molecule is distributred to either the parent or progeny organism, and this is the basic mechanism for transmission of hereditary information. In RNA-based viruses, or those having single strands of DNA (as certain viruses), the genetic information transmission occurs through a double-stranded intermediate by a similar mechanism. In some organisms slight modifications of the bases of DNA are found, such as methylcytosine or, in some viruses, uracil or hydroxymethyluracil; these unusual bases act analogously to the normal bases in their genetic coding function. A small percentage of methylcytosine is found in many organisms, and it serves in some cases as a special signal, as for restriction enzymes."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

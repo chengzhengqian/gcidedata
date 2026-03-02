@@ -1,0 +1,52 @@
+{
+  "key": "derogatory",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "derogatory",
+      "headword_raw": "de*rog\"a*to*ry",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "belittling",
+        "depreciative",
+        "deprecatory",
+        "depreciatory",
+        "derogatory",
+        "detractive",
+        "detracting",
+        "slighting",
+        "pejorative",
+        "denigratory"
+      ],
+      "entry_fields": [
+        "(Law)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Tending to derogate, or lessen in value; expressing a low opinion; expressing derogation; detracting; injurious; -- with from, to, or unto."
+          ],
+          "quotes": [
+            "Acts of Parliament derogatory from the power of subsequent Parliaments bind not.",
+            "His language was severely censured by some of his brother peers as derogatory to their other."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

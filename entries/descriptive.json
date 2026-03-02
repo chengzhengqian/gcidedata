@@ -1,0 +1,57 @@
+{
+  "key": "descriptive",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Descriptive",
+      "headword_raw": "De*scrip\"tive",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. descriptivus: cf. F. descriptif.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Descriptively",
+          "form_raw": "De*scrip\"tive*ly",
+          "key": "descriptively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Descriptiveness",
+          "form_raw": "De*scrip\"tive*ness",
+          "key": "descriptiveness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Tending to describe; having the quality of representing; containing description; as, a descriptive figure; a descriptive phrase; a descriptive narration; a story descriptive of the age."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

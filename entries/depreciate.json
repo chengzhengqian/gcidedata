@@ -1,0 +1,77 @@
+{
+  "key": "depreciate",
+  "source_file": "CIDE.D",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Depreciate",
+      "headword_raw": "De*pre\"ci*ate",
+      "pr": "(d*prē\"sh*āt)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. depretiatus, depreciatus, p. p. of depretiare, -ciare, to depreciate; de- + pretiare to prize, fr. pretium price. See Price.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Depreciated (d*prē\"sh*ā`td); p. pr. & vb. n. Depreciating (d*prē\"sh*ā`tng).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "decry",
+        "disparage",
+        "traduce",
+        "lower",
+        "detract",
+        "underrate. See Decry"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To lessen in price or estimated value; to lower the worth of; to represent as of little value or claim to esteem; to undervalue."
+          ],
+          "quotes": [
+            "Which . . . some over-severe philosophers may look upon fastidiously, or undervalue and depreciate.",
+            "To prove that the Americans ought not to be free, we are obliged to depreciate the value of freedom itself."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Depreciate",
+      "headword_raw": "De*pre\"ci*ate",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To fall in value; to become of less worth; to sink in estimation; as, a paper currency will depreciate, unless it is convertible into specie."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "key": "deprive",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Deprive",
+      "headword_raw": "De*prive\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[LL. deprivare, deprivatium, to divest of office; L. de- + privare to bereave, deprive: cf. OF. depriver. See Private.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Deprived (?); p. pr. & vb. n. Depriving.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To take away; to put an end; to destroy."
+          ],
+          "quotes": [
+            "'Tis honor to deprive dishonored life."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To dispossess; to bereave; to divest; to hinder from possessing; to debar; to shut out from; -- with a remoter object, usually preceded by of."
+          ],
+          "quotes": [
+            "God hath deprived her of wisdom.",
+            "It was seldom that anger deprived him of power over himself."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To divest of office; to depose; to dispossess of dignity, especially ecclesiastical."
+          ],
+          "quotes": [
+            "A minister deprived for inconformity."
+          ],
+          "notes": [],
+          "synonyms": [
+            "strip",
+            "despoil",
+            "rob",
+            "abridge"
+          ]
+        }
+      ]
+    }
+  ]
+}

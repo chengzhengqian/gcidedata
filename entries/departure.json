@@ -1,0 +1,106 @@
+{
+  "key": "departure",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Departure",
+      "headword_raw": "De*par\"ture",
+      "pr": "(?; 135)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[From Depart.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Division; separation; putting away."
+          ],
+          "quotes": [
+            "No other remedy . . . but absolute departure."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Separation or removal from a place; the act or process of departing or going away."
+          ],
+          "quotes": [
+            "Departure from this happy place."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Removal from the present life; death; decease."
+          ],
+          "quotes": [
+            "The time of my departure is at hand.",
+            "His timely departure . . . barred him from the knowledge of his son's miseries."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Deviation or abandonment, as from or of a rule or course of action, a plan, or a purpose."
+          ],
+          "quotes": [
+            "Any departure from a national standard."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "The desertion by a party to any pleading of the ground taken by him in his last antecedent pleading, and the adoption of another."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [
+            "(Nav. & Surv.)",
+            "(Nav. & Surv.)"
+          ],
+          "defs": [
+            "The distance due east or west which a person or ship passes over in going along an oblique line."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Since the meridians sensibly converge, the departure in navigation is not measured from the beginning nor from the end of the ship's course, but is regarded as the total easting or westing made by the ship or person as he travels over the course."
+          ],
+          "synonyms": [
+            "Death",
+            "demise",
+            "release. See Death"
+          ]
+        }
+      ]
+    }
+  ]
+}

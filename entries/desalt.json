@@ -1,0 +1,41 @@
+{
+  "key": "desalt",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "desalt",
+      "headword_raw": "desalt",
+      "pr": null,
+      "pos": [
+        "v."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "desalinate",
+        "desalinize"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "to remove the salt from (a solution of salt)."
+          ],
+          "quotes": [],
+          "notes": [
+            "This term is used in a more general sense than desalinate, which usually refers to the removal of common salt (sodium chloride) from a water solution, such as sea water. Desalt is commonly used to refer to any laboratory or industrial process in which any salt may be removed from a mixture of substances dssolved in a solvent, usually water. It is thus used as a method of purification in chemical processes. The methods for desalting are very varied."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

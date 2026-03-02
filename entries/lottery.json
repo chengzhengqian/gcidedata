@@ -1,0 +1,50 @@
+{
+  "key": "lottery",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Lottery",
+      "headword_raw": "Lot\"ter*y",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Lot + -ery, as in brewery, bindery.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A scheme for the distribution of prizes by lot or chance; esp., a gaming scheme in which one or more tickets bearing particular numbers draw prizes, and the rest of the tickets are blanks.",
+            "An affair of chance."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The laws of the United States and of most of the States make private lotteries illegal, except in certain circumstances for charitable institutions; however, many of the states now conduct lotteries tehmselves as a revenue source."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Allotment; thing allotted."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

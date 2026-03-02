@@ -1,0 +1,63 @@
+{
+  "key": "longheaded",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Longheaded",
+      "headword_raw": "Long\"head\"ed",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Long-headedness",
+          "form_raw": "Long\"-head`ed*ness",
+          "key": "long-headedness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Having unusual foresight or sagacity."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "having a relatively long head with a cephalic index of under 75. Opposite of brachycephalic."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "dolichocephalic",
+            "dolichocranal",
+            "dolichocranic"
+          ]
+        }
+      ]
+    }
+  ]
+}

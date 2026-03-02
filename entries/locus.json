@@ -1,0 +1,48 @@
+{
+  "key": "locus",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Locus",
+      "headword_raw": "Lo\"cus",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L., place. Cf. Allow, Couch, Lieu, Local.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A place; a locality."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "The line traced by a point which varies its position according to some determinate law; the surface described by a point or line that moves according to a given law."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

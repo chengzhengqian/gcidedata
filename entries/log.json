@@ -1,0 +1,218 @@
+{
+  "key": "log",
+  "source_file": "CIDE.L",
+  "record_count": 4,
+  "records": [
+    {
+      "headword": "Log",
+      "headword_raw": "Log",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Heb. lōg.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A Hebrew measure of liquids, containing 2.37 gills."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Log",
+      "headword_raw": "Log",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Icel. lāg a felled tree, log; akin to E. lie. See Lie to lie prostrate.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A bulky piece of wood which has not been shaped by hewing or sawing."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Naut.)"
+          ],
+          "defs": [
+            "An apparatus for measuring the rate of a ship's motion through the water."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The common log consists of the log-chip, or logship, often exclusively called the log, and the log line, the former being commonly a thin wooden quadrant of five or six inches radius, loaded with lead on the arc to make it float with the point up. It is attached to the log line by cords from each corner. This line is divided into equal spaces, called knots, each bearing the same proportion to a mile that half a minute does to an hour. The line is wound on a reel which is so held as to let it run off freely. When the log is thrown, the log-chip is kept by the water from being drawn forward, and the speed of the ship is shown by the number of knots run out in half a minute. There are improved logs, consisting of a piece of mechanism which, being towed astern, shows the distance actually gone through by the ship, by means of the revolutions of a fly, which are registered on a dial plate."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "The record of the rate of speed of a ship or airplane, and of the course of its progress for the duration of a voyage; also, the full nautical record of a ship's cruise or voyage; a log slate; a log book."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "A record and tabulated statement of the person(s) operating, operations performed, resources consumed, and the work done by any machine, device, or system."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Mining)"
+          ],
+          "defs": [
+            "A weight or block near the free end of a hoisting rope to prevent it from being drawn through the sheave."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [
+            "(computers)",
+            "(Naut.)",
+            "(Naut.)",
+            "(Naut.)",
+            "(Naut.)",
+            "(Zool.)",
+            "(Naut.)",
+            "(Naut.)",
+            "(Naut.)",
+            "(Naut.)",
+            "(Naut.)"
+          ],
+          "defs": [
+            "A record of activities performed within a program, or changes in a database or file on a computer, and typically kept as a file in the computer."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Log",
+      "headword_raw": "Log",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": "[imp. & p. p. Logged (?); p. pr. & vb. n. Logging (?).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Naut.)"
+          ],
+          "defs": [
+            "To enter in a ship's log book; as, to log the miles run."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To record any event in a logbook, especially an event relating to the operation of a machine or device."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Log",
+      "headword_raw": "Log",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To engage in the business of cutting or transporting logs for timber; to get out logs."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To move to and fro; to rock."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

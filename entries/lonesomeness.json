@@ -1,0 +1,51 @@
+{
+  "key": "lonesomeness",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "lonesomeness",
+      "headword_raw": "lone\"some*ness",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a disposition toward being alone."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "aloneness",
+            "loneliness",
+            "solitude"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The condition of being alone; the feeling of sadness resulting from being alone."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

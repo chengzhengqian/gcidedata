@@ -1,0 +1,38 @@
+{
+  "key": "loran",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Loran",
+      "headword_raw": "Lor\"an",
+      "pr": "(lr\"n or lōr\"n)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Acronym, from LOng RAnge Navigation]",
+      "sources": [
+        "RDH"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Naut., aviation)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A system of electronic navigation in which a vessel or aircraft determines its latitude and longitude by measuring the time differences between low frequency radio transmissions from two stationary transmitters (slaves) and a stationary master transmitter. Contrary to the name, Loran is a medium range system, usually effective for no more than a few hundred miles from shore. The first commercial system was called Loran A; the latest (and final) development is Loran C."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

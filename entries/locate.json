@@ -1,0 +1,92 @@
+{
+  "key": "locate",
+  "source_file": "CIDE.L",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Locate",
+      "headword_raw": "Lo\"cate",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. locatus, p. p. of locare to place, fr. locus place. See Local.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": "[imp. & p. p. Located (?); p. pr. & vb. n. Locating.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To place; to set in a particular spot or position."
+          ],
+          "quotes": [
+            "The captives and emigrants whom he brought with him were located in the trans-Tiberine quarter."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To designate the site or place of; to define the limits of; as, to locate a public building; to locate a mining claim; to locate (the land granted by) a land warrant."
+          ],
+          "quotes": [
+            "That part of the body in which the sense of touch is located."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To discover the location or site of; as, to locate the source of a radio transmission; to locate a leak; to locate the malfunction in a system."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Locate",
+      "headword_raw": "Lo\"cate",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To place one's self; to take up one's residence; to settle; as, to locate in Seattle."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "key": "loiter",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Loiter",
+      "headword_raw": "Loi\"ter",
+      "pr": "(?)",
+      "pos": [
+        "v. i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[D. leuteren to delay, loiter; cf; Prov. G. lottern to be louse, lotter louse, slack, unsettled, vagrant, OHG. lotar.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Loitered (?); p. pr. & vb. n. Loitering.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To be slow in moving; to delay; to linger; to be dilatory; to spend time idly; to saunter; to lag behind."
+          ],
+          "quotes": [
+            "Sir John, you loiter here too long.",
+            "If we have loitered, let us quicken our pace."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To wander as an idle vagrant."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "linger",
+            "delay",
+            "lag",
+            "saunter",
+            "tarry"
+          ]
+        }
+      ]
+    }
+  ]
+}

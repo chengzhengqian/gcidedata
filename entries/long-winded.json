@@ -1,0 +1,65 @@
+{
+  "key": "long-winded",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Long-winded",
+      "headword_raw": "Long\"-wind\"ed",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Long-windedness",
+          "form_raw": "Long\"-wind\"ed*ness",
+          "key": "long-windedness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Long-breathed; hence, tediously long in speaking; consuming much time; as, a long-winded talker."
+          ],
+          "quotes": [
+            "A tedious, long-winded harangue."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "using or containing too many words; as, long-winded (or windy) speakers."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "tedious",
+            "verbose",
+            "windy",
+            "wordy"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "key": "logarithm",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Logarithm",
+      "headword_raw": "Log\"a*rithm",
+      "pr": "(lg\"*r'm)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. lo`gos word, account, proportion + 'ariqmo`s number: cf. F. logarithme.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Math.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "One of a class of auxiliary numbers, devised by John Napier, of Merchiston, Scotland (1550-1617), to abridge arithmetical calculations, by the use of addition and subtraction in place of multiplication and division."
+          ],
+          "quotes": [],
+          "notes": [
+            "The relation of logarithms to common numbers is that of numbers in an arithmetical series to corresponding numbers in a geometrical series, so that sums and differences of the former indicate respectively products and quotients of the latter; thus, 0 1 2 3 4 Indices or logarithms 1 10 100 1000 10,000 Numbers in geometrical progression Hence, the logarithm of any given number is the exponent of a power to which another given invariable number, called the base, must be raised in order to produce that given number. Thus, let 10 be the base, then 2 is the logarithm of 100, because 102 = 100, and 3 is the logarithm of 1,000, because 103 = 1,000."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

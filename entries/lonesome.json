@@ -1,0 +1,71 @@
+{
+  "key": "lonesome",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Lonesome",
+      "headword_raw": "Lone\"some",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "Compar.",
+        "superl.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Lonesomely",
+          "form_raw": "Lone\"some*ly",
+          "key": "lonesomely",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Lonesomeness",
+          "form_raw": "Lone\"some*ness",
+          "key": "lonesomeness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Secluded from society; not frequented by human beings; solitary."
+          ],
+          "quotes": [
+            "Like one that on a lonesome road Doth walk in fear and dread."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Conscious of, and somewhat depressed by, solitude; as, to feel lonesome."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

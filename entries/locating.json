@@ -1,0 +1,58 @@
+{
+  "key": "locating",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "locating",
+      "headword_raw": "locating",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "the act of putting something in a certain place or location."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "location",
+            "placement",
+            "position",
+            "positioning",
+            "emplacement",
+            "situating"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a determination of the location of something."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "localization",
+            "localisation",
+            "location",
+            "fix"
+          ]
+        }
+      ]
+    }
+  ]
+}

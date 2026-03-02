@@ -1,0 +1,83 @@
+{
+  "key": "logic",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Logic",
+      "headword_raw": "Log\"ic",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. logike, F. logique, L. logica, logice, Gr. logikh` (sc. te`chnh), fr. logiko`s belonging to speaking or reason, fr. lo`gos speech, reason, le`gein to say, speak. See Legend.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The science or art of exact reasoning, or of pure and formal thought, or of the laws according to which the processes of pure thinking should be conducted; the science of the formation and application of general notions; the science of generalization, judgment, classification, reasoning, and systematic arrangement; the science of correct reasoning."
+          ],
+          "quotes": [
+            "Logic is the science of the laws of thought, as thought; that is, of the necessary conditions to which thought, considered in itself, is subject."
+          ],
+          "notes": [
+            "☞ Logic is distinguished as pure and applied. “Pure logic is a science of the form, or of the formal laws, of thinking, and not of the matter. Applied logic teaches the application of the forms of thinking to those objects about which men do think.” Abp. Thomson."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A treatise on logic; as, Mill's Logic."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "correct reasoning; as, I can't see any logic in his argument; also, sound judgment; as, the logic of surrender was uncontestable."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "The path of reasoning used in any specific argument; as, his logic was irrefutable."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Electronics, Computers)"
+          ],
+          "defs": [
+            "A function of an electrical circuit (called a gate) that mimics certain elementary binary logical operations on electrical signals, such as AND, OR, or NOT; as, a logic circuit; the arithmetic and logic unit."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

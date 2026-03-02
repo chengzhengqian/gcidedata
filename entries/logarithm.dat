@@ -1,0 +1,59 @@
+SIMPLE: logarithm
+RECORDS: 1
+
+==== ENTRY 1 ====
+HEADWORD: Logarithm
+<hw>Log"a*rithm</hw> <pr>(l⟦ocr⟧g"⟦adot⟧*r⟦icr⟧⟦th⟧'m)</pr>,
+<pos>n.</pos> <ety>[Gr. <grk>lo`gos</grk> word, account, proportion +
+<grk>'ariqmo`s</grk> number: cf. F. <ets>logarithme</ets>.]</ety>
+<fld>(Math.)</fld> <def>One of a class of auxiliary numbers, devised by
+<person>John Napier</person>, of Merchiston, Scotland (1550-1617), to
+abridge arithmetical calculations, by the use of addition and
+subtraction in place of multiplication and division.</def> <note>The
+relation of <ex>logarithms</ex> to common numbers is that of numbers in
+an arithmetical series to corresponding numbers in a geometrical series,
+so that sums and differences of the former indicate respectively
+products and quotients of the latter; thus,⟦br⟧
+⟦br⟧
+<table><pre>⟦br⟧
+<row>0    1    2     3      4       Indices or logarithms</row>⟦br⟧
+<row>1   10   100  1000  10,000     Numbers in geometrical progression</row>⟦br⟧
+</pre></table>⟦br⟧
+⟦br⟧
+Hence, the logarithm of any given number is the exponent of a power to
+which another given invariable number, called the <xex>base</xex>, must
+be raised in order to produce that given number. Thus, let 10 be the
+base, then 2 is the logarithm of 100, because <mathex>10<exp>2</exp> =
+100</mathex>, and 3 is the logarithm of 1,000, because
+<mathex>10<exp>3</exp> = 1,000</mathex>.</note>⟦br⟧
+[<source>1913 Webster</source>]</p>
+
+<p><cs><col><b>Arithmetical complement of a logarithm</b></col>, <cd>the
+difference between a logarithm and the number ten.</cd> --
+<col><b>Binary logarithms</b></col>. <cd>See under <er>Binary</er>.</cd>
+-- <mcol><col><b>Common logarithms</b></col>, <it>or</it>
+<col><b>Brigg's logarithms</b></col></mcol>, <cd>logarithms of which the
+base is 10; -- so called from <person>Henry
+<etsep>Briggs</etsep></person>, who invented them.</cd> --
+<col><b>Gauss's logarithms</b></col>, <cd>tables of logarithms
+constructed for facilitating the operation of finding the logarithm of
+the sum of difference of two quantities from the logarithms of the
+quantities, one entry of those tables and two additions or subtractions
+answering the purpose of three entries of the common tables and one
+addition or subtraction. They were suggested by the celebrated German
+mathematician <person>Karl Friedrich <etsep>Gauss</etsep></person> (died
+in 1855), and are of great service in many astronomical
+computations.</cd> -- <mcol><col><b>Hyperbolic logarithm</b></col>
+<it>or</it> <col><b>Napierian logarithm</b></col> <it>or</it>
+<col><b>Natural logarithm</b></col></mcol>, <cd>a logarithm (devised by
+John Speidell, 1619) of which the base is <it>e</it>
+(2.718281828459045...); -- so called from
+<persfn><etsep>Napier</etsep></persfn>, the inventor of logarithms.</cd>
+-- <mcol><col><b>Logistic logarithms</b></col> <it>or</it>
+<col><b>Proportional logarithms</b></col></mcol>, <cd>See under
+<er>Logistic</er>.</cd></cs>⟦br⟧
+[<source>1913 Webster</source>]</p>
+
+<p><ent>Logarithmetical</ent>⟦br⟧
+<ent>Logarithmetic</ent>⟦br⟧
+<mhw>{

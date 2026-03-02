@@ -1,0 +1,98 @@
+{
+  "key": "local",
+  "source_file": "CIDE.L",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Local",
+      "headword_raw": "Lo\"cal",
+      "pr": "(lō\"kl)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. localis, fr. locus place: cf. F. local. See Lieu, Locus.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Law)",
+        "(Med.)",
+        "(Magnetism)",
+        "(Teleg.)",
+        "(Teleg.)",
+        "(Paint.)",
+        "(Literature)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to a particular place, or to a definite region or portion of space; restricted to one place or region; as, a local custom."
+          ],
+          "quotes": [
+            "Gives to airy nothing A local habitation and a name."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Local",
+      "headword_raw": "Lo\"cal",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Railroad)"
+          ],
+          "defs": [
+            "A train which receives and deposits passengers or freight along the line of the road; a train for the accommodation of a certain district."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "In newspaper cant, an item of news relating to the place where the paper is published."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A train or bus which stops at all stations along a line, as contrasted with an express, which stops only at certain stations designated as express stops."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

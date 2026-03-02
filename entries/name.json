@@ -1,0 +1,183 @@
+{
+  "key": "name",
+  "source_file": "CIDE.N",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Name",
+      "headword_raw": "Name",
+      "pr": "(nām)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[AS. nama; akin to D. naam, OS. & OHG. namo, G. name, Icel. nafn, for namn, Dan. navn, Sw. namn, Goth. namō, L. nomen (perh. influenced by noscere, gnoscere, to learn to know), Gr. 'o`mona, Scr. nāman. √267. Cf. Anonymous, Ignominy, Misnomer, Nominal, Noun.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "-- Name, Appellation, Title, Denomination. Name is generic, denoting that combination of sounds or letters by which a person or thing is known and distinguished. Appellation, although sometimes put for name simply, denotes, more properly, a descriptive term (called also agnomen or cognomen), used by way of marking some individual peculiarity or characteristic; as, Charles the Bold, Philip the Stammerer. A title is a term employed to point out one's rank, office, etc.; as, the Duke of Bedford, Paul the Apostle, etc. Denomination is to particular bodies what appellation is to individuals; thus, the church of Christ is divided into different denominations, as Congregationalists, Episcopalians, Presbyterians, etc."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The title by which any person or thing is known or designated; a distinctive specific appellation, whether of an individual or a class."
+          ],
+          "quotes": [
+            "Whatsoever Adam called every living creature, that was the name thereof.",
+            "What's in a name? That which we call a rose By any other name would smell as sweet."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A descriptive or qualifying appellation given to a person or thing, on account of a character or acts."
+          ],
+          "quotes": [
+            "His name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Reputed character; reputation, good or bad; estimation; fame; especially, illustrious character or fame; honorable estimation; distinction."
+          ],
+          "quotes": [
+            "What men of name resort to him?",
+            "Far above . . . every name that is named, not only in this world, but also in that which is to come.",
+            "I will get me a name and honor in the kingdom.",
+            "He hath brought up an evil name upon a virgin.",
+            "The king's army . . . had left no good name behind."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Those of a certain name; a race; a family."
+          ],
+          "quotes": [
+            "The ministers of the republic, mortal enemies of his name, came every day to pay their feigned civilities."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Gram.)"
+          ],
+          "defs": [
+            "A person, an individual."
+          ],
+          "quotes": [
+            "They list with women each degenerate name."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Appellation",
+            "title",
+            "designation",
+            "cognomen",
+            "denomination",
+            "epithet"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Name",
+      "headword_raw": "Name",
+      "pr": "(nām)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "n."
+      ],
+      "ety": "[AS. namian. See Name, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Named (nāmd); p. pr. & vb. n. Naming.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To give a distinctive name or appellation to; to entitle; to denominate; to style; to call."
+          ],
+          "quotes": [
+            "She named the child Ichabod.",
+            "Thus was the building left Ridiculous, and the work Confusion named."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To mention by name; to utter or publish the name of; to refer to by distinctive title; to mention."
+          ],
+          "quotes": [
+            "None named thee but to praise.",
+            "Old Yew, which graspest at the stones That name the underlying dead."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To designate by name or specifically for any purpose; to nominate; to specify; to appoint; as, to name a day for the wedding; to name someone as ambassador."
+          ],
+          "quotes": [
+            "Whom late you have named for consul."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(House of Commons)"
+          ],
+          "defs": [
+            "To designate (a member) by name, as the Speaker does by way of reprimand."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "denominate",
+            "style",
+            "term",
+            "call",
+            "mention",
+            "specify",
+            "designate",
+            "nominate"
+          ]
+        }
+      ]
+    }
+  ]
+}

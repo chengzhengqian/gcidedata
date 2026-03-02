@@ -1,0 +1,54 @@
+{
+  "key": "naphtha",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Naphtha",
+      "headword_raw": "Naph\"tha",
+      "pr": "(nf\"th or np\"th)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. naphtha, Gr. na`fqa, fr.Ar. nafth, nifth.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "The complex mixture of volatile, liquid, inflammable hydrocarbons, occurring naturally, and usually called crude petroleum, mineral oil, or rock oil.",
+            "That portion of the distillate obtained in the refinement of petroleum which is intermediate between the lighter gasoline and the heavier benzine, and has a specific gravity of about 0.7, -- used as a solvent for varnishes, as a carburetant, illuminant, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Chem.)",
+            "(Old Chem.)"
+          ],
+          "defs": [
+            "One of several volatile inflammable liquids obtained by the distillation of certain carbonaceous materials and resembling the naphtha from petroleum; as, Boghead naphtha, from Boghead coal (obtained at Boghead, Scotland); crude naphtha, or light oil, from coal tar; wood naphtha, from wood, etc."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ This term was applied by the earlier chemical writers to a number of volatile, strong smelling, inflammable liquids, chiefly belonging to the ethers, as the sulphate, nitrate, or acetate of ethyl."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

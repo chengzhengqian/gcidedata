@@ -1,0 +1,38 @@
+{
+  "key": "nappe",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Nappe",
+      "headword_raw": "Nappe",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. nappe cloth, sheet. See Napery.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Geom.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Sheet; surface; all that portion of a surface that is continuous in such a way that it is possible to pass from any one point of the portion to any other point of the portion without leaving the surface. Thus, some hyperboloids have one nappe, and some have two."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

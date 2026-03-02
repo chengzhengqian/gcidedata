@@ -1,0 +1,83 @@
+{
+  "key": "mystical",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Mystical",
+      "headword_raw": "Mys\"tic*al",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. mysticus, Gr. <?/ belonging to secret rites, from <?/ one initiated: cf. F. mystique. See 1st Mystery, Misty.]",
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Mystically",
+          "form_raw": "Mys\"tic*al*ly",
+          "key": "mystically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Mysticalness",
+          "form_raw": "Mys\"tic*al*ness",
+          "key": "mysticalness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Remote from or beyond human comprehension; baffling human understanding; unknowable; obscure; mysterious."
+          ],
+          "quotes": [
+            "Heaven's numerous hierarchy span The mystic gulf from God to man.",
+            "God hath revealed a way mystical and supernatural."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Importing or implying mysticism; involving some secret meaning; allegorical; emblematical; as, a mystic dance; mystic Babylon."
+          ],
+          "quotes": [
+            "Thus, then, did the spirit of unity and meekness inspire every joint and sinew of the mystical body."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "employing mysticism; as, mystical intuition; mystical explanations; -- contrasted to logical, rational, analytical."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

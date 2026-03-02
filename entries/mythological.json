@@ -1,0 +1,62 @@
+{
+  "key": "mythological",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Mythological",
+      "headword_raw": "Myth`o*log\"ic*al",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[L. mythologicus: cf. F. mytholigique.]",
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Mythologically",
+          "form_raw": "Myth`o*log\"ic*al*ly",
+          "key": "mythologically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to mythology or to myths; as, mythological creatures."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "based on or told of in traditional stories; lacking factual basis or historical validity; mythical; fabulous."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "fabulous",
+            "mythic",
+            "mythical"
+          ]
+        }
+      ]
+    }
+  ]
+}

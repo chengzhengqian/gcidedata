@@ -1,0 +1,49 @@
+{
+  "key": "mycetozoa",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Mycetozoa",
+      "headword_raw": "My*ce`to*zo\"a",
+      "pr": "(?)",
+      "pos": [
+        "n. pl.",
+        "a."
+      ],
+      "ety": "[NL.; Gr. my`khs, my`khtos, fungus + <?/ pl. of zw^,on an animal.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Mycetozoan",
+          "form_raw": "My*ce`to*zo\"an",
+          "key": "mycetozoan",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Zool.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The Myxomycetes; -- so called by those who regard them as a class of animals."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

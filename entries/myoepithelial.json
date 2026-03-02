@@ -1,0 +1,50 @@
+{
+  "key": "myoepithelial",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Myoepithelial",
+      "headword_raw": "My`o*ep`i*the\"li*al",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Myo- + epithelial.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Biol.)"
+          ],
+          "defs": [
+            "Derived from epithelial cells and destined to become a part of the muscular system; -- applied to structural elements in certain embryonic forms."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "Having the characteristics of both muscle and epithelium; as, the myoepithelial cells of the hydra."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

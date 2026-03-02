@@ -1,0 +1,54 @@
+{
+  "key": "myxomycetes",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Myxomycetes",
+      "headword_raw": "Myx`o*my*ce\"tes",
+      "pr": "(?)",
+      "pos": [
+        "n. pl.",
+        "a."
+      ],
+      "ety": "[NL.; Gr. <?/ mucus, slime + myceles.]",
+      "sources": [
+        "Webster 1913 Suppl.",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Myxomycetous",
+          "form_raw": "Myx`o*my*ce\"tous",
+          "key": "myxomycetous",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [
+        "true slime molds",
+        "acellular slime molds",
+        "plasmodial slime molds"
+      ],
+      "entry_fields": [
+        "(Bot.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A class of peculiar organisms, the slime molds, formerly regarded as animals (Mycetozoa), but now generally thought to be plants and often separated as a distinct phylum (Myxophyta); essentially equivalent to the division Myxomycota. They are found on damp earth and decaying vegetable matter, and consist of naked masses of protoplasm, often of considerable size, which creep very slowly over the surface and ingest solid food."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

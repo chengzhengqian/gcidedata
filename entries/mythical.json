@@ -1,0 +1,50 @@
+{
+  "key": "mythical",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Mythical",
+      "headword_raw": "Myth\"ic*al",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[L. mythicus, Gr. <?/. See Myth.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Mythically",
+          "form_raw": "Myth\"ic*al*ly",
+          "key": "mythically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of or relating to myths; described in a myth; of the nature of a myth; fabulous; imaginary; fanciful; mythological."
+          ],
+          "quotes": [
+            "The mythic turf where danced the nymphs.",
+            "Hengist and Horsa, Vortigern and Rowena, Arthur and Mordred, are mythical persons, whose very existence may be questioned."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

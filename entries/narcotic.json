@@ -1,0 +1,82 @@
+{
+  "key": "narcotic",
+  "source_file": "CIDE.N",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Narcotic",
+      "headword_raw": "Nar*cot\"ic",
+      "pr": "(när*kt\"k)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": "[F. narcotique, Gr. narkwtiko`s, fr. narkoy^n to benumb, na`rkh numbness, torpor.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Narcoticness",
+          "form_raw": "Nar*cot\"ic*ness",
+          "key": "narcoticness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Having the properties of a narcotic; operating as a narcotic."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Narcotic",
+      "headword_raw": "Nar*cot\"ic",
+      "pr": "(när*kt\"k)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A drug which, in medicinal doses, generally allays morbid susceptibility, relieves pain, and produces sleep; but which, in poisonous doses, produces stupor, coma, or convulsions, and, when given in sufficient quantity, causes death. The best examples are opium (with morphine), belladonna (with atropine), and conium."
+          ],
+          "quotes": [
+            "Nercotykes and opye (opium) of Thebes."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

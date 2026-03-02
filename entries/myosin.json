@@ -1,0 +1,42 @@
+{
+  "key": "myosin",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Myosin",
+      "headword_raw": "My\"o*sin",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. my^s, myo`s a muscle.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physiol. Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A protein present in muscle, serving as the principle contractile protein in muscle contraction."
+          ],
+          "quotes": [],
+          "notes": [
+            "It was earlier considered as being formed in the process of coagulation which takes place in rigor mortis. See Muscle plasma, under Plasma.",
+            "☞ Myosin belongs to the group of globulins. It is insoluble in water, but soluble in dilute solution of salt, and is especially characterized by being completely precipitated by saturation of its solutions with salt."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

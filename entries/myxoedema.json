@@ -1,0 +1,58 @@
+{
+  "key": "myxoedema",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Myxoedema",
+      "headword_raw": "Myx`oe*de\"ma",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[NL. fr. Gr. <?/ mucus + oedema.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Myxoedematous",
+          "form_raw": "Myx`oe*dem\"a*tous",
+          "key": "myxoedematous",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Myxoedemic",
+          "form_raw": "Myx`oe*dem\"ic",
+          "key": "myxoedemic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A disease producing a peculiar cretinoid appearance of the face, slow speech, and dullness of intellect, and due to failure of the functions of the thyroid gland."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

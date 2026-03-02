@@ -1,0 +1,81 @@
+{
+  "key": "reflexive",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Reflexive",
+      "headword_raw": "Re*flex\"ive",
+      "pr": "(-?v)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Cf. F. rflexif.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Reflexively",
+          "form_raw": "Re*flex\"ive*ly",
+          "key": "reflexively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Reflexiveness",
+          "form_raw": "Re*flex\"ive*ness",
+          "key": "reflexiveness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Bending or turned backward; reflective; having respect to something past."
+          ],
+          "quotes": [
+            "Assurance reflexive can not be a divine faith."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Implying censure."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Gram.)"
+          ],
+          "defs": [
+            "Having for its direct object a pronoun which refers to the agent or subject as its antecedent; -- said of certain verbs; as, the witness perjured himself; I bethought myself. Applied also to pronouns of this class; reciprocal; reflective."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

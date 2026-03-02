@@ -1,0 +1,56 @@
+{
+  "key": "rectilinear",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Rectilinear",
+      "headword_raw": "Rec`ti*lin\"e*ar",
+      "pr": "(-l?n\"?*?r)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[Recti- + lineal, linear.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Rectilineally",
+          "form_raw": "Rec`ti*lin\"e*al*ly",
+          "key": "rectilineally",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Rectilinearly",
+          "form_raw": "Rec`ti*lin\"e*ar*ly",
+          "key": "rectilinearly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Straight; consisting of a straight line or lines; bounded by straight lines; as, a rectilineal angle; a rectilinear figure or course."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

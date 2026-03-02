@@ -1,0 +1,51 @@
+{
+  "key": "rectification",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Rectification",
+      "headword_raw": "Rec`ti*fi*ca\"tion",
+      "pr": "(r?k`t?*f?*k?1sh?n)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. rectification.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act or operation of rectifying; as, the rectification of an error; the rectification of spirits."
+          ],
+          "quotes": [
+            "After the rectification of his views, he was incapable of compromise with profounder shapes of error."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Geom.)",
+            "(Astron.)"
+          ],
+          "defs": [
+            "The determination of a straight line whose length is equal a portion of a curve."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

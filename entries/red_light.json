@@ -1,0 +1,54 @@
+{
+  "key": "red_light",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Red light",
+      "headword_raw": "Red light",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "an electrically operated set of lights at a road intersection which has different lights visible to traffic from different directions, designed to control vehicle traffic through the intersection. Each set of lights typically has a colored red light and also green and amber lights; the color of the light which is lighted at any one time changes automatically to control the flow of traffic through the intersection, allowing flow from different directions in alternating succession. Also called traffic light, traffic signal or stop light. When the red light is illuminated the signal means to stop; green means to go; and amber means to stop or procede through the intersection with caution. In simple intersections of two roads, a red light visible to traffic on one road will usually be accompanied by a green light visible to traffic on the intersecting road. In some locations the lights may be set to be illuminated in other sequences or combinations; a blinking red light is typically equivalent to a “stop” sign, and a blinking amber light typically means “procede with caution”."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "the condition of a traffic light when the signal visible to the driver of a vehicle is red, signalling that the vehicle must stop and not enter the intersection; I got seven red lights on the way to work."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "figuratively, a sign or signal that one must stop doing what one is presently doing; as, a fatal side effect is often a red light to continuation of a clinical trial."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "key": "reflective",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Reflective",
+      "headword_raw": "Re*flect\"ive",
+      "pr": "(r?*fl?kt\"?v)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Cf. F. rflectif. Cf. Reflexive.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Reflectively",
+          "form_raw": "Re*flect\"ive*ly",
+          "key": "reflectively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Reflectiveness",
+          "form_raw": "Re*flect\"ive*ness",
+          "key": "reflectiveness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Throwing back images; as, a reflective mirror."
+          ],
+          "quotes": [
+            "In the reflective stream the sighing bride, viewing her charms."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Capable of exercising thought or judgment; as, reflective reason."
+          ],
+          "quotes": [
+            "His perceptive and reflective faculties . . . thus acquired a precocious and extraordinary development."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Addicted to introspective or meditative habits; as, a reflective person."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Gram.)"
+          ],
+          "defs": [
+            "Reflexive; reciprocal."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

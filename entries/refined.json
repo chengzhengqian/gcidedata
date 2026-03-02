@@ -1,0 +1,59 @@
+{
+  "key": "refined",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Refined",
+      "headword_raw": "Re*fined\"",
+      "pr": "(-f?nd\")",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Refinedly",
+          "form_raw": "Re*fin\"ed*ly",
+          "key": "refinedly",
+          "pos": [
+            "adv."
+          ],
+          "pr": "(r<?/*f<?/n\"<?/d*l<?/)"
+        },
+        {
+          "form": "Refinedness",
+          "form_raw": "Re*fin\"ed*ness",
+          "key": "refinedness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Freed from impurities or alloy; purifed; polished; cultured; delicate; as; refined gold; refined language; refined sentiments."
+          ],
+          "quotes": [
+            "Refined wits who honored poesy with their pens."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

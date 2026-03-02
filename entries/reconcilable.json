@@ -1,0 +1,59 @@
+{
+  "key": "reconcilable",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Reconcilable",
+      "headword_raw": "Rec\"on*ci`la*ble",
+      "pr": "(r?k\"?n*s?`l?*b'l)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[Cf. F. rconciliable.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Reconcilableness",
+          "form_raw": "Rec\"on*ci`la*ble*ness",
+          "key": "reconcilableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Reconcilably",
+          "form_raw": "Rec\"on*ci`la*bly",
+          "key": "reconcilably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Capable of being reconciled; as, reconcilable adversaries; an act reconciable with previous acts."
+          ],
+          "quotes": [
+            "The different accounts of the numbers of ships are reconcilable."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+SIMPLE: recursion
+RECORDS: 1
+
+==== ENTRY 1 ====
+HEADWORD: Recursion
+<hw>Re*cur"sion</hw> <pr>(-sh?n)</pr>, <pos>n.</pos> <ety>[L.
+<ets>recursio</ets>. See <er>Recur</er>.]</ety> <def>The act of
+recurring; return.</def> <mark>[Obs.]</mark>
+<rj><au>Boyle.</au></rj>⟦br⟧
+[<source>1913 Webster</source>]</p>
+
+<p><-- (Math.) The calculation of a mathematical expression (or a
+quantity) by repeating an operation on another expression which was
+derived by application of the same operation, on an expression which
+itself was the result of similar repeated applications of that same
+operation on prior results. The series of operations is terminated by
+specifying an initial or terminal condition.⟦br⟧
+[<source>1913 Webster</source>]</p>
+
+<p> (Computers) A programming technique in which a function calls itself
+as a subfunction. Such calls may be repeated in series to arbitrary
+depth, provided that a terminating condition is given so that the final
+(deepest) call will return a value (rather than continue to recurse),
+which then permits the next higher call to return a value, and so forth,
+until the original call returns a value to the calling program. -->⟦br⟧
+[<source>1913 Webster</source>]</p>
+
+<p><ent>Recurvate</ent>⟦br⟧

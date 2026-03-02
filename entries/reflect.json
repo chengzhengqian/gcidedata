@@ -1,0 +1,131 @@
+{
+  "key": "reflect",
+  "source_file": "CIDE.R",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Reflect",
+      "headword_raw": "Re*flect\"",
+      "pr": "(r?*fl?kt\")",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "v."
+      ],
+      "ety": "[L. reflectere, reflexum; pref. re- re- + flectere to bend or turn. See Flexible, and cf. Reflex, v.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Reflected; p. pr. & vb. n. Reflecting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To bend back; to give a backward turn to; to throw back; especially, to cause to return after striking upon any surface; as, a mirror reflects rays of light; polished metals reflect heat."
+          ],
+          "quotes": [
+            "Let me mind the reader to reflect his eye on our quotations.",
+            "Bodies close together reflect their own color."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To give back an image or likeness of; to mirror."
+          ],
+          "quotes": [
+            "Nature is the glass reflecting God, As by the sea reflected is the sun."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Reflect",
+      "headword_raw": "Re*flect\"",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To throw back light, heat, or the like; to return rays or beams."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To be sent back; to rebound as from a surface; to revert; to return."
+          ],
+          "quotes": [
+            "Whose virtues will, I hope, Reflect on Rome, as Titan's rays on earth."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To throw or turn back the thoughts upon anything; to contemplate. Specifically: To attend earnestly to what passes within the mind; to attend to the facts or phenomena of consciousness; to use attention or earnest thought; to meditate; especially, to think in relation to moral truth or rules."
+          ],
+          "quotes": [
+            "We can not be said to reflect upon any external object, except so far as that object has been previously perceived, and its image become part and parcel of our intellectual furniture.",
+            "All men are concious of the operations of their own minds, at all times, while they are awake, but there few who reflect upon them, or make them objects of thought.",
+            "As I much reflected, much I mourned."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "To cast reproach; to cause censure or dishonor."
+          ],
+          "quotes": [
+            "Errors of wives reflect on husbands still.",
+            "Neither do I reflect in the least upon the memory of his late majesty."
+          ],
+          "notes": [],
+          "synonyms": [
+            "consider",
+            "think",
+            "cogitate",
+            "mediate",
+            "contemplate",
+            "ponder",
+            "muse",
+            "ruminate"
+          ]
+        }
+      ]
+    }
+  ]
+}

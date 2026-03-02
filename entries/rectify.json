@@ -1,0 +1,76 @@
+{
+  "key": "rectify",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Rectify",
+      "headword_raw": "Rec\"ti*fy",
+      "pr": "(-f?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[F. rectifier, LL. rectificare; L. rectus right + -ficare (in comp.) to make. See Right, and -fy.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Rectified (-f?d); p. pr. & vb. n. Rectifying (-f?`?ng).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To make or set right; to correct from a wrong, erroneous, or false state; to amend; as, to rectify errors, mistakes, or abuses; to rectify the will, the judgment, opinions; to rectify disorders."
+          ],
+          "quotes": [
+            "I meant to rectify my conscience.",
+            "This was an error of opinion which a conflicting opinion would have rectified."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "To refine or purify by repeated distillation or sublimation, by which the fine parts of a substance are separated from the grosser; as, to rectify spirit of wine."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Com.)"
+          ],
+          "defs": [
+            "To produce ( as factitious gin or brandy) by redistilling low wines or ardent spirits (whisky, rum, etc.), flavoring substances, etc., being added."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "amend",
+            "emend",
+            "correct",
+            "better",
+            "mend",
+            "reform",
+            "redress",
+            "adjust",
+            "regulate",
+            "improve. See Amend"
+          ]
+        }
+      ]
+    }
+  ]
+}

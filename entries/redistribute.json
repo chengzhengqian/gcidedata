@@ -1,0 +1,47 @@
+{
+  "key": "redistribute",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Redistribute",
+      "headword_raw": "Re`dis*trib\"ute",
+      "pr": "(-tr?b\"?t)",
+      "pos": [
+        "v. t.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Redistribution",
+          "form_raw": "Re*dis`tri*bu\"tion",
+          "key": "redistribution",
+          "pos": [
+            "n."
+          ],
+          "pr": "(-tr<?/*b<?/\"sh<?/n)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To distribute again."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

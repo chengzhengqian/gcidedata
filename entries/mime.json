@@ -1,0 +1,122 @@
+{
+  "key": "mime",
+  "source_file": "CIDE.M",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Mime",
+      "headword_raw": "Mime",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. mimus, Gr. <?/, akin to <?/ to imitate, to mimic: cf. F. mime. Cf. Mimosa.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A kind of drama in which real persons and events were generally represented in a ridiculous manner; an ancient Greek or Roman form of farce."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "An actor in such representations."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "The art of representing actions, events, situations, or stories solely by gestures and body movements, without speaking; pantomime{3}."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "An actor who performs or specializes in mime{3}; an actor who communicates entirely by gesture and facial expression; a pantomime{2}; a pantomimist; a mimer."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "mummer",
+            "pantomimer",
+            "pantomimist"
+          ]
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "A mimic."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Mime",
+      "headword_raw": "Mime",
+      "pr": "(#)",
+      "pos": [
+        "v. i.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Mimer",
+          "form_raw": "Mim\"er",
+          "key": "mimer",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To mimic."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

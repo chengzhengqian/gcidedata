@@ -1,0 +1,49 @@
+{
+  "key": "microanalysis",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Microanalysis",
+      "headword_raw": "Mi`cro*a*nal\"y*sis",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Micro- + analysis.]",
+      "sources": [
+        "Webster 1913 Suppl.",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Analysis of the structure of materials from careful observation of photomicrographs."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "Chemical analysis of very small quantities of substances, requiring special apparatus to handle and weigh small amounts of materials."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

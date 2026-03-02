@@ -1,0 +1,41 @@
+{
+  "key": "microphone",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "microphone",
+      "headword_raw": "mi\"cro*phone",
+      "pr": "(mī\"kr*fōn)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Micro- + Gr. fwnh` sound, voice: cf. F. microphone.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An instrument for converting sounds into electrical signals, for the purpose of recording or amplifying the sounds. It produces its effects in various ways, as for example by the changes of intensity in an electric current, occasioned by the variations in the contact resistance of conducting bodies, especially of imperfect conductors, under the action of acoustic vibrations. Other forms of microphone may use changes in capacitance or other phenomena to transduce the sounds into electrical signals."
+          ],
+          "quotes": [],
+          "notes": [
+            "The electrical signals produced in a microphone may be transmitted to recording or amplifying equipment through a conducting wire, or by transmission as radio waves. The latter method is popular for use in small mobile microphones used by performers in plays and other entertainment events, at public meetings, and by broadcast personnel."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

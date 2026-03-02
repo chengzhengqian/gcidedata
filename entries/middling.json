@@ -1,0 +1,59 @@
+{
+  "key": "middling",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Middling",
+      "headword_raw": "Mid\"dling",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Middlingly",
+          "form_raw": "Mid\"dling*ly",
+          "key": "middlingly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Middlingness",
+          "form_raw": "Mid\"dling*ness",
+          "key": "middlingness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of middle rank, state, size, or quality; about equally distant from the extremes; medium; moderate; mediocre; ordinary."
+          ],
+          "quotes": [
+            "Plainly furnished, as beseemed the middling circumstances of its inhabitants."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "key": "microseism",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Microseism",
+      "headword_raw": "Mi\"cro*seism",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Micro- + Gr. <?/ an earthquake, fr. <?/ to shake.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Microseismic",
+          "form_raw": "Mi`cro*seis\"mic",
+          "key": "microseismic",
+          "pos": [],
+          "pr": "(#)"
+        },
+        {
+          "form": "Microseismical",
+          "form_raw": "Mi`cro*seis\"mic*al",
+          "key": "microseismical",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A feeble earth tremor not directly perceptible, but detected only by means of specially constructed apparatus."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

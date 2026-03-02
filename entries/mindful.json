@@ -1,0 +1,60 @@
+{
+  "key": "mindful",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Mindful",
+      "headword_raw": "Mind\"ful",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Mindfully",
+          "form_raw": "Mind\"ful*ly",
+          "key": "mindfully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Mindfulness",
+          "form_raw": "Mind\"ful*ness",
+          "key": "mindfulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Bearing in mind; regardful; attentive; heedful; observant."
+          ],
+          "quotes": [
+            "What is man, that thou art mindful of him?",
+            "I promise you to be mindful of your admonitions."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

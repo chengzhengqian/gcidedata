@@ -1,0 +1,69 @@
+{
+  "key": "middle-of-the-road",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "middle-of-the-road",
+      "headword_raw": "middle-of-the-road",
+      "pr": null,
+      "pos": [
+        "adj.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "middle-of-the-roader",
+          "form_raw": "middle-of-the-roader",
+          "key": "middle-of-the-roader",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "middle-of-the-roadism",
+          "form_raw": "middle-of-the-roadism",
+          "key": "middle-of-the-roadism",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "supporting or pursuing a course of action that is neither liberal nor conservative."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "centrist",
+            "moderate"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "not extreme, especially in political views."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

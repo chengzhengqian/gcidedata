@@ -1,0 +1,57 @@
+{
+  "key": "microbiology",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Microbiology",
+      "headword_raw": "Mi`cro*bi*ol\"o*gy",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[See Microbe; -logy.]",
+      "sources": [
+        "Webster 1913 Suppl.",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Microbiological",
+          "form_raw": "Mi`cro*bi`o*log\"ic*al",
+          "key": "microbiological",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Microbiologist",
+          "form_raw": "Mi`cro*bi*ol\"o*gist",
+          "key": "microbiologist",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The branch of biology studying minute organisms, or microbes, such as the bacteria, fungi, viruses, and protozoa."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

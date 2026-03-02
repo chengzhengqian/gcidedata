@@ -1,0 +1,20 @@
+SIMPLE: millennium_bug
+RECORDS: 1
+
+==== ENTRY 1 ====
+HEADWORD: millennium bug
+<hw>mil*len"ni*um bug`</hw> <pr>(m⟦icr⟧l*l⟦ecr⟧n"n⟦icr⟧*⟦ucr⟧m
+b⟦ucr⟧g`)</pr>, <pos>n.</pos> <fld>(Computers)</fld> <def>An error in
+the coding of certain computer programs which store the year component
+of the date as two digits, assuming that the first two digits are
+<it>19</it>, rather than as a complete number of four digits; when such
+programs are used after January 1, 2000, the date may be misinterpreted,
+causing serious errors or total failure of the program; -- called also
+<altname>year 2000 bug</altname>, <altname>year 2000 problem</altname>
+and <altname>Y2K bug</altname>.</def> <note>In the several years leading
+up to the year 2000, large corporations and other users of computers in
+total spent many billions of dollars correcting this error in the
+programs they use.</note>⟦br⟧
+[<source>PJC</source>]</p>
+
+<p><ent>Milleped</ent>⟦br⟧

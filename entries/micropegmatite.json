@@ -1,0 +1,49 @@
+{
+  "key": "micropegmatite",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Micropegmatite",
+      "headword_raw": "Mi`cro*peg\"ma*tite",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Micro- + pegmatite.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Micropegmatitic",
+          "form_raw": "Mi`cro*peg`ma*tit\"ic",
+          "key": "micropegmatitic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Min.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A rock showing under the microscope the structure of a graphic granite (pegmatite)."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

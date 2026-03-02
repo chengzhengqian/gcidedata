@@ -1,0 +1,86 @@
+{
+  "key": "pulp",
+  "source_file": "CIDE.P",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Pulp",
+      "headword_raw": "Pulp",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. pulpa flesh, pith, pulp of fruit: cf. F. pulpe.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Anat.)",
+        "(Bot.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A moist, slightly cohering mass, consisting of soft, undissolved animal or vegetable matter.",
+            "A tissue or part resembling pulp; especially, the soft, highly vascular and sensitive tissue which fills the central cavity, called the pulp cavity, of teeth.",
+            "The soft, succulent part of fruit; as, the pulp of a grape.",
+            "The exterior part of a coffee berry.",
+            "The material of which paper is made when ground up and suspended in water."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Pulp",
+      "headword_raw": "Pulp",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Pulped (?); p. pr. & vb. n. Pulping.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To reduce to pulp."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To deprive of the pulp, or integument."
+          ],
+          "quotes": [
+            "The other mode is to pulp the coffee immediately as it comes from the tree. By a simple machine a man will pulp a bushel in a minute."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

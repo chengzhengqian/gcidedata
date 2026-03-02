@@ -1,0 +1,38 @@
+{
+  "key": "psychiatry",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Psychiatry",
+      "headword_raw": "Psy*chi\"a*try",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[NL. psychiatria, fr. Gr. <?/ the mind + <?/ healing.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The application of the healing art to mental diseases."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

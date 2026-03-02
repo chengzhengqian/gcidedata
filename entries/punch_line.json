@@ -1,0 +1,50 @@
+{
+  "key": "punch_line",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "punch line",
+      "headword_raw": "punch\" line`",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The final sentence, phrase, or word in a joke or humorous story that is unexpected and produces the humorous effect; the point of a joke."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "laugh line",
+            "gag line",
+            "tag line"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The final sentence, phrase, or word in any narration, speech, or advertisement that produces the speaker's intended effect."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

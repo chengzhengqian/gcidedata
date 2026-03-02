@@ -1,0 +1,51 @@
+{
+  "key": "pteridophyta",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Pteridophyta",
+      "headword_raw": "Pter`i*doph\"y*ta",
+      "pr": "(?)",
+      "pos": [
+        "n. pl.",
+        "n."
+      ],
+      "ety": "[NL., from Gr. <?/, <?/, a fern + <?/ a plant.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Pteridophyte",
+          "form_raw": "Pter\"i*do*phyte`",
+          "key": "pteridophyte",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Bot.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A class of flowerless plants, embracing ferns, horsetails, club mosses, quillworts, and other like plants. See the Note under Cryptogamia."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ This is a modern term, devised to replace the older ones acrogens and vascular Cryptogamia."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

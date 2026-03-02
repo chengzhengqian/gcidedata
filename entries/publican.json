@@ -1,0 +1,51 @@
+{
+  "key": "publican",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Publican",
+      "headword_raw": "Pub\"li*can",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. publicanus: cf. F. publicain. See Public.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Rom. Antiq.)"
+          ],
+          "defs": [
+            "A farmer of the taxes and public revenues; hence, a collector of toll or tribute. The inferior officers of this class were often oppressive in their exactions, and were regarded with great detestation."
+          ],
+          "quotes": [
+            "As Jesus at meat . . . many publicans and sinners came and sat down with him and his disciples.",
+            "How like a fawning publican he looks!"
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The keeper of an inn or public house; one licensed to retail beer, spirits, or wine."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

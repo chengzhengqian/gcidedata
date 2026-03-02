@@ -1,0 +1,56 @@
+{
+  "key": "psychanalysis",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Psychanalysis",
+      "headword_raw": "Psy`cha*nal\"y*sis",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Psycho- + analysis.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Psychanalytic",
+          "form_raw": "Psy*chan`a*lyt\"ic",
+          "key": "psychanalytic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Psychanalysist",
+          "form_raw": "Psy`cha*nal\"y*sist",
+          "key": "psychanalysist",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "same as psychoanalysis; -- an older term now obsolete."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

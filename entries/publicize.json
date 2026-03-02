@@ -1,0 +1,55 @@
+{
+  "key": "publicize",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "publicize",
+      "headword_raw": "publicize",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "to make public; to announce."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "publicise",
+            "air",
+            "bare"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To announce in a manner intended to reach a large audience."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "advertise",
+            "advertize",
+            "call attention to"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "key": "psychoanalysis",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Psychoanalysis",
+      "headword_raw": "Psy`cho*a*nal\"y*sis",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl.",
+        "+PJC",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Psychoanalytic",
+          "form_raw": "Psy`cho*an`a*lyt\"ic",
+          "key": "psychoanalytic",
+          "pos": [
+            "a."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Psychoanalist",
+          "form_raw": "Psych`o*an\"al*ist",
+          "key": "psychoanalist",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A method or process of psychotherapeutic analysis and treatment pf psychoneuroses, based on the work of Dr. Sigmund Freud (1856- 1939) of Vienna. The method rests upon the theory that neurosis is characteristically due to repression of desires consciously rejected but subconsciously persistent; it consists in a close analysis of the patient's mental history, effort being made to bring unconsciuos and preconscious material to consciousness; the methods include analysis of transferance and resistance. In some variants, stress is laid upon the dream life, and of treatment by means of suggestion."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The theory of human psychology which is the foundation for the psychoanalytic therapy, which explores the relation between conscious and unconscious mental processes in motivating human behavior and causing neuroses."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "An integrated set of theories of human personality development, motivation, and behavior based on a body of observations."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "One of several schools of psychotherapy, such as jungian psychoanalysis or freudian psychoanalysis."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "key": "pupil",
+  "source_file": "CIDE.P",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Pupil",
+      "headword_raw": "Pu\"pil",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. pupille, n. fem., L. pupilla the pupil of the eye, originally dim. of pupa a girl. See Puppet, and cf. Pupil a scholar.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Anat.)",
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The aperture in the iris; the sight, apple, or black of the eye. See the Note under Eye, and Iris."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Pupil",
+      "headword_raw": "Pu\"pil",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. pupille, n. masc. & fem., L. pupillus, pupilla, dim. of pupus boy, pupa girl. See Puppet, and cf. Pupil of the eye.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A youth or scholar of either sex under the care of an instructor or tutor."
+          ],
+          "quotes": [
+            "Too far in years to be a pupil now.",
+            "Tutors should behave reverently before their pupils."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A person under a guardian; a ward."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Civil Law)"
+          ],
+          "defs": [
+            "A boy or a girl under the age of puberty, that is, under fourteen if a male, and under twelve if a female."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Learner",
+            "disciple",
+            "tyro",
+            "See Scholar"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "key": "psychopathy",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Psychopathy",
+      "headword_raw": "Psy*chop\"a*thy",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Psycho- + Gr. <?/, <?/.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Psychopathic",
+          "form_raw": "Psy`cho*path\"ic",
+          "key": "psychopathic",
+          "pos": [
+            "a."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Psychopathist",
+          "form_raw": "Psy*chop\"a*thist",
+          "key": "psychopathist",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Mental disease. See Psychosis, 2."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

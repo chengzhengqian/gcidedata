@@ -1,0 +1,71 @@
+{
+  "key": "pulley",
+  "source_file": "CIDE.P",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Pulley",
+      "headword_raw": "Pul\"ley",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "v. t."
+      ],
+      "ety": "[F. poulie, perhaps of Teutonic origin (cf. Poll, v. t.); but cf. OE. poleine, polive, pulley, LL. polanus, and F. poulain, properly, a colt, fr. L. pullus young animal, foal (cf. Pullet, Foal). For the change of sense, cf. F. poutre beam, originally, a filly, and E. easel.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Mach.)",
+        "(Arch.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A wheel with a broad rim, or grooved rim, for transmitting power from, or imparting power to, the different parts of machinery, or for changing the direction of motion, by means of a belt, cord, rope, or chain."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The pulley, as one of the mechanical powers, consists, in its simplest form, of a grooved wheel, called a sheave, turning within a movable frame or block, by means of a cord or rope attached at one end to a fixed point. The force, acting on the free end of the rope, is thus doubled, but can move the load through only half the space traversed by itself. The rope may also pass over a sheave in another block that is fixed. The end of the rope may be fastened to the movable block, instead of a fixed point, with an additional gain of power, and using either one or two sheaves in the fixed block. Other sheaves may be added, and the power multiplied accordingly. Such an apparatus is called by workmen a block and tackle, or a fall and tackle. See Block. A single fixed pulley gives no increase of power, but serves simply for changing the direction of motion."
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Pulley",
+      "headword_raw": "Pul\"ley",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To raise or lift by means of a pulley."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

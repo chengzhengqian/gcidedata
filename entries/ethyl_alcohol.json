@@ -1,0 +1,42 @@
+{
+  "key": "ethyl_alcohol",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "ethyl alcohol",
+      "headword_raw": "ethyl alcohol",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "ethanol",
+        "fermentation alcohol",
+        "grain alcohol"
+      ],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "the organic compound C2H5.OH, which is the intoxicating agent in beer, wine, and other fermented and distilled liquors; it is used pure or denatured as a solvent or in medicines and colognes and cleaning solutions and rocket fuel."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

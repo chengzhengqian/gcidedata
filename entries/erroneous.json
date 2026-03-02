@@ -1,0 +1,81 @@
+{
+  "key": "erroneous",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Erroneous",
+      "headword_raw": "Er*ro\"ne*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. erroneus, fr. errare to err. See Err.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Erroneously",
+          "form_raw": "Er*ro\"ne*ous*ly",
+          "key": "erroneously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Erroneousness",
+          "form_raw": "Er*ro\"ne*ous*ness",
+          "key": "erroneousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Wandering; straying; deviating from the right course; -- hence, irregular; unnatural."
+          ],
+          "quotes": [
+            "Stopped much of the erroneous light, which otherwise would have disturbed the vision."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Misleading; misled; mistaking."
+          ],
+          "quotes": [
+            "An erroneous conscience commands us to do what we ought to omit."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Containing error; not conformed to truth or justice; incorrect; false; mistaken; as, an erroneous doctrine; erroneous opinion, observation, deduction, view, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

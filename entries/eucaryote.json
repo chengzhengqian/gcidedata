@@ -1,0 +1,39 @@
+{
+  "key": "eucaryote",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "eucaryote",
+      "headword_raw": "eucaryote",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "eukaryote"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "an organism with \"good\" or membrane-bound nuclei having multiple chromosomes; eucaryotes also have other membrane-bound organelles such as mitochondria or chloroplasts, within the cytoplasm enclosed by the outer membrane. Such cells are characteristic of all life forms except primitive microorganisms such as bacteria and blue-green algae. Contrasted with prokaryote."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

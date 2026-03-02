@@ -1,0 +1,113 @@
+{
+  "key": "essay",
+  "source_file": "CIDE.E",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Essay",
+      "headword_raw": "Es\"say",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. essai, fr. L. exagium a weighing, weight, balance; ex out + agere to drive, do; cf. examen, exagmen, a means of weighing, a weighing, the tongue of a balance, exigere to drive out, examine, weigh, Gr. 'exa`gion a weight, 'exagia`zein to examine, 'exa`gein to drive out, export. See Agent, and cf. Exact, Examine, Assay.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "An effort made, or exertion of body or mind, for the performance of anything; a trial; attempt; as, to make an essay to benefit a friend."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Lit.)"
+          ],
+          "defs": [
+            "A composition treating of any particular subject; -- usually shorter and less methodical than a formal, finished treatise; as, an essay on the life and writings of Homer; an essay on fossils, or on commerce."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "An assay. See Assay, n."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Attempt",
+            "trial",
+            "endeavor",
+            "effort",
+            "tract",
+            "treatise",
+            "dissertation",
+            "disquisition"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Essay",
+      "headword_raw": "Es*say\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "n."
+      ],
+      "ety": "[F. essayer. See Essay, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Essayed (?); p. pr. & vb. n. Essaying.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To exert one's power or faculties upon; to make an effort to perform; to attempt; to endeavor; to make experiment or trial of; to try."
+          ],
+          "quotes": [
+            "What marvel if I thus essay to sing?",
+            "Essaying nothing she can not perform.",
+            "A danger lest the young enthusiast . . . should essay the impossible."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To test the value and purity of (metals); to assay. See Assay."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

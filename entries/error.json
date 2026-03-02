@@ -1,0 +1,131 @@
+{
+  "key": "error",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Error",
+      "headword_raw": "Er\"ror",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OF. error, errur, F. erreur, L. error, fr. errare to err. See Err.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A wandering; a roving or irregular course."
+          ],
+          "quotes": [
+            "The rest of his journey, his error by sea."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A wandering or deviation from the right course or standard; irregularity; mistake; inaccuracy; something made wrong or left wrong; as, an error in writing or in printing; a clerical error."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A departing or deviation from the truth; falsity; false notion; wrong opinion; mistake; misapprehension."
+          ],
+          "quotes": [
+            "His judgment was often in error, though his candor remained unimpaired."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "A moral offense; violation of duty; a sin or transgression; iniquity; fault."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "The difference between the approximate result and the true result; -- used particularly in the rule of double position."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [
+            "(Mensuration)"
+          ],
+          "defs": [
+            "The difference between an observed value and the true value of a quantity.",
+            "The difference between the observed value of a quantity and that which is taken or computed to be the true value; -- sometimes called residual error."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "7.",
+          "fields": [
+            "(Law.)"
+          ],
+          "defs": [
+            "A mistake in the proceedings of a court of record in matters of law or of fact."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "8.",
+          "fields": [
+            "(Baseball)",
+            "(Mensuration)",
+            "(Mensuration)",
+            "(Law)"
+          ],
+          "defs": [
+            "A fault of a player of the side in the field which results in failure to put out a player on the other side, or gives him an unearned base."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Mistake",
+            "fault",
+            "blunder",
+            "failure",
+            "fallacy",
+            "delusion",
+            "hallucination",
+            "sin. See Blunder"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "key": "eucalyptol",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "eucalyptol",
+      "headword_raw": "eu`ca*lyp*tol",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[eucalyptus + L. oleum oil.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "cineole",
+        "cajeputol"
+      ],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A volatile, terpenelike oil (C10H18O), which is the main constituent of the oil of eucalyptus. It has cockroach repellent activity and is used as a flavoring aid in pharmaceuticals. Chemically it is 1,3,3-trimethyl-2-oxabicyclo-[2,2,2]-octane."
+          ],
+          "quotes": [],
+          "notes": [
+            "In the 1913 Webster eucalytpol was defined as an oil “consisting largely of cymene”. Cymene (isopropyltoluene, C10H14) differs from that of the substance currently called eucalyptol, in having an unsaturated ring and no oxygen. Para-cymene does occur in eucalyptus oil as well as some other essential oils."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

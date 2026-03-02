@@ -1,0 +1,42 @@
+{
+  "key": "estop",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Estop",
+      "headword_raw": "Es*top\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OF. estoper to stop, plug, close, F. touper, LL. stuppare to close with tow, obstruct, fr. L. stuppa tow, oakum, cf. Gr. sty`pph. Cf. Stop.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Estophed (?); p. pr. & vb. n. Estopping.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Law)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To impede or bar by estoppel."
+          ],
+          "quotes": [
+            "A party will be estopped by his admissions, where his intent is to influence another, or derive an advantage to himself."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

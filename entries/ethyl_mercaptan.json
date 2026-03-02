@@ -1,0 +1,36 @@
+{
+  "key": "ethyl_mercaptan",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "ethyl mercaptan",
+      "headword_raw": "eth\"yl mer*cap\"tan",
+      "pr": "(?)",
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A gaseous substance (C2H5.SH) used as an odorant in natural gas and propane to facilitate detection and serve as a warning of leaks."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

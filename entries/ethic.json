@@ -1,0 +1,75 @@
+{
+  "key": "ethic",
+  "source_file": "CIDE.E",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Ethic",
+      "headword_raw": "Eth\"ic",
+      "pr": "(?)",
+      "pos": [],
+      "ety": null,
+      "sources": [],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "ethic",
+      "headword_raw": "eth\"ic",
+      "pr": "(th\"k)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "the principles of right and wrong that are accepted by an individual or a social group; as, the Puritan ethic."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "moral principle",
+            "value-system",
+            "value orientation"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a system of principles governing morality and acceptable conduct."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "ethical code"
+          ]
+        }
+      ]
+    }
+  ]
+}

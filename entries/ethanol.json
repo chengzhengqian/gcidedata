@@ -1,0 +1,42 @@
+{
+  "key": "ethanol",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "ethanol",
+      "headword_raw": "eth\"an*ol",
+      "pr": "(th\"n*l)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "ethyl alcohol",
+        "fermentation alcohol",
+        "grain alcohol"
+      ],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The organic compound C2H5.OH, the common alcohol which is the intoxicating agent in beer, wine, and other fermented and distilled liquors; called also ethyl alcohol. It is used pure or denatured as a solvent or in medicines and colognes and cleaning solutions, or mixed in gasoline as a fuel for automobiles, and as a rocket fuel (as in the V-2 rocket)."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

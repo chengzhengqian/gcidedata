@@ -1,0 +1,40 @@
+{
+  "key": "escape_velocity",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "escape velocity",
+      "headword_raw": "es*cape\" vel*o\"ci*ty",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The minimum velocity at which an object must be moving in order for it to overcome the gravitational attraction of a massive celestial body, such as the earth or the sun, and escape beyond its gravitational field into free space. The velocity is calculated as though attained instantaneously at the surface of the celestial body, and is pointed directly away from its center, and neglecting effects of atmospheric friction. Rockets, which accelerate gradually and are moving rapidly at a high altitude when their fuel is exhausted or their engines shut off, may escape even if moving slightly slower at that point than the surface escape velocity. Compare orbital velocity."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The escape velocity at the surface of the earth is 11.2 km/sec (25,100 miles per hour), at the moon's surface is 2.4 km/sec, and at the sun's surface is 617.7 km/sec. The escape velocity is calculated as: Ve = 2Rg where R is the radius of the celestial body and g is the acceleration due to the gravitational field at its surface. The peculiar chracteristic of a black hole is that the escape velocity at its “surface” (called its “event horizon”) is greater than the speed of light. Therefore nothing, not even light, may escape from it."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

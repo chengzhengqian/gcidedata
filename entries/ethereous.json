@@ -1,0 +1,50 @@
+{
+  "key": "ethereous",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Ethereous",
+      "headword_raw": "E*the\"re*ous",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L.aethereus, Gr. <?/ See Ether.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Formed of ether; ethereal."
+          ],
+          "quotes": [
+            "This ethereous mold whereon we stand."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "Pertaining to, or resembling, ether."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

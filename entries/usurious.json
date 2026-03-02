@@ -1,0 +1,67 @@
+{
+  "key": "usurious",
+  "source_file": "CIDE.U",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Usurious",
+      "headword_raw": "U*su\"ri*ous",
+      "pr": "(?; 277)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[From Usury.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Usuriously",
+          "form_raw": "U*su\"ri*ous*ly",
+          "key": "usuriously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Usuriousness",
+          "form_raw": "U*su\"ri*ous*ness",
+          "key": "usuriousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Practicing usury; taking illegal or exorbitant interest for the use of money; as, a usurious person."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Partaking of usury; containing or involving usury; as, a usurious contract."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

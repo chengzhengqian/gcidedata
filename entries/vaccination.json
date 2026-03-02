@@ -1,0 +1,49 @@
+{
+  "key": "vaccination",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Vaccination",
+      "headword_raw": "Vac`ci*na\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act, art, or practice of vaccinating, or inoculating with the cowpox, in order to prevent or mitigate an attack of smallpox. Cf. Inoculation."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ In recent use, vaccination sometimes includes inoculation with any virus as a preventive measure; as, vaccination against cholera."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Any inoculation intended to raise immunity to a disease."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

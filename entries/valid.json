@@ -1,0 +1,70 @@
+{
+  "key": "valid",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Valid",
+      "headword_raw": "Val\"id",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[F. valide, L. validus strong, from valere to be strong. See Valiant.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Strong; powerful; efficient."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Having sufficient strength or force; founded in truth; capable of being justified, defended, or supported; not weak or defective; sound; good; efficacious; as, a valid argument; a valid objection."
+          ],
+          "quotes": [
+            "An answer that is open to no valid exception."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "Having legal strength or force; executed with the proper formalities; incapable of being rightfully overthrown or set aside; as, a valid deed; a valid covenant; a valid instrument of any kind; a valid claim or title; a valid marriage."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Prevalent",
+            "available",
+            "efficacious",
+            "just",
+            "good",
+            "weighty",
+            "sufficient",
+            "sound",
+            "well-grounded"
+          ]
+        }
+      ]
+    }
+  ]
+}

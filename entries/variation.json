@@ -1,0 +1,92 @@
+{
+  "key": "variation",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Variation",
+      "headword_raw": "Va`ri*a\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. variatioun, F. variation, L. variatio. See Vary.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of varying; a partial change in the form, position, state, or qualities of a thing; modification; alteration; mutation; diversity; deviation; as, a variation of color in different lights; a variation in size; variation of language."
+          ],
+          "quotes": [
+            "The essences of things are conceived not capable of any such variation."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Extent to which a thing varies; amount of departure from a position or state; amount or rate of change."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Gram.)"
+          ],
+          "defs": [
+            "Change of termination of words, as in declension, conjugation, derivation, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Mus.)"
+          ],
+          "defs": [
+            "Repetition of a theme or melody with fanciful embellishments or modifications, in time, tune, or harmony, or sometimes change of key; the presentation of a musical thought in new and varied aspects, yet so that the essential features of the original shall still preserve their identity."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Alg.)",
+            "(Astron.)",
+            "(Astron.)",
+            "(Geog. & Naut.)"
+          ],
+          "defs": [
+            "One of the different arrangements which can be made of any number of quantities taking a certain number of them together."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Change",
+            "vicissitude",
+            "variety",
+            "deviation"
+          ]
+        }
+      ]
+    }
+  ]
+}

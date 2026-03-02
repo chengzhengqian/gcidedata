@@ -1,0 +1,60 @@
+{
+  "key": "usual",
+  "source_file": "CIDE.U",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Usual",
+      "headword_raw": "U\"su*al",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[L. usualis, from usus use: cf. F. usuel. See Use, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Usually",
+          "form_raw": "U\"su*al*ly",
+          "key": "usually",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Usualness",
+          "form_raw": "U\"su*al*ness",
+          "key": "usualness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Such as is in common use; such as occurs in ordinary practice, or in the ordinary course of events; customary; ordinary; habitual; common."
+          ],
+          "quotes": [
+            "Consultation with oracles was a thing very usual and frequent in their times.",
+            "We can make friends of these usual enemies."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

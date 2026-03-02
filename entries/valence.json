@@ -1,0 +1,40 @@
+{
+  "key": "valence",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Valence",
+      "headword_raw": "Va\"lence",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[From L. valens, -entis, p. pr. of valere to have power, to be strong. See Valiant.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The degree of combining power of an atom (or radical) as shown by the number of atoms of hydrogen (or of other monads, as chlorine, sodium, etc.) with which it will combine, or for which it can be substituted, or with which it can be compared; thus, an atom of hydrogen is a monad, and has a valence of one; the atoms of oxygen, nitrogen, and carbon are respectively dyads, triads, and tetrads, and have a valence respectively of two, three, and four."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The valence of certain elements varies in different compounds. Valence in degree may extend as high as seven or eight, as in the cases of iodine and osmium respectively. The doctrine of valence has been of fundamental importance in distinguishing the equivalence from the atomic weight, and is an essential factor in explaining the chemical structures of compounds."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

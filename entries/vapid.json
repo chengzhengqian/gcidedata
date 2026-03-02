@@ -1,0 +1,59 @@
+{
+  "key": "vapid",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Vapid",
+      "headword_raw": "Vap\"id",
+      "pr": "(vp\"d)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. vapidus having lost its life and spirit, vapid; akin to vappa vapid wine, vapor vapor. See Vapor.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Vapidly",
+          "form_raw": "Vap\"id*ly",
+          "key": "vapidly",
+          "pos": [
+            "adv."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Vapidness",
+          "form_raw": "Vap\"id*ness",
+          "key": "vapidness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Having lost its life and spirit; dead; spiritless; insipid; flat; dull; unanimated; as, vapid beer; a vapid speech; a vapid state of the blood."
+          ],
+          "quotes": [
+            "A cheap, bloodless reformation, a guiltless liberty, appear flat and vapid to their taste."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

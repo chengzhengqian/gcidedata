@@ -1,0 +1,48 @@
+{
+  "key": "uterine",
+  "source_file": "CIDE.U",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Uterine",
+      "headword_raw": "U\"ter*ine",
+      "pr": "(?; 277)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. uterinus born of the same mother, from uterus womb: cf. F. utrin.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or instrument to the uterus, or womb."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Born of the same mother, but by a different father."
+          ],
+          "quotes": [
+            "Walter Pope, uterine brother to Dr. Joh. Wilki<?/<?/."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

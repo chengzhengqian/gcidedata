@@ -1,0 +1,99 @@
+{
+  "key": "vaccine",
+  "source_file": "CIDE.V",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Vaccine",
+      "headword_raw": "Vac\"cine",
+      "pr": "(vk\"sīn or vk\"sn; 277)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. vaccinus, fr. vacca a cow; cf. Skr. vāç to bellow, to groan.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to cows; pertaining to, derived from, or caused by, vaccinia; as, vaccine virus; the vaccine disease."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to a vaccine or vaccination."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Vaccine",
+      "headword_raw": "Vac\"cine",
+      "pr": "(vk*sēn\" or vk\"sēn)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The virus of vaccinia used in vaccination."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "any preparation used to render an organism immune to some disease, by inducing or increasing the natural immunity mechanisms. Prior to 1995, such preparations usually contained killed organisms of the type for which immunity was desired, and sometimes used live organisms having attenuated virulence. Since that date, preparations containing only specific antigenic portions of the pathogenic organism have also been used. Some of these are prepared by genetic engineering techniques."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "A program designed to protect a computer from software viruses, by detecting and or eliminating them."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "key": "vapor_tension",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Vapor tension",
+      "headword_raw": "Vapor tension",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl.",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The pressure or tension of a confined body of vapor of a chemical substance in equilibrium with the solid or liquid form of the substance. The pressure of a given saturated vapor is a function of the temperature only, and may be measured by introducing a small quantity of the substance into a barometer and noting the depression of the column of mercury."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

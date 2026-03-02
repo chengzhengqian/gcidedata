@@ -1,0 +1,86 @@
+{
+  "key": "valiant",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Valiant",
+      "headword_raw": "Val\"iant",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[OE. valiant, F. vaillant, OF. vaillant, valant, originally p. pr. of OF. & F. valoir to be worth, L. valere to be strong. See Wield, and cf. Avail, Convalesce, Equivalent, Prevail, Valid.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Valiantly",
+          "form_raw": "Val\"iant*ly",
+          "key": "valiantly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Valiantness",
+          "form_raw": "Val\"iant*ness",
+          "key": "valiantness",
+          "pos": [],
+          "pr": null
+        },
+        {
+          "form": "n",
+          "form_raw": "n",
+          "key": "n",
+          "pos": [],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Vigorous in body; strong; powerful; as, a valiant fencer."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Intrepid in danger; courageous; brave."
+          ],
+          "quotes": [
+            "A valiant and most expert gentleman.",
+            "And Saul said to David . . . be thou valiant for me, and fight the Lord's battles."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Performed with valor or bravery; heroic."
+          ],
+          "quotes": [
+            "[The saints] have made such valiant confessions."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

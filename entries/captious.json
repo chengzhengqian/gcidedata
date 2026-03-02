@@ -1,0 +1,64 @@
+{
+  "key": "captious",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Captious",
+      "headword_raw": "Cap\"tious",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[F. captieux, L. captiosus. See Caption.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "-- Captious, caviling, Carping. A captious person is one who has a fault-finding habit or manner, or is disposed to catch at faults, errors, etc., with quarrelsome intent; a caviling person is disposed to raise objections on frivolous grounds; carping implies that one is given to ill-natured, persistent, or unreasonable fault-finding, or picking up of the words or actions of others."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Apt to catch at faults; disposed to find fault or to cavil; eager to object; difficult to please."
+          ],
+          "quotes": [
+            "A captious and suspicious age.",
+            "I am sensible I have not disposed my materials to abide the test of a captious controversy."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Fitted to harass, perplex, or insnare; insidious; troublesome."
+          ],
+          "quotes": [
+            "Captious restraints on navigation.",
+            "Caviling is the carping of argument, carping the caviling of ill temper."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Caviling",
+            "carping",
+            "fault-finding",
+            "censorious",
+            "hypercritical",
+            "peevish",
+            "fretful",
+            "perverse",
+            "troublesome"
+          ]
+        }
+      ]
+    }
+  ]
+}

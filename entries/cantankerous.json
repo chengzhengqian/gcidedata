@@ -1,0 +1,59 @@
+{
+  "key": "cantankerous",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Cantankerous",
+      "headword_raw": "Can*tan\"ker*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Cantankerously",
+          "form_raw": "Can*tan\"ker*ous*ly",
+          "key": "cantankerously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Cantankerousness",
+          "form_raw": "Can*tan\"ker*ous*ness",
+          "key": "cantankerousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Perverse; contentious; ugly; malicious."
+          ],
+          "quotes": [
+            "The cantankerous old maiden aunt."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

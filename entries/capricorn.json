@@ -1,0 +1,53 @@
+{
+  "key": "capricorn",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Capricorn",
+      "headword_raw": "Cap\"ri*corn",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. capricornus; caper goat + cornu horn: cf. F. capricorne.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Astron.)"
+          ],
+          "defs": [
+            "The tenth sign of zodiac, into which the sun enters at the winter solstice, about December 21. See Tropic."
+          ],
+          "quotes": [
+            "The sun was entered into Capricorn."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Astron.)",
+            "(Zool.)"
+          ],
+          "defs": [
+            "A southern constellation, represented on ancient monuments by the figure of a goat, or a figure with its fore part like a fish."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

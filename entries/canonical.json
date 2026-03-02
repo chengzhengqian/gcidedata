@@ -1,0 +1,87 @@
+{
+  "key": "canonical",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "canonical",
+      "headword_raw": "ca*non\"ic*al",
+      "pr": "(k*nn\"*kl)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. canonicus, LL. canonicalis, fr. L. canon: cf. F. canonique. See canon.]",
+      "sources": [
+        "1913 Webster",
+        "PJC",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Appearing in a Biblical canon; as, a canonical book of the Christian New Testament."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Accepted as authoritative; recognized."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "In its standard form, usually also the simplest form; -- of an equation or coordinate."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Linguistics)"
+          ],
+          "defs": [
+            "Reduced to the simplest and most significant form possible without loss of generality; as, a canonical syllable pattern. Opposite of nonstandard."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "standard"
+          ]
+        },
+        {
+          "sn": "6.",
+          "fields": [
+            "(Math.)",
+            "(Anc. Church.)"
+          ],
+          "defs": [
+            "Pertaining to or resembling a musical canon."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "key": "candelabra",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "candelabra",
+      "headword_raw": "candelabra",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a branched, ornamental candlestick having several sockets for candles."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "candelabrum"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a branched, ornamental electric light fixture, resembling an candelabra[wn1], having several sockets for lights."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "candelabrum"
+          ]
+        }
+      ]
+    }
+  ]
+}

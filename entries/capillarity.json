@@ -1,0 +1,50 @@
+{
+  "key": "capillarity",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Capillarity",
+      "headword_raw": "Cap`il*lar\"i*ty",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. capillarit.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The quality or condition of being capillary."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Physics)"
+          ],
+          "defs": [
+            "The peculiar action by which the surface of a liquid, where it is in contact with a solid (as in a capillary tube), is elevated or depressed; capillary attraction."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Capillarity depends upon the relative attraction of the modecules of the liquid for each other and for those of the solid, and is especially observable in capillary tubes, where it determines the ascent or descent of the liquid above or below the level of the liquid which the tube is dipped; -- hence the name.<-- It is especially important in certain plants, to allow flow of water from the roots to upper parts -->"
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

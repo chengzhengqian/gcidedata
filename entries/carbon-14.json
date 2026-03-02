@@ -1,0 +1,39 @@
+{
+  "key": "carbon-14",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "carbon-14",
+      "headword_raw": "carbon-14",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "radiocarbon",
+        "carbon 14"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a radioactive isotope of carbon with a half-life of 5730 years. It occurs naturally in minute quantities, and is used as the basis for radiocarbon dating."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

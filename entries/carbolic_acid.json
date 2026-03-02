@@ -1,0 +1,43 @@
+{
+  "key": "carbolic_acid",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Carbolic acid",
+      "headword_raw": "Car*bol\"ic ac\"id",
+      "pr": "(kär*bl\"k s\"d)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. carbo coal + oleum oil.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "phenol{1}",
+        "hydroxybenzene",
+        "phenyl hydroxide",
+        "phenic acid"
+      ],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "same as phenol{1}, (C6H5.OH). See phenol{1}."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

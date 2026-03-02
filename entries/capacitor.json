@@ -1,0 +1,40 @@
+{
+  "key": "capacitor",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "capacitor",
+      "headword_raw": "ca*pac\"i*tor",
+      "pr": "(k*ps\"*tr)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "condenser",
+        "electrical condenser"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a device used in electronic circuits to hold electrical charge, consisting of two conducting plates separated by a nonconducting (dielectric) medium; it is characterized by its capacitance."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

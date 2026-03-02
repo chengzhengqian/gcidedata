@@ -1,0 +1,42 @@
+{
+  "key": "carbonyl",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Carbonyl",
+      "headword_raw": "Car\"bon*yl",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Carbon + -yl.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem.)",
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The radical (=CO), occurring, always combined, in many compounds, as the aldehydes, the ketones, urea, carbonyl chloride, etc."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Though denoted by a formula identical with that of carbon monoxide, it is chemically distinct, as carbon seems to be divalent in carbon monoxide, but tetravalent in carbonyl compounds."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "key": "carboxyl_group",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "carboxyl group",
+      "headword_raw": "car*box\"yl group`",
+      "pr": "(kär*bks\"l grp)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a monovalent organic radical (written -COOH, -CO2H or -CO.OH) whose presence confers acidic properties on the compound containing it; -- called also carboxylic group. Monocarboxylic acids (such as acetic acid or butyric acid) have one carboxyl group, dicarboxylic acids (such as oxalic acid or malonic acid) have two, tricarboxylic acids (such as citric acid) have three. It is weakly acidic, the pKa of acetic acid being 4.75."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

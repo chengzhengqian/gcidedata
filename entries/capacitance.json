@@ -1,0 +1,52 @@
+{
+  "key": "capacitance",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "capacitance",
+      "headword_raw": "ca*pac\"i*tance",
+      "pr": "(k*ps\"*tns)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "an electrical phenomenon whereby an electric charge is stored."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "electrical capacity",
+            "capacity"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Electronics)"
+          ],
+          "defs": [
+            "a measure of the ability of a capacitor to store electrical charge; the ratio of the charge on one plate of a capacitor to the potential difference between the plates."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

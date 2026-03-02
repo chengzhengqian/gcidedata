@@ -1,0 +1,50 @@
+{
+  "key": "cantalever",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Cantalever",
+      "headword_raw": "Can\"ta*lev`er",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cant an external angle + lever a supporter of the roof timber of a house.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Arch.)"
+          ],
+          "defs": [
+            "A bracket to support a balcony, a cornice, or the like."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Engin.)"
+          ],
+          "defs": [
+            "A projecting beam, truss, or bridge unsupported at the outer end; one which overhangs."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

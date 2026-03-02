@@ -1,0 +1,57 @@
+{
+  "key": "cancerous",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "cancerous",
+      "headword_raw": "can\"cer*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Cf. F. cancreux]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Cancerously",
+          "form_raw": "Can\"cer*ous*ly",
+          "key": "cancerously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Cancerousness",
+          "form_raw": "Can\"cer*ous*ness",
+          "key": "cancerousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Like a cancer; having the qualities or virulence of a cancer; affected with cancer; as, a cancerous growth."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

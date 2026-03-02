@@ -1,0 +1,72 @@
+{
+  "key": "capricious",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Capricious",
+      "headword_raw": "Ca*pri\"cious",
+      "pr": "(k*prsh\"s)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Cf. F. capricieux, It. capriccioso.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Capriciously",
+          "form_raw": "Ca*pri\"cious*ly",
+          "key": "capriciously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Capriciousness",
+          "form_raw": "Ca*pri\"cious*ness",
+          "key": "capriciousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Freakish",
+        "whimsical",
+        "fanciful",
+        "fickle",
+        "crotchety",
+        "fitful",
+        "wayward",
+        "changeable",
+        "unsteady",
+        "uncertain",
+        "inconstant",
+        "arbitrary"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Governed or characterized by caprice; apt to change suddenly; freakish; whimsical; changeable."
+          ],
+          "quotes": [
+            "A capricious partiality to the Romish practices."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

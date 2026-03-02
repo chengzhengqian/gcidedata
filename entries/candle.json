@@ -1,0 +1,55 @@
+{
+  "key": "candle",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Candle",
+      "headword_raw": "Can\"dle",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. candel, candel, AS, candel, fr. L. candela a (white) light made of wax or tallow, fr. candëre to be white. See Candid, and cf. Chandler, Cannel, Kindle.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A slender, cylindrical body of tallow, containing a wick composed of loosely twisted linen of cotton threads, and used to furnish light."
+          ],
+          "quotes": [
+            "How far that little candle throws his beams! So shines a good deed in a naughty world."
+          ],
+          "notes": [
+            "☞ Candles are usually made by repeatedly dipping the wicks in the melted tallow, etc. (“dipped candles”), or by casting or running in a mold."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Photom.)",
+            "(Photom.)"
+          ],
+          "defs": [
+            "That which gives light; a luminary."
+          ],
+          "quotes": [
+            "By these blessed candles of the night."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

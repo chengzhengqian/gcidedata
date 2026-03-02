@@ -1,0 +1,79 @@
+{
+  "key": "canine",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Canine",
+      "headword_raw": "Ca*nine\"",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. caninus, fr. canis dog: cf. F. canin. See Hound.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to the family Canidæ, or dogs and wolves; having the nature or qualities of a dog; like that or those of a dog."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Anat.)"
+          ],
+          "defs": [
+            "Of or pertaining to the pointed tooth on each side the incisors."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Canine",
+      "headword_raw": "Ca*nine\"",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Anat.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A canine tooth."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

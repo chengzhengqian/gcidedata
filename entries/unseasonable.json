@@ -1,0 +1,57 @@
+{
+  "key": "unseasonable",
+  "source_file": "CIDE.U",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Unseasonable",
+      "headword_raw": "Un*sea\"son*a*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Unseasonableness",
+          "form_raw": "Un*sea\"son*a*ble*ness",
+          "key": "unseasonableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Unseasonably",
+          "form_raw": "Un*sea\"son*a*bly",
+          "key": "unseasonably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not seasonable; being, done, or occurring out of the proper season; ill-timed; untimely; too early or too late; as, he called at an unseasonable hour; unseasonable advice; unseasonable frosts; unseasonable food."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

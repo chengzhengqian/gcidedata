@@ -1,0 +1,59 @@
+{
+  "key": "unsearchable",
+  "source_file": "CIDE.U",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Unsearchable",
+      "headword_raw": "Un*search\"a*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Unsearchableness",
+          "form_raw": "Un*search\"a*ble*ness",
+          "key": "unsearchableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Unsearchably",
+          "form_raw": "Un*search\"a*bly",
+          "key": "unsearchably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not searchable; inscrutable; hidden; mysterious."
+          ],
+          "quotes": [
+            "The counsels of God are to us unsearchable."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

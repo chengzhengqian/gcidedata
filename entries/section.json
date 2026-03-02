@@ -1,0 +1,110 @@
+{
+  "key": "section",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Section",
+      "headword_raw": "Sec\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. sectio, fr. secare, sectum, to cut; akin to E. saw a cutting instrument: cf. F. section. See Saw, and cf. Scion, Dissect, Insect, Secant, Segment.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "Section, Part. The English more commonly apply the word section to a part or portion of a body of men; as, a section of the clergy, a small section of the Whigs, etc. In the United States this use is less common, but another use, unknown or but little known in England, is very frequent, as in the phrases “the eastern section of our country,” etc., the same sense being also given to the adjective sectional; as, sectional feelings, interests, etc."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of cutting, or separation by cutting; as, the section of bodies."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A part separated from something; a division; a portion; a slice.",
+            "A distinct part or portion of a book or writing; a subdivision of a chapter; the division of a law or other writing; a paragraph; an article; hence, the character §, often used to denote such a division.",
+            "A distinct part of a country or people, community, class, or the like; a part of a territory separated by geographical lines, or of a people considered as distinct.",
+            "One of the portions, of one square mile each, into which the public lands of the United States are divided; one thirty-sixth part of a township. These sections are subdivided into quarter sections for sale under the homestead and preemption laws."
+          ],
+          "quotes": [
+            "It is hardly possible to give a distinct view of his several arguments in distinct sections.",
+            "The extreme section of one class consists of bigoted dotards, the extreme section of the other consists of shallow and reckless empirics."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Geom.)"
+          ],
+          "defs": [
+            "The figure made up of all the points common to a superficies and a solid which meet, or to two superficies which meet, or to two lines which meet. In the first case the section is a superficies, in the second a line, and in the third a point."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Nat. Hist.)"
+          ],
+          "defs": [
+            "A division of a genus; a group of species separated by some distinction from others of the same genus; -- often indicated by the sign §."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Mus.)"
+          ],
+          "defs": [
+            "A part of a musical period, composed of one or more phrases. See Phrase."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [
+            "(Math.)",
+            "(Geom.)",
+            "(Drawing)"
+          ],
+          "defs": [
+            "The description or representation of anything as it would appear if cut through by any intersecting plane; depiction of what is beyond a plane passing through, or supposed to pass through, an object, as a building, a machine, a succession of strata; profile."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ In mechanical drawing, as in these Illustrations of a cannon, a longitudinal section (a) usually represents the object as cut through its center lengthwise and vertically; a cross or transverse section (b), as cut crosswise and vertically; and a horizontal section (c), as cut through its center horizontally. Oblique sections are made at various angles. In architecture, a vertical section is a drawing showing the interior, the thickness of the walls, etc., as if made on a vertical plane passed through a building."
+          ],
+          "synonyms": [
+            "Part",
+            "portion",
+            "division"
+          ]
+        }
+      ]
+    }
+  ]
+}

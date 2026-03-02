@@ -1,0 +1,52 @@
+{
+  "key": "secern",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Secern",
+      "headword_raw": "Se*cern\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. secernere. See Secrete.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Secerned (?); p. pr. & vb. n. Secerning.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To separate; to distinguish."
+          ],
+          "quotes": [
+            "Averroes secerns a sense of titillation, and a sense of hunger and thirst."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Physiol.)"
+          ],
+          "defs": [
+            "To secrete; as, mucus secerned in the nose."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

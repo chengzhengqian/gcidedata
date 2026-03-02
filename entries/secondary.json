@@ -1,0 +1,180 @@
+{
+  "key": "secondary",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Secondary",
+      "headword_raw": "Sec\"ond*a*ry",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": "[Cf. F. secondaire, L. secundaire. See Second, a.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Succeeding next in order to the first; of second place, origin, rank, etc.; not primary; subordinate; not of the first order or rate."
+          ],
+          "quotes": [
+            "Wheresoever there is moral right on the one hand, no secondary right can discharge it.",
+            "Two are the radical differences; the secondary differences are as four."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Acting by deputation or delegated authority; as, the work of secondary hands."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "Possessing some quality, or having been subject to some operation (as substitution), in the second degree; as, a secondary salt, a secondary amine, etc. Cf. primary."
+          ],
+          "quotes": [],
+          "notes": [
+            "A primary amine has the general formula R.NH2; a secondary amine has the general formula R.NH.R, where R and R are alkyl or aryl groups. A primary alcohol has the general formula R.CH2.OH; a secondary alcohol has the general formula R.CHOH.R. Tertiary amines and alcohols have the general formulas R.CRN.R and R.CROH.R, respectively."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Min.)"
+          ],
+          "defs": [
+            "Subsequent in origin; -- said of minerals produced by alteration or deposition subsequent to the formation of the original rock mass; also of characters of minerals (as secondary cleavage, etc.) developed by pressure or other causes."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "Pertaining to the second joint of the wing of a bird."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [
+            "(Med.)",
+            "(Geol.)",
+            "(Chem.)",
+            "(Surg.)",
+            "(Opt.)",
+            "(Elec.)",
+            "(Geom. & Astron.)",
+            "(Elec.)",
+            "(Zool.)",
+            "(Min.)",
+            "(Elec.)",
+            "(Med.)",
+            "(Med.)",
+            "(Astron.)",
+            "(Zool.)",
+            "(Geol.)",
+            "(Med.)",
+            "(Surg.)"
+          ],
+          "defs": [
+            "Dependent or consequent upon another disease; as, Bright's disease is often secondary to scarlet fever.",
+            "Occurring in the second stage of a disease; as, the secondary symptoms of syphilis."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Second",
+            "second-rate",
+            "subordinate",
+            "inferior"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Secondary",
+      "headword_raw": "Sec\"ond*a*ry",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One who occupies a subordinate, inferior, or auxiliary place; a delegate or deputy; one who is second or next to the chief officer; as, the secondary, or undersheriff of the city of London."
+          ],
+          "quotes": [
+            "Old Escalus . . . is thy secondary."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Astron.)"
+          ],
+          "defs": [
+            "A secondary circle.",
+            "A satellite."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "A secondary quill."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

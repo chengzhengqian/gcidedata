@@ -1,0 +1,68 @@
+{
+  "key": "sedulous",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Sedulous",
+      "headword_raw": "Sed\"u*lous",
+      "pr": "(?; 135)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. sedulus, perhaps from sedere to sit, and so akin to E. sit.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Sedulously",
+          "form_raw": "Sed\"u*lous*ly",
+          "key": "sedulously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Sedulousness",
+          "form_raw": "Sed\"u*lous*ness",
+          "key": "sedulousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Assiduous",
+        "diligent",
+        "industrious",
+        "laborious",
+        "unremitting",
+        "untiring",
+        "unwearied",
+        "persevering"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Diligent in application or pursuit; constant, steady, and persevering in business, or in endeavors to effect an object; steadily industrious; assiduous; as, the sedulous bee."
+          ],
+          "quotes": [
+            "What signifies the sound of words in prayer, without the affection of the heart, and a sedulous application of the proper means that may naturally lead us to such an end?"
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

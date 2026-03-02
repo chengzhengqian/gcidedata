@@ -1,0 +1,58 @@
+{
+  "key": "sector",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Sector",
+      "headword_raw": "Sec\"tor",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L., properly, a cutter, fr. secare, sectum, to cut: cf. F. secteur. See Section.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Geom.)"
+          ],
+          "defs": [
+            "A part of a circle comprehended between two radii and the included arc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A mathematical instrument, consisting of two rulers connected at one end by a joint, each arm marked with several scales, as of equal parts, chords, sines, tangents, etc., one scale of each kind on each arm, and all on lines radiating from the common center of motion. The sector is used for plotting, etc., to any scale."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "An astronomical instrument, the limb of which embraces a small portion only of a circle, used for measuring differences of declination too great for the compass of a micrometer. When it is used for measuring zenith distances of stars, it is called a zenith sector."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

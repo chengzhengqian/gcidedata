@@ -1,0 +1,53 @@
+{
+  "key": "segmental",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Segmental",
+      "headword_raw": "Seg*men\"tal",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Relating to, or being, a segment."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Anat. & Zool.)",
+            "(Anat.)",
+            "(Anat.)",
+            "(Zool.)",
+            "(Anat.)"
+          ],
+          "defs": [
+            "Of or pertaining to the segments of animals; as, a segmental duct; segmental papillae.",
+            "Of or pertaining to the segmental organs."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

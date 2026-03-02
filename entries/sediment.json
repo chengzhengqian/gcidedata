@@ -1,0 +1,48 @@
+{
+  "key": "sediment",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Sediment",
+      "headword_raw": "Sed\"i*ment",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. sdiment, L. sedimentum a settling, fr. sedere to sit, to settle. See Sit.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The matter which subsides to the bottom, from water or any other liquid; settlings; lees; dregs."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Geol.)"
+          ],
+          "defs": [
+            "The material of which sedimentary rocks are formed."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

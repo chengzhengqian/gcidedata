@@ -1,0 +1,36 @@
+{
+  "key": "seasonal_affective_disorder",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "seasonal affective disorder",
+      "headword_raw": "seasonal affective disorder",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A form of mild depression that occurs in winters, associated with reduction in the amount of sunlight. It is characterized by oversleeping, irritability, and sometimes overeating. It can be treated by light therapy and usually disappears with the arrival of spring."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

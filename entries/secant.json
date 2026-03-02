@@ -1,0 +1,80 @@
+{
+  "key": "secant",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Secant",
+      "headword_raw": "Se\"cant",
+      "pr": "(sē\"knt)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. secans, -antis, p. pr. of secare to cut. See Section.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Cutting; dividing into two parts; as, a secant line."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Secant",
+      "headword_raw": "Secant",
+      "pr": null,
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Cf. F. scante. See Secant, a.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Geom.)"
+          ],
+          "defs": [
+            "A line that cuts another; especially, a straight line cutting a curve in two or more points."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Trig.)"
+          ],
+          "defs": [
+            "A right line drawn from the center of a circle through one end of a circular arc, and terminated by a tangent drawn from the other end; the number expressing the ratio of this line to the radius of the circle. See Trigonometrical function, under Function."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

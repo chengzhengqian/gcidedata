@@ -1,0 +1,59 @@
+{
+  "key": "seasonable",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Seasonable",
+      "headword_raw": "Sea\"son*a*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Seasonableness",
+          "form_raw": "Sea\"son*a*ble*ness",
+          "key": "seasonableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Seasonably",
+          "form_raw": "Sea\"son*a*bly",
+          "key": "seasonably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Occurring in good time, in due season, or in proper time for the purpose; suitable to the season; opportune; timely; as, a seasonable supply of rain."
+          ],
+          "quotes": [
+            "Mercy is seasonable in the time of affliction."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

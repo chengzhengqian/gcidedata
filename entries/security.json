@@ -1,0 +1,82 @@
+{
+  "key": "security",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Security",
+      "headword_raw": "Se*cu\"ri*ty",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. securitas: cf. F. scurit. See Secure, and cf. Surety.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The condition or quality of being secure; secureness.",
+            "Freedom from apprehension, anxiety, or care; confidence of power or safety; hence, assurance; certainty.",
+            "Hence, carelessness; negligence; heedlessness.",
+            "Freedom from risk; safety."
+          ],
+          "quotes": [
+            "His trembling hand had lost the ease, Which marks security to please.",
+            "He means, my lord, that we are too remiss, Whilst Bolingbroke, through our security, Grows strong and great in substance and in power.",
+            "Give up yourself merely to chance and hazard, From firm security.",
+            "Some . . . alleged that we should have no security for our trade."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That which secures or makes safe; protection; guard; defense.",
+            "Something given, deposited, or pledged, to make certain the fulfillment of an obligation, the performance of a contract, the payment of a debt, or the like; surety; pledge.",
+            "One who becomes surety for another, or engages himself for the performance of another's obligation."
+          ],
+          "quotes": [
+            "Those who lent him money lent it on no security but his bare word."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "An evidence of debt or of property, as a bond, a certificate of stock, etc.; as, government securities."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Protection",
+            "defense",
+            "guard",
+            "shelter",
+            "safety",
+            "certainty",
+            "ease",
+            "assurance",
+            "carelessness",
+            "confidence",
+            "surety",
+            "pledge",
+            "bail"
+          ]
+        }
+      ]
+    }
+  ]
+}

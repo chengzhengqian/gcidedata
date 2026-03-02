@@ -1,0 +1,63 @@
+{
+  "key": "outlandish",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Outlandish",
+      "headword_raw": "Out*land\"ish",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[AS. ūtlendisc foreign. See Out, Land, and -ish.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Outlandishly",
+          "form_raw": "Out*land\"ish*ly",
+          "key": "outlandishly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Foreign; not native."
+          ],
+          "quotes": [
+            "Him did outlandish women cause to sin.",
+            "Its barley water and its outlandish wines."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Deviating conspicuously from common practice; strange; freakish; bizarre; rude; barbarous; uncouth; clownish; as, an outlandish dress, behavior, or speech; -- usually used in a negative sense."
+          ],
+          "quotes": [
+            "Something outlandish, unearthy, or at variance with ordinary fashion."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "key": "overdraw",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Overdraw",
+      "headword_raw": "O`ver*draw\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp.",
+        "p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": "[imp. Overdrew (?); p. p. Overdrawn (?); p. pr. & vb. n. Overdrawing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To exaggerate; to overdo."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Banking)"
+          ],
+          "defs": [
+            "To make drafts upon or against, in excess of the proper amount or limit; to draw more than the balance in one's account."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

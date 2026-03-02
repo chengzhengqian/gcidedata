@@ -1,0 +1,73 @@
+{
+  "key": "over-the-counter",
+  "source_file": "CIDE.O",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "over-the-counter",
+      "headword_raw": "over-the-counter",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "able to be sold legally without a doctor's prescription; -- of medicinal drugs. Contrasted with prescription."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "nonprescription(prenominal)"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Finance)"
+          ],
+          "defs": [
+            "not quoted on a stock exchange; sold only through private negotiations between buyer and seller; -- of securities; as, over-the-counter stocks."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "over-the-counter",
+      "headword_raw": "over-the-counter",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

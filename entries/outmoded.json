@@ -1,0 +1,64 @@
+{
+  "key": "outmoded",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "outmoded",
+      "headword_raw": "outmoded",
+      "pr": null,
+      "pos": [
+        "adj.",
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "same as old-fashioned, a., 3."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "antique",
+            "demode",
+            "old-fashioned{3}",
+            "old-hat(predicate)",
+            "out-of-date",
+            "out of fashion(predicate)",
+            "out of style(predicate)",
+            "passe",
+            "passee"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Unacceptable because it is inferior to current standards, procedures, or technology."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "obsolete",
+            "outdated",
+            "out-of-date",
+            "superannuated",
+            "old-fashioned{2}"
+          ]
+        }
+      ]
+    }
+  ]
+}

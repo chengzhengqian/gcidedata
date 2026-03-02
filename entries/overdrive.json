@@ -1,0 +1,89 @@
+{
+  "key": "overdrive",
+  "source_file": "CIDE.O",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Overdrive",
+      "headword_raw": "O`ver*drive\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t. & i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To drive too hard, or far, or beyond strength."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "overdrive",
+      "headword_raw": "o\"ver*drive`",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Machinery)"
+          ],
+          "defs": [
+            "A gearing device which causes the drive shaft of an automobile or other machine to rotate at a speed greater than that of the engine crankshaft."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Automotive)"
+          ],
+          "defs": [
+            "The gear setting of a motor vehicle at which the overdrive{1} is operative; as, cruising at 80 mph in overdrive."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A state of unusually intense activity; as, when they got their new supercomputer, their research kicked into overdrive; one look at her made his heart jump into overdrive; -- used mostly of the activities of persons or groups."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

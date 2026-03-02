@@ -1,0 +1,84 @@
+{
+  "key": "output",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Output",
+      "headword_raw": "Out\"put`",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "+PJC",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The amount or quantity of a material or product that is produced by a mine, factory, or any system for production of commercial goods, such as the amount of coal or ore put out from one or more mines, or the quantity of material produced by, or turned out from, one or more furnaces or mills, in a given time; production."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The materials, profits, or information produced by any system."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Physiol.)"
+          ],
+          "defs": [
+            "That which is thrown out as products of the metabolic activity of the body; the egesta other than the faeces. See Income."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The output consists of: (a) The respiratory products of the lungs, skin, and alimentary canal, consisting chiefly of carbonic acid and water with small quantities of hydrogen and carbureted hydrogen. (b) Perspiration, consisting chiefly of water and salts. (c) The urine, which is assumed to contain all the nitrogen truly excreted by the body, besides a large quantity of saline matters and water. Foster."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "The power, voltage, or current produced by a device to generate or regulate electrical power; as, the power supply had a maximum output of 250 milliamps."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "The data or information produced by operation of a computer program or subroutine for transfer to another program or to an external device. The output of one program may be used as the input to another program."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

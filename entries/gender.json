@@ -1,0 +1,126 @@
+{
+  "key": "gender",
+  "source_file": "CIDE.G",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Gender",
+      "headword_raw": "Gen\"der",
+      "pr": "(jn\"dr)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OF. genre, gendre (with excrescent d.), F.genre, fr. L. genus, generis, birth, descent, race, kind, gender, fr. the root of genere, gignere, to beget, in pass., to be born, akin to E. kin. See Kin, and cf. Generate, Genre, Gentle, Genus.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Kind; sort."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Sex, male or female."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The use of the term gender to refer to the sex of an animal, especially a person, was once common, then fell into disuse as the term became used primarily for the distinction of grammatical declension forms in inflected words. In the late 1900's, the term again became used to refer to the sex of people, as a euphemism for the term sex, especially in discussions of laws and policies on equal treatment of sexes. Objections by prescriptivists that the term should be used only in a grammatical context ignored the earlier uses."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Gram.)"
+          ],
+          "defs": [
+            "A classification of nouns, primarily according to sex; and secondarily according to some fancied or imputed quality associated with sex."
+          ],
+          "quotes": [
+            "Gender is a grammatical distinction and applies to words only. Sex is natural distinction and applies to living objects."
+          ],
+          "notes": [
+            "☞ Adjectives and pronouns are said to vary in gender when the form is varied according to the gender of the words to which they refer."
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Gender",
+      "headword_raw": "Gen\"der",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "n."
+      ],
+      "ety": "[OF. gendrer, fr. L. generare. See Gender, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Gendered (?); p. pr. & vb. n. Gendering.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To beget; to engender."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Gender",
+      "headword_raw": "Gen\"der",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To copulate; to breed."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "key": "ganglion",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Ganglion",
+      "headword_raw": "Gan\"gli*on",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. ganglion a sort of swelling or excrescence, a tumor under the skin, Gr. <?/: cf. F. ganglion.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Anat.)"
+          ],
+          "defs": [
+            "A mass or knot of nervous matter, including nerve cells, usually forming an enlargement in the course of a nerve.",
+            "A node, or gland in the lymphatic system; as, a lymphatic ganglion."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "A globular, hard, indolent tumor, situated somewhere on a tendon, and commonly formed by the effusion of a viscid fluid into it; -- called also weeping sinew."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

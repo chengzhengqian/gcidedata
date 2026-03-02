@@ -1,0 +1,91 @@
+{
+  "key": "geld",
+  "source_file": "CIDE.G",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Geld",
+      "headword_raw": "Geld",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[AS. gild, gield, geld, tribute, payment, fr. gieldan to pay, render. See Yield.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Money; tribute; compensation; ransom."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ This word occurs in old law books in composition, as in danegeld, or danegelt, a tax imposed by the Danes; weregeld, compensation for the life of a man, etc."
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Geld",
+      "headword_raw": "Geld",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[Icel. gelda to castrate; akin to Dan. gilde, Sw. gälla, and cf. AS. gilte a young sow, OHG. galt dry, not giving milk, G. gelt, Goth. gilpa siclke.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Gelded or Gelt (<?/); p. pr. & vb. n. Gelding.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To castrate; to emasculate."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To deprive of anything essential."
+          ],
+          "quotes": [
+            "Bereft and gelded of his patrimony."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To deprive of anything exceptionable; as, to geld a book, or a story; to expurgate."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

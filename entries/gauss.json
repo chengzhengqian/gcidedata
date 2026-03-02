@@ -1,0 +1,49 @@
+{
+  "key": "gauss",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Gauss",
+      "headword_raw": "Gauss",
+      "pr": "(gous)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[So named after Karl F. Gauss, a German mathematician.]",
+      "sources": [
+        "Webster 1913 Suppl.",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Elec.)"
+          ],
+          "defs": [
+            "The C.G.S. unit of density of magnetic field, equal to a field of one line of force per square centimeter, being thus adopted as an international unit at Paris in 1900; sometimes used as a unit of intensity of magnetic field. It was previously suggested as a unit of magnetomotive force."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Karl F. Gauss, a German mathematician."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

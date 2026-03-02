@@ -1,0 +1,50 @@
+{
+  "key": "gasbag",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "gasbag",
+      "headword_raw": "gasbag",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a person who talks a great deal about uninteresting topics."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "windbag"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "the bag containing the gas in a balloon."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "envelope"
+          ]
+        }
+      ]
+    }
+  ]
+}

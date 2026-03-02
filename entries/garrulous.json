@@ -1,0 +1,77 @@
+{
+  "key": "garrulous",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Garrulous",
+      "headword_raw": "Gar\"ru*lous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. garrulus, fr. garrire to chatter, talk; cf. Gr. <?/ voice, <?/ to speak, sing. Cf. Call.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "A garrulous person indulges in long, prosy talk, with frequent repetitions and lengthened details; talkative implies simply a great desire to talk; and loquacious a great flow of words at command. A child is talkative; a lively woman is loquacious; an old man in his dotage is garrulous."
+      ],
+      "wordforms": [
+        {
+          "form": "Garrulously",
+          "form_raw": "Gar\"ru*lous*ly",
+          "key": "garrulously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Garrulousness",
+          "form_raw": "Gar\"ru*lous*ness",
+          "key": "garrulousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Talking much, especially about commonplace or trivial things; talkative; loquacious."
+          ],
+          "quotes": [
+            "The most garrulous people on earth."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "Having a loud, harsh note; noisy; -- said of birds; as, the garrulous roller."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Garrulous",
+            "Talkative",
+            "Loquacious"
+          ]
+        }
+      ]
+    }
+  ]
+}

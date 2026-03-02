@@ -1,0 +1,205 @@
+{
+  "key": "gauge",
+  "source_file": "CIDE.G",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Gauge",
+      "headword_raw": "Gauge",
+      "pr": "(gāj)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OF. gaugier, F. jauger, cf. OF. gauge gauge, measuring rod, F. jauge; of uncertain origin; perh. fr. an assumed L. qualificare to determine the qualities of a thing (see Qualify); but cf. also F. jalon a measuring stake in surveying, and E. gallon.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Gauged (?); p. pr. & vb. n. Gauging (?)]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To measure or determine with a gauge."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To measure or to ascertain the contents or the capacity of, as of a pipe, barrel, or keg."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Mech.)"
+          ],
+          "defs": [
+            "To measure the dimensions of, or to test the accuracy of the form of, as of a part of a gunlock."
+          ],
+          "quotes": [
+            "The vanes nicely gauged on each side."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "To draw into equidistant gathers by running a thread through it, as cloth or a garment."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "To measure the capacity, character, or ability of; to estimate; to judge of."
+          ],
+          "quotes": [
+            "You shall not gauge me By what we do to-night."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Gauge",
+      "headword_raw": "Gauge",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[Written also gage.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A measure; a standard of measure; an instrument to determine dimensions, distance, or capacity; a standard."
+          ],
+          "quotes": [
+            "This plate must be a gauge to file your worm and groove to equal breadth by.",
+            "There is not in our hands any fixed gauge of minds."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Measure; dimensions; estimate."
+          ],
+          "quotes": [
+            "The gauge and dimensions of misery, depression, and contempt."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Mach. & Manuf.)"
+          ],
+          "defs": [
+            "Any instrument for ascertaining or regulating the dimensions or forms of things; a templet or template; as, a button maker's gauge."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Physics)"
+          ],
+          "defs": [
+            "Any instrument or apparatus for measuring the state of a phenomenon, or for ascertaining its numerical elements at any moment; -- usually applied to some particular instrument; as, a rain gauge; a steam gauge."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Naut.)"
+          ],
+          "defs": [
+            "Relative positions of two or more vessels with reference to the wind; as, a vessel has the weather gauge of another when on the windward side of it, and the lee gauge when on the lee side of it.",
+            "The depth to which a vessel sinks in the water."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [],
+          "defs": [
+            "The distance between the rails of a railway."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The standard gauge of railroads in most countries is four feet, eight and one half inches. Wide, or broad, gauge, in the United States, is six feet; in England, seven feet, and generally any gauge exceeding standard gauge. Any gauge less than standard gauge is now called narrow gauge. It varies from two feet to three feet six inches."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "7.",
+          "fields": [
+            "(Plastering)"
+          ],
+          "defs": [
+            "The quantity of plaster of Paris used with common plaster to accelerate its setting."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "8.",
+          "fields": [
+            "(Building)",
+            "(Railroads)",
+            "(Mach.)",
+            "(Railroads)",
+            "(Ordnance)"
+          ],
+          "defs": [
+            "That part of a shingle, slate, or tile, which is exposed to the weather, when laid; also, one course of such shingles, slates, or tiles."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

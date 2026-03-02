@@ -1,0 +1,48 @@
+{
+  "key": "gearing",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Gearing",
+      "headword_raw": "Gear\"ing",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Harness."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mach.)"
+          ],
+          "defs": [
+            "The parts by which motion imparted to one portion of an engine or machine is transmitted to another, considered collectively; as, the valve gearing of a locomotive engine; belt gearing; esp., a train of wheels for transmitting and varying motion in machinery."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

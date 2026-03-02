@@ -1,0 +1,48 @@
+{
+  "key": "gauntry",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Gauntry",
+      "headword_raw": "Gaun\"try",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. chantier, LL. cantarium, fr. L. canterius trellis, sort of frame.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A frame for supporting barrels in a cellar or elsewhere."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Engin.)"
+          ],
+          "defs": [
+            "A scaffolding or frame carrying a crane or other structure."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

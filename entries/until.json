@@ -1,0 +1,85 @@
+{
+  "key": "until",
+  "source_file": "CIDE.U",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Until",
+      "headword_raw": "Un*til\"",
+      "pr": "(?)",
+      "pos": [
+        "prep."
+      ],
+      "ety": "[OE. until, ontil; un- (as in unto) + til till; cf. Dan. indtil, Sw. intill. See Unto, and Till, prep.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To; unto; towards; -- used of material objects."
+          ],
+          "quotes": [
+            "Taverners until them told the same.",
+            "He roused himself full blithe, and hastened them until."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To; up to; till; before; -- used of time; as, he staid until evening; he will not come back until the end of the month."
+          ],
+          "quotes": [
+            "He and his sons were priests to the tribe of Dan until the day of the captivity."
+          ],
+          "notes": [
+            "☞ In contracts and like documents until is construed as exclusive of the date mentioned unless it was the manifest intent of the parties to include it."
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Until",
+      "headword_raw": "Un*til\"",
+      "pr": null,
+      "pos": [
+        "conj."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "As far as; to the place or degree that; especially, up to the time that; till. See Till, conj."
+          ],
+          "quotes": [
+            "In open prospect nothing bounds our eye, Until the earth seems joined unto the sky.",
+            "But the rest of the dead lives not again until the thousand years were finished."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

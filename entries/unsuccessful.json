@@ -1,0 +1,57 @@
+{
+  "key": "unsuccessful",
+  "source_file": "CIDE.U",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Unsuccessful",
+      "headword_raw": "Un`suc*cess\"ful",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Unsuccessfully",
+          "form_raw": "Un`suc*cess\"ful*ly",
+          "key": "unsuccessfully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Unsuccessfulness",
+          "form_raw": "Un`suc*cess\"ful*ness",
+          "key": "unsuccessfulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not successful; not producing the desired event; not fortunate; meeting with, or resulting in, failure; unlucky; unhappy."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

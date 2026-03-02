@@ -1,0 +1,63 @@
+{
+  "key": "ko",
+  "source_file": "CIDE.K",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "KO",
+      "headword_raw": "KO",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "KO",
+      "headword_raw": "KO",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": "[imp. & p. p. KO'd (?); p. pr. & vb. n. KO'ing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "knockout"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To knock out; to deliver a blow that renders (the opponent) unconscious; -- used especially in boxing."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

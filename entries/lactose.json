@@ -1,0 +1,51 @@
+{
+  "key": "lactose",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "lactose",
+      "headword_raw": "lac\"tose`",
+      "pr": "(lk\"tōs`)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Physiol. Chem.)"
+          ],
+          "defs": [
+            "The main sugar present in milk, called also sugar of milk or milk sugar. When isolated pure it is obtained crystalline; it is separable from the whey by evaporation and crystallization. It is a disaccharide with the formula C12H22O11, being chemically 4-(-D-galactosido)-D-glucose. It has a slightly sweet taste, is dextrorotary, and is much less soluble in water than either cane sugar or glucose. Formerly called lactin. When hydrolyzed it yields glucose and galactose. In cells it may be hydrolyzed by the enzyme -galactosidase."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "See Galactose."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "key": "lacerated",
+  "source_file": "CIDE.L",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Lacerated",
+      "headword_raw": "Lac\"er*a`ted",
+      "pr": "(?)",
+      "pos": [
+        "p. a."
+      ],
+      "ety": "[L. laceratus, p. p.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Rent; torn; mangled; as, a lacerated wound."
+          ],
+          "quotes": [
+            "By each other's fury lacerate"
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Bot. & Zool.)"
+          ],
+          "defs": [
+            "Jagged, or slashed irregularly, at the end, or along the edge."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "lacerated",
+      "headword_raw": "lacerated",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "mangled",
+        "torn"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "torn roughly; -- of skin."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

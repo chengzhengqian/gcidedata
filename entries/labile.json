@@ -1,0 +1,59 @@
+{
+  "key": "labile",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Labile",
+      "headword_raw": "La\"bile",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. labilis apt to slip, fr. labi to slip.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Liable to slip, err, fall, or apostatize."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Liable or likely to change."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "Easily decomposed or inactivated when subjected to heat, radiation, or mildly acidic or alkaline conditions; -- of chemical compounds; as, enzymes from thermophilic organisms are not as labile as those from mesophiles."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

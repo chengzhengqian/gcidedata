@@ -1,0 +1,79 @@
+{
+  "key": "lad",
+  "source_file": "CIDE.L",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Lad",
+      "headword_raw": "Lad",
+      "pr": "(ld)",
+      "pos": [
+        "p. p."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "p. p. of Lead, to guide."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Lad",
+      "headword_raw": "Lad",
+      "pr": "(ld)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. ladde, of Celtic origin; cf. W. llawd, Ir. lath. √123. Cf. Lass.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A boy; a youth; a stripling."
+          ],
+          "quotes": [
+            "There is a lad here, which hath five barley loaves and two small fishes."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Bot.)"
+          ],
+          "defs": [
+            "A companion; a comrade; a mate."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

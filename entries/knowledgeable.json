@@ -1,0 +1,96 @@
+{
+  "key": "knowledgeable",
+  "source_file": "CIDE.K",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "knowledgeable",
+      "headword_raw": "knowledgeable",
+      "pr": null,
+      "pos": [
+        "adj.",
+        "n.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "knowledgeability",
+          "form_raw": "knowledgeability",
+          "key": "knowledgeability",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "knowledgeably",
+          "form_raw": "knowledgeably",
+          "key": "knowledgeably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "knowledgeableness",
+          "form_raw": "knowledgeableness",
+          "key": "knowledgeableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "thoroughly acquainted with and skilled in something through study or experience; as, knowledgeable in classical languages. Opposite of unversed, unacquainted, and unfamiliar."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "versed"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "fully informed."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "highly educated; having information or understanding."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "enlightened",
+            "learned",
+            "lettered",
+            "literate",
+            "well-educated",
+            "well-read"
+          ]
+        }
+      ]
+    }
+  ]
+}

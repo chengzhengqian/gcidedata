@@ -1,0 +1,36 @@
+{
+  "key": "lactose_intolerance",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "lactose intolerance",
+      "headword_raw": "lac\"tose` in*tol\"er*ance",
+      "pr": "(lk\"tōs` n*tl\"r*ns)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A physiological condition in which lactose cannot be hydrolyzed in the intestine, leading to uncomfortable gaseousness, cramps, or diarrhea after eating a lactose-containing food such as milk or ice cream. The symptoms may be prevented by ingesting a preparation of beta-galactosidase before or together with dairy products."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

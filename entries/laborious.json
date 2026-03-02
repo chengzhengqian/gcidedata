@@ -1,0 +1,69 @@
+{
+  "key": "laborious",
+  "source_file": "CIDE.L",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Laborious",
+      "headword_raw": "La*bo\"ri*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. laboriosus, fr. labor labor: cf. F. laborieux.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Laboriously",
+          "form_raw": "La*bo\"ri*ous*ly",
+          "key": "laboriously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Laboriousness",
+          "form_raw": "La*bo\"ri*ous*ness",
+          "key": "laboriousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Requiring labor, perseverance, or sacrifices; toilsome; tiresome."
+          ],
+          "quotes": [
+            "Dost thou love watchings, abstinence, or toil, Laborious virtues all? Learn these from Cato."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Devoted to labor; diligent; industrious; as, a laborious mechanic."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

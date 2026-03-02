@@ -1,0 +1,36 @@
+{
+  "key": "knowledge_engineering",
+  "source_file": "CIDE.K",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "knowledge engineering",
+      "headword_raw": "knowledge engineering",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The application of computerized data and text manipulation to manage and interpret large bodies of knowledge, or find useful information in large bodies of data. The study of methods for knowledge engineering is generally considered as a branch of artificial intelligence."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

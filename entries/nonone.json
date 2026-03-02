@@ -1,0 +1,49 @@
+{
+  "key": "nonone",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Nonone",
+      "headword_raw": "Non\"one",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Nonane + -one, suffix denoting the third degree of unsaturation.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Any one of several metameric unsaturated hydrocarbons (C9H14) of the valylene series."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Any of several isomeric ketones (C9H18O) conceptually derived from nonane by substituting an oxygen for two hydrogen atoms on one of the non-terminal carbon atoms."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

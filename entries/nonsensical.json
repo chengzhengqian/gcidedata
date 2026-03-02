@@ -1,0 +1,57 @@
+{
+  "key": "nonsensical",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Nonsensical",
+      "headword_raw": "Non*sen\"si*cal",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Nonsensically",
+          "form_raw": "Non*sen\"si*cal*ly",
+          "key": "nonsensically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Nonsensicalness",
+          "form_raw": "Non*sen\"si*cal*ness",
+          "key": "nonsensicalness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Without sense; unmeaning; absurd; foolish; irrational; preposterous."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

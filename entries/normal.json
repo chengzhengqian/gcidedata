@@ -1,0 +1,123 @@
+{
+  "key": "normal",
+  "source_file": "CIDE.N",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Normal",
+      "headword_raw": "Nor\"mal",
+      "pr": "(nr\"ml)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. normalis, fr. norma rule, pattern, carpenter's square; prob. akin to noscere to know; cf. Gr. gnw`rimos well known, gnw`mwn gnomon, also, carpenter's square: cf. F. normal. See Known, and cf. Abnormal, Enormous.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "Regular and ordinary are popular terms of well-known signification; normal has now a more specific sense, arising out of its use in science. A thing is normal, or in its normal state, when strictly conformed to those principles of its constitution which mark its species or to the standard of a healthy and natural condition. It is abnormal when it departs from those principles."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "According to an established norm, rule, or principle; conformed to a type, standard, or regular form; performing the proper functions; not abnormal; regular; natural; analogical."
+          ],
+          "quotes": [
+            "Deviations from the normal type."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Geom.)"
+          ],
+          "defs": [
+            "According to a square or rule; perpendicular; forming a right angle; as, a line normal to the base. Specifically: Of or pertaining to a normal."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Chem.)",
+            "(Quantitative Analysis)",
+            "(Chem.)",
+            "(Organ. Chem.)",
+            "(Method of Least Squares)",
+            "(Geol.)",
+            "(Astron.)"
+          ],
+          "defs": [
+            "Standard; original; exact; typical.",
+            "Denoting a solution of such strength that every cubic centimeter contains the same number of milligrams of the element in question as the number of its molecular weight.",
+            "Denoting certain hypothetical compounds, as acids from which the real acids are obtained by dehydration; thus, normal sulphuric acid and normal nitric acid are respectively S(OH)6, and N(OH)5.",
+            "Denoting that series of hydrocarbons in which no carbon atom is bound to more than two other carbon atoms; as, normal pentane, hexane, etc. Cf. Iso-."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Normal",
+            "Regular",
+            "Ordinary"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Normal",
+      "headword_raw": "Nor\"mal",
+      "pr": "(nr\"ml)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Cf. F. normale, ligne normale. See Normal, a.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Geom.)"
+          ],
+          "defs": [
+            "Any perpendicular."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Geom.)"
+          ],
+          "defs": [
+            "A straight line or plane drawn from any point of a curve or surface so as to be perpendicular to the curve or surface at that point."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The term normal is also used to denote the distance along the normal line from the curve to the axis of abscissas or to the center of curvature."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

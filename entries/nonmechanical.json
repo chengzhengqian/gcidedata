@@ -1,0 +1,48 @@
+{
+  "key": "nonmechanical",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "nonmechanical",
+      "headword_raw": "nonmechanical",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "not using a mechanism. Opposite of mechanical."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Not having an aptitude to work with machinery; without mechanical skills; -- of persons."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "unmechanical"
+          ]
+        }
+      ]
+    }
+  ]
+}

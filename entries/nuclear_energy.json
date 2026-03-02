@@ -1,0 +1,41 @@
+{
+  "key": "nuclear_energy",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "nuclear energy",
+      "headword_raw": "nuclear energy",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "atomic energy",
+        "atomic power",
+        "nuclear energy",
+        "nuclear power"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Energy derived from nuclear reactions; -- used at present especially of electrical power generated in atomic reactors, but encompassing also fusion energy."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

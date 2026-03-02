@@ -1,0 +1,49 @@
+{
+  "key": "northern",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Northern",
+      "headword_raw": "North\"ern",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[AS. norðerne.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to the north; being in the north, or nearer to that point than to the east or west."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Zool.)",
+            "(Bot.)"
+          ],
+          "defs": [
+            "In a direction toward the north; as, to steer a northern course; coming from the north; as, a northern wind."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

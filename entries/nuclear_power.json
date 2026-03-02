@@ -1,0 +1,52 @@
+{
+  "key": "nuclear_power",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "nuclear power",
+      "headword_raw": "nuclear power",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Power derived from nuclear reactions; -- used at present especially of electrical power generated in atomic reactors, but encompassing also fusion power."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "atomic energy",
+            "atomic power",
+            "nuclear energy",
+            "nuclear energy"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A country possessing nuclear weapons."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

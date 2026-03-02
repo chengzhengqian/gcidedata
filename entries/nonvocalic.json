@@ -1,0 +1,41 @@
+{
+  "key": "nonvocalic",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "nonvocalic",
+      "headword_raw": "nonvocalic",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "consonantal",
+        "nonsyllabic"
+      ],
+      "entry_fields": [
+        "(Phonology)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "not vocalic; not having vowel character; -- used of liquids and nasals. Opposite of vocalic."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

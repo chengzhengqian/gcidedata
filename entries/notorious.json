@@ -1,0 +1,67 @@
+{
+  "key": "notorious",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Notorious",
+      "headword_raw": "No*to\"ri*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. notorius pointing out, making known, fr. noscere, notum, to known: cf. F. notoire. See Know.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Notoriously",
+          "form_raw": "No*to\"ri*ous*ly",
+          "key": "notoriously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Notoriousness",
+          "form_raw": "No*to\"ri*ous*ness",
+          "key": "notoriousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Distinguished",
+        "remarkable",
+        "conspicuous",
+        "celebrated",
+        "noted",
+        "famous",
+        "renowned"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Generally known and talked of by the public; universally believed to be true; manifest to the world; evident; -- usually in an unfavorable sense; as, a notorious thief; a notorious crime or vice."
+          ],
+          "quotes": [
+            "Your goodness, Since you provoke me, shall be most notorious."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "key": "nonmigratory",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "nonmigratory",
+      "headword_raw": "nonmigratory",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Not participating in migrations; -- used of animals that do not migrate. Opposite of migratory."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "resident"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "living in one area throughout the year; -- used of animals."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

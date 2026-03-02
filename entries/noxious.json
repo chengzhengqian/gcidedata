@@ -1,0 +1,83 @@
+{
+  "key": "noxious",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Noxious",
+      "headword_raw": "Nox\"ious",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. noxius, fr. noxa harm; akin to nocere to harm, hurt. Cf. Nuisance, Necromancy.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Noxiously",
+          "form_raw": "Nox\"ious*ly",
+          "key": "noxiously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Noxiousness",
+          "form_raw": "Nox\"ious*ness",
+          "key": "noxiousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Hurtful; harmful; baneful; pernicious; injurious; destructive; unwholesome; insalubrious; as, noxious air, food, or climate; pernicious; corrupting to morals; as, noxious practices or examples."
+          ],
+          "quotes": [
+            "Too frequent an appearance in places of public resort is noxious to spiritual promotions."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Guilty; criminal."
+          ],
+          "quotes": [
+            "Those who are noxious in the eye of the law."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Noisome",
+            "hurtful",
+            "harmful",
+            "injurious",
+            "destructive",
+            "pernicious",
+            "mischievous",
+            "corrupting",
+            "baneful",
+            "unwholesome",
+            "insalubrious. See Noisome"
+          ]
+        }
+      ]
+    }
+  ]
+}

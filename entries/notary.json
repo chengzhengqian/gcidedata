@@ -1,0 +1,48 @@
+{
+  "key": "notary",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Notary",
+      "headword_raw": "No\"ta*ry",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. notaire, L. notarius notary (in sense 1), fr. nota mark. See 5th Note.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One who records in shorthand what is said or done; as, the notary of an ecclesiastical body."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Eng. & Am. Law)"
+          ],
+          "defs": [
+            "A public officer who attests or certifies deeds and other writings, or copies of them, usually under his official seal, to make them authentic, especially in foreign countries. His duties chiefly relate to instruments used in commercial transactions, such as protests of negotiable paper, ship's papers in cases of loss, damage, etc. He is generally called a notary public."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

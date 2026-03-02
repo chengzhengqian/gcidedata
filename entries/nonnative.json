@@ -1,0 +1,61 @@
+{
+  "key": "nonnative",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "nonnative",
+      "headword_raw": "nonnative",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "not being or composed of aborigines; as, the nonnative population of South Africa. Opposite of native."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Of persons born in another area or country than that lived in; foreign-born; as, our large nonnative population."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "foreign-born"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Originating in a different region and acclimated to a new environment; -- of plants or animals."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "domesticated",
+            "naturalized"
+          ]
+        }
+      ]
+    }
+  ]
+}

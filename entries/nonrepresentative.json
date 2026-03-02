@@ -1,0 +1,52 @@
+{
+  "key": "nonrepresentative",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "nonrepresentative",
+      "headword_raw": "nonrepresentative",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Not standing for something else. Opposite of representative."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "unsymbolic"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Not giving a true representation of the characteristics of a group; -- of a sample or subgroup of a group; as, the weather we had in the summer of 1996 gave a nonrepresentative view of our normal weather."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "biased",
+            "unrepresentative"
+          ]
+        }
+      ]
+    }
+  ]
+}

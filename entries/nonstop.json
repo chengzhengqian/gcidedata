@@ -1,0 +1,81 @@
+{
+  "key": "nonstop",
+  "source_file": "CIDE.N",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "nonstop",
+      "headword_raw": "nonstop",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "without an intermediate stop; -- of trips in public conveyances, especially of a flight."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "same as around-the-clock."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "around-the-clock",
+            "day-and-night",
+            "round-the-clock"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "nonstop",
+      "headword_raw": "nonstop",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "nonstop flight"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A flight made without intermediate landings between source and destination; as, how many nonstops are there to Dallas?."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

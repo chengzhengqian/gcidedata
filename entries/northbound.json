@@ -1,0 +1,49 @@
+{
+  "key": "northbound",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "northbound",
+      "headword_raw": "northbound",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Moving toward the north; as, northbound traffic."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "northward"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "intended to be used by vehicles moving toward the north; -- of roads and parts of roads; as, The northbound lane was blocked by an overturned tractor-trailer."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

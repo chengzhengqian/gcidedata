@@ -1,0 +1,116 @@
+{
+  "key": "novel",
+  "source_file": "CIDE.N",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Novel",
+      "headword_raw": "Nov\"el",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[OF. novel, nuvel, F. nouvel, nouveau, L. novellus, dim. of novus new. See New.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "-- Novel, New . Everything at its first occurrence is new; that is novel which is so much out of the ordinary course as to strike us with surprise. That is a new sight which is beheld for the first time; that is a novel sight which either was never seen before or is seen but seldom. We have daily new inventions, but a novel one supposes some very peculiar means of attaining its end. Novel theories are regarded with distrust, as likely to prove more ingenious than sound."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [
+        "New",
+        "recent",
+        "modern",
+        "fresh",
+        "strange",
+        "uncommon",
+        "rare",
+        "unusual"
+      ],
+      "entry_fields": [
+        "(Law)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of recent origin or introduction; not ancient; new; hence, out of the ordinary course; unusual; strange; surprising."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ In civil law, the novel or new constitutions are those which are supplemental to the code, and posterior in time to the other books. These contained new decrees of successive emperors."
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Novel",
+      "headword_raw": "Nov\"el",
+      "pr": null,
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[F. nouvelle. See Novel, a.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "That which is new or unusual; a novelty."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "News; fresh tidings."
+          ],
+          "quotes": [
+            "Some came of curiosity to hear some novels."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A fictitious tale or narrative, longer than a short story, having some degree of complexity and development of characters; it is usually organized as a time sequence of events, and is commonly intended to exhibit the operation of the passions, and often of love."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "A new or supplemental constitution. See the Note under Novel, a."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

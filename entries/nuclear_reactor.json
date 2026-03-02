@@ -1,0 +1,44 @@
+{
+  "key": "nuclear_reactor",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "nuclear reactor",
+      "headword_raw": "nuclear reactor",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "reactor",
+        "atomic pile",
+        "fission reactor",
+        "nuclear pile"
+      ],
+      "entry_fields": [
+        "(phys.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Any of several devices that maintain and control a sustained nuclear fission chain reaction, for the production of energy, heat, or artificial elements, or for research purposes. The main fuel sustaining the reaction and consumed by the process is typically uranium or plutonium."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "key": "nothing",
+  "source_file": "CIDE.N",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Nothing",
+      "headword_raw": "Noth\"ing",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[From no, a. + thing.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Not anything; no thing (in the widest sense of the word thing); -- opposed to anything and something."
+          ],
+          "quotes": [
+            "Yet had his aspect nothing of severe."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Nonexistence; nonentity; absence of being; nihility; nothingness."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A thing of no account, value, or note; something irrelevant and impertinent; something of comparative unimportance; utter insignificance; a trifle."
+          ],
+          "quotes": [
+            "Behold, ye are of nothing, and your work of nought.",
+            "'T is nothing, says the fool; but, says the friend, This nothing, sir, will bring you to your end."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Arith.)"
+          ],
+          "defs": [
+            "A cipher; naught."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Nothing",
+      "headword_raw": "Noth\"ing",
+      "pr": null,
+      "pos": [
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Naut.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "In no degree; not at all; in no wise."
+          ],
+          "quotes": [
+            "Adam, with such counsel nothing swayed.",
+            "The influence of reason in producing our passions is nothing near so extensive as is commonly believed."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

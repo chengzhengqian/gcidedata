@@ -1,0 +1,52 @@
+{
+  "key": "nonremittal",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "nonremittal",
+      "headword_raw": "nonremittal",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of failing to meet a financial obligation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "default",
+            "nonpayment"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A loss resulting from failure of a debt to be paid."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "nonpayment",
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "key": "telegraph",
+  "source_file": "CIDE.T",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Telegraph",
+      "headword_raw": "Tel\"e*graph",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. <?/ far, far off (cf. Lith. toli) + -graph: cf. F. tlgraphe. See Graphic.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An apparatus, or a process, for communicating intelligence rapidly between distant points, especially by means of preconcerted visible or audible signals representing words or ideas, or by means of words and signs, transmitted by electrical action."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The instruments used are classed as indicator, type-printing, symbol-printing, or chemical-printing telegraphs, according as the intelligence is given by the movements of a pointer or indicator, as in Cooke & Wheatstone's (the form commonly used in England), or by impressing, on a fillet of paper, letters from types, as in House's and Hughe's, or dots and marks from a sharp point moved by a magnet, as in Morse's, or symbols produced by electro-chemical action, as in Bain's. In the offices in the United States the recording instrument is now little used, the receiving operator reading by ear the combinations of long and short intervals of sound produced by the armature of an electro-magnet as it is put in motion by the opening and breaking of the circuit, which motion, in registering instruments, traces upon a ribbon of paper the lines and dots used to represent the letters of the alphabet. See Illustration in Appendix, and Morse code.",
+            "In 1837, Samuel F. B. Morse, an American artist, devised a working electric telegraph, based on a rough knowledge of electrical circuits, electromagnetic induction coils, and a scheme to encode alphabetic letters. He and his collaborators and backers campaigned for years before persuading the federal government to fund a demonstration. Finally, on May 24, 1844, they sent the first official long-distance telegraphic message in Morse code, \"What hath God wrought,\" through a copper wire strung between Washington, D.C., to Baltimore, Maryland. The phrase was taken from the Bible, Numbers 23:23. It had been suggested to Morse by Annie Ellworth, the young daughter of a friend."
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Telegraph",
+      "headword_raw": "Tel\"e*graph",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[F. tlgraphier.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Telegraphed (?); p. pr. & vb. n. Telegraphing (?).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To convey or announce by telegraph."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

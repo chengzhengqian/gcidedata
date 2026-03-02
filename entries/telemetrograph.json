@@ -1,0 +1,56 @@
+{
+  "key": "telemetrograph",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Telemetrograph",
+      "headword_raw": "Tel`e*met\"ro*graph",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Gr. th^le far + me`tron measure + -graph.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Telemetrography",
+          "form_raw": "Tel`e*me*trog\"ra*phy",
+          "key": "telemetrography",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Telemetrographic",
+          "form_raw": "Tel`e*met`ro*graph\"ic",
+          "key": "telemetrographic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A combination of the camera lucida and telescope for drawing and measuring distant objects."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

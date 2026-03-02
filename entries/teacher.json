@@ -1,0 +1,48 @@
+{
+  "key": "teacher",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Teacher",
+      "headword_raw": "Teach\"er",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One who teaches or instructs; one whose business or occupation is to instruct others; an instructor; a tutor."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "One who instructs others in religion; a preacher; a minister of the gospel; sometimes, one who preaches without regular ordination."
+          ],
+          "quotes": [
+            "The teachers in all the churches assembled."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

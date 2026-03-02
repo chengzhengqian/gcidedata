@@ -1,0 +1,47 @@
+{
+  "key": "telemeteorograph",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Telemeteorograph",
+      "headword_raw": "Tel`e*me`te*or\"o*graph",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Gr. th^le far + meteorograph.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Telemeteorographic",
+          "form_raw": "Tel`e*me`te*or*o*graph\"ic",
+          "key": "telemeteorographic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Any apparatus recording meteorological phenomena at a distance from the measuring apparatus, as by electricity or by compressed air; esp., an apparatus recording conditions at many distant stations at a central office."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

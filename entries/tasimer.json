@@ -1,0 +1,38 @@
+{
+  "key": "tasimer",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Tasimer",
+      "headword_raw": "Ta*sim\"er",
+      "pr": "(t*sm\"*tr)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. ta`sis stretching, extension (from tei`nein to stretch) + -meter.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An instrument for detecting or measuring minute extensions or movements of solid bodies. It consists essentially of a small rod, disk, or button of carbon, forming part of an electrical circuit, the resistance of which, being varied by the changes of pressure produced by the movements of the object to be measured, causes variations in the strength of the current, which variations are indicated by a sensitive galvanometer. It is also used for measuring minute changes of temperature."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

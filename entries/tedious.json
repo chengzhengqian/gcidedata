@@ -1,0 +1,63 @@
+{
+  "key": "tedious",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Tedious",
+      "headword_raw": "Te\"di*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. taediosus, fr. taedium. See Tedium.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Tediously",
+          "form_raw": "Te\"di*ous*ly",
+          "key": "tediously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Tediousness",
+          "form_raw": "Te\"di*ous*ness",
+          "key": "tediousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Wearisome",
+        "fatiguing. See Irksome"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Involving tedium; tiresome from continuance, prolixity, slowness, or the like; wearisome."
+          ],
+          "quotes": [
+            "I see a man's life is a tedious one.",
+            "I would not be tedious to the court."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

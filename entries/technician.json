@@ -1,0 +1,39 @@
+{
+  "key": "technician",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Technician",
+      "headword_raw": "Tech*ni\"cian",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl.",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a person trained or skilled in the technical details of a particular art or science, especially one skilled at operating, maintaining, or repairing equipment, in contrast to the theory or informational content of a craft; -- formerly also called a technicist."
+          ],
+          "quotes": [],
+          "notes": [
+            "In computer software companies, individuals skilled at the details of using programs and employed to help customers to install or use software or troubleshoot software problems for are also called technicians."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

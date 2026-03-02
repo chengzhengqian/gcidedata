@@ -1,0 +1,47 @@
+{
+  "key": "telemeter",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Telemeter",
+      "headword_raw": "Te*lem\"e*ter",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. <?/ far + -meter.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "An instrument used for measuring the distance of an object from an observer; as, a telescope with a micrometer for measuring the apparent diameter of an object whose real dimensions are known."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A measuring instrument which sends the information obtained from its sensors by radio to a distant station, usually to be recorded there; also, the complete system including measuring instrument, transmitter, and receiver. Such instruments are used, for example, to measure conditions in space or in other locations difficult of access for humans observers, or merely to allow one observer to monitor conditions in many places simultaneously."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

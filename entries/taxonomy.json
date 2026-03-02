@@ -1,0 +1,47 @@
+{
+  "key": "taxonomy",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Taxonomy",
+      "headword_raw": "Tax*on\"o*my",
+      "pr": "(tks*n\"*m)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. ta`xis an arrangement, order + no`mos a law.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "That division of the natural sciences which treats of the classification of animals and plants, primarily by consideration of their natural relationships with respect to their structure or genetic origin; the laws or principles of classification; systematics."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A systematic arrangement of objects or concepts showing the relations between them, especially one including a hierarchical arrangement of types in which categories of objects are classified as subtypes of more abstract categories, starting from one or a small number of top categories, and descending to more specific types through an arbitrary number of levels. An ontology usually contains a taxonomy as one of the important principles of organization."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

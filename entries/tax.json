@@ -1,0 +1,154 @@
+{
+  "key": "tax",
+  "source_file": "CIDE.T",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Tax",
+      "headword_raw": "Tax",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. taxe, fr. taxer to tax, L. taxare to touch, sharply, to feel, handle, to censure, value, estimate, fr. tangere, tactum, to touch. See Tangent, and cf. Task, Taste.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A charge, especially a pecuniary burden which is imposed by authority.",
+            "A charge or burden laid upon persons or property for the support of a government.",
+            "Especially, the sum laid upon specific things, as upon polls, lands, houses, income, etc.; as, a land tax; a window tax; a tax on carriages, and the like.",
+            "A sum imposed or levied upon the members of a society to defray its expenses."
+          ],
+          "quotes": [
+            "A farmer of taxes is, of all creditors, proverbially the most rapacious."
+          ],
+          "notes": [
+            "Taxes are annual or perpetual, direct or indirect, etc."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A task exacted from one who is under control; a contribution or service, the rendering of which is imposed upon a subject."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A disagreeable or burdensome duty or charge; as, a heavy tax on time or health."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Charge; censure."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "A lesson to be learned; a task."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Impost",
+            "tribute",
+            "contribution",
+            "duty",
+            "toll",
+            "rate",
+            "assessment",
+            "exaction",
+            "custom",
+            "demand"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Tax",
+      "headword_raw": "Tax",
+      "pr": "(tks)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "n."
+      ],
+      "ety": "[Cf. F. taxer. See Tax, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Taxed (?); p. pr. & vb. n. Taxing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To subject to the payment of a tax or taxes; to impose a tax upon; to lay a burden upon; especially, to exact money from for the support of government."
+          ],
+          "quotes": [
+            "We are more heavily taxed by our idleness, pride, and folly than we are taxed by government."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "To assess, fix, or determine judicially, the amount of; as, to tax the cost of an action in court."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To charge; to accuse; also, to censure; -- often followed by with, rarely by of before an indirect object; as, to tax a man with pride."
+          ],
+          "quotes": [
+            "I tax you, you elements, with unkindness.",
+            "Men's virtues I have commended as freely as I have taxed their crimes.",
+            "Fear not now that men should tax thine honor."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

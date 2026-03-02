@@ -1,0 +1,89 @@
+{
+  "key": "taxis",
+  "source_file": "CIDE.T",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Taxis",
+      "headword_raw": "Tax\"is",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[NL., fr. Gr. ta`xis a division or arrangement, fr. ta`ssein to arrange.]",
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl.",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Surg.)"
+          ],
+          "defs": [
+            "Manipulation applied to a hernial tumor, or to an intestinal obstruction, for the purpose of reducing it."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "In technical uses, as in architecture, biology, grammar, etc., arrangement; order; ordonnance."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "a reflexive movement by a motile organism by which it moves or orients itself in relation to some source of stimulation; as, chemotaxis, the motion toward or away from gradients of certain chemical compounds."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "-taxis",
+      "headword_raw": "-tax\"is",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "combining form for taxis{3}."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

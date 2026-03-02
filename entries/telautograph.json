@@ -1,0 +1,46 @@
+{
+  "key": "telautograph",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Telautograph",
+      "headword_raw": "Tel*au\"to*graph",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. th^le far + autograph.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Telautographist",
+          "form_raw": "Tel`au*tog\"ra*phist",
+          "key": "telautographist",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A facsimile telegraph for reproducing writing, pictures, maps, etc. In the transmitter the motions of the pencil are communicated by levers to two rotary shafts, by which variations in current are produced in two separate circuits. In the receiver these variations are utilized by electromagnetic devices and levers to move a pen as the pencil moves."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

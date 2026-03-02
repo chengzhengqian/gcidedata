@@ -1,0 +1,117 @@
+{
+  "key": "task",
+  "source_file": "CIDE.T",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Task",
+      "headword_raw": "Task",
+      "pr": "(tsk)",
+      "pos": [
+        "n.",
+        "v."
+      ],
+      "ety": "[OE. taske, OF. tasque, F. tche, for tasche, LL. tasca, taxa, fr. L. taxare to rate, appraise, estimate. See Tax, n. & v.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Labor or study imposed by another, often in a definite quantity or amount."
+          ],
+          "quotes": [
+            "Ma task of servile toil.",
+            "Each morning sees some task begin, Each evening sees it close."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Business; employment; undertaking; labor."
+          ],
+          "quotes": [
+            "His mental powers were equal to greater tasks."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Work",
+            "labor",
+            "employment",
+            "business",
+            "toil",
+            "drudgery",
+            "study",
+            "lesson",
+            "stint"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Task",
+      "headword_raw": "Task",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Tasked (?); p. pr. & vb. n. Tasking.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To impose a task upon; to assign a definite amount of business, labor, or duty to."
+          ],
+          "quotes": [
+            "There task thy maids, and exercise the loom."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To oppress with severe or excessive burdens; to tax."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To charge; to tax, as with a fault."
+          ],
+          "quotes": [
+            "Too impudent to task me with those errors."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

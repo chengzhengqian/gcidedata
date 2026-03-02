@@ -1,0 +1,38 @@
+{
+  "key": "tay-sachs_disease",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Tay-Sachs Disease",
+      "headword_raw": "Tay\"-Sachs Disease",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A rare hereditary disease affecting lipid metabolism in humans, due to a deficiency of hexosaminidase. It occurs in infants and children, and causes death before the onset of adulthood. It occurs most commonly of people of Jewish origin from eastern Europe. It is characterized by accumulation of lipids in nervous tissue, causes a red spot on the retina, and eventual blindness and paralysis before death."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

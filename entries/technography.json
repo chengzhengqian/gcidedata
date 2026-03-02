@@ -1,0 +1,54 @@
+{
+  "key": "technography",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Technography",
+      "headword_raw": "Tech*nog\"ra*phy",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Gr. <?/ art, skill, craft + graph.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Technographic",
+          "form_raw": "Tech`no*graph\"ic",
+          "key": "technographic",
+          "pos": [],
+          "pr": null
+        },
+        {
+          "form": "Technographical",
+          "form_raw": "Tech`no*graph\"ic*al",
+          "key": "technographical",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Description of the arts and crafts of tribes and peoples."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

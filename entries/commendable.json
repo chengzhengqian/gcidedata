@@ -1,0 +1,61 @@
+{
+  "key": "commendable",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Commendable",
+      "headword_raw": "Com*mend\"a*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[L. commendabilis.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Commendableness",
+          "form_raw": "Com*mend\"a*ble*ness",
+          "key": "commendableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Commendably",
+          "form_raw": "Com*mend\"a*bly",
+          "key": "commendably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Worthy of being commended or praised; laudable; praiseworthy."
+          ],
+          "quotes": [
+            "Order and decent ceremonies in the church are not only comely but commendable."
+          ],
+          "notes": [
+            "(Formerly accented on the first syllable.)"
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

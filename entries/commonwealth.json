@@ -1,0 +1,66 @@
+{
+  "key": "commonwealth",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Commonwealth",
+      "headword_raw": "Com\"mon*wealth`",
+      "pr": "(?; 277)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Common + wealth well-being.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A state; a body politic consisting of a certain number of men, united, by compact or tacit agreement, under one form of government and system of laws."
+          ],
+          "quotes": [
+            "The trappings of a monarchy would set up an ordinary commonwealth."
+          ],
+          "notes": [
+            "☞ This term is applied to governments which are considered as free or popular, but rarely, or improperly, to an absolute government. The word signifies, strictly, the common well-being or happiness; and hence, a form of government in which the general welfare is regarded rather than the welfare of any class."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The whole body of people in a state; the public."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Eng. Hist.)"
+          ],
+          "defs": [
+            "Specifically, the form of government established on the death of Charles I., in 1649, which existed under Oliver Cromwell and his son Richard, ending with the abdication of the latter in 1659."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "State",
+            "realm",
+            "republic"
+          ]
+        }
+      ]
+    }
+  ]
+}

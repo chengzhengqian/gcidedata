@@ -1,0 +1,123 @@
+{
+  "key": "column",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Column",
+      "headword_raw": "Col\"umn",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "v. t."
+      ],
+      "ety": "[L. columna, fr. columen, culmen, fr. cellere (used only in comp.), akin to E. excel, and prob. to holm. See Holm, and cf. Colonel.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Arch.)"
+          ],
+          "defs": [
+            "A kind of pillar; a cylindrical or polygonal support for a roof, ceiling, statue, etc., somewhat ornamented, and usually composed of base, shaft, and capital. See Order."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Anything resembling, in form or position, a column in architecture; an upright body or mass; a shaft or obelisk; as, a column of air, of water, of mercury, etc.; the Column Vendme; the spinal column."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Mil.)"
+          ],
+          "defs": [
+            "A body of troops formed in ranks, one behind the other; -- contradistinguished from line. Compare Ploy, and Deploy.",
+            "A small army."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Naut.)"
+          ],
+          "defs": [
+            "A number of ships so arranged as to follow one another in single or double file or in squadrons; -- in distinction from “line”, where they are side by side."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Print.)"
+          ],
+          "defs": [
+            "A perpendicular set of lines, not extending across the page, and separated from other matter by a rule or blank space; as, a column in a newspaper."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [
+            "(Arith.)"
+          ],
+          "defs": [
+            "A perpendicular line of figures."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "7.",
+          "fields": [
+            "(Bot.)"
+          ],
+          "defs": [
+            "The body formed by the union of the stamens in the Mallow family, or of the stamens and pistil in the orchids."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "8.",
+          "fields": [
+            "(Print.)"
+          ],
+          "defs": [
+            "one of a series of articles written in a periodical, usually under the same title and at regular intervals; it may be written and signed by one or more authors, or may appear pseudonymously or anonymously, as an editorial column."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

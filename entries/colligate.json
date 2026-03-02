@@ -1,0 +1,83 @@
+{
+  "key": "colligate",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Colligate",
+      "headword_raw": "Col\"li*gate",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. colligatus, p. p. of colligare to collect; co- + ligare to bind.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Colligated; p. pr. & vb. n. Colligating.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To tie or bind together."
+          ],
+          "quotes": [
+            "The pieces of isinglass are colligated in rows."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Logic)"
+          ],
+          "defs": [
+            "To bring together by colligation; to sum up in a single proposition."
+          ],
+          "quotes": [
+            "He had discovered and colligated a multitude of the most wonderful . . . phenomena."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Colligate",
+      "headword_raw": "Col\"li*gate",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Bound together."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

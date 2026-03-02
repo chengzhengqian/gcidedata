@@ -1,0 +1,137 @@
+{
+  "key": "combat",
+  "source_file": "CIDE.C",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Combat",
+      "headword_raw": "Com\"bat",
+      "pr": "(? ?; 277)",
+      "pos": [
+        "v. i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[F. combattre; pref. com- + battre to beat, fr. L. battuere to strike. See Batter.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Combated; p. pr. & vb. n. Combating.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To struggle or contend, as with an opposing force; to fight."
+          ],
+          "quotes": [
+            "To combat with a blind man I disdain.",
+            "After the fall of the republic, the Romans combated only for the choice of masters."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Combat",
+      "headword_raw": "Com\"bat",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "To fight against",
+        "resist",
+        "oppose",
+        "withstand",
+        "oppugn",
+        "antagonize",
+        "repel",
+        "resent"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To fight with; to oppose by force, argument, etc.; to contend against; to resist."
+          ],
+          "quotes": [
+            "When he the ambitious Norway combated.",
+            "And combated in silence all these reasons.",
+            "Minds combat minds, repelling and repelled."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Combat",
+      "headword_raw": "Com\"bat",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. combat.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A fight; a contest of violence; a struggle for supremacy."
+          ],
+          "quotes": [
+            "My courage try by combat, if thou dar'st.",
+            "The noble combat that 'twixt joy and sorrow was fought in Paulina."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mil.)"
+          ],
+          "defs": [
+            "An engagement of no great magnitude; or one in which the parties engaged are not armies."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "A battle",
+            "engagement",
+            "conflict",
+            "contest",
+            "contention",
+            "struggle",
+            "fight",
+            "strife. See Battle",
+            "Contest"
+          ]
+        }
+      ]
+    }
+  ]
+}

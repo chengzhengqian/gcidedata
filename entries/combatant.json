@@ -1,0 +1,67 @@
+{
+  "key": "combatant",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Combatant",
+      "headword_raw": "Com\"bat*ant",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[F. combattant, p. pr.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Contending; disposed to contend."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Combatant",
+      "headword_raw": "Com\"bat*ant",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. combattant.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "One who engages in combat. IN military use, opposed to noncombatant."
+          ],
+          "quotes": [
+            "A controversy which long survived the original combatants."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

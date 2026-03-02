@@ -1,0 +1,62 @@
+{
+  "key": "commutative",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Commutative",
+      "headword_raw": "Com*mut\"a*tive",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[CF. F. commutatif.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Commutatively",
+          "form_raw": "Com*mut\"a*tive\"ly",
+          "key": "commutatively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Relative to exchange; interchangeable; reciprocal."
+          ],
+          "quotes": [
+            "Rich traders, from their success, are presumed . . . to have cultivated an habitual regard to commutative justice."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "having the property of commutativity."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

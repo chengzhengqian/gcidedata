@@ -1,0 +1,49 @@
+{
+  "key": "colloquial",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Colloquial",
+      "headword_raw": "Col*lo\"qui*al",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[See Colloqui.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Colloquially",
+          "form_raw": "Col*lo\"qui*al*ly",
+          "key": "colloquially",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Pertaining to, or used in, conversation, esp. common and familiar conversation; conversational; hence, unstudied; informal; as, colloquial intercourse; colloquial phrases; a colloquial style."
+          ],
+          "quotes": [
+            "His [Johnson's] colloquial talents were, indeed, of the highest order."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

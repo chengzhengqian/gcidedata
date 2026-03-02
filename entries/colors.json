@@ -1,0 +1,51 @@
+{
+  "key": "colors",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "colors",
+      "headword_raw": "colors",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a flag flown by a ship to show its nationality."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "ensign",
+            "colours"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a distinguishing emblem; as, his tie proclaimed his school colors."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "colours"
+          ]
+        }
+      ]
+    }
+  ]
+}

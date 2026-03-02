@@ -1,0 +1,49 @@
+{
+  "key": "commensurable",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Commensurable",
+      "headword_raw": "Com*men\"su*ra*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": "[L. commensurabilis; pref. com- + mensurable. See Commensurate, and cf. Commeasurable.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Commensurableness",
+          "form_raw": "Com*men\"su*ra*ble*ness",
+          "key": "commensurableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Math.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Having a common measure; capable of being exactly measured by the same number, quantity, or measure."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

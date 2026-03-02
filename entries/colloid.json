@@ -1,0 +1,80 @@
+{
+  "key": "colloid",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Colloid",
+      "headword_raw": "Col\"loid",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Gr. ko`lla glue + -oid. Cf. Collodion.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Resembling glue or jelly; characterized by a jellylike appearance; gelatinous; as, colloid tumors."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Colloid",
+      "headword_raw": "Col\"loid",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Physiol. Chem.)"
+          ],
+          "defs": [
+            "A substance (as albumin, gum, gelatin, etc.) which is of a gelatinous rather than a crystalline nature, and which diffuses itself through animal membranes or vegetable parchment more slowly than crystalloids do; -- opposed to crystalloid."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)",
+            "(Med.)"
+          ],
+          "defs": [
+            "A gelatinous substance found in colloid degeneration and colloid cancer."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

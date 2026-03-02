@@ -1,0 +1,68 @@
+{
+  "key": "comfortless",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Comfortless",
+      "headword_raw": "Com\"fort*less",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Comfortlessly",
+          "form_raw": "Com\"fort*less*ly",
+          "key": "comfortlessly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Comfortlessness",
+          "form_raw": "Com\"fort*less*ness",
+          "key": "comfortlessness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Forlorn",
+        "desolate",
+        "cheerless",
+        "inconsolable",
+        "disconsolate",
+        "wretched",
+        "miserable"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Without comfort or comforts; in want or distress; cheerless."
+          ],
+          "quotes": [
+            "Comfortless through tyranny or might.",
+            "When all is coldly, comfortlessly costly."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

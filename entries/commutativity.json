@@ -1,0 +1,40 @@
+{
+  "key": "commutativity",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "commutativity",
+      "headword_raw": "com`mu*ta*tiv\"i*ty",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "GG"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Math.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "the property of a binary operation or operator such that the result of one term operating on a second is equal to the result of the second term operating on the first."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ If the symbol “*” is taken to be a commutative binary operator, then the following equation holds: a*b = b*a A common example is the addition operator for real numbers, “+”: a+b = b+a"
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

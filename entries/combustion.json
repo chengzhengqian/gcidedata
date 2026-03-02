@@ -1,0 +1,64 @@
+{
+  "key": "combustion",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Combustion",
+      "headword_raw": "Com*bus\"tion",
+      "pr": "(?; 106)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. combustio: cf. F. combustion.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The state of burning."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Chem.)",
+            "(Chem.)"
+          ],
+          "defs": [
+            "The combination of a combustible with a supporter of combustion, producing heat, and sometimes both light and heat."
+          ],
+          "quotes": [
+            "Combustion results in common cases from the mutual chemical action and reaction of the combustible and the oxygen of the atmosphere, whereby a new compound is formed."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Violent agitation; confusion; tumult."
+          ],
+          "quotes": [
+            "There [were] great combustions and divisions among the heads of the university.",
+            "But say from whence this new combustion springs."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

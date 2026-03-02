@@ -1,0 +1,38 @@
+{
+  "key": "colony_counter",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Colony counter",
+      "headword_raw": "Col\"o*ny count`er",
+      "pr": "(kl\"*n kount\"r)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Microbiology)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "an instrument designed to conveniently count or assist counting colonies{9} of microorganisms on a plate containing a gelled growth medium. One variety uses a pencil-like rod with a metal tip, which is connected by an electrical connection to the gelled growth medium; when touched to a colony{9} on the plate, the completion of the electrical circuit causes an increment of 1 unit on the readout of the colony counter."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

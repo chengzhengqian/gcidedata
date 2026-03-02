@@ -1,0 +1,47 @@
+{
+  "key": "combinable",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Combinable",
+      "headword_raw": "Com*bin\"a*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": "[Cf. F. combinable.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Combinableness",
+          "form_raw": "Com*bin\"a*ble*ness",
+          "key": "combinableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Capable of combining; consistent with."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

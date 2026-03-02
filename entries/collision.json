@@ -1,0 +1,54 @@
+{
+  "key": "collision",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Collision",
+      "headword_raw": "Col*li\"sion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. collisio, fr. collidere. See Collide.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of striking together; a striking together, as of two hard bodies; a violent meeting, as of railroad trains; a clashing."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A state of opposition; antagonism; interference."
+          ],
+          "quotes": [
+            "The collision of contrary false principles.",
+            "Sensitive to the most trifling collisions."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Conflict",
+            "clashing",
+            "encounter",
+            "opposition"
+          ]
+        }
+      ]
+    }
+  ]
+}

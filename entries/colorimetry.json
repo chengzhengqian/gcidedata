@@ -1,0 +1,46 @@
+{
+  "key": "colorimetry",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Colorimetry",
+      "headword_raw": "Col`or*im\"e*try",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[See Colorimeter.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The quantitative determination of the depth of color of a substance."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A method of quantitative chemical analysis based upon the comparison of the depth of color of a solution with that of a standard liquid."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

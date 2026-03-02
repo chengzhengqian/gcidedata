@@ -1,0 +1,50 @@
+{
+  "key": "colligation",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Colligation",
+      "headword_raw": "Col`li*ga\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. colligatio.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A binding together."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Logic)"
+          ],
+          "defs": [
+            "That process by which a number of isolated facts are brought under one conception, or summed up in a general proposition, as when Kepler discovered that the various observed positions of the planet Mars were points in an ellipse."
+          ],
+          "quotes": [
+            "Colligation is not always induction, but induction is always colligation."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

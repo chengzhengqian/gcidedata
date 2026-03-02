@@ -1,0 +1,61 @@
+{
+  "key": "commodity",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Commodity",
+      "headword_raw": "Com*mod\"i*ty",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. commodit, fr. L. commoditas. See Commode.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Convenience; accommodation; profit; benefit; advantage; interest; commodiousness."
+          ],
+          "quotes": [
+            "Drawn by the commodity of a footpath.",
+            "Men may seek their own commodity, yet if this were done with injury to others, it was not to be suffered."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That which affords convenience, advantage, or profit, especially in commerce, including everything movable that is bought and sold (except animals), -- goods, wares, merchandise, produce of land and manufactures, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A parcel or quantity of goods."
+          ],
+          "quotes": [
+            "A commodity of brown paper and old ginger."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "key": "combination",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Combination",
+      "headword_raw": "Com`bi*na\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[LL. combinatio. See Combine.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act or process of combining or uniting persons and things."
+          ],
+          "quotes": [
+            "Making new compounds by new combinations.",
+            "A solemn combination shall be made Of our dear souls."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The result of combining or uniting; union of persons or things; esp. a union or alliance of persons or states to effect some purpose; -- usually in a bad sense."
+          ],
+          "quotes": [
+            "A combination of the most powerful men in Rome who had conspired my ruin."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "The act or process of uniting by chemical affinity, by which substances unite with each other in definite proportions by weight to form distinct compounds."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Math.)",
+            "(Chem.)",
+            "(Chem.)"
+          ],
+          "defs": [
+            "The different arrangements of a number of objects, as letters, into groups."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ In combinations no regard is paid to the order in which the objects are arranged in each group, while in variations and permutations this order is respected."
+          ],
+          "synonyms": [
+            "Cabal",
+            "alliance",
+            "association",
+            "league",
+            "union",
+            "confederacy",
+            "coalition",
+            "conspiracy. See Cabal"
+          ]
+        }
+      ]
+    }
+  ]
+}

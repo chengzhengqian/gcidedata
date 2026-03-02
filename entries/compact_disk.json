@@ -1,0 +1,39 @@
+{
+  "key": "compact_disk",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "compact disk",
+      "headword_raw": "com\"pact disk`",
+      "pr": "(km\"pkt dsk`)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "CD"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a disk-shaped optical data storage medium approximately 4-3/4 in. in diameter, which stores binary data as microscopic nonreflective holes or pits in an otherwise reflective surface, and is recorded and played back by rotation in an electronic device containing a laser. It is often referred to by its abbreviation CD. It is a type of optical data storage medium. Compact disks are used for recordings of music as well as of data for computer applications."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

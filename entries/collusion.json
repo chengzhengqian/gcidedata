@@ -1,0 +1,57 @@
+{
+  "key": "collusion",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Collusion",
+      "headword_raw": "Col*lu\"sion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. collusio: cf. F. collusion. See Collude.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "A person who is guilty of connivance intentionally overlooks, and thus sanctions what he was bound to prevent. A person who is guilty of collusion unites with others (playing into their hands) for fraudulent purposes."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A secret agreement and cooperation for a fraudulent or deceitful purpose; a playing into each other's hands; deceit; fraud; cunning."
+          ],
+          "quotes": [
+            "The foxe, maister of collusion.",
+            "That they [miracles] be done publicly, in the face of the world, that there may be no room to suspect artifice and collusion.",
+            "By the ignorance of the merchants or dishonesty of the weavers, or the collusion of both, the ware was bad and the price excessive."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "An agreement between two or more persons to defraud a person of his rights, by the forms of law, or to obtain an object forbidden by law."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Collusion",
+            "Connivance"
+          ]
+        }
+      ]
+    }
+  ]
+}

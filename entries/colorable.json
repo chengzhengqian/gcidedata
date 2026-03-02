@@ -1,0 +1,59 @@
+{
+  "key": "colorable",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Colorable",
+      "headword_raw": "Col\"or*a*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Colorableness",
+          "form_raw": "Col\"or*a*ble*ness",
+          "key": "colorableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Colorably",
+          "form_raw": "Col\"or*a*bly",
+          "key": "colorably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Specious; plausible; having an appearance of right or justice."
+          ],
+          "quotes": [
+            "Colorable and subtle crimes, that seldom are taken within the walk of human justice."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "key": "comitia",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Comitia",
+      "headword_raw": "Co*mi\"ti*a",
+      "pr": "(?)",
+      "pos": [
+        "n. pl."
+      ],
+      "ety": "[L.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Rom. Antiq.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A public assembly of the Roman people for electing officers or passing laws."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ There were three kinds of comitia: comitia curiata, or assembly of the patricians, who voted in curiæ; comitia centuriata, or assembly of the whole Roman people, who voted by centuries; and comitia tributa, or assembly of the plebeians according to their division into tribes."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

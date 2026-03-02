@@ -1,0 +1,66 @@
+{
+  "key": "commissary",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Commissary",
+      "headword_raw": "Com\"mis*sa*ry",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[LL. commissarius, fr. L. commissus, p. p. of committere to commit, intrust to. See Commit.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One to whom is committed some charge, duty, or office, by a superior power; a commissioner."
+          ],
+          "quotes": [
+            "Great Destiny, the Commissary of God."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Eccl.)"
+          ],
+          "defs": [
+            "An officer of the bishop, who exercises ecclesiastical jurisdiction in parts of the diocese at a distance from the residence of the bishop."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Mil.)",
+            "(Mil. U. S.)"
+          ],
+          "defs": [
+            "An officer having charge of a special service; as, the commissary of musters.",
+            "An officer whose business is to provide food for a body of troops or a military post; -- officially called commissary of subsistence."
+          ],
+          "quotes": [
+            "Washington wrote to the President of Congress . . . urging the appointment of a commissary general, a quartermaster general, a commissary of musters, and a commissary of artillery."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

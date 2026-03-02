@@ -1,0 +1,51 @@
+{
+  "key": "collocation",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Collocation",
+      "headword_raw": "Col`lo*ca\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. collocatio.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of placing; the state of being placed with something else; disposition in place; arrangement."
+          ],
+          "quotes": [
+            "The choice and collocation of words."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Linguistics)"
+          ],
+          "defs": [
+            "a combination of related words within a sentence that occurs more frequently than would be predicted in a random arrangement of words; a combination of words that occurs with sufficient frequency to be recognizable as a common combination, especially a pair of words that occur adjacent to each other. Also called stable collocation. Combinations of words having intervening words between them, such as verb and object pairs, may also be collocations."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

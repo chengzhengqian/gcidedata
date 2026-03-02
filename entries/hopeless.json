@@ -1,0 +1,81 @@
+{
+  "key": "hopeless",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Hopeless",
+      "headword_raw": "Hope\"less",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Hopelessly",
+          "form_raw": "Hope\"less*ly",
+          "key": "hopelessly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Hopelessness",
+          "form_raw": "Hope\"less*ness",
+          "key": "hopelessness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Destitute of hope; having no expectation of good; despairing."
+          ],
+          "quotes": [
+            "I am a woman, friendless, hopeless."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Giving no ground of hope; promising nothing desirable; desperate; as, a hopeless cause."
+          ],
+          "quotes": [
+            "The hopelessword of “never to return” Breathe I against thee, upon pain of life."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Unhoped for; despaired of."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "key": "homicide",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Homicide",
+      "headword_raw": "Hom\"i*cide",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "v. t."
+      ],
+      "ety": "[F., fr. L. homicidium, fr. homicida a man slayer; homo man + caedere to cut, kill. See Homage, and cf. Concise, Shed, v. t.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The killing of one human being by another."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Homicide is of three kinds: justifiable, as when the killing is performed in the exercise of a right or performance of a duty; excusable, as when done, although not as duty or right, yet without culpable or criminal intent; and felonious, or involving what the law terms malice; the latter may be either manslaughter or murder. Bouvier."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "One who kills another; a manslayer."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

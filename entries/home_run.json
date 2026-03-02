@@ -1,0 +1,40 @@
+{
+  "key": "home_run",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Home run",
+      "headword_raw": "Home\" run`",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Baseball)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a complete circuit of the bases made by the batter without being put out and without an error on the play; also, the hit on which the batter makes such a circuit; a four-base hit."
+          ],
+          "quotes": [],
+          "notes": [
+            "Most home runs are made when the batter hits a fair ball out of the playing area on a fly, when the ball cannot be played by the defending team; if a batter circuits the bases while the ball is still inside the playing field, it is an inside-the-park home run."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

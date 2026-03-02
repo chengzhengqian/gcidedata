@@ -1,0 +1,59 @@
+{
+  "key": "horoscope",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Horoscope",
+      "headword_raw": "Hor\"o*scope",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. horoscope, L. horoscopus, fr. Gr. <?/, adj., observing hours or times, esp. observing the hour of birth, n., a horoscope; <?/ hour + <?/ to view, observe. See Hour, and -scope.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Astrol.)"
+          ],
+          "defs": [
+            "The representation made of the aspect of the heavens at the moment of a person's birth, by which the astrologer professed to foretell the events of the person's life; especially, the sign of the zodiac rising above the horizon at such a moment.",
+            "The diagram or scheme of twelve houses or signs of the zodiac, into which the whole circuit of the heavens was divided for the purposes of such prediction of fortune."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The planisphere invented by Jean Paduanus."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A table showing the length of the days and nights at all places."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "key": "hooch",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "hooch",
+      "headword_raw": "hooch",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "an illicitly distilled (and usually inferior) alcoholic liquor."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "hootch"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Military Slang)"
+          ],
+          "defs": [
+            "A living quarters;",
+            "a thatched hut in Southeast Asia, or any living quarters where a serviceman lives together with a local woman."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

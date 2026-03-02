@@ -1,0 +1,69 @@
+{
+  "key": "hopeful",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Hopeful",
+      "headword_raw": "Hope\"ful",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Hopefully",
+          "form_raw": "Hope\"ful*ly",
+          "key": "hopefully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Hopefulness",
+          "form_raw": "Hope\"ful*ness",
+          "key": "hopefulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Full of hope, or agreeable expectation; inclined to hope; expectant."
+          ],
+          "quotes": [
+            "Men of their own natural inclination hopeful and strongly conceited."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Having qualities which excite hope; affording promise of good or of success; as, a hopeful youth; a hopeful prospect."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

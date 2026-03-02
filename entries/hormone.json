@@ -1,0 +1,64 @@
+{
+  "key": "hormone",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Hormone",
+      "headword_raw": "Hor\"mone",
+      "pr": "(hr\"mōn)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[From Gr. \"orma`ein to excite.]",
+      "sources": [
+        "Webster 1913 Suppl.",
+        "+PJC",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Physiological Chem.)"
+          ],
+          "defs": [
+            "A chemical substance formed in one organ and carried in the circulation to another organ on which it exerts a specific effect on cells at a distance from the producing cells; thus, pituitary hormones produced in the brain may have effects on cells in distant parts of the body.."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Physiological Chem.)"
+          ],
+          "defs": [
+            "a chemical substance, whether natural or synthetic, that functions like a hormone in a living organism. Thus, synthetic steroid hormones may be more effective than their natural counterparts."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Bot.)"
+          ],
+          "defs": [
+            "A substance that controls growth rate or differentiation in plants; also called phytohormone. The most well-known are the auxins that stimulate growth at the growing tips of plants, and control root formation and the dropping of leaves; and the gibberellins, which are used in agriculture to promote plant growth."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

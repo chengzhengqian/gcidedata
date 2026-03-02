@@ -1,0 +1,48 @@
+{
+  "key": "homogeneous",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Homogeneous",
+      "headword_raw": "Ho`mo*ge\"ne*ous",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Gr. <?/; <?/ the same + <?/ race, kind: cf. F. homogne. See Same, and Kin.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of the same kind of nature; consisting of similar parts, or of elements of the like nature; -- opposed to heterogeneous; as, homogeneous particles, elements, or principles; homogeneous bodies."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Alg.)"
+          ],
+          "defs": [
+            "Possessing the same number of factors of a given kind; as, a homogeneous polynomial."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

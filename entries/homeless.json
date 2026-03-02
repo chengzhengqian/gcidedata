@@ -1,0 +1,74 @@
+{
+  "key": "homeless",
+  "source_file": "CIDE.H",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Homeless",
+      "headword_raw": "Home\"less",
+      "pr": null,
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": "[AS. hāmleas.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Homelessness",
+          "form_raw": "Home\"less*ness",
+          "key": "homelessness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Destitute of a home."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "homeless",
+      "headword_raw": "home\"less",
+      "pr": null,
+      "pos": [
+        "n. pl."
+      ],
+      "ety": null,
+      "sources": [],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Those people who have no permanent residence, especially those who live outdoors due to poverty; usually used in the definite phrase the homeless."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

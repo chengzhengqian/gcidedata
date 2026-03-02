@@ -1,0 +1,80 @@
+{
+  "key": "honky-tonk",
+  "source_file": "CIDE.H",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "honky-tonk",
+      "headword_raw": "honky-tonk",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a cheap drinking and dancing establishment; a cheap and tawdry nightclub."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "barrelhouse"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A district in which honky-tonks{1} are found."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "honky-tonk",
+      "headword_raw": "honky-tonk",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "2.",
+          "fields": [
+            "(Music)"
+          ],
+          "defs": [
+            "Pertaining to a style of ragtime piano music having a melody embellished with chords and syncopated rhythms, accompanied by a bass in strict two-four or four-four time. It is often played on an upright piano having its strings muffled to produce a tinny sound; as, a honky-tonk piano."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

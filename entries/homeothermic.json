@@ -1,0 +1,43 @@
+{
+  "key": "homeothermic",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "homeothermic",
+      "headword_raw": "homeothermic",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "homoiothermic",
+        "homoiothermal",
+        "homothermic",
+        "homothermal"
+      ],
+      "entry_fields": [
+        "(Biol.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "having constant and relatively high body temperature; warm-blooded; same as homoiothermal; -- of birds and mammals. Contrasted to poikilothermal."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

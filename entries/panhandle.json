@@ -1,0 +1,125 @@
+{
+  "key": "panhandle",
+  "source_file": "CIDE.P",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Panhandle",
+      "headword_raw": "Pan\"han`dle",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The handle of a pan;",
+            "any arm or projection suggestive of the handle of a pan; as, the panhandle of West Virginia, Texas, or Idaho."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "panhandle",
+      "headword_raw": "pan\"han`dle",
+      "pr": "(pn\"hn`d'l)",
+      "pos": [
+        "v. i.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "panhandler",
+          "form_raw": "pan\"hand`ler",
+          "key": "panhandler",
+          "pos": [
+            "n."
+          ],
+          "pr": "(pn\"hnd`lr)"
+        },
+        {
+          "form": "panhandling",
+          "form_raw": "pan\"hand`ling",
+          "key": "panhandling",
+          "pos": [
+            "n."
+          ],
+          "pr": "(pn\"hnd`lng)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To accost people in a public place and ask for money; to beg."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Panhandle",
+      "headword_raw": "Pan\"han`dle",
+      "pr": "(pn\"hn`d'l)",
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "to obtain by panhandling."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To accost in a public place and ask for money from."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

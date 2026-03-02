@@ -1,0 +1,109 @@
+{
+  "key": "paragraph",
+  "source_file": "CIDE.P",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Paragraph",
+      "headword_raw": "Par\"a*graph",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. paragraphe, LL. paragraphus, fr. Gr. para`grafos (sc. grammh`) a line or stroke drawn in the margin, fr. paragra`fein to write beside; para` beside + gra`fein to write. See Para-, and Graphic, and cf. Paraph.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Originally, a marginal mark or note, set in the margin to call attention to something in the text, e. g., a change of subject; now, the character ¶, commonly used in the text as a reference mark to a footnote, or to indicate the place of a division into sections."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ This character is merely a modification of a capital P (the initial of the word paragraph), the letter being reversed, and the black part made white and the white part black for the sake of distinctiveness."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A distinct part of a discourse or writing; any section or subdivision of a writing or chapter which relates to a particular point, whether consisting of one or many sentences. The division is sometimes noted by the mark ¶, but usually, by beginning the first sentence of the paragraph on a new line and at more than the usual distance from the margin, also called indenting the line. See indentation{4}."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A brief composition complete in one typographical section or paragraph; an item, remark, or quotation comprised in a few lines forming one paragraph; as, a column of news paragraphs; an editorial paragraph."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Paragraph",
+      "headword_raw": "Par\"a*graph",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Paragraphed (?); p. pr. & vb. n. Paragraphing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To divide into paragraphs; to mark with the character ¶."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To express in the compass of a paragraph; as, to paragraph an article."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To mention in a paragraph or paragraphs"
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

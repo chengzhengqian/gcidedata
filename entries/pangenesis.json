@@ -1,0 +1,41 @@
+{
+  "key": "pangenesis",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Pangenesis",
+      "headword_raw": "Pan*gen\"e*sis",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Pan- + genesis.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Biol.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An hypothesis advanced by Darwin in explanation of heredity."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The theory rests on the assumption, that the whole organization, in the sense of every separate atom or unit, reproduces itself, the cells throwing off minute granules called gemmules, which circulate freely throughout the system and multiply by subdivision. These gemmules collect in the reproductive organs and products, or in buds, so that the egg or bud contains gemmules from all parts of the parent or parents, which in development give rise to cells in the offspring similar to those from which they were given off in the parent. The hypothesis also assumes that these gemmules need not in all cases develop into cells, but may lie dormant, and be transmitted from generation to generation without producing a noticeable effect until a case of atavism occurs. This is an ingenious hypothesis, but now known to be wrong. Although now, a hundred years later, we know that all transmitted genetic information (other than that in plasmids) is contained in the genome of a single cell, scientists are still only beginning to understand the development process."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

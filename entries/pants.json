@@ -1,0 +1,66 @@
+{
+  "key": "pants",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "pants",
+      "headword_raw": "pants",
+      "pr": null,
+      "pos": [
+        "n.",
+        "n. pl."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.6",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A garment extending from the waist to the knee or ankle, covering each leg separately."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "trousers"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Underpants."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "drawers"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Underpants worn by women; panties."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "bloomers",
+            "drawers",
+            "panties"
+          ]
+        }
+      ]
+    }
+  ]
+}

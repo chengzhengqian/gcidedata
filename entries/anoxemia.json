@@ -1,0 +1,57 @@
+{
+  "key": "anoxemia",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "anoxemia",
+      "headword_raw": "an`ox*e\"mi*a",
+      "pr": "(n`ks*ē\"m*)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[NL.; Gr. 'an priv. + oxygen + Gr. a'i^ma blood.]",
+      "sources": [
+        "Webster 1913 Suppl.",
+        "AS"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Anoxaemic",
+          "form_raw": "An`ox*ae\"mic",
+          "key": "anoxaemic",
+          "pos": [],
+          "pr": null
+        },
+        {
+          "form": "Anoxemic",
+          "form_raw": "An`ox*e\"mic",
+          "key": "anoxemic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(n`ks*ē\"mk)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A former term used to refer to an abnormal condition due to deficient oxygenation of the arterial blood, as in balloon sickness, mountain sickness; now the term is replaced by the term hypoxemia."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

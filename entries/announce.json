@@ -1,0 +1,61 @@
+{
+  "key": "announce",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Announce",
+      "headword_raw": "An*nounce\"",
+      "pr": "(<?/)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OF. anoncier, F. annoncer, fr. L. annuntiare; ad + nuntiare to report, relate, nuntius messenger, bearer of news. See Nuncio, and cf. Annunciate.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Announced (<?/); p. pr. & vb. n. Announcing (<?/).]",
+      "usage": [
+        "-- To Publish, Announce, Proclaim, Promulgate. We publish what we give openly to the world, either by oral communication or by means of the press; as, to publish abroad the faults of our neighbors. We announce what we declare by anticipation, or make known for the first time; as, to announce the speedy publication of a book; to announce the approach or arrival of a distinguished personage. We proclaim anything to which we give the widest publicity; as, to proclaim the news of victory. We promulgate when we proclaim more widely what has before been known by some; as, to promulgate the gospel."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To give public notice, or first notice of; to make known; to publish; to proclaim."
+          ],
+          "quotes": [
+            "Her [Q. Elizabeth's] arrival was announced through the country by a peal of cannon from the ramparts."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To pronounce; to declare by judicial sentence."
+          ],
+          "quotes": [
+            "Publish laws, announce Or life or death."
+          ],
+          "notes": [],
+          "synonyms": [
+            "proclaim",
+            "publish",
+            "make known",
+            "herald",
+            "declare",
+            "promulgate"
+          ]
+        }
+      ]
+    }
+  ]
+}

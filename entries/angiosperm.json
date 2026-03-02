@@ -1,0 +1,40 @@
+{
+  "key": "angiosperm",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Angiosperm",
+      "headword_raw": "An\"gi*o*sperm",
+      "pr": "(-n\"j**sprm)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Angio- + Gr. <?/, <?/, seed.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Bot.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A plant which has its seeds inclosed in a pericarp. Contrasted with gymnosperm."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The term is restricted to exogenous plants, and applied to one of the two grand divisions of these species, the other division including gymnosperms, or those which have naked seeds. The oak, apple, beech, etc., are angiosperms, while the pines, spruce, hemlock, and the allied varieties, are gymnosperms."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "key": "angioma",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "angioma",
+      "headword_raw": "an`gi*o\"ma",
+      "pr": "(n`j*ō\"m)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[NL.; angio- + -oma.]",
+      "sources": [
+        "Webster 1913 Suppl.",
+        "AS"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "angiomatous",
+          "form_raw": "an`gi*om\"a*tous",
+          "key": "angiomatous",
+          "pos": [
+            "a."
+          ],
+          "pr": "(n`j*ō\"m*ts)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A tumor composed chiefly of blood or lymph vessels."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

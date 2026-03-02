@@ -1,0 +1,51 @@
+{
+  "key": "angiography",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Angiography",
+      "headword_raw": "An`gi*og\"ra*phy",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Angio- + -graphy: cf. F. angiographie.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Anat.)"
+          ],
+          "defs": [
+            "A description of blood vessels and lymphatics."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "A diagnostic procedure in which the location and size of blood vessels may be visualized by taking an X-ray photograph after injecting a radiopaque substance into the blood stream."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

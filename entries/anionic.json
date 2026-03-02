@@ -1,0 +1,79 @@
+{
+  "key": "anionic",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "anionic",
+      "headword_raw": "anionic",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "having the character of an anion; negatively charged; containing anions; -- of atoms, molecules, and groups of atoms. Contrasted with cationic."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "of or pertaining to anions. Contrasted with cationic"
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "anionic",
+      "headword_raw": "anionic",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a class of synthetic detergents in which the molecules do not ionize in aqueous solutions."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "anionic detergent",
+            "non-ionic detergent"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "key": "anguilla",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Anguilla",
+      "headword_raw": "Anguilla",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a British colony, comprising an island in the Caribbean Sea, east of Puerto Rico, with a total area of 91 sq km. Its population in 1996 was estimated at 10,424. The official language is English."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "the type genus of the Anguillidae: eels."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "genus Anguilla"
+          ]
+        }
+      ]
+    }
+  ]
+}

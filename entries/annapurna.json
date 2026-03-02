@@ -1,0 +1,53 @@
+{
+  "key": "annapurna",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Annapurna",
+      "headword_raw": "Annapurna",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Hinduism)"
+          ],
+          "defs": [
+            "wife of Siva and a benevolent aspect of Devi: goddess of plenty."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Parvati",
+            "Anapurna"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a mountain in Nepal, 26,504 feet high."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Anapurna"
+          ]
+        }
+      ]
+    }
+  ]
+}

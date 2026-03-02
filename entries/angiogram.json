@@ -1,0 +1,38 @@
+{
+  "key": "angiogram",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Angiogram",
+      "headword_raw": "An\"gi*o*gram",
+      "pr": "(n\"j**grm)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[angio- + Gr. gra`mma a writing.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An X-ray photograph produced by angiography."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

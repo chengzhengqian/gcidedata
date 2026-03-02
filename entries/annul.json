@@ -1,0 +1,63 @@
+{
+  "key": "annul",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Annul",
+      "headword_raw": "An*nul\"",
+      "pr": "(<?/)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "a."
+      ],
+      "ety": "[F. annuler, LL. annullare, annulare, fr. L. ad to + nullus none, nullum, neut., nothing. See Null, a.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Annulled (<?/); p. pr. & vb. n. Annulling.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To reduce to nothing; to obliterate."
+          ],
+          "quotes": [
+            "Light, the prime work of God, to me's extinct. And all her various objects of delight Annulled."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To make void or of no effect; to nullify; to abolish; to do away with; -- used appropriately of laws, decrees, edicts, decisions of courts, or other established rules, permanent usages, and the like, which are made void by component authority."
+          ],
+          "quotes": [
+            "Do they mean to annul laws of inestimable value to our liberties?"
+          ],
+          "notes": [],
+          "synonyms": [
+            "abolish",
+            "abrogate",
+            "repeal",
+            "cancel",
+            "reverse",
+            "rescind",
+            "revoke",
+            "nullify",
+            "destroy. See Abolish"
+          ]
+        }
+      ]
+    }
+  ]
+}

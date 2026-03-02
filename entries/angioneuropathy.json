@@ -1,0 +1,48 @@
+{
+  "key": "angioneuropathy",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "angioneuropathy",
+      "headword_raw": "an`gi*o*neu*rop\"a*thy",
+      "pr": "(n`j**n*rp\"*th)",
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "AS"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "Neuropathy of the neurons innervating blood vessels. Called also Angioneurosis, Vasomotor neurosis, Vasoneurosis."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med)"
+          ],
+          "defs": [
+            "Angiopathic neuropathy."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

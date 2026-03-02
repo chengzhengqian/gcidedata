@@ -1,0 +1,75 @@
+{
+  "key": "indelible",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Indelible",
+      "headword_raw": "In*del\"i*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[L. indelebilis; pref. in- not + delebilis capable of being destroyed: cf. F. indlbile. See In- not, and Deleble.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Indelibleness",
+          "form_raw": "In*del\"i*ble*ness",
+          "key": "indelibleness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Indelibly",
+          "form_raw": "In*del\"i*bly",
+          "key": "indelibly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "That can not be removed, washed away, blotted out, or effaced; incapable of being canceled, lost, or forgotten; as, indelible characters; an indelible stain; an indelible impression on the memory."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That can not be annulled; indestructible."
+          ],
+          "quotes": [
+            "They are endued with indelible power from above.",
+            "Indelibly stamped and impressed."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Fixed",
+            "fast",
+            "permanent",
+            "ineffaceable"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "key": "incumbrance",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Incumbrance",
+      "headword_raw": "In*cum\"brance",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[See Encumbrance.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A burdensome and troublesome load; anything that impedes motion or action, or renders it difficult or laborious; clog; impediment; hindrance; check."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "A burden or charge upon property; a claim or lien upon an estate, which may diminish its value."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

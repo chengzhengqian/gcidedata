@@ -1,0 +1,34 @@
+{
+  "key": "induction_generator",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Induction generator",
+      "headword_raw": "In*duc\"tion gen\"er*a`tor",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A machine built as an induction motor and driven above synchronous speed, thus acting as an alternating-current generator; -- called also asynchronous generator. Below synchronism the machine takes in electrical energy and acts as an induction motor; at synchronism the power component of current becomes zero and changes sign, so that above synchronism the machine (driven for this purpose by mechanical power) gives out electrical energy as a generator."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

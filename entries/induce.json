@@ -1,0 +1,122 @@
+{
+  "key": "induce",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Induce",
+      "headword_raw": "In*duce\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. inducere, inductum; pref. in- in + ducere to lead. See Duke, and cf. Induct.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC",
+        "PJC"
+      ],
+      "morph": "[imp. & p. p. Induced (?); p. pr. & vb. n. Inducing (?).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To lead in; to introduce."
+          ],
+          "quotes": [
+            "The poet may be seen inducing his personages in the first Iliad."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To draw on; to overspread."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To lead on; to influence; to prevail on; to incite; to persuade; to move by persuasion or influence."
+          ],
+          "quotes": [
+            "He is not obliged by your offer to do it, . . . though he may be induced, persuaded, prevailed upon, tempted.",
+            "Let not the covetous desire of growing rich induce you to ruin your reputation."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "To bring on; to effect; to cause; as, a fever induced by fatigue or exposure; anaphylactic shock induced by exposure to a allergen."
+          ],
+          "quotes": [
+            "Sour things induces a contraction in the nerves."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Physics)"
+          ],
+          "defs": [
+            "To produce, or cause, by proximity without contact or transmission, as a particular electric or magnetic condition in a body, by the approach of another body in an opposite electric or magnetic state."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [
+            "(Logic)"
+          ],
+          "defs": [
+            "To generalize or conclude as an inference from all the particulars; -- the opposite of deduce."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "7.",
+          "fields": [
+            "(Genetics, Biochemistry)"
+          ],
+          "defs": [
+            "To cause the expression of (a gene or gene product) by affecting a transcription control element on the genome, either by inhibiting a negative control or by activating a positive control; to derepress; as, lactose induces the production of beta-galactosidase in Eschericia coli.."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "move",
+            "instigate",
+            "urge",
+            "impel",
+            "incite",
+            "press",
+            "influence",
+            "actuate"
+          ]
+        }
+      ]
+    }
+  ]
+}

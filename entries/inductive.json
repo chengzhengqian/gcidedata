@@ -1,0 +1,74 @@
+{
+  "key": "inductive",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Inductive",
+      "headword_raw": "In*duct\"ive",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[LL. inductivus: cf. F. inductif. See Induce.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Leading or drawing; persuasive; tempting; -- usually followed by to."
+          ],
+          "quotes": [
+            "A brutish vice, Inductive mainly to the sin of Eve."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Tending to induce or cause."
+          ],
+          "quotes": [
+            "They may be . . . inductive of credibility."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Leading to inferences; proceeding by, derived from, or using, induction; as, inductive reasoning."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Physics)",
+            "(Physics)"
+          ],
+          "defs": [
+            "Operating by induction; as, an inductive electrical machine.",
+            "Facilitating induction; susceptible of being acted upon by induction; as, certain substances have a great inductive capacity."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

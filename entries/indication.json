@@ -1,0 +1,88 @@
+{
+  "key": "indication",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Indication",
+      "headword_raw": "In`di*ca\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. indicatio: cf. F. indication.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Act of pointing out or indicating."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That which serves to indicate or point out; mark; token; sign; symptom; evidence."
+          ],
+          "quotes": [
+            "The frequent stops they make in the most convenient places are plain indications of their weariness."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Discovery made; information."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Explanation; display."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "Any symptom or occurrence in a disease, which serves to direct to suitable remedies. Opposite of contraindication."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Proof",
+            "demonstration",
+            "sign",
+            "token",
+            "mark",
+            "evidence",
+            "signal"
+          ]
+        }
+      ]
+    }
+  ]
+}

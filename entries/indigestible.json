@@ -1,0 +1,67 @@
+{
+  "key": "indigestible",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Indigestible",
+      "headword_raw": "In`di*gest\"i*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[L. indigestibilis: cf. F. indigestible. See In- not, and Digest.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Indigestibleness",
+          "form_raw": "In`di*gest\"i*ble*ness",
+          "key": "indigestibleness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Indigestibly",
+          "form_raw": "In`di*gest\"i*bly",
+          "key": "indigestibly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Not digestible; not readily soluble in the digestive juices; not easily convertible into products fitted for absorption."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Not digestible in the mind; distressful; intolerable; as, an indigestible simile."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

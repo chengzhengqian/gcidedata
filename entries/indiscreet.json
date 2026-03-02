@@ -1,0 +1,69 @@
+{
+  "key": "indiscreet",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Indiscreet",
+      "headword_raw": "In`dis*creet\"",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[OE. indiscret, F. indiscret, fr. L. indiscretus unseparated, indiscreet. See In- not, and Discreet, and cf. Indiscrete.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Indiscreetly",
+          "form_raw": "In`dis*creet\"ly",
+          "key": "indiscreetly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Indiscreetness",
+          "form_raw": "In`dis*creet\"ness",
+          "key": "indiscreetness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Imprudent",
+        "injudicious",
+        "inconsiderate",
+        "rash",
+        "hasty",
+        "incautious",
+        "heedless",
+        "undiscerning",
+        "foolish"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not discreet; wanting in discretion."
+          ],
+          "quotes": [
+            "So drunken, and so indiscreet an officer."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

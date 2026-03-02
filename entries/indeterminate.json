@@ -1,0 +1,65 @@
+{
+  "key": "indeterminate",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Indeterminate",
+      "headword_raw": "In`de*ter\"mi*nate",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. indeterminatus.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Indeterminately",
+          "form_raw": "In`de*ter\"mi*nate*ly",
+          "key": "indeterminately",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Indeterminateness",
+          "form_raw": "In`de*ter\"mi*nate*ness",
+          "key": "indeterminateness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Math.)",
+        "(Math.)",
+        "(Math.)",
+        "(Bot.)",
+        "(Math.)",
+        "(Math.)",
+        "(Math.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not determinate; not certain or fixed; indefinite; not precise; as, an indeterminate number of years."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

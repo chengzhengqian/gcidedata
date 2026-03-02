@@ -1,0 +1,54 @@
+{
+  "key": "indemnity",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Indemnity",
+      "headword_raw": "In*dem\"ni*ty",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. indemnitas, fr. indemnis uninjured: cf. F. indemnit. See Indemnify.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Security; insurance; exemption from loss or damage, past or to come; immunity from penalty, or the punishment of past offenses; amnesty."
+          ],
+          "quotes": [
+            "Having first obtained a promise of indemnity for the riot they had committed."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "Indemnification, compensation, or remuneration for loss, damage, or injury sustained."
+          ],
+          "quotes": [
+            "They were told to expect, upon the fall of Walpole, a large and lucrative indemnity for their pretended wrongs."
+          ],
+          "notes": [
+            "☞ Insurance is a contract of indemnity. Arnould. The owner of private property taken for public use is entitled to compensation or indemnity."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

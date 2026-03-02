@@ -1,0 +1,94 @@
+{
+  "key": "individual",
+  "source_file": "CIDE.I",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Individual",
+      "headword_raw": "In`di*vid\"u*al",
+      "pr": "(?; 135)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. individuus indivisible; pref. in- not + dividuus divisible, fr. dividere to divide: cf. F. individuel. See Divide.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Not divided, or not to be divided; existing as one entity, or distinct being or object; single; one; as, an individual man, animal, or city."
+          ],
+          "quotes": [
+            "Mind has a being of its own, distinct from that of all other things, and is pure, unmingled, individual substance.",
+            "United as one individual soul."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to one only; peculiar to, or characteristic of, a single person or thing; distinctive; as, individual traits of character; individual exertions; individual peculiarities."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Individual",
+      "headword_raw": "In`di*vid\"u*al",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A single person, animal, or thing of any kind; a thing or being incapable of separation or division, without losing its identity; especially, a human being; a person."
+          ],
+          "quotes": [
+            "An object which is in the strict and primary sense one, and can not be logically divided, is called an individual.",
+            "That individuals die, his will ordains."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "An independent, or partially independent, zooid of a compound animal.",
+            "The product of a single egg, whether it remains a single animal or becomes compound by budding or fission."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

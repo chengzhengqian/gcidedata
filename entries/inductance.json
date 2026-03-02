@@ -1,0 +1,40 @@
+{
+  "key": "inductance",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Inductance",
+      "headword_raw": "In*duc\"tance",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Elec.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Capacity for induction; the coefficient of self-induction."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The unit of inductance is the henry."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

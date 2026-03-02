@@ -1,0 +1,60 @@
+{
+  "key": "indictment",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Indictment",
+      "headword_raw": "In*dict\"ment",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. Inditement.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of indicting, or the state of being indicted."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "The formal statement of an offense, as framed by the prosecuting authority of the State, and found by the grand jury."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ To the validity of an indictment a finding by the grand jury is essential, while an information rests only on presentation by the prosecuting authority."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "An accusation in general; a formal accusation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

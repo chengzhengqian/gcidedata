@@ -1,0 +1,48 @@
+{
+  "key": "inductor",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Inductor",
+      "headword_raw": "In*duct\"or",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L., one who stirs up or rouses. See Induce.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The person who inducts another into an office or benefice."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Elec.)"
+          ],
+          "defs": [
+            "That portion of an electrical apparatus, in which is the inducing charge or current."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

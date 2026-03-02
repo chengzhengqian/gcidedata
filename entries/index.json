@@ -1,0 +1,211 @@
+{
+  "key": "index",
+  "source_file": "CIDE.I",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Index",
+      "headword_raw": "In\"dex",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L.: cf. F. index. See Indicate, Diction.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC",
+        "Webster 1913 Suppl.",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "That which points out; that which shows, indicates, manifests, or discloses; as, the increasing unemployment rate is an index of how much the economy has slowed."
+          ],
+          "quotes": [
+            "Tastes are the indexes of the different qualities of plants."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(printing)"
+          ],
+          "defs": [
+            "That which guides, points out, informs, or directs; a pointer or a hand that directs to anything, as the hand of a watch, a movable finger or other form of pointer on a gauge, scale, or other graduated instrument.",
+            "a sign [☞] (called also fist) used to direct particular attention to a note or paragraph."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A table for facilitating reference to topics, names, and the like, in a book, usually giving the page on which a particular word or topic may be found; -- usually alphabetical in arrangement, and printed at the end of the volume. Typically found only in non-fiction books."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "A prologue indicating what follows."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Anat.)"
+          ],
+          "defs": [
+            "The second finger, that next to the pollex (thumb), in the manus, or hand; the forefinger; index finger."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "The figure or letter which shows the power or root of a quantity; the exponent."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "7.",
+          "fields": [],
+          "defs": [
+            "The ratio, or formula expressing the ratio, of one dimension of a thing to another dimension; as, the vertical index of the cranium."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "8.",
+          "fields": [],
+          "defs": [
+            "A number providing a measure of some quantity derived by a formula, usually a form of averaging, from multiple quantities; -- used mostly in economics; as, the index of leading indicators; the index of industrial production; the consumer price index. See, for example, the consumer price index."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "9.",
+          "fields": [
+            "(computers)"
+          ],
+          "defs": [
+            "A file containing a table with the addresses of data items, arranged for rapid and convenient search for the addresses."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "10.",
+          "fields": [
+            "(computers)"
+          ],
+          "defs": [
+            "A number which serves as a label for a data item and also represents the address of a data item within a table or array."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "11.",
+          "fields": [
+            "(R. C. Ch.)",
+            "(Math.)",
+            "(Opt.)",
+            "(R. C. Ch.)"
+          ],
+          "defs": [
+            "The Index prohibitorius, a catalogue of books which are forbidden by the church to be read; also called Index of forbidden books and Index Librorum Prohibitorum."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Index",
+      "headword_raw": "In\"dex",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": "[imp. & p. p. Indexed (?); p. pr. & vb. n. Indexing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To provide with an index or table of references; to put into an index; as, to index a book, or its contents."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Economics)"
+          ],
+          "defs": [
+            "To adjust (wages, prices, taxes, etc.) automatically so as to compensate for changes in prices, usually as measured by the consumer price index or other economic measure. Its purpose is usually to compensate for inflation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To insert (a word, name, file folder, etc.) into an index or into an indexed arrangement; as, to index a contract under its date of signing."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

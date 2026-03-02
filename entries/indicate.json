@@ -1,0 +1,82 @@
+{
+  "key": "indicate",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Indicate",
+      "headword_raw": "In\"di*cate",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. indicatus, p. p. of indicare to indicate; pref. in- in + dicare to proclaim; akin to dicere to say. See Diction, and cf. Indict, Indite.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": "[imp. & p. p. Indicated (?); p. pr. & vb. n. Indicating (?).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To point out; to discover; to direct to a knowledge of; to show; to make known."
+          ],
+          "quotes": [
+            "That turns and turns to indicate From what point blows the weather."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "To show or manifest by symptoms; to point to as the proper remedies; as, great prostration of strength indicates the use of stimulants. Opposite of contraindicate."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Mach.)"
+          ],
+          "defs": [
+            "To investigate the condition or power of, as of steam engine, by means of an indicator."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "show",
+            "mark",
+            "signify",
+            "denote",
+            "discover",
+            "evidence",
+            "evince",
+            "manifest",
+            "declare",
+            "specify",
+            "explain",
+            "exhibit",
+            "present",
+            "reveal",
+            "disclose",
+            "display"
+          ]
+        }
+      ]
+    }
+  ]
+}

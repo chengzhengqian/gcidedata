@@ -1,0 +1,77 @@
+{
+  "key": "increment",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Increment",
+      "headword_raw": "In\"cre*ment",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. incrementum: cf. F. incrment. See Increase.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act or process of increasing; growth in bulk, quantity, number, value, or amount; augmentation; enlargement."
+          ],
+          "quotes": [
+            "The seminary that furnisheth matter for the formation and increment of animal and vegetable bodies.",
+            "A nation, to be great, ought to be compressed in its increment by nations more civilized than itself."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Matter added; increase; produce; production; -- opposed to decrement."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "The increase of a variable quantity or fraction from its present value to its next ascending value; the finite quantity, generally variable, by which a variable quantity is increased."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Rhet.)",
+            "(Math.)",
+            "(Math.)"
+          ],
+          "defs": [
+            "An amplification without strict climax, as in the following passage:"
+          ],
+          "quotes": [
+            "Finally, brethren, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report, . . . think on these things."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

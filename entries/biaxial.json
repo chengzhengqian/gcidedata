@@ -1,0 +1,49 @@
+{
+  "key": "biaxial",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Biaxial",
+      "headword_raw": "Bi*ax\"i*al",
+      "pr": "(<?/)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[Pref. bi- + axal, axial.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Biaxially",
+          "form_raw": "Bi*ax\"i*al*ly",
+          "key": "biaxially",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Opt.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Having two axes; as, biaxial polarization; biaxial crystals."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

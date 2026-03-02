@@ -1,0 +1,39 @@
+{
+  "key": "bestiary",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Bestiary",
+      "headword_raw": "Bes\"ti*a*ry",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[LL. bestiarium, fr. L. bestiarius pert. to beasts, fr. bestia beast: cf. F. bestiaire.]",
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A treatise on beasts; esp., one of the moralizing or allegorical beast tales written in the Middle Ages."
+          ],
+          "quotes": [
+            "A bestiary . . . in itself one of the numerous mediæval renderings of the fantastic mystical Zoology."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

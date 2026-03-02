@@ -1,0 +1,75 @@
+{
+  "key": "bengali",
+  "source_file": "CIDE.B",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Bengali",
+      "headword_raw": "Ben*gal\"i",
+      "pr": "(<?/)",
+      "pos": [
+        "prop. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The language spoken in Bengal."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Bengali",
+      "headword_raw": "Bengali",
+      "pr": null,
+      "pos": [
+        "prop. adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to the Bengali language; as, Bengali poetry."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Of, pertaining to, or characteristic of Bangladesh (formerly Bengal) or its inhabitants; as, Bengali hills."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

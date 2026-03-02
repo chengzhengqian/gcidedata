@@ -1,0 +1,48 @@
+{
+  "key": "bevelled",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Bevelled",
+      "headword_raw": "Bev\"elled",
+      "pr": "(<?/)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Formed to a bevel angle; sloping; as, the beveled edge of a table."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Min.)"
+          ],
+          "defs": [
+            "Replaced by two planes inclining equally upon the adjacent planes, as an edge; having its edges replaced by sloping planes, as a cube or other solid."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

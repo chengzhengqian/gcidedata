@@ -1,0 +1,77 @@
+{
+  "key": "berlin",
+  "source_file": "CIDE.B",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Berlin",
+      "headword_raw": "Berlin",
+      "pr": null,
+      "pos": [
+        "prop. n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Geography)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The capital city of Germany. Population (2000) = 3,471,418."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Berlin",
+      "headword_raw": "Ber\"lin",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[The capital of Germany]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A four-wheeled carriage, having a sheltered seat behind the body and separate from it, invented in the 17th century, at Berlin."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Fine worsted for fancy-work; zephyr worsted; -- called also Berlin wool."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

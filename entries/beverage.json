@@ -1,0 +1,59 @@
+{
+  "key": "beverage",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Beverage",
+      "headword_raw": "Bev\"er*age",
+      "pr": "(<?/)",
+      "pos": [
+        "n.",
+        "v. t."
+      ],
+      "ety": "[OF. bevrage, F. breuvage, fr. beivre to drink, fr. L. bibere. Cf. Bib, v. t., Poison, Potable.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Liquid for drinking; drink; -- usually applied to drink artificially prepared and of an agreeable flavor; as, an intoxicating beverage."
+          ],
+          "quotes": [
+            "He knew no beverage but the flowing stream."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Specifically, a name applied to various kinds of drink."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A treat, or drink money."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

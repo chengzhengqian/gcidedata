@@ -1,0 +1,56 @@
+{
+  "key": "betoken",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Betoken",
+      "headword_raw": "Be*to\"ken",
+      "pr": "(<?/)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Betokened (<?/); p. pr. & vb. n. Betokening.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To signify by some visible object; to show by signs or tokens."
+          ],
+          "quotes": [
+            "A dewy cloud, and in the cloud a bow . . . Betokening peace from God, and covenant new."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To foreshow by present signs; to indicate something future by that which is seen or known; as, a dark cloud often betokens a storm."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "presage",
+            "portend",
+            "indicate",
+            "mark",
+            "note"
+          ]
+        }
+      ]
+    }
+  ]
+}

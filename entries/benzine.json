@@ -1,0 +1,50 @@
+{
+  "key": "benzine",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Benzine",
+      "headword_raw": "Ben\"zine",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[From Benzoin.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A liquid consisting mainly of the lighter and more volatile hydrocarbons of petroleum or kerosene oil, used as a solvent and for cleansing soiled fabrics; -- called also petroleum spirit, petroleum benzine. Varieties or similar products are gasoline, naphtha, rhigolene, ligroin, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Same as Benzene."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The hydrocarbons of benzine proper are essentially of the marsh gas (paraffin) series, while benzene proper is the typical hydrocarbon of the aromatic series."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

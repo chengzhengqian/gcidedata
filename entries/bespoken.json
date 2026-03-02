@@ -1,0 +1,58 @@
+{
+  "key": "bespoken",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "bespoken",
+      "headword_raw": "be*spok\"en",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "same as made-to-order; -- of clothing."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "bespoke",
+            "custom",
+            "made-to-order",
+            "tailored",
+            "tailor-made"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "bound by an agreement to become married to someone."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "affianced",
+            "betrothed",
+            "engaged",
+            "pledged",
+            "promised(predicate)"
+          ]
+        }
+      ]
+    }
+  ]
+}

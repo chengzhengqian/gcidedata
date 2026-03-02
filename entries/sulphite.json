@@ -1,0 +1,62 @@
+{
+  "key": "sulphite",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Sulphite",
+      "headword_raw": "Sul\"phite",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Cf. F. sulfite. See Sulphur.]",
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Sulphitic",
+          "form_raw": "Sul*phit\"ic",
+          "key": "sulphitic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "A salt of sulphurous acid; -- called also sulfite."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A person who is spontaneous and original in his habits of thought and conversation."
+          ],
+          "quotes": [
+            "A sulphite is a person who does his own thinking, he is a person who has surprises up his sleeve. He is explosive."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "key": "superb",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Superb",
+      "headword_raw": "Su*perb\"",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[F. superbe, L. superbus, fr. super over. See Super-.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Superbly",
+          "form_raw": "Su*perb\"ly",
+          "key": "superbly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Superbness",
+          "form_raw": "Su*perb\"ness",
+          "key": "superbness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Grand; magnificent; august; stately; as, a superb edifice; a superb colonnade."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Rich; elegant; as, superb furniture or decorations."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Zool.)",
+            "(Zool.)"
+          ],
+          "defs": [
+            "Showy; excellent; grand; as, a superb exhibition."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

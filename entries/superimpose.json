@@ -1,0 +1,49 @@
+{
+  "key": "superimpose",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Superimpose",
+      "headword_raw": "Su`per*im*pose\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Superimposed (?); p. pr. & vb. n. Superimposing.]",
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Superimposition",
+          "form_raw": "Su`per*im`po*si\"tion",
+          "key": "superimposition",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To lay or impose on something else; as, a stratum of earth superimposed on another stratum."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

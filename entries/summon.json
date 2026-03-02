@@ -1,0 +1,72 @@
+{
+  "key": "summon",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Summon",
+      "headword_raw": "Sum\"mon",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OE. somonen, OF. sumundre, semondre, F. semondre, from (assumed) LL. summonre, for L. summonēre to give a hint; sub under + monere to admonish, to warn. See Monition, and cf. Submonish.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Summoned (?); p. pr. & vb. n. Summoning.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To call, bid, or cite; to notify to come to appear; -- often with up."
+          ],
+          "quotes": [
+            "Stiffen the sinews, summon up the blood.",
+            "Trumpets summon him to war."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To give notice to, or command to appear, as in court; to cite by authority; as, to summon witnesses."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Mil.)"
+          ],
+          "defs": [
+            "To call upon to surrender, as a fort."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "call",
+            "cite",
+            "notify",
+            "convene",
+            "convoke",
+            "excite",
+            "invite",
+            "bid. See Call"
+          ]
+        }
+      ]
+    }
+  ]
+}

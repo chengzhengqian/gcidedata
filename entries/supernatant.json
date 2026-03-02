@@ -1,0 +1,67 @@
+{
+  "key": "supernatant",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Supernatant",
+      "headword_raw": "Su`per*na\"tant",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. supernatanus, p. pr. of supernatare to swim above; super above + natare to swim.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Swimming above; floating on the surface; as, oil supernatant on water."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Supernatant",
+      "headword_raw": "Su`per*na\"tant",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The liquid remaining after solids suspended in the liquid have been sedimented by gravity or by centrifugation. Contrasted with the solid sediment, or (in centrifugation) the pellet."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

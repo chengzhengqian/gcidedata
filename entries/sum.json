@@ -1,0 +1,156 @@
+{
+  "key": "sum",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Sum",
+      "headword_raw": "Sum",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. summe, somme, OF. sume, some, F. somme, L. summa, fr. summus highest, a superlative from sub under. See Sub-, and cf. Supreme.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The aggregate of two or more numbers, magnitudes, quantities, or particulars; the amount or whole of any number of individuals or particulars added together; as, the sum of 5 and 7 is 12."
+          ],
+          "quotes": [
+            "Take ye the sum of all the congregation."
+          ],
+          "notes": [
+            "☞ Sum is now commonly applied to an aggregate of numbers, and number to an aggregate of persons or things."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A quantity of money or currency; any amount, indefinitely; as, a sum of money; a small sum, or a large sum."
+          ],
+          "quotes": [
+            "With a great sum obtained I this freedom."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "The principal points or thoughts when viewed together; the amount; the substance; compendium; as, this is the sum of all the evidence in the case; this is the sum and substance of his objections."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Height; completion; utmost degree."
+          ],
+          "quotes": [
+            "Thus have I told thee all my state, and brought My story to the sum of earthly bliss."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Arith.)"
+          ],
+          "defs": [
+            "A problem to be solved, or an example to be wrought out."
+          ],
+          "quotes": [
+            "A sum in arithmetic wherein a flaw discovered at a particular point is ipso facto fatal to the whole.",
+            "A large sheet of paper . . . covered with long sums."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Sum",
+      "headword_raw": "Sum",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[Cf. F. sommer, LL. summare.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Summed (?); p. pr. & vb. n. Summing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To bring together into one whole; to collect into one amount; to cast up, as a column of figures; to ascertain the totality of; -- usually with up."
+          ],
+          "quotes": [
+            "The mind doth value every moment, and then the hour doth rather sum up the moments, than divide the day."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To bring or collect into a small compass; to comprise in a few words; to condense; -- usually with up."
+          ],
+          "quotes": [
+            "“Go to the ant, thou sluggard,” in few words sums up the moral of this fable.",
+            "He sums their virtues in himself alone."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Falconry)"
+          ],
+          "defs": [
+            "To have (the feathers) full grown; to furnish with complete, or full-grown, plumage."
+          ],
+          "quotes": [
+            "But feathered soon and fledge They summed their pens [wings]."
+          ],
+          "notes": [],
+          "synonyms": [
+            "To cast up",
+            "collect",
+            "comprise",
+            "condense",
+            "comprehend",
+            "compute"
+          ]
+        }
+      ]
+    }
+  ]
+}

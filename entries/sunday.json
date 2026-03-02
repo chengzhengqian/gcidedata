@@ -1,0 +1,67 @@
+{
+  "key": "sunday",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Sunday",
+      "headword_raw": "Sun\"day",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[AS. sunnandaeg; sunne, gen. sunnan, the sun + daeg day; akin to D. zondag, G. sonntag; -- so called because this day was anciently dedicated to the sun, or to its worship. See Sun, and Day.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "See Sabbath"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The first day of the week, -- consecrated among Christians to rest from secular employments, and to religious worship; the Christian Sabbath; the Lord's Day."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Sunday",
+      "headword_raw": "Sun\"day",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Belonging to the Christian Sabbath."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

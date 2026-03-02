@@ -1,0 +1,59 @@
+{
+  "key": "superable",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Superable",
+      "headword_raw": "Su\"per*a*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[L. superabilis, from superare to go over, to surmount, fr. super above, over.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Superableness",
+          "form_raw": "Su\"per*a*ble*ness",
+          "key": "superableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Superably",
+          "form_raw": "Su\"per*a*bly",
+          "key": "superably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Capable of being overcome or conquered; surmountable."
+          ],
+          "quotes": [
+            "Antipathies are generally superable by a single effort."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

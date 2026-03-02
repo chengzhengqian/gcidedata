@@ -1,0 +1,69 @@
+{
+  "key": "suitable",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Suitable",
+      "headword_raw": "Suit\"a*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Suitableness",
+          "form_raw": "Suit\"a*ble*ness",
+          "key": "suitableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Suitably",
+          "form_raw": "Suit\"a*bly",
+          "key": "suitably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Proper",
+        "fitting",
+        "becoming",
+        "accordant",
+        "agreeable",
+        "competent",
+        "correspondent",
+        "compatible",
+        "consonant",
+        "congruous",
+        "consistent"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Capable of suiting; fitting; accordant; proper; becoming; agreeable; adapted; as, ornaments suitable to one's station; language suitable for the subject."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

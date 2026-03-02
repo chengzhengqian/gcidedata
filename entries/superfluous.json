@@ -1,0 +1,68 @@
+{
+  "key": "superfluous",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Superfluous",
+      "headword_raw": "Su*per\"flu*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. superfluus overflowing; super over, above + fluere to flow. See Super-, and Fluent.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Superfluously",
+          "form_raw": "Su*per\"flu*ous*ly",
+          "key": "superfluously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Superfluousness",
+          "form_raw": "Su*per\"flu*ous*ness",
+          "key": "superfluousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Unnecessary",
+        "useless",
+        "exuberant",
+        "excessive",
+        "redundant",
+        "needless"
+      ],
+      "entry_fields": [
+        "(Mus.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "More than is wanted or is sufficient; rendered unnecessary by superabundance; unnecessary; useless; excessive; as, a superfluous price."
+          ],
+          "quotes": [
+            "An authority which makes all further argument or illustration superfluous."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

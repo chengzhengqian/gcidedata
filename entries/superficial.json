@@ -1,0 +1,71 @@
+{
+  "key": "superficial",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Superficial",
+      "headword_raw": "Su`per*fi\"cial",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. superficialis: cf. F. superficiel. See Superficies.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Superficially",
+          "form_raw": "Su`per*fi\"cial*ly",
+          "key": "superficially",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Superficialness",
+          "form_raw": "Su`per*fi\"cial*ness",
+          "key": "superficialness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to the superficies, or surface; lying on the surface; shallow; not deep; as, a superficial color; a superficial covering; superficial measure or contents; superficial tillage."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Reaching or comprehending only what is obvious or apparent; not deep or profound; shallow; -- said especially in respect to study, learning, and the like; as, a superficial scholar; superficial knowledge."
+          ],
+          "quotes": [
+            "This superficial tale Is but a preface of her worthy praise.",
+            "He is a presumptuous and superficial writer.",
+            "That superficial judgment, which happens to be right without deserving to be so."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

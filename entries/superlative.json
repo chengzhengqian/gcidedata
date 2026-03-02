@@ -1,0 +1,110 @@
+{
+  "key": "superlative",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Superlative",
+      "headword_raw": "Su`per*la\"tive",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. superlativus, fr. superlatus excessive, used as p. p. of superiorferre, but from a different root: cf. F. superlatif. See Elate, Tolerate.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Superlatively",
+          "form_raw": "Su`per*la\"tive*ly",
+          "key": "superlatively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Superlativeness",
+          "form_raw": "Su`per*la\"tive*ness",
+          "key": "superlativeness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Lifted up to the highest degree; most eminent; surpassing all other; supreme; as, superlative wisdom or prudence; a woman of superlative beauty; the superlative glory of the divine character."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Gram.)"
+          ],
+          "defs": [
+            "Expressing the highest or lowest degree of the quality, manner, etc., denoted by an adjective or an adverb. The superlative degree is formed from the positive by the use of -est, most, or least; as, highest, most pleasant, least bright."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Superlative",
+      "headword_raw": "Su`per*la\"tive",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "That which is highest or most eminent; the utmost degree."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Gram.)"
+          ],
+          "defs": [
+            "The superlative degree of adjectives and adverbs; also, a form or word by which the superlative degree is expressed; as, strongest, wisest, most stormy, least windy, are all superlatives."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

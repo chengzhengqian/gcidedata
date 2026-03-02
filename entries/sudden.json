@@ -1,0 +1,150 @@
+{
+  "key": "sudden",
+  "source_file": "CIDE.S",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Sudden",
+      "headword_raw": "Sud\"den",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[OE. sodian, sodein, OF. sodain, sudain, F. soudain, L. subitaneus, fr. subitus sudden, that has come unexpectedly, p. p. of subire to come on, to steal upon; sub under, secretly + ire to go. See Issue, and cf. Subitaneous.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Suddenly",
+          "form_raw": "Sud\"den*ly",
+          "key": "suddenly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Suddenness",
+          "form_raw": "Sud\"den*ness",
+          "key": "suddenness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Happening without previous notice or with very brief notice; coming unexpectedly, or without the common preparation; immediate; instant; speedy."
+          ],
+          "quotes": [
+            "Sudden fear troubleth thee."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Hastly prepared or employed; quick; rapid."
+          ],
+          "quotes": [
+            "Never was such a sudden scholar made.",
+            "The apples of Asphaltis, appearing goodly to the sudden eye."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Hasty; violent; rash; precipitate."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Unexpected",
+            "unusual",
+            "abrupt",
+            "unlooked-for"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Sudden",
+      "headword_raw": "Sud\"den",
+      "pr": null,
+      "pos": [
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Suddenly; unexpectedly."
+          ],
+          "quotes": [
+            "Herbs of every leaf that sudden flowered."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Sudden",
+      "headword_raw": "Sud\"den",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An unexpected occurrence; a surprise."
+          ],
+          "quotes": [
+            "How art thou lost! how on a sudden lost!",
+            "He withdrew his opposition all of a sudden."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

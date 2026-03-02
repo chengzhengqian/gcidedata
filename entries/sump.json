@@ -1,0 +1,70 @@
+{
+  "key": "sump",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Sump",
+      "headword_raw": "Sump",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. G. sumpf a sump in a mine, a swamp, akin to LG. sump, D. somp a swamp, Dan. & Sw. sump, and perhaps to E. swamp.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Metal.)"
+          ],
+          "defs": [
+            "A round pit of stone, lined with clay, for receiving the metal on its first fusion."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The cistern or reservoir made at the lowest point of a mine, from which is pumped the water which accumulates there."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A pond of water for salt works."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Mining)"
+          ],
+          "defs": [
+            "A puddle or dirty pool."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

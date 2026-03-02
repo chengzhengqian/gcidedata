@@ -1,0 +1,94 @@
+{
+  "key": "summons",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Summons",
+      "headword_raw": "Sum\"mons",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "v."
+      ],
+      "ety": "[OE. somouns, OF. sumunse, semonse, semonce, F. semonce, semondre to summon, OF. p. p. semons. See Summon, v.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of summoning; a call by authority, or by the command of a superior, to appear at a place named, or to attend to some duty."
+          ],
+          "quotes": [
+            "Special summonses by the king.",
+            "This summons . . . unfit either to dispute or disobey.",
+            "He sent to summon the seditious, and to offer pardon; but neither summons nor pardon was regarded."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "A warning or citation to appear in court; a written notification signed by the proper officer, to be served on a person, warning him to appear in court at a day specified, to answer to the plaintiff, testify as a witness, or the like."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Mil.)"
+          ],
+          "defs": [
+            "A demand to surrender."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Summons",
+      "headword_raw": "Sum\"mons",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To summon."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

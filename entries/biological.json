@@ -1,0 +1,60 @@
+{
+  "key": "biological",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Biological",
+      "headword_raw": "Bi`o*log\"ic*al",
+      "pr": "(<?/)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Biologically",
+          "form_raw": "Bi`o*log\"ic*al*ly",
+          "key": "biologically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or relating to biology."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "related by blood; -- of parents and children; -- contrasted with adoptive, adopted, or foster; as, Mary was adopted directly from the maternity hospital and never met her biological mother."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "biologic"
+          ]
+        }
+      ]
+    }
+  ]
+}

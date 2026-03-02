@@ -1,0 +1,57 @@
+{
+  "key": "biogeography",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Biogeography",
+      "headword_raw": "Bi`o*ge*og\"ra*phy",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a.",
+        "adv."
+      ],
+      "ety": "[Gr. bi`os life + E. geography.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Biogeographic",
+          "form_raw": "Bi`o*ge`o*graph\"ic",
+          "key": "biogeographic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Biogeographically",
+          "form_raw": "Bi`o*ge`o*graph\"ic*al*ly",
+          "key": "biogeographically",
+          "pos": [
+            "adv."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The branch of biology which deals with the geographical distribution of animals and plants. It includes both zoögeography and phytogeography."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

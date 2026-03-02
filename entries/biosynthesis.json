@@ -1,0 +1,49 @@
+{
+  "key": "biosynthesis",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "biosynthesis",
+      "headword_raw": "biosynthesis",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "production of a chemical compound by a living organism."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "biogenesis"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "the production of chemical substances by use of reagents or enzymes derived from living organisms, in reactions modeled on those observed in living organisms."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

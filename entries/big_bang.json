@@ -1,0 +1,40 @@
+{
+  "key": "big_bang",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "big bang",
+      "headword_raw": "big bang",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Astron.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The explosive event marking the beginning of the known universe, according to big bang theory; the beginning of time."
+          ],
+          "quotes": [],
+          "notes": [
+            "The big bang is likened to a massive explosion from a point containing all of the matter and energy of the beginning universe, which started the expansion and evolution of the universe which continues today. The evidence for such an event includes the apparently expanding size of the present universe, and a background microwave radiation of about 3° Kelvin, equal to that predicted from mathematical models of such an explosive event."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

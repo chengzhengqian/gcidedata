@@ -1,0 +1,42 @@
+{
+  "key": "bingo",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "bingo",
+      "headword_raw": "bingo",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "lotto",
+        "beano",
+        "keno"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a game commonly used for low-stakes gambling, in which numbered balls or slips are drawn at random and players cover the corresponding numbers on their cards, called Bingo cards, which have square arrangement of such numbers. Each card has a different arrangement of the numbers, and the first player to cover all numbers in one row (horizontal, vertical, or diagonal) is the winner, usually announcing that fact by a cry of “Bingo!”"
+          ],
+          "quotes": [],
+          "notes": [
+            "Variants of the game may require that all peripheral numbers are covered, to form a box, or other figure. The numbers usually have one letter from the group “B”, “I”, “N”, “G”, and “O”, plus two digits. The “cards” may be disposable sheets of paper on which the numbers are printed."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

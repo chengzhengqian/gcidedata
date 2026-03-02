@@ -1,0 +1,39 @@
+{
+  "key": "biotin",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "biotin",
+      "headword_raw": "bi\"o*tin",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a B vitamin (C10H16N2O3S) that aids in body growth; -- called also vitamin H and coenzyme R. It functions as a coenzyme in many carboxylation reactions."
+          ],
+          "quotes": [],
+          "notes": [
+            "Biotin binds tightly to the substance avidin, found in raw egg-whites. Rats or chick on a diet high in raw egg-white may develop skin lesions and retarded growth, which can be prevented by adding biotin to the diet."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

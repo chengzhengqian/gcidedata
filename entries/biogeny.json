@@ -1,0 +1,70 @@
+{
+  "key": "biogeny",
+  "source_file": "CIDE.B",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Biogeny",
+      "headword_raw": "Bi*og\"e*ny",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. bi`os life + <?/, <?/, birth.]",
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Biol.)"
+      ],
+      "senses": [
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "the production of a chemical compound by a living organism."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "biosynthesis"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "biogeny",
+      "headword_raw": "bi*og\"en*y",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "the production of living organisms from other living organisms; same as biogenesis{1}."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

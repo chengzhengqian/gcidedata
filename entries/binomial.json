@@ -1,0 +1,80 @@
+{
+  "key": "binomial",
+  "source_file": "CIDE.B",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Binomial",
+      "headword_raw": "Bi*no\"mi*al",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. bis twice + nomen name: cf. F. binome, LL. binomius (or fr. bi- + Gr. <?/ distribution ?). Cf. Monomial.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Alg.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An expression consisting of two terms connected by the sign plus (+) or minus (-); as, a + b, or 7 - 3."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Binomial",
+      "headword_raw": "Bi*no\"mi*al",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Consisting of two terms; pertaining to binomials; as, a binomial root."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Nat. Hist.)",
+            "(Alg.)"
+          ],
+          "defs": [
+            "Having two names; -- used of the system by which every animal and plant receives two names, the one indicating the genus, the other the species, to which it belongs."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

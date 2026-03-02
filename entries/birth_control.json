@@ -1,0 +1,41 @@
+{
+  "key": "birth_control",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "birth control",
+      "headword_raw": "birth control",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "birth prevention",
+        "family planning"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "the act or process of deliberately limiting the number of one's children born, especially by preventing conception."
+          ],
+          "quotes": [],
+          "notes": [
+            "Conception may be prevented by ingesting medicines, using barriers such as condoms or spermicides during copulation, or by ligating or removing the reproductive organs."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

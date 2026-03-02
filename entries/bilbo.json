@@ -1,0 +1,48 @@
+{
+  "key": "bilbo",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Bilbo",
+      "headword_raw": "Bil\"bo",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A rapier; a sword; so named from Bilbao, in Spain."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A long bar or bolt of iron with sliding shackles, and a lock at the end, to confine the feet of prisoners or offenders, esp. on board of ships."
+          ],
+          "quotes": [
+            "Methought I lay Worse than the mutines in the bilboes."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "key": "bioengineering",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "bioengineering",
+      "headword_raw": "bi`o*en*gin*eer\"ing",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "biological science applied to the study the relation between workers and their environments."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "ergonomics"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "the application of engineering principles to solve problems in medicine, such as the design of artificial limbs or organs; -- called also biomedical engineering."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "the branch of engineering dealing with the application of biological processes to the solution of practical problems, such as the manufacture of products by fermentation, the production and use of enzymes for various purposes, the use of microorganisms in environmental cleanup, etc.; -- called also biotechnology."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

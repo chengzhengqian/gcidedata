@@ -1,0 +1,38 @@
+{
+  "key": "biquadrate",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Biquadrate",
+      "headword_raw": "Bi*quad\"rate",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Pref. bi- + quadrate.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Math.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The fourth power, or the square of the square. Thus 4x4=16, the square of 4, and 16x16=256, the biquadrate of 4."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "key": "motorcycle",
+  "source_file": "CIDE.M",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "motorcycle",
+      "headword_raw": "mo\"tor*cy`cle",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "motorcycle",
+      "headword_raw": "motorcycle",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "cycle"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "to ride a motorcycle."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

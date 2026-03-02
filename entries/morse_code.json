@@ -1,0 +1,40 @@
+{
+  "key": "morse_code",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Morse code",
+      "headword_raw": "Morse\" code\"",
+      "pr": "(?)",
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "+PJC",
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Teleg.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a telegraphic code, in which dots, dashes, and spaces represent letters, numbers, and other elements of text. The original code was invented by Samuel B. Morse. The code now mostly used is the International Morse code, also referred to simply as the Morse code."
+          ],
+          "quotes": [],
+          "notes": [
+            "The present International Morse Code is given in the table below. There are no spaces in the International Morse Code. Alphabet ---------------------------------------------------------- A .- H .... O --- V ...- B -... I .. P .--. W .-- C _._. J .--- Q --.- X -..- D -.. K -.- R .-. Y -.-- E . L .-.. S ... Z --.. F ..-. M -- T - G --. N -. U ..- Numerals 1 .---- 4 ....- 7 --... 2 ..--- 5 ..... 8 ---.. 3 ...-- 6 -.... 9 ----. 0 ----- Punctuation . (Period) .-.-.- , (Comma) --..-- ? (Question Mark) ..--.. ; (Semicolon) -.-.-. : (Colon) ---... ' (apostrophe) .----. - (hyphen) -....- / (forward slash) -..-. ( (left parenthesis) -.--. ) (right parenthesis) -.--.- ---------------------------------------------------------------- The Alphabetic code which was originally in use in North America is given in the table below. In length, or duration, one dash is theoretically equal to three dots; the space between the elements of a letter is equal to one dot; the interval in spaced letters, as O . ., is equal to three dots. There are no spaces in any letter composed wholly or in part of dashes. Alphabet A .- H .... O . . V ...- B - . . . I .. P ..... W .-- C .. . J -.-. Q ..-. X .-.. D -.. K -.- R . .. Y .. .. E . L — S ... Z ... . F .-. M -- T -- & . ... G --. N -. U ..- Numerals 1 .--. 4 . . . .- 7 --.. 2 ..-.. 5 --- 8 - . . . . 3 . . . -. 6 . . . . . . 9 -..- 0 ---- Period ..--.. Comma .-.- The Morse code was used chiefly with the electric telegraph, but is also employed in signalling with flags, lights, etc. [Webster 1913 Suppl. +PJC]"
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

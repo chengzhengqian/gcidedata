@@ -1,0 +1,73 @@
+{
+  "key": "morphology",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Morphology",
+      "headword_raw": "Mor*phol\"o*gy",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. morfh` form + -logy: cf. F. morphologie.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Biol.)"
+          ],
+          "defs": [
+            "That branch of biology which deals with the structure of animals and plants, treating of the forms of organs and describing their varieties, homologies, and metamorphoses. See Tectology, and Promorphology."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Biol.)"
+          ],
+          "defs": [
+            "The form and structure of an organism."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Linguistics)"
+          ],
+          "defs": [
+            "The branch of linguistics which studies the patterns by which words are formed from other words, including inflection, compounding, and derivation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "The study of the patterns of inflection of words or word classes in any given language; the study of the patterns in which morphemes combine to form words, and the rules for combination; morphemics; as, the morphology of Spanish verbs; also, the inflection patterns themselves."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

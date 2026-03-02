@@ -1,0 +1,49 @@
+{
+  "key": "morphological",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Morphological",
+      "headword_raw": "Mor`pho*log\"ic*al",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[Cf. F. morphologique.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Morphologically",
+          "form_raw": "Mor`pho*log\"ic*al*ly",
+          "key": "morphologically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Biol.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of, pertaining to, or according to, the principles of morphology."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

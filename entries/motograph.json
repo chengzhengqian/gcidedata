@@ -1,0 +1,49 @@
+{
+  "key": "motograph",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Motograph",
+      "headword_raw": "Mo\"to*graph",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[L. movere, motum, to move + -graph.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Motographic",
+          "form_raw": "Mo`to*graph\"ic",
+          "key": "motographic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Elec.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A device utilized in the making of a loud-speaking telephone, depending on the fact that the friction between a metallic point and a moving cylinder of moistened chalk, or a moving slip of paper, on which it rests is diminished by the passage of a current between the point and the moving surface."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

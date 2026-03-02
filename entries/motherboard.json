@@ -1,0 +1,38 @@
+{
+  "key": "motherboard",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "motherboard",
+      "headword_raw": "moth\"er*board`",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Electronics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The board containing the main circuits of an electronic device, especially computers. The term is used primarily in microcomputer literature, where it designates the board containing the main expansion bus, and usually also the cpu. On motherboards designed with an expansion bus, often all of the circuits not contained on an expansion card are on the motherboard."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

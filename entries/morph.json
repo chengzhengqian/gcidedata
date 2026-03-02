@@ -1,0 +1,67 @@
+{
+  "key": "morph",
+  "source_file": "CIDE.M",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "morph",
+      "headword_raw": "morph",
+      "pr": "(mrf)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Linguistics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A sequence of phonemes, often a word fragment, which constitutes the minimum unit of meaning or syntax within a given word. A morph may be one of several variants of a morpheme, depending for its individal form on the context in which it occurs. Thus the morphs -s and -es are variants of the morpheme by which the plural form of an English noun is expressed."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "morph",
+      "headword_raw": "morph",
+      "pr": "(mrf)",
+      "pos": [
+        "v. i. & t."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To transform smoothly in imperceptible steps from one image to another, on a computer screen."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

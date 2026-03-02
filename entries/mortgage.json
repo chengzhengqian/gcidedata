@@ -1,0 +1,98 @@
+{
+  "key": "mortgage",
+  "source_file": "CIDE.M",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Mortgage",
+      "headword_raw": "Mort\"gage",
+      "pr": "(mr\"gj; 48)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. mort-gage; mort dead (L. mortuus) + gage pledge. See Mortal, and Gage.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "A conveyance of property, upon condition, as security for the payment of a debt or the preformance of a duty, and to become void upon payment or performance according to the stipulated terms; also, the written instrument by which the conveyance is made."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ It was called a mortgage (or dead pledge) because, whatever profit it might yield, it did not thereby redeem itself, but became lost or dead to the mortgager upon breach of the condition. But in equity a right of redemption is an inseparable incident of a mortgage until the mortgager is debarred by his own laches, or by judicial decree."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "State of being pledged; as, lands given in mortgage."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Mortgage",
+      "headword_raw": "Mort\"gage",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Mortgaged (?); p. pr. & vb. n. Mortgaging (?).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "To grant or convey, as property, for the security of a debt, or other engagement, upon a condition that if the debt or engagement shall be discharged according to the contract, the conveyance shall be void, otherwise to become absolute, subject, however, to the right of redemption."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Hence: To pledge, either literally or figuratively; to make subject to a claim or obligation."
+          ],
+          "quotes": [
+            "Mortgaging their lives to covetise.",
+            "I myself an mortgaged to thy will."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

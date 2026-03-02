@@ -1,0 +1,63 @@
+{
+  "key": "movie",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Movie",
+      "headword_raw": "Mov\"ie",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A motion picture."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "film",
+            "picture",
+            "moving picture",
+            "motion picture",
+            "picture show",
+            "flick"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A motion picture show; the event of showing a motion picture. In the pl., the event of showing a motion picture at a movie theater; as, to go to the movies; to spend an evening at the movies."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "The motion picture industry or medium, generally."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

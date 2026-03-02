@@ -1,0 +1,91 @@
+{
+  "key": "morning",
+  "source_file": "CIDE.M",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Morning",
+      "headword_raw": "Morn\"ing",
+      "pr": "(mrn\"ng)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. morning, morwening. See Morn.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The first or early part of the day, variously understood as the earliest hours of light, the time near sunrise; the time from midnight to noon, from rising to noon, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The first or early part; as, the morning of life."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "The goddess Aurora."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Morning",
+      "headword_raw": "Morn\"ing",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)",
+        "(Naut.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Pertaining to the first part or early part of the day; being in the early part of the day; as, morning dew; morning light; morning service."
+          ],
+          "quotes": [
+            "She looks as clear As morning roses newly washed with dew.",
+            "Since he miscalled the morning star, Nor man nor fiend hath fallen so far."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

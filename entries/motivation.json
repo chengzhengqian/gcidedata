@@ -1,0 +1,61 @@
+{
+  "key": "motivation",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "motivation",
+      "headword_raw": "motivation",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC",
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act or process of motivating."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The mental process that arouses an organism to action; as, a large part of a teacher's job is to give students the motivation to learn on their own."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "motive",
+            "need"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "The goal or mental image of a goal that creates a motivation{2}; as, the image of a peaceful world is a powerful motivation for only a rare few individuals."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

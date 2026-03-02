@@ -1,0 +1,41 @@
+{
+  "key": "mu_meson",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "mu meson",
+      "headword_raw": "mu meson",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "muon",
+        "negative muon"
+      ],
+      "entry_fields": [
+        "(Physics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "an elementary particle with a negative charge and a half-life of 2 microseconds; the muon. It is a lepton, not a true meson, and decays to an electron and neutrino and antineutrino."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

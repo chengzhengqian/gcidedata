@@ -1,0 +1,55 @@
+{
+  "key": "motivate",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Motivate",
+      "headword_raw": "Mo\"ti*vate",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "n."
+      ],
+      "ety": "[From Motive, n.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": "[imp. & p. p. -vated (?); p. pr. & vb. n. -vating (?).]",
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Motivation",
+          "form_raw": "Mo`ti*va\"tion",
+          "key": "motivation",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [
+        "move",
+        "prompt",
+        "incite",
+        "induce impel",
+        "drive"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To provide with a motive; to move; impel; induce; incite."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

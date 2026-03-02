@@ -1,0 +1,59 @@
+{
+  "key": "motorbike",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Motorbike",
+      "headword_raw": "Mo\"tor*bike`",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a light two-wheeled vehicle containing a motor for propulsion. It is lighter in construction and has a lower speed than a motorcycle."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a small motorcycle with a low frame and small weels and elevated handlebars."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "minibike"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "a bicyle with a motor attached for propulsion."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

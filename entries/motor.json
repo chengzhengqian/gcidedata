@@ -1,0 +1,82 @@
+{
+  "key": "motor",
+  "source_file": "CIDE.M",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Motor",
+      "headword_raw": "Mo\"tor",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L., fr. movere, motum, to move.]",
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One who, or that which, imparts motion; a source of mechanical power."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mach.)"
+          ],
+          "defs": [
+            "A prime mover; a machine by means of which a source of power, as steam, moving water, electricity, etc., is made available for doing mechanical work."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A motor car; an automobile."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Motor",
+      "headword_raw": "Mo\"tor",
+      "pr": "(?)",
+      "pos": [],
+      "ety": null,
+      "sources": [],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "key": "motorcar",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Motorcar",
+      "headword_raw": "Mo\"tor*car`",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "An automobile, locomobile, or locomotive designed to run and be steered on a street or roadway; esp., an automobile specially designed for passengers and propelled by an internal combustion engine."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "car",
+            "auto",
+            "automobile",
+            "machine"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Elec. Railroads)"
+          ],
+          "defs": [
+            "Any car containing motors for propulsion."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

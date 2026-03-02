@@ -1,0 +1,70 @@
+{
+  "key": "motorize",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Motorize",
+      "headword_raw": "Mo\"tor*ize",
+      "pr": "(mō\"tr*īz)",
+      "pos": [
+        "v. t.",
+        "n."
+      ],
+      "ety": "[Motor + -ize.]",
+      "sources": [
+        "Webster 1913 Suppl.",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Motorization",
+          "form_raw": "Mo`tor*i*za\"tion",
+          "key": "motorization",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To substitute motor-driven vehicles, or automobiles, for the horses and horse-drawn vehicles of (a fire department, city, etc.)."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "to equip (a piece of machinery) with a motor."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "to provide with automobiles or other motor vehicles; as, a motorized army division."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "mechanize"
+          ]
+        }
+      ]
+    }
+  ]
+}

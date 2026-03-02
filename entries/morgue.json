@@ -1,0 +1,50 @@
+{
+  "key": "morgue",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Morgue",
+      "headword_raw": "Morgue",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A place where the bodies of dead persons are kept, until they are identified, or claimed by their friends; a deadhouse."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Newspapers)"
+          ],
+          "defs": [
+            "A room containing reference files of older material in a newspaper office; also, the material contained in such a room."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

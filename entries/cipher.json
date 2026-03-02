@@ -1,0 +1,207 @@
+{
+  "key": "cipher",
+  "source_file": "CIDE.C",
+  "record_count": 4,
+  "records": [
+    {
+      "headword": "Cipher",
+      "headword_raw": "Ci\"pher",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OF. cifre zero, F. Chiffre figure (cf. Sp.cifra, LL. cifra), fr. Ar. çifrun, çafrun, empty, cipher, zero, fr. çafira to be empty. Cf. Zero.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Arith.)"
+          ],
+          "defs": [
+            "A character [0] which, standing by itself, expresses nothing, but when placed at the right hand of a whole number, increases its value tenfold."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "One who, or that which, has no weight or influence."
+          ],
+          "quotes": [
+            "Here he was a mere cipher."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A character in general, as a figure or letter."
+          ],
+          "quotes": [
+            "This wisdom began to be written in ciphers and characters and letters bearing the forms of creatures."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "A combination or interweaving of letters, as the initials of a name; a device; a monogram; as, a painter's cipher, an engraver's cipher, etc. The cut represents the initials N. W."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "A private alphabet, system of characters, or other mode of writing, contrived for the safe transmission of secrets; also, a writing in such characters."
+          ],
+          "quotes": [
+            "His father . . . engaged him when he was very young to write all his letters to England in cipher."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Cipher",
+      "headword_raw": "Ci\"pher",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of the nature of a cipher; of no weight or influence."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Cipher",
+      "headword_raw": "Ci\"pher",
+      "pr": "(?)",
+      "pos": [
+        "v. i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Ciphered (?); p. pr. & vb. n. Ciphering.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To use figures in a mathematical process; to do sums in arithmetic."
+          ],
+          "quotes": [
+            "'T was certain he could write and cipher too."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Cipher",
+      "headword_raw": "Ci\"pher",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To write in occult characters."
+          ],
+          "quotes": [
+            "His notes he ciphered with Greek characters."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To get by ciphering; as, to cipher out the answer."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To decipher."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "To designate by characters."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

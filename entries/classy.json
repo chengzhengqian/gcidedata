@@ -1,0 +1,53 @@
+{
+  "key": "classy",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "classy",
+      "headword_raw": "classy",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "having elegance or taste or refinement in manners or dress. Opposite of styleless."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "posh",
+            "swish",
+            "stylish"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "exhibiting refinement and high character. Opposite of low-class"
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "high-class"
+          ]
+        }
+      ]
+    }
+  ]
+}

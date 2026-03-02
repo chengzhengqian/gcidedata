@@ -1,0 +1,42 @@
+{
+  "key": "classify",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Classify",
+      "headword_raw": "Clas\"si*fy",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. classis class + -fy.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Classified (?); p. pr. & vb. n. Classifying.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "arrange",
+        "distribute",
+        "rank"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To distribute into classes; to arrange according to a system; to arrange in sets according to some method founded on common properties or characters."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

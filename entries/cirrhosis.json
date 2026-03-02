@@ -1,0 +1,38 @@
+{
+  "key": "cirrhosis",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Cirrhosis",
+      "headword_raw": "Cir*rho\"sis",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[NL., fr. Gr. <?/ orange-colored: cf. F. cirrhose. So called from the yellowish appearance which the diseased liver often presents when cut.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A disease of the liver in which it usually becomes smaller in size and more dense and fibrous in consistence; hence sometimes applied to similar changes in other organs, caused by increase in the fibrous framework and decrease in the proper substance of the organ."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

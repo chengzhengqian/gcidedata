@@ -1,0 +1,57 @@
+{
+  "key": "clamorous",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Clamorous",
+      "headword_raw": "Clam\"or*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[LL. clamorosus, for L. Clamosus: cf. OF. clamoreux.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Clamorously",
+          "form_raw": "Clam\"or*ous*ly",
+          "key": "clamorously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Clamorousness",
+          "form_raw": "Clam\"or*ous*ness",
+          "key": "clamorousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Speaking and repeating loud words; full of clamor; calling or demanding loudly or urgently; vociferous; noisy; bawling; loud; turbulent."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

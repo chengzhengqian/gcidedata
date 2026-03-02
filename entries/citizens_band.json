@@ -1,0 +1,36 @@
+{
+  "key": "citizens_band",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "citizens band",
+      "headword_raw": "citizens' band",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "that portion of the radio frequency spectrum allocated by the FCC for the use of individual citizens for short-distance personal or business use, from either fixed or mobile stations. Abbreviated CB. Called also Citizens Radio Service."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

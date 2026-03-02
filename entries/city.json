@@ -1,0 +1,90 @@
+{
+  "key": "city",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "City",
+      "headword_raw": "Cit\"y",
+      "pr": "(st\")",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. cite, F. cit, fr. L. civitas citizenship, state, city, fr. civis citizen; akin to Goth. heiwa (in heiwafrauja man of the house), AS. hīwan, pl., members of a family, servants, hīred family, G. heirath marriage, prop., providing a house, E. hind a peasant.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A large town."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A corporate town; in the United States, a town or collective body of inhabitants, incorporated and governed by a mayor and aldermen or a city council consisting of a board of aldermen and a common council; in Great Britain, a town corporate, which is or has been the seat of a bishop, or the capital of his see."
+          ],
+          "quotes": [
+            "A city is a town incorporated; which is, or has been, the see of a bishop; and though the bishopric has been dissolved, as at Westminster, it yet remaineth a city.",
+            "When Gorges constituted York a city, he of course meant it to be the seat of a bishop, for the word city has no other meaning in English law."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "The collective body of citizens, or inhabitants of a city."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "See Village"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "City",
+      "headword_raw": "Cit\"y",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to a city."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "key": "circulate",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Circulate",
+      "headword_raw": "Cir\"cu*late",
+      "pr": "(#)",
+      "pos": [
+        "v. i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. circulatus, p. p. of circulare, v. t., to surround, make round, circulari, v. i., to gather into a circle. See Circle.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Circulated; p. pr. & vb. n. Circulating.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To move in a circle or circuitously; to move round and return to the same point; as, the blood circulates in the body."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To pass from place to place, from person to person, or from hand to hand; to be diffused; as, money circulates; a story circulates."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Circulate",
+      "headword_raw": "Cir\"cu*late",
+      "pr": "(?)",
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "spread",
+        "diffuse",
+        "propagate",
+        "disseminate"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To cause to pass from place to place, or from person to person; to spread; as, to circulate a report; to circulate bills of credit."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

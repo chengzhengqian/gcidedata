@@ -1,0 +1,79 @@
+{
+  "key": "clause",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Clause",
+      "headword_raw": "Clause",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. clause, LL. clausa, equiv. to L. clausula clause, prop., close of <?/ rhetorical period, close, fr. claudere to shut, to end. See Close.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A separate portion of a written paper, paragraph, or sentence; an article, stipulation, or proviso, in a legal document."
+          ],
+          "quotes": [
+            "The usual attestation clause to a will."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Gram.)"
+          ],
+          "defs": [
+            "A subordinate portion or a subdivision of a sentence containing a subject and its predicate."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Clause",
+      "headword_raw": "Clause",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "See Letters clause or Letters close, under Letter."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

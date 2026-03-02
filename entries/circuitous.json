@@ -1,0 +1,62 @@
+{
+  "key": "circuitous",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Circuitous",
+      "headword_raw": "Cir*cu\"i*tous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[LL. circuitosus.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Circuitously",
+          "form_raw": "Cir*cu\"i*tous*ly",
+          "key": "circuitously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Circuitousness",
+          "form_raw": "Cir*cu\"i*tous*ness",
+          "key": "circuitousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Tortuous",
+        "winding",
+        "sinuous",
+        "serpentine"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Going round in a circuit; roundabout; indirect; as, a circuitous road; a circuitous manner of accomplishing an end."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

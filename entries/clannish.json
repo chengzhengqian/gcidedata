@@ -1,0 +1,57 @@
+{
+  "key": "clannish",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Clannish",
+      "headword_raw": "Clan\"nish",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Clannishly",
+          "form_raw": "Clan\"nish*ly",
+          "key": "clannishly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "clannishness",
+          "form_raw": "clan\"nish*ness",
+          "key": "clannishness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to a clan; closely united, like a clan; disposed to associate only with one's clan or clique; actuated by the traditions, prejudices, habits, etc., of a clan."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

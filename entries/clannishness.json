@@ -1,0 +1,50 @@
+{
+  "key": "clannishness",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "clannishness",
+      "headword_raw": "clan\"nish*ness",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a tendency to associate with only a select group."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "cliquishness",
+            "exclusiveness"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a tendency to associate with only one's own clan; the propensity to display the sentiments, habits, and prejudices of one's own clan."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

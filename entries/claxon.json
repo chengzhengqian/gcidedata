@@ -1,0 +1,75 @@
+{
+  "key": "claxon",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "claxon",
+      "headword_raw": "claxon",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "klaxon"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a kind of loud horn formerly used on motor vehicles."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "claxon",
+      "headword_raw": "claxon",
+      "pr": null,
+      "pos": [
+        "v."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "honk",
+        "blare",
+        "beep",
+        "toot",
+        "klaxon"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "to use the horn of a car."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "honk"
+          ]
+        }
+      ]
+    }
+  ]
+}

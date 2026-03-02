@@ -1,0 +1,75 @@
+{
+  "key": "circumscribe",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Circumscribe",
+      "headword_raw": "Cir`cum*scribe\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. circumscribere, -scriptum; circum + scribere to write, draw. See Soribe.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Circumscribed (?); p. pr. & vb. n. Circumscribing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "to write or engrave around."
+          ],
+          "quotes": [
+            "Thereon is circumscribed this epitaph."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To inclose within a certain limit; to hem in; to surround; to bound; to confine; to restrain."
+          ],
+          "quotes": [
+            "To circumscribe royal power."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Geom.)"
+          ],
+          "defs": [
+            "To draw a line around so as to touch at certain points without cutting. See Inscribe, 5."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "bound",
+            "limit",
+            "restrict",
+            "confine",
+            "abridge",
+            "restrain",
+            "environ",
+            "encircle",
+            "inclose",
+            "encompass"
+          ]
+        }
+      ]
+    }
+  ]
+}

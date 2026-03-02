@@ -1,0 +1,38 @@
+{
+  "key": "brenschluss",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "brenschluss",
+      "headword_raw": "bren\"schluss",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[German: end of burning.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Rocketry)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "the time at which the engines of a rocket stop firing; the termination of the firing of the rocket engines, whether due to intentional shutdown of the engines or exhaustion of the fuel. This term was used mostly in the early days of rocketry when only one firing sequence occurred for rockets, which were used as ballistic missiles or for experiments in rocketry or atmospheric science."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

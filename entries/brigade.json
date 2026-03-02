@@ -1,0 +1,83 @@
+{
+  "key": "brigade",
+  "source_file": "CIDE.B",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Brigade",
+      "headword_raw": "Bri*gade\"",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. brigade, fr. It. brigata troop, crew, brigade, originally, a contending troop, fr. briga trouble, quarrel. See Brigand.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Mil.)"
+          ],
+          "defs": [
+            "A body of troops, whether cavalry, artillery, infantry, or mixed, consisting of two or more regiments, under the command of a brigadier general."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Two or more brigades constitute a division, commanded by a major general; two or more divisions constitute an army corps, or corps d'arme. [U.S.]"
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Any body of persons organized for acting or marching together under authority; as, a fire brigade."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Brigade",
+      "headword_raw": "Bri*gade\"",
+      "pr": null,
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Brigaded; p. pr. & vb. n. Brigading.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Mil.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To form into a brigade, or into brigades."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

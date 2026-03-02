@@ -1,0 +1,50 @@
+{
+  "key": "brownout",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "brownout",
+      "headword_raw": "brown\"out",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "darkness resulting from the extinction of lights (as in a city invisible to enemy aircraft)."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "blackout",
+            "dimout"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a partial reduction in the amount of electric power available to customers in a region, such as by reduction of voltage or selective cutoff of certain customers; -- it occurs for example in summer when the demand for electricity for air-conditioning exceeds the supply, or when power to certain customers is cut off by a severe storm. It is contrasted with blackout, which is the total loss of electrical power in a region."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

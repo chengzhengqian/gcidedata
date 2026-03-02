@@ -1,0 +1,51 @@
+{
+  "key": "britishism",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Britishism",
+      "headword_raw": "Britishism",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "an expression that is limited to English as spoken by Englishmen (especially as contrasted with American English)."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Anglicism",
+            "Briticism"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a custom that is peculiar to England or its citizens."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Anglicism"
+          ]
+        }
+      ]
+    }
+  ]
+}

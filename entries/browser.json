@@ -1,0 +1,49 @@
+{
+  "key": "browser",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Browser",
+      "headword_raw": "Brows\"er",
+      "pr": "(brouz\"r)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "An animal that browses."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "a computer program that permits the user to view multiple electronic documents in a flexible sequence by the process of activating hypertext “buttons” within one document, which serves as a reference to the location of related document. The term is currently (late 1990's) used mostly for programs which allow traversing hypertext paths in documents on the internet. A typical browser will permit the user to easily reverse direction, and view again documents previously accessed."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

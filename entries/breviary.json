@@ -1,0 +1,48 @@
+{
+  "key": "breviary",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Breviary",
+      "headword_raw": "Bre\"vi*a*ry",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. brviarie, L. breviarium summary, abridgment, neut. noun fr. breviarius abridged, fr. brevis short. See Brief, and cf. Brevier.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "An abridgment; a compend; an epitome; a brief account or summary."
+          ],
+          "quotes": [
+            "A book entitled the abridgment or breviary of those roots that are to be cut up or gathered."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A book containing the daily public or canonical prayers of the Roman Catholic or of the Greek Church for the seven canonical hours, namely, matins and lauds, the first, third, sixth, and ninth hours, vespers, and compline; -- distinguished from the missal."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

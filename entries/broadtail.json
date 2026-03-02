@@ -1,0 +1,49 @@
+{
+  "key": "broadtail",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "broadtail",
+      "headword_raw": "broadtail",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "the fur of a very young karakul lamb."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a hardy coarse-haired sheep of central Asia; the lambs are valued for their soft curly black fur."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "caracul",
+            "karakul"
+          ]
+        }
+      ]
+    }
+  ]
+}

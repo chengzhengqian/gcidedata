@@ -1,0 +1,49 @@
+{
+  "key": "brisant",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "brisant",
+      "headword_raw": "bri\"sant",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "of or pertaining to brisance."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "having the ability to shatter, as contrasted with merely fracturing; -- of explosives."
+          ],
+          "quotes": [],
+          "notes": [
+            "the more brisant explosives, such as dynamite, will shatter rock into smaller fragments than the less brisant, such as gunpowder."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

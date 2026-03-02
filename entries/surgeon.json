@@ -1,0 +1,48 @@
+{
+  "key": "surgeon",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Surgeon",
+      "headword_raw": "Sur\"geon",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. surgien, OF. surgien, contr. fr. chirurgien. See Chirurgeon.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One whose profession or occupation is to cure diseases or injuries of the body by manual operation; one whose occupation is to cure local injuries or disorders (such as wounds, dislocations, tumors, etc.), whether by manual operation, or by medication and constitutional treatment."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "Any one of numerous species of chaetodont fishes of the family Teuthidae, or Acanthuridae, which have one or two sharp lancelike spines on each side of the base of the tail. Called also surgeon fish, doctor fish, lancet fish, and sea surgeon."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

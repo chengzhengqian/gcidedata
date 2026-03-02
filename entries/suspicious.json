@@ -1,0 +1,90 @@
+{
+  "key": "suspicious",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Suspicious",
+      "headword_raw": "Sus*pi\"cious",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[OE. suspecious; cf. L. suspiciosus. See Suspicion.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Suspiciously",
+          "form_raw": "Sus*pi\"cious*ly",
+          "key": "suspiciously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Suspiciousness",
+          "form_raw": "Sus*pi\"cious*ness",
+          "key": "suspiciousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Inclined to suspect; given or prone to suspicion; apt to imagine without proof."
+          ],
+          "quotes": [
+            "Nature itself, after it has done an injury, will ever be suspicious; and no man can love the person he suspects.",
+            "Many mischievous insects are daily at work to make men of merit suspicious of each other."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Indicating suspicion, mistrust, or fear."
+          ],
+          "quotes": [
+            "We have a suspicious, fearful, constrained countenance."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Liable to suspicion; adapted to raise suspicion; giving reason to imagine ill; questionable; as, an author of suspicious innovations; suspicious circumstances."
+          ],
+          "quotes": [
+            "I spy a black, suspicious, threatening could."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Jealous",
+            "distrustful",
+            "mistrustful",
+            "doubtful",
+            "questionable. See Jealous"
+          ]
+        }
+      ]
+    }
+  ]
+}

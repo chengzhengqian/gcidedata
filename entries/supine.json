@@ -1,0 +1,121 @@
+{
+  "key": "supine",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Supine",
+      "headword_raw": "Su*pine\"",
+      "pr": "(s*pīn\")",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. supinus, akin to sub under, super above. Cf. Sub-, Super-.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Supinely",
+          "form_raw": "Su*pine\"ly",
+          "key": "supinely",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Supineness",
+          "form_raw": "Su*pine\"ness",
+          "key": "supineness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Lying on the back, or with the face upward; -- opposed to prone."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Leaning backward, or inclining with exposure to the sun; sloping; inclined."
+          ],
+          "quotes": [
+            "If the vine On rising ground be placed, or hills supine."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Negligent; heedless; indolent; listless."
+          ],
+          "quotes": [
+            "He became pusillanimous and supine, and openly exposed to any temptation."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Negligent",
+            "heedless",
+            "indolent",
+            "thoughtless",
+            "inattentive",
+            "listless",
+            "careless",
+            "drowsy"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Supine",
+      "headword_raw": "Su\"pine",
+      "pr": "(sū\"pīn)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. supinum (sc. verbum), from supinus bent or thrown backward, perhaps so called because, although furnished with substantive case endings, it rests or falls back, as it were, on the verb: cf. F. supin.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Lat. Gram.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A verbal noun; or (according to C.F.Becker), a case of the infinitive mood ending in -um and -u, that in -um being sometimes called the former supine, and that in -u the latter supine."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

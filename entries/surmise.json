@@ -1,0 +1,88 @@
+{
+  "key": "surmise",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Surmise",
+      "headword_raw": "Sur*mise\"",
+      "pr": "(sr*mīz\")",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OF. surmise accusation, fr. surmettre, p. p. surmis, to impose, accuse; sur (see Sur-) + mettre to put, set, L. mittere to send. See Mission.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A thought, imagination, or conjecture, which is based upon feeble or scanty evidence; suspicion; guess; as, the surmises of jealousy or of envy."
+          ],
+          "quotes": [
+            "[We] double honor gain From his surmise proved false.",
+            "No man ought to be charged with principles he actually disowns, unless his practicies contradict his profession; not upon small surmises."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Reflection; thought."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Conjecture",
+            "supposition",
+            "suspicion",
+            "doubt"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Surmise",
+      "headword_raw": "Sur*mise\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Surmised (?); p. pr. & vb. n. Surmising.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To imagine without certain knowledge; to infer on slight grounds; to suppose, conjecture, or suspect; to guess."
+          ],
+          "quotes": [
+            "It wafted nearer yet, and then she knew That what before she but surmised, was true.",
+            "This change was not wrought by altering the form or position of the earth, as was surmised by a very learned man, but by dissolving it."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

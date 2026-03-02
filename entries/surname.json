@@ -1,0 +1,84 @@
+{
+  "key": "surname",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Surname",
+      "headword_raw": "Sur\"name`",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Pref. sur + name; really a substitution for OE. sournoun, from F. surnom. See Sur-, and Noun, Name.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A name or appellation which is added to, or over and above, the baptismal or Christian name, and becomes a family name."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Surnames originally designated occupation, estate, place of residence, or some particular thing or event that related to the person; thus, Edmund Ironsides; Robert Smith, or the smith; William Turner. Surnames are often also patronymics; as, John Johnson."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "An appellation added to the original name; an agnomen."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ This word has been sometimes written sirname, as if it signified sire-name, or the name derived from one's father."
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Surname",
+      "headword_raw": "Sur*name\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[Cf. F. surnommer.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Surnamed (?); p. pr. & vb. n. Surnaming.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To name or call by an appellation added to the original name; to give a surname to."
+          ],
+          "quotes": [
+            "Another shall subscribe with his hand unto the Lord, and surname himself by the name of Israel.",
+            "And Simon he surnamed Peter."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

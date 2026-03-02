@@ -1,0 +1,63 @@
+{
+  "key": "surplusage",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Surplusage",
+      "headword_raw": "Sur\"plus*age",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[See Surplus, and cf. Superplusage.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Surplus; excess; overplus; as, surplusage of grain or goods beyond what is wanted."
+          ],
+          "quotes": [
+            "Take what thou please of all this surplusage.",
+            "A surplusage given to one part is paid out of a reduction from another part of the same creature."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "Matter in pleading which is not necessary or relevant to the case, and which may be rejected."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Accounts)"
+          ],
+          "defs": [
+            "A greater disbursement than the charge of the accountant amounts to."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

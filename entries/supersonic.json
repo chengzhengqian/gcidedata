@@ -1,0 +1,46 @@
+{
+  "key": "supersonic",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "supersonic",
+      "headword_raw": "su`per*son\"ic",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Moving at a speed greater than the speed of sound in air; -- this speed varies with altitude, since the speed of sound varies with altitude, as well as with temperature and humidity, being approximately 1129 feet per second at sea level and 984 feet per second at 16 miles altitude."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Capable of moving at speeds higher than the speed of sound; -- of aircraft."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

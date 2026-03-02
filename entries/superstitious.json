@@ -1,0 +1,81 @@
+{
+  "key": "superstitious",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Superstitious",
+      "headword_raw": "Su`per*sti\"tious",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[F. superstitieux, L. superstitiosus.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Superstitiously",
+          "form_raw": "Su`per*sti\"tious*ly",
+          "key": "superstitiously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Superstitiousness",
+          "form_raw": "Su`per*sti\"tious*ness",
+          "key": "superstitiousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to superstition; proceeding from, or manifesting, superstition; as, superstitious rites; superstitious observances."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Evincing superstition; overscrupulous and rigid in religious observances; addicted to superstition; full of idle fancies and scruples in regard to religion."
+          ],
+          "quotes": [
+            "Ye men of Athens, I perceive that in all things ye are too superstitious."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "Overexact; scrupulous beyond need."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

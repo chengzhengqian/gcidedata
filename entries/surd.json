@@ -1,0 +1,114 @@
+{
+  "key": "surd",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Surd",
+      "headword_raw": "Surd",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. surdus deaf (whence the meaning, deaf to reason, irrational), perhaps akin to E. swart. Cf. Sordine.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Net having the sense of hearing; deaf."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Unheard."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "Involving surds; not capable of being expressed in rational numbers; radical; irrational; as, a surd expression or quantity; a surd number."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Phonetics)"
+          ],
+          "defs": [
+            "Uttered, as an element of speech, without tone, or proper vocal sound; voiceless; unintonated; nonvocal; atonic; whispered; aspirated; sharp; hard, as f, p, s, etc.; -- opposed to sonant. See Guide to Pronunciation, §§169, 179, 180."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Surd",
+      "headword_raw": "Surd",
+      "pr": null,
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Math.)"
+      ],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A quantity which can not be expressed by rational numbers; thus, √2 is a surd."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Phon.)"
+          ],
+          "defs": [
+            "A surd element of speech. See Surd, a., 4."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

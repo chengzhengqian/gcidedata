@@ -1,0 +1,109 @@
+{
+  "key": "suppliant",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Suppliant",
+      "headword_raw": "Sup\"pli*ant",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[F., p. pr. of supplier to entreat, L. supplicare. See Supplicate, and cf. Supplicant.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Suppliantly",
+          "form_raw": "Sup\"pli*ant*ly",
+          "key": "suppliantly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Suppliantness",
+          "form_raw": "Sup\"pli*ant*ness",
+          "key": "suppliantness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Asking earnestly and submissively; entreating; beseeching; supplicating."
+          ],
+          "quotes": [
+            "The rich grow suppliant, and the poor grow proud."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Manifesting entreaty; expressive of supplication."
+          ],
+          "quotes": [
+            "To bow and sue for grace With suppliant knee."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Entreating",
+            "beseeching",
+            "suing",
+            "begging",
+            "supplicating",
+            "imploring"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Suppliant",
+      "headword_raw": "Sup\"pli*ant",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "One who supplicates; a humble petitioner; one who entreats submissively."
+          ],
+          "quotes": [
+            "Hear thy suppliant's prayer."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

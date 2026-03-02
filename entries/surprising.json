@@ -1,0 +1,63 @@
+{
+  "key": "surprising",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Surprising",
+      "headword_raw": "Sur*pris\"ing",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Surprisingly",
+          "form_raw": "Sur*pris\"ing*ly",
+          "key": "surprisingly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Surprisingness",
+          "form_raw": "Sur*pris\"ing*ness",
+          "key": "surprisingness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Wonderful",
+        "extraordinary",
+        "unexpected",
+        "astonishing",
+        "striking"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Exciting surprise; extraordinary; of a nature to excite wonder and astonishment; as, surprising bravery; a surprising escape from danger."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

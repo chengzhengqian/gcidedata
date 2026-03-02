@@ -1,0 +1,53 @@
+{
+  "key": "susceptibility",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Susceptibility",
+      "headword_raw": "Sus*cep`ti*bil\"i*ty",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. susceptibilit.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The state or quality of being susceptible; the capability of receiving impressions, or of being affected."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Physics)"
+          ],
+          "defs": [
+            "Specifically, capacity for deep feeling or emotional excitement; sensibility, in its broadest acceptation; impressibility; sensitiveness."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Capability",
+            "sensibility",
+            "feeling",
+            "emotion"
+          ]
+        }
+      ]
+    }
+  ]
+}

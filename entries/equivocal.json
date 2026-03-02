@@ -1,0 +1,98 @@
+{
+  "key": "equivocal",
+  "source_file": "CIDE.E",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Equivocal",
+      "headword_raw": "E*quiv\"o*cal",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. aequivocus: aequus equal + vox, vocis, word. See Equal, and Voice, and cf. Equivoque.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "-- Equivocal, Ambiguous. We call an expression ambiguous when it has one general meaning, and yet contains certain words which may be taken in two different senses; or certain clauses which can be so connected with other clauses as to divide the mind between different views of part of the meaning intended. We call an expression equivocal when, taken as a whole, it conveys a given thought with perfect clearness and propriety, and also another thought with equal propriety and clearness. Such were the responses often given by the Delphic oracle; as that to Crœsus when consulting about a war with Persia: “If you cross the Halys, you will destroy a great empire.” This he applied to the Persian empire, which lay beyond that river, and, having crossed, destroyed his own empire in the conflict. What is ambiguous is a mere blunder of language; what is equivocal is usually intended to deceive, though it may occur at times from mere inadvertence. Equivocation is applied only to cases where there is a design to deceive."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "(Literally, called equally one thing or the other; hence:) Having two significations equally applicable; capable of double interpretation; of doubtful meaning; ambiguous; uncertain; as, equivocal words; an equivocal sentence."
+          ],
+          "quotes": [
+            "For the beauties of Shakespeare are not of so dim or equivocal a nature as to be visible only to learned eyes."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Capable of being ascribed to different motives, or of signifying opposite feelings, purposes, or characters; deserving to be suspected; as, his actions are equivocal."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Mus.)"
+          ],
+          "defs": [
+            "Uncertain, as an indication or sign; doubtful."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Ambiguous",
+            "doubtful",
+            "uncertain",
+            "indeterminate"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Equivocal",
+      "headword_raw": "E*quiv\"o*cal",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A word or expression capable of different meanings; an ambiguous term; an equivoque."
+          ],
+          "quotes": [
+            "In languages of great ductility, equivocals like that just referred to are rarely found."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "key": "equaliser",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "equaliser",
+      "headword_raw": "equaliser",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Electronics)"
+          ],
+          "defs": [
+            "an electronic circuit which reduces frequency distortion."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "equalizer"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "an equivalent counterbalancing weight."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "counterweight",
+            "counterbalance",
+            "counterpoise",
+            "balance",
+            "equalizer"
+          ]
+        }
+      ]
+    }
+  ]
+}

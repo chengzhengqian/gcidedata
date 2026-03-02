@@ -1,0 +1,77 @@
+{
+  "key": "equivocate",
+  "source_file": "CIDE.E",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Equivocate",
+      "headword_raw": "E*quiv\"o*cate",
+      "pr": "(?)",
+      "pos": [
+        "v. i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "a."
+      ],
+      "ety": "[L. aequivocatus, p. p. of aequivocari to be called by the same name, fr. L. aequivocus: cf. F. quivoquer. See Equivocal, a.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Equivocated (?); p. pr. & vb. n. Equivocating.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "prevaricate",
+        "evade",
+        "shuffle",
+        "quibble. See Prevaricate"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To use words of equivocal or doubtful signification; to express one's opinions in terms which admit of different senses, with intent to deceive; to use ambiguous expressions with a view to mislead; as, to equivocate is the work of duplicity."
+          ],
+          "quotes": [
+            "All that Garnet had to say for him was that he supposed he meant to equivocate."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Equivocate",
+      "headword_raw": "E*quiv\"o*cate",
+      "pr": "(?)",
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To render equivocal or ambiguous."
+          ],
+          "quotes": [
+            "He equivocated his vow by a mental reservation."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "key": "equatorial",
+  "source_file": "CIDE.E",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Equatorial",
+      "headword_raw": "E`qua*to\"ri*al",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Cf. F. quatorial.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to the equator; as, equatorial climates; also, pertaining to an equatorial instrument."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Equatorial",
+      "headword_raw": "E`qua*to\"ri*al",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Astron.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An instrument consisting of a telescope so mounted as to have two axes of motion at right angles to each other, one of them parallel to the axis of the earth, and each carrying a graduated circle, the one for measuring declination, and the other right ascension, or the hour angle, so that the telescope may be directed, even in the daytime, to any star or other object whose right ascension and declination are known. The motion in right ascension is sometimes communicated by clockwork, so as to keep the object constantly in the field of the telescope. Called also an equatorial telescope."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The term equatorial, or equatorial instrument, is sometimes applied to any astronomical instrument which has its principal axis of rotation parallel to the axis of the earth."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

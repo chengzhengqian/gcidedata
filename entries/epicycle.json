@@ -1,0 +1,52 @@
+{
+  "key": "epicycle",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Epicycle",
+      "headword_raw": "Ep\"i*cy`cle",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. epicyclus, Gr. <?/; 'epi` upon + <?/ circle. See Cycle.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Ptolemaic Astron.)"
+          ],
+          "defs": [
+            "A circle, whose center moves round in the circumference of a greater circle; or a small circle, whose center, being fixed in the deferent of a planet, is carried along with the deferent, and yet, by its own peculiar motion, carries the body of the planet fastened to it round its proper center."
+          ],
+          "quotes": [
+            "The schoolmen were like astronomers which did feign eccentrics, and epicycles, and such engines of orbs."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mech.)"
+          ],
+          "defs": [
+            "A circle which rolls on the circumference of another circle, either externally or internally."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

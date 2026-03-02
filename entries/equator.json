@@ -1,0 +1,51 @@
+{
+  "key": "equator",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Equator",
+      "headword_raw": "E*qua\"tor",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. aequator one who equalizes: cf. F. quateur equator. See Equate.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Geog.)"
+          ],
+          "defs": [
+            "The imaginary great circle on the earth's surface, everywhere equally distant from the two poles, and dividing the earth's surface into two hemispheres."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Astron.)",
+            "(Astron.)"
+          ],
+          "defs": [
+            "The great circle of the celestial sphere, coincident with the plane of the earth's equator; -- so called because when the sun is in it, the days and nights are of equal length; hence called also the equinoctial, and on maps, globes, etc., the equinoctial line."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

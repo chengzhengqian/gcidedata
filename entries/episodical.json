@@ -1,0 +1,49 @@
+{
+  "key": "episodical",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Episodical",
+      "headword_raw": "Ep`i*so\"dic*al",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[Cf. F. pisodique. See Episode.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Episodically",
+          "form_raw": "Ep`i*so\"dic*al*ly",
+          "key": "episodically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to an episode; adventitious."
+          ],
+          "quotes": [
+            "Such a figure as Jacob Brattle, purely episodical though it be, is an excellent English portrait."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

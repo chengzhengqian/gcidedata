@@ -1,0 +1,40 @@
+{
+  "key": "equimomental",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Equimomental",
+      "headword_raw": "E`qui*mo*men\"tal",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Equi- + momental.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Mech.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Having equal moments of inertia."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Two bodies or systems of bodies are said to be equimomental when their moments of inertia about all straight lines are equal each to each."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "key": "epithet",
+  "source_file": "CIDE.E",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Epithet",
+      "headword_raw": "Ep\"i*thet",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. epitheton, Gr. <?/, fr. <?/ added, fr. <?/ to add; 'epi` upon, to + <?/ to put, place: cf. F. pithte. See Do.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "The name epithet was formerly extended to nouns which give a title or describe character (as the “epithet of liar”), but is now confined wholly to adjectives. Some rhetoricians, as Whately, restrict it still further, considering the term epithet as belonging only to a limited class of adjectives, viz., those which add nothing to the sense of their noun, but simply hold forth some quality necessarily implied therein; as, the bright sun, the lofty heavens, etc. But this restriction does not prevail in general literature. Epithet is sometimes confounded with application, which is always a noun or its equivalent."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "An adjective expressing some quality, attribute, or relation, that is properly or specially appropriate to a person or thing; as, a just man; a verdant lawn."
+          ],
+          "quotes": [
+            "A prince [Henry III.] to whom the epithet “worthless” seems best applicable."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Term; expression; phrase."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Epithet",
+            "Title"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Epithet",
+      "headword_raw": "Ep\"i*thet",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To describe by an epithet."
+          ],
+          "quotes": [
+            "Never was a town better epitheted."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "key": "epigene",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Epigene",
+      "headword_raw": "Ep\"i*gene",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Pref. epi- + Gr. gi`gnesqai to be born, grow.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Crystallog.)"
+          ],
+          "defs": [
+            "Foreign; unnatural; unusual; -- said of forms of crystals not natural to the substances in which they are found."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Geol.)"
+          ],
+          "defs": [
+            "Formed originating on the surface of the earth; -- opposed to hypogene; as, epigene rocks."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

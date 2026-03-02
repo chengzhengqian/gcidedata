@@ -1,0 +1,70 @@
+{
+  "key": "equality",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Equality",
+      "headword_raw": "E*qual\"i*ty",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. aequalitas, fr. aequalis equal. See Equal.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The condition or quality of being equal; agreement in quantity or degree as compared; likeness in bulk, value, rank, properties, etc.; as, the equality of two bodies in length or thickness; an equality of rights."
+          ],
+          "quotes": [
+            "A footing of equality with nobles."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Sameness in state or continued course; evenness; uniformity; as, an equality of temper or constitution."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Evenness; uniformity; as, an equality of surface."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "Exact agreement between two expressions or magnitudes with respect to quantity; -- denoted by the symbol =; thus, a = x signifies that a contains the same number and kind of units of measure that x does."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

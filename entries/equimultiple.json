@@ -1,0 +1,67 @@
+{
+  "key": "equimultiple",
+  "source_file": "CIDE.E",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Equimultiple",
+      "headword_raw": "E`qui*mul\"ti*ple",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Equi- + multiple: cf. F. quimultiple.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Multiplied by the same number or quantity."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Equimultiple",
+      "headword_raw": "E`qui*mul\"ti*ple",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Math.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "One of the products arising from the multiplication of two or more quantities by the same number or quantity. Thus, seven times 2, or 14, and seven times 4, or 28, are equimultiples of 2 and 4."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

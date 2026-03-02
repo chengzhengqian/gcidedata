@@ -1,0 +1,69 @@
+{
+  "key": "era",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Era",
+      "headword_raw": "E\"ra",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[LL. aera an era, in earlier usage, the items of an account, counters, pl. of aes, aeris, brass, money. See Ore.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A fixed point of time, usually an epoch, from which a series of years is reckoned."
+          ],
+          "quotes": [
+            "The foundation of Solomon's temple is conjectured by Ideler to have been an era."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A period of time reckoned from some particular date or epoch; a succession of years dating from some important event; as, the era of Alexander; the era of Christ, or the Christian era (see under Christian)."
+          ],
+          "quotes": [
+            "The first century of our era."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A period of time in which a new order of things prevails; a signal stage of history; an epoch."
+          ],
+          "quotes": [
+            "Painting may truly be said to have opened the new era of culture."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Epoch",
+            "time",
+            "date",
+            "period",
+            "age",
+            "dispensation. See Epoch"
+          ]
+        }
+      ]
+    }
+  ]
+}

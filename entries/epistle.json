@@ -1,0 +1,81 @@
+{
+  "key": "epistle",
+  "source_file": "CIDE.E",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Epistle",
+      "headword_raw": "E*pis\"tle",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. epistle, epistel, AS. epistol, pistol, L. epistola, fr. Gr. <?/ anything sent by a messenger, message, letter, fr. <?/ to send to, tell by letter or message; 'epi` upon, to + <?/ to dispatch, send; cf. OF. epistle, epistre, F. ptre. See Stall.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A writing directed or sent to a person or persons; a written communication; a letter; -- applied usually to formal, didactic, or elegant letters."
+          ],
+          "quotes": [
+            "A madman's epistles are no gospels."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Eccl.)"
+          ],
+          "defs": [
+            "One of the letters in the New Testament which were addressed to their Christian brethren by Apostles."
+          ],
+          "quotes": [
+            "One sees the pulpit on the epistle side."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Epistle",
+      "headword_raw": "E*pis\"tle",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To write; to communicate in a letter or by writing."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "key": "equipment",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Equipment",
+      "headword_raw": "E*quip\"ment",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. quipement. See Equip.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of equipping, or the state of being equipped, as for a voyage or expedition."
+          ],
+          "quotes": [
+            "The equipment of the fleet was hastened by De Witt."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Whatever is used in equipping; necessaries for an expedition or voyage; the collective designation for the articles comprising an outfit; equipage; as, a railroad equipment (locomotives, cars, etc. ; for carrying on business); horse equipments; infantry equipments; naval equipments; laboratory equipments."
+          ],
+          "quotes": [
+            "Armed and dight, In the equipments of a knight."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "key": "episyllogism",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Episyllogism",
+      "headword_raw": "Ep`i*syl\"lo*gism",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Pref. epi- + syllogism.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Logic)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A syllogism which assumes as one of its premises a proposition which was the conclusion of a preceding syllogism, called, in relation to this, the prosyllogism."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

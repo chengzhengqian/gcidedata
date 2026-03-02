@@ -1,0 +1,52 @@
+{
+  "key": "equip",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Equip",
+      "headword_raw": "E*quip\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[F. quiper to supply, fit out, orig. said of a ship, OF. esquiper to embark; of German origin; cf. OHG. scif, G. schiff, Icel. skip, AS. scip. See Ship.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Equipped (?); p. pr. & vb. n. Equipping.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To furnish for service, or against a need or exigency; to fit out; to supply with whatever is necessary to efficient action in any way; to provide with arms or an armament, stores, munitions, rigging, etc.; -- said esp. of ships and of troops."
+          ],
+          "quotes": [
+            "Gave orders for equipping a considerable fleet."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To dress up; to array; accouter."
+          ],
+          "quotes": [
+            "The country are led astray in following the town, and equipped in a ridiculous habit, when they fancy themselves in the height of the mode."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

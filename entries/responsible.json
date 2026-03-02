@@ -1,0 +1,81 @@
+{
+  "key": "responsible",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Responsible",
+      "headword_raw": "Re*spon\"si*ble",
+      "pr": "(r?*sp?n\"s?*b'l)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[Cf. F. responsable. See Respond.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Responsibleness",
+          "form_raw": "Re*spon\"si*ble*ness",
+          "key": "responsibleness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Responsibly",
+          "form_raw": "Re*spon\"si*bly",
+          "key": "responsibly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Liable to respond; likely to be called upon to answer; accountable; answerable; amenable; as, a guardian is responsible to the court for his conduct in the office."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Able to respond or answer for one's conduct and obligations; trustworthy, financially or otherwise; as, to have a responsible man for surety."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Involving responsibility; involving a degree of accountability on the part of the person concerned; as, a responsible office."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Accountable",
+            "answerable",
+            "amenable"
+          ]
+        }
+      ]
+    }
+  ]
+}

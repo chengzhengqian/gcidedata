@@ -1,0 +1,109 @@
+{
+  "key": "respite",
+  "source_file": "CIDE.R",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Respite",
+      "headword_raw": "Res\"pite",
+      "pr": "(r?s\"p?t)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OF. respit, F. rpit, from L. respectus respect, regard, delay, in LL., the deferring of a day. See Respect.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A putting off of that which was appointed; a postponement or delay."
+          ],
+          "quotes": [
+            "I crave but four day's respite."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Temporary intermission of labor, or of any process or operation; interval of rest; pause; delay."
+          ],
+          "quotes": [
+            "Some pause and respite only I require."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "Temporary suspension of the execution of a capital offender; reprieve.",
+            "The delay of appearance at court granted to a jury beyond the proper term."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Pause",
+            "interval",
+            "stop",
+            "cessation",
+            "delay",
+            "postponement",
+            "stay",
+            "reprieve"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Respite",
+      "headword_raw": "Res\"pite",
+      "pr": null,
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "n."
+      ],
+      "ety": "[OF. respiter, LL. respectare. See Respite, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Respited; p. pr. & vb. n. Respiting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To give or grant a respite to.",
+            "To delay or postpone; to put off.",
+            "To keep back from execution; to reprieve.",
+            "To relieve by a pause or interval of rest."
+          ],
+          "quotes": [
+            "Forty days longer we do respite you."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

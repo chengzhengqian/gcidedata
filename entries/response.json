@@ -1,0 +1,54 @@
+{
+  "key": "response",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Response",
+      "headword_raw": "Re*sponse\"",
+      "pr": "(r?*sp?ns\")",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OF. response, respons, F. rponse, from L. responsum, from respondere. See Respond.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of responding."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Eccl.)",
+            "(R.C.Ch.)",
+            "(Mus.)"
+          ],
+          "defs": [
+            "An answer or reply.",
+            "Reply to an objection in formal disputation.",
+            "The answer of the people or congregation to the priest or clergyman, in the litany and other parts of divine service.",
+            "A kind of anthem sung after the lessons of matins and some other parts of the office.",
+            "A repetition of the given subject in a fugue by another part on the fifth above or fourth below."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "key": "respiratory",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Respiratory",
+      "headword_raw": "Re*spir\"a*to*ry",
+      "pr": "(r?*sp?r\"?*t?*r? r?s\"p?*r?-)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physiol.)",
+        "(Physiol.)",
+        "(Zool.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to respiration; serving for respiration; as, the respiratory organs; respiratory nerves; the respiratory function; respiratory changes."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

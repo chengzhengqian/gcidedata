@@ -1,0 +1,87 @@
+{
+  "key": "residue",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Residue",
+      "headword_raw": "Res\"i*due",
+      "pr": "(r?z\"?-d?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. rsidu, L. residuum, fr. residuus that is left behind, remaining, fr. residere to remain behind. See Reside, and cf. Residuum.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "That which remains after a part is taken, separated, removed, or designated; remnant; remainder."
+          ],
+          "quotes": [
+            "The residue of them will I deliver to the sword.",
+            "If church power had then prevailed over its victims, not a residue of English liberty would have been saved."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "That part of a testeator's estate wwhich is not disposed of in his will by particular and special legacies and devises, and which remains after payment of debts and legacies."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "That which remains of a molecule after the removal of a portion of its constituents; hence, an atom or group regarded as a portion of a molecule; a moiety or group; -- used as nearly equivalent to radical, but in a more general sense."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The term radical is sometimes restricted to groups containing carbon, the term residue and moiety being applied to the others."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Theory of Numbers)"
+          ],
+          "defs": [
+            "Any positive or negative number that differs from a given number by a multiple of a given modulus; thus, if 7 is the modulus, and 9 the given number, the numbers -5, 2, 16, 23, etc., are residues."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Rest",
+            "remainder",
+            "remnant",
+            "balance",
+            "residuum",
+            "remains",
+            "leavings",
+            "relics"
+          ]
+        }
+      ]
+    }
+  ]
+}

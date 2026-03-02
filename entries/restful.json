@@ -1,0 +1,69 @@
+{
+  "key": "restful",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Restful",
+      "headword_raw": "Rest\"ful",
+      "pr": "(r?st\"f?l)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Restfully",
+          "form_raw": "Rest\"ful*ly",
+          "key": "restfully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Restfulness",
+          "form_raw": "Rest\"ful*ness",
+          "key": "restfulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Being at rest; quiet."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Giving rest; freeing from toil, trouble, etc."
+          ],
+          "quotes": [
+            "Tired with all these, for restful death I cry."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

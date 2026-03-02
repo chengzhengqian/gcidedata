@@ -1,0 +1,49 @@
+{
+  "key": "resorption",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Resorption",
+      "headword_raw": "Re*sorp\"tion",
+      "pr": "(r?*s?rp\"sh?n)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of resorbing; also, the act of absorbing again; reabsorption."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Petrography)"
+          ],
+          "defs": [
+            "The redissolving wholly or in part, in the molten magma of an igneous rock, of crystals previously formed. The dissolved material may again solidify, giving rise to a mass of small crystals, usually of a different kind."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

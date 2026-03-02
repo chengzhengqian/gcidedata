@@ -1,0 +1,74 @@
+{
+  "key": "resultant",
+  "source_file": "CIDE.R",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Resultant",
+      "headword_raw": "Re*sult\"ant",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. resultans, p. pr. : cf. F. rsultant.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Mech.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Resulting or issuing from a combination; existing or following as a result or consequence."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Resultant",
+      "headword_raw": "Re*sult\"ant",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Mech.)",
+        "(Math.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "That which results.",
+            "A reultant force or motion.",
+            "An eliminant."
+          ],
+          "quotes": [
+            "The resultant of homogeneous general functions of n variables is that function of their coefficients which, equaled to zero, expresses in the simplest terms the condition of the possibility of their existence."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

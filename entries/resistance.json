@@ -1,0 +1,77 @@
+{
+  "key": "resistance",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Resistance",
+      "headword_raw": "Re*sist\"ance",
+      "pr": "(-ans)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. rsistance, LL. resistentia, fr. resistens, -entis, p. pr. See Resist.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of resisting; opposition, passive or active."
+          ],
+          "quotes": [
+            "When King Demetrius saw that . . . no resistance was made against him, he sent away all his forces."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Physics)"
+          ],
+          "defs": [
+            "The quality of not yielding to force or external pressure; that power of a body which acts in opposition to the impulse or pressure of another, or which prevents the effect of another power; as, the resistance of the air to a body passing through it; the resistance of a target to projectiles."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A means or method of resisting; that which resists."
+          ],
+          "quotes": [
+            "Unfold to us some warlike resistance."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Elec.)",
+            "(Elec.)",
+            "(Elec.)",
+            "(Mech.)"
+          ],
+          "defs": [
+            "A certain hindrance or opposition to the passage of an electrical current or discharge offered by conducting bodies. It bears an inverse relation to the conductivity, -- good conductors having a small resistance, while poor conductors or insulators have a very high resistance. The unit of resistance is the ohm."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

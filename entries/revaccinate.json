@@ -1,0 +1,47 @@
+{
+  "key": "revaccinate",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Revaccinate",
+      "headword_raw": "Re*vac\"ci*nate",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Revaccination",
+          "form_raw": "Re*vac`ci*na\"tion",
+          "key": "revaccination",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To vaccinate a second time or again."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

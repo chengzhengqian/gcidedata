@@ -1,0 +1,82 @@
+{
+  "key": "responsory",
+  "source_file": "CIDE.R",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Responsory",
+      "headword_raw": "Re*spon\"so*ry",
+      "pr": "(r?*sp?n\"s?*r?)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Containing or making answer; answering."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Responsory",
+      "headword_raw": "Re*spon\"so*ry",
+      "pr": "(-r<?/z)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[LL. responsorium.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Eccl.)"
+          ],
+          "defs": [
+            "The answer of the people to the priest in alternate speaking, in church service.",
+            "A versicle sung in answer to the priest, or as a refrain."
+          ],
+          "quotes": [
+            "Which, if should repeat again, would turn my answers into responsories, and beget another liturgy."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Eccl.)"
+          ],
+          "defs": [
+            "An antiphonary; a response book."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

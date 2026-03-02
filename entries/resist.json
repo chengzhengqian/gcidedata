@@ -1,0 +1,157 @@
+{
+  "key": "resist",
+  "source_file": "CIDE.R",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Resist",
+      "headword_raw": "Re*sist\"",
+      "pr": "(r?-z?st\")",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[F. rsister, L. resistere, pref. re- re- + sistere to stand, cause to stand, v. causative of stare to stand. See Stand.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Resisted; p. pr. & vb. n. Resisting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To stand against; to withstand; to obstruct."
+          ],
+          "quotes": [
+            "That mortal dint, Save He who reigns above, none can resist."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To strive against; to endeavor to counteract, defeat, or frustrate; to act in opposition to; to oppose."
+          ],
+          "quotes": [
+            "God resisteth the proud.",
+            "Contrary to his high will Whom we resist."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To counteract, as a force, by inertia or reaction."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "To be distasteful to."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "withstand",
+            "oppose",
+            "hinder",
+            "obstruct",
+            "counteract",
+            "check",
+            "thwart",
+            "baffle",
+            "disappoint"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Resist",
+      "headword_raw": "Re*sist\"",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To make opposition."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Resist",
+      "headword_raw": "Re*sist\"",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Calico Printing)"
+          ],
+          "defs": [
+            "A substance used to prevent a color or mordant from fixing on those parts to which it has been applied, either by acting machanically in preventing the color, etc., from reaching the cloth, or chemically in changing the color so as to render it incapable of fixing itself in the fibers; -- also called reserve. The pastes prepared for this purpose are called resist pastes."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Technology)"
+          ],
+          "defs": [
+            "Something that resists or prevents a certain action;",
+            "A substance applied to a surface, as of metal, or of a silicon wafer, to prevent the action on it of acid, other chemical agents, or any other process such as irradiation or deposition, which would modify the surface if not protected. The resist is usually applied or in some way formed into a pattern so that the underlying surface may be modified in a complementary pattern."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

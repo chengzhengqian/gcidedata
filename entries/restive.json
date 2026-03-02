@@ -1,0 +1,77 @@
+{
+  "key": "restive",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Restive",
+      "headword_raw": "Rest\"ive",
+      "pr": "(r?st\"?v)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[OF. restif, F. rtif, fr. L. restare to stay back, withstand, resist. See Rest remainder, and cf. Restiff.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Restive",
+          "form_raw": "Rest\"ive",
+          "key": "restive",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Restiveness",
+          "form_raw": "Rest\"ive*ness",
+          "key": "restiveness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Inactive; sluggish."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Impatient under coercion, chastisement, or opposition; refractory."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Uneasy; restless; averse to standing still; fidgeting about; -- applied especially to horses."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

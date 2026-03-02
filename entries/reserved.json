@@ -1,0 +1,70 @@
+{
+  "key": "reserved",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Reserved",
+      "headword_raw": "Re*served\"",
+      "pr": "(-z?rvd\")",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Reservedly",
+          "form_raw": "Re*serv\"ed*ly",
+          "key": "reservedly",
+          "pos": [
+            "adv."
+          ],
+          "pr": "(r<?/-z<?/rv\"<?/d-l<?/)"
+        },
+        {
+          "form": "Reservedness",
+          "form_raw": "Re*serv\"ed*ness",
+          "key": "reservedness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Kept for future or special use, or for an exigency; as, reserved troops; a reserved seat in a theater."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Restrained from freedom in words or actions; backward, or cautious, in communicating one's thoughts and feelings; not free or frank."
+          ],
+          "quotes": [
+            "To all obliging, yet reserved to all.",
+            "Nothing reserved or sullen was to see."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

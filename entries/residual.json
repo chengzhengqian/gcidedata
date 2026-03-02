@@ -1,0 +1,75 @@
+{
+  "key": "residual",
+  "source_file": "CIDE.R",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Residual",
+      "headword_raw": "Re*sid\"u*al",
+      "pr": "(r?-z?d\"?-al)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[See Residue.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physiol.)",
+        "(Mensuration)",
+        "(Geom.)",
+        "(Physics)",
+        "(Alg.)",
+        "(Alg.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Pertaining to a residue; remaining after a part is taken."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Residual",
+      "headword_raw": "Re*sid\"u*al",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Math.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The difference of the results obtained by observation, and by computation from a formula.",
+            "The difference between the mean of several observations and any one of them."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

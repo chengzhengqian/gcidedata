@@ -1,0 +1,65 @@
+{
+  "key": "revengeful",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Revengeful",
+      "headword_raw": "Re*venge\"ful",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Revengefully",
+          "form_raw": "Re*venge\"ful*ly",
+          "key": "revengefully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Revengefulness",
+          "form_raw": "Re*venge\"ful*ness",
+          "key": "revengefulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Vindictive",
+        "vengeful",
+        "resentful",
+        "malicious"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Full of, or prone to, revenge; vindictive; malicious; revenging; wreaking revenge."
+          ],
+          "quotes": [
+            "If thy revengeful heart can not forgive.",
+            "May my hands . . . Never brandish more revengeful steel."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

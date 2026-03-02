@@ -1,0 +1,72 @@
+{
+  "key": "retired",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Retired",
+      "headword_raw": "Re*tired\"",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Retiredly",
+          "form_raw": "Re*tired\"ly",
+          "key": "retiredly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Retiredness",
+          "form_raw": "Re*tired\"ness",
+          "key": "retiredness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Private; secluded; quiet; as, a retired life; a person of retired habits."
+          ],
+          "quotes": [
+            "A retired part of the peninsula."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Fort.)",
+            "(Mil. & Naval)"
+          ],
+          "defs": [
+            "Withdrawn from active duty or business; as, a retired officer; a retired physician."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

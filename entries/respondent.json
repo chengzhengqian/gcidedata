@@ -1,0 +1,71 @@
+{
+  "key": "respondent",
+  "source_file": "CIDE.R",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Respondent",
+      "headword_raw": "Re*spond\"ent",
+      "pr": "(-ent)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. respondens, p. pr. of respondere.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Disposed or expected to respond; answering; according; corresponding."
+          ],
+          "quotes": [
+            "Wealth respondent to payment and contributions."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Respondent",
+      "headword_raw": "Re*spond\"ent",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. rpondant.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Law)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "One who responds. It corresponds in general to defendant.",
+            "One who answers in certain suits or proceedings, generally those which are not according to the course of the common law, as in equity and admiralty causes, in petitions for partition, and the like; -- distinquished from appellant.",
+            "One who maintains a thesis in reply, and whose province it is to refute objections, or overthrow arguments; -- distinguished from opponent."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "key": "resonant",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Resonant",
+      "headword_raw": "Res\"o*nant",
+      "pr": "(-nant)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. resonans, p. pr. of resonare to resound: cf. F. rsonnant. See Resound.]",
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Returning, or capable of returning, sound; fitted to resound; resounding; echoing back."
+          ],
+          "quotes": [
+            "Through every hour of the golden morning, the streets were resonant with female parties of young and old."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Elec.)"
+          ],
+          "defs": [
+            "Adjusted as to dimensions (as an electric circuit) so that currents or electric surgings are produced by the passage of electric waves of a given frequency."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

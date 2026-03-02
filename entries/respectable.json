@@ -1,0 +1,69 @@
+{
+  "key": "respectable",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Respectable",
+      "headword_raw": "Re*spect\"a*ble",
+      "pr": "(-<?/-b'l)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[F. respectable, LL. respectabilis.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Respectableness",
+          "form_raw": "Re*spect\"a*ble*ness",
+          "key": "respectableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Respectably",
+          "form_raw": "Re*spect\"a*bly",
+          "key": "respectably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Worthy of respect; fitted to awaken esteem; deserving regard; hence, of good repute; not mean; as, a respectable citizen."
+          ],
+          "quotes": [
+            "No government, any more than an individual, will long be respected, without being truly respectable."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Moderate in degree of excellence or in number; as, a respectable performance; a respectable audience."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "key": "restrict",
+  "source_file": "CIDE.R",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Restrict",
+      "headword_raw": "Re*strict\"",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. restrictus, p. p. of restringere. See Restrain.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Restricted."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Restrict",
+      "headword_raw": "Re*strict\"",
+      "pr": null,
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Restricted; p. pr. & vb. n. Restricting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "limit",
+        "bound",
+        "circumscribe",
+        "restrain",
+        "repress",
+        "curb",
+        "coerce"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To restrain within bounds; to limit; to confine; as, to restrict worlds to a particular meaning; to restrict a patient to a certain diet."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

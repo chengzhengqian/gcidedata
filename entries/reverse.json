@@ -1,0 +1,300 @@
+{
+  "key": "reverse",
+  "source_file": "CIDE.R",
+  "record_count": 4,
+  "records": [
+    {
+      "headword": "Reverse",
+      "headword_raw": "Re*verse\"",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[OE. revers, OF. revers, L. reversus, p. p. of revertere. See Revert.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Turned backward; having a contrary or opposite direction; hence; opposite or contrary in kind; as, the reverse order or method."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Turned upside down; greatly disturbed."
+          ],
+          "quotes": [
+            "He found the sea diverse With many a windy storm reverse."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Bot. & Zool.)",
+            "(Surv.)",
+            "(Railways)",
+            "(Mil.)",
+            "(Math.)"
+          ],
+          "defs": [
+            "Reversed; as, a reverse shell."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Reverse",
+      "headword_raw": "Re*verse\"",
+      "pr": "(r*vrs\")",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Cf. F. revers. See Reverse, a.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "That which appears or is presented when anything, as a lance, a line, a course of conduct, etc., is reverted or turned contrary to its natural direction."
+          ],
+          "quotes": [
+            "He did so with the reverse of the lance."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That which is directly opposite or contrary to something else; a contrary; an opposite."
+          ],
+          "quotes": [
+            "And then mistook reverse of wrong for right.",
+            "To make everything the reverse of what they have seen, is quite as easy as to destroy."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "The act of reversing; complete change; reversal; hence, total change in circumstances or character; especially, a change from better to worse; misfortune; a check or defeat; as, the enemy met with a reverse."
+          ],
+          "quotes": [
+            "The strange reverse of fate you see; I pitied you, now you may pity me.",
+            "By a reverse of fortune, Stephen becomes rich."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "The back side; as, the reverse of a drum or trench; the reverse of a medal or coin, that is, the side opposite to the obverse. See Obverse."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "A thrust in fencing made with a backward turn of the hand; a backhanded stroke."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [
+            "(Surg.)"
+          ],
+          "defs": [
+            "A turn or fold made in bandaging, by which the direction of the bandage is changed."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Reverse",
+      "headword_raw": "Re*verse\"",
+      "pr": "(r*vrst\")",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "a."
+      ],
+      "ety": "[See Reverse, a., and cf. Revert.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Reversed (r*vrst\");p. pr. & vb. n. Reversing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To turn back; to cause to face in a contrary direction; to cause to depart."
+          ],
+          "quotes": [
+            "And that old dame said many an idle verse, Out of her daughter's heart fond fancies to reverse."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To cause to return; to recall."
+          ],
+          "quotes": [
+            "And to his fresh remembrance did reverse The ugly view of his deformed crimes."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To change totally; to alter to the opposite."
+          ],
+          "quotes": [
+            "Reverse the doom of death.",
+            "She reversed the conduct of the celebrated vicar of Bray."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "To turn upside down; to invert."
+          ],
+          "quotes": [
+            "A pyramid reversed may stand upon his point if balanced by admirable skill."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "Hence, to overthrow; to subvert."
+          ],
+          "quotes": [
+            "These can divide, and these reverse, the state.",
+            "Custom . . . reverses even the distinctions of good and evil."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [
+            "(Law)",
+            "(Mil.)"
+          ],
+          "defs": [
+            "To overthrow by a contrary decision; to make void; to under or annual for error; as, to reverse a judgment, sentence, or decree."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "overturn",
+            "overset",
+            "invert",
+            "overthrow",
+            "subvert",
+            "repeal",
+            "annul",
+            "revoke",
+            "undo"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Reverse",
+      "headword_raw": "Re*verse\"",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To return; to revert."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To become or be reversed."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

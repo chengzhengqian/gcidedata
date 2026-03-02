@@ -1,0 +1,94 @@
+{
+  "key": "respire",
+  "source_file": "CIDE.R",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Respire",
+      "headword_raw": "Re*spire\"",
+      "pr": "(r?*sp?r)",
+      "pos": [
+        "v. i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. respirare, respiratum; pref. re- re- + spirare to breathe: cf. F. respirer. See Spirit.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Respired (-sp?rd\"); p. pr. & vb. n. Respiring.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To take breath again; hence, to take rest or refreshment."
+          ],
+          "quotes": [
+            "Here leave me to respire.",
+            "From the mountains where I now respire."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Physiol.)"
+          ],
+          "defs": [
+            "To breathe; to inhale air into the lungs, and exhale it from them, successively, for the purpose of maintaining the vitality of the blood."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Respire",
+      "headword_raw": "Re*spire\"",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To breathe in and out; to inspire and expire,, as air; to breathe."
+          ],
+          "quotes": [
+            "A native of the land where I respire The clear air for a while."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To breathe out; to exhale."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

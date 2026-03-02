@@ -1,0 +1,111 @@
+{
+  "key": "restless",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Restless",
+      "headword_raw": "Rest\"less",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[AS. restles.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Restlessly",
+          "form_raw": "Rest\"less*ly",
+          "key": "restlessly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Restlessness",
+          "form_raw": "Rest\"less*ness",
+          "key": "restlessness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Never resting; unquiet; uneasy; continually moving; as, a restless child."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Not satisfied to be at rest or in peace; averse to repose or quiet; eager for change; discontented; as, restless schemers; restless ambition; restless subjects."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Deprived of rest or sleep."
+          ],
+          "quotes": [
+            "Restless he passed the remnants of the night."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Passed in unquietness; as, the patient has had a restless night."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "Not affording rest; as, a restless chair."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Unquiet",
+            "uneasy",
+            "disturbed",
+            "disquieted",
+            "sleepless",
+            "agitated",
+            "unsettled",
+            "roving",
+            "wandering"
+          ]
+        }
+      ]
+    }
+  ]
+}

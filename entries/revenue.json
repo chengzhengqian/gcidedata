@@ -1,0 +1,58 @@
+{
+  "key": "revenue",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Revenue",
+      "headword_raw": "Rev\"e*nue",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. revenu, OF. revenue, fr. revenir to return, L. revenire; pref. re- re- + venire to come. See Come.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "That which returns, or comes back, from an investment; the annual rents, profits, interest, or issues of any species of property, real or personal; income."
+          ],
+          "quotes": [
+            "Do not anticipate your revenues and live upon air till you know what you are worth."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Hence, return; reward; as, a revenue of praise."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "The annual yield of taxes, excise, customs, duties, rents, etc., which a nation, state, or municipality collects and receives into the treasury for public use."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "key": "resonance",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Resonance",
+      "headword_raw": "Res\"o*nance",
+      "pr": "(r?z\"?-nans)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. rsonance, L. resonantia an echo.]",
+      "sources": [
+        "1913 Webster",
+        "PJC",
+        "Webster 1913 Suppl.",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of resounding; the quality or state of being resonant."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Acoustics)"
+          ],
+          "defs": [
+            "A prolongation or increase of any sound, either by reflection, as in a cavern or apartment the walls of which are not distant enough to return a distinct echo, or by the production of vibrations in other bodies, as a sounding-board, or the bodies of musical instruments."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Physics)"
+          ],
+          "defs": [
+            "A phenomenon in which a vibration or other cyclic process (such as tide cycles) of large amplitude is produced by smaller impulses, when the frequency of the external impulses is close to that of the natural cycling frequency of the process in that system."
+          ],
+          "quotes": [],
+          "notes": [
+            "The shattering of a glass object when impinged upon by sound of a certain frequency is one example of this phenomenon; another is the very large tides in certain basins such as that of the Bay of Fundy, which has a natural cycling frequency close to that of the tidal cycle."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Electronics)",
+            "(Med.)",
+            "(Med.)"
+          ],
+          "defs": [
+            "An electric phenomenon corresponding to that of acoustic resonance, due to the existance of certain relations of the capacity, inductance, resistance, and frequency of an alternating circuit; the tuning of a radio transmitter or receiver to send or detect waves of specific frequencies depends on this phenomenon."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

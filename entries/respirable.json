@@ -1,0 +1,47 @@
+{
+  "key": "respirable",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Respirable",
+      "headword_raw": "Re*spir\"a*ble",
+      "pr": "(r?*sp?r\"?*b'l r?s\"p?*r?*b'l)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": "[Cf. F. respirable.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Respirableness",
+          "form_raw": "Re*spir\"a*ble*ness",
+          "key": "respirableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Suitable for being breathed; adapted for respiration."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

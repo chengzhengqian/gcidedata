@@ -1,0 +1,125 @@
+{
+  "key": "german",
+  "source_file": "CIDE.G",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "German",
+      "headword_raw": "Ger\"man",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[OE. german, germain, F. germain, fr. L. germanus full, own (said of brothers and sisters who have the same parents); akin to germen germ. Cf. Germ, Germane.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Nearly related; closely akin."
+          ],
+          "quotes": [
+            "Wert thou a leopard, thou wert german to the lion."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "German",
+      "headword_raw": "Ger\"man",
+      "pr": "(#)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. Germanus, prob. of Celtis origin.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A native or one of the people of Germany."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The German language."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A round dance, often with a waltz movement, abounding in capriciously involved figures.",
+            "A social party at which the german is danced."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "German",
+      "headword_raw": "Ger\"man",
+      "pr": null,
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": "[L. Germanus. See German, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Zool.)",
+        "(Bot.)",
+        "(Metal.)",
+        "(Chem.)",
+        "(Metal.)",
+        "(Typog.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to Germany."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "key": "geochemistry",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "geochemistry",
+      "headword_raw": "ge`o*chem\"is*try",
+      "pr": "(jē`*km\"s*tr)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Gr. ge`a, gh^, the earth + chemistry.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Geochemical",
+          "form_raw": "Ge`o*chem\"ic*al",
+          "key": "geochemical",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Geochemist",
+          "form_raw": "Ge`o*chem\"ist",
+          "key": "geochemist",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The study of the chemical composition of, and of actual or possible chemical changes in, the crust of the earth."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

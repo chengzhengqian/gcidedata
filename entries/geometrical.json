@@ -1,0 +1,56 @@
+{
+  "key": "geometrical",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Geometrical",
+      "headword_raw": "Ge`o*met\"ric*al",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. geometricus; Gr. <?/: cf. F. gomtrique.]",
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Pertaining to, or according to the rules or principles of, geometry; determined by geometry; as, a geometrical solution of a problem."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Art)",
+            "(Persp.)",
+            "(Zool.)"
+          ],
+          "defs": [
+            "characterized by simple geometric forms in design and decoration; as, a buffalo hide painted with red and black geometrical designs."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Geometric is often used, as opposed to algebraic, to include processes or solutions in which the propositions or principles of geometry are made use of rather than those of algebra.",
+            "☞ Geometrical is often used in a limited or strictly technical sense, as opposed to mechanical; thus, a construction or solution is geometrical which can be made by ruler and compasses, i. e., by means of right lines and circles. Every construction or solution which requires any other curve, or such motion of a line or circle as would generate any other curve, is not geometrical, but mechanical. By another distinction, a geometrical solution is one obtained by the rules of geometry, or processes of analysis, and hence is exact; while a mechanical solution is one obtained by trial, by actual measurements, with instruments, etc., and is only approximate and empirical."
+          ],
+          "synonyms": [
+            "geometric"
+          ]
+        }
+      ]
+    }
+  ]
+}

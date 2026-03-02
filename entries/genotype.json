@@ -1,0 +1,43 @@
+{
+  "key": "genotype",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "genotype",
+      "headword_raw": "gen\"o*type",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Genetics)"
+      ],
+      "senses": [
+        {
+          "sn": "2.",
+          "fields": [
+            "(Genetics)"
+          ],
+          "defs": [
+            "The genetic constitution of an organism, specifying the particular alleles at defined loci in the genome; -- used with respect to one gene, a specific group of genes, or the entire set of genes within the organism. Contrasted with phenotype."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "genetic constitution"
+          ]
+        }
+      ]
+    }
+  ]
+}

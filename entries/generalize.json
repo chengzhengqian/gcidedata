@@ -1,0 +1,111 @@
+{
+  "key": "generalize",
+  "source_file": "CIDE.G",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "generalize",
+      "headword_raw": "gen\"er*al*ize",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[Cf. F. gnraliser.]",
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5"
+      ],
+      "morph": "[imp. & p. p. Generalized (?); p. pr. & vb. n. Generalizing (?).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To bring under a genus or under genera; to view in relation to a genus or to genera."
+          ],
+          "quotes": [
+            "Copernicus generalized the celestial motions by merely referring them to the moon's motion. Newton generalized them still more by referring this last to the motion of a stone through the air."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To apply to other genera or classes; to use with a more extensive application; to extend so as to include all special cases; to make universal in application, as a formula or rule."
+          ],
+          "quotes": [
+            "When a fact is generalized, our discontent is quited, and we consider the generality itself as tantamount to an explanation."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To derive or deduce (a general conception, or a general principle) from particulars."
+          ],
+          "quotes": [
+            "A mere conclusion generalized from a great multitude of facts."
+          ],
+          "notes": [],
+          "synonyms": [
+            "generalize",
+            "extrapolate",
+            "infer"
+          ]
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "To speak in generalities; to talk in abstract terms."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "generalise",
+            "speak generally"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Generalize",
+      "headword_raw": "Gen\"er*al*ize",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To form into a genus; to view objects in their relations to a genus or class; to take general or comprehensive views."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

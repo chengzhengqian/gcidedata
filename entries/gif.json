@@ -1,0 +1,81 @@
+{
+  "key": "gif",
+  "source_file": "CIDE.G",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Gif",
+      "headword_raw": "Gif",
+      "pr": "(?)",
+      "pos": [
+        "conj."
+      ],
+      "ety": "[AS. See If.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "If."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Gif is the old form of if, and frequently occurs in the earlier English writers. See If."
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "GIF",
+      "headword_raw": "GIF",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Acronym from Graphics Interchange Format.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Computers)"
+      ],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The Graphics Interchange Format, one of the most popular standardized formats for storing graphic data in binary computer files. The standard has been revised several times, and includes provisions for interlacing and animating images. Its disadvantage is that it can store only 256 colors. Compare JPEG."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "An image stored in GIF{1} format, or the file in which the image is stored; as, he sent three GIF's with lovely pictures of his children."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

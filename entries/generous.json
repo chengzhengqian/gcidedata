@@ -1,0 +1,102 @@
+{
+  "key": "generous",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Generous",
+      "headword_raw": "Gen\"er*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[F. gnreux, fr. L. generous of noble birth, noble, excellent, magnanimous, fr. genus birth, race: cf. It. generoso. See 2d Gender.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Generously",
+          "form_raw": "Gen\"er*ous*ly",
+          "key": "generously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Generousness",
+          "form_raw": "Gen\"er*ous*ness",
+          "key": "generousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of honorable birth or origin; highborn."
+          ],
+          "quotes": [
+            "The generous and gravest citizens."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Exhibiting those qualities which are popularly regarded as belonging to high birth; noble; honorable; magnanimous; spirited; courageous."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Open-handed; free to give; not close or niggardly; munificent; as, a generous friend or father."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Characterized by generosity; abundant; overflowing; as, a generous table."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "Full of spirit or strength; stimulating; exalting; as, generous wine."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Magnanimous",
+            "bountiful. See Liberal"
+          ]
+        }
+      ]
+    }
+  ]
+}

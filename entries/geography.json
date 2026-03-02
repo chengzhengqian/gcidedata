@@ -1,0 +1,47 @@
+{
+  "key": "geography",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "geography",
+      "headword_raw": "ge*og\"ra*phy",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. gographie, l. geographia, fr. Gr. <?/; ge`a, gh^, the earth + <?/ description, fr. <?/ to write, describe. See Graphic.]",
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The science which treats of the world and its inhabitants; a description of the earth, or a portion of the earth, including its structure, features, products, political divisions, and the people by whom it is inhabited. It also includes the responses and adaptations of people to topography, climate, soil and vegetation"
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A treatise on this science."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

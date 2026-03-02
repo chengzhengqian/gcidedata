@@ -1,0 +1,36 @@
+{
+  "key": "geodesy",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Geodesy",
+      "headword_raw": "Ge*od\"e*sy",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. <?/; ge`a, gh^, the earth + <?/ to divide: cf. F. godsie.]",
+      "sources": [],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Math.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "That branch of applied mathematics which determines, by means of observations and measurements, the figures and areas of large portions of the earth's surface, or the general figure and dimensions of the earth; or that branch of surveying in which the curvature of the earth is taken into account, as in the surveys of States, or of long lines of coast."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

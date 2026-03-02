@@ -1,0 +1,39 @@
+{
+  "key": "geocentrical",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Geocentrical",
+      "headword_raw": "Ge`o*cen\"tric*al",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Gr. ge`a, gh^, the earth + ke`ntron center: cf. F. gocentrique.]",
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Astron.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Having, considering, or based on, the earth as center; as, the geocentric theory of the universe; in relation to or seen from the earth, -- usually opposed to heliocentric, as seen from the sun; as, the geocentric longitude or latitude of a planet."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

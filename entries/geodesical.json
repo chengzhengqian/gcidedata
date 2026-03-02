@@ -1,0 +1,51 @@
+{
+  "key": "geodesical",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Geodesical",
+      "headword_raw": "Ge`o*des\"ic*al",
+      "pr": "(-*kl)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Cf. F. godsique.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "Of or pertaining to geodesy; geodetic."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Architecture)"
+          ],
+          "defs": [
+            "Made of lightweight structural supporting elements connected in a manner to provide great rigidity; -- of structures; as, The geodesic dome was invented by R. Buckminster Fuller."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

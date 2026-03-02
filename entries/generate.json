@@ -1,0 +1,72 @@
+{
+  "key": "generate",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Generate",
+      "headword_raw": "Gen\"er*ate",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. generatus, p. p. of generare to generate, fr. genus. See Genus, Gender.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Generated (?); p. pr. & vb. n. Generating.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To beget; to procreate; to propagate; to produce (a being similar to the parent); to engender; as, every animal generates its own species."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To cause to be; to bring into life."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To originate, especially by a vital or chemical process; to produce; to cause."
+          ],
+          "quotes": [
+            "Whatever generates a quantity of good chyle must likewise generate milk."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "To trace out, as a line, figure, or solid, by the motion of a point or a magnitude of inferior order."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

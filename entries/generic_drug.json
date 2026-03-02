@@ -1,0 +1,36 @@
+{
+  "key": "generic_drug",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "generic drug",
+      "headword_raw": "ge*ner\"ic drug`",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A medication sold under its generic name; -- usually legal only after the patent has expired, or if no patent was issued for the substance. Generic drugs are usually less expensive than proprietary medications."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

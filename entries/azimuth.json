@@ -1,0 +1,41 @@
+{
+  "key": "azimuth",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Azimuth",
+      "headword_raw": "Az\"i*muth",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. azimut, F. azimut, fr. Ar. as-sumūt, pl. of as-samt a way, or perh., a point of the horizon and a circle extending to it from the zenith, as being the Arabic article: cf. It. azzimutto, Pg. azimuth, and Ar. samt-al-rā's the vertex of the heaven. Cf. Zenith.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Astron. & Geodesy)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The quadrant of an azimuth circle.",
+            "An arc of the horizon intercepted between the meridian of the place and a vertical circle passing through the center of any object; as, the azimuth of a star; the azimuth or bearing of a line surveying."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ In trigonometrical surveying, it is customary to reckon the azimuth of a line from the south point of the horizon around by the west from 0° to 360°."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

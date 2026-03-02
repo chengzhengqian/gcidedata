@@ -1,0 +1,66 @@
+{
+  "key": "backgammon",
+  "source_file": "CIDE.B",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "backgammon",
+      "headword_raw": "back\"gam`mon",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Origin unknown; perhaps fr. Dan. bakke tray + E. game; or very likely the first part is from E. back, adv., and the game is so called because the men are often set back.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A game of chance and skill, played by two persons on a “board” marked off into twenty-four spaces called “points”. Each player has fifteen pieces, or “men”, the movements of which from point to point are determined by throwing dice. Formerly called tables."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "backgammon",
+      "headword_raw": "back`gam\"mon",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "In the game of backgammon, to beat by ending the game before the loser is clear of his first “table”. When played for betting purposes, the winner in such a case scores three times the wagered amount."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

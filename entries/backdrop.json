@@ -1,0 +1,50 @@
+{
+  "key": "backdrop",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "backdrop",
+      "headword_raw": "back\"drop",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "the scenery hung at back of stage. Also called in Britain backcloth."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "background",
+            "backcloth"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "the background, setting, or circumstances of an event; as, the backdrop for the summit meeting."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

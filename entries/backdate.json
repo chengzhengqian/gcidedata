@@ -1,0 +1,55 @@
+{
+  "key": "backdate",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "backdate",
+      "headword_raw": "back\"date",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "to make effective from an earlier date; to make retroactive."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "back-date"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "to affix a date earlier than the present date; -- sometimes done for fraudulent purposes. Opposite of postdate."
+          ],
+          "quotes": [],
+          "notes": [
+            "Backdate is sometimes used incorrectly for postdate."
+          ],
+          "synonyms": [
+            "back-date",
+            "predate",
+            "antedate"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "key": "bahrain",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Bahrain",
+      "headword_raw": "Bahrain",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "an island in the Persian Gulf."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Bahrein"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "an island country in the Persian Gulf."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Bahrein"
+          ]
+        }
+      ]
+    }
+  ]
+}

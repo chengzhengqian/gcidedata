@@ -1,0 +1,54 @@
+{
+  "key": "bailment",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Bailment",
+      "headword_raw": "Bail\"ment",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "The action of bailing a person accused."
+          ],
+          "quotes": [
+            "Bailment . . . is the saving or delivery of a man out of prison before he hath satisfied the law."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "A delivery of goods or money by one person to another in trust, for some special purpose, upon a contract, expressed or implied, that the trust shall be faithfully executed."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ In a general sense it is sometimes used as comprehending all duties in respect to property."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

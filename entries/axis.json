@@ -1,0 +1,128 @@
+{
+  "key": "axis",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Axis",
+      "headword_raw": "Ax\"is",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Zool.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The spotted deer (Cervus axis or Axis maculata) of India, where it is called hog deer and parrah (Moorish name)."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Axis",
+      "headword_raw": "Ax\"is",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. axis axis, axle. See Axle.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "A straight line with respect to which the different parts of a magnitude are symmetrically arranged; as, the axis of a cylinder, i. e., the axis of a cone, that is, the straight line joining the vertex and the center of the base; the axis of a circle, any straight line passing through the center."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Bot.)"
+          ],
+          "defs": [
+            "The stem; the central part, or longitudinal support, on which organs or parts are arranged; the central line of any body."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Anat.)"
+          ],
+          "defs": [
+            "The second vertebra of the neck, or vertebra dentata.",
+            "Also used of the body only of the vertebra, which is prolonged anteriorly within the foramen of the first vertebra or atlas, so as to form the odontoid process or peg which serves as a pivot for the atlas and head to turn upon."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Crystallog.)"
+          ],
+          "defs": [
+            "One of several imaginary lines, assumed in describing the position of the planes by which a crystal is bounded."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [
+            "(Fine Arts)",
+            "(Geol.)",
+            "(Anat.)",
+            "(Geom.)",
+            "(Descriptive Geom.)",
+            "(Geom.)",
+            "(Arch.)",
+            "(Mech.)",
+            "(Opt.)",
+            "(Geom.)",
+            "(Arch.)"
+          ],
+          "defs": [
+            "The primary or secondary central line of any design."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

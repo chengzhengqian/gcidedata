@@ -1,0 +1,49 @@
+{
+  "key": "balance_wheel",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Balance wheel",
+      "headword_raw": "Bal\"ance wheel`",
+      "pr": "(<?/)",
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Horology)"
+          ],
+          "defs": [
+            "A wheel which regulates the beats or pulses of a watch or chronometer, answering to the pendulum of a clock; -- often called simply a balance.",
+            "A ratchet-shaped scape wheel, which in some watches is acted upon by the axis of the balance wheel proper (in those watches called a balance)."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mach.)"
+          ],
+          "defs": [
+            "A wheel which imparts regularity to the movements of any engine or machine; a fly wheel."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "key": "bacteriostatic",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "bacteriostatic",
+      "headword_raw": "bacteriostatic",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "of or pertaining to bacteriostasis or a bacteriostat."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "causing bacteriostasis; -- said of chemical substances, such as certain antibacterial agents."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Substances, such as antibiotics, which inhibit bacterial growth are usually classified as bacteriostatic or bacteriocidal depending on the rate at which bacteria exposed to the agents{4} die. The rates of death of bacteria exposed to antibacterial agents{4} are, however, dependent on the concentration of the agent{4}, and form a continuum with some antibacterial agents{4} of intermediate type. The penicillins are considered as typical bactericidal agents, and chloramphenicol or the sulfa drugs as typical bacteriostatic agents. In general, inhibitors of cell-wall synthesis will be bactericidal and many inhibitors of protein synthesis are classed as bacteriostatic, but some of the aminoglycosides also kill bacteria rapidly."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

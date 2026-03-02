@@ -1,0 +1,56 @@
+{
+  "key": "axiom",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Axiom",
+      "headword_raw": "Ax\"i*om",
+      "pr": "(<?/)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[L. axioma, Gr. <?/ that which is thought worthy, that which is assumed, a basis of demonstration, a principle, fr. <?/ to think worthy, fr. <?/ worthy, weighing as much as; cf. <?/ to lead, drive, also to weigh so much: cf F. axiome. See Agent, a.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "An axiom is a self-evident truth which is taken for granted as the basis of reasoning. A maxim is a guiding principle sanctioned by experience, and relating especially to the practical concerns of life. An aphorism is a short sentence pithily expressing some valuable and general truth or sentiment. An adage is a saying of long-established authority and of universal application."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Logic & Math.)"
+          ],
+          "defs": [
+            "A self-evident and necessary truth, or a proposition whose truth is so evident as first sight that no reasoning or demonstration can make it plainer; a proposition which it is necessary to take for granted; as, “The whole is greater than a part;” “A thing can not, at the same time, be and not be.”"
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "An established principle in some art or science, which, though not a necessary truth, is universally received; as, the axioms of political economy."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Axiom",
+            "Maxim",
+            "Aphorism",
+            "Adage"
+          ]
+        }
+      ]
+    }
+  ]
+}

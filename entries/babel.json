@@ -1,0 +1,51 @@
+{
+  "key": "babel",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Babel",
+      "headword_raw": "Ba\"bel",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Heb. Bābel, the name of the capital of Babylonia; in Genesis associated with the idea of “confusion.”]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The city and tower in the land of Shinar, where the confusion of languages took place."
+          ],
+          "quotes": [
+            "Therefore is the name of it called Babel."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Hence: A place or scene of noise and confusion; a confused mixture of sounds, as of voices or languages."
+          ],
+          "quotes": [
+            "That babel of strange heathen languages.",
+            "The grinding babel of the street"
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

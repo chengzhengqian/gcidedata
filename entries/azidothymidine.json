@@ -1,0 +1,44 @@
+{
+  "key": "azidothymidine",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "azidothymidine",
+      "headword_raw": "azidothymidine",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "an antiviral drug, (C10H13N5O4) used in the treatment of AIDS. It has the generic name of zidovudine."
+          ],
+          "quotes": [],
+          "notes": [
+            "an analog of thymidine, it inhibits the replication of the viral chromosome."
+          ],
+          "synonyms": [
+            "AZT",
+            "zidovudine[generic]",
+            "3'-azido 3'-deoxythymidine",
+            "Retrovir[Trademark]"
+          ]
+        }
+      ]
+    }
+  ]
+}

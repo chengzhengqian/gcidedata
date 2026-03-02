@@ -1,0 +1,38 @@
+{
+  "key": "bacteriophage",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "bacteriophage",
+      "headword_raw": "bacteriophage",
+      "pr": null,
+      "pos": [
+        "n. sing. & pl."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a virus which infects bacteria; -- also colloquially called phage in laboratory jargon."
+          ],
+          "quotes": [],
+          "notes": [
+            "Bacteriophages are of many varieties, generally specific for one or a narrow range of bacterial species, and almost every bacterium is susceptible to at least one bacteriophage. They may have DNA or RNA as their genetic component. Certain types of bacteriophage, called temperate bacteriophage, may infect but not kill their host bacteria, residing in and replicating either as a plasmid or integrated into the host genome. Under certain conditions, a resident temperate phage may become induced to multiply rapidly and vegetatively, killing and lysing its host bacterium, and producing multiple progeny. The lambda phage of Eschericia coli, much studied in biochemical and genetic research, is of the temperate type."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

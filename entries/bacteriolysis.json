@@ -1,0 +1,57 @@
+{
+  "key": "bacteriolysis",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Bacteriolysis",
+      "headword_raw": "Bac*te`ri*ol\"y*sis",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[NL.; fr. Gr. bakth`rion, ba`ktron, a staff + <?/ a loosing.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Bacteriolytic",
+          "form_raw": "Bac*te`ri*o*lyt\"ic",
+          "key": "bacteriolytic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Chemical decomposition brought about by bacteria without the addition of oxygen."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The destruction or dissolution of bacterial cells."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

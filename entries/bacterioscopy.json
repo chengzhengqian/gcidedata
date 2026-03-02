@@ -1,0 +1,79 @@
+{
+  "key": "bacterioscopy",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Bacterioscopy",
+      "headword_raw": "Bac*te`ri*os\"co*py",
+      "pr": "(bk*tē`r*s\"k*p)",
+      "pos": [
+        "n.",
+        "a.",
+        "adv."
+      ],
+      "ety": "[Bacterium + -scopy; fr. Gr. bakth`rion, ba`ktron, a staff + skopei^n to view.]",
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Bacterioscopic",
+          "form_raw": "Bac*te`ri*o*scop\"ic",
+          "key": "bacterioscopic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "scopically",
+          "form_raw": "*scop\"ic*al*ly",
+          "key": "scopically",
+          "pos": [
+            "adv."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Bacterioscopist",
+          "form_raw": "Bac*te`ri*os\"co*pist",
+          "key": "bacterioscopist",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Biol.)"
+      ],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The application of a knowledge of bacteria for their detection and identification, as in the examination of polluted water."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Microscopic examination or investigation of bacteria."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "key": "assets",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Assets",
+      "headword_raw": "As\"sets",
+      "pr": "(<?/)",
+      "pos": [
+        "n. pl."
+      ],
+      "ety": "[OF. asez enough, F. assez, fr. L. ad + satis, akin to Gr. <?/ enough, Goth. saps full. Cf. Assai, Satisfy.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "Property of a deceased person, subject by law to the payment of his debts and legacies; -- called assets because sufficient to render the executor or administrator liable to the creditors and legatees, so far as such goods or estate may extend.",
+            "Effects of an insolvent debtor or bankrupt, applicable to the payment of debts."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The entire property of all sorts, belonging to a person, a corporation, or an estate; as, the assets of a merchant or a trading association; -- opposed to liabilities."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ In balancing accounts the assets are put on the Cr. side and the debts on the Dr. side."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

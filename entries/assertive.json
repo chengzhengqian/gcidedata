@@ -1,0 +1,59 @@
+{
+  "key": "assertive",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Assertive",
+      "headword_raw": "As*sert\"ive",
+      "pr": "(<?/)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Assertively",
+          "form_raw": "As*sert\"ive*ly",
+          "key": "assertively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Assertiveness",
+          "form_raw": "As*sert\"ive*ness",
+          "key": "assertiveness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Positive; affirming confidently; affirmative; peremptory."
+          ],
+          "quotes": [
+            "In a confident and assertive form."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

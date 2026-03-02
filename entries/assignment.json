@@ -1,0 +1,52 @@
+{
+  "key": "assignment",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Assignment",
+      "headword_raw": "As*sign\"ment",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[LL. assignamentum: cf. OF. assenement.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "An allotting or an appointment to a particular person or use; or for a particular time, as of a cause or causes in court."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "A transfer of title or interest by writing, as of lease, bond, note, or bill of exchange; a transfer of the whole of some particular estate or interest in lands.",
+            "The writing by which an interest is transferred.",
+            "The transfer of the property of a bankrupt to certain persons called assignees, in whom it is vested for the benefit of creditors."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Assignment is also used in law as convertible with specification; assignment of error in proceedings for review being specification of error; and assignment of perjury or fraud in indictment being specifications of perjury or fraud."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

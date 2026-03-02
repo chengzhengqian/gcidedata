@@ -1,0 +1,51 @@
+{
+  "key": "ascending",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Ascending",
+      "headword_raw": "As*cend\"ing",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Ascendingly",
+          "form_raw": "As*cend\"ing*ly",
+          "key": "ascendingly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Astron.)",
+        "(Geneol.)",
+        "(Math.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Rising; moving upward; as, an ascending kite."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

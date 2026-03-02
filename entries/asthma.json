@@ -1,0 +1,38 @@
+{
+  "key": "asthma",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Asthma",
+      "headword_raw": "Asth\"ma",
+      "pr": "(?; 277)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. <?/ short-drawn breath, fr. <?/ to blow, for <?/: cf. Skr. vā, Goth. waian, to blow, E. wind.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A disease, characterized by difficulty of breathing (due to a spasmodic contraction of the bronchi), recurring at intervals, accompanied with a wheezing sound, a sense of constriction in the chest, a cough, and expectoration."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

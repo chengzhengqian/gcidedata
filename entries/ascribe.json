@@ -1,0 +1,60 @@
+{
+  "key": "ascribe",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Ascribe",
+      "headword_raw": "As*cribe\"",
+      "pr": "(<?/)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. ascribere, adscribere, to ascribe; ad + scribere to write: cf. OF. ascrire. See Scribe.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Ascribed (<?/); p. pr. & vb. n. Ascribing.]",
+      "usage": [
+        "Attribute denotes, 1. To refer some quality or attribute to a being; as, to attribute power to God. 2. To refer something to its cause or source; as, to attribute a backward spring to icebergs off the coast. Ascribe is used equally in both these senses, but involves a different image. To impute usually denotes to ascribe something doubtful or wrong, and hence, in general literature, has commonly a bad sense; as, to impute unworthy motives. The theological sense of impute is not here taken into view."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To attribute, impute, or refer, as to a cause; as, his death was ascribed to a poison; to ascribe an effect to the right cause; to ascribe such a book to such an author."
+          ],
+          "quotes": [
+            "The finest [speech] that is ascribed to Satan in the whole poem."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To attribute, as a quality, or an appurtenance; to consider or allege to belong."
+          ],
+          "quotes": [
+            "More than good-will to me attribute naught.",
+            "Ascribes his gettings to his parts and merit.",
+            "And fairly quit him of the imputed blame."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Ascribe",
+            "Attribute",
+            "Impute"
+          ]
+        }
+      ]
+    }
+  ]
+}

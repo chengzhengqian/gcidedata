@@ -1,0 +1,74 @@
+{
+  "key": "assert",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Assert",
+      "headword_raw": "As*sert\"",
+      "pr": "(<?/)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. assertus, p. p. of asserere to join or fasten to one's self, claim, maintain; ad + serere to join or bind together. See Series.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Asserted; p. pr. & vb. n. Asserting.]",
+      "usage": [
+        "-- To Assert, Affirm, Maintain, Vindicate. To assert is to fasten to one's self, and hence to claim. It is, therefore, adversative in its nature. We assert our rights and privileges, or the cause of tree institutions, as against opposition or denial. To affirm is to declare as true. We assert boldly; we affirm positively. To maintain is to uphold, and insist upon with earnestness, whatever we have once asserted; as, to maintain one's cause, to maintain an argument, to maintain the ground we have taken. To vindicate is to use language and measures of the strongest kind, in defense of ourselves and those for whom we act. We maintain our assertions by adducing proofs, facts, or arguments; we are ready to vindicate our rights or interests by the utmost exertion of our powers."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To affirm; to declare with assurance, or plainly and strongly; to state positively; to aver; to asseverate."
+          ],
+          "quotes": [
+            "Nothing is more shameful . . . than to assert anything to be done without a cause."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To maintain; to defend."
+          ],
+          "quotes": [
+            "That . . . I may assert Eternal Providence, And justify the ways of God to men.",
+            "I will assert it from the scandal."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To maintain or defend, as a cause or a claim, by words or measures; to vindicate a claim or title to; as, to assert our rights and liberties."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "affirm",
+            "aver",
+            "asseverate",
+            "maintain",
+            "protest",
+            "pronounce",
+            "declare",
+            "vindicate"
+          ]
+        }
+      ]
+    }
+  ]
+}

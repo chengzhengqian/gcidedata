@@ -1,0 +1,41 @@
+{
+  "key": "asteraceae",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Asteraceae",
+      "headword_raw": "Asteraceae",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a family of plants with heads composed of many florets, including the aster; daisy; dandelion; goldenrod; marigold; lettuces; ragweed; sunflower; thistle; zinnia."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Compositae",
+            "family Compositae",
+            "family Asteraceae",
+            "aster family"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "key": "assumpsit",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Assumpsit",
+      "headword_raw": "As*sump\"sit",
+      "pr": "(?; 215)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L., he undertook, pret. of L. assumere. See Assume.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Law)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A promise or undertaking, founded on a consideration. This promise may be oral or in writing not under seal. It may be express or implied.",
+            "An action to recover damages for a breach or nonperformance of a contract or promise, express or implied, oral or in writing not under seal. Common or indebitatus assumpsit is brought for the most part on an implied promise. Special assumpsit is founded on an express promise or undertaking."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

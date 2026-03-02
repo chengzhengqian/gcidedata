@@ -1,0 +1,40 @@
+{
+  "key": "assembly_language",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "assembly language",
+      "headword_raw": "assembly language",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "an artificial computer language with mnemonic codes representing the basic machine-language instructions of a computer, which can be interpreted by an assembler to produce a computer program in machine language. Also informally referred to as assembler."
+          ],
+          "quotes": [],
+          "notes": [
+            "Writing a program in assembly language is very much simpler than writing the machine instructions in binary code, and the use of such a language greatly increases the efficiency of the process of writing computer programs. See also programming language, FORTRAN, BASIC."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

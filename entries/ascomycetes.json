@@ -1,0 +1,81 @@
+{
+  "key": "ascomycetes",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Ascomycetes",
+      "headword_raw": "Ascomycetes",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "large class of higher fungi ."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "class Ascomycetes"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Ascomycetes",
+      "headword_raw": "As`co*my*ce\"tes",
+      "pr": "(?)",
+      "pos": [
+        "n. pl.",
+        "a."
+      ],
+      "ety": "[NL.; ascus + Gr. <?/, <?/, fungus.]",
+      "sources": [
+        "Webster 1913 Suppl.",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Ascomycetous",
+          "form_raw": "As`co*my*ce\"tous",
+          "key": "ascomycetous",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Bot.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A large class of higher fungi distinguished by septate hyphæ, and by having their spores formed in asci, or spore sacs; the sac fungi. It comprises many orders, among which are the yeasts, molds, mildews, truffles, morels, etc. The class is coextensive with the phylum Ascomycota."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

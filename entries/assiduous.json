@@ -1,0 +1,80 @@
+{
+  "key": "assiduous",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Assiduous",
+      "headword_raw": "As*sid\"u*ous",
+      "pr": "(<?/)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. assiduus, fr. assidēre to sit near or close; ad + sedēre to sit. See Sit.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Assiduously",
+          "form_raw": "As*sid\"u*ous*ly",
+          "key": "assiduously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Assiduousness",
+          "form_raw": "As*sid\"u*ous*ness",
+          "key": "assiduousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Constant in application or attention; devoted; attentive; unremitting."
+          ],
+          "quotes": [
+            "She grows more assiduous in her attendance."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Performed with constant diligence or attention; unremitting; persistent; as, assiduous labor."
+          ],
+          "quotes": [
+            "To weary him with my assiduous cries."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Diligent",
+            "attentive",
+            "sedulous",
+            "unwearied",
+            "unintermitted",
+            "persevering",
+            "laborious",
+            "indefatigable"
+          ]
+        }
+      ]
+    }
+  ]
+}

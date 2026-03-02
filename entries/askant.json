@@ -1,0 +1,72 @@
+{
+  "key": "askant",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Askant",
+      "headword_raw": "A*skant\"",
+      "pr": "(<?/)",
+      "pos": [
+        "adv."
+      ],
+      "ety": "[Cf. D. schuin, schuins, sideways, schuiven to shove, schuinte slope. Cf. Asquint.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Sideways; obliquely; with a side glance; with disdain, envy, or suspicion."
+          ],
+          "quotes": [
+            "They dart away; they wheel askance.",
+            "My palfrey eyed them askance.",
+            "Both . . . were viewed askance by authority."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "askant",
+      "headword_raw": "askant",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "toward the side, rather than directly ahead; -- used of a glance."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "askance",
+            "sidelong"
+          ]
+        }
+      ]
+    }
+  ]
+}

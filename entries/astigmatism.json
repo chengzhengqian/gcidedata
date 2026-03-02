@@ -1,0 +1,40 @@
+{
+  "key": "astigmatism",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Astigmatism",
+      "headword_raw": "A*stig\"ma*tism",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. 'a priv. + <?/, <?/, a prick of a pointed instrument, a spot, fr. <?/ to prick: cf. F. astigmatisme.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med. & Opt.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A defect of the eye or of a lens, in consequence of which the rays derived from one point are not brought to a single focal point, thus causing imperfect images or indistinctness of vision."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The term is applied especially to the defect causing images of lines having a certain direction to be indistinct, or imperfectly seen, while those of lines transverse to the former are distinct, or clearly seen."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

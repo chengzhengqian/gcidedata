@@ -1,0 +1,52 @@
+{
+  "key": "diesis",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Diesis",
+      "headword_raw": "Di\"e*sis",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[NL., fr. Gr. <?/, fr. <?/ to let go through, dissolve; dia` through + <?/ to let go, send.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Mus.)"
+          ],
+          "defs": [
+            "A small interval, less than any in actual practice, but used in the mathematical calculation of intervals."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Print.)"
+          ],
+          "defs": [
+            "The mark ; -- called also double dagger. It is used in printing to indicate a cross reference or footnote"
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "double obelisk"
+          ]
+        }
+      ]
+    }
+  ]
+}

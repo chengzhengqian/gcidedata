@@ -1,0 +1,40 @@
+{
+  "key": "diamine",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Diamine",
+      "headword_raw": "Di*am\"ine",
+      "pr": "(?; 104)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Pref. di- + amine.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A compound containing two amido groups united with one or more basic or positive radicals, -- as contrasted with a diamide."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ In chemical nomenclature, if any amine or diamine is named by prefixing the nitrogen group, the name of the latter takes the form of amido, diamido, etc., thus ethylene diamine, C2H4.(NH2)2, is also called diamido-ethylene."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "key": "diameter",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Diameter",
+      "headword_raw": "Di*am\"e*ter",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. diamtre, L. diametros, fr. Gr. <?/; dia` through + <?/ measure. See Meter.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Geom.)"
+          ],
+          "defs": [
+            "Any right line passing through the center of a figure or body, as a circle, conic section, sphere, cube, etc., and terminated by the opposite boundaries; a straight line which bisects a system of parallel chords drawn in a curve.",
+            "A diametral plane."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The length of a straight line through the center of an object from side to side; width; thickness; as, the diameter of a tree or rock."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ In an elongated object the diameter is usually taken at right angles to the longer axis."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Arch.)"
+          ],
+          "defs": [
+            "The distance through the lower part of the shaft of a column, used as a standard measure for all parts of the order. See Module."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "key": "digitize",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "digitize",
+      "headword_raw": "dig\"i*tize",
+      "pr": "(dj\"*tīz)",
+      "pos": [
+        "v. t."
+      ],
+      "ety": "[Digit + -ize.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To finger; as, to digitize a pen."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "To convert (information, a signal, an image) into a form expressible in numbers or in binary notation. The original signal before digitization is usually in analog form."
+          ],
+          "quotes": [],
+          "notes": [
+            "Digitization allows convenient storage, accurate reproduction, modification and other manipulations by digital computers."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

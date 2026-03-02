@@ -1,0 +1,47 @@
+{
+  "key": "dichotomous",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Dichotomous",
+      "headword_raw": "Di*chot\"o*mous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[L. dichotomos, Gr. <?/; <?/ in two, asunder + diate`mnein to cut.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Dichotomously",
+          "form_raw": "Di*chot\"o*mous*ly",
+          "key": "dichotomously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Regularly dividing by pairs from bottom to top; as, a dichotomous stem."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "key": "dictate",
+  "source_file": "CIDE.D",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Dictate",
+      "headword_raw": "Dic\"tate",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. dictatus, p. p. of dictare, freq. of dicere to say. See Diction, and cf. Dight.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Dictated; p. pr. & vb. n. Dictating.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To tell or utter so that another may write down; to inspire; to compose; as, to dictate a letter to an amanuensis."
+          ],
+          "quotes": [
+            "The mind which dictated the Iliad.",
+            "Pages dictated by the Holy Spirit."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To say; to utter; to communicate authoritatively; to deliver (a command) to a subordinate; to declare with authority; to impose; as, to dictate the terms of a treaty; a general dictates orders to his troops."
+          ],
+          "quotes": [
+            "Whatsoever is dictated to us by God must be believed."
+          ],
+          "notes": [],
+          "synonyms": [
+            "suggest",
+            "prescribe",
+            "enjoin",
+            "command",
+            "point out",
+            "urge",
+            "admonish"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Dictate",
+      "headword_raw": "Dic\"tate",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To speak as a superior; to command; to impose conditions (on)."
+          ],
+          "quotes": [
+            "Who presumed to dictate to the sovereign."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To compose literary works; to tell what shall be written or said by another."
+          ],
+          "quotes": [
+            "Sylla could not skill of letters, and therefore knew not how to dictate."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Dictate",
+      "headword_raw": "Dic\"tate",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "v. t."
+      ],
+      "ety": "[L. dictatum. See Dictate, v. t.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "Command",
+        "injunction",
+        "direction suggestion",
+        "impulse",
+        "admonition"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A statement delivered with authority; an order; a command; an authoritative rule, principle, or maxim; a prescription; as, listen to the dictates of your conscience; the dictates of the gospel."
+          ],
+          "quotes": [
+            "I credit what the Grecian dictates say."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

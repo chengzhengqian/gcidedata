@@ -1,0 +1,124 @@
+{
+  "key": "differential",
+  "source_file": "CIDE.D",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "differential",
+      "headword_raw": "dif`fer*en\"tial",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Cf. F. diffrentiel.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Relating to or indicating a difference; creating a difference; discriminating; special; as, differential characteristics; differential duties; a differential rate."
+          ],
+          "quotes": [
+            "For whom he produced differential favors."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "Of or pertaining to a differential, or to differentials."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Mech.)",
+            "(Math.)",
+            "(Polit. Econ.)",
+            "(Elec.)",
+            "(Mach.)"
+          ],
+          "defs": [
+            "Relating to differences of motion or leverage; producing effects by such differences; said of mechanism."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Differential",
+      "headword_raw": "Dif`fer*en\"tial",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "An increment, usually an indefinitely small one, which is given to a variable quantity."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ According to the more modern writers upon the differential and integral calculus, if two or more quantities are dependent on each other, and subject to increments of value, their differentials need not be small, but are any quantities whose ratios to each other are the limits to which the ratios of the increments approximate, as these increments are reduced nearer and nearer to zero."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A small difference in rates which competing railroad lines, in establishing a common tariff, allow one of their number to make, in order to get a fair share of the business. The lower rate is called a differential rate. Differentials are also sometimes granted to cities."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Elec.)",
+            "(Math.)",
+            "(Math.)"
+          ],
+          "defs": [
+            "One of two coils of conducting wire so related to one another or to a magnet or armature common to both, that one coil produces polar action contrary to that of the other.",
+            "A form of conductor used for dividing and distributing the current to a series of electric lamps so as to maintain equal action in all."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

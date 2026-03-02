@@ -1,0 +1,40 @@
+{
+  "key": "diastase",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Diastase",
+      "headword_raw": "Di\"a*stase",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. <?/ separation, fr. <?/, <?/ to stand apart; dia` through + <?/, <?/, to stand, set: cf. F. diastase. Cf. Diastasis.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physiol. Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A soluble enzyme, capable of converting starch and dextrin into sugar."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The name is more particularly applied to that enzyme formed during the germination of grain, as in the malting of barley; but it is also occasionally used to designate the amylolytic enzyme contained in animal fluids, as in the saliva."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

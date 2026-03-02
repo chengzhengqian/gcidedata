@@ -1,0 +1,84 @@
+{
+  "key": "diaphragm",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Diaphragm",
+      "headword_raw": "Di\"a*phragm",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. diaphragma, Gr. <?/, fr. <?/ to fence by a partition wall; dia` through + <?/, <?/, to fence, inclose; prob. akin to L. fareire to stuff: cf. F. diaphragme. See Farce.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A dividing membrane or thin partition, commonly with an opening through it."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Anat.)"
+          ],
+          "defs": [
+            "The muscular and tendinous partition separating the cavity of the chest from that of the abdomen; the midriff."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "A calcareous plate which divides the cavity of certain shells into two parts."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Opt.)"
+          ],
+          "defs": [
+            "A plate with an opening, which is generally circular, used in instruments to cut off marginal portions of a beam of light, as at the focus of a telescope."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Mach.)"
+          ],
+          "defs": [
+            "A partition in any compartment, for various purposes."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

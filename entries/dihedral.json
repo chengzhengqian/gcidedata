@@ -1,0 +1,59 @@
+{
+  "key": "dihedral",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Dihedral",
+      "headword_raw": "Di*he\"dral",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Gr. di- = di`s- twice + <?/ a seat, bottom, base, fr. <?/ to sit. Cf. Diedral.]",
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Having two plane faces; as, the dihedral summit of a crystal."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Of a kite or an aëroplane, having wings that make with one another a dihedral angle, esp. when the angle between the upper sides is less than 180°."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Aëronautics)"
+          ],
+          "defs": [
+            "Of wing pairs, inclined at an upward angle to each other."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

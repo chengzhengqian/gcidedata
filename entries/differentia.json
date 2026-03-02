@@ -1,0 +1,50 @@
+{
+  "key": "differentia",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "differentia",
+      "headword_raw": "dif`fer*en\"ti*a",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. See Difference.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Logic)"
+          ],
+          "defs": [
+            "The formal or distinguishing part of the essence of a species, by which it is distinguished from other members of its genus; the characteristic attribute of a species; specific difference; as, a proper definition must have both genus and differentia."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "the set of characteristics distinguishing an entity from related entities."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

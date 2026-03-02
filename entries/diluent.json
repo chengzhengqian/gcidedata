@@ -1,0 +1,79 @@
+{
+  "key": "diluent",
+  "source_file": "CIDE.D",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Diluent",
+      "headword_raw": "Dil\"u*ent",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. diluens, p. pr. diluere. See Dilute.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Diluting; making thinner or weaker by admixture, esp. of water."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Diluent",
+      "headword_raw": "Dil\"u*ent",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "That which dilutes."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "An agent used for effecting dilution of the blood; a weak drink."
+          ],
+          "quotes": [
+            "There is no real diluent but water."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

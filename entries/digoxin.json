@@ -1,0 +1,38 @@
+{
+  "key": "digoxin",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "digoxin",
+      "headword_raw": "di*gox\"in",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a steroid glycoside, one of the cardiotonic chemical substances which is extracted from the foxglove. It is a white, crystalline substance (C41H64O14), and is a 3-substituted triglucoside of a steroid, related structurally to digitalin and digitoxin. It is used as a cardiotonic for treatment of certain heart conditions, such as congestive heart failure. Chemically it is (3,5,12)-3-[(O-2,6-Dideoxy--D-ribo-hexopyranosyl-(1->4)-O-2,6-dideoxy--D-ribo-hexopyranosyl-(1->4)-2,6-dideoxy--D-ribo-hexopyranosyl)oxy]-12,14-dihydroxy-card-20(22)-enolide. The related compounds digitalin and digoxin are also extracted from the foxglove (Digitalis lanata and Digitalis purpurea). The class of steroid glycosides having cardiotonic properties are referred to as the cardiac glycosides."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

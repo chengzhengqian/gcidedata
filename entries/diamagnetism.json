@@ -1,0 +1,47 @@
+{
+  "key": "diamagnetism",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Diamagnetism",
+      "headword_raw": "Di`a*mag\"net*ism",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The science which treats of diamagnetic phenomena, and of the properties of diamagnetic bodies."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The magnetic action which characterizes diamagnetic substances, the magnetic moments of which tend to oppose an externally applied magnetic field. Contrasted with paramagnetism and ferromagnetism."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

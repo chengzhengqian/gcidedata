@@ -1,0 +1,72 @@
+{
+  "key": "go-cart",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "go-cart",
+      "headword_raw": "go\"-cart`",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A framework moving on casters, designed to support children while learning to walk."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "walker",
+            "baby-walker"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A cart used to carry heavy items and pushed by a person; it may have one, two or four wheels."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "handcart",
+            "pushcart",
+            "cart"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "a small carriage in which a baby or child is pushed around."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "baby buggy",
+            "baby carriage",
+            "perambulator",
+            "pram",
+            "stroller",
+            "pushchair",
+            "pusher"
+          ]
+        }
+      ]
+    }
+  ]
+}

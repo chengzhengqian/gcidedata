@@ -1,0 +1,72 @@
+{
+  "key": "gnomon",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Gnomon",
+      "headword_raw": "Gno\"mon",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. gnomon, Gr. <?/ one that knows, the index of a sundial. See Gnome.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Dialing)"
+          ],
+          "defs": [
+            "The style or pin, which by its shadow, shows the hour of the day. It is usually set parallel to the earth's axis."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Astron.)"
+          ],
+          "defs": [
+            "A style or column erected perpendicularly to the horizon, formerly used in astronomocal observations. Its principal use was to find the altitude of the sun by measuring the length of its shadow."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Geom.)"
+          ],
+          "defs": [
+            "The space included between the boundary lines of two similar parallelograms, the one within the other, with an angle in common; as, the gnomon bcdefg of the parallelograms ac and af. The parallelogram bf is the complement of the parallelogram df."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "The index of the hour circle of a globe."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

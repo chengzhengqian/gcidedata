@@ -1,0 +1,75 @@
+{
+  "key": "gotterdammerung",
+  "source_file": "CIDE.G",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Gotterdammerung",
+      "headword_raw": "Got`ter*dam\"mer*ung",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Götterdämmerung",
+      "headword_raw": "G<oum/t`ter*d<aum/m\"mer*ung",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[G., lit. Twilight of the Gods; a modern mistranslation of the Old Icelandic Ragnarok, meaning, fate of the gods. RHUD]",
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(German mythology)"
+      ],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A myth about the ultimate destruction of the gods in a battle with evil."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Ragnarok",
+            "Twilight of the Gods"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "An opera by Richard Wagner."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

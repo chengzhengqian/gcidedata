@@ -1,0 +1,41 @@
+{
+  "key": "goitre",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Goitre",
+      "headword_raw": "Goi\"tre",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. gotre, L. guttur throat, cf. tumidum guttur goiter, gutturosus goitered. See Guttural.]",
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "struma"
+      ],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An enlargement of the thyroid gland, on the anterior part of the neck, usually resulting from iodine deficiency; bronchocele. It is frequently associated with cretinism, and was at one time common in mountainous regions, especially in certain parts of Switzerland. The incidence of goiter has been substantially reduced by addition of iodine to ceratin foods, such as salt."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

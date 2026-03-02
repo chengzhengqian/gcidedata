@@ -1,0 +1,39 @@
+{
+  "key": "glycol",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Glycol",
+      "headword_raw": "Gly\"col",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Glycerin + -ol. See Glycerin.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A thick, colorless liquid, C2H4(OH)2, of a sweetish taste, produced artificially from certain ethylene compounds. It is a diacid alcohol, intermediate between ordinary ethyl alcohol and glycerin.",
+            "Any one of the large class of diacid alcohols, of which glycol proper is the type.<-- diol -->"
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

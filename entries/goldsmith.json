@@ -1,0 +1,50 @@
+{
+  "key": "goldsmith",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Goldsmith",
+      "headword_raw": "Gold\"smith`",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[AS. goldsmi<?/. See Gold., and Smith.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "An artisan who manufactures vessels and ornaments, etc., of gold."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "A banker."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The goldsmiths of London formerly received money on deposit because they were prepared to keep it safely."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

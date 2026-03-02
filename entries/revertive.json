@@ -1,0 +1,49 @@
+{
+  "key": "revertive",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Revertive",
+      "headword_raw": "Re*vert\"ive",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Revertively",
+          "form_raw": "Re*vert\"ive*ly",
+          "key": "revertively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Reverting, or tending to revert; returning."
+          ],
+          "quotes": [
+            "The tide revertive, unattracted, leaves A yellow waste of idle sands behind."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

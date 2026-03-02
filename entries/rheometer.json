@@ -1,0 +1,50 @@
+{
+  "key": "rheometer",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Rheometer",
+      "headword_raw": "Rhe*om\"e*ter",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. \"rei^n to flow + -meter.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Physics)"
+          ],
+          "defs": [
+            "An instrument for measuring currents, especially the force or intensity of electrical currents; a galvanometer."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Physiol.)"
+          ],
+          "defs": [
+            "An instrument for measuring the velocity of the blood current in the arteries."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "key": "ridiculous",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Ridiculous",
+      "headword_raw": "Ri*dic\"u*lous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. ridiculosus, ridiculus, fr. ridere to laigh. Cf. Risible.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Ridiculously",
+          "form_raw": "Ri*dic\"u*lous*ly",
+          "key": "ridiculously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Ridiculousness",
+          "form_raw": "Ri*dic\"u*lous*ness",
+          "key": "ridiculousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Fitted to excite ridicule; absurd and laughable; unworthy of serious consideration; as, a ridiculous dress or behavior."
+          ],
+          "quotes": [
+            "Agricola, discerning that those little targets and unwieldy glaives ill pointed would soon become ridiculous against the thrust and close, commanded three Batavian cohorts . . . to draw up and come to handy strokes."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Involving or expressing ridicule."
+          ],
+          "quotes": [
+            "[It] provokes me to ridiculous smiling."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Ludicrous",
+            "laughable",
+            "risible",
+            "droll",
+            "comical",
+            "absurd",
+            "preposterous. See Ludicrous"
+          ]
+        }
+      ]
+    }
+  ]
+}

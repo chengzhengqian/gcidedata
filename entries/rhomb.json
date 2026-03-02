@@ -1,0 +1,51 @@
+{
+  "key": "rhomb",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Rhomb",
+      "headword_raw": "Rhomb",
+      "pr": "(rmb or rm; 277)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. rhombus, Gr. \"ro`mbos rhomb, a spinning top, magic wheel, fr. \"re`mbein to turn or whirl round, perhaps akin to E. wrench: cf. F. rhombe. Cf. Rhombus, Rhumb.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Geom.)"
+          ],
+          "defs": [
+            "An equilateral parallelogram, or quadrilateral figure whose sides are equal and the opposite sides parallel. The angles may be unequal, two being obtuse and two acute, as in the cut, or the angles may be equal, in which case it is usually called a square."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Geom.)",
+            "(Opt.)"
+          ],
+          "defs": [
+            "A rhombohedron."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

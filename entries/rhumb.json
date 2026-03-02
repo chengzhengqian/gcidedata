@@ -1,0 +1,38 @@
+{
+  "key": "rhumb",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Rhumb",
+      "headword_raw": "Rhumb",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. rumb, Sp. rumbo, or Pg. rumbo, rumo, probably fr. Gr. <?/<?/<?/ a magic wheel, a whirling motion, hence applied to a point of the compass. See Rhomb.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Navigation)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A line which crosses successive meridians at a constant angle; -- called also rhumb line, and loxodromic curve. See Loxodromic."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

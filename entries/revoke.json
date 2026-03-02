@@ -1,0 +1,158 @@
+{
+  "key": "revoke",
+  "source_file": "CIDE.R",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Revoke",
+      "headword_raw": "Re*voke\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[F. rvoquer, L. revocare; pref. re- re- + vocare to call, fr. vox, vocis, voice. See Voice, and cf. Revocate.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Revoked (?);p. pr. & vb. n. Revoking.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To call or bring back; to recall."
+          ],
+          "quotes": [
+            "The faint sprite he did revoke again, To her frail mansion of morality."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Hence, to annul, by recalling or taking back; to repeal; to rescind; to cancel; to reverse, as anything granted by a special act; as, , to revoke a will, a license, a grant, a permission, a law, or the like."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To hold back; to repress; to restrain."
+          ],
+          "quotes": [
+            "[She] still strove their sudden rages to revoke."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "To draw back; to withdraw."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "To call back to mind; to recollect."
+          ],
+          "quotes": [
+            "A man, by revoking and recollecting within himself former passages, will be still apt to inculcate these sad memoris to his conscience."
+          ],
+          "notes": [],
+          "synonyms": [
+            "abolish",
+            "recall",
+            "repeal",
+            "rescind",
+            "countermand",
+            "annul",
+            "abrogate",
+            "cancel",
+            "reverse. See Abolish"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Revoke",
+      "headword_raw": "Re*voke\"",
+      "pr": "(?)",
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Card Playing)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To fail to follow suit when holding a card of the suit led, in violation of the rule of the game; to renege."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Revoke",
+      "headword_raw": "Re*voke\"",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Card Playing)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The act of revoking."
+          ],
+          "quotes": [
+            "She [Sarah Battle] never made a revoke."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

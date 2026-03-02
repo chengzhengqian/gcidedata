@@ -1,0 +1,72 @@
+{
+  "key": "rife",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Rife",
+      "headword_raw": "Rife",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[AS. rīf abundant, or Icel. rīfr munificent; akin to OD. riff, rijve, abundant.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Rifely",
+          "form_raw": "Rife\"ly",
+          "key": "rifely",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Rifeness",
+          "form_raw": "Rife\"ness",
+          "key": "rifeness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Prevailing; prevalent; abounding."
+          ],
+          "quotes": [
+            "Before the plague of London, inflammations of the lungs were rife and mortal.",
+            "Even now the tumult of loud mirth Was rife, and perfect in may listening ear."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Having power; active; nimble."
+          ],
+          "quotes": [
+            "What! I am rife a little yet."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

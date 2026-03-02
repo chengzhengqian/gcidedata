@@ -1,0 +1,79 @@
+{
+  "key": "rheumatic",
+  "source_file": "CIDE.R",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Rheumatic",
+      "headword_raw": "Rheu*mat\"ic",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Gr. <?/<?/<?/ subject to a discharge or flux: cf. L. rheumaticus, F. rhumatique. See Rheum, Rheumatism.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Derived from, or having the character of, rheum; rheumic."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "Of or pertaining to rheumatism; as, rheumatic pains or affections; affected with rheumatism; as, a rheumatic old man; causing rheumatism; as, a rheumatic day."
+          ],
+          "quotes": [
+            "That rheumatic diseases do abound."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Rheumatic",
+      "headword_raw": "Rheu*mat\"ic",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "One affected with rheumatism."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

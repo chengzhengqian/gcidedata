@@ -1,0 +1,57 @@
+{
+  "key": "revocable",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Revocable",
+      "headword_raw": "Rev\"o*ca*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[L. revocabilis: cf. F. rvocable. See Revoke.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Revocableness",
+          "form_raw": "Rev\"o*ca*ble*ness",
+          "key": "revocableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Revocably",
+          "form_raw": "Rev\"o*ca*bly",
+          "key": "revocably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Capable of being revoked; as, a revocable edict or grant; a revocable covenant."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

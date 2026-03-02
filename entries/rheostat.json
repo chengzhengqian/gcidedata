@@ -1,0 +1,49 @@
+{
+  "key": "rheostat",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Rheostat",
+      "headword_raw": "Rhe\"o*stat",
+      "pr": "(rē\"*stt)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Gr. \"rei^n + stato`s standing still.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Rheostatic",
+          "form_raw": "Rhe`o*stat\"ic",
+          "key": "rheostatic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Elec.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A contrivance for adjusting or regulating the strength of electrical currents, operating usually by the intercalation of resistance which can be varied at will."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

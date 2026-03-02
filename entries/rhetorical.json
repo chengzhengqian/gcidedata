@@ -1,0 +1,59 @@
+{
+  "key": "rhetorical",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Rhetorical",
+      "headword_raw": "Rhe*tor\"ic*al",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. rhetoricus, Gr. <?/<?/<?/<?/. See Rhetoric.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Rhetorically",
+          "form_raw": "Rhe*tor\"ic*al*ly",
+          "key": "rhetorically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Rhetoricalness",
+          "form_raw": "Rhe*tor\"ic*al*ness",
+          "key": "rhetoricalness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to rhetoric; according to, or exhibiting, rhetoric; oratorical; as, the rhetorical art; a rhetorical treatise; a rhetorical flourish."
+          ],
+          "quotes": [
+            "They permit him to leave their poetical taste ungratified, provided that he gratifies their rhetorical sense."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "key": "rigorous",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Rigorous",
+      "headword_raw": "Rig\"or*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[F. rigoureux, LL. rigorosus. See Rigor.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Rigorously",
+          "form_raw": "Rig\"or*ous*ly",
+          "key": "rigorously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Rigorousness",
+          "form_raw": "Rig\"or*ous*ness",
+          "key": "rigorousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Manifesting, exercising, or favoring rigor; allowing no abatement or mitigation; scrupulously accurate; exact; strict; severe; relentless; as, a rigorous officer of justice; a rigorous execution of law; a rigorous definition or demonstration."
+          ],
+          "quotes": [
+            "He shall be thrown down the Tarpeian Rock With rigorous hands.",
+            "We do not connect the scattered phenomena into their rigorous unity."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Severe; intense; inclement; as, a rigorous winter."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Violent."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Mathematics, Logic)"
+          ],
+          "defs": [
+            "Adhering scrupulously and exactly to accepted principles; hence, logically valid; as, a rigorous proof."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Rigid",
+            "inflexible",
+            "unyielding",
+            "stiff",
+            "severe",
+            "austere",
+            "stern",
+            "harsh",
+            "strict",
+            "exact"
+          ]
+        }
+      ]
+    }
+  ]
+}

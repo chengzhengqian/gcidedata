@@ -1,0 +1,85 @@
+{
+  "key": "update",
+  "source_file": "CIDE.U",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "update",
+      "headword_raw": "up\"date",
+      "pr": "(p\"dāt` or p*dāt\")",
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To make corrections or to add new information to (a document) so as to include the most recent information; as, we update the sales database every night; the book was updated and sold as a new edition. Used often of computerized data bases and documents."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To inform (a person) of the most recent information concerning a topic; as, I updated the director on the status of the project."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "update",
+      "headword_raw": "up\"date",
+      "pr": "(p\"dāt`)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The event or process of updating (in either sense); the information provided in the process of updating; as, I gave the director the latest update on the project; the update took over an hour."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The document or database which results from a process of updating; and updated document or database; as, they distributed the update over the internet."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

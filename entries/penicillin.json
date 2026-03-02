@@ -1,0 +1,40 @@
+{
+  "key": "penicillin",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "penicillin",
+      "headword_raw": "pen`i*cil\"lin",
+      "pr": "(pn`*sl\"ln)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[From Penicillium, the fungus genus from which it was first isolated.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Any of a variety of substances having a structure containing a beta-lactam ring fused to a thiirane ring, to which a carboxyl group is attached, but most commonly interpreted as benzyl penicillin. They are notable as powerful antibacterial agents of relatively low toxicity which have found extensive use in medicine for treating bacterial infections. They are categorized as one of the classes of beta-lactam antibiotic. They are produced naturally by some fungi and bacteria, and industrial production processes almost invariably start from some form of the penicillin nucleus produced by fermentation of microorganisms. The fermentation products are then chemically modified to produce derivatives of enhanced potency, safety, or antibacterial spectrum. The first penicillin to see extensive use clinically (during World War II) was penicillin G, also called benzypenicillin, and commonly simply “penicillin”."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞The characteristic portion of the structure characterizing a penicillin is the bicyclic structure 3,3-Dimethyl-7-oxo-4-thia-1-azabicylo[3.2.0]heptane-2-carboxylic acid. The different penicillins have varying acyl groups forming an amide bond with a nitrogen attached to the 6-carbon of this nucleus. This distinguishes it from the other classes of beta-lactam antibiotic, the cephalosporins, thienamycins and sulfazecin."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

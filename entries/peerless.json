@@ -1,0 +1,59 @@
+{
+  "key": "peerless",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Peerless",
+      "headword_raw": "Peer\"less",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Peerlessly",
+          "form_raw": "Peer\"less*ly",
+          "key": "peerlessly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Peerlessness",
+          "form_raw": "Peer\"less*ness",
+          "key": "peerlessness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Having no peer or equal; matchless; superlative."
+          ],
+          "quotes": [
+            "Unvailed her peerless light."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

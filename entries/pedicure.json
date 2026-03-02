@@ -1,0 +1,86 @@
+{
+  "key": "pedicure",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Pedicure",
+      "headword_raw": "Ped\"i*cure",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "v. t."
+      ],
+      "ety": "[Pedi- + L. cura care.]",
+      "sources": [
+        "Webster 1913 Suppl.",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Pedicure",
+          "form_raw": "Ped\"i*cure",
+          "key": "pedicure",
+          "pos": [
+            "v. t."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Pedicurism",
+          "form_raw": "Ped\"i*cur*ism",
+          "key": "pedicurism",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Pedicurist",
+          "form_raw": "Ped\"i*cur*ist",
+          "key": "pedicurist",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Professional care of the feet, toes, and toenails."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A single treatment of the feet, toes, and toenails."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "One who cares for the feet and nails; a chiropodist."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

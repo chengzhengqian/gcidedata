@@ -1,0 +1,79 @@
+{
+  "key": "peewit",
+  "source_file": "CIDE.P",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Peewit",
+      "headword_raw": "Pee\"wit",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Zool.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "See Pewit."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "peewit",
+      "headword_raw": "peewit",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "lapwing",
+        "green plover",
+        "pewit",
+        "peevit",
+        "peerwit"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Any of several small olive-colored woodland flycatchers of eastern North America."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "pewee",
+            "peewee",
+            "pewit",
+            "wood pewee",
+            "Contopus virens"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "key": "pedigree",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Pedigree",
+      "headword_raw": "Ped\"i*gree",
+      "pr": "(pd\"*grē)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Of unknown origin; possibly fr. F. par degrs by degrees, -- for a pedigree is properly a genealogical table which records the relationship of families by degrees; or, perh., fr. F. pied de grue crane's foot, from the shape of the heraldic genealogical trees.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A line of ancestors; descent; lineage; genealogy; a register or record of a line of ancestors."
+          ],
+          "quotes": [
+            "Alterations of surnames . . . have obscured the truth of our pedigrees.",
+            "His vanity labored to contrive us a pedigree.",
+            "I am no herald to inquire of men's pedigrees.",
+            "The Jews preserved the pedigrees of their tribes."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Stock Breeding)"
+          ],
+          "defs": [
+            "A record of the lineage or strain of an animal, as of a horse."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

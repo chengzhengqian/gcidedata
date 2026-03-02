@@ -1,0 +1,38 @@
+{
+  "key": "pelvimetry",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Pelvimetry",
+      "headword_raw": "Pel*vim\"e*try",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Pelvis + -metry.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The measurement of the pelvis."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

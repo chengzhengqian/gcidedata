@@ -1,0 +1,38 @@
+{
+  "key": "penicillinase",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Penicillinase",
+      "headword_raw": "Pen`i*cil\"lin*ase",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Bioch.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An enzyme which destroys the antibacterial activity of penicillin by hydrolyzing the amide bond in the beta-lactam ring. Many penicillinases are known, and are produced by a wide variety of bacteria. The production of penicillinase is one of the mechanisms by which bacteria may become resistant to penicillins. Penicillinase production in various bacterial species may be induced, i.e., it may occur only when stimulated by the presence of penicillin in the culture medium, or it may be constitutive, i.e., it may occur whenever the cells are producing protein. Molecular weights of the various penicillinases tend to cluster near 50,000."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "key": "pensioner",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Pensioner",
+      "headword_raw": "Pen\"sion*er",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. pensionnaire one who pays for his board. Cf. Pensionary, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One in receipt of a pension; hence, figuratively, a dependent."
+          ],
+          "quotes": [
+            "The fickle pensioners of Morpheus' train.",
+            "Old pensioners . . . of Chelsea Hospital."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "One of an honorable band of gentlemen who attend the sovereign of England on state occasions, and receive an annual pension, or allowance, of 150 and two horses."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "In the university of Cambridge, England, one who pays for his living in commons; -- corresponding to commoner at Oxford."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

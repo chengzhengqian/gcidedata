@@ -1,0 +1,98 @@
+{
+  "key": "scrupulous",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Scrupulous",
+      "headword_raw": "Scru\"pu*lous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. scrupulosus: cf. F. scrupuleux.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Scrupulously",
+          "form_raw": "Scru\"pu*lous*ly",
+          "key": "scrupulously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Scrupulousness",
+          "form_raw": "Scru\"pu*lous*ness",
+          "key": "scrupulousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Full of scruples; inclined to scruple; nicely doubtful; hesitating to determine or to act, from a fear of offending or of doing wrong."
+          ],
+          "quotes": [
+            "Abusing their liberty, to the offense of their weak brethren which were scrupulous."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Careful; cautious; exact; nice; as, scrupulous abstinence from labor; scrupulous performance of duties."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Given to making objections; captious."
+          ],
+          "quotes": [
+            "Equality of two domestic powers Breed scrupulous faction."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Liable to be doubted; doubtful; nice."
+          ],
+          "quotes": [
+            "The justice of that cause ought to be evident; not obscure, not scrupulous."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Cautious",
+            "careful",
+            "conscientious",
+            "hesitating"
+          ]
+        }
+      ]
+    }
+  ]
+}

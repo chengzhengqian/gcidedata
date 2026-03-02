@@ -1,0 +1,69 @@
+{
+  "key": "scrofulous",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Scrofulous",
+      "headword_raw": "Scrof\"u*lous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Cf. F. scrofuleux.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Scrofulously",
+          "form_raw": "Scrof\"u*lous*ly",
+          "key": "scrofulously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Scrofulousness",
+          "form_raw": "Scrof\"u*lous*ness",
+          "key": "scrofulousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Pertaining to scrofula, or partaking of its nature; as, scrofulous tumors; a scrofulous habit of body."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Diseased or affected with scrofula."
+          ],
+          "quotes": [
+            "Scrofulous persons can never be duly nourished."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

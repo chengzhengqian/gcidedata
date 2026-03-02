@@ -1,0 +1,85 @@
+{
+  "key": "scurrilous",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Scurrilous",
+      "headword_raw": "Scur\"ril*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[See Scurrile.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Scurrilously",
+          "form_raw": "Scur\"ril*ous*ly",
+          "key": "scurrilously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Scurrilousness",
+          "form_raw": "Scur\"ril*ous*ness",
+          "key": "scurrilousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Using the low and indecent language of the meaner sort of people, or such as only the license of buffoons can warrant; as, a scurrilous fellow."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Containing low indecency or abuse; mean; foul; vile; obscenely jocular; as, scurrilous language."
+          ],
+          "quotes": [
+            "The absurd and scurrilous sermon which had very unwisely been honored with impeachment."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Opprobrious",
+            "abusive",
+            "reproachful",
+            "insulting",
+            "insolent",
+            "offensive",
+            "gross",
+            "vile",
+            "vulgar",
+            "low",
+            "foul",
+            "foul-mouthed",
+            "indecent",
+            "scurrile",
+            "mean"
+          ]
+        }
+      ]
+    }
+  ]
+}

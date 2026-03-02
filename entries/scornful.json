@@ -1,0 +1,78 @@
+{
+  "key": "scornful",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Scornful",
+      "headword_raw": "Scorn\"ful",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Scornfully",
+          "form_raw": "Scorn\"ful*ly",
+          "key": "scornfully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Scornfulness",
+          "form_raw": "Scorn\"ful*ness",
+          "key": "scornfulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Full of scorn or contempt; contemptuous; disdainful."
+          ],
+          "quotes": [
+            "Scornful of winter's frost and summer's sun.",
+            "Dart not scornful glances from those eyes."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Treated with scorn; exciting scorn."
+          ],
+          "quotes": [
+            "The scornful mark of every open eye."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Contemptuous",
+            "disdainful",
+            "contumelious",
+            "reproachful",
+            "insolent"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "key": "screening",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Screening",
+      "headword_raw": "Screen\"ing",
+      "pr": "(skrēn\"ng)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "the process of examining or testing objects methodically to find those having desirable properties. See screen{3}."
+          ],
+          "quotes": [],
+          "notes": [
+            "In the pharmaceutical industry, pharmaceutical screening involves testing a large number of samples of substances to find those having desirable pharmacological activity; those samples which have the property sought are called active or positive in the screen. The substances tested may be pure compounds with known structure, mixtures of pure compounds, or complex mixtures obtained by extraction from living organisms. There are often additional sets of test performed on active samples, called counterscreening to eliminate those samples that may also possess undesirable properties. In the case of screening of mixtures from living organisms, a type of counterscreening called dereplication is usually performed, to determine if the active sample contains a known compound which has previously been studied."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

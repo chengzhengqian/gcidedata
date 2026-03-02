@@ -1,0 +1,75 @@
+{
+  "key": "scroll",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Scroll",
+      "headword_raw": "Scroll",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[A dim. of OE. scroue, scrowe (whence E. escrow), OF. escroe, escroue, F. crou entry in the jail book, LL. scroa scroll, probably of Teutonic origin; cf. OD. schroode a strip, shred, slip of paper, akin to E. shred. Cf. Shred, Escrow.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A roll of paper or parchment; a writing formed into a roll; a schedule; a list."
+          ],
+          "quotes": [
+            "The heavens shall be rolled together as a scroll.",
+            "Here is the scroll of every man's name."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Arch.)"
+          ],
+          "defs": [
+            "An ornament formed of undulations giving off spirals or sprays, usually suggestive of plant form. Roman architectural ornament is largely of some scroll pattern."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A mark or flourish added to a person's signature, intended to represent a seal, and in some States allowed as a substitute for a seal."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Geom.)",
+            "(Arch.)",
+            "(Mach.)"
+          ],
+          "defs": [
+            "Same as Skew surface. See under Skew."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

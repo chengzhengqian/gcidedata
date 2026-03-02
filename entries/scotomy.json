@@ -1,0 +1,48 @@
+{
+  "key": "scotomy",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Scotomy",
+      "headword_raw": "Scot\"o*my",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[NL. scotomia, from Gr. <?/ dizziness, fr. <?/ to darken, fr. sko`tos darkness: cf. F. scotomie.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Dizziness with dimness of sight."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "Obscuration of the field of vision due to the appearance of a dark spot before the eye."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

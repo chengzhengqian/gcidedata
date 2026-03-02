@@ -1,0 +1,60 @@
+{
+  "key": "exalted",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Exalted",
+      "headword_raw": "Ex*alt\"ed",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Exaltedly",
+          "form_raw": "Ex*alt\"ed*ly",
+          "key": "exaltedly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Exaltedness",
+          "form_raw": "Ex*alt\"ed*ness",
+          "key": "exaltedness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Raised to lofty height; elevated; extolled; refined; dignified; sublime."
+          ],
+          "quotes": [
+            "Wiser far than Solomon, Of more exalted mind.",
+            "Time never fails to bring every exalted reputation to a strict scrutiny."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

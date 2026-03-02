@@ -1,0 +1,61 @@
+{
+  "key": "excavation",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Excavation",
+      "headword_raw": "Ex`ca*va\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. excavatio: cf. F. excavation.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of excavating, or of making hollow, by cutting, scooping, or digging out a part of a solid mass."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A cavity formed by cutting, digging, or scooping."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Engin.)"
+          ],
+          "defs": [
+            "An uncovered cutting in the earth, in distinction from a covered cutting or tunnel.",
+            "The material dug out in making a channel or cavity."
+          ],
+          "quotes": [
+            "The delivery of the excavations at a distance of 250 feet."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "key": "evasive",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "evasive",
+      "headword_raw": "e*va\"sive",
+      "pr": "(*vā\"sv)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Cf. F. vasif. See Evade.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Evasively",
+          "form_raw": "E*va\"sive*ly",
+          "key": "evasively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Evasiveness",
+          "form_raw": "E*va\"sive*ness",
+          "key": "evasiveness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Tending to evade, or marked by evasion; elusive; shuffling; avoiding by artifice."
+          ],
+          "quotes": [
+            "Thus he, though conscious of the ethereal guest, Answered evasive of the sly request.",
+            "Stammered out a few evasive phrases."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

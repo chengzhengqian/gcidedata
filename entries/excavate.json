@@ -1,0 +1,62 @@
+{
+  "key": "excavate",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Excavate",
+      "headword_raw": "Ex\"ca*vate",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. excavatus, p. p. of excavare to excavate; ex out + cavare to make hollow, cavus hollow. See Cave.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Excavated(?); p. pr. & vb. n. Excavating(?).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To hollow out; to form cavity or hole in; to make hollow by cutting, scooping, or digging; as, to excavate a ball; to excavate the earth."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To form by hollowing; to shape, as a cavity, or anything that is hollow; as, to excavate a canoe, a cellar, a channel."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Engin.)"
+          ],
+          "defs": [
+            "To dig out and remove, as earth."
+          ],
+          "quotes": [
+            "The material excavated was usually sand."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

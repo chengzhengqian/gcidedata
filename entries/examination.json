@@ -1,0 +1,60 @@
+{
+  "key": "examination",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Examination",
+      "headword_raw": "Ex*am`i*na\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. examinatio: cf. F. examination.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of examining, or state of being examined; a careful search, investigation, or inquiry; scrutiny by study or experiment."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)",
+            "(Law)"
+          ],
+          "defs": [
+            "A process prescribed or assigned for testing qualification; as, the examination of a student, or of a candidate for admission to the bar or the ministry."
+          ],
+          "quotes": [
+            "He neglected the studies, . . . stood low at the examinations."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Search",
+            "inquiry",
+            "investigation",
+            "research",
+            "scrutiny",
+            "inquisition",
+            "inspection",
+            "exploration"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "key": "event_horizon",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "event horizon",
+      "headword_raw": "e*vent\" ho*ri\"zon",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physics, Astron.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "the boundary surface surrounding a black hole, from outside of which nothing inside can be observed, because nothing inside that surface, even light, can escape beyond it. See also black hole and escape velocity."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

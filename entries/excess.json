@@ -1,0 +1,64 @@
+{
+  "key": "excess",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Excess",
+      "headword_raw": "Ex*cess\"",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. exces, excess, ecstasy, L. excessus a going out, loss of self-possession, fr. excedere, excessum, to go out, go beyond: cf. F. excs. See Exceed.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The state of surpassing or going beyond limits; the being of a measure beyond sufficiency, necessity, or duty; that which exceeds what is usual or proper; immoderateness; superfluity; superabundance; extravagance; as, an excess of provisions or of light."
+          ],
+          "quotes": [
+            "To gild refined gold, to paint the lily, To throw a perfume on the violet, . . . Is wasteful and ridiculous excess.",
+            "That kills me with excess of grief, this with excess of joy."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "An undue indulgence of the appetite; transgression of proper moderation in natural gratifications; intemperance; dissipation."
+          ],
+          "quotes": [
+            "Be not drunk with wine, wherein is excess.",
+            "Thy desire . . . leads to no excess That reaches blame."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Geom.)"
+          ],
+          "defs": [
+            "The degree or amount by which one thing or number exceeds another; remainder; as, the difference between two numbers is the excess of one over the other."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "key": "excessive",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Excessive",
+      "headword_raw": "Ex*cess\"ive",
+      "pr": "(k*ss\"v)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Cf. F. excessif.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Excessively",
+          "form_raw": "Ex*cess*ive*ly",
+          "key": "excessively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Excessiveness",
+          "form_raw": "Ex*cess\"ive*ness",
+          "key": "excessiveness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Undue",
+        "exorbitant",
+        "extreme",
+        "overmuch",
+        "enormous",
+        "immoderate",
+        "monstrous",
+        "intemperate",
+        "unreasonable. See Enormous"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Characterized by, or exhibiting, excess; overmuch."
+          ],
+          "quotes": [
+            "Excessive grief [is] the enemy to the living."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

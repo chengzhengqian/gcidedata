@@ -1,0 +1,52 @@
+{
+  "key": "exclude",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Exclude",
+      "headword_raw": "Ex*clude\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. excludere, exclusum; ex out + claudere to shut. See Close.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Excluded; p. pr. & vb. n. Excluding.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To shut out; to hinder from entrance or admission; to debar from participation or enjoyment; to deprive of; to except; -- the opposite to admit; as, to exclude a crowd from a room or house; to exclude the light; to exclude one nation from the ports of another; to exclude a taxpayer from the privilege of voting."
+          ],
+          "quotes": [
+            "And none but such, from mercy I exclude."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(logic)"
+          ],
+          "defs": [
+            "To thrust out or eject; to expel; as, to exclude young animals from the womb or from eggs."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

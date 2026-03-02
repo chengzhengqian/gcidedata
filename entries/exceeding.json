@@ -1,0 +1,79 @@
+{
+  "key": "exceeding",
+  "source_file": "CIDE.E",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Exceeding",
+      "headword_raw": "Ex*ceed\"ing",
+      "pr": null,
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Exceedingness",
+          "form_raw": "Ex*ceed\"ing*ness",
+          "key": "exceedingness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "More than usual; extraordinary; more than sufficient; measureless."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Exceeding",
+      "headword_raw": "Ex*ceed\"ing",
+      "pr": null,
+      "pos": [
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "In a very great degree; extremely; exceedingly."
+          ],
+          "quotes": [
+            "His raiment became shining, exceeding white as snow.",
+            "The Genoese were exceeding powerful by sea."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

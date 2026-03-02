@@ -1,0 +1,49 @@
+{
+  "key": "exceptional",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Exceptional",
+      "headword_raw": "Ex*cep\"tion*al",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[Cf. F. exceptionnel.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Exceptionally",
+          "form_raw": "Ex*cep\"tion*al*ly",
+          "key": "exceptionally",
+          "pos": [
+            "adv."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Forming an exception; not ordinary; uncommon; rare; hence, better than the average; superior."
+          ],
+          "quotes": [
+            "This particular spot had exceptional advantages."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

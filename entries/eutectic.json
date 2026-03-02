@@ -1,0 +1,69 @@
+{
+  "key": "eutectic",
+  "source_file": "CIDE.E",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "eutectic",
+      "headword_raw": "eu*tec\"tic",
+      "pr": "(ū*tk\"tk)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Gr. e'y`thktos easily melted; e'y^ well + th`kein to melt.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of maximum fusibility; -- said of an alloy or mixture which has the lowest melting point which it is possible to obtain by the combination of the given components."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "eutectic",
+      "headword_raw": "eutectic",
+      "pr": "(ū*tk\"tk)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "eutectic mixture"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a mixture of substances having a composition providing the minimum melting point for mixtures of those substances. Called also a eutectic mixture."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

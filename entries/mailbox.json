@@ -1,0 +1,65 @@
+{
+  "key": "mailbox",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "mailbox",
+      "headword_raw": "mail\"box`",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A public box for deposit of mail, where it is later picked up by the postal authority for delivery."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "postbox",
+            "letter box"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A private box to recieve delivery of mail. The term is used both for boxes receiving mail delivered by the public postal authority, or by a private services, such as for mail to employees in large corporations."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "letter box"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "A location within a computer storage device where electronic mail is held until it is retrieved by the addressee. Creation and use of an electronic mailbox requires special software as well as a data storage device."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "key": "magnum",
+  "source_file": "CIDE.M",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Magnum",
+      "headword_raw": "Mag\"num",
+      "pr": "(mg\"nm)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Neut. sing. of L. magnus great.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A large wine bottle."
+          ],
+          "quotes": [
+            "They passed the magnum to one another freely."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Anat.)"
+          ],
+          "defs": [
+            "A bone of the carpus at the base of the third metacarpal bone."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A magnum pistol, or the cartridge such a pistol uses; as, he always carried a .44 magnum."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "magnum",
+      "headword_raw": "mag\"num",
+      "pr": "(mg\"nm)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Firearms)"
+          ],
+          "defs": [
+            "Having a larger charge than usual for a cartridge of the same caliber; -- of cartridges for handgun; as, a .44 magnum cartridge."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Firearms)"
+          ],
+          "defs": [
+            "Designed to use a cartridge with a larger charge than usual for handguns of the same caliber; -- of handguns; as, a .44 magnum pistol."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

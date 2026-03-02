@@ -1,0 +1,100 @@
+{
+  "key": "maim",
+  "source_file": "CIDE.M",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Maim",
+      "headword_raw": "Maim",
+      "pr": "(mām)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OE. maimen, OF. mahaignier, mehaignier, meshaignier, cf. It. magagnare, LL. mahemiare, mahennare; perh. of Celtic origin; cf. Armor. mac'haña to mutilate, māc'ha to crowd, press; or cf. OHG. mangōn to lack, perh. akin to E. mangle to lacerate. Cf. Mayhem.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Maimed (māmd);p. pr. & vb. n. Maiming.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To deprive of the use of a limb, so as to render a person in fighting less able either to defend himself or to annoy his adversary."
+          ],
+          "quotes": [
+            "By the ancient law of England he that maimed any man whereby he lost any part of his body, was sentenced to lose the like part."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To mutilate; to cripple; to injure; to disable; to impair."
+          ],
+          "quotes": [
+            "My late maimed limbs lack wonted might.",
+            "You maimed the jurisdiction of all bishops."
+          ],
+          "notes": [],
+          "synonyms": [
+            "mutilate",
+            "mangle",
+            "cripple"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Maim",
+      "headword_raw": "Maim",
+      "pr": null,
+      "pos": [
+        "n.",
+        "v."
+      ],
+      "ety": "[OF. mehaing. See Maim, v.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The privation of the use of a limb or member of the body, by which one is rendered less able to defend himself or to annoy his adversary."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The privation of any necessary part; a crippling; mutilation; injury; deprivation of something essential. See Mayhem."
+          ],
+          "quotes": [
+            "Surely there is more cause to fear lest the want there of be a maim than the use of it a blemish.",
+            "A noble author esteems it to be a maim in history that the acts of Parliament should not be recited."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

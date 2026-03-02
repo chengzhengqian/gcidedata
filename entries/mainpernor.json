@@ -1,0 +1,40 @@
+{
+  "key": "mainpernor",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Mainpernor",
+      "headword_raw": "Main\"per*nor",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OF. main hand + pernor, for preneor, a taker, F. preneur, fr. prendre to take.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Law)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A surety, under the old writ of mainprise, for a prisoner's appearance in court at a day."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Mainpernors differ from bail in that a man's bail may imprison or surrender him before the stipulated day of appearance; mainpernors can do neither; they are bound to produce him to answer all charges whatsoever."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

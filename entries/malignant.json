@@ -1,0 +1,106 @@
+{
+  "key": "malignant",
+  "source_file": "CIDE.M",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "malignant",
+      "headword_raw": "ma*lig\"nant",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. malignans, -antis, p. pr. of malignare, malignari, to do or make maliciously. See Malign, and cf. Benignant.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Disposed to do harm, inflict suffering, or cause distress; actuated by extreme malevolence or enmity; virulently inimical; bent on evil; malicious."
+          ],
+          "quotes": [
+            "A malignant and a turbaned Turk."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Characterized or caused by evil intentions; pernicious."
+          ],
+          "quotes": [
+            "Some malignant power upon my life.",
+            "Something deleterious and malignant as his touch."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Med.)",
+            "(Med.)"
+          ],
+          "defs": [
+            "Tending to produce death; threatening a fatal issue; virulent; as, malignant diphtheria."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Malignant",
+      "headword_raw": "Ma*lig\"nant",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A man of extreme enmity or evil intentions."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Eng. Hist.)"
+          ],
+          "defs": [
+            "One of the adherents of Charles I. or Charles II.; -- so called by the opposite party."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

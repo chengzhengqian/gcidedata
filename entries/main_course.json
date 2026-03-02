@@ -1,0 +1,51 @@
+{
+  "key": "main_course",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "main course",
+      "headword_raw": "main course",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The principal part of a meal."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "entree"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Nautical)"
+          ],
+          "defs": [
+            "A square mainsail."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

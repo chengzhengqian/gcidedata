@@ -1,0 +1,75 @@
+{
+  "key": "malar",
+  "source_file": "CIDE.M",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Malar",
+      "headword_raw": "Ma\"lar",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. mala the cheek: cf. F. malaire.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Anat.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to the region of the cheek bone, or to the malar bone; jugal."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "malar",
+      "headword_raw": "ma\"lar",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "cheekbone",
+        "zygomatic bone",
+        "malar bone",
+        "jugal bone",
+        "os zygomaticum"
+      ],
+      "entry_fields": [
+        "(Anat.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The cheek bone, which forms a part of the lower edge of the orbit; that arch of bone beneath the eye that forms the prominence of the cheek; also called the malar bone."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

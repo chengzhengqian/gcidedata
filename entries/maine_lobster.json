@@ -1,0 +1,53 @@
+{
+  "key": "maine_lobster",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "maine lobster",
+      "headword_raw": "maine lobster",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Any of several cold-water lobsters with large tender claws, caught from Maine to the Carolinas."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "American lobster",
+            "Northern lobster"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A lobster (Homarus americanus) found off the Atlantic coast of North America."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "American lobster",
+            "Northern lobster",
+            "Homarus americanus"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "key": "malignancy",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Malignancy",
+      "headword_raw": "Ma*lig\"nan*cy",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[See Malignant.]",
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The state or quality of being malignant; extreme malevolence; bitter enmity; malice; disposition toward evil; intense ill will; as, malignancy of heart."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Unfavorableness; evil nature."
+          ],
+          "quotes": [
+            "The malignancy of my fate might perhaps distemner yours."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "Virulence; tendency to a fatal issue; as, the malignancy of an ulcer or of a fever."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "A cancerous tumor that is spreading beyond the point of origin."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "malignant tumor",
+            "malignant neoplasm",
+            "metastatic tumor"
+          ]
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "The state of being a malignant."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

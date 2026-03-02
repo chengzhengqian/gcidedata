@@ -1,0 +1,38 @@
+{
+  "key": "main_memory",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "main memory",
+      "headword_raw": "main memory",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Computers)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The memory in a computer that holds programs and data for rapid access during execution of a program; it usually hold the largest quantity of rapid-access storage in a computer; -- also called RAM (random access memory. It is contrasted to ROM, disk data storage, cache, registers and other forms of data storage."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

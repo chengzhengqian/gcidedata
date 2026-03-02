@@ -1,0 +1,57 @@
+{
+  "key": "malady",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "malady",
+      "headword_raw": "mal\"a*dy",
+      "pr": "(ml\"*d)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. maladie, fr. malade ill, sick, OF. also, malabde, fr. L. male habitus, i. e., ill-kept, not in good condition. See Malice, and Habit.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Any disease of the human body; a distemper, disorder, or indisposition, proceeding from impaired, defective, or morbid organic functions; especially, a lingering or deep-seated disorder."
+          ],
+          "quotes": [
+            "The maladies of the body may prove medicines to the mind."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A moral or mental defect or disorder."
+          ],
+          "quotes": [
+            "Love's a malady without a cure."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Disorder",
+            "distemper",
+            "sickness",
+            "ailment",
+            "disease",
+            "illness. See Disease"
+          ]
+        }
+      ]
+    }
+  ]
+}

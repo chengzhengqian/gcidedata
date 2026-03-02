@@ -1,0 +1,94 @@
+{
+  "key": "malicious",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Malicious",
+      "headword_raw": "Ma*li\"cious",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Of. malicius, F. malicieux, fr. L. malitiosus. See Malice.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Maliciously",
+          "form_raw": "Ma*li\"cious*ly",
+          "key": "maliciously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Maliciousness",
+          "form_raw": "Ma*li\"cious*ness",
+          "key": "maliciousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Indulging or exercising malice; harboring ill will or enmity."
+          ],
+          "quotes": [
+            "I grant him bloody, . . . Sudden, malicious, smacking of every sin That has a name."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Proceeding from hatred or ill will; dictated by malice; as, a malicious report; malicious mischief."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Law)",
+            "(Law)"
+          ],
+          "defs": [
+            "With wicked or mischievous intentions or motives; wrongful and done intentionally without just cause or excuse; as, a malicious act."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Ill-disposed",
+            "evil-minded",
+            "mischievous",
+            "envious",
+            "malevolent",
+            "invidious",
+            "spiteful",
+            "bitter",
+            "malignant",
+            "rancorous",
+            "malign"
+          ]
+        }
+      ]
+    }
+  ]
+}

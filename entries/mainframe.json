@@ -1,0 +1,51 @@
+{
+  "key": "mainframe",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "mainframe",
+      "headword_raw": "main\"frame`",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Computers)"
+      ],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A large digital computer serving 100-400 users and occupying a special air-conditioned room. At any given point in development of computer technology, the mainframe will be faster, have large main memeory, and be more capable than a minicomputer, which will in turn be faster and more capable than a personal computer. The typical personal computer in 1999 is faster than a mainframe was in 1970."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "mainframe computer"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The board holding the CPU and the memory forming the central part of a computer to which the peripherals are attached."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

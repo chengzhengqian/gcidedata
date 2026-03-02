@@ -1,0 +1,59 @@
+{
+  "key": "majestical",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Majestical",
+      "headword_raw": "Ma*jes\"tic*al",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Majestically",
+          "form_raw": "Ma*jes\"tic*al*ly",
+          "key": "majestically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Majesticalness",
+          "form_raw": "Ma*jes\"tic*al*ness",
+          "key": "majesticalness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Majestic."
+          ],
+          "quotes": [
+            "An older architecture, greater, cunninger, more majestical."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

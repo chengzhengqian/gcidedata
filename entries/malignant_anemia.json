@@ -1,0 +1,38 @@
+{
+  "key": "malignant_anemia",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "malignant anemia",
+      "headword_raw": "malignant anemia",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A chronic progressive anemia of older adults, thought to result from a lack of intrinsic factor (a substance secreted by the stomach that is responsible for the absorption of vitamin B-12); also called pernicious anemia."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

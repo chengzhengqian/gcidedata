@@ -1,0 +1,38 @@
+{
+  "key": "traffic_mile",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Traffic mile",
+      "headword_raw": "Traf\"fic mile",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Railroad Accounting)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Any unit of the total obtained by adding the passenger miles and ton miles in a railroad's transportation for a given period; -- a term and practice of restricted or erroneous usage."
+          ],
+          "quotes": [
+            "Traffic mile is a term designed to furnish an excuse for the erroneous practice of adding together two things (ton miles and passenger miles) which, being of different kinds, cannot properly be added."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

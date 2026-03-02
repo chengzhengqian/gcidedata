@@ -1,0 +1,66 @@
+{
+  "key": "transaction",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Transaction",
+      "headword_raw": "Trans*ac\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. transactio, fr. transigere, transactum, to drive through, carry through, accomplish, transact; trans across, over + agere to drive; cf. F. transaction. See Act, Agent.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "-- Transaction, Proceeding. A transaction is something already done and completed; a proceeding is either something which is now going on, or, if ended, is still contemplated with reference to its progress or successive stages."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The doing or performing of any business; management of any affair; performance."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That which is done; an affair; as, the transactions on the exchange."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Civil Law)"
+          ],
+          "defs": [
+            "An adjustment of a dispute between parties by mutual agreement."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ “ We the word proceeding in application to an affray in the street, and the word transaction to some commercial negotiation that has been carried on between certain persons. The proceeding marks the manner of proceeding, as when we speak of the proceedings in a court of law. The transaction marks the business transacted; as, the transactions on the Exchange.”"
+          ],
+          "synonyms": [
+            "Proceeding",
+            "action",
+            "process"
+          ]
+        }
+      ]
+    }
+  ]
+}

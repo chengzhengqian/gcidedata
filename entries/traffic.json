@@ -1,0 +1,134 @@
+{
+  "key": "traffic",
+  "source_file": "CIDE.T",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Traffic",
+      "headword_raw": "Traf\"fic",
+      "pr": "(?)",
+      "pos": [
+        "v. i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[F. trafiquer; cf. It. trafficare, Sp. traficar, trafagar, Pg. traficar, trafegar, trafeguear, LL. traficare; of uncertain origin, perhaps fr. L. trans across, over + -ficare to make (see -fy, and cf. G. übermachen to transmit, send over, e. g., money, wares); or cf. Pg. trasfegar to pour out from one vessel into another, OPg. also, to traffic, perhaps fr. (assumed) LL. vicare to exchange, from L. vicis change (cf. Vicar).]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Trafficked (?); p. pr. & vb. n. Trafficking (?).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To pass goods and commodities from one person to another for an equivalent in goods or money; to buy or sell goods; to barter; to trade."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To trade meanly or mercenarily; to bargain."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Traffic",
+      "headword_raw": "Traf\"fic",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To exchange in traffic; to effect by a bargain or for a consideration."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Traffic",
+      "headword_raw": "Traf\"fic",
+      "pr": null,
+      "pos": [
+        "n.",
+        "v."
+      ],
+      "ety": "[Cf. F. trafic, It. traffico, Sp. trfico, trfago, Pg. trfego, LL. traficum, trafica. See Traffic, v.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Commerce, either by barter or by buying and selling; interchange of goods and commodities; trade."
+          ],
+          "quotes": [
+            "A merchant of great traffic through the world.",
+            "The traffic in honors, places, and pardons."
+          ],
+          "notes": [
+            "☞ This word, like trade, comprehends every species of dealing in the exchange or passing of goods or merchandise from hand to hand for an equivalent, unless the business of relating may be excepted. It signifies appropriately foreign trade, but is not limited to that."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Commodities of the market."
+          ],
+          "quotes": [
+            "You 'll see a draggled damsel From Billingsgate her fishy traffic bear."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "The business done upon a railway, steamboat line, etc., with reference to the number of passengers or the amount of freight carried."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

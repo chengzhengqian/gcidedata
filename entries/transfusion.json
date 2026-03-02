@@ -1,0 +1,48 @@
+{
+  "key": "transfusion",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Transfusion",
+      "headword_raw": "Trans*fu\"sion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. transfusio: cf. F. transfusion.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of transfusing, or pouring, as liquor, out of one vessel into another."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "The act or operation of transferring the blood of one man or animal into the vascular system of another; also, the introduction of any fluid into the blood vessels, or into a cavity of the body from which it can readily be adsorbed into the vessels; intrafusion; as, the peritoneal transfusion of milk."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

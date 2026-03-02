@@ -1,0 +1,105 @@
+{
+  "key": "transform",
+  "source_file": "CIDE.T",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Transform",
+      "headword_raw": "Trans*form\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. transformare, transformatum; trans across, over + formare to from: cf. F. transformer. See Form, v. t.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Transformed (?); p. pr. & vb. n. Transforming.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To change the form of; to change in shape or appearance; to metamorphose; as, a caterpillar is ultimately transformed into a butterfly."
+          ],
+          "quotes": [
+            "Love may transform me to an oyster."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To change into another substance; to transmute; as, the alchemists sought to transform lead into gold."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To change in nature, disposition, heart, character, or the like; to convert."
+          ],
+          "quotes": [
+            "Be ye transformed by the renewing of your mind."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "To change, as an algebraic expression or geometrical figure, into another from without altering its value."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Transform",
+      "headword_raw": "Trans*form\"",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To be changed in form; to be metamorphosed."
+          ],
+          "quotes": [
+            "His hair transforms to down."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

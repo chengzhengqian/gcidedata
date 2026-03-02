@@ -1,0 +1,84 @@
+{
+  "key": "tracer",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Tracer",
+      "headword_raw": "Tra\"cer",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl.",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A person engaged (esp. in the express or railway service) in tracing, or searching out, missing articles, as packages or freight cars."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "An inquiry sent out (esp. in transportation service) for a missing article, as a letter or an express package."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Mil.)"
+          ],
+          "defs": [
+            "a type of ammunition that emits light or smoke as it moves toward its target, providing a visible path of the projectile in flight so that the point of impact may be observed; -- called also tracer ammunition."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Mil.)"
+          ],
+          "defs": [
+            "the chemical substance used in tracer ammunition to cause it to be visible in flight."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [],
+          "defs": [
+            "a chemical substance with properties, such as radioactivity or fluorescence, which make it easily measurable, used to observe the movements of chemically related substances through a biological, physical, or chemical system; -- in biochemistry, also called labeled compounds."
+          ],
+          "quotes": [],
+          "notes": [
+            "Radioactive tracers are used, for example, to measure the retention or distribution of residues of drugs after administration to an animal, to determine the type and rate of metabolism; also, to measure the rate of motion of molecules in electrophoresis or the leakage of small quantities of material from a container. Small fluorescent tracers may be attached in many cases to macromolecules such as proteins or nucleic acids, allowing the motions of such macromolecules to be easily observed by their acquired fluorescence, without appreciably changing their properties. In biological and biochemial systems the common radioactive isotopes used in tracers are carbon-14, tritium (hydrogen-3), sulfur-35, phosphorus-32, and iodine-131; other isotopes are also used, including non-radioactive isotopes such as carbon-13."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

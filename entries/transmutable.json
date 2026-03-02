@@ -1,0 +1,59 @@
+{
+  "key": "transmutable",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Transmutable",
+      "headword_raw": "Trans*mut\"a*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[Cf. F. transmutable. See Transmute.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Transmutableness",
+          "form_raw": "Trans*mut\"a*ble*ness",
+          "key": "transmutableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Transmutably",
+          "form_raw": "Trans*mut\"a*bly",
+          "key": "transmutably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Capable of being transmuted or changed into a different substance, or into into something of a different form a nature; transformable."
+          ],
+          "quotes": [
+            "The fluids and solids of an animal body are easily transmutable into one another."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

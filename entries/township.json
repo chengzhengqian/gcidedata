@@ -1,0 +1,58 @@
+{
+  "key": "township",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Township",
+      "headword_raw": "Town\"ship",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The district or territory of a town."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ In the United States, many of the States are divided into townships of five, six, seven, or perhaps ten miles square, and the inhabitants of such townships are invested with certain powers for regulating their own affairs, such as repairing roads and providing for the poor. The township is subordinate to the county."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "In surveys of the public land of the United States, a division of territory six miles square, containing 36 sections."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "In Canada, one of the subdivisions of a county."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

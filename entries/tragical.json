@@ -1,0 +1,79 @@
+{
+  "key": "tragical",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Tragical",
+      "headword_raw": "Trag\"ic*al",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. tragicus, Gr.<?/: cf. F. tragique.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Tragically",
+          "form_raw": "Trag\"ic*al*ly",
+          "key": "tragically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Tragicalness",
+          "form_raw": "Trag\"ic*al*ness",
+          "key": "tragicalness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to tragedy; of the nature or character of tragedy; as, a tragic poem; a tragic play or representation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Fatal to life; mournful; terrible; calamitous; as, the tragic scenes of the French revolution."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Mournful; expressive of tragedy, the loss of life, or of sorrow."
+          ],
+          "quotes": [
+            "Why look you still so stern and tragical ?"
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

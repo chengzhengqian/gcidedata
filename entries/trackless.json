@@ -1,0 +1,59 @@
+{
+  "key": "trackless",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Trackless",
+      "headword_raw": "Track\"less",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Tracklessly",
+          "form_raw": "Track\"less*ly",
+          "key": "tracklessly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Tracklessness",
+          "form_raw": "Track\"less*ness",
+          "key": "tracklessness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Having no track; marked by no footsteps; untrodden; as, a trackless desert."
+          ],
+          "quotes": [
+            "To climb the trackless mountain all unseen."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

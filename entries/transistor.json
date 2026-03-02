@@ -1,0 +1,40 @@
+{
+  "key": "transistor",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Transistor",
+      "headword_raw": "Trans*ist\"or",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[transfer + resistor, from its ability to tranfer a current across a resistor.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Electronics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a component used in electronic devices consisting of three regions of at least two types of a semiconducting material, such as doped silicon, connected to each other and to three electrodes in a conducting path so as to modify the current or voltage in an electronic circuit."
+          ],
+          "quotes": [],
+          "notes": [
+            "Transistors are used in almost all modern electronic devices, having replaced the vacuum tube in most applications. Since they are based on the electronic characteristics of solids, they are called solid-state devices. Typically a transistor is composed of p, n, and p-type semiconductors in series, or of n, p, and n, with the center region being a thin layer between the two outer regions. An electronic signal input to the central layer may be substantially amplified by such a device. In integrated circuits, many thousands of transistors may be etched into a single small wafer of silicon."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

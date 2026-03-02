@@ -1,0 +1,38 @@
+{
+  "key": "tractrix",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Tractrix",
+      "headword_raw": "Tract\"rix",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[NL. See Tractor.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Geom.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A curve such that the part of the tangent between the point of tangency and a given straight line is constant; -- so called because it was conceived as described by the motion of one end of a tangent line as the other end was drawn along the given line."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "key": "transient",
+  "source_file": "CIDE.T",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Transient",
+      "headword_raw": "Tran\"sient",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. transiens, -entis, p. pr. of transire, transitum, to go or pass over. See Trance.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "Transient represents a thing as brief at the best; transitory, as liable at any moment to pass away. Fleeting goes further, and represents it as in the act of taking its flight. Life is transient; its joys are transitory; its hours are fleeting."
+      ],
+      "wordforms": [
+        {
+          "form": "Transiently",
+          "form_raw": "Tran\"sient*ly",
+          "key": "transiently",
+          "pos": [
+            "adv."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Transientness",
+          "form_raw": "Tran\"sient*ness",
+          "key": "transientness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Passing before the sight or perception, or, as it were, moving over or across a space or scene viewed, and then disappearing; hence, of short duration; not permanent; not lasting or durable; not stationary; passing; fleeting; brief; transitory; as, transient pleasure."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Hasty; momentary; imperfect; brief; as, a transient view of a landscape."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Staying for a short time; not regular or permanent; as, a transient guest; transient boarders."
+          ],
+          "quotes": [
+            "What is loose love? A transient gust.",
+            "If [we love] transitory things, which soon decay, Age must be loveliest at the latest day.",
+            "O fleeting joys Of Paradise, dear bought with lasting woes."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Transient",
+            "Transitory",
+            "Fleeting"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Transient",
+      "headword_raw": "Tran\"sient",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "That which remains but for a brief time."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

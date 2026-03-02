@@ -1,0 +1,49 @@
+{
+  "key": "trachoma",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Trachoma",
+      "headword_raw": "Tra*cho\"ma",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[NL., fr. Gr. <?/ roughness, fr. <?/ rough.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Trachomatous",
+          "form_raw": "Tra*chom\"a*tous",
+          "key": "trachomatous",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a contagious granular conjunctivitis caused by the bacterium Chlamydia trachomatis. It is a chronic inflammation of the conjunctiva"
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

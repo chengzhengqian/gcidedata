@@ -1,0 +1,121 @@
+{
+  "key": "transit",
+  "source_file": "CIDE.T",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Transit",
+      "headword_raw": "Trans\"it",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. transitus, from transire to go over: cf. F. transit. See Transient.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of passing; passage through or over."
+          ],
+          "quotes": [
+            "In France you are now . . . in the transit from one form of government to another."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The act or process of causing to pass; conveyance; as, the transit of goods through a country."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A line or route of passage or conveyance; as, the Nicaragua transit."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Astron.)"
+          ],
+          "defs": [
+            "The passage of a heavenly body over the meridian of a place, or through the field of a telescope.",
+            "The passage of a smaller body across the disk of a larger, as of Venus across the sun's disk, or of a satellite or its shadow across the disk of its primary."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Astron.)",
+            "(Astron.)",
+            "(Astron.)",
+            "(Surv.)",
+            "(Com.)",
+            "(Astron.)"
+          ],
+          "defs": [
+            "An instrument resembling a theodolite, used by surveyors and engineers; -- called also transit compass, and surveyor's transit."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The surveyor's transit differs from the theodolite in having the horizontal axis attached directly to the telescope which is not mounted in Y's and can be turned completely over about the axis."
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Transit",
+      "headword_raw": "Trans\"it",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Astron.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To pass over the disk of (a heavenly body)."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "key": "transparent",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Transparent",
+      "headword_raw": "Trans*par\"ent",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[F., from LL. transparens, -entis, p. pr. of transparere to be transparent; L. trans across, through + parere to appear. See Appear.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Transparently",
+          "form_raw": "Trans*par\"ent*ly",
+          "key": "transparently",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Transparentness",
+          "form_raw": "Trans*par\"ent*ness",
+          "key": "transparentness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Having the property of transmitting rays of light, so that bodies can be distinctly seen through; pervious to light; diaphanous; pellucid; as, transparent glass; a transparent diamond; -- opposed to opaque."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Admitting the passage of light; open; porous; as, a transparent veil."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Translucent",
+            "pellucid",
+            "clear",
+            "bright",
+            "limpid",
+            "lucid",
+            "diaphanous. See Translucent"
+          ]
+        }
+      ]
+    }
+  ]
+}

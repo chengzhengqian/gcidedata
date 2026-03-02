@@ -1,0 +1,126 @@
+{
+  "key": "transport",
+  "source_file": "CIDE.T",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Transport",
+      "headword_raw": "Trans*port\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[F. transporter, L. transportare; trans across + portare to carry. See Port bearing, demeanor.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Transported; p. pr. & vb. n. Transporting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To carry or bear from one place to another; to remove; to convey; as, to transport goods; to transport troops."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To carry, or cause to be carried, into banishment, as a criminal; to banish."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To carry away with vehement emotion, as joy, sorrow, complacency, anger, etc.; to ravish with pleasure or ecstasy; as, music transports the soul."
+          ],
+          "quotes": [
+            "[They] laugh as if transported with some fit Of passion.",
+            "We shall then be transported with a nobler . . . wonder."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Transport",
+      "headword_raw": "Trans\"port",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "v."
+      ],
+      "ety": "[F. See Transport, v.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Transportation; carriage; conveyance."
+          ],
+          "quotes": [
+            "The Romans . . . stipulated with the Carthaginians to furnish them with ships for transport and war."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A vessel employed for transporting, especially for carrying soldiers, warlike stores, or provisions, from one place to another, or to convey convicts to their destination; -- called also transport ship, transport vessel."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Vehement emotion; passion; ecstasy; rapture."
+          ],
+          "quotes": [
+            "With transport views the airy rule his own, And swells on an imaginary throne.",
+            "Say not, in transports of despair, That all your hopes are fled."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "A convict transported, or sentenced to exile."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

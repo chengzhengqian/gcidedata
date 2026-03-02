@@ -1,0 +1,86 @@
+{
+  "key": "transpose",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Transpose",
+      "headword_raw": "Trans*pose\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[F. transposer; pref. trans- (L. trans across) + poser to put. See Pose.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Transposed (?); p. pr. & vb. n. Transposing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To change the place or order of; to substitute one for the other of; to exchange, in respect of position; as, to transpose letters, words, or propositions."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To change; to transform; to invert."
+          ],
+          "quotes": [
+            "Things base and vile, holding no quantity, Love can transpose to form and dignity."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Alg.)"
+          ],
+          "defs": [
+            "To bring, as any term of an equation, from one side over to the other, without destroying the equation; thus, if a + b = c, and we make a = c - b, then b is said to be transposed."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Gram.)"
+          ],
+          "defs": [
+            "To change the natural order of, as words."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Mus.)"
+          ],
+          "defs": [
+            "To change the key of."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

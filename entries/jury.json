@@ -1,0 +1,83 @@
+{
+  "key": "jury",
+  "source_file": "CIDE.J",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Jury",
+      "headword_raw": "Ju\"ry",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Etymol. uncertain.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Naut.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "For temporary use; -- applied to a temporary contrivance."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Jury",
+      "headword_raw": "Ju\"ry",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[OF. jure an assize, fr. jurer to swear, L. jurare, jurari; akin to jus, juris, right, law. See Just,a., and cf. Jurat, Abjure.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "A body of people, selected according to law, impaneled and sworn to inquire into and try any matter of fact, and to render their true verdict according to the evidence legally adduced. In criminal trials the number of such persons is usually twelve, but in civil cases and in grand juries it may different. See Grand jury under Grand, and Inquest."
+          ],
+          "quotes": [
+            "The jury, passing on the prisoner's life."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A committee for determining relative merit or awarding prizes at an exhibition or competition; as, the art jury gave him the first prize."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "key": "juju",
+  "source_file": "CIDE.J",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "juju",
+      "headword_raw": "juju",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "the magical power associated with a juju{2}."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "An object superstitiously believed to embody magical powers; a fetish."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "voodoo",
+            "hoodoo",
+            "fetish"
+          ]
+        }
+      ]
+    }
+  ]
+}

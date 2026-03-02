@@ -1,0 +1,58 @@
+{
+  "key": "kefir",
+  "source_file": "CIDE.K",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Kefir",
+      "headword_raw": "Kef\"ir",
+      "pr": "(kf\"r)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl.",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Kefiric",
+          "form_raw": "Ke*fir\"ic",
+          "key": "kefiric",
+          "pos": [
+            "a."
+          ],
+          "pr": "(k*fr\"k)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "An effervescent liquor like kumiss, made from fermented milk, used as a food and as a medicine in the northern Caucasus."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A sour fermented milk drink, used in various regions of Asia, made by addition of Streptococcus or Lactobacillus cultures to cow's or goat's milk; it is considered by some as a form of yoghurt."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

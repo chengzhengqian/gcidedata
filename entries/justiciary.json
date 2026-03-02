@@ -1,0 +1,41 @@
+{
+  "key": "justiciary",
+  "source_file": "CIDE.J",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Justiciary",
+      "headword_raw": "Jus*ti\"ci*a*ry",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. LL. justitiarius, F. justicier. See Justice.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Old Eng. Law)",
+        "(Scots Law)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An old name for the judges of the higher English courts."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The chief justiciary, or justiciar, in early English history, was not only the chief justice of the kingdom, but also ex officio regent in the king's absence."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

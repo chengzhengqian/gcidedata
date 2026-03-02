@@ -1,0 +1,89 @@
+{
+  "key": "juggling",
+  "source_file": "CIDE.J",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Juggling",
+      "headword_raw": "Jug\"gling",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Jugglingly",
+          "form_raw": "Jug\"gling*ly",
+          "key": "jugglingly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Cheating; tricky."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Juggling",
+      "headword_raw": "Jug\"gling",
+      "pr": null,
+      "pos": [
+        "n.",
+        "p. pr.",
+        "v. t."
+      ],
+      "ety": "[p. pr. from juggle, v. t.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Jugglery; underhand practice."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The act or process of keeping several objects in the air at one time by tossing them with the hands. See juggle v. t., senses 2, 3, and 4."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

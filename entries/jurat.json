@@ -1,0 +1,48 @@
+{
+  "key": "jurat",
+  "source_file": "CIDE.J",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Jurat",
+      "headword_raw": "Ju\"rat",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Prov. F. jurat, fr. L. juratus sworn, p. p. of jurare to swear. See Jury, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A person under oath; specifically, an officer of the nature of an alderman, in certain municipal corporations in England."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "The memorandum or certificate at the end of an affidavit, or a bill or answer in chancery, showing when, before whom, and (in English practice), where, it was sworn or affirmed."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

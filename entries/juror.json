@@ -1,0 +1,50 @@
+{
+  "key": "juror",
+  "source_file": "CIDE.J",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Juror",
+      "headword_raw": "Ju\"ror",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. jureur one who takes oath, L. jurator a swearer, fr. jurare, jurari, to swear. See Jury, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "A member of a jury; a juryman."
+          ],
+          "quotes": [
+            "I shall both find your lordship judge and juror."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A member of any jury for awarding prizes, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

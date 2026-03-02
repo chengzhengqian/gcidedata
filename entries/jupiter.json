@@ -1,0 +1,53 @@
+{
+  "key": "jupiter",
+  "source_file": "CIDE.J",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Jupiter",
+      "headword_raw": "Ju\"pi*ter",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L., fr. Jovis pater. See Jove.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Rom. Myth.)"
+          ],
+          "defs": [
+            "The supreme deity, king of gods and men, and reputed to be the son of Saturn and Rhea; Jove. He corresponds to the Greek Zeus."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Astron.)",
+            "(Bot.)",
+            "(Bot.)"
+          ],
+          "defs": [
+            "One of the planets, being the fifth from the sun, the brightest except Venus, and the largest of them all, its mean radius being about 43,345 miles (69,758 kilometers), almost exactly one-tenth that of the sun. It revolves about the sun in 4,332.6 days, at a mean distance of 5.2025 from the sun (778,140,000 km), the earth's mean distance (the astronomical unit) being taken as unity. It has a mass of 1.901 x 1027 kg, about one-thousandth that of the sun, and more than the remainder of the planets combined. It has an average solar day equal to 9.842 earth hours. The rapid revolution causes a noticeable flattening at the poles; the diameter at the equator is 71,370 km, and at the poles 66,644 km."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

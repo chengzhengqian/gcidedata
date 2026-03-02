@@ -1,0 +1,49 @@
+{
+  "key": "junction",
+  "source_file": "CIDE.J",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Junction",
+      "headword_raw": "Junc\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. junctio, fr. jungere, junctum, to join: cf. F. jonction. See Join.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of joining, or the state of being joined; union; combination; coalition; as, the junction of two armies or detachments; the junction of paths."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Boilers)",
+            "(Railroads)"
+          ],
+          "defs": [
+            "The place or point of union, meeting, or junction; specifically, the place where two or more lines of railway meet or cross."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

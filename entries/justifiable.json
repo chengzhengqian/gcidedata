@@ -1,0 +1,66 @@
+{
+  "key": "justifiable",
+  "source_file": "CIDE.J",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Justifiable",
+      "headword_raw": "Jus\"ti*fi`a*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[Cf. F. justifiable. See Justify.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Justifiableness",
+          "form_raw": "Jus\"ti*fi`a*ble*ness",
+          "key": "justifiableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Justifiably",
+          "form_raw": "Jus\"ti*fi`a*bly",
+          "key": "justifiably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Defensible",
+        "vindicable",
+        "warrantable",
+        "excusable",
+        "exculpable",
+        "authorizable"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Capable of being justified, or shown to be just."
+          ],
+          "quotes": [
+            "Just are the ways of God, And justifiable to men."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

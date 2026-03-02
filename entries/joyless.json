@@ -1,0 +1,61 @@
+{
+  "key": "joyless",
+  "source_file": "CIDE.J",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Joyless",
+      "headword_raw": "Joy\"less",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Joylessly",
+          "form_raw": "Joy\"less*ly",
+          "key": "joylessly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Joylessness",
+          "form_raw": "Joy\"less*ness",
+          "key": "joylessness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not having joy; not causing joy; unenjoyable."
+          ],
+          "quotes": [
+            "With downcast eyes the joyless victor sat.",
+            "Youth and health and war are joyless to him.",
+            "[He] pining for the lass, Is joyless of the grove, and spurns the growing grass."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

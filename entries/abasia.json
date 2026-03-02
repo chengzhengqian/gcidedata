@@ -1,0 +1,49 @@
+{
+  "key": "abasia",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Abasia",
+      "headword_raw": "A*ba\"si*a",
+      "pr": "(*bā\"zh*; -z*)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[NL.; Gr. 'a- not + ba`sis a step.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Abasic",
+          "form_raw": "A*ba\"sic",
+          "key": "abasic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(*bā\"sk)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Inability to coordinate muscular actions properly in walking."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "key": "ablation",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Ablation",
+      "headword_raw": "Ab*la\"tion",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. ablatio, fr. ablatus p. p. of auferre to carry away; ab + latus, p. p. of ferre carry: cf. F. ablation. See Tolerate.]",
+      "sources": [
+        "1913 Webster",
+        "AS",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A carrying or taking away; removal."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "Extirpation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "Removing or destroying of a body tissue, especially by a surgical procedure."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Geol.)"
+          ],
+          "defs": [
+            "Wearing away; superficial waste, as of glacial ice or snow."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Aerospace)"
+          ],
+          "defs": [
+            "Wearing away of the outer layers of a protective shield or surface by the heat and aerodynamic forces caused by flying through the atmosphere at hypersonic speed, as during reentry from space; as, ablation of the heat shield during reentry."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

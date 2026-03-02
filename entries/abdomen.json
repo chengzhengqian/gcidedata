@@ -1,0 +1,50 @@
+{
+  "key": "abdomen",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Abdomen",
+      "headword_raw": "Ab*do\"men",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. abdomen (a word of uncertain etymol.): cf. F. abdomen.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Anat.)"
+          ],
+          "defs": [
+            "The belly, or that part of the body between the thorax and the pelvis. Also, the cavity of the belly, which is lined by the peritoneum, and contains the stomach, bowels, and other viscera. In man, often restricted to the part between the diaphragm and the commencement of the pelvis, the remainder being called the pelvic cavity."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "The posterior section of the body, behind the thorax, in insects, crustaceans, and other Arthropoda."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "key": "abducent",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "abducent",
+      "headword_raw": "abducent",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a small motor nerve supplying the lateral rectus muscle of the eye."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "abducent nerve",
+            "abducens",
+            "nervus abducens",
+            "sixth cranial nerve"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "abducent",
+      "headword_raw": "abducent",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(physiol)"
+          ],
+          "defs": [
+            "drawing away from the midline of the body or from an adjacent part; -- especially of muscles"
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "abducting"
+          ]
+        }
+      ]
+    }
+  ]
+}

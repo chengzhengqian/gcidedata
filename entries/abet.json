@@ -1,0 +1,110 @@
+{
+  "key": "abet",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Abet",
+      "headword_raw": "A*bet\"",
+      "pr": "(<?/)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OF. abeter; a (L. ad) + beter to bait (as a bear), fr. Icel. beita to set dogs on, to feed, originally, to cause to bite, fr. Icel. bīta to bite, hence to bait, to incite. See Bait, Bet.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Abetted (<?/); p. pr. & vb. n. Abetting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To instigate or encourage by aid or countenance; -- used in a bad sense of persons and acts; as, to abet an ill-doer; to abet one in his wicked courses; to abet vice; to abet an insurrection."
+          ],
+          "quotes": [
+            "Would not the fool abet the stealth, Who rashly thus exposed his wealth?"
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To support, uphold, or aid; to maintain; -- in a good sense."
+          ],
+          "quotes": [
+            "Our duty is urged, and our confidence abetted."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "To contribute, as an assistant or instigator, to the commission of an offense."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "incite",
+            "instigate",
+            "set on",
+            "egg on",
+            "foment",
+            "advocate",
+            "countenance",
+            "encourage",
+            "second",
+            "uphold",
+            "aid",
+            "assist",
+            "support",
+            "sustain",
+            "back",
+            "connive at"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Abet",
+      "headword_raw": "A*bet\"",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OF. abet, fr. abeter.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Act of abetting; aid."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

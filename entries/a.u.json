@@ -1,0 +1,42 @@
+{
+  "key": "a.u",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "a.u.",
+      "headword_raw": "a.u.",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Astron.)"
+          ],
+          "defs": [
+            "the unit of length equal to the mean distance of the Earth from the sun, about 93 million miles (150 million kilometers); -- used almost exclusively in astronomy, or to describe astronomical distances."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "astronomical unit",
+            "AU",
+            "A.U"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "key": "degrade",
+  "source_file": "CIDE.D",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Degrade",
+      "headword_raw": "De*grade\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[F. dgrader, LL. degradare, fr. L. de- + gradus step, degree. See Grade, and cf. Degree.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Degraded; p. pr. & vb. n. Degrading.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To reduce from a higher to a lower rank or degree; to lower in rank; to deprive of office or dignity; to strip of honors; as, to degrade a nobleman, or a general officer."
+          ],
+          "quotes": [
+            "Prynne was sentenced by the Star Chamber Court to be degraded from the bar."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To reduce in estimation, character, or reputation; to lessen the value of; to lower the physical, moral, or intellectual character of; to debase; to bring shame or contempt upon; to disgrace; as, vice degrades a man."
+          ],
+          "quotes": [
+            "O miserable mankind, to what fall Degraded, to what wretched state reserved!",
+            "Yet time ennobles or degrades each line.",
+            "Her pride . . . struggled hard against this degrading passion."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Geol.)"
+          ],
+          "defs": [
+            "To reduce in altitude or magnitude, as hills and mountains; to wear down."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "abase",
+            "demean",
+            "lower",
+            "reduce. See Abase"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Degrade",
+      "headword_raw": "De*grade\"",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Biol.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To degenerate; to pass from a higher to a lower type of structure; as, a family of plants or animals degrades through this or that genus or group of genera."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

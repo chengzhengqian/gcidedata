@@ -1,0 +1,53 @@
+{
+  "key": "defiled",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "defiled",
+      "headword_raw": "defiled",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "morally blemished."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "maculate"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Religion)"
+          ],
+          "defs": [
+            "ritually unclean. Opposite of clean."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "unclean",
+            "impure"
+          ]
+        }
+      ]
+    }
+  ]
+}

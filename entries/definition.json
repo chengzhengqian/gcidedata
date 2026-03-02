@@ -1,0 +1,88 @@
+{
+  "key": "definition",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Definition",
+      "headword_raw": "Def`i*ni\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. definitio: cf. F. dfinition.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "A definition is designed to settle a thing in its compass and extent; an explanation is intended to remove some obscurity or misunderstanding, and is therefore more extended and minute; a description enters into striking particulars with a view to interest or impress by graphic effect. It is not therefore true, though often said, that description is only an extended definition. “Logicians distinguish definitions into essential and accidental. An essential definition states what are regarded as the constituent parts of the essence of that which is to be defined; and an accidental definition lays down what are regarded as circumstances belonging to it, viz., properties or accidents, such as causes, effects, etc.”"
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of defining; determination of the limits; as, a telescope accurate in definition."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Act of ascertaining and explaining the signification; a description of a thing by its properties; an explanation of the meaning of a word or term; as, the definition of “circle;” the definition of “wit;” an exact definition; a loose definition."
+          ],
+          "quotes": [
+            "Definition being nothing but making another understand by words what the term defined stands for."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Description; sort."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Logic)"
+          ],
+          "defs": [
+            "An exact enunciation of the constituents which make up the logical essence."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Opt.)"
+          ],
+          "defs": [
+            "Distinctness or clearness, as of an image formed by an optical instrument; precision in detail."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Definition",
+            "Explanation",
+            "Description"
+          ]
+        }
+      ]
+    }
+  ]
+}

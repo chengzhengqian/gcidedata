@@ -1,0 +1,67 @@
+{
+  "key": "del",
+  "source_file": "CIDE.D",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Del",
+      "headword_raw": "Del",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[See Deal, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Share; portion; part."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "del",
+      "headword_raw": "del",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Math.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a differential operator which, operating on a function of several variables, gives the sum of the partial derivatives of the function with respect to the three orthogonal spatial coordinates; -- also called the gradient or grad. It is represented by an inverted Greek capital delta (), and is thus because of its shape also called nabla, meaning harp in Hebrew."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

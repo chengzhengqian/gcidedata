@@ -1,0 +1,73 @@
+{
+  "key": "decrement",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Decrement",
+      "headword_raw": "Dec\"re*ment",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. decrementum, fr. decrescere. See Decrease.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The state of becoming gradually less; decrease; diminution; waste; loss."
+          ],
+          "quotes": [
+            "Twit me with the decrements of my pendants.",
+            "Rocks, mountains, and the other elevations of the earth suffer a continual decrement."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The quantity lost by gradual diminution or waste; -- opposed to increment."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Crystallog.)"
+          ],
+          "defs": [
+            "A name given by Haüy to the successive diminution of the layers of molecules, applied to the faces of the primitive form, by which he supposed the secondary forms to be produced."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "The quantity by which a variable is diminished."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

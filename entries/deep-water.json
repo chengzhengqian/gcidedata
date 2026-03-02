@@ -1,0 +1,49 @@
+{
+  "key": "deep-water",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "deep-water",
+      "headword_raw": "deep-water",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "having waters of great depth; as, a deep-water port."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "carried on in waters of great depth."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "deep-sea"
+          ]
+        }
+      ]
+    }
+  ]
+}

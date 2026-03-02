@@ -1,0 +1,51 @@
+{
+  "key": "deictic",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Deictic",
+      "headword_raw": "Deic\"tic",
+      "pr": "(dīk\"tk)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Gr. deiktiko`s serving to show or point out, fr. deikny`nai to show.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Logic)"
+          ],
+          "defs": [
+            "Direct; proving directly; -- applied to reasoning, and opposed to elenchtic or refutative."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Grammar)"
+          ],
+          "defs": [
+            "showing or pointing to directly; pertaining to deixis; -- used to designate words that specify identity, location, or time from the perspective of one of the participants in a discourse, using the surrounding context as reference; as, the words this, that, these, those, here, there, now, then, we, you, they, the former, and the latter serve a deictic function."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

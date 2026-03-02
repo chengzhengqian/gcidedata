@@ -1,0 +1,40 @@
+{
+  "key": "deionized",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "deionized",
+      "headword_raw": "de*i\"on*ized`",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "freed from ions by a process of deionization; as, deionized water."
+          ],
+          "quotes": [],
+          "notes": [
+            "In chemistry and biochemistry, experiments often require water free from contaminating ions, and the ordinary distilled water may be subjected to a process of deionization in order to render the ion content sufficiently low so as not to interfere with the investigation."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

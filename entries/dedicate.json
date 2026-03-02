@@ -1,0 +1,100 @@
+{
+  "key": "dedicate",
+  "source_file": "CIDE.D",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Dedicate",
+      "headword_raw": "Ded\"i*cate",
+      "pr": "(?)",
+      "pos": [
+        "p. a."
+      ],
+      "ety": "[L. dedicatus, p. p. of dedicare to affirm, to dedicate; de- + dicare to declare, dedicate; akin to dicere to say. See Diction.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "Devoted",
+        "consecrated",
+        "addicted"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Dedicated; set apart; devoted; consecrated."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Dedicate",
+      "headword_raw": "Ded\"i*cate",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Dedicated; p. pr. & vb. n. Dedicating.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To set apart and consecrate, as to a divinity, or for sacred uses; to devote formally and solemnly; as, to dedicate vessels, treasures, a temple, or a church, to a religious use."
+          ],
+          "quotes": [
+            "Vessels of silver, and vessels of gold, . . . which also king David did dedicate unto the Lord.",
+            "We have come to dedicate a portion of that field as a final resting place for those who here gave their lives that that nation might live. . . . But in a larger sense we can not dedicate, we can not consecrate, we can not hallow this ground."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To devote, set apart, or give up, as one's self, to a duty or service."
+          ],
+          "quotes": [
+            "The profession of a soldier, to which he had dedicated himself."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To inscribe or address, as to a patron."
+          ],
+          "quotes": [
+            "He complied ten elegant books, and dedicated them to the Lord Burghley."
+          ],
+          "notes": [],
+          "synonyms": [
+            "See Addict"
+          ]
+        }
+      ]
+    }
+  ]
+}

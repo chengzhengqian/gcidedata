@@ -1,0 +1,39 @@
+{
+  "key": "decrypt",
+  "source_file": "CIDE.D",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "decrypt",
+      "headword_raw": "decrypt",
+      "pr": null,
+      "pos": [
+        "v."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "decode",
+        "decipher[WE1]"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "to convert from a coded form into the original; -- of communications. Inverse of encrypt."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

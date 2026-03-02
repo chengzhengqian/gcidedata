@@ -1,0 +1,112 @@
+{
+  "key": "defective",
+  "source_file": "CIDE.D",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Defective",
+      "headword_raw": "De*fect\"ive",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. defectivus: cf. F. dfectif. See Defect.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Defectively",
+          "form_raw": "De*fect\"ive*ly",
+          "key": "defectively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Defectiveness",
+          "form_raw": "De*fect\"ive*ness",
+          "key": "defectiveness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Wanting in something; incomplete; lacking a part; deficient; imperfect; faulty; -- applied either to natural or moral qualities; as, a defective limb; defective timber; a defective copy or account; a defective character; defective rules."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Gram.)"
+          ],
+          "defs": [
+            "Lacking some of the usual forms of declension or conjugation; as, a defective noun or verb."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Defective",
+      "headword_raw": "De*fect\"ive",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Anything that is defective or lacking in some respect."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "One who is lacking physically or mentally."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Under the term defectives are included deaf-mutes, the blind, the feeble-minded, the insane, and sometimes, esp. in criminology, criminals and paupers."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

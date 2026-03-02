@@ -1,0 +1,93 @@
+{
+  "key": "defendant",
+  "source_file": "CIDE.D",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Defendant",
+      "headword_raw": "De*fend\"ant",
+      "pr": "(d*fnd\"nt)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[F. dfendant, p. pr. of dfendre. See Defend.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Serving, or suitable, for defense; defensive."
+          ],
+          "quotes": [
+            "With men of courage and with means defendant."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Making defense."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Defendant",
+      "headword_raw": "De*fend\"ant",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One who defends; a defender."
+          ],
+          "quotes": [
+            "The rampiers and ditches which the defendants had cast up."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "A person required to make answer in an action or suit; -- opposed to plaintiff."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The term is applied to any party of whom a demand is made in court, whether the party denies and defends the claim, or admits it, and suffers a default; also to a party charged with a criminal offense."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

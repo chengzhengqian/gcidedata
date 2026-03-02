@@ -1,0 +1,80 @@
+{
+  "key": "decretal",
+  "source_file": "CIDE.D",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Decretal",
+      "headword_raw": "De*cre\"tal",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. decretalis, fr. decretum. See Decree.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Appertaining to a decree; containing a decree; as, a decretal epistle."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Decretal",
+      "headword_raw": "De*cre\"tal",
+      "pr": null,
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[LL. decretale, neut. of L. decretalis. See Decretal, a.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(R. C. Ch.)"
+          ],
+          "defs": [
+            "An authoritative order or decree; especially, a letter of the pope, determining some point or question in ecclesiastical law. The decretals form the second part of the canon law."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Canon Law)"
+          ],
+          "defs": [
+            "The collection of ecclesiastical decrees and decisions made, by order of Gregory IX., in 1234, by St. Raymond of Pennafort."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

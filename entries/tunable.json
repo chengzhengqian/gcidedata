@@ -1,0 +1,59 @@
+{
+  "key": "tunable",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Tunable",
+      "headword_raw": "Tun\"a*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Tunableness",
+          "form_raw": "Tun\"a*ble*ness",
+          "key": "tunableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Tunably",
+          "form_raw": "Tun\"a*bly",
+          "key": "tunably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Capable of being tuned, or made harmonious; hence, harmonious; musical; tuneful."
+          ],
+          "quotes": [
+            "And tunable as sylvan pipe or song."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

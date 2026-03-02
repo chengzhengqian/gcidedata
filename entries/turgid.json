@@ -1,0 +1,69 @@
+{
+  "key": "turgid",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Turgid",
+      "headword_raw": "Tur\"gid",
+      "pr": "(tr\"jd)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. turgidus, from turgere to swell.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Turgidly",
+          "form_raw": "Tur\"gid*ly",
+          "key": "turgidly",
+          "pos": [
+            "adv."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Turgidness",
+          "form_raw": "Tur\"gid*ness",
+          "key": "turgidness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Distended beyond the natural state by some internal agent or expansive force; swelled; swollen; bloated; inflated; tumid; -- especially applied to an enlarged part of the body; as, a turgid limb; turgid fruit."
+          ],
+          "quotes": [
+            "A bladder . . . held near the fire grew turgid."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Swelling in style or language; vainly ostentatious; bombastic; pompous; as, a turgid style of speaking."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

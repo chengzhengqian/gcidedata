@@ -1,0 +1,39 @@
+{
+  "key": "tuberculosis",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Tuberculosis",
+      "headword_raw": "Tu*ber`cu*lo\"sis",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[NL. See Tubercle.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A constitutional disease caused by infection with Mycobacterium tuberculosis (also called the Tubercle bacillus), characterized by the production of tubercles in the internal organs, and especially in the lungs, where it constitutes the most common variety of pulmonary phthisis (consumption). The Mycobacteria are slow-growing and without cell walls, and are thus not affected by the beta-lactam antibiotics; treatment is difficult, usually requiring simultaneous administration of multiple antibiotics to effect a cure. Prior to availability of antibiotic treatment, the cure required extensive rest, for which special sanatoriums were constructed."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "key": "tumid",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Tumid",
+      "headword_raw": "Tu\"mid",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. tumidus, fr. tumere to swell; cf. Skr. tumra strong, fat. Cf. Thumb.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Tumidly",
+          "form_raw": "Tu\"mid*ly",
+          "key": "tumidly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Tumidness",
+          "form_raw": "Tu\"mid*ness",
+          "key": "tumidness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Swelled, enlarged, or distended; as, a tumid leg; tumid flesh."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Rising above the level; protuberant."
+          ],
+          "quotes": [
+            "So high as heaved the tumid hills."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Swelling in sound or sense; pompous; puffy; inflated; bombastic; falsely sublime; turgid; as, a tumid expression; a tumid style."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

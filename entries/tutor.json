@@ -1,0 +1,88 @@
+{
+  "key": "tutor",
+  "source_file": "CIDE.T",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Tutor",
+      "headword_raw": "Tu\"tor",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. tutour, L. tutor, fr. tueri to watch, defend: cf. F. tuteur. Cf. Tuition.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Civ. Law)",
+        "(Eng. Universities)",
+        "(Am. Colleges)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "One who guards, protects, watches over, or has the care of, some person or thing.",
+            "A treasurer; a keeper.",
+            "One who has the charge of a child or pupil and his estate; a guardian.",
+            "A private or public teacher.",
+            "An officer or member of some hall, who instructs students, and is responsible for their discipline.",
+            "An instructor of a lower rank than a professor."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Tutor",
+      "headword_raw": "Tu\"tor",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Tutored (?); p. pr. & vb. n. Tutoring.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To have the guardianship or care of; to teach; to instruct."
+          ],
+          "quotes": [
+            "Their sons are well tutored by you."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To play the tutor toward; to treat with authority or severity."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

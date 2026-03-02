@@ -1,0 +1,91 @@
+{
+  "key": "twitch",
+  "source_file": "CIDE.T",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Twitch",
+      "headword_raw": "Twitch",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OE. twicchen, fr. (doubtful) AS. twiccian; akin to AS. angeltwicca a worm used for bait, literally, a hook twitcher, LG. twikken to tweak, G. zwicken. Cf. Tweak.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Twitched (?); p. pr. & vb. n. Twitching.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To pull with a sudden jerk; to pluck with a short, quick motion; to snatch; as, to twitch one by the sleeve; to twitch a thing out of another's hand; to twitch off clusters of grapes."
+          ],
+          "quotes": [
+            "Thrice they twitched the diamond in her ear."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Twitch",
+      "headword_raw": "Twitch",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of twitching; a pull with a jerk; a short, sudden, quick pull; as, a twitch by the sleeve."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A short, spastic contraction of the fibers or muscles; a simple muscular contraction; as, convulsive twitches; a twitch in the side."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Far.)"
+          ],
+          "defs": [
+            "A stick with a hole in one end through which passes a loop, which can be drawn tightly over the upper lip or an ear of a horse. By twisting the stick the compression is made sufficiently painful to keep the animal quiet during a slight surgical operation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "key": "tutorial",
+  "source_file": "CIDE.T",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Tutorial",
+      "headword_raw": "Tu*to\"ri*al",
+      "pr": "(t*tō\"r*l)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. tutorius.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to a tutor; belonging to, or exercised by, a tutor."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "tutorial",
+      "headword_raw": "tu*to\"ri*al",
+      "pr": "(t*tōr\"*l)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A class{6} or short series of classes in which one or more instructors provide intensive instruction on some subject to a small group. Such short courses of instruction may be held at an institution of learning, or in any other place where a small group may desire a brief but thorough introduction to a topic."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "A set of instructions on how to use a particular computer program, built into the software package itself, displayed on the computer screen, and organized in a stepwise manner so as to familiarize a new user with all of or the most important features of the program."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

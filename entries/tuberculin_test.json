@@ -1,0 +1,37 @@
+{
+  "key": "tuberculin_test",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Tuberculin test",
+      "headword_raw": "Tu*ber\"cu*lin test",
+      "pr": "(?)",
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl.",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The hypodermic injection of tuberculin, used as a test for past or present infection with tuberculosis. It is used both for humans and cattle."
+          ],
+          "quotes": [],
+          "notes": [
+            "In humans, a previous or acive infection with tuberculosis will cause a distinct reaction to the injection of tuberculin. The test is thus used to screen populations to discover those who may harbor an active tuberculosis infection, and more definitive tests are performed on those showing a positive reaction, to determine if the infection is active. In cattle there is little or no effect of the injection of tuberculin on healthy animals, but there is a marked rise in temperature in tuberculous animals."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

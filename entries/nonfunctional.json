@@ -1,0 +1,50 @@
+{
+  "key": "nonfunctional",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "nonfunctional",
+      "headword_raw": "nonfunctional",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Not having or performing a function."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Not performing or able to perform its regular function; as, the yard was littered with nonfunctional vehicles waiting to be repaired."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "malfunctioning",
+            "unserviceable",
+            "out of order"
+          ]
+        }
+      ]
+    }
+  ]
+}

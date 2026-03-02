@@ -1,0 +1,77 @@
+{
+  "key": "nitro",
+  "source_file": "CIDE.N",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "nitro",
+      "headword_raw": "ni\"tro",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[By shortening of nitroglycerin.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Nitroglycerin."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "nitro-",
+      "headword_raw": "ni\"tro-",
+      "pr": "(<?/)",
+      "pos": [
+        "pref."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A combining form or an adjective denoting the presence of niter."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "A combining form (used also adjectively) designating certain compounds of nitrogen or of its acids; as nitrohydrochloric, nitrocalcite; also, designating the group or radical NO2, or its compounds, as nitrobenzene (C6H5.NO2)."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

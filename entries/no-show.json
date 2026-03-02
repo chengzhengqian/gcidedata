@@ -1,0 +1,51 @@
+{
+  "key": "no-show",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "no-show",
+      "headword_raw": "no-show",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "someone who shirks a duty."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "nonattender",
+            "truant"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A person who is expected to attend a gathering but does not come.",
+            "a person who buys a ticket to a game or other entertainment and does not attend."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

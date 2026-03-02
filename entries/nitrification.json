@@ -1,0 +1,52 @@
+{
+  "key": "nitrification",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Nitrification",
+      "headword_raw": "Ni`tri*fi*ca\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. nitrification. see Nitrify.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "The act, process, or result of combining with nitrogen or some of its compounds.",
+            "The act or process of oxidizing nitrogen or its compounds so as to form nitrous or nitric acid."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A process of oxidation, in which nitrogenous vegetable and animal matter in the presence of air, moisture, and some basic substances, as lime or alkali carbonate, is converted into nitrates."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The process is going on at all times in porous soils and in water contaminated with nitrogenous matter, and is supposed to be due to the presence of a bacteria, such as members of the genus Azotobacter, formerly called nitrification ferments. In former times the process was extensively made use of in the production of saltpeter."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "key": "noiseless",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Noiseless",
+      "headword_raw": "Noise\"less",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Noiselessly",
+          "form_raw": "Noise\"less*ly",
+          "key": "noiselessly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Noiselessness",
+          "form_raw": "Noise\"less*ness",
+          "key": "noiselessness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Making, or causing, no noise or bustle; without noise; silent; as, the noiseless foot of time."
+          ],
+          "quotes": [
+            "So noiseless would I live."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "key": "slay",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Slay",
+      "headword_raw": "Slay",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp.",
+        "p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OE. slan, sl<?/n, sleen, slee, AS. slen to strike, beat, slay; akin to OFries. slā, D. slaan, OS. & OHG. slahan, G. schlagen, Icel. slā, Dan. slaae, Sw. sl<?/, Goth. slahan; perhaps akin to L. lacerare to tear to pieces, Gr. <?/<?/<?/<?/, E. lacerate. Cf. Slaughter, Sledge a hammer, Sley.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. Slew (?); p. p. Slain (?); p. pr. & vb. n. Slaying.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "kill",
+        "murder",
+        "slaughter",
+        "butcher"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To put to death with a weapon, or by violence; hence, to kill; to put an end to; to destroy."
+          ],
+          "quotes": [
+            "With this sword then will I slay you both.",
+            "I will slay the last of them with the sword.",
+            "I'll slay more gazers than the basilisk."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

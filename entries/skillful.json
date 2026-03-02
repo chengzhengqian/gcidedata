@@ -1,0 +1,78 @@
+{
+  "key": "skillful",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Skillful",
+      "headword_raw": "Skill\"ful",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Written also skilful.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Skillfully",
+          "form_raw": "Skill\"ful*ly",
+          "key": "skillfully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Skillfulness",
+          "form_raw": "Skill\"ful*ness",
+          "key": "skillfulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Discerning; reasonable; judicious; cunning."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Possessed of, or displaying, skill; knowing and ready; expert; well-versed; able in management; as, a skillful mechanic; -- often followed by at, in, or of; as, skillful at the organ; skillful in drawing."
+          ],
+          "quotes": [
+            "And they shall call the husbandman to mourning, and such as are skillful of lamentations to wailing."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Expert",
+            "skilled",
+            "dexterous",
+            "adept",
+            "masterly",
+            "adroit",
+            "clever",
+            "cunning"
+          ]
+        }
+      ]
+    }
+  ]
+}

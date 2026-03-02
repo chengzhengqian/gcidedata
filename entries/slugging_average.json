@@ -1,0 +1,36 @@
+{
+  "key": "slugging_average",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Slugging average",
+      "headword_raw": "Slug\"ging av`er*age",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Baseball)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a measure of the effectiveness of a batter at reaching base and advancing other runners, calculated as the sum of the number of bases reached on each hit, divided by the total number of times at bat. A double counts two bases, a triple three, a home run four. Thus a batter with four singles, two doubles and a triple in 20 official times at bat would have a slugging average of 0.550, and a batting average of 0.350. Also called slugging percentage. Compare batting average."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

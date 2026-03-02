@@ -1,0 +1,80 @@
+{
+  "key": "skirmish",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Skirmish",
+      "headword_raw": "Skir\"mish",
+      "pr": "(?)",
+      "pos": [
+        "v. i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OE. skirmishen, scarmishen, OF. escremir, eskermir, to fence, fight, F. escrimer, of German origin; cf. OHG. scirmen to protect, defend, G. schirmen, OHG. scirm, scerm, protection, shield, G. schirm; perhaps akin to Gr. <?/<?/<?/<?/ a sunshade. Cf. Scaramouch, Scrimmage.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Skirmished (?); p. pr. & vb. n. Skirmishing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To fight slightly or in small parties; to engage in a skirmish or skirmishes; to act as skirmishers."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Skirmish",
+      "headword_raw": "Skir\"mish",
+      "pr": null,
+      "pos": [
+        "n.",
+        "v. i."
+      ],
+      "ety": "[OE. scarmishe, scrymishe. See Skirmish, v. i.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A slight fight in war; a light or desultory combat between detachments from armies, or between detached and small bodies of troops."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A slight contest."
+          ],
+          "quotes": [
+            "They never meet but there's a skirmish of wit."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

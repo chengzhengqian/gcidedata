@@ -1,0 +1,117 @@
+{
+  "key": "slander",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Slander",
+      "headword_raw": "Slan\"der",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. sclandere, OF. esclandre, esclandle, escandre, F. esclandre, fr. L. scandalum, Gr. <?/<?/<?/ a snare, stumbling block, offense, scandal; probably originally, the spring of a trap, and akin to Skr. skand to spring, leap. See Scan, and cf. Scandal.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A false tale or report maliciously uttered, tending to injure the reputation of another; the malicious utterance of defamatory reports; the dissemination of malicious tales or suggestions to the injury of another."
+          ],
+          "quotes": [
+            "Whether we speak evil of a man to his face or behind his back; the former way, indeed, seems to be the most generous, but yet is a great fault, and that which we call “reviling;” the latter is more mean and base, and that which we properly call “slander”, or “Backbiting.”",
+            "[We] make the careful magistrate The mark of slander."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Disgrace; reproach; dishonor; opprobrium."
+          ],
+          "quotes": [
+            "Thou slander of thy mother's heavy womb."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "Formerly, defamation generally, whether oral or written; in modern usage, defamation by words spoken; utterance of false, malicious, and defamatory words, tending to the damage and derogation of another; calumny. See the Note under Defamation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Slander",
+      "headword_raw": "Slan\"der",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Slandered (?); p. pr. & vb. n. Slandering.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To defame; to injure by maliciously uttering a false report; to tarnish or impair the reputation of by false tales maliciously told or propagated; to calumniate."
+          ],
+          "quotes": [
+            "O, do not slander him, for he is kind."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To bring discredit or shame upon by one's acts."
+          ],
+          "quotes": [
+            "Tax not so bad a voice To slander music any more than once."
+          ],
+          "notes": [],
+          "synonyms": [
+            "asperse",
+            "defame",
+            "calumniate",
+            "vilify",
+            "malign",
+            "belie",
+            "scandalize",
+            "reproach. See Asperse"
+          ]
+        }
+      ]
+    }
+  ]
+}

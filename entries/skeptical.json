@@ -1,0 +1,71 @@
+{
+  "key": "skeptical",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Skeptical",
+      "headword_raw": "Skep\"tic*al",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Written also sceptic, sceptical.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Skeptacally",
+          "form_raw": "Skep\"tac*al*ly",
+          "key": "skeptacally",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Skepticalness",
+          "form_raw": "Skep\"tic*al*ness",
+          "key": "skepticalness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to a sceptic or skepticism; characterized by skepticism; hesitating to admit the certainly of doctrines or principles; doubting of everything."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Theol.)"
+          ],
+          "defs": [
+            "Doubting or denying the truth of revelation, or the sacred Scriptures."
+          ],
+          "quotes": [
+            "The skeptical system subverts the whole foundation of morals."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "key": "sloping",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Sloping",
+      "headword_raw": "Slop\"ing",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Slopingly",
+          "form_raw": "Slop\"ing*ly",
+          "key": "slopingly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Inclining or inclined from the plane of the horizon, or from a horizontal or other right line; oblique; declivous; slanting."
+          ],
+          "quotes": [
+            "The sloping land recedes into the clouds."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

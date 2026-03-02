@@ -1,0 +1,124 @@
+{
+  "key": "sluice",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Sluice",
+      "headword_raw": "Sluice",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OF. escluse, F. cluse, LL. exclusa, sclusa, from L. excludere, exclusum, to shut out: cf. D. sluis sluice, from the Old French. See Exclude.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "An artifical passage for water, fitted with a valve or gate, as in a mill stream, for stopping or regulating the flow; also, a water gate or flood gate."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Hence, an opening or channel through which anything flows; a source of supply."
+          ],
+          "quotes": [
+            "Each sluice of affluent fortune opened soon.",
+            "This home familiarity . . . opens the sluices of sensibility."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "The stream flowing through a flood gate."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Mining)"
+          ],
+          "defs": [
+            "A long box or trough through which water flows, -- used for washing auriferous earth."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Sluice",
+      "headword_raw": "Sluice",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Sluiced (?); p. pr. & vb. n. Sluicing (?).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To emit by, or as by, flood gates."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To wet copiously, as by opening a sluice; as, to sluice meadows."
+          ],
+          "quotes": [
+            "He dried his neck and face, which he had been sluicing with cold water."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To wash with, or in, a stream of water running through a sluice; as, to sluice eart or gold dust in mining."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

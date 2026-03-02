@@ -1,0 +1,120 @@
+{
+  "key": "sketch",
+  "source_file": "CIDE.S",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Sketch",
+      "headword_raw": "Sketch",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[D. schets, fr. It. schizzo a sketch, a splash (whence also F. esquisse; cf. Esquisse.); cf. It. schizzare to splash, to sketch.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "Sketch, Outline, Delineation. An outline gives only the bounding lines of some scene or picture. A sketch fills up the outline in part, giving broad touches, by which an imperfect idea may be conveyed. A delineation goes further, carrying out the more striking features of the picture, and going so much into detail as to furnish a clear conception of the whole. Figuratively, we may speak of the outlines of a plan, of a work, of a project, etc., which serve as a basis on which the subordinate parts are formed, or of sketches of countries, characters, manners, etc., which give us a general idea of the things described."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [
+        "Outline",
+        "delineation",
+        "draught",
+        "plan",
+        "design"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An outline or general delineation of anything; a first rough or incomplete draught or plan of any design; especially, in the fine arts, such a representation of an object or scene as serves the artist's purpose by recording its chief features; also, a preliminary study for an original work."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Sketch",
+      "headword_raw": "Sketch",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "n."
+      ],
+      "ety": "[Cf D. schetsen, It. schizzare. See Sketch, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Sketched (?); p. pr. & vb. n. Sketching.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To draw the outline or chief features of; to make a drought of."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To plan or describe by giving the principal points or ideas of."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "delineate",
+            "design",
+            "draught",
+            "depict"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Sketch",
+      "headword_raw": "Sketch",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To make sketches, as of landscapes."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

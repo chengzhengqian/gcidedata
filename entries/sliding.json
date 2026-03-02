@@ -1,0 +1,55 @@
+{
+  "key": "sliding",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Sliding",
+      "headword_raw": "Slid\"ing",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "That slides or slips; gliding; moving smoothly."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mech.)",
+            "(Naut.)",
+            "(Naut)",
+            "(Mech.)",
+            "(Naut.)"
+          ],
+          "defs": [
+            "Slippery; elusory."
+          ],
+          "quotes": [
+            "That sliding science hath me made so bare."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

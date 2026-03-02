@@ -1,0 +1,198 @@
+{
+  "key": "skew",
+  "source_file": "CIDE.S",
+  "record_count": 5,
+  "records": [
+    {
+      "headword": "Skew",
+      "headword_raw": "Skew",
+      "pr": "(?)",
+      "pos": [
+        "adv."
+      ],
+      "ety": "[Cf. D. scheef. Dan. ski<?/v, Sw. skef, Icel. skeifr, G. schief, also E. shy, a. & v. i.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Awry; obliquely; askew."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Skew",
+      "headword_raw": "Skew",
+      "pr": null,
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Civil Engin.)",
+        "(Geom.)",
+        "(Mach.)",
+        "(Geom.)",
+        "(Alg.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Turned or twisted to one side; situated obliquely; skewed; -- chiefly used in technical phrases."
+          ],
+          "quotes": [],
+          "notes": [
+            "This requires that the numbers in the diagonal from the upper left to lower right corner be zeros. A like determinant in which the numbers in the diagonal are not zeros is a skew determinant, as in (2), above."
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Skew",
+      "headword_raw": "Skew",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Arch.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A stone at the foot of the slope of a gable, the offset of a buttress, or the like, cut with a sloping surface and with a check to receive the coping stones and retain them in place."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Skew",
+      "headword_raw": "Skew",
+      "pr": "(?)",
+      "pos": [
+        "v. i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Skewed (?); p. pr. & vb. n. Skewing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To walk obliquely; to go sidling; to lie or move obliquely."
+          ],
+          "quotes": [
+            "Child, you must walk straight, without skewing."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To start aside; to shy, as a horse."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To look obliquely; to squint; hence, to look slightingly or suspiciously."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Skew",
+      "headword_raw": "Skew",
+      "pr": null,
+      "pos": [
+        "v. t.",
+        "adv."
+      ],
+      "ety": "[See Skew, adv.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To shape or form in an oblique way; to cause to take an oblique position."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To throw or hurl obliquely."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

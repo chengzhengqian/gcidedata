@@ -1,0 +1,75 @@
+{
+  "key": "sleepy",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Sleepy",
+      "headword_raw": "Sleep\"y",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "Compar.",
+        "superl.",
+        "n."
+      ],
+      "ety": "[AS. sl<?/pig. See Sleep, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Drowsy; inclined to, or overcome by, sleep."
+          ],
+          "quotes": [
+            "She waked her sleepy crew."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Tending to induce sleep; soporiferous; somniferous; as, a sleepy drink or potion."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Dull; lazy; heavy; sluggish."
+          ],
+          "quotes": [
+            "'Tis not sleepy business; But must be looked to speedily and strongly."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "Characterized by an absence of watchfulness; as, sleepy security."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

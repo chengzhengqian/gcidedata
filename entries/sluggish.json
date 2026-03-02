@@ -1,0 +1,101 @@
+{
+  "key": "sluggish",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Sluggish",
+      "headword_raw": "Slug\"gish",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Sluggishly",
+          "form_raw": "Slug\"gish*ly",
+          "key": "sluggishly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Sluggishness",
+          "form_raw": "Slug\"gish*ness",
+          "key": "sluggishness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Habitually idle and lazy; slothful; dull; inactive; as, a sluggish man."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Slow; having little motion; as, a sluggish stream."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Having no power to move one's self or itself; inert."
+          ],
+          "quotes": [
+            "Matter, being impotent, sluggish, and inactive, hath no power to stir or move itself.",
+            "And the sluggish land slumbers in utter neglect."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Characteristic of a sluggard; dull; stupid; tame; simple."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Inert",
+            "idle",
+            "lazy",
+            "slothful",
+            "indolent",
+            "dronish",
+            "slow",
+            "dull",
+            "drowsy",
+            "inactive. See Inert"
+          ]
+        }
+      ]
+    }
+  ]
+}

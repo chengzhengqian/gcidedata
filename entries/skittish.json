@@ -1,0 +1,68 @@
+{
+  "key": "skittish",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Skittish",
+      "headword_raw": "Skit\"tish",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "v. t.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[See Skit, v. t.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Skittishly",
+          "form_raw": "Skit\"tish*ly",
+          "key": "skittishly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Skittishness",
+          "form_raw": "Skit\"tish*ness",
+          "key": "skittishness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Easily frightened; timorous; shy; untrustworthy; as, a skittish colt."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Wanton; restive; freakish; volatile; changeable; fickle."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

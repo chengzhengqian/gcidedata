@@ -1,0 +1,44 @@
+{
+  "key": "bank_bill",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Bank bill",
+      "headword_raw": "Bank\" bill`",
+      "pr": "(bk\" bl`)",
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "In America (and formerly in England), a promissory note of a bank payable to the bearer on demand, and used as currency; a bank note."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "In England, a note, or a bill of exchange, of a bank, payable to order, and usually at some future specified time. Such bills are negotiable, but form, in the strict sense of the term, no part of the currency."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

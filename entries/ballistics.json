@@ -1,0 +1,57 @@
+{
+  "key": "ballistics",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Ballistics",
+      "headword_raw": "Bal*lis\"tics",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. balistique. See Ballista.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The science treating the motion of projectiles in flight, especially when they are in free fall within the earth's gravitational field."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "The study of the characteristics of a cartridge fired from a firearm, and of the processes occurring during the discharge of a firearm."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "The division within a police department which studies the characteristics of cartridges fired from a firearm; the ballistics department. The characteristics of the weapons and bullets fired may be used as evidence in criminal investigations."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,466 @@
+{
+  "key": "bank",
+  "source_file": "CIDE.B",
+  "record_count": 8,
+  "records": [
+    {
+      "headword": "Bank",
+      "headword_raw": "Bank",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OF. banc, LL. bancus. See Bank, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A bench; a high seat, or seat of distinction or judgment; a tribunal or court."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Bank",
+      "headword_raw": "Bank",
+      "pr": "(bk)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. banke; akin to E. bench, and prob. of Scand. origin; cf. Icel. bakki. See Bench.]",
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl.",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A mound, pile, or ridge of earth, raised above the surrounding level; hence, anything shaped like a mound or ridge of earth; as, a bank of clouds; a bank of snow."
+          ],
+          "quotes": [
+            "They cast up a bank against the city."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A steep acclivity, as the slope of a hill, or the side of a ravine."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "The margin of a watercourse; the rising ground bordering a lake, river, or sea, or forming the edge of a cutting, or other hollow."
+          ],
+          "quotes": [
+            "Tiber trembled underneath her banks."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "An elevation, or rising ground, under the sea; a shoal, shelf, or shallow; as, the banks of Newfoundland."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Mining)"
+          ],
+          "defs": [
+            "The face of the coal at which miners are working.",
+            "A deposit of ore or coal, worked by excavations above water level.",
+            "The ground at the top of a shaft; as, ores are brought to bank."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [
+            "(Aëronautics)"
+          ],
+          "defs": [
+            "The lateral inclination of an aëroplane as it rounds a curve; as, a bank of 45° is easy; a bank of 90° is dangerous."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "7.",
+          "fields": [],
+          "defs": [
+            "A group or series of objects arranged near together; as, a bank of electric lamps, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "8.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "The tilt of a roadway or railroad, at a curve in the road, designed to counteract centrifugal forces acting on vehicles moving rapidly around the curve, thus reducing the danger of overturning during a turn."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Bank",
+      "headword_raw": "Bank",
+      "pr": null,
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": "[imp. & p. p. Banked(bkt); p. pr. & vb. n. Banking.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To raise a mound or dike about; to inclose, defend, or fortify with a bank; to embank."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To heap or pile up; as, to bank sand."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To pass by the banks of."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Engineering)"
+          ],
+          "defs": [
+            "To build (a roadway or railroad) with an inclination at a curve in the road, so as to counteract centrifugal forces acting on vehicles moving rapidly around the curve, thus reducing the danger of vehicles overturning at a curve; as, the raceway was steeply banked at the curves."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Bank",
+      "headword_raw": "Bank",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[Prob. fr. F. banc. Of German origin, and akin to E. bench. See Bench.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A bench, as for rowers in a galley; also, a tier of oars."
+          ],
+          "quotes": [
+            "Placed on their banks, the lusty Trojan sweep Neptune's smooth face, and cleave the yielding deep."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "The bench or seat upon which the judges sit.",
+            "The regular term of a court of law, or the full court sitting to hear arguments upon questions of law, as distinguished from a sitting at Nisi Prius, or a court held for jury trials. See Banc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Printing)"
+          ],
+          "defs": [
+            "A sort of table used by printers."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Music)"
+          ],
+          "defs": [
+            "A bench, or row of keys belonging to a keyboard, as in an organ."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Bank",
+      "headword_raw": "Bank",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. banque, It. banca, orig. bench, table, counter, of German origin, and akin to E. bench; cf. G. bank bench, OHG. banch. See Bench, and cf. Banco, Beach.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "An establishment for the custody, loan, exchange, or issue, of money, and for facilitating the transmission of funds by drafts or bills of exchange; an institution incorporated for performing one or more of such functions, or the stockholders (or their representatives, the directors), acting in their corporate capacity."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The building or office used for banking purposes."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A fund to be used in transacting business, especially a joint stock or capital."
+          ],
+          "quotes": [
+            "Let it be no bank or common stock, but every man be master of his own money."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Gaming)"
+          ],
+          "defs": [
+            "The sum of money or the checks which the dealer or banker has as a fund, from which to draw his stakes and pay his losses."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "In certain games, as dominoes, a fund of pieces from which the players are allowed to draw; in Monopoly, the fund of money used to pay bonuses due to the players, or to which they pay fines."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [],
+          "defs": [
+            "a place where something is stored and held available for future use;",
+            "an organization that stores biological products for medical needs; as, a blood bank, an organ bank, a sperm bank."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Bank",
+      "headword_raw": "Bank",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To deposit in a bank."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Bank",
+      "headword_raw": "Bank",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To keep a bank; to carry on the business of a banker."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To deposit money in a bank; to have an account with a banker."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Bank",
+      "headword_raw": "Bank",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Aëronautics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To tilt sidewise in rounding a curve; -- said of a flying machine, an aërocurve, or the like."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

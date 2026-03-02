@@ -1,0 +1,84 @@
+{
+  "key": "barricade",
+  "source_file": "CIDE.B",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Barricade",
+      "headword_raw": "Bar`ri*cade\"",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. barricade, fr. Sp. barricada, orig. a barring up with casks; fr. barrica cask, perh. fr. LL. barra bar. See Bar, n., and cf. Barrel, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Mil.)"
+          ],
+          "defs": [
+            "A fortification, made in haste, of trees, earth, palisades, wagons, or anything that will obstruct the progress or attack of an enemy. It is usually an obstruction formed in streets to block an enemy's access."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Any bar, obstruction, or means of defense."
+          ],
+          "quotes": [
+            "Such a barricade as would greatly annoy, or absolutely stop, the currents of the atmosphere."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Barricade",
+      "headword_raw": "Bar`ri*cade\"",
+      "pr": null,
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "n."
+      ],
+      "ety": "[Cf. F. barricader. See Barricade, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Barricaded; p. pr. & vb. n. Barricading.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To fortify or close with a barricade or with barricades; to stop up, as a passage; to obstruct; as, the workmen barricaded the streets of Paris."
+          ],
+          "quotes": [
+            "The further end whereof [a bridge] was barricaded with barrels."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

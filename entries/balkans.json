@@ -1,0 +1,51 @@
+{
+  "key": "balkans",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Balkans",
+      "headword_raw": "Balkans",
+      "pr": null,
+      "pos": [
+        "prop. n. pl."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The countries occupying the Balkan Peninsula."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Balkan countries",
+            "Balkan nations",
+            "Balkan states"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The Balkan mountains."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "key": "barnstormer",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Barnstormer",
+      "headword_raw": "Barn\"storm`er",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Barn + storm, v.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Barnstorming",
+          "form_raw": "Barn\"storm`ing",
+          "key": "barnstorming",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "An itinerant theatrical player who plays in barns when a theatre is lacking; hence, an inferior actor, or one who plays in the country away from the larger cities."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "an aviator who flies an airplane from place to place, usually at small airports, doing flying stunts or flying passengers for sightseeing, for the purpose of earning money. It was a practise common in the early days of aviation, but by late 20th century was seldom encountered."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

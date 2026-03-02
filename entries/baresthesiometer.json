@@ -1,0 +1,56 @@
+{
+  "key": "baresthesiometer",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Baresthesiometer",
+      "headword_raw": "Bar`es*the`si*om\"e*ter",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Gr. <?/ weight + æsthesiometer.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Baræsthesiometric",
+          "form_raw": "Bar`<ae/s*the`si*o*met\"ric",
+          "key": "bar_sthesiometric",
+          "pos": [],
+          "pr": null
+        },
+        {
+          "form": "Baresthesiometric",
+          "form_raw": "Bar`es*the`si*o*met\"ric",
+          "key": "baresthesiometric",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physiol.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An instrument for determining the delicacy of the sense of pressure."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

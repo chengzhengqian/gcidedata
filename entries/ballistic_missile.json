@@ -1,0 +1,38 @@
+{
+  "key": "ballistic_missile",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "ballistic missile",
+      "headword_raw": "bal*lis\"tic mis`sile",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A rocket-propelled missile of long range which is guided only during the powered portion of its flight, which usually takes only a small part of the total flight time; -- contrasted with guided missile."
+          ],
+          "quotes": [],
+          "notes": [
+            "Ballistic missiles are sometimes referred to by their range, such as an intercontinental ballistic missile (ICBM) or an intermediate range ballistic missile (IRBM)."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "key": "bank_note",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "bank note",
+      "headword_raw": "bank\" note`",
+      "pr": "(bk\"nōt`)",
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A promissory note issued by a bank or banking company, payable to the bearer on demand. See also sense 4."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ In the United States popularly called a bank bill."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Formerly, a promissory note made by a banker, or banking company, payable to a specified person at a fixed date; a bank bill. See Bank bill, 2."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A promissory note payable at a bank."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "A promissory note issued by an authorized bank, payable to the bearer on demand and intended to circulate as government-authorized money; in the United States such notes may only be issued by a Federal Reserve Bank; as, he peeled off five one-thousand-zloty banknotes."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "bill",
+            "note",
+            "government note",
+            "bank bill",
+            "banker's bill",
+            "bank note",
+            "Federal Reserve note",
+            "greenback"
+          ]
+        }
+      ]
+    }
+  ]
+}

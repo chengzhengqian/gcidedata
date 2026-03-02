@@ -1,0 +1,53 @@
+{
+  "key": "barroom",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Barroom",
+      "headword_raw": "Bar\"room`",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A room containing a bar or counter at which liquors are sold."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a commercial establishment where alcoholic drinks are served over a counter."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "bar-room",
+            "bar",
+            "saloon",
+            "ginmill",
+            "taproom"
+          ]
+        }
+      ]
+    }
+  ]
+}

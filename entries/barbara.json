@@ -1,0 +1,38 @@
+{
+  "key": "barbara",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Barbara",
+      "headword_raw": "Bar\"ba*ra",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Coined by logicians.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Logic)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The first word in certain mnemonic lines which represent the various forms of the syllogism. It indicates a syllogism whose three propositions are universal affirmatives."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

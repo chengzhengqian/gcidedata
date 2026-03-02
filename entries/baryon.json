@@ -1,0 +1,38 @@
+{
+  "key": "baryon",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "baryon",
+      "headword_raw": "baryon",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "any of the elementary particles having a mass equal to or greater than that of a proton and that participate in strong interactions; a hadron with a baryon number of +1."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "heavy particle"
+          ]
+        }
+      ]
+    }
+  ]
+}

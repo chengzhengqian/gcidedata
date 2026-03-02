@@ -1,0 +1,44 @@
+{
+  "key": "barretter",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "barretter",
+      "headword_raw": "bar\"ret*ter",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OF. bareter to exchange. Cf. Barter.]",
+      "sources": [
+        "Webster 1913 Suppl.",
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Electronics)"
+          ],
+          "defs": [
+            "a resistor inserted into a circuit to compensate for changes (such as those arising from temperature fluctuations); a thermal cymoscope."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The original form consisted of an extremely fine platinum wire loop attached to terminals and inclosed in a small glass or silver bulb. It operates by increased resistance when subjected to the influence of an electric current. In a later variety, called the liquid barretter, wire is replace by a column of liquid in a very fine capillary tube. A recent version has a resistor composed of an iron wire in a glass bulb containing hydrogen, with the temperature variation of resistance such that the current passing through it remains constant over a wide range of applied voltages."
+          ],
+          "synonyms": [
+            "ballast resistor"
+          ]
+        }
+      ]
+    }
+  ]
+}

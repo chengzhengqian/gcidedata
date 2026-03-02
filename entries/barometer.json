@@ -1,0 +1,38 @@
+{
+  "key": "barometer",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Barometer",
+      "headword_raw": "Ba*rom\"e*ter",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. ba`ros weight + -meter: cf. F. baromtre.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An instrument for determining the weight or pressure of the atmosphere, and hence for judging of the probable changes of weather, or for ascertaining the height of any ascent."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The barometer was invented by Torricelli at Florence about 1643. It is made in its simplest form by filling a graduated glass tube about 34 inches long with mercury and inverting it in a cup containing mercury. The column of mercury in the tube descends until balanced by the weight of the atmosphere, and its rise or fall under varying conditions is a measure of the change in the atmospheric pressure. At the sea level its ordinary height is about 30 inches (760 millimeters). See Sympiesometer."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

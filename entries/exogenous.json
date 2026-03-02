@@ -1,0 +1,90 @@
+{
+  "key": "exogenous",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "exogenous",
+      "headword_raw": "ex*og\"e*nous",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Bot.)"
+          ],
+          "defs": [
+            "derived from or originating outside; pertaining to, or having the character of, an exogen; -- the opposite of endogenous."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "exogenetic"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Bot.)"
+          ],
+          "defs": [
+            "Growing by addition to the exterior; growing by addition of a new external layer of cells on the surface just beneath the bark; -- of plants."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Anat.)"
+          ],
+          "defs": [
+            "Growing from previously ossified parts; -- opposed to autogenous."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "caused by factors from outside the body, rather than from an abnormality of internal functions; -- of illness."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Biol., Biochem.)",
+            "(Med.)"
+          ],
+          "defs": [
+            "not synthesized within the organism; absorbed or assimilated from outside the organism."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

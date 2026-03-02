@@ -1,0 +1,60 @@
+{
+  "key": "exhaustion",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Exhaustion",
+      "headword_raw": "Ex*haus\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. exhaustion.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of draining out or draining off; the act of emptying completely of the contents."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The state of being exhausted or emptied; the state of being deprived of strength or spirits."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "An ancient geometrical method in which an exhaustive process was employed. It was nearly equivalent to the modern method of limits."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The method of exhaustions was applied to great variety of propositions, pertaining to rectifications and quadratures, now investigated by the calculus."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

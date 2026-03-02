@@ -1,0 +1,51 @@
+{
+  "key": "exponential",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Exponential",
+      "headword_raw": "Ex`po*nen\"tial",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Cf. F. exponentiel.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Pertaining to exponents; involving variable exponents; as, an exponential expression; exponential calculus; an exponential function."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "changing over time in an exponential manner, i. e. increasing or decreasing by a fixed ratio for each unit of time; as, exponential growth; exponential decay."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Exponential growth is characteristic of bacteria and other living populations in circumstances where the conditions of growth are favorable, and all required nutrients are plentiful. For example, the bacterium Escherichia coli in rich media may double in number every 20 minutes until one of the nutrients becomes exhausted or waste products begin to inhibit growth. Many fascinating thought experiments are proposed on the theme of exponential growth. One may calculate, for example how long it would take the progeny of one Escherichia coli to equal the mass of the known universe if it multiplied unimpeded at such a rate. The answer, assuming the equivalent of 1080 hydrogen atoms in the universe, is less than three days. Exponential increases in a quantity can be surprising, and this principle is often used by banks to make investment at a certain rate of interest seem to be very profitable over time. Exponential decay is exhibited by decay of radioactive materials and some chemical reactions (first order reactions), in which one-half of the initial quantity of radioactive element (or chemical substance) is lost for each lapse of a characteristic time called the half-life."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

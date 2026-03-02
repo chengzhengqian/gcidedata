@@ -1,0 +1,59 @@
+{
+  "key": "excusable",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Excusable",
+      "headword_raw": "Ex*cus\"a*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[L. excusabilis: cf. F. excusable. See Excuse.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Excusableness",
+          "form_raw": "Ex*cus\"a*ble*ness",
+          "key": "excusableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Excusably",
+          "form_raw": "Ex*cus\"a*bly",
+          "key": "excusably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "That may be excused, forgiven, justified, or acquitted of blame; pardonable; as, the man is excusable; an excusable action."
+          ],
+          "quotes": [
+            "The excusableness of my dissatisfaction."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

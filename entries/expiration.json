@@ -1,0 +1,57 @@
+{
+  "key": "expiration",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Expiration",
+      "headword_raw": "Ex`pi*ra\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. expiratio,exspiratio: cf. F. expiration. See Expire.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Physiol.)"
+          ],
+          "defs": [
+            "The act of expiring",
+            "The act or process of breathing out, or forcing air from the lungs through the nose or mouth; as, respiration consists of inspiration and expiration; -- opposed to inspiration.",
+            "Emission of volatile matter; exhalation.",
+            "The last emission of breath; death.",
+            "A coming to a close; cessation; extinction; termination; end."
+          ],
+          "quotes": [
+            "The true cause of cold is an expiration from the globe of the earth.",
+            "Before the expiration of thy time."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That which is expired; matter breathed forth; that which is produced by breathing out, as a sound."
+          ],
+          "quotes": [
+            "The aspirate “he,” which is . . . a gentle expiration."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

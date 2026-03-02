@@ -1,0 +1,107 @@
+{
+  "key": "exhibit",
+  "source_file": "CIDE.E",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Exhibit",
+      "headword_raw": "Ex*hib\"it",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. exhibitus, p. p. of exhibere to hold forth, to tender, exhibit; ex out + habere to have or hold. See Habit.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Exhibited; p. pr. & vb. n. Exhibiting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To hold forth or present to view; to produce publicly, for inspection; to show, especially in order to attract notice to what is interesting; to display; as, to exhibit commodities in a warehouse, a picture in a gallery."
+          ],
+          "quotes": [
+            "Exhibiting a miserable example of the weakness of mind and body."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "To submit, as a document, to a court or officer, in course of proceedings; also, to present or offer officially or in legal form; to bring, as a charge."
+          ],
+          "quotes": [
+            "He suffered his attorney-general to exhibit a charge of high treason against the earl."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "To administer as a remedy; as, to exhibit calomel."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Exhibit",
+      "headword_raw": "Ex*hib\"it",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Any article, or collection of articles, displayed to view, as in an industrial exhibition; a display; as, this exhibit was marked A; the English exhibit."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "A document produced and identified in court for future use as evidence."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

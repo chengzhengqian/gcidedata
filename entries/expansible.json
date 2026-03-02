@@ -1,0 +1,59 @@
+{
+  "key": "expansible",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Expansible",
+      "headword_raw": "Ex*pan\"si*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[Cf. F. expansible.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Expansibleness",
+          "form_raw": "Ex*pan\"si*ble*ness",
+          "key": "expansibleness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Expansibly",
+          "form_raw": "Ex*pan\"si*bly",
+          "key": "expansibly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Capable of being expanded or spread out widely."
+          ],
+          "quotes": [
+            "Bodies are not expansible in proportion to their weight."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

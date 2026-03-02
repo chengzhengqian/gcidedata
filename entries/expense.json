@@ -1,0 +1,64 @@
+{
+  "key": "expense",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Expense",
+      "headword_raw": "Ex*pense\"",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. expensa (sc. pecunia), or expensum, fr. expensus, p. p. of expendere. See Expend.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A spending or consuming; disbursement; expenditure."
+          ],
+          "quotes": [
+            "Husband nature's riches from expense."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That which is expended, laid out, or consumed; cost; outlay; charge; -- sometimes with the notion of loss or damage to those on whom the expense falls; as, the expenses of war; an expense of time."
+          ],
+          "quotes": [
+            "Courting popularity at his party's expense."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Mil.)"
+          ],
+          "defs": [
+            "Loss."
+          ],
+          "quotes": [
+            "And moan the expense of many a vanished sight."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

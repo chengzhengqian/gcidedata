@@ -1,0 +1,48 @@
+{
+  "key": "exegesis",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Exegesis",
+      "headword_raw": "Ex`e*ge\"sis",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[NL., fr.Gr. <?/,fr. <?/ to explain, interpret; <?/ out + <?/ to guide, lead, akin, to <?/ to lead. See Agent.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Exposition; explanation; especially, a critical explanation of a text or portion of Scripture."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "The process of finding the roots of an equation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "key": "explicit",
+  "source_file": "CIDE.E",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Explicit",
+      "headword_raw": "Ex\"pli*cit",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[LL., an abbreviation of explicitus (est liber) the book (which anciently was a roll of parchment) is unfolded (and, of course, “finished”). See Explicit, a.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A word formerly used (as finis is now) at the conclusion of a book to indicate the end."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Explicit",
+      "headword_raw": "Ex*plic\"it",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. explicitus; p. p. of explicare to unfold: cf. F. explicite. See Explicate, Exploit.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "-- Explicit, Express. Explicit denotes a setting forth in the plainest language, so that the meaning can not be misunderstood; as, an explicit promise. Express is stronger than explicit: it adds force to clearness. An express promise or engagement is not only unambiguous, but stands out in bold relief, with the most binding hold on the conscience. An explicit statement; a clear and explicit notion; explicit direction; no words can be more explicit. An explicit command; an express prohibition. “An express declaration goes forcibly and directly to the point. An explicit declaration leaves nothing ambiguous.” C. J. Smith."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Not implied merely, or conveyed by implication; distinctly stated; plain in language; open to the understanding; clear; not obscure or ambiguous; express; unequivocal; as, an explicit declaration. Opposite of implicit."
+          ],
+          "quotes": [
+            "The language of the charter was too explicit to admit of a doubt."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "Having no disguised meaning or reservation; unreserved; outspoken; -- applied to persons; as, he was earnest and explicit in his statement."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Express",
+            "clear",
+            "plain",
+            "open",
+            "unreserved",
+            "unambiguous"
+          ]
+        }
+      ]
+    }
+  ]
+}

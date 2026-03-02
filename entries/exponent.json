@@ -1,0 +1,61 @@
+{
+  "key": "exponent",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Exponent",
+      "headword_raw": "Ex*po\"nent",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. exponens, -entis, p. pr. of exponere to put out, set forth, expose. See Expound.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Alg.)"
+          ],
+          "defs": [
+            "A number, letter, or any quantity written on the right hand of and above another quantity, and denoting how many times the latter is repeated as a factor to produce the power indicated"
+          ],
+          "quotes": [],
+          "notes": [
+            "thus a2 denotes the second power, and ax the xth power, of a (2 and x being the exponents). A fractional exponent, or index, is used to denote the root of a quantity. Thus, a⅓ denotes the third or cube root of a."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "One who, or that which, stands as an index or representative; as, the leader of a party is the exponent of its principles."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "one who explains, expounds, or interprets."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "key": "explosive",
+  "source_file": "CIDE.E",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Explosive",
+      "headword_raw": "Ex*plo\"sive",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Cf. F. explosif.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Driving or bursting out with violence and noise; causing explosion; as, the explosive force of gunpowder."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Explosive",
+      "headword_raw": "Ex*plo\"sive",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "An explosive agent; a compound or mixture susceptible of a rapid chemical reaction, as gunpowder, TNT, dynamite, or nitro-glycerine."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Phonetics)"
+          ],
+          "defs": [
+            "A sound produced by an explosive impulse of the breath; (Phonetics) one of consonants p, b, t, d, k, g, which are sounded with a sort of explosive power of voice. [See Guide to Pronunciation, √ 155-7, 184.]"
+          ],
+          "quotes": [],
+          "notes": [
+            "[See Guide to Pronunciation, √ 155-7, 184.]"
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

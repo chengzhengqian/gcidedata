@@ -1,0 +1,47 @@
+{
+  "key": "exotical",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Exotical",
+      "headword_raw": "Ex*ot\"ic*al",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Exoticalness",
+          "form_raw": "Ex*ot\"ic*al*ness",
+          "key": "exoticalness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Foreign; not native; exotic."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

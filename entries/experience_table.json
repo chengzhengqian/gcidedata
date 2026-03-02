@@ -1,0 +1,36 @@
+{
+  "key": "experience_table",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Experience table",
+      "headword_raw": "Ex*pe\"ri*ence ta\"ble",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Life Insurance)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A table of mortality computed from the experience of one or more life-insurance companies."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "key": "expensefull",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Expensefull",
+      "headword_raw": "Ex*pense\"full",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Expensefully",
+          "form_raw": "Ex*pense\"ful*ly",
+          "key": "expensefully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Expensefulness",
+          "form_raw": "Ex*pense\"ful*ness",
+          "key": "expensefulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Full of expense; costly; chargeable."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "key": "executory",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Executory",
+      "headword_raw": "Ex*ec\"u*to*ry",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[LL. executorius, L. exsecutorius: cf.F. excutoire.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Pertaining to administration, or putting the laws in force; executive."
+          ],
+          "quotes": [
+            "The official and executory duties of government."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "Designed to be executed or carried into effect in time to come, or to take effect on a future contingency; as, an executory devise, reminder, or estate; an executory contract."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

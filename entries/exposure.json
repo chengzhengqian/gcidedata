@@ -1,0 +1,74 @@
+{
+  "key": "exposure",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Exposure",
+      "headword_raw": "Ex*po\"sure",
+      "pr": "(?;135)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[From Expose.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of exposing or laying open, setting forth, laying bare of protection, depriving of care or concealment, or setting out to reprobation or contempt."
+          ],
+          "quotes": [
+            "The exposure of Fuller . . . put an end to the practices of that vile tribe."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The state of being exposed or laid open or bare; openness to danger; accessibility to anything that may affect, especially detrimentally; as, exposure to observation, to cold, to inconvenience."
+          ],
+          "quotes": [
+            "When we have our naked frailties hid, That suffer in exposure."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Position as to points of compass, or to influences of climate, etc."
+          ],
+          "quotes": [
+            "The best exposure of the two for woodcocks."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Photog.)"
+          ],
+          "defs": [
+            "The exposing of a sensitized plate to the action of light."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

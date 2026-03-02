@@ -1,0 +1,50 @@
+{
+  "key": "expenditure",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Expenditure",
+      "headword_raw": "Ex*pend\"iture",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of expending; a laying out, as of money; disbursement."
+          ],
+          "quotes": [
+            "Our expenditure purchased commerce and conquest."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That which is expended or paid out; expense."
+          ],
+          "quotes": [
+            "The receipts and expenditures of this extensive country."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "key": "excursive",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Excursive",
+      "headword_raw": "Ex*cur\"sive",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Excursively",
+          "form_raw": "Ex*cur\"sive*ly",
+          "key": "excursively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Excursiveness",
+          "form_raw": "Ex*cur\"sive*ness",
+          "key": "excursiveness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Prone to make excursions; wandering; roving; exploring; as, an excursive fancy."
+          ],
+          "quotes": [
+            "The course of excursive . . . understandings."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "key": "exit",
+  "source_file": "CIDE.E",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Exit",
+      "headword_raw": "Ex\"it",
+      "pr": "(?)",
+      "pos": [],
+      "ety": "[L., 3d pers. sing. pres. of exire to go out. See Exeunt, Issue.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "He (or she ) goes out, or retires from view; as, exit Macbeth."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The Latin words exit (he or she goes out), and exeunt ( they go out), are used in dramatic writings to indicate the time of withdrawal from the stage of one or more of the actors."
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Exit",
+      "headword_raw": "Ex\"it",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[See 1st Exit.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The departure of a player from the stage, when he has performed his part."
+          ],
+          "quotes": [
+            "They have their exits and their entrances."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Any departure; the act of quitting the stage of action or of life; death; as, to make one's exit."
+          ],
+          "quotes": [
+            "Sighs for his exit, vulgarly called death."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A way of departure; passage out of a place; egress; way out."
+          ],
+          "quotes": [
+            "Forcing the water forth through its ordinary exits."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

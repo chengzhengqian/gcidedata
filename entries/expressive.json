@@ -1,0 +1,72 @@
+{
+  "key": "expressive",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Expressive",
+      "headword_raw": "Ex*press\"ive",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Cf. F. expressif.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Expressively",
+          "form_raw": "Ex*press\"ive*ly",
+          "key": "expressively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Expressiveness",
+          "form_raw": "Ex*press\"ive*ness",
+          "key": "expressiveness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Serving to express, utter, or represent; indicative; communicative; -- followed by of; as, words expressive of his gratitude."
+          ],
+          "quotes": [
+            "Each verse so swells expressive of her woes."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Full of expression; vividly representing the meaning or feeling meant to be conveyed; significant; emphatic; as, expressive looks or words."
+          ],
+          "quotes": [
+            "You have restrained yourself within the list of too cold an adieu; be more expressive to them.",
+            "Through her expressive eyes her soul distinctly spoke."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

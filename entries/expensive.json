@@ -1,0 +1,78 @@
+{
+  "key": "expensive",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Expensive",
+      "headword_raw": "Ex*pen\"sive",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Expensively",
+          "form_raw": "Ex*pen\"sive*ly",
+          "key": "expensively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Expensiveness",
+          "form_raw": "Ex*pen\"sive*ness",
+          "key": "expensiveness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Occasioning expense; calling for liberal outlay; costly; dear; liberal; as, expensive dress; an expensive house or family."
+          ],
+          "quotes": [
+            "War is expensive, and peace desirable."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Free in expending; very liberal; especially, in a bad sense: extravagant; lavish."
+          ],
+          "quotes": [
+            "An active, expensive, indefatigable goodness.",
+            "The idle and expensive are dangerous."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Costly",
+            "dear",
+            "high-priced",
+            "lavish",
+            "extravagant"
+          ]
+        }
+      ]
+    }
+  ]
+}

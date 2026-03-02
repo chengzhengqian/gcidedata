@@ -1,0 +1,122 @@
+{
+  "key": "expression",
+  "source_file": "CIDE.E",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Expression",
+      "headword_raw": "Ex*pres\"sion",
+      "pr": "(ks*prsh\"n)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. expressio: cf. F. expression.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of expressing; the act of forcing out by pressure; as, the expression of juices or oils; also, of extorting or eliciting; as, a forcible expression of truth."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The act of declaring or signifying; declaration; utterance; as, an expression of the public will."
+          ],
+          "quotes": [
+            "With this tone of philosophy were mingled expressions of sympathy."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Lively or vivid representation of meaning, sentiment, or feeling, etc.; significant and impressive indication, whether by language, appearance, or gesture; that manner or style which gives life and suggestive force to ideas and sentiments; as, he reads with expression; her performance on the piano has expression."
+          ],
+          "quotes": [
+            "The imitators of Shakespeare, fixing their attention on his wonderful power of expression, have directed their imitation to this."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "That which is expressed by a countenance, a posture, a work of art, etc.; look, as indicative of thought or feeling."
+          ],
+          "quotes": [
+            "It still wore the majesty of expression so conspicuous in his portraits by the inimitable pencil of Titian."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "A form of words in which an idea or sentiment is conveyed; a mode of speech; a phrase; as, a common expression; an odd expression."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "The representation of any quantity or relation by appropriate characters or symbols, usually in a specific order."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "7.",
+          "fields": [
+            "(Genetics)"
+          ],
+          "defs": [
+            "the production of products by a gene that cause the appearance of the corresponding protein or phenotype; -- of a gene or of an organism with a specific gene; as, the expression the beta-galactosidase positive phenotype,"
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "8.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "a combination of characters linked by operators, occurring as part of the code of a computer program, which must be evaluated according to the rules of the computer language in order to produce a resulting value."
+          ],
+          "quotes": [],
+          "notes": [
+            "In most programming languages, (a + b) is an expression indicating simple arithmetic addition, if the variables a and b are real numbers. Many other types of operation may be used in programs, and each set of symbols indicating an operation is an expression in that program."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

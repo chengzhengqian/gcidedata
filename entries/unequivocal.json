@@ -1,0 +1,57 @@
+{
+  "key": "unequivocal",
+  "source_file": "CIDE.U",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Unequivocal",
+      "headword_raw": "Un`e*quiv\"o*cal",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Unequivocally",
+          "form_raw": "Un`e*quiv\"o*cal*ly",
+          "key": "unequivocally",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Unequivocalness",
+          "form_raw": "Un`e*quiv\"o*cal*ness",
+          "key": "unequivocalness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not equivocal; not doubtful; not ambiguous; evident; sincere; plain; as, unequivocal evidence; unequivocal words."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

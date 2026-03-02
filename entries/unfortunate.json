@@ -1,0 +1,58 @@
+{
+  "key": "unfortunate",
+  "source_file": "CIDE.U",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Unfortunate",
+      "headword_raw": "Un*for\"tu*nate",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Unfortunately",
+          "form_raw": "Un*for\"tu*nate*ly",
+          "key": "unfortunately",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Unfortunateness",
+          "form_raw": "Un*for\"tu*nate*ness",
+          "key": "unfortunateness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not fortunate; unsuccessful; not prosperous; unlucky; attended with misfortune; unhappy; as, an unfortunate adventure; an unfortunate man; an unfortunate commander; unfortunate business.",
+            "An unfortunate person."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

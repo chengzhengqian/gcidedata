@@ -1,0 +1,79 @@
+{
+  "key": "uneven",
+  "source_file": "CIDE.U",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Uneven",
+      "headword_raw": "Un*e\"ven",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[AS. unefen. See Un- not, and Even, a.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Unevenly",
+          "form_raw": "Un*e\"ven*ly",
+          "key": "unevenly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Unevenness",
+          "form_raw": "Un*e\"ven*ness",
+          "key": "unevenness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Not even; not level; not uniform; rough; as, an uneven road or way; uneven ground."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Not equal; not of equal length."
+          ],
+          "quotes": [
+            "Hebrew verse consists of uneven feet."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Not divisible by two without a remainder; odd; -- said of numbers; as, 3, 7, and 11 are uneven numbers."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

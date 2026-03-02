@@ -1,0 +1,78 @@
+{
+  "key": "unfrequent",
+  "source_file": "CIDE.U",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Unfrequent",
+      "headword_raw": "Un*fre\"quent",
+      "pr": "(<?/)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[Pref. un- not + frequent.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Unfrequently",
+          "form_raw": "Un*fre\"quent*ly",
+          "key": "unfrequently",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Infrequent."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Unfrequent",
+      "headword_raw": "Un`fre*quent\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t."
+      ],
+      "ety": "[1st pref. un- + frequent.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To cease to frequent."
+          ],
+          "quotes": [
+            "They quit their thefts and unfrequent the fields."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

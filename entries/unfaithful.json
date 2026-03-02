@@ -1,0 +1,70 @@
+{
+  "key": "unfaithful",
+  "source_file": "CIDE.U",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Unfaithful",
+      "headword_raw": "Un*faith\"ful",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Unfaithfully",
+          "form_raw": "Un*faith\"ful*ly",
+          "key": "unfaithfully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Unfaithfulness",
+          "form_raw": "Un*faith\"ful*ness",
+          "key": "unfaithfulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Not faithful; not observant of promises, vows, allegiance, or duty; violating trust or confidence; treacherous; perfidious; as, an unfaithful subject; an unfaithful agent or servant."
+          ],
+          "quotes": [
+            "My feet, through wine, unfaithful to their weight.",
+            "His honor rooted in dishonor stood, And faith unfaithful kept him falsely true."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Not possessing faith; infidel."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "key": "unemployment",
+  "source_file": "CIDE.U",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Unemployment",
+      "headword_raw": "Un`em*ploy\"ment",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl.",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Quality or state of being not employed; -- used esp. in economics, of the condition of various social classes when temporarily thrown out of employment, as those engaged for short periods, those whose trade is decaying, and those least competent."
+          ],
+          "quotes": [],
+          "notes": [
+            "Unemployment is usually cointed as the condition of those who wish to work, but cannot find a suitable job, rather than others who may voluntarily refrain from working, such as retired persons, youth, or those remaining at home to care for young children. The unemployment rate in economics is thus the proportion of those actively seeking work but unable to find it, to the total labor force, expressed as a percentage."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

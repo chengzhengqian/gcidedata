@@ -1,0 +1,88 @@
+{
+  "key": "unfair",
+  "source_file": "CIDE.U",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Unfair",
+      "headword_raw": "Un*fair\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t."
+      ],
+      "ety": "[1st pref. un- + fair.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To deprive of fairness or beauty."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Unfair",
+      "headword_raw": "Un*fair\"",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[AS. unfæger unlovely. See Un- not, and Fair, a.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Unfairly",
+          "form_raw": "Un*fair\"ly",
+          "key": "unfairly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Unfairness",
+          "form_raw": "Un*fair\"ness",
+          "key": "unfairness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not fair; not honest; not impartial; disingenuous; using or involving trick or artifice; dishonest; unjust; unequal."
+          ],
+          "quotes": [
+            "You come, like an unfair merchant, to charge me with being in your debt."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

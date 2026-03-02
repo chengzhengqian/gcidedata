@@ -1,0 +1,64 @@
+{
+  "key": "undiscreet",
+  "source_file": "CIDE.U",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Undiscreet",
+      "headword_raw": "Un`dis*creet\"",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Undiscreetly",
+          "form_raw": "Un`dis*creet\"ly",
+          "key": "undiscreetly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Undiscreetness",
+          "form_raw": "Un`dis*creet\"ness",
+          "key": "undiscreetness",
+          "pos": [],
+          "pr": null
+        },
+        {
+          "form": "Undiscretion",
+          "form_raw": "Un`dis*cre\"tion",
+          "key": "undiscretion",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Indiscreet."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

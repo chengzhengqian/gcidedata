@@ -1,0 +1,59 @@
+{
+  "key": "unexpressive",
+  "source_file": "CIDE.U",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Unexpressive",
+      "headword_raw": "Un`ex*press\"ive",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Unexpressively",
+          "form_raw": "Un`ex*press\"ive*ly",
+          "key": "unexpressively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Not expressive; not having the power of utterance; inexpressive."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Incapable of being expressed; inexpressible; unutterable; ineffable."
+          ],
+          "quotes": [
+            "Run, run, Orlando; carve on every tree The fair, the chaste and unexpressive she."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

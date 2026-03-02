@@ -1,0 +1,57 @@
+{
+  "key": "unfeigned",
+  "source_file": "CIDE.U",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Unfeigned",
+      "headword_raw": "Un*feigned\"",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Unfeignedly",
+          "form_raw": "Un*feign\"ed*ly",
+          "key": "unfeignedly",
+          "pos": [
+            "adv."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Unfeignedness",
+          "form_raw": "Un*feign\"ed*ness",
+          "key": "unfeignedness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not feigned; not counterfeit; not hypocritical; real; sincere; genuine; as, unfeigned piety; unfeigned love to man."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

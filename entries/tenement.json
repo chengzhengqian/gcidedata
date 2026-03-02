@@ -1,0 +1,92 @@
+{
+  "key": "tenement",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Tenement",
+      "headword_raw": "Ten\"e*ment",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OF. tenement a holding, a fief, F. tnement, LL. tenementum, fr. L. tenere to hold. See Tenant.]",
+      "sources": [
+        "1913 Webster",
+        "PJC",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [
+        "-- Tenement, House. There may be many houses under one roof, but they are completely separated from each other by party walls. A tenement may be detached by itself, or it may be part of a house divided off for the use of a family. In modern usage, a tenement or tenement house most commonly refers to the meaning given for tenement house, above."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Feud. Law)"
+          ],
+          "defs": [
+            "That which is held of another by service; property which one holds of a lord or proprietor in consideration of some military or pecuniary service; fief; fee."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Common Law)"
+          ],
+          "defs": [
+            "Any species of permanent property that may be held, so as to create a tenancy, as lands, houses, rents, commons, an office, an advowson, a franchise, a right of common, a peerage, and the like; -- called also free tenements or frank tenements."
+          ],
+          "quotes": [
+            "The thing held is a tenement, the possessor of it a “tenant,” and the manner of possession is called “tenure.”"
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A dwelling house; a building for a habitation; also, an apartment, or suite of rooms, in a building, used by one family; often, a house erected to be rented."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Fig.: Dwelling; abode; habitation."
+          ],
+          "quotes": [
+            "Who has informed us that a rational soul can inhabit no tenement, unless it has just such a sort of frontispiece?"
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "A tenement house."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "House",
+            "dwelling",
+            "habitation"
+          ]
+        }
+      ]
+    }
+  ]
+}

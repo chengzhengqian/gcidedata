@@ -1,0 +1,79 @@
+{
+  "key": "tertian",
+  "source_file": "CIDE.T",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Tertian",
+      "headword_raw": "Ter\"tian",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. tertianus, from tertius the third. See Tierce.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Occurring every third day; as, a tertian fever."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Tertian",
+      "headword_raw": "Ter\"tian",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. tertiana (sc. febris): cf. OF. tertiane.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "A disease, especially an intermittent fever, which returns every third day, reckoning inclusively, or in which the intermission lasts one day."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A liquid measure formerly used for wine, equal to seventy imperial, or eighty-four wine, gallons, being one third of a tun."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

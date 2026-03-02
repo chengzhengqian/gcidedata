@@ -1,0 +1,58 @@
+{
+  "key": "testamentary",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Testamentary",
+      "headword_raw": "Tes`ta*men\"ta*ry",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. testamentarius: cf. F. testamentaire.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to a will, or testament; as, letters testamentary."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Bequeathed by will; given by testament."
+          ],
+          "quotes": [
+            "How many testamentary charities have been defeated by the negligence or fraud of executors!"
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Done, appointed by, or founded on, a testament, or will; as, a testamentary guardian of a minor, who may be appointed by the will of a father to act in that capacity until the child becomes of age."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "key": "tenant",
+  "source_file": "CIDE.T",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Tenant",
+      "headword_raw": "Ten\"ant",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. tenant, p. pr. of tenir to hold. See Tenable, and cf. Lieutenant.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "One who holds or possesses lands, or other real estate, by any kind of right, whether in fee simple, in common, in severalty, for life, for years, or at will; also, one who has the occupation or temporary possession of lands or tenements the title of which is in another; -- correlative to landlord. See Citation from Blackstone, under Tenement, 2."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "One who has possession of any place; a dweller; an occupant."
+          ],
+          "quotes": [
+            "The hhappy tenant of your shade.",
+            "The sister tenants of the middle deep."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Tenant",
+      "headword_raw": "Ten\"ant",
+      "pr": null,
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Tenanted; p. pr. & vb. n. Tenanting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To hold, occupy, or possess as a tenant."
+          ],
+          "quotes": [
+            "Sir Roger's estate is tenanted by persons who have served him or his ancestors."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

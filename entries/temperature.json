@@ -1,0 +1,94 @@
+{
+  "key": "temperature",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Temperature",
+      "headword_raw": "Tem\"per*a*ture",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. temprature, L. temperatura due measure, proportion, temper, temperament.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC",
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Constitution; state; degree of any quality."
+          ],
+          "quotes": [
+            "The best composition and temperature is, to have openness in fame and opinion, secrecy in habit, dissimulation in seasonable use, and a power to feign, if there be no remedy.",
+            "Memory depends upon the consistence and the temperature of the brain."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Freedom from passion; moderation."
+          ],
+          "quotes": [
+            "In that proud port, which her so goodly graceth, Most goodly temperature you may descry."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Physics)"
+          ],
+          "defs": [
+            "Condition with respect to heat or cold, especially as indicated by the sensation produced, or by the thermometer or pyrometer; degree of heat or cold; as, the temperature of the air; high temperature; low temperature; temperature of freezing or of boiling."
+          ],
+          "quotes": [],
+          "notes": [
+            "The temperature of a liquid or a solid body as measured by a thermometer is a measure of the average kinetic energy of the consituent atoms or molecules of the body. For other states of matter such as plasma, electromagnetic radiation, or subatomic particles, an analogous measure of the average kinetic energy may be expressed as a temperature, although it could never be measured by a traditional thermometer, let alone by sensing with the skin."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Mixture; compound."
+          ],
+          "quotes": [
+            "Made a temperature of brass and iron together."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Physiol. & Med.)",
+            "(Physics)",
+            "(Physiol.)",
+            "(Physiol.)"
+          ],
+          "defs": [
+            "The degree of heat of the body of a living being, esp. of the human body; also (Colloq.), loosely, the excess of this over the normal (of the human body 98°-99.5° F., in the mouth of an adult about 98.4°)."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "key": "terrible",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Terrible",
+      "headword_raw": "Ter\"ri*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[F., fr. L. terribilis, fr. terrere to frighten. See Terror.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Terribleness",
+          "form_raw": "Ter\"ri*ble*ness",
+          "key": "terribleness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Terribly",
+          "form_raw": "Ter\"ri*bly",
+          "key": "terribly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Adapted or likely to excite terror, awe, or dread; dreadful; formidable."
+          ],
+          "quotes": [
+            "Prudent in peace, and terrible in war.",
+            "Thou shalt not be affrighted at them; for the Lord thy God is among you, a mighty God and terrible."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Excessive; extreme; severe."
+          ],
+          "quotes": [
+            "The terrible coldness of the season."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Terrific",
+            "fearful",
+            "frightful",
+            "formidable",
+            "dreadful",
+            "horrible",
+            "shocking",
+            "awful"
+          ]
+        }
+      ]
+    }
+  ]
+}

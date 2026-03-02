@@ -1,0 +1,50 @@
+{
+  "key": "tenebrous",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Tenebrous",
+      "headword_raw": "Ten\"e*brous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": "[L. tenebrosus, fr. tenebrae darkness: cf. F. tnbreux.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Tenebrousness",
+          "form_raw": "Ten\"e*brous*ness",
+          "key": "tenebrousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Dark; gloomy; dusky; tenebrious."
+          ],
+          "quotes": [
+            "The most dark, tenebrous night.",
+            "The towering and tenebrous boughts of the cypress."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

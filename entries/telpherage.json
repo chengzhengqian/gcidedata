@@ -1,0 +1,49 @@
+{
+  "key": "telpherage",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Telpherage",
+      "headword_raw": "Tel\"pher*age",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The conveyance of vehicles or loads by means of electricity."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Elec.)"
+          ],
+          "defs": [
+            "Specif., electric transportation of goods by means of carriages suspended on overhead conductors, as of wire, the power being conveyed to the motor carriage by the wires on which it runs. Telpherage and telpher are sometimes applied to such systems in which the motive power is not electricity."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "key": "telephone_exchange",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Telephone exchange",
+      "headword_raw": "Tel`e*phone ex*change\"",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl.",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A central office in which the wires of telephones from local subscribers may be connected by switches to other local telephones or to long-distance lines, to permit transmission of conversation or data."
+          ],
+          "quotes": [],
+          "notes": [
+            "In the late 1990's the traditional copper wires connecting local telephones to the telephone exchange have begun to be replaced with optical fiber connections."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

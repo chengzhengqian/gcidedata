@@ -1,0 +1,52 @@
+{
+  "key": "telluric",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Telluric",
+      "headword_raw": "Tel*lu\"ric",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. tellus, -uris, the earth: cf. F. tellurique.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to the earth; proceeding from the earth."
+          ],
+          "quotes": [
+            "Amid these hot, telluric flames."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Chem.)",
+            "(Min.)",
+            "(Min.)"
+          ],
+          "defs": [
+            "Of or pertaining to tellurium; derived from, or resembling, tellurium; specifically, designating those compounds in which the element has a higher valence as contrasted with tellurous compounds; as, telluric acid, which is analogous to sulphuric acid."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

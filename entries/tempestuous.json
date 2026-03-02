@@ -1,0 +1,59 @@
+{
+  "key": "tempestuous",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Tempestuous",
+      "headword_raw": "Tem*pes\"tu*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. tempestuous: cf. OF. tempestueux, F. temptueux.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Tempestuously",
+          "form_raw": "Tem*pes\"tu*ous*ly",
+          "key": "tempestuously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Tempestuousness",
+          "form_raw": "Tem*pes\"tu*ous*ness",
+          "key": "tempestuousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to a tempest; involving or resembling a tempest; turbulent; violent; stormy; as, tempestuous weather; a tempestuous night; a tempestuous debate."
+          ],
+          "quotes": [
+            "They saw the Hebrew leader, Waiting, and clutching his tempestuous beard."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

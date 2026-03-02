@@ -1,0 +1,76 @@
+{
+  "key": "tentative",
+  "source_file": "CIDE.T",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Tentative",
+      "headword_raw": "Ten*ta\"tive",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[L. tentare to try: cf. F. tentatif. See Tempt.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Tentatively",
+          "form_raw": "Ten*ta\"tive*ly",
+          "key": "tentatively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to a trial or trials; essaying; experimental."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Tentative",
+      "headword_raw": "Ten*ta\"tive",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. tentative.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An essay; a trial; an experiment."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

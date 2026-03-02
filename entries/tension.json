@@ -1,0 +1,105 @@
+{
+  "key": "tension",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Tension",
+      "headword_raw": "Ten\"sion",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[L. tensio, from tendere, tensum, to stretch: cf. F. tension. See Tense, a.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of stretching or straining; the state of being stretched or strained to stiffness; the state of being bent strained; as, the tension of the muscles, tension of the larynx."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Fig.: Extreme strain of mind or excitement of feeling; intense effort."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "The degree of stretching to which a wire, cord, piece of timber, or the like, is strained by drawing it in the direction of its length; strain."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Mech.)"
+          ],
+          "defs": [
+            "The force by which a part is pulled when forming part of any system in equilibrium or in motion; as, the tension of a string supporting a weight equals that weight."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "A device for checking the delivery of the thread in a sewing machine, so as to give the stitch the required degree of tightness."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [
+            "(Physics)"
+          ],
+          "defs": [
+            "Expansive force; the force with which the particles of a body, as a gas, tend to recede from each other and occupy a larger space; elastic force; elasticity; as, the tension of vapor; the tension of air."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "7.",
+          "fields": [
+            "(Elec.)",
+            "(Engin.)",
+            "(Engin.)"
+          ],
+          "defs": [
+            "The quality in consequence of which an electric charge tends to discharge itself, as into the air by a spark, or to pass from a body of greater to one of less electrical potential. It varies as the quantity of electricity upon a given area."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

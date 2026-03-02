@@ -1,0 +1,36 @@
+{
+  "key": "tesla_transformer",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Tesla transformer",
+      "headword_raw": "Tes\"la trans*form\"er",
+      "pr": "(?)",
+      "pos": [],
+      "ety": "[After N. Tesla, American electrician.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Elec.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A transformer without iron, for high frequency alternating or oscillating currents; an oscillation transformer."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

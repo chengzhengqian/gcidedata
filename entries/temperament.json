@@ -1,0 +1,101 @@
+{
+  "key": "temperament",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Temperament",
+      "headword_raw": "Tem\"per*a*ment",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "v. t."
+      ],
+      "ety": "[L. temperamentum a mixing in due proportion, proper measure, temperament: cf. F. temprament. See Temper, v. t.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Internal constitution; state with respect to the relative proportion of different qualities, or constituent parts."
+          ],
+          "quotes": [
+            "The common law . . . has reduced the kingdom to its just state and temperament."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Due mixture of qualities; a condition brought about by mutual compromises or concessions."
+          ],
+          "quotes": [
+            "However, I forejudge not any probable expedient, any temperament that can be found in things of this nature, so disputable on their side."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "The act of tempering or modifying; adjustment, as of clashing rules, interests, passions, or the like; also, the means by which such adjustment is effected."
+          ],
+          "quotes": [
+            "Wholesome temperaments of the rashness of popular assemblies."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Condition with regard to heat or cold; temperature."
+          ],
+          "quotes": [
+            "Bodies are denominated “hot” and “cold” in proportion to the present temperament of that part of our body to which they are applied."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Mus.)"
+          ],
+          "defs": [
+            "A system of compromises in the tuning of organs, pianofortes, and the like, whereby the tones generated with the vibrations of a ground tone are mutually modified and in part canceled, until their number reduced to the actual practicable scale of twelve tones to the octave. This scale, although in so far artificial, is yet closely suggestive of its origin in nature, and this system of tuning, although not mathematically true, yet satisfies the ear, while it has the convenience that the same twelve fixed tones answer for every key or scale, C becoming identical with D, and so on."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [
+            "(Physiol.)",
+            "(Mus.)",
+            "(Mus.)"
+          ],
+          "defs": [
+            "The peculiar physical and mental character of an individual, in olden times erroneously supposed to be due to individual variation in the relations and proportions of the constituent parts of the body, especially of the fluids, as the bile, blood, lymph, etc. Hence the phrases, bilious or choleric temperament, sanguine temperament, etc., implying a predominance of one of these fluids and a corresponding influence on the temperament."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

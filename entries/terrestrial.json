@@ -1,0 +1,131 @@
+{
+  "key": "terrestrial",
+  "source_file": "CIDE.T",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Terrestrial",
+      "headword_raw": "Ter*res\"tri*al",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. terrestris, from terra the earth. See Terrace.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Terrestrially",
+          "form_raw": "Ter*res\"tri*al*ly",
+          "key": "terrestrially",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Terrestrialness",
+          "form_raw": "Ter*res\"tri*al*ness",
+          "key": "terrestrialness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to the earth; existing on the earth; earthly; as, terrestrial animals."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Representing, or consisting of, the earth; as, a terrestrial globe."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to the world, or to the present state; sublunary; mundane."
+          ],
+          "quotes": [
+            "Vain labors of terrestrial wit.",
+            "A genius bright and base, Of towering talents, and terrestrial aims."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Consisting of land, in distinction from water; belonging to, or inhabiting, the land or ground, in distinction from trees, water, or the like; as, terrestrial serpents."
+          ],
+          "quotes": [
+            "The terrestrial parts of the globe."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "Adapted for the observation of objects on land and on the earth; as, a terrestrial telescope, in distinction from an astronomical telescope."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Terrestrial",
+      "headword_raw": "Ter*res\"tri*al",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An inhabitant of the earth."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

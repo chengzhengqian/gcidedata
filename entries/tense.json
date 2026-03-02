@@ -1,0 +1,92 @@
+{
+  "key": "tense",
+  "source_file": "CIDE.T",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Tense",
+      "headword_raw": "Tense",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OF. tens, properly, time, F. temps time, tense. See Temporal of time, and cf. Thing.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Gram.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "One of the forms which a verb takes by inflection or by adding auxiliary words, so as to indicate the time of the action or event signified; the modification which verbs undergo for the indication of time."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The primary simple tenses are three: those which express time past, present, and future; but these admit of modifications, which differ in different languages."
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Tense",
+      "headword_raw": "Tense",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. tensus, p. p. of tendere to stretch. See Tend to move, and cf. Toise.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Tensely",
+          "form_raw": "Tense\"ly",
+          "key": "tensely",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Tenseness",
+          "form_raw": "Tense\"ness",
+          "key": "tenseness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Stretched tightly; strained to stiffness; rigid; not lax; as, a tense fiber."
+          ],
+          "quotes": [
+            "The temples were sunk, her forehead was tense, and a fatal paleness was upon her."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

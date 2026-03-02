@@ -1,0 +1,59 @@
+{
+  "key": "telepathy",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Telepathy",
+      "headword_raw": "Te*lep\"a*thy",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Gr. <?/ far off + <?/, <?/, to suffer.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Telepathic",
+          "form_raw": "Tel`e*path\"ic",
+          "key": "telepathic",
+          "pos": [
+            "a."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Telepathist",
+          "form_raw": "Te*lep\"a*thist",
+          "key": "telepathist",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The sympathetic affection of one mind by the thoughts, feelings, or emotions of another at a distance, without communication through the ordinary channels of sensation."
+          ],
+          "quotes": [],
+          "notes": [
+            "The existence of this ability has not been proven scientifically."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

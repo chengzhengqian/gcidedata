@@ -1,0 +1,91 @@
+{
+  "key": "terse",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Terse",
+      "headword_raw": "Terse",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "Compar.",
+        "superl.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. tersus, p. p. of tergere to rub or wipe off.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "Syn. -- Neat; concise; compact. Terse, Concise. Terse was defined by Johnson “cleanly written”, i. e., free from blemishes, neat or smooth. Its present sense is “free from excrescences,” and hence, compact, with smoothness, grace, or elegance, as in the following lones of Whitehead: - [1913 Webster] “In eight terse lines has Phaedrus told (So frugal were the bards of old) A tale of goats; and closed with grace, Plan, moral, all, in that short space.” [1913 Webster] It differs from concise in not implying, perhaps, quite as much condensation, but chiefly in the additional idea of “grace or elegance.” [1913 Webster]"
+      ],
+      "wordforms": [
+        {
+          "form": "Tersely",
+          "form_raw": "Terse\"ly",
+          "key": "tersely",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Terseness",
+          "form_raw": "Terse\"ness",
+          "key": "terseness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Appearing as if rubbed or wiped off; rubbed; smooth; polished."
+          ],
+          "quotes": [
+            "Many stones, . . . although terse and smooth, have not this power attractive."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Refined; accomplished; -- said of persons."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Elegantly concise; free of superfluous words; polished to smoothness; as, terse language; a terse style."
+          ],
+          "quotes": [
+            "Terse, luminous, and dignified eloquence.",
+            "A poet, too, was there, whose verse Was tender, musical, and terse.",
+            "“In eight terse lines has Phaedrus told (So frugal were the bards of old) A tale of goats; and closed with grace, Plan, moral, all, in that short space.”"
+          ],
+          "notes": [],
+          "synonyms": [
+            "Neat",
+            "concise",
+            "compact"
+          ]
+        }
+      ]
+    }
+  ]
+}

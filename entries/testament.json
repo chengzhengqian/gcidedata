@@ -1,0 +1,52 @@
+{
+  "key": "testament",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Testament",
+      "headword_raw": "Tes\"ta*ment",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F., fr. L. testamentum, fr. testari to be a witness, to make one's last will, akin to testis a witness. Cf. Intestate, Testify.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "A solemn, authentic instrument in writing, by which a person declares his will as to disposal of his estate and effects after his death."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ This is otherwise called a will, and sometimes a last will and testament. A testament, to be valid, must be made by a person of sound mind; and it must be executed and published in due form of law. A man, in certain cases, may make a valid will by word of mouth only. See Nuncupative will, under Nuncupative."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "One of the two distinct revelations of God's purposes toward man; a covenant; also, one of the two general divisions of the canonical books of the sacred Scriptures, in which the covenants are respectively revealed; as, the Old Testament; the New Testament; -- often limited, in colloquial language, to the latter."
+          ],
+          "quotes": [
+            "He is the mediator of the new testament . . . for the redemption of the transgressions that were under the first testament."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

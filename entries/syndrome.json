@@ -1,0 +1,59 @@
+{
+  "key": "syndrome",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Syndrome",
+      "headword_raw": "Syn\"dro*me",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[NL., from Gr. <?/; sy`n with + <?/ a course, a running.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Concurrence."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "A group of symptoms occurring together that are characteristic and indicative of some underlying cause, such as a disease."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "generally, a pattern of characteristics or behaviors occurring together, that are sufficiently common and distinctive to indicate that they are due to a known cause."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

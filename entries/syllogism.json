@@ -1,0 +1,42 @@
+{
+  "key": "syllogism",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Syllogism",
+      "headword_raw": "Syl\"lo*gism",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. silogisme, OF. silogime, sillogisme, F. syllogisme, L. syllogismus, Gr. syllogismo`s a reckoning all together, a reasoning, syllogism, fr. syllogi`zesqai to reckon all together, to bring at once before the mind, to infer, conclude; sy`n with, together + logi`zesqai to reckon, to conclude by reasoning. See Syn-, and Logistic, Logic.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Logic)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The regular logical form of every argument, consisting of three propositions, of which the first two are called the premises, and the last, the conclusion. The conclusion necessarily follows from the premises; so that, if these are true, the conclusion must be true, and the argument amounts to demonstration"
+          ],
+          "quotes": [],
+          "notes": [
+            "as in the following example:",
+            "These propositions are denominated respectively the major premise, the minor premise, and the conclusion.",
+            "☞ If the premises are not true and the syllogism is regular, the reasoning is valid, and the conclusion, whether true or false, is correctly derived."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "key": "syncopate",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Syncopate",
+      "headword_raw": "Syn\"co*pate",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[LL. syncopatus, p. p. of syncopare to syncopate, to swoon. See Syncope.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Syncopated (?); p. pr. & vb. n. Syncopating.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Gram.)"
+          ],
+          "defs": [
+            "To contract, as a word, by taking one or more letters or syllables from the middle; as, “Gloster” is a syncopated form of “Gloucester.”"
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mus.)"
+          ],
+          "defs": [
+            "To commence, as a tone, on an unaccented part of a measure, and continue it into the following accented part, so that the accent is driven back upon the weak part and the rhythm drags."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

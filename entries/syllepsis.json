@@ -1,0 +1,50 @@
+{
+  "key": "syllepsis",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Syllepsis",
+      "headword_raw": "Syl*lep\"sis",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L., fr. Gr. sy`llhpsis a taking together, from <?/. See syllable, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Rhet.)"
+          ],
+          "defs": [
+            "A figure of speech by which a word is used in a literal and metaphorical sense at the same time."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Gram.)"
+          ],
+          "defs": [
+            "The agreement of a verb or adjective with one, rather than another, of two nouns, with either of which it might agree in gender, number, etc.; as, rex et regina beati."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

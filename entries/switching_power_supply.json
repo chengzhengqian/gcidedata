@@ -1,0 +1,36 @@
+{
+  "key": "switching_power_supply",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Switching power supply",
+      "headword_raw": "Switch\"ing power supply",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a device used as part of an electronic device, which transforms electrical current from an AC line circuit to DC for use in electronic devices, and which can use either 110 volt or 220 volt AC line curent."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

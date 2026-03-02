@@ -1,0 +1,40 @@
+{
+  "key": "symptomatology",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Symptomatology",
+      "headword_raw": "Symp`tom*a*tol\"o*gy",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. <?/, <?/, symptom + -logy: cf. F. symptomatologie.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The doctrine of symptoms; that part of the science of medicine which treats of the symptoms of diseases; semeiology."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ It includes diagnosis, or the determination of the disease from its symptoms; and prognosis, or the determination of its probable course and event."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "key": "syncope",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Syncope",
+      "headword_raw": "Syn\"co*pe",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. syncope, syncopa, Gr. <?/ a cutting up, a syncope; akin to <?/ to beat together, to cut up, cut short, weavy; sy`n with + <?/ to strike, cut.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Gram.)"
+          ],
+          "defs": [
+            "An elision or retrenchment of one or more letters or syllables from the middle of a word; as, ne'er for never, ev'ry for every."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mus.)"
+          ],
+          "defs": [
+            "Same as Syncopation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "A fainting, or swooning. See Fainting."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "A pause or cessation; suspension."
+          ],
+          "quotes": [
+            "Revely, and dance, and show, Suffer a syncope and solemn pause."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

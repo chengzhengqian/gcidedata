@@ -1,0 +1,61 @@
+{
+  "key": "symbolical",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Symbolical",
+      "headword_raw": "Sym*bol\"ic*al",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. symbolicus, Gr. symboliko`s: cf. F. symbolique.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Symbolically",
+          "form_raw": "Sym*bol\"ic*al*ly",
+          "key": "symbolically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Symbolicalness",
+          "form_raw": "Sym*bol\"ic*al*ness",
+          "key": "symbolicalness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Law)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to a symbol or symbols; of the nature of a symbol; exhibiting or expressing by resemblance or signs; representative; as, the figure of an eye is symbolic of sight and knowledge."
+          ],
+          "quotes": [
+            "The sacrament is a representation of Christ's death by such symbolical actions as he himself appointed."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

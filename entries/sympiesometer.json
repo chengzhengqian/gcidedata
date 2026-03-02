@@ -1,0 +1,38 @@
+{
+  "key": "sympiesometer",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Sympiesometer",
+      "headword_raw": "Sym`pi*e*som\"e*ter",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. <?/ compression (fr. <?/ to press together; sy`n with + <?/ to press, squeeze) + -meter.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A sensitive kind of barometer, in which the pressure of the atmosphere, acting upon a liquid, as oil, in the lower portion of the instrument, compresses an elastic gas in the upper part."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The column of oil of a lower part BC of a glass tube compresses hydrogen gas in the upper part AB, and is thus measured on the scale pq by the position of a surface of the oil in the tube. The scale pq is adjustable, and its index must be set to the division on the scale rs corresponding to the temperature indicated by the termometer t, in order to correct for the effects of temperature on the gas. It is sensitive, and convenient for use at sea, but inferior in accuracy to the mercurial barometer."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "key": "switchboard",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "switchboard",
+      "headword_raw": "switch\"board`",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "an elctrical apparatus consisting predominantly of a panel on which are switches or other means of completing electrical circuits; -- used especially for the devices used in telephone exchanges. See sense 2."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Telephone)"
+          ],
+          "defs": [
+            "An apparatus containing switches by means of which a connection may be made from an incoming telephone line to any one of numerous outgoing lines. The switches may be either mechanical or electronic, and the switching action may be automatic, controlled by signals in the incoming call, or manual, controlled by a switchboard operator. In older style manual switchboards, the circuits were connected by the use of patchcords, inserted into plugs."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "patchboard",
+            "plugboard",
+            "telephone exchange"
+          ]
+        }
+      ]
+    }
+  ]
+}

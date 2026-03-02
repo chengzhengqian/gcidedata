@@ -1,0 +1,81 @@
+{
+  "key": "synclinal",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Synclinal",
+      "headword_raw": "Syn*cli\"nal",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Gr. <?/ to incline together; sy`n with + <?/ to incline.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Inclined downward from opposite directions, so as to meet in a common point or line."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Geol.)"
+          ],
+          "defs": [
+            "Formed by strata dipping toward a common line or plane; as, a synclinal trough or valley; a synclinal fold; -- opposed to anticlinal."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ A downward flexure in the case of folded rocks makes a synclinal axis, and the alternating upward flexure an anticlinal axis."
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Synclinal",
+      "headword_raw": "Syn*cli\"nal",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Geol.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A synclinal fold."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

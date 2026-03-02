@@ -1,0 +1,150 @@
+{
+  "key": "swamp",
+  "source_file": "CIDE.S",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Swamp",
+      "headword_raw": "Swamp",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. AS. swam a fungus, OD. swam a sponge, D. zwam a fungus, G. schwamm a sponge, Icel. svöppr, Dan. & Sw. swamp, Goth. swamms, Gr. somfo`s porous, spongy.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Zool.)",
+        "(Bot.)",
+        "(Zool.)",
+        "(Zool.)",
+        "(Bot.)",
+        "(Med.)",
+        "(Bot.)",
+        "(Bot.)",
+        "(Bot.)",
+        "(Min.)",
+        "(Zool.)",
+        "(Zool.)",
+        "(Bot.)",
+        "(Zool.)",
+        "(Bot.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Wet, spongy land; soft, low ground saturated with water, but not usually covered with it; marshy ground away from the seashore."
+          ],
+          "quotes": [
+            "Gray swamps and pools, waste places of the hern.",
+            "A swamp differs from a bog and a marsh in producing trees and shrubs, while the latter produce only herbage, plants, and mosses."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Swamp",
+      "headword_raw": "Swamp",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Swamped (?); p. pr. & vb. n. Swamping.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To plunge or sink into a swamp."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Naut.)"
+          ],
+          "defs": [
+            "To cause (a boat) to become filled with water; to capsize or sink by whelming with water."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Fig.: To plunge into difficulties and perils; to overwhelm; to ruin; to wreck."
+          ],
+          "quotes": [
+            "The Whig majority of the house of Lords was swamped by the creation of twelve Tory peers.",
+            "Having swamped himself in following the ignis fatuus of a theory."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Swamp",
+      "headword_raw": "Swamp",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To sink or stick in a swamp; figuratively, to become involved in insuperable difficulties."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To become filled with water, as a boat; to founder; to capsize or sink; figuratively, to be ruined; to be wrecked."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

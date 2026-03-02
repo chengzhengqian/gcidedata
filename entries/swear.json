@@ -1,0 +1,132 @@
+{
+  "key": "swear",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Swear",
+      "headword_raw": "Swear",
+      "pr": "(?)",
+      "pos": [
+        "v. i.",
+        "imp.",
+        "p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OE. swerien, AS. swerian; akin to D. zweren, OS. swerian, OHG. swerien, G. schwören, Icel. sverja, Sw. svärja, Dan. svaerge, Icel. & Sw. svara to answer, Dan. svare, Dan. & Sw. svar an answer, Goth. swaran to swear, and perhaps to E. swarm. √177. Cf. Answer.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. Swore (?), formerly Sware (<?/); p. p. Sworn (?); p. pr. & vb. n. Swearing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To affirm or utter a solemn declaration, with an appeal to God for the truth of what is affirmed; to make a promise, threat, or resolve on oath; also, to affirm solemnly by some sacred object, or one regarded as sacred, as the Bible, the Koran, etc."
+          ],
+          "quotes": [
+            "Ye shall swear by my name falsely.",
+            "I swear by all the Roman gods."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "To give evidence on oath; as, to swear to the truth of a statement; he swore against the prisoner."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To make an appeal to God in an irreverant manner; to use the name of God or sacred things profanely; to call upon God in imprecation; to curse."
+          ],
+          "quotes": [
+            "[I] swore little; diced not above seven times a week."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Swear",
+      "headword_raw": "Swear",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To utter or affirm with a solemn appeal to God for the truth of the declaration; to make (a promise, threat, or resolve) under oath."
+          ],
+          "quotes": [
+            "Swear unto me here by God, that thou wilt not deal falsely with me.",
+            "He swore consent to your succession."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "To put to an oath; to cause to take an oath; to administer an oath to; -- often followed by in or into; as, to swear witnesses; to swear a jury; to swear in an officer; he was sworn into office."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To declare or charge upon oath; as, he swore treason against his friend."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "To appeal to by an oath."
+          ],
+          "quotes": [
+            "Now, by Apollo, king, Thou swear'st thy gods in vain."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

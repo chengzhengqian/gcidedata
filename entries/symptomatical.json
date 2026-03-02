@@ -1,0 +1,59 @@
+{
+  "key": "symptomatical",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Symptomatical",
+      "headword_raw": "Symp`tom*at\"ic*al",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[Cf. F. symptomatique, Gr. <?/ causal.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Symptomatically",
+          "form_raw": "Symp`tom*at\"ic*al*ly",
+          "key": "symptomatically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to symptoms; happening in concurrence with something; being a symptom; indicating the existence of something else."
+          ],
+          "quotes": [
+            "Symptomatic of a shallow understanding and an unamiable temper."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "According to symptoms; as, a symptomatical classification of diseases."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "key": "java",
+  "source_file": "CIDE.J",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Java",
+      "headword_raw": "Ja\"va",
+      "pr": "(jä\"v)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "GG",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One of the islands of the Malay Archipelago belonging to the Netherlands."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Java coffee, a kind of coffee brought from Java."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Computers)",
+            "(Zool.)",
+            "(Zool.)"
+          ],
+          "defs": [
+            "an object-oriented computer programming language, derived largely from C++, used widely for design and display of web pages on the world-wide web. It is an interpreted language, and has been suggested as a platform-independent code to allow execution of the same program under multiple operating systems without recompiling. The language is still (1997) under active development, and is evolving."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

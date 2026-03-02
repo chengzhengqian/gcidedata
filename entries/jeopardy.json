@@ -1,0 +1,73 @@
+{
+  "key": "jeopardy",
+  "source_file": "CIDE.J",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Jeopardy",
+      "headword_raw": "Jeop\"ard*y",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. jupartie, juperti, jeuparti, OF. jeu parti an even game, a game in which the chances are even; OF. jeu, ju, F. jeu (L. jocus jest) + F. partier to divide, L. partire to divide. See Joke, and Part.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "Danger",
+        "peril",
+        "hazard",
+        "risk. See Danger"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Exposure to death, loss, or injury; hazard; danger."
+          ],
+          "quotes": [
+            "There came down a storm of wind on the lake; and they were filled with water, and were in jeopardy.",
+            "Look to thyself, thou art in jeopardy."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Jeopardy",
+      "headword_raw": "Jeop\"ard*y",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To jeopardize."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

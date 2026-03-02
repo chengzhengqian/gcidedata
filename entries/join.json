@@ -1,0 +1,207 @@
+{
+  "key": "join",
+  "source_file": "CIDE.J",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Join",
+      "headword_raw": "Join",
+      "pr": "(join)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OE. joinen, joignen, F. joindre, fr. L. jungere to yoke, bind together, join; akin to jugum yoke. See Yoke, and cf. Conjugal, Junction, Junta.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": "[imp. & p. p. Joined (joind); p. pr. & vb. n. Joining.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To bring together, literally or figuratively; to place in contact; to connect; to couple; to unite; to combine; to associate; to add; to append."
+          ],
+          "quotes": [
+            "Woe unto them that join house to house.",
+            "Held up his left hand, which did flame and burn Like twenty torches joined.",
+            "Thy tuneful voice with numbers join."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To associate one's self to; to be or become connected with; to league one's self with; to unite with; as, to join a party; to join the church."
+          ],
+          "quotes": [
+            "We jointly now to join no other head."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To unite in marriage."
+          ],
+          "quotes": [
+            "He that joineth his virgin in matrimony.",
+            "What, therefore, God hath joined together, let not man put asunder."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "To enjoin upon; to command."
+          ],
+          "quotes": [
+            "They join them penance, as they call it."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "To accept, or engage in, as a contest; as, to join encounter, battle, issue."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [],
+          "defs": [
+            "To meet with and accompany; as, we joined them at the restaurant."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "7.",
+          "fields": [],
+          "defs": [
+            "To combine with (another person) in performing some activity; as, join me in welcoming our new president."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "add",
+            "annex",
+            "unite",
+            "connect",
+            "combine",
+            "consociate",
+            "couple",
+            "link",
+            "append. See Add"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Join",
+      "headword_raw": "Join",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To be contiguous, close, or in contact; to come together; to unite; to mingle; to form a union; as, the bones of the skull join; two rivers join."
+          ],
+          "quotes": [
+            "Whose house joined hard to the synagogue.",
+            "Should we again break thy commandments, and join in affinity with the people of these abominations?",
+            "Nature and fortune joined to make thee great."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Join",
+      "headword_raw": "Join",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Geom.)"
+          ],
+          "defs": [
+            "The line joining two points; the point common to two intersecting lines."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The place or part where objects have been joined; a joint; a seam."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "The combining of multiple tables to answer a query in a relational database system."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

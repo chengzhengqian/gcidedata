@@ -1,0 +1,39 @@
+{
+  "key": "joule",
+  "source_file": "CIDE.J",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "joule",
+      "headword_raw": "joule",
+      "pr": "(jl)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[From the distinguished English physicist, James Prescott Joule (1818-1889).]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physics.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A unit of work which is equal to 107 ergs (the unit of work in the C. G. S. system of units), and is equivalent to one watt-second, the energy expended in one second by an electric current of one ampere in a resistance of one ohm; also called the absolute joule. It is abbreviated J or j. The international joule is slightly larger, being 1.000167 times the absolute joule. The absolute joule is approximately equal to 0.737562 foot pounds, 0.239006 gram-calories (small calories), and 3.72506 x 10-7 horsepower-hours, and 0.000948451 B.t.u."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

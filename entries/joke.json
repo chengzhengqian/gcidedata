@@ -1,0 +1,118 @@
+{
+  "key": "joke",
+  "source_file": "CIDE.J",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Joke",
+      "headword_raw": "Joke",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. jocus. Cf Jeopardy, Jocular, Juggler.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Something said for the sake of exciting a laugh; something witty or sportive (commonly indicating more of hilarity or humor than jest); a jest; a witticism; as, to crack good-natured jokes."
+          ],
+          "quotes": [
+            "And gentle dullness ever loves a joke.",
+            "Or witty joke our airy senses moves To pleasant laughter."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Something not said seriously, or not actually meant; something done in sport."
+          ],
+          "quotes": [
+            "Inclose whole downs in walls, 't is all a joke."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Joke",
+      "headword_raw": "Joke",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Joked (?); p. pr. & vb. n. Joking.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To make merry with; to make jokes upon; to rally; to banter; as, to joke a comrade."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Joke",
+      "headword_raw": "Joke",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": "[L. jocari.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "jest",
+        "sport",
+        "rally",
+        "banter. See Jest"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To do something for sport, or as a joke; to be merry in words or actions; to jest."
+          ],
+          "quotes": [
+            "He laughed, shouted, joked, and swore."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

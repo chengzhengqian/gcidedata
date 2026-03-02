@@ -1,0 +1,49 @@
+{
+  "key": "jeopardous",
+  "source_file": "CIDE.J",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Jeopardous",
+      "headword_raw": "Jeop\"ard*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Jeopardously",
+          "form_raw": "Jeop\"ard*ous*ly",
+          "key": "jeopardously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Perilous; hazardous."
+          ],
+          "quotes": [
+            "His goodly, valiant, and jeopardous enterprise."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

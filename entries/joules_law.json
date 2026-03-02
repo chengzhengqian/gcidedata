@@ -1,0 +1,48 @@
+{
+  "key": "joules_law",
+  "source_file": "CIDE.J",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Joules law",
+      "headword_raw": "Joule's law",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Elec.)"
+          ],
+          "defs": [
+            "The law that the rate at which heat is produced in any part of an electric circuit is measured by the product of the square of the current times the resistance of that part of the circuit. If the current (i) is constant for an interval of time (t), the energy (H) in heat units equals i2Rt, R being resistance."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Thermodynamics)"
+          ],
+          "defs": [
+            "The law that there is no change of temperature when a gas expands without doing external work and without receiving or rejecting heat."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

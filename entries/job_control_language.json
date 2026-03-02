@@ -1,0 +1,36 @@
+{
+  "key": "job_control_language",
+  "source_file": "CIDE.J",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "job control language",
+      "headword_raw": "job control language",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Computers)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A programming language used to specify the manner, timing, and other requirements of execution of a task or set of tasks submitted for execution, especially in background, on a multitasking computer; a programming language for controlling job{7} execution. Abbreviated JCL."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

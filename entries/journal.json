@@ -1,0 +1,100 @@
+{
+  "key": "journal",
+  "source_file": "CIDE.J",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Journal",
+      "headword_raw": "Jour\"nal",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[F., fr. L. diurnalis diurnal, fr. diurnus belonging to the day, fr. dies day. See Diurnal.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Daily; diurnal."
+          ],
+          "quotes": [
+            "Whiles from their journal labors they did rest."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Journal",
+      "headword_raw": "Jour\"nal",
+      "pr": null,
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[F. journal. See Journal, a.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Bookkeeping)",
+            "(Naut.)",
+            "(Legislature)"
+          ],
+          "defs": [
+            "A diary; an account of daily transactions and events.",
+            "A book of accounts, in which is entered a condensed and grouped statement of the daily transactions.",
+            "A daily register of the ship's course and distance, the winds, weather, incidents of the voyage, etc.",
+            "The record of daily proceedings, kept by the clerk.",
+            "A newspaper published daily;",
+            "a weekly newspaper or any periodical publication, giving an account of passing events, the proceedings and memoirs of societies, etc.; a periodical; a magazine."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That which has occurred in a day; a day's work or travel; a day's journey."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Mach.)",
+            "(Mach.)"
+          ],
+          "defs": [
+            "That portion of a rotating piece, as a shaft, axle, spindle, etc., which turns in a bearing or box. See Illust. of Axle box."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

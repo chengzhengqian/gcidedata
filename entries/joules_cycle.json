@@ -1,0 +1,36 @@
+{
+  "key": "joules_cycle",
+  "source_file": "CIDE.J",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Joules cycle",
+      "headword_raw": "Joule's cycle",
+      "pr": "(?)",
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Thermodynamics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The cycle for the air engine proposed by Joule. In it air is taken by a pump from a cold chamber and compressed adiabatically until its pressure is equal to that of the air in a hot chamber, into which it is then delivered, thereby displacing an equal amount of hot air into the engine cylinder. Here it expands adiabatically to the temperature of the cold chamber into which it is finally exhausted. This cycle, reversed, is used in refrigerating machines."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

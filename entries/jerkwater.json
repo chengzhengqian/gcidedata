@@ -1,0 +1,53 @@
+{
+  "key": "jerkwater",
+  "source_file": "CIDE.J",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "jerkwater",
+      "headword_raw": "jerkwater",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": "[from jerk + water, a place where it is necessary to draw (jerk) water to supply the boiler of a steam engine.]",
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "small and remote and insignificant; as, a jerkwater college."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "one-horse",
+            "pokey",
+            "poky"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Railroads)"
+          ],
+          "defs": [
+            "Off the main railroad line."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

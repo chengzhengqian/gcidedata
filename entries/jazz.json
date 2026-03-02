@@ -1,0 +1,61 @@
+{
+  "key": "jazz",
+  "source_file": "CIDE.J",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "jazz",
+      "headword_raw": "jazz",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A type of music that originated in New Orleans around 1900 and developed through increasingly complex styles, but generally featuring intricate rhythms, improvisation, prominent solo segments, and great freedom in harmonic idiom played frequently in a polyphonic style, on various instruments including horn, saxophone, piano and percussion, but rarely stringed instruments."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "empty or insincere or exaggerated talk; as, don't give me any of that jazz."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "wind",
+            "idle words",
+            "nothingness"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A style of dance music popular in the 1920s; similar to New Orleans jazz but played by large bands."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

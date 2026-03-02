@@ -1,0 +1,67 @@
+{
+  "key": "unjust",
+  "source_file": "CIDE.U",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Unjust",
+      "headword_raw": "Un*just\"",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Unjustly",
+          "form_raw": "Un*just\"ly",
+          "key": "unjustly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Unjustness",
+          "form_raw": "Un*just\"ness",
+          "key": "unjustness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Acting contrary to the standard of right; not animated or controlled by justice; false; dishonest; as, an unjust man or judge."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Contrary to justice and right; prompted by a spirit of injustice; wrongful; as, an unjust sentence; an unjust demand; an unjust accusation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

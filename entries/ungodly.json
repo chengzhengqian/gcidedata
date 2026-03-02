@@ -1,0 +1,69 @@
+{
+  "key": "ungodly",
+  "source_file": "CIDE.U",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Ungodly",
+      "headword_raw": "Un*god\"ly",
+      "pr": "(#)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Ungodlily",
+          "form_raw": "Un*god\"li*ly",
+          "key": "ungodlily",
+          "pos": [
+            "adv."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Ungodliness",
+          "form_raw": "Un*god\"li*ness",
+          "key": "ungodliness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Not godly; not having regard for God; disobedient to God; wicked; impious; sinful."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Polluted by sin or wickedness."
+          ],
+          "quotes": [
+            "The hours of this ungodly day."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

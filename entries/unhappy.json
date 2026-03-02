@@ -1,0 +1,87 @@
+{
+  "key": "unhappy",
+  "source_file": "CIDE.U",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Unhappy",
+      "headword_raw": "Un*hap\"py",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Unhappily",
+          "form_raw": "Un*hap\"pi*ly",
+          "key": "unhappily",
+          "pos": [
+            "adv."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Unhappiness",
+          "form_raw": "Un*hap\"pi*ness",
+          "key": "unhappiness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Not happy or fortunate; unfortunate; unlucky; as, affairs have taken an unhappy turn."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "In a degree miserable or wretched; not happy; sad; sorrowful; as, children render their parents unhappy by misconduct."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Marked by infelicity; evil; calamitous; as, an unhappy day."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Mischievous; wanton; wicked."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "key": "unit",
+  "source_file": "CIDE.U",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Unit",
+      "headword_raw": "U\"nit",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Abbrev. from unity.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A single thing or person."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Arith.)"
+          ],
+          "defs": [
+            "The least whole number; one."
+          ],
+          "quotes": [
+            "Units are the integral parts of any large number."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A gold coin of the reign of James I., of the value of twenty shillings."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Any determinate amount or quantity (as of length, time, heat, value) adopted as a standard of measurement for other amounts or quantities of the same kind."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Math.)",
+            "(Theory of Numbers)",
+            "(Biol.)",
+            "(Elec.)",
+            "(Physics)",
+            "(Mach.)",
+            "(Elec.)",
+            "(Physics)",
+            "(Mech. Physics)"
+          ],
+          "defs": [
+            "A single thing, as a magnitude or number, regarded as an undivided whole."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

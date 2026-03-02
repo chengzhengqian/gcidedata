@@ -1,0 +1,98 @@
+{
+  "key": "unkind",
+  "source_file": "CIDE.U",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Unkind",
+      "headword_raw": "Un*kind\"",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[See Kin kindred.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Having no race or kindred; childless."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Unkind",
+      "headword_raw": "Un*kind\"",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Unkindly",
+          "form_raw": "Un*kind\"ly",
+          "key": "unkindly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Unkindness",
+          "form_raw": "Un*kind\"ness",
+          "key": "unkindness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Not kind; contrary to nature, or the law of kind or kindred; unnatural."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Wanting in kindness, sympathy, benevolence, gratitude, or the like; cruel; harsh; unjust; ungrateful."
+          ],
+          "quotes": [
+            "He is unkind that recompenseth not; but he is most unkind that forgetteth."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

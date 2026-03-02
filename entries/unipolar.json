@@ -1,0 +1,52 @@
+{
+  "key": "unipolar",
+  "source_file": "CIDE.U",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Unipolar",
+      "headword_raw": "U`ni*po\"lar",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Uni- + polar.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Physics)"
+          ],
+          "defs": [
+            "Having, or acting by means of, one pole only."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Anat.)",
+            "(Elec.)",
+            "(Physiol.)"
+          ],
+          "defs": [
+            "Having but one pole or process; -- applied to those ganglionic nerve cells which have but one radiating process; -- opposed to multipolar."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

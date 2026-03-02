@@ -1,0 +1,79 @@
+{
+  "key": "ungracious",
+  "source_file": "CIDE.U",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Ungracious",
+      "headword_raw": "Un*gra\"cious",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Ungraciously",
+          "form_raw": "Un*gra\"cious*ly",
+          "key": "ungraciously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Ungraciousness",
+          "form_raw": "Un*gra\"cious*ness",
+          "key": "ungraciousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Not gracious; showing no grace or kindness; being without good will; unfeeling."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Having no grace; graceless; wicked."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Not well received; offensive; unpleasing; unacceptable; not favored."
+          ],
+          "quotes": [
+            "Anything of grace toward the Irish rebels was as ungracious at Oxford as at London."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "key": "ungentle",
+  "source_file": "CIDE.U",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Ungentle",
+      "headword_raw": "Ungentle",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "See gentle."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Ungentle",
+      "headword_raw": "Un*gen\"tle",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Ungentleness",
+          "form_raw": "Un*gen\"tle*ness",
+          "key": "ungentleness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Ungently",
+          "form_raw": "Un*gen\"tly",
+          "key": "ungently",
+          "pos": [
+            "adv."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not gentle; lacking good breeding or delicacy; harsh."
+          ],
+          "quotes": [
+            "Vicious, ungentle, foolish, blunt, unkind.",
+            "That ungentle flavor which distinguishes nearly all our native and uncultivated grapes."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

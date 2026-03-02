@@ -1,0 +1,50 @@
+{
+  "key": "universal_grammar",
+  "source_file": "CIDE.U",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Universal grammar",
+      "headword_raw": "U`ni*ver\"sal gram\"mar",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Linguistics)"
+          ],
+          "defs": [
+            "the principles forming the basis for the human ability to understand language."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Linguistics)"
+          ],
+          "defs": [
+            "the general properties and constraints common to all human languages; also, the study of such principles."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

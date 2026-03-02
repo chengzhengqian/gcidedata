@@ -1,0 +1,52 @@
+{
+  "key": "uniaxial",
+  "source_file": "CIDE.U",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Uniaxial",
+      "headword_raw": "U`ni*ax\"i*al",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Uni + axial.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Crystallog.)"
+          ],
+          "defs": [
+            "Having but one optic axis, or line of no double refraction."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ In uniaxial crystals, the optic axis has the direction of the vertical crystallographic axis. All tetragonal and hexagonal crystals are uniaxial."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Biol.)"
+          ],
+          "defs": [
+            "Having only one axis; developing along a single line or plane; -- opposed to multiaxial."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

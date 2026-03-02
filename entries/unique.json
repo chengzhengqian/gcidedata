@@ -1,0 +1,88 @@
+{
+  "key": "unique",
+  "source_file": "CIDE.U",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Unique",
+      "headword_raw": "U*nique\"",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[F. unique; cf. It. unico; from L. unicus, from unus one. See One.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Uniquely",
+          "form_raw": "U*nique\"ly",
+          "key": "uniquely",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Uniqueness",
+          "form_raw": "U*nique\"ness",
+          "key": "uniqueness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Being without a like or equal; unmatched; unequaled; unparalleled; single in kind or excellence; sole."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Unique",
+      "headword_raw": "U*nique\"",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A thing without a like; something unequaled or unparalleled."
+          ],
+          "quotes": [
+            "The phenix, the unique of birds."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

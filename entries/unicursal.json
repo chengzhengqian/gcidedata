@@ -1,0 +1,40 @@
+{
+  "key": "unicursal",
+  "source_file": "CIDE.U",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Unicursal",
+      "headword_raw": "U`ni*cur\"sal",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Uni- + L. currere, cursum, to run.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Geom.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "That can be passed over in a single course; -- said of a curve when the coordinates of the point on the curve can be expressed as rational algebraic functions of a single parameter ."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ As varies minus infinity to plus infinity, to each value of there corresponds one, and only one, point of the curve, while to each point on the curve there corresponds one, and only one, value of . Straight lines, conic sections, curves of the third order with a nodal point, curves of the fourth order with three double points, etc., are unicursal."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

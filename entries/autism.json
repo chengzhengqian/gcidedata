@@ -1,0 +1,50 @@
+{
+  "key": "autism",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "autism",
+      "headword_raw": "autism",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "a mental disorder characterized by inability to engage in normal social interactions and intense self-absorption, and usually accompanied by other symptoms such as language dysfunctions and repetitive behavior."
+          ],
+          "quotes": [],
+          "notes": [
+            "autism usually manifests itself at an early age"
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "behavior showing an abnormal level of absorption with one's own thoughts and disregard for external realities."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

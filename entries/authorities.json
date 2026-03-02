@@ -1,0 +1,39 @@
+{
+  "key": "authorities",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "authorities",
+      "headword_raw": "authorities",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "the organization that is the governing authority of a political unit."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "government",
+            "regime"
+          ]
+        }
+      ]
+    }
+  ]
+}

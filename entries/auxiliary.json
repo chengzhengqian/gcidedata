@@ -1,0 +1,106 @@
+{
+  "key": "auxiliary",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Auxiliary",
+      "headword_raw": "Aux*il\"ia*ry",
+      "pr": "(?; 106)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": "[L. auxiliarius, fr. auxilium help, aid, fr. augere to increase.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Mus.)",
+        "(Gram.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Conferring aid or help; helping; aiding; assisting; subsidiary; as auxiliary troops."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Auxiliary",
+      "headword_raw": "Aux*il\"ia*ry",
+      "pr": "(<?/)",
+      "pos": [
+        "n.",
+        "sing."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A helper; an assistant; a confederate in some action or enterprise."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mil.)"
+          ],
+          "defs": [
+            "Foreign troops in the service of a nation at war; (rarely in sing.), a member of the allied or subsidiary force."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Gram.)"
+          ],
+          "defs": [
+            "A verb which helps to form the voices, modes, and tenses of other verbs; -- called, also, an auxiliary verb; as, have, be, may, can, do, must, shall, and will, in English; tre and avoir, in French; avere and essere, in Italian; estar and haber, in Spanish."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "A quantity introduced for the purpose of simplifying or facilitating some operation, as in equations or trigonometrical formulæ."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

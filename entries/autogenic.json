@@ -1,0 +1,53 @@
+{
+  "key": "autogenic",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "autogenic",
+      "headword_raw": "autogenic",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "self-generated; self-produced."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "autogenous"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Physiology)"
+          ],
+          "defs": [
+            "originating within the body; -- oposite of heterogenous."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "autogenous"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "key": "awkward",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Awkward",
+      "headword_raw": "Awk\"ward",
+      "pr": "(k\"werd)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Awk + -ward.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "-- Awkward, Clumsy, Uncouth. Awkward has a special reference to outward deportment. A man is clumsy in his whole person, he is awkward in his gait and the movement of his limbs. Clumsiness is seen at the first view. Awkwardness is discovered only when a person begins to move. Hence the expressions, a clumsy appearance, and an awkward manner. When we speak figuratively of an awkward excuse, we think of a lack of ease and grace in making it; when we speak of a clumsy excuse, we think of the whole thing as coarse and stupid. We apply the term uncouth most frequently to that which results from the lack of instruction or training; as, uncouth manners; uncouth language."
+      ],
+      "wordforms": [
+        {
+          "form": "Awkwardly",
+          "form_raw": "Awk\"ward*ly",
+          "key": "awkwardly",
+          "pos": [
+            "adv."
+          ],
+          "pr": "(k\"werd*l)"
+        },
+        {
+          "form": "Awkwardness",
+          "form_raw": "Awk\"ward*ness",
+          "key": "awkwardness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Wanting dexterity in the use of the hands, or of instruments; not dexterous; without skill; clumsy; wanting ease, grace, or effectiveness in movement; ungraceful; as, he was awkward at a trick; an awkward boy."
+          ],
+          "quotes": [
+            "And dropped an awkward courtesy."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Not easily managed or effected; embarrassing."
+          ],
+          "quotes": [
+            "A long and awkward process.",
+            "An awkward affair is one that has gone wrong, and is difficult to adjust."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Perverse; adverse; untoward."
+          ],
+          "quotes": [
+            "O blind guides, which being of an awkward religion, do strain out a gnat, and swallow up a cancel."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Ungainly",
+            "unhandy",
+            "clownish",
+            "lubberly",
+            "gawky",
+            "maladroit",
+            "bungling",
+            "inelegant",
+            "ungraceful",
+            "unbecoming"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "key": "automatic",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Automatic",
+      "headword_raw": "Au`to*mat\"ic",
+      "pr": "(<?/)",
+      "pos": [],
+      "ety": null,
+      "sources": [],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "automatic",
+      "headword_raw": "automatic",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "light machine gun."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "automatic rifle",
+            "machine rifle"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a pistol that will keep firing until the ammunition is gone or the trigger is released; as, a .45 automatic."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "automatic pistol"
+          ]
+        }
+      ]
+    }
+  ]
+}

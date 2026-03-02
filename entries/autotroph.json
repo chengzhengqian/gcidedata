@@ -1,0 +1,41 @@
+{
+  "key": "autotroph",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "autotroph",
+      "headword_raw": "autotroph",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "autophyte",
+        "autophytic plant",
+        "autotrophic organism"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "an organism which is autotrophic, i. e., an organism (such as most plants and certain microorganisms) which are capable of synthesizing its own food from simple organic substances, requiring only minerals as nutrients for growth, and using carbonate or carbon dioxide as a source of carbon and simple inorganic nitrogen as a nitrogen source; the energy required is derived from photosynthesis or chemosynthesis. Opposed to heterotroph. See also auxotroph."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "key": "aventure",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Aventure",
+      "headword_raw": "A*ven\"ture",
+      "pr": "(?; 135)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[See Adventure, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Accident; chance; adventure."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Old Law)"
+          ],
+          "defs": [
+            "A mischance causing a person's death without felony, as by drowning, or falling into the fire."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "key": "automobile",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Automobile",
+      "headword_raw": "Au\"to*mo*bile`",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F.]",
+      "sources": [
+        "Webster 1913 Suppl.",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "car",
+        "auto",
+        "machine",
+        "motorcar"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a self-propelled vehicle used for transporting passengers, suitable for use on a street or roadway. Many different models of automobiles have been built and sold commercially, possessing varied features such as a retractable roof (in a convertible), different braking systems, different propulsion systems, and varied styling. Most models have four wheels but some have been built with three wheels. Automobiles are usually propelled by internal combustion engines (using volatile inflammable liquids, as gasoline or petrol, alcohol, naphtha, etc.), and sometimes by steam engines, or electric motors. The power of the driving motor varies from under 50 H. P. for earlier models to over 200 H. P. larger models or high-performance sports or racing cars. An automobile is commonly called a car or an auto, and generally in British usage, motor cars."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "automobile",
+      "headword_raw": "automobile",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "to travel in an automobile."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "motor"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "key": "autoclave",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Autoclave",
+      "headword_raw": "Au\"to*clave",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F., fr. Gr. a'yto`s self + L. clavis key.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A kind of French stewpan with a steam-tight lid."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a device used for sterilizing objects by exposing them to steam at above atmospheric pressure (and thus at a temperature above the normal boiling point of water). It consists of a closed chamber able to withstand internal pressure, and a means of passing superheated steam into the chamber. Autoclaves are made in various sizes, and are much used in hospitals and research laboratories to render instruments and equipment sterile."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "key": "auscultation",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Auscultation",
+      "headword_raw": "Aus`cul*ta\"tion",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. ausculcatio, fr. auscultare to listen, fr. a dim. of auris, orig. ausis, ear. See Auricle, and cf. Scout, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of listening or hearkening to."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "An examination by listening either directly with the ear (immediate auscultation) applied to parts of the body, as the abdomen; or with the stethoscope (mediate auscultation), in order to distinguish sounds recognized as a sign of health or of disease."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

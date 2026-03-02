@@ -1,0 +1,50 @@
+{
+  "key": "authenticate",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Authenticate",
+      "headword_raw": "Au*then\"ti*cate",
+      "pr": "(<?/)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[Cf. LL. authenticare.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Authenticated (<?/); p. pr. & vb. n. Authenticating (<?/).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To render authentic; to give authority to, by the proof, attestation, or formalities required by law, or sufficient to entitle to credit."
+          ],
+          "quotes": [
+            "The king serves only as a notary to authenticate the choice of judges."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To prove authentic; to determine as real and true; as, to authenticate a portrait."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

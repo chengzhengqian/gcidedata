@@ -1,0 +1,111 @@
+{
+  "key": "award",
+  "source_file": "CIDE.A",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Award",
+      "headword_raw": "A*ward\"",
+      "pr": "(<?/)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OF. eswarder to look at, consider, decide, judge; es (L. ex) + warder, garder, to observe, take heed, keep, fr. OHG. wartēn to watch, guard. See Ward.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Awarded; p. pr. & vb. n. Awarding.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To give by sentence or judicial determination; to assign or apportion, after careful regard to the nature of the case; to adjudge; as, the arbitrators awarded damages to the complainant."
+          ],
+          "quotes": [
+            "To review The wrongful sentence, and award a new."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Award",
+      "headword_raw": "A*ward\"",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To determine; to make an award."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Award",
+      "headword_raw": "A*ward\"",
+      "pr": null,
+      "pos": [
+        "n.",
+        "v. t."
+      ],
+      "ety": "[Cf. OF. award, awart, esgart. See Award, v. t.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A judgment, sentence, or final decision. Specifically: The decision of arbitrators in a case submitted."
+          ],
+          "quotes": [
+            "An award had been given against."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The paper containing the decision of arbitrators; that which is warded."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

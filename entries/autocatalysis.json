@@ -1,0 +1,49 @@
+{
+  "key": "autocatalysis",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Autocatalysis",
+      "headword_raw": "Au`to*ca*tal\"y*sis",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Auto- + catalysis.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Autocatalytic",
+          "form_raw": "Au`to*cat`a*lyt\"ic",
+          "key": "autocatalytic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Self-catalysis; catalysis of a substance by one of its own products, as of silver oxide by the silver formed by reduction of a small portion of it."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

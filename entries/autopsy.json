@@ -1,0 +1,51 @@
+{
+  "key": "autopsy",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Autopsy",
+      "headword_raw": "Au\"top*sy",
+      "pr": "(<?/)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Gr. <?/, fr. <?/ seen by one's self; <?/ self + <?/ seen: cf. F. autopsie. See Optic, a.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Personal observation or examination; seeing with one's own eyes; ocular view."
+          ],
+          "quotes": [
+            "By autopsy and experiment."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "Dissection of a dead body, for the purpose of ascertaining the cause, seat, or nature of a disease; a post-mortem examination."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

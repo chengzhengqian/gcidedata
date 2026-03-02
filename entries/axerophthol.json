@@ -1,0 +1,44 @@
+{
+  "key": "axerophthol",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "axerophthol",
+      "headword_raw": "axerophthol",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a vitamin essential for normal vision (C20H30O); it prevents night blindness or inflammation or dryness of the eyes; same as vitamin A. One U.S.P. unit of vitamin A is equivalent to 0.30 micrograms of pure vitamin A alcohol."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "vitamin A",
+            "vitamin A alcohol",
+            "antiophthalmic factor",
+            "biosterol",
+            "retinol",
+            "A"
+          ]
+        }
+      ]
+    }
+  ]
+}

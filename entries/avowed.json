@@ -1,0 +1,47 @@
+{
+  "key": "avowed",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Avowed",
+      "headword_raw": "A*vowed\"",
+      "pr": "(<?/)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Avowedly",
+          "form_raw": "A*vow\"ed*ly",
+          "key": "avowedly",
+          "pos": [
+            "adv."
+          ],
+          "pr": "(<?/)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Openly acknowledged or declared; admitted."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

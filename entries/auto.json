@@ -1,0 +1,109 @@
+{
+  "key": "auto",
+  "source_file": "CIDE.A",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "auto",
+      "headword_raw": "au\"to",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. <?/ self.]",
+      "sources": [
+        "Webster 1913 Suppl.",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "car",
+        "automobile",
+        "machine",
+        "motorcar"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An abbreviation of automobile."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "auto",
+      "headword_raw": "au\"to",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "of or pertaining to an automobile; as, an auto mechanic."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "auto-",
+      "headword_raw": "au\"to-",
+      "pr": "(<?/)",
+      "pos": [],
+      "ety": "[Gr. <?/ self.]",
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A combining form, with the meaning of self, one's self, one's own, itself, its own."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a prefix with the meaning of self-moving, self-propelling; as, an autocar, an autocarriage, an autotruck, etc., an automobile car, carriage, truck, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

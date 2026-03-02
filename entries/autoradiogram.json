@@ -1,0 +1,40 @@
+{
+  "key": "autoradiogram",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Autoradiogram",
+      "headword_raw": "Au`to*ra\"di*o*gram",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Auto- + radiogram.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Biochemistry)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "an image produced upon photographic film by exposure of the film to a radioactive substance in close proximity to (usually in contact with) the film."
+          ],
+          "quotes": [],
+          "notes": [
+            "Recording the distribution of radioactive materials on an autoradiogram is a technique much used in biochemical research as part of analytical procedures, in which radioactively labeled substances are subjected to a separation process (such as electrophoresis) which can help to characterize the substance, and the resulting distribution of the labeled substance is recorded on an autoradiogram. In microbiology and cell biology, autoradiograms may be made on the same film as a photomicrograph, permitting observation of the distribution of labeled compounds within a cell."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

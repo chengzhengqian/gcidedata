@@ -1,0 +1,50 @@
+{
+  "key": "austral",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Austral",
+      "headword_raw": "Aus\"tral",
+      "pr": "(<?/)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. australis, fr. auster: cf. F. austral.]",
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Southern; lying or being in the south; as, austral land; austral ocean."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Biogeography)",
+            "(Astron.)"
+          ],
+          "defs": [
+            "Designating, or pertaining to, a zone extending across North America between the Transition and Tropical zones, and including most of the United States and central Mexico except the mountainous parts."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

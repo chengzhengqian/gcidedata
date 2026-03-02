@@ -1,0 +1,44 @@
+{
+  "key": "automixte_system",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Automixte system",
+      "headword_raw": "Au`to*mixte\" system",
+      "pr": "(?)",
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Automixte car",
+          "form_raw": "Automixte car",
+          "key": "automixte_car",
+          "pos": [],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Mach.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A system (devised by Henri Pieper, a Belgian) of driving automobiles employing a gasoline engine and an auxiliary reversible dynamo. When there is an excess of power the dynamo is driven by the engine so as to charge a small storage battery; when there is a deficiency of power the dynamo reverses and acts as an auxiliary motor. Sometimes called Pieper system."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

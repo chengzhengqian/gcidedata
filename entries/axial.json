@@ -1,0 +1,51 @@
+{
+  "key": "axial",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Axial",
+      "headword_raw": "Ax\"i*al",
+      "pr": "(<?/)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to an axis; of the nature of, or resembling, an axis; around an axis."
+          ],
+          "quotes": [
+            "To take on an axial, and not an equatorial, direction."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Anat.)",
+            "(Magnetism)"
+          ],
+          "defs": [
+            "Belonging to the axis of the body; as, the axial skeleton; or to the axis of any appendage or organ; as, the axial bones."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

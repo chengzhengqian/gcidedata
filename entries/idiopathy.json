@@ -1,0 +1,50 @@
+{
+  "key": "idiopathy",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Idiopathy",
+      "headword_raw": "Id`i*op\"a*thy",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. <?/; 'i`dios proper, peculiar + <?/, <?/, to suffer: cf. F. idiopathie.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A peculiar, or individual, characteristic or affection."
+          ],
+          "quotes": [
+            "All men are so full of their own fancies and idiopathies, that they scarce have the civility to interchange any words with a stranger."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "A morbid state or condition not preceded or occasioned by any other disease; a primary disease."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

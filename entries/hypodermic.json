@@ -1,0 +1,76 @@
+{
+  "key": "hypodermic",
+  "source_file": "CIDE.H",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Hypodermic",
+      "headword_raw": "Hyp`o*der\"mic",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[See Hypoderma.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Hypodermically",
+          "form_raw": "Hyp`o*der\"mic*al*ly",
+          "key": "hypodermically",
+          "pos": [
+            "adv."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to the parts under the skin."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "hypodermic",
+      "headword_raw": "hyp`o*der\"mic",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A hypodermic needle{2}."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

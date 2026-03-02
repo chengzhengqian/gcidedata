@@ -1,0 +1,49 @@
+{
+  "key": "hysteroepilepsy",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Hysteroepilepsy",
+      "headword_raw": "Hys`ter*o*ep\"i*lep`sy",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Hysteria + epilepsy.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Hysteroepileptic",
+          "form_raw": "Hys`ter*o*ep`i*lep\"tic",
+          "key": "hysteroepileptic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A disease resembling hysteria in its nature, and characterized by the occurrence of epileptiform convulsions, which can often be controlled or excited by pressure on the ovaries, and upon other definite points in the body."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

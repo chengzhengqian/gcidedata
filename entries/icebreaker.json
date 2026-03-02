@@ -1,0 +1,49 @@
+{
+  "key": "icebreaker",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "icebreaker",
+      "headword_raw": "icebreaker",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a ship with a reinforced bow and powerful engines designed to break up layers of ice on waterways and keep channels open for navigation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "iceboat"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A remark or action intended to relieve tension or reduce formality when initiating conversation or beginning a speech; it is often a humorous or light remark."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

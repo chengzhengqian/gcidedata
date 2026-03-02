@@ -1,0 +1,93 @@
+{
+  "key": "identify",
+  "source_file": "CIDE.I",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Identify",
+      "headword_raw": "I*den\"ti*fy",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[Cf. F. identifier. See Identity, and -fy.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Identified (?); p. pr. & vb. n. Identifying (?).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To make to be the same; to unite or combine in such a manner as to make one; to treat as being one or having the same purpose or effect; to consider as the same in any relation."
+          ],
+          "quotes": [
+            "Every precaution is taken to identify the interests of the people and of the rulers.",
+            "Let us identify, let us incorporate ourselves with the people."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To establish the identity of; to prove to be the same with something described, claimed, or asserted; as, to identify stolen property."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Identify",
+      "headword_raw": "I*den\"ti*fy",
+      "pr": "(?)",
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To become the same; to coalesce in interest, purpose, use, effect, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To coalesce in interest, purpose, use, effect, etc.; to associate oneself in name, goals, or feelings; usually used with with; as, he identified with the grief she felt at her father's death."
+          ],
+          "quotes": [
+            "An enlightened self-interest, which, when well understood, they tell us will identify with an interest more enlarged and public."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

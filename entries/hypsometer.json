@@ -1,0 +1,36 @@
+{
+  "key": "hypsometer",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Hypsometer",
+      "headword_raw": "Hyp*som\"e*ter",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. <?/ height + -meter.]",
+      "sources": [],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An instrument for measuring heights by observation of barometric pressure; esp., one for determining heights by ascertaining the boiling point of water. It consists of a vessel for water, with a lamp for heating it, and an inclosed thermometer for showing the temperature of ebullition."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

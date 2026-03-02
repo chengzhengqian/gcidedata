@@ -1,0 +1,56 @@
+{
+  "key": "hypothecation",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Hypothecation",
+      "headword_raw": "Hy*poth`e*ca\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[LL. hypothecatio.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Civ. Law)"
+          ],
+          "defs": [
+            "The act or contract by which property is hypothecated; a right which a creditor has in or to the property of his debtor, in virtue of which he may cause it to be sold and the price appropriated in payment of his debt. This is a right in the thing, or jus in re."
+          ],
+          "quotes": [
+            "There are but few cases, if any, in our law, where an hypothecation, in the strict sense of the Roman law, exists; that is a pledge without possession by the pledgee."
+          ],
+          "notes": [
+            "☞ In the modern civil law, this contract has no application to movable property, not even to ships, to which and their cargoes it is most frequently applied in England and America. See Hypothecate."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law of Shipping)"
+          ],
+          "defs": [
+            "A contract whereby, in consideration of money advanced for the necessities of the ship, the vessel, freight, or cargo is made liable for its repayment, provided the ship arrives in safety. It is usually effected by a bottomry bond. See Bottomry."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ This term is often applied to mortgages of ships."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

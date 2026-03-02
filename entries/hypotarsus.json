@@ -1,0 +1,47 @@
+{
+  "key": "hypotarsus",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Hypotarsus",
+      "headword_raw": "Hy`po*tar\"sus",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[NL. See Hypo-, and Tarsus.]",
+      "sources": [],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Hypotarsal",
+          "form_raw": "Hy`po*tar\"sal",
+          "key": "hypotarsal",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Anat.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A process on the posterior side of the tarsometatarsus of many birds; the calcaneal process."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "key": "iambic",
+  "source_file": "CIDE.I",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Iambic",
+      "headword_raw": "I*am\"bic",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. iambicus, Gr. <?/: cf. F. iambique.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Pros.)"
+          ],
+          "defs": [
+            "Consisting of a short syllable followed by a long one, or of an unaccented syllable followed by an accented; as, an iambic foot."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Pertaining to, or composed of, iambics; as, an iambic verse; iambic meter. See Lambus."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Iambic",
+      "headword_raw": "I*am\"bic",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Pros.)"
+          ],
+          "defs": [
+            "An iambic foot; an iambus.",
+            "A verse composed of iambic feet."
+          ],
+          "quotes": [
+            "Thy gen- | ius calls | thee not | to pur- | chase fame In keen | iam- | bics, but | mild an- | agram."
+          ],
+          "notes": [
+            "☞ The following couplet consists of iambic verses."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A satirical poem (such poems having been anciently written in iambic verse); a satire; a lampoon."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

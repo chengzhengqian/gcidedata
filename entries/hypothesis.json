@@ -1,0 +1,53 @@
+{
+  "key": "hypothesis",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Hypothesis",
+      "headword_raw": "Hy*poth\"e*sis",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[NL., fr. Gr. <?/ foundation, supposition, fr. <?/ to place under, <?/ under + <?/ to put. See Hypo-, Thesis.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A supposition; a proposition or principle which is supposed or taken for granted, in order to draw a conclusion or inference for proof of the point in question; something not proved, but assumed for the purpose of argument, or to account for a fact or an occurrence; as, the hypothesis that head winds detain an overdue steamer."
+          ],
+          "quotes": [
+            "An hypothesis being a mere supposition, there are no other limits to hypotheses than those of the human imagination."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Natural Science)"
+          ],
+          "defs": [
+            "A tentative theory or supposition provisionally adopted to explain certain facts, and to guide in the investigation of others; hence, frequently called a working hypothesis."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Supposition",
+            "assumption. See Theory"
+          ]
+        }
+      ]
+    }
+  ]
+}

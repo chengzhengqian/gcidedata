@@ -1,0 +1,48 @@
+{
+  "key": "igneous",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Igneous",
+      "headword_raw": "Ig\"ne*ous",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. igneus, fr. ignis fire; allied to Skr. agni, Lith. ugnis, OSlav. ogne.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Pertaining to, having the nature of, fire; containing fire; resembling fire; as, an igneous appearance."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Geol.)"
+          ],
+          "defs": [
+            "Resulting from, or produced by, the action of fire; as, lavas and basalt are igneous rocks."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "key": "idiopathical",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Idiopathical",
+      "headword_raw": "Id`i*o*path\"ic*al",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[Cf. F. idiopathique.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Idiopathically",
+          "form_raw": "Id`i*o*path\"ic*al*ly",
+          "key": "idiopathically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Pertaining to idiopathy; characterizing a disease arising primarily, and not in consequence of some other disease or injury; -- opposed to symptomatic, sympathetic, and traumatic."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

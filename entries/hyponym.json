@@ -1,0 +1,41 @@
+{
+  "key": "hyponym",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "hyponym",
+      "headword_raw": "hyponym",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "subordinate",
+        "subordinate word"
+      ],
+      "entry_fields": [
+        "(linguistics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a word that is more specific (less abstract) than a given word; a term designating a class which is a subtype of the given word; a subcategory; a subtype. Inverse of hypernym; as, “dog” is a hyponym of “mammal”, and “mammal” is a hyponym of “vertebrate”."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "key": "igniter",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "igniter",
+      "headword_raw": "igniter",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a substance used to ignite or kindle a fire."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "ignitor",
+            "lighter"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a device for lighting or igniting fuel or charges or fires."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "lighter",
+            "light",
+            "ignitor"
+          ]
+        }
+      ]
+    }
+  ]
+}

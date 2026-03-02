@@ -1,0 +1,48 @@
+{
+  "key": "core_dump",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "core dump",
+      "headword_raw": "core\" dump`",
+      "pr": "(kr\"dmp`)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "An complete and exact copy of the contents of a computer core{9}, usually produced as a file when some serious error occurs in the execution of a computer program, and used for debugging the program which produced the error."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A full account of a person's knowledge on some specific topic, usually produced in response to a question of some kind. It is a mildly deprecatory term, suggesting that the person producing the account was unable to prepare a more concise and understandable summary of the information; as, I just need the essentials, not a core dump."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

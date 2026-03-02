@@ -1,0 +1,50 @@
+{
+  "key": "copula",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Copula",
+      "headword_raw": "Cop\"u*la",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L., bond, band. See Couple.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Logic & Gram.)"
+          ],
+          "defs": [
+            "The word which unites the subject and predicate."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mus.)"
+          ],
+          "defs": [
+            "The stop which connects the manuals, or the manuals with the pedals; -- called also coupler."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

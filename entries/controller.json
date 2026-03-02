@@ -1,0 +1,87 @@
+{
+  "key": "controller",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Controller",
+      "headword_raw": "Con*trol\"ler",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[From control, v. t.: cf. F. contrleur.]",
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One who, or that which, controls or restrains; one who has power or authority to regulate or control; one who governs."
+          ],
+          "quotes": [
+            "The great controller of our fate Deigned to be man, and lived in low estate."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "An officer appointed to keep a counter register of accounts, or to examine, rectify, or verify accounts."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Naut.)"
+          ],
+          "defs": [
+            "An iron block, usually bolted to a ship's deck, for controlling the running out of a chain cable. The links of the cable tend to drop into hollows in the block, and thus hold fast until disengaged."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Elec.)"
+          ],
+          "defs": [
+            "Any electric device for controlling a circuit or system;",
+            "An electromagnet, excited by the main current, for throwing a regulator magnet into or out of circuit in an automatic device for constant current regulation.",
+            "A kind of multiple switch for gradually admitting the current to, or shutting it off from, an electric motor; as, a car controller for an electric railway car."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Mach.)"
+          ],
+          "defs": [
+            "A lever controlling the speed of an engine; -- applied esp. to the lever governing a throttle valve, as of a steam or gasoline engine, esp. on an automobile."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

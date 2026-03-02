@@ -1,0 +1,51 @@
+{
+  "key": "conventicle",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Conventicle",
+      "headword_raw": "Con*ven\"ti*cle",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. conventiculum, dim. of conventus: cf. F. conventicule. See Convent, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A small assembly or gathering; esp., a secret assembly."
+          ],
+          "quotes": [
+            "They are commanded to abstain from all conventicles of men whatsoever."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "An assembly for religious worship; esp., such an assembly held privately, as in times of persecution, by Nonconformists or Dissenters in England, or by Covenanters in Scotland; -- often used opprobriously, as if those assembled were heretics or schismatics."
+          ],
+          "quotes": [
+            "The first Christians could never have had recourse to nocturnal or clandestine conventicles till driven to them by the violence of persecution.",
+            "A sort of men who . . . attend its [the curch of England's] service in the morning, and go with their wives to a conventicle in the afternoon."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

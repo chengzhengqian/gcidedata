@@ -1,0 +1,58 @@
+{
+  "key": "convulse",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Convulse",
+      "headword_raw": "Con*vulse\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. convulsus, p. p. of convellere to tear up, to shake; con- + vellere to pluck, pull.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Convulsed (?); p. pr. & vb. n. Convulsing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To contract violently and irregularly, as the muscular parts of an animal body; to shake with irregular spasms, as in excessive laughter, or in agony from grief or pain."
+          ],
+          "quotes": [
+            "With emotions which checked his voice and convulsed his powerful frame."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To agitate greatly; to shake violently."
+          ],
+          "quotes": [
+            "The world is convulsed by the agonies of great nations."
+          ],
+          "notes": [],
+          "synonyms": [
+            "agitate",
+            "disturb",
+            "shake",
+            "tear",
+            "rend"
+          ]
+        }
+      ]
+    }
+  ]
+}

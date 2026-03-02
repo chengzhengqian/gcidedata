@@ -1,0 +1,82 @@
+{
+  "key": "conviction",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Conviction",
+      "headword_raw": "Con*vic\"tion",
+      "pr": "(kn*vk\"shn)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. convictio proof: cf. F. conviction conviction (in sense 3 & 4). See Convict, Convince.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "-- Conviction respects soley matters of belief or faith; persuasion respects matters of belief or practice. Conviction respects our most important duties; persuasion is frequently applied to matters of indifference. Crabb. -- Conviction is the result of the [operation of the] understanding; persuasion, of the will. Conviction is a necessity of the mind, persuasion an acquiescence of the inclination."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of convicting; the act of proving, finding, or adjudging, guilty of an offense."
+          ],
+          "quotes": [
+            "The greater certainty of conviction and the greater certainty of punishment."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "A judgment of condemnation entered by a court having jurisdiction; the act or process of finding guilty, or the state of being found guilty of any crime by a legal tribunal."
+          ],
+          "quotes": [
+            "Conviction may accrue two ways."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "The act of convincing of error, or of compelling the admission of a truth; confutation."
+          ],
+          "quotes": [
+            "For all his tedious talk is but vain boast, Or subtle shifts conviction to evade."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "The state of being convinced or convicted; strong persuasion or belief; especially, the state of being convicted of sin, or by one's conscience."
+          ],
+          "quotes": [
+            "To call good evil, and evil good, against the conviction of their own consciences.",
+            "And did you presently fall under the power of this conviction?"
+          ],
+          "notes": [],
+          "synonyms": [
+            "Conviction",
+            "persuasion"
+          ]
+        }
+      ]
+    }
+  ]
+}

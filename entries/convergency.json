@@ -1,0 +1,92 @@
+{
+  "key": "convergency",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Convergency",
+      "headword_raw": "Con*ver\"gen*cy",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. convergence.]",
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The condition or quality of converging; tendency to one point; the occurrence of two or more things coming together."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "the approach of an infinite series to a finite limit."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "convergency"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "a representation of common ground between theories or phenomena."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "overlap",
+            "intersection"
+          ]
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "the act of converging (coming closer)."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "converging",
+            "convergency"
+          ]
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Biol.)"
+          ],
+          "defs": [
+            "a similarity of form or function in two or more organisms caused by evolutionary adaptations to a similarity in the environment, rather than to a common heredity."
+          ],
+          "quotes": [
+            "The convergence or divergence of the rays falling on the pupil."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

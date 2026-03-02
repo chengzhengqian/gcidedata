@@ -1,0 +1,190 @@
+{
+  "key": "converse",
+  "source_file": "CIDE.C",
+  "record_count": 4,
+  "records": [
+    {
+      "headword": "Converse",
+      "headword_raw": "Con*verse\"",
+      "pr": "(kn*vrs\")",
+      "pos": [
+        "v. i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[F. converser, L. conversari to associate with; con- + versari to be turned, to live, remain, fr. versare to turn often, v. intens. of vertere to turn See Convert.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Conversed (?); p. pr. & vb. n. Conversing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To keep company; to hold intimate intercourse; to commune; -- followed by with."
+          ],
+          "quotes": [
+            "To seek the distant hills, and there converse With nature.",
+            "Conversing with the world, we use the world's fashions.",
+            "But to converse with heaven - This is not easy."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To engage in familiar colloquy; to interchange thoughts and opinions in a free, informal manner; to chat; -- followed by with before a person; by on, about, concerning, etc., before a thing."
+          ],
+          "quotes": [
+            "Companions That do converse and waste the time together.",
+            "We had conversed so often on that subject."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To have knowledge of, from long intercourse or study; -- said of things."
+          ],
+          "quotes": [
+            "According as the objects they converse with afford greater or less variety."
+          ],
+          "notes": [],
+          "synonyms": [
+            "associate",
+            "commune",
+            "discourse",
+            "talk",
+            "chat"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Converse",
+      "headword_raw": "Con\"verse",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Frequent intercourse; familiar communion; intimate association."
+          ],
+          "quotes": [
+            "'T is but to hold Converse with Nature's charms, and view her stores unrolled."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Familiar discourse; free interchange of thoughts or views; conversation; chat."
+          ],
+          "quotes": [
+            "Formed by thy converse happily to steer From grave to gay, from lively to severe."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Converse",
+      "headword_raw": "Con\"verse",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. conversus, p. p. of convertere. See Convert.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Turned about; reversed in order or relation; reciprocal; as, a converse proposition."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Converse",
+      "headword_raw": "Con\"verse",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Logic)"
+          ],
+          "defs": [
+            "A proposition which arises from interchanging the terms of another, as by putting the predicate for the subject, and the subject for the predicate; as, no virtue is vice, no vice is virtue."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ It should not (as is often done) be confounded with the contrary or opposite of a proposition, which is formed by introducing the negative not or no."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "A proposition in which, after a conclusion from something supposed has been drawn, the order is inverted, making the conclusion the supposition or premises, what was first supposed becoming now the conclusion or inference. Thus, if two sides of a sides of a triangle are equal, the angles opposite the sides are equal; and the converse is true, i.e., if these angles are equal, the two sides are equal."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

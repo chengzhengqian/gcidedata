@@ -1,0 +1,79 @@
+{
+  "key": "contumacious",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Contumacious",
+      "headword_raw": "Con`tu*ma\"cious",
+      "pr": "(kn`t*mā\"shs)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. contumax, -acis. See Contumacy.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Contumaciously",
+          "form_raw": "Con`tu*ma\"cious*ly",
+          "key": "contumaciously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Contumaciousness",
+          "form_raw": "Con`tu*ma\"cious*ness",
+          "key": "contumaciousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Exhibiting contumacy; contemning authority; obstinate; perverse; stubborn; disobedient."
+          ],
+          "quotes": [
+            "There is another very, efficacious method for subduing the most obstinate, contumacious sinner."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "Willfully disobedient to the summons or orders of a court."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Stubborn",
+            "obstinate",
+            "obdurate",
+            "disobedient",
+            "perverse",
+            "unyielding",
+            "headstrong"
+          ]
+        }
+      ]
+    }
+  ]
+}

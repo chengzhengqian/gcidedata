@@ -1,0 +1,186 @@
+{
+  "key": "coordinate",
+  "source_file": "CIDE.C",
+  "record_count": 5,
+  "records": [
+    {
+      "headword": "Coördinate",
+      "headword_raw": "Co*<oum/r\"di*nate",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Coordinate",
+      "headword_raw": "Co*or\"di*nate",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Pref. co- + L. ordinatus, p. p. of ordinare to regulate. See Ordain.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Equal in rank or order; not subordinate."
+          ],
+          "quotes": [
+            "Whether there was one Supreme Governor of the world, or many coordinate powers presiding over each country.",
+            "Conjunctions joint sentences and coordinate terms."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "coördinate",
+      "headword_raw": "co*<oum/r\"di*nate",
+      "pr": "(-nāt)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5"
+      ],
+      "morph": "[imp. & p. p. Coordinated; p. pr. & vb. n. Coordinating.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To make coordinate; to put in the same order or rank; as, to coordinate ideas in classification."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To give a common action, movement, or condition to; to regulate and combine so as to produce harmonious action; to adjust; to harmonize; as, to coordinate muscular movements."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "to be co-ordinated; as, These activities co-ordinate well."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "coordinate"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Coördinate",
+      "headword_raw": "Co*<oum/r\"di*nate",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Coordinate",
+      "headword_raw": "Co*or\"di*nate",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A thing of the same rank with another thing; one two or more persons or things of equal rank, authority, or importance."
+          ],
+          "quotes": [
+            "It has neither coordinate nor analogon; it is absolutely one."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)",
+            "(Geom. of Two Dimensions)",
+            "(Geom. of Three Dimensions)"
+          ],
+          "defs": [
+            "Lines, or other elements of reference, by means of which the position of any point, as of a curve, is defined with respect to certain fixed lines, or planes, called coordinate axes and coordinate planes. See Abscissa."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Coordinates are of several kinds, consisting in some of the different cases, of the following elements, namely: (a) (Geom. of Two Dimensions) The abscissa and ordinate of any point, taken together; as the abscissa PY and ordinate PX of the point P (Fig. 2, referred to the coordinate axes AY and AX. (b) Any radius vector PA (Fig. 1), together with its angle of inclination to a fixed line, APX, by which any point A in the same plane is referred to that fixed line, and a fixed point in it, called the pole, P. (c) (Geom. of Three Dimensions) Any three lines, or distances, PB, PC, PD (Fig. 3), taken parallel to three coordinate axes, AX, AY, AZ, and measured from the corresponding coordinate fixed planes, YAZ, XAZ, XAY, to any point in space, P, whose position is thereby determined with respect to these planes and axes. (d) A radius vector, the angle which it makes with a fixed plane, and the angle which its projection on the plane makes with a fixed line line in the plane, by which means any point in space at the free extremity of the radius vector is referred to that fixed plane and fixed line, and a fixed point in that line, the pole of the radius vector."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

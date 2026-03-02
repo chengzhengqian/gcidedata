@@ -1,0 +1,70 @@
+{
+  "key": "contumelious",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Contumelious",
+      "headword_raw": "Con`tu*me\"li*ous",
+      "pr": "(? ?; 106)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. contumeliosus.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Contumeliously",
+          "form_raw": "Con`tu*me\"li*ous*ly",
+          "key": "contumeliously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Contumeliousness",
+          "form_raw": "Con`tu*me\"li*ous*ness",
+          "key": "contumeliousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Exhibiting contumely; rudely contemptuous; insolent; disdainful."
+          ],
+          "quotes": [
+            "Scoffs, and scorns, and contumelious taunts.",
+            "Curving a contumelious lip."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Shameful; disgraceful."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

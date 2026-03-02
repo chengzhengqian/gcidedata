@@ -1,0 +1,192 @@
+{
+  "key": "control",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Control",
+      "headword_raw": "Con*trol\"",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. contrle a counter register, contr. fr. contr-rle; contre (L. contra) + rle roll, catalogue. See Counter and Roll, and cf. Counterroll.]",
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl.",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A duplicate book, register, or account, kept to correct or check another account or register; a counter register."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That which serves to check, restrain, or hinder; restraint."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Power or authority to check or restrain; restraining or regulating influence; superintendence; government; as, children should be under parental control."
+          ],
+          "quotes": [
+            "The House of Commons should exercise a control over all the departments of the executive administration."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Mach.)",
+            "(Aëronautics)"
+          ],
+          "defs": [
+            "The complete apparatus used to control a mechanism or machine in operation, as a flying machine in flight;",
+            "the mechanism controlling the rudders and ailerons."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Climatology)"
+          ],
+          "defs": [
+            "Any of the physical factors determining the climate of any particular place, as latitude,distribution of land and water, altitude, exposure, prevailing winds, permanent high- or low-barometric-pressure areas, ocean currents, mountain barriers, soil, and vegetation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [
+            "(Technology)"
+          ],
+          "defs": [
+            "in research, an object or subject used in an experimental procedure, which is treated identically to the primary subject of the experiment, except for the omission of the specific treatment or conditions whose effect is being investigated. If the control is a group of living organisms, as is common in medical research, it is called the control group."
+          ],
+          "quotes": [],
+          "notes": [
+            "For most experimental procedures, the results are not considered valid and reliable unless a proper control experiment is performed. There are various types of control used in experimental science, and often several groups of subjects serve as controls, being subjected to different variations of the experimental procedure, or controlling for several variables being tested. When the effects caused by an experimental treatment are not consistent and obvious, statistical analysis of the results is typically used to determine if there are any significant differences between the effects of different experimental conditions."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "7.",
+          "fields": [
+            "(Technology)"
+          ],
+          "defs": [
+            "the part of an experimental procedure in which the controls{6} are subjected to the experimental conditions."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "8.",
+          "fields": [],
+          "defs": [
+            "the group of technical specialists exercising control by remote communications over a distant operation, such as a space flight; as, the American Mission Control for manned flights is located in Houston."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Control",
+      "headword_raw": "Con*trol\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[F. contrler, fr. contrle.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": "[imp. & p. p. Controlled (?); p. pr. & vb. n. Controlling.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To check by a counter register or duplicate account; to prove by counter statements; to confute."
+          ],
+          "quotes": [
+            "This report was controlled to be false."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To exercise restraining or governing influence over; to check; to counteract; to restrain; to regulate; to govern; to overpower."
+          ],
+          "quotes": [
+            "Give me a staff of honor for mine age, But not a scepter to control the world.",
+            "I feel my virtue struggling in my soul: But stronger passion does its power control."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "to assure the validity of an experimental procedure by using a control{7}."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "restrain",
+            "rule",
+            "govern",
+            "manage",
+            "guide",
+            "regulate",
+            "hinder",
+            "direct",
+            "check",
+            "curb",
+            "counteract",
+            "subdue"
+          ]
+        }
+      ]
+    }
+  ]
+}

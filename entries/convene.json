@@ -1,0 +1,102 @@
+{
+  "key": "convene",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Convene",
+      "headword_raw": "Con*vene\"",
+      "pr": "(?)",
+      "pos": [
+        "v. i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. convenire; con- + venire to come: cf. F. convenir to agree, to be fitting, OF. also, to assemble. See Come, and cf. Covenant.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Convened (?); p. pr. & vb. n. Convenong.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To come together; to meet; to unite."
+          ],
+          "quotes": [
+            "In shortsighted men . . . the rays converge and convene in the eyes before they come at the bottom."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To come together, as in one body or for a public purpose; to meet; to assemble."
+          ],
+          "quotes": [
+            "The Parliament of Scotland now convened.",
+            "Faint, underneath, the household fowls convene."
+          ],
+          "notes": [],
+          "synonyms": [
+            "meet",
+            "assemble",
+            "congregate",
+            "collect",
+            "unite"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Convene",
+      "headword_raw": "Con*vene\"",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To cause to assemble; to call together; to convoke."
+          ],
+          "quotes": [
+            "And now the almighty father of the gods Convenes a council in the blest abodes."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To summon judicially to meet or appear."
+          ],
+          "quotes": [
+            "By the papal canon law, clerks . . . can not be convened before any but an ecclesiastical judge."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "key": "convection",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Convection",
+      "headword_raw": "Con*vec\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. convectio, fr. convehere to bring together; con- + vehere to carry.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act or process of conveying or transmitting."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Physics)"
+          ],
+          "defs": [
+            "A process of transfer or transmission, as of heat or electricity, by means of currents in liquids or gases, resulting from changes of temperature and other causes."
+          ],
+          "quotes": [
+            "Liquids are generally heated by convection -- when heat is applied from below."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

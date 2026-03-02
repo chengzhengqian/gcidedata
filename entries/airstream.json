@@ -1,0 +1,51 @@
+{
+  "key": "airstream",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "airstream",
+      "headword_raw": "air\"stream`",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a relatively well-defined prevailing wind."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "the flow of air that is driven backwards by an aircraft propeller."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "slipstream",
+            "race",
+            "backwash",
+            "wash"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "key": "algometer",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Algometer",
+      "headword_raw": "Al*gom\"e*ter",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a.",
+        "adv."
+      ],
+      "ety": "[Gr. <?/ pain + -meter.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Algometry",
+          "form_raw": "Al*gom\"e*try",
+          "key": "algometry",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Algometric",
+          "form_raw": "Al`go*met\"ric",
+          "key": "algometric",
+          "pos": [],
+          "pr": "(#)"
+        },
+        {
+          "form": "metrical",
+          "form_raw": "*met\"ric*al",
+          "key": "metrical",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Algometrically",
+          "form_raw": "Al`go*met\"ric*al*ly",
+          "key": "algometrically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Psychol.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An instrument for measuring sensations of pain due to pressure. It has a piston rod with a blunted tip which is pressed against the skin."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

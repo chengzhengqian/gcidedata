@@ -1,0 +1,39 @@
+{
+  "key": "airdrome",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "airdrome",
+      "headword_raw": "air\"drome`",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "an airfield equipped with control tower and hangers as well as accommodations for passengers and cargo."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "airport",
+            "aerodrome"
+          ]
+        }
+      ]
+    }
+  ]
+}

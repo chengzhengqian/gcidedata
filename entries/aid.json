@@ -1,0 +1,130 @@
+{
+  "key": "aid",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Aid",
+      "headword_raw": "Aid",
+      "pr": "(<?/)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[F. aider, OF. aidier, fr. L. adjutare to help, freq. of adjuvare to help; ad + juvare to help. Cf. Adjutant.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Aided (<?/); p. pr. & vb. n. Aiding.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "help",
+        "assist",
+        "support",
+        "sustain",
+        "succor",
+        "relieve",
+        "befriend",
+        "coöperate",
+        "promote. See Help"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To support, either by furnishing strength or means in coöperation to effect a purpose, or to prevent or to remove evil; to help; to assist."
+          ],
+          "quotes": [
+            "You speedy helpers . . . Appear and aid me in this enterprise."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Aid",
+      "headword_raw": "Aid",
+      "pr": null,
+      "pos": [
+        "n.",
+        "v. t."
+      ],
+      "ety": "[F. aide, OF. ade, ae, fr. the verb. See Aid, v. t.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Help; succor; assistance; relief."
+          ],
+          "quotes": [
+            "An unconstitutional mode of obtaining aid."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The person or thing that promotes or helps in something done; a helper; an assistant."
+          ],
+          "quotes": [
+            "It is not good that man should be alone; let us make unto him an aid like unto himself."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Eng. Hist.)"
+          ],
+          "defs": [
+            "A subsidy granted to the king by Parliament; also, an exchequer loan."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Feudal Law)"
+          ],
+          "defs": [
+            "A pecuniary tribute paid by a vassal to his lord on special occasions."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "An aid-de-camp, so called by abbreviation; as, a general's aid."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

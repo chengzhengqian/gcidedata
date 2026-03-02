@@ -1,0 +1,55 @@
+{
+  "key": "aldehyde",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Aldehyde",
+      "headword_raw": "Al\"de*hyde",
+      "pr": "(l\"d*hīd)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Abbrev. fr. alcohol dehydrogenatum, alcohol deprived of its hydrogen.]",
+      "sources": [
+        "1913 Webster",
+        "PJC",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "A colorless, mobile, and very volatile liquid obtained from alcohol by certain processes of oxidation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Chem.)",
+            "(Chem.)"
+          ],
+          "defs": [
+            "Any compound having the group -CHO. Methyl aldehyde, the simplest aldehyde, is more commonly called formaldehyde, H-CHO, and acetic aldehyde is now more commonly called acetaldehyde. The higher aldehydes may be solids. A reducing sugar typically contains the aldehyde group."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The aldehydes are intermediate between the alcohols and acids, and differ from the alcohols in having two less hydrogen atoms in the molecule, as common aldehyde (called also acetaldehyde, acetic aldehyde or ethyl aldehyde), C2H4O; methyl aldehyde (called also formaldehyde), CH2O."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

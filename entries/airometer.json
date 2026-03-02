@@ -1,0 +1,36 @@
+{
+  "key": "airometer",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Airometer",
+      "headword_raw": "Air*om\"e*ter",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Air + -meter.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A hollow cylinder to contain air. It is closed above and open below, and has its open end plunged into water."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

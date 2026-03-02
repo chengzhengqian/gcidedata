@@ -1,0 +1,38 @@
+{
+  "key": "airfoil",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "airfoil",
+      "headword_raw": "air\"foil`",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a surface such as the wing of an airplane designed to provide reactive force when in motion relative to the surrounding air."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "aerofoil"
+          ]
+        }
+      ]
+    }
+  ]
+}

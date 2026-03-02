@@ -1,0 +1,85 @@
+{
+  "key": "alert",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Alert",
+      "headword_raw": "A*lert\"",
+      "pr": "(*lrt\")",
+      "pos": [
+        "a."
+      ],
+      "ety": "[F. alerte, earlier l'erte on the watch, fr. It. all' erta on the watch, prop. (standing) on a height, where one can look around; erta a declivity, steep, erto steep, p. p. of ergere, erigere, to erect, raise, L. erigere. See Erect.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Watchful; vigilant; active in vigilance."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Brisk; nimble; moving with celerity."
+          ],
+          "quotes": [
+            "An alert young fellow."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Active",
+            "agile",
+            "lively",
+            "quick",
+            "prompt"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Alert",
+      "headword_raw": "A*lert\"",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Mil.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An alarm from a real or threatened attack; a sudden attack; also, a bugle sound to give warning."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

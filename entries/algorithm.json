@@ -1,0 +1,92 @@
+{
+  "key": "algorithm",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Algorithm",
+      "headword_raw": "Al\"go*rithm",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. algorism, algrim, augrim, OF. algorisme, F. algorithme (cf. Sp. algoritmo, OSp. alguarismo, LL. algorismus), fr. the Ar. al-Khowārezmī of Khowārezm, the modern Khiwa, surname of Abu Ja'far Mohammed ben Musā, author of a work on arithmetic early in the 9th century, which was translated into Latin, such books bearing the name algorismus. The spelling with th is due to a supposed connection with Gr. <?/ number.]",
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The art of calculating by nine figures and zero; computation with Arabic figures."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "the Arabic system of numeration."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "decimal system"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "The art of calculating with any species of notation; as, the algorithms of fractions, proportions, surds, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "algorithm",
+      "headword_raw": "algorithm",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "algorithmic rule",
+        "algorithmic program"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a precise rule (or set of rules) specifying how to solve some problem; a set of procedures guaranteed to find the solution to a problem."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "key": "aileron",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Aileron",
+      "headword_raw": "Ai\"le*ron",
+      "pr": "(ā\"l*rn)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F., dim. of aile wing.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A half gable, as at the end of a penthouse or of the aisle of a church."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Aëronautics)"
+          ],
+          "defs": [
+            "A small plane or surface capable of being manipulated by the pilot of a flying machine to control lateral balance; a hinged wing tip; a lateral stabilizing or balancing plane."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

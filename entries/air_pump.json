@@ -1,0 +1,48 @@
+{
+  "key": "air_pump",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Air pump",
+      "headword_raw": "Air\" pump`",
+      "pr": "(<?/)",
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Physics)"
+          ],
+          "defs": [
+            "A kind of pump for exhausting air from a vessel or closed space; also, a pump to condense air or force it into a closed space."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Steam Engines)"
+          ],
+          "defs": [
+            "A pump used to exhaust from a condenser the condensed steam, the water used for condensing, and any commingled air."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

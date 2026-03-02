@@ -1,0 +1,47 @@
+{
+  "key": "air_cooling",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Air cooling",
+      "headword_raw": "Air cooling",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl.",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Air-cooled",
+          "form_raw": "Air\"-cooled`",
+          "key": "air-cooled",
+          "pos": [
+            "a."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "In devices generating heat, such as gasoline-engine motor vehicles, the cooling of the device by increasing its radiating surface by means of ribs or radiators, and placing it so that it is exposed to a current of air. Cf. Water cooling."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

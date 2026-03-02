@@ -1,0 +1,42 @@
+{
+  "key": "alerting",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "alerting",
+      "headword_raw": "alerting",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "alertness"
+      ],
+      "entry_fields": [
+        "(Physiol.)"
+      ],
+      "senses": [
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a warning serves to make you more alert to danger."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "alert"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "key": "alcoholism",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "alcoholism",
+      "headword_raw": "al\"co*hol*ism",
+      "pr": "(l\"k*hl*z'm)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. alcoolisme.]",
+      "sources": [
+        "AS",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "Chronic excessive drinking of alcoholic beverages that leads to social, occupational, psychological and physiological problems."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "Psychological and physiological dependence on alcohol; sudden cessation of drinking may lead to withdrawal symptoms."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

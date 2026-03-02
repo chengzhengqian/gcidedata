@@ -1,0 +1,52 @@
+{
+  "key": "alienated",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "alienated",
+      "headword_raw": "alienated",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "socially disoriented."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "anomic",
+            "disoriented"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "having become indifferent or hostile to one's peers or social group."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "estranged"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "key": "alcoholmeter",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Alcoholmeter",
+      "headword_raw": "Al`co*hol\"me*ter",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Alcohol + -meter.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An instrument for determining the strength of spirits, with a scale graduated so as to indicate the percentage of pure alcohol, either by weight or volume. It is usually a form of hydrometer with a special scale."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

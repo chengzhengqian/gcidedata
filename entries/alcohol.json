@@ -1,0 +1,72 @@
+{
+  "key": "alcohol",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Alcohol",
+      "headword_raw": "Al\"co*hol",
+      "pr": "(l\"k*hl)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. alcool, formerly written alcohol, Sp. alcohol alcohol, antimony, galena, OSp. alcofol; all fr. Ar. al-kohl a powder of antimony or galena, to paint the eyebrows with. The name was afterwards applied, on account of the fineness of this powder, to highly rectified spirits, a signification unknown in Arabia. The Sp. word has both meanings. Cf. Alquifou.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "An impalpable powder."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The fluid essence or pure spirit obtained by distillation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Pure spirit of wine; pure or highly rectified spirit (called also ethyl alcohol or ethanol, CH3.CH2.OH); the spirituous or intoxicating element of fermented or distilled liquors, or more loosely a liquid containing it in considerable quantity. It is extracted by simple distillation from various vegetable juices and infusions of a saccharine nature, which have undergone vinous fermentation."
+          ],
+          "quotes": [],
+          "notes": [
+            "[The ferementation is usually carried out by addition of brewer's yeast, Saccharomyces cerevisiae to an aqueous solution containing carbohydrates.]",
+            "☞ As used in the U. S. “Pharmacopœia,” alcohol contains 91 per cent by weight of ethyl alcohol and 9 per cent of water; and diluted alcohol (proof spirit) contains 45.5 per cent by weight of ethyl alcohol and 54.5 per cent of water."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Organic Chem.)"
+          ],
+          "defs": [
+            "A class of compounds analogous to vinic alcohol in constitution. Chemically speaking, they are hydroxides of certain organic radicals; as, the radical ethyl forms common or ethyl alcohol (C2H5.OH); methyl forms methyl alcohol (CH3.OH) or wood alcohol; amyl forms amyl alcohol (C5H11.OH) or fusel oil, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

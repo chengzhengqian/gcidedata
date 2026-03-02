@@ -1,0 +1,40 @@
+{
+  "key": "alexia",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Alexia",
+      "headword_raw": "A*lex\"i*a",
+      "pr": "(*lks\"*)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[NL.; a- not + Gr. le`xis speech, fr. le`gein to speak, confused with L. legere to read.]",
+      "sources": [
+        "Webster 1913 Suppl.",
+        "AS"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Inability to read aloud, due to brain disease; the meanings of the words is nevertheless understood. Called also motor alexia.",
+            "Inability, due to brain disease, to understand written or printed symbols. Called also Word blindness and text blindness."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "key": "aldol",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Aldol",
+      "headword_raw": "Al\"dol",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Aldehyde + -ol as in alcohol.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A colorless liquid, C4H8O2, obtained by condensation of two molecules of acetaldehyde: CH3CHO + CH3CHO = H3CH(OH)CH2CO; also, any of various derivatives of this. The same reaction has been applied, under the name of aldol condensation, to the production of many compounds."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

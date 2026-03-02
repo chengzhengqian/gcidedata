@@ -1,0 +1,60 @@
+{
+  "key": "airbrake",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "airbrake",
+      "headword_raw": "airbrake",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a small parachute or articulated flap to reduce the speed of an aircraft."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "dive brake"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a vehicular brake that operates by compressed air; especially for heavy vehicles. Same as air brake."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "air brake"
+          ]
+        },
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "an atomizer to spray by means of compressed air."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

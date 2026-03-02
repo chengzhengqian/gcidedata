@@ -1,0 +1,59 @@
+{
+  "key": "aguish",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Aguish",
+      "headword_raw": "A\"gu*ish",
+      "pr": "(<?/)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Aguishness",
+          "form_raw": "A\"gu*ish*ness",
+          "key": "aguishness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Having the qualities of an ague; somewhat cold or shivering; chilly; shaky."
+          ],
+          "quotes": [
+            "Her aguish love now glows and burns."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Productive of, or affected by, ague; as, the aguish districts of England."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

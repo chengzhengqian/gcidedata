@@ -1,0 +1,43 @@
+{
+  "key": "corporate_raider",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "corporate raider",
+      "headword_raw": "corporate raider",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "buyout specialist",
+        "takeover artist"
+      ],
+      "entry_fields": [
+        "(Finance)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a person who purchases or attempts to purchase a controlling interest in a publicly-traded company against the wishes of the current management."
+          ],
+          "quotes": [],
+          "notes": [
+            "such a buyout is caled a hostile takeover."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

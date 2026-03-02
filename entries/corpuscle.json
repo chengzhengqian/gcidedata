@@ -1,0 +1,65 @@
+{
+  "key": "corpuscle",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Corpuscle",
+      "headword_raw": "Cor\"pus*cle",
+      "pr": "(-ps*s'l)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. corpusculum, dim. of corpus.]",
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A minute particle; an atom; a molecule."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Anat.)"
+          ],
+          "defs": [
+            "A protoplasmic animal cell; esp., such as float free, like blood, lymph, and pus corpuscles; or such as are imbedded in an intercellular matrix, like connective tissue and cartilage corpuscles. See Blood."
+          ],
+          "quotes": [
+            "Virchow showed that the corpuscles of bone are homologous with those of connective tissue."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Physics)",
+            "(Physiol.)",
+            "(Physiol.)"
+          ],
+          "defs": [
+            "An electron."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

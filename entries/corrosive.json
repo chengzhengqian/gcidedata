@@ -1,0 +1,113 @@
+{
+  "key": "corrosive",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Corrosive",
+      "headword_raw": "Cor*ro\"sive",
+      "pr": "(k?r-r?\"s?v)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Cf. F. corrosif.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Eating away; having the power of gradually wearing, changing, or destroying the texture or substance of a body; as, the corrosive action of an acid."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "Having the quality of fretting or vexing."
+          ],
+          "quotes": [
+            "Care is no cure, but corrosive."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Corrosive",
+      "headword_raw": "Cor*ro\"sive",
+      "pr": null,
+      "pos": [
+        "n.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Corrosively",
+          "form_raw": "Cor*ro\"sive*ly",
+          "key": "corrosively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Corrosiveness",
+          "form_raw": "Cor*ro\"sive*ness",
+          "key": "corrosiveness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "That which has the quality of eating or wearing away gradually."
+          ],
+          "quotes": [
+            "[Corrosives] act either directly, by chemically destroying the part, or indirectly by causing inflammation and gangrene."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That which has the power of fretting or irritating."
+          ],
+          "quotes": [
+            "Such speeches . . . are grievous corrosives."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

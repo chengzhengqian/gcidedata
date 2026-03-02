@@ -1,0 +1,52 @@
+{
+  "key": "correlated",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "correlated",
+      "headword_raw": "correlated",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "mutually related."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "correlative",
+            "correlate"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mathematics, statistics)"
+          ],
+          "defs": [
+            "showing a statistically significant relationship between the values of two or more variables; as, The statures of fathers and sons are correlated."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

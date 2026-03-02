@@ -1,0 +1,43 @@
+{
+  "key": "corticotropin",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "corticotropin",
+      "headword_raw": "corticotropin",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "adrenocorticotropic hormone",
+        "adrenocorticotrophic hormone",
+        "adrenocorticotropin",
+        "adrenocorticotropin",
+        "corticotrophin",
+        "ACTH"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a growth hormone produced by the anterior pituitary gland; it stimulates the adrenal cortex; -- called also adrenocorticotropin and abbreviated ACTH."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "key": "corsica",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Corsica",
+      "headword_raw": "Corsica",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "an island in the Mediterranean; with adjacent islets it constitutes a region of France."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Corse"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a region of France."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Corse"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "key": "cough",
+  "source_file": "CIDE.C",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Cough",
+      "headword_raw": "Cough",
+      "pr": "(k?f)",
+      "pos": [
+        "v. i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[Cf. D. kuchen, MHG. k<?/chen to breathe, G. keuchen to pant, and E. chincough, the first part of which is prob. akin to cough; cf. also E. choke.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Coughed (k?ft); p. pr. & vb. n. Coughing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To expel air, or obstructing or irritating matter, from the lungs or air passages, in a noisy and violent manner."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Cough",
+      "headword_raw": "Cough",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To expel from the lungs or air passages by coughing; -- followed by up; as, to cough up phlegm."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To bring to a specified state by coughing; as, he coughed himself hoarse."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Cough",
+      "headword_raw": "Cough",
+      "pr": null,
+      "pos": [
+        "n.",
+        "v. i."
+      ],
+      "ety": "[Cg. D. kuch. See Cough, v. i. ]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A sudden, noisy, and violent expulsion of air from the chest, caused by irritation in the air passages, or by the reflex action of nervous or gastric disorder, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The more or less frequent repetition of coughing, constituting a symptom of disease."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

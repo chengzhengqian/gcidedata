@@ -1,0 +1,38 @@
+{
+  "key": "saccharimeter",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Saccharimeter",
+      "headword_raw": "Sac`cha*rim\"e*ter",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. saccharon sugar + -meter: cf. F. saccharimtre.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An instrument for ascertaining the quantity of saccharine matter in any solution, as the juice of a plant, or brewers' and distillers' worts."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The common saccharimeter of the brewer is an hydrometer adapted by its scale to point out the proportion of saccharine matter in a solution of any specific gravity. The polarizing saccharimeter of the chemist is a complex optical apparatus, in which polarized light is transmitted through the saccharine solution, and the proportion of sugar indicated by the relative deviation of the plane of polarization."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

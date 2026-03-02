@@ -1,0 +1,64 @@
+{
+  "key": "sadness",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Sadness",
+      "headword_raw": "Sad\"ness",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Heaviness; firmness."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Seriousness; gravity; discretion."
+          ],
+          "quotes": [
+            "Her sadness and her benignity."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Quality of being sad, or unhappy; gloominess; sorrowfulness; dejection."
+          ],
+          "quotes": [
+            "Dim sadness did not spare That time celestial visages."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Sorrow",
+            "heaviness",
+            "dejection. See Grief"
+          ]
+        }
+      ]
+    }
+  ]
+}

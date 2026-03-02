@@ -1,0 +1,75 @@
+{
+  "key": "salutary",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Salutary",
+      "headword_raw": "Sal\"u*ta*ry",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. salutaris, from salus, -utis, health, safety: cf. F. salutaire. See Salubrious.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Salutarily",
+          "form_raw": "Sal\"u*ta*ri*ly",
+          "key": "salutarily",
+          "pos": [
+            "adv."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Salutariness",
+          "form_raw": "Sal\"u*ta*ri*ness",
+          "key": "salutariness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Wholesome; healthful; promoting health; as, salutary exercise."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Promotive of, or contributing to, some beneficial purpose; beneficial; advantageous; as, a salutary design."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Wholesome",
+            "healthful",
+            "salubrious",
+            "beneficial",
+            "useful",
+            "advantageous",
+            "profitable"
+          ]
+        }
+      ]
+    }
+  ]
+}

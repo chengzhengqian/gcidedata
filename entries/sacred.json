@@ -1,0 +1,136 @@
+{
+  "key": "sacred",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Sacred",
+      "headword_raw": "Sa\"cred",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[Originally p. p. of OE. sacren to consecrate, F. sacrer, fr. L. sacrare, fr. sacer sacred, holy, cursed. Cf. Consecrate, Execrate, Saint, Sexton.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Sacredly",
+          "form_raw": "Sa\"cred*ly",
+          "key": "sacredly",
+          "pos": [
+            "adv."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Sacredness",
+          "form_raw": "Sa\"cred*ness",
+          "key": "sacredness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Set apart by solemn religious ceremony; especially, in a good sense, made holy; set apart to religious use; consecrated; not profane or common; as, a sacred place; a sacred day; sacred service."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Relating to religion, or to the services of religion; not secular; religious; as, sacred history."
+          ],
+          "quotes": [
+            "Smit with the love of sacred song."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Designated or exalted by a divine sanction; possessing the highest title to obedience, honor, reverence, or veneration; entitled to extreme reverence; venerable."
+          ],
+          "quotes": [
+            "Such neighbor nearness to our sacred [royal] blood Should nothing privilege him.",
+            "Poet and saint to thee alone were given, The two most sacred names of earth and heaven."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Hence, not to be profaned or violated; inviolable."
+          ],
+          "quotes": [
+            "Secrets of marriage still are sacred held."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "Consecrated; dedicated; devoted; -- with to."
+          ],
+          "quotes": [
+            "A temple, sacred to the queen of love."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [
+            "(R.C. Ch.)",
+            "(Zool.)",
+            "(Bot.)",
+            "(Zool.)",
+            "(Zool.)",
+            "(Zool.)",
+            "(Civil Law)"
+          ],
+          "defs": [
+            "Solemnly devoted, in a bad sense, as to evil, vengeance, curse, or the like; accursed; baleful."
+          ],
+          "quotes": [
+            "But, to destruction sacred and devote."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Holy",
+            "divine",
+            "hallowed",
+            "consecrated",
+            "dedicated",
+            "devoted",
+            "religious",
+            "venerable",
+            "reverend"
+          ]
+        }
+      ]
+    }
+  ]
+}

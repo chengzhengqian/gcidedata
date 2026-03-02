@@ -1,0 +1,79 @@
+{
+  "key": "salvo",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Salvo",
+      "headword_raw": "Sal\"vo",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. salvo jure, literally, the right being reserved. See Safe.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An exception; a reservation; an excuse."
+          ],
+          "quotes": [
+            "They admit many salvos, cautions, and reservations."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Salvo",
+      "headword_raw": "Sal\"vo",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. salve a discharge of heavy cannon, a volley, L. salve hail, imperat. of salvere to be well, akin to salvus well. See Safe.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Mil.)"
+          ],
+          "defs": [
+            "A concentrated fire from pieces of artillery, as in endeavoring to make a break in a fortification; a volley."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A salute paid by a simultaneous, or nearly simultaneous, firing of a number of cannon."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

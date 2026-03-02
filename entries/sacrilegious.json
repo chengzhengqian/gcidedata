@@ -1,0 +1,59 @@
+{
+  "key": "sacrilegious",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Sacrilegious",
+      "headword_raw": "Sac`ri*le\"gious",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[From sacrilege: cf. L. sacrilegus.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Sacrilegiously",
+          "form_raw": "Sac`ri*le\"gious*ly",
+          "key": "sacrilegiously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Sacrilegiousness",
+          "form_raw": "Sac`ri*le\"gious*ness",
+          "key": "sacrilegiousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Violating sacred things; polluted with sacrilege; involving sacrilege; profane; impious."
+          ],
+          "quotes": [
+            "Above the reach of sacrilegious hands."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

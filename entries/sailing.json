@@ -1,0 +1,51 @@
+{
+  "key": "sailing",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Sailing",
+      "headword_raw": "Sail\"ing",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of one who, or that which, sails; the motion of a vessel on water, impelled by wind or steam; the act of starting on a voyage."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Naut.)",
+            "(U. S. Navy)"
+          ],
+          "defs": [
+            "The art of managing a vessel; seamanship; navigation; as, globular sailing; oblique sailing."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ For the several methods of sailing, see under Circular, Globular, Oblique, Parallel, etc."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

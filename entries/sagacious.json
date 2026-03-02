@@ -1,0 +1,74 @@
+{
+  "key": "sagacious",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Sagacious",
+      "headword_raw": "Sa*ga\"cious",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. sagax, sagacis, akin to sagire to perceive quickly or keenly, and probably to E. seek. See Seek, and cf. Presage.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Sagaciously",
+          "form_raw": "Sa*ga\"cious*ly",
+          "key": "sagaciously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Sagaciousness",
+          "form_raw": "Sa*ga\"cious*ness",
+          "key": "sagaciousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of quick sense perceptions; keen-scented; skilled in following a trail."
+          ],
+          "quotes": [
+            "Sagacious of his quarry from so far."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Hence, of quick intellectual perceptions; of keen penetration and judgment; discerning and judicious; knowing; far-sighted; shrewd; sage; wise; as, a sagacious man; a sagacious remark."
+          ],
+          "quotes": [
+            "Instinct . . . makes them, many times, sagacious above our apprehension.",
+            "Only sagacious heads light on these observations, and reduce them into general propositions."
+          ],
+          "notes": [],
+          "synonyms": [
+            "See Shrewd"
+          ]
+        }
+      ]
+    }
+  ]
+}

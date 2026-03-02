@@ -1,0 +1,62 @@
+{
+  "key": "salubrious",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Salubrious",
+      "headword_raw": "Sa*lu\"bri*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. salubris, or saluber, fr. salus health; akin to salvus safe, sound, well. See Safe.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Sa-lubriously",
+          "form_raw": "Sa-lu\"bri*ous*ly",
+          "key": "sa-lubriously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Salubriousness",
+          "form_raw": "Sa*lu\"bri*ous*ness",
+          "key": "salubriousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Healthful",
+        "wholesome",
+        "healthy",
+        "salutary"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Favorable to health; healthful; promoting health; as, salubrious air, water, or climate."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

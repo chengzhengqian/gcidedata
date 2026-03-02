@@ -1,0 +1,50 @@
+{
+  "key": "salad",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Salad",
+      "headword_raw": "Sal\"ad",
+      "pr": "(sl\"d)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. salade, OIt. salata, It. insalata, fr. salare to salt, fr. L. sal salt. See Salt, and cf. Slaw.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A preparation of vegetables, as lettuce, celery, water cress, onions, etc., usually dressed with salt, vinegar, oil, and spice, and eaten for giving a relish to other food; as, lettuce salad; tomato salad, etc."
+          ],
+          "quotes": [
+            "Leaves eaten raw are termed salad."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Bot.)"
+          ],
+          "defs": [
+            "A dish composed of chopped meat or fish, esp. chicken or lobster, mixed with lettuce or other vegetables, and seasoned with oil, vinegar, mustard, and other condiments; as, chicken salad; lobster salad."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "key": "saltish",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Saltish",
+      "headword_raw": "Salt\"ish",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Saltishly",
+          "form_raw": "Salt\"ish*ly",
+          "key": "saltishly",
+          "pos": [],
+          "pr": null
+        },
+        {
+          "form": "Saltishness",
+          "form_raw": "Salt\"ish*ness",
+          "key": "saltishness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Somewhat salt."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "key": "sales_tax",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Sales tax",
+      "headword_raw": "Sales\" tax",
+      "pr": "(sālz\"tks)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Sales + tax.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a tax imposed upon the retail sale of goods or the sale of services, usually collected by the seller at the time of purchase; -- it is typically calculated as a percentage of the price of the object sold, being commonly from 3% to 7% of the base price."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

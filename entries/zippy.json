@@ -1,0 +1,60 @@
+{
+  "key": "zippy",
+  "source_file": "CIDE.Z",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "zippy",
+      "headword_raw": "zippy",
+      "pr": "(?)",
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "quick and energetic."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "brisk",
+            "lively",
+            "merry",
+            "rattling",
+            "snappy",
+            "spanking"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "full of life and energy."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "bouncing",
+            "bouncy",
+            "peppy",
+            "spirited",
+            "lively"
+          ]
+        }
+      ]
+    }
+  ]
+}

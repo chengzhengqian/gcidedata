@@ -1,0 +1,85 @@
+{
+  "key": "youthful",
+  "source_file": "CIDE.Y",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Youthful",
+      "headword_raw": "Youth\"ful",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "-- Youthful, Puerile, Juvenile. Puerile is always used in a bad sense, or at least in the sense of what is suitable to a boy only; as, puerile objections, puerile amusements, etc. Juvenile is sometimes taken in a bad sense, as when speaking of youth in contrast with manhood; as, juvenile tricks; a juvenile performance. Youthful is commonly employed in a good sense; as, youthful aspirations; or at least by way of extenuating; as, youthful indiscretions. “Some men, imagining themselves possessed with a divine fury, often fall into toys and trifles, which are only puerilities.” Dryden. “Raw, juvenile writers imagine that, by pouring forth figures often, they render their compositions warm and animated.”"
+      ],
+      "wordforms": [
+        {
+          "form": "Youthfully",
+          "form_raw": "Youth\"ful*ly",
+          "key": "youthfully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Youthfulness",
+          "form_raw": "Youth\"ful*ness",
+          "key": "youthfulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Not yet mature or aged; young.",
+            "Also used figuratively."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to the early part of life; suitable to early life; as, youthful days; youthful sports."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Fresh; vigorous, as in youth."
+          ],
+          "quotes": [
+            "After millions of millions of ages . . . still youthful and flourishing."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Puerile",
+            "juvenile"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "key": "yugoslav",
+  "source_file": "CIDE.Y",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Yugoslav",
+      "headword_raw": "Yu\"go*slav`",
+      "pr": "(?)",
+      "pos": [
+        "prop. n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a native or inhabitant of Yugoslavia."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Jugoslav",
+            "Yugoslavian",
+            "Jugoslavian"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Yugoslav",
+      "headword_raw": "Yu\"go*slav",
+      "pr": "(?)",
+      "pos": [],
+      "ety": null,
+      "sources": [],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "key": "zine",
+  "source_file": "CIDE.Z",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "zine",
+      "headword_raw": "zine",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "zine",
+      "headword_raw": "'zine",
+      "pr": "(zēn)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[shortened from magazine.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A publication similar to a magazine{4} but in electronic rather than printed form, maintained as data files on a computer and accessible via the world wide web; sometimes called e-zine (“e” standing for electronic, as in e-mail."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

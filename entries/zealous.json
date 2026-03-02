@@ -1,0 +1,69 @@
+{
+  "key": "zealous",
+  "source_file": "CIDE.Z",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Zealous",
+      "headword_raw": "Zeal\"ous",
+      "pr": "(?; 277)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[LL. zelosus. See Zeal.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Zealously",
+          "form_raw": "Zeal\"ous*ly",
+          "key": "zealously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Zealousness",
+          "form_raw": "Zeal\"ous*ness",
+          "key": "zealousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Filled with, or characterized by, zeal; warmly engaged, or ardent, in behalf of an object."
+          ],
+          "quotes": [
+            "He may be zealous in the salvation of souls."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Filled with religious zeal."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

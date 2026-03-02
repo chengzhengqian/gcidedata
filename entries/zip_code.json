@@ -1,0 +1,36 @@
+{
+  "key": "zip_code",
+  "source_file": "CIDE.Z",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "zip code",
+      "headword_raw": "zip\" code`",
+      "pr": "(zp\"kōd`)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[zone improvement plan.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Any one of a set of numbers assigned by the United States Postal Service to designate a particular postal delivery area. One or more zip codes are assigned to each post office. The numbers initially had five digits (the initial code), indicating state and post office. Later, four more optional digits were added (the expanded code) indicating the box number or delivery route. The full set of nine digits is also referred to as zip + 4. The code is appended in an address to the line bearing the city and state names, as in “Plainfield, NJ 07062”."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

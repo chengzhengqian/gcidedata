@@ -1,0 +1,82 @@
+{
+  "key": "yelp",
+  "source_file": "CIDE.Y",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Yelp",
+      "headword_raw": "Yelp",
+      "pr": "(?)",
+      "pos": [
+        "v. i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OE. yelpen, elpen, to boast, boast noisily, AS. gielpan, gilpan, gylpan; akin to OHG. gelph arrogant: cf. Icel. gjālpa to yelp. Cf. Yap.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Yelped (?); p. pr. & vb. n. Yelping.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To boast."
+          ],
+          "quotes": [
+            "I keep [care] not of armes for to yelpe."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To utter a sharp, quick cry, as a hound; to bark shrilly with eagerness, pain, or fear; to yaup."
+          ],
+          "quotes": [
+            "A little herd of England's timorous deer, Mazed with a yelping kennel of French curs?",
+            "At the least flourish of a broomstick or ladle, he would fly to the door with a yelping precipitation."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Yelp",
+      "headword_raw": "Yelp",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A sharp, quick cry; a bark."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

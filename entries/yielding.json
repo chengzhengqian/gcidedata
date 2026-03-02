@@ -1,0 +1,64 @@
+{
+  "key": "yielding",
+  "source_file": "CIDE.Y",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Yielding",
+      "headword_raw": "Yield\"ing",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "-- Yielding, Obsequious, Attentive. In many cases a man may be attentive or yielding in a high degree without any sacrifice of his dignity; but he who is obsequious seeks to gain favor by excessive and mean compliances for some selfish end."
+      ],
+      "wordforms": [
+        {
+          "form": "Yieldingly",
+          "form_raw": "Yield\"ing*ly",
+          "key": "yieldingly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Yieldingness",
+          "form_raw": "Yield\"ing*ness",
+          "key": "yieldingness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Obsequious",
+        "attentive"
+      ],
+      "entry_fields": [
+        "(Law)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Inclined to give way, or comply; flexible; compliant; accommodating; as, a yielding temper."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "key": "zooid",
+  "source_file": "CIDE.Z",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Zooid",
+      "headword_raw": "Zo\"oid",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Zoo- + -oid.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Biol.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Pertaining to, or resembling, an animal."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Zooid",
+      "headword_raw": "Zo\"oid",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Biol.)"
+          ],
+          "defs": [
+            "An organic body or cell having locomotion, as a spermatic cell or spermatozoid."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "An animal in one of its inferior stages of development, as one of the intermediate forms in alternate generation.",
+            "One of the individual animals in a composite group, as of Anthozoa, Hydroidea, and Bryozoa; -- sometimes restricted to those individuals in which the mouth and digestive organs are not developed."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

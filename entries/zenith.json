@@ -1,0 +1,56 @@
+{
+  "key": "zenith",
+  "source_file": "CIDE.Z",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Zenith",
+      "headword_raw": "Ze\"nith",
+      "pr": "(?; 277)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. senyth, OF. cenith, F. znith, Sp. zenit, cenit, abbrev. fr. Ar. samt-urras way of the head, vertical place; samt way, path + al the + ras head. Cf. Azimuth.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "That point in the visible celestial hemisphere which is vertical to the spectator; the point of the heavens directly overhead; -- opposed to nadir."
+          ],
+          "quotes": [
+            "From morn To noon he fell, from noon to dewy eve, A summer's day; and with the setting sun Dropped from the zenith, like a falling star."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Astron.)",
+            "(Astron.)",
+            "(Geodesy)"
+          ],
+          "defs": [
+            "hence, figuratively, the point of culmination; the greatest height; the height of success or prosperity."
+          ],
+          "quotes": [
+            "I find my zenith doth depend upon A most auspicious star.",
+            "This dead of midnight is the noon of thought, And wisdom mounts her zenith with the stars.",
+            "It was during those civil troubles . . . this aspiring family reached the zenith."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

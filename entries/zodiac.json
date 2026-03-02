@@ -1,0 +1,51 @@
+{
+  "key": "zodiac",
+  "source_file": "CIDE.Z",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Zodiac",
+      "headword_raw": "Zo\"di*ac",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. zodiaque (cf. It. zodiaco), fr. L. zodiacus, Gr. <?/ (sc. <?/), fr. <?/, dim. of zw^,on an animal, akin to <?/ living, <?/ to live.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Astron.)"
+          ],
+          "defs": [
+            "An imaginary belt in the heavens, 16° or 18° broad, in the middle of which is the ecliptic, or sun's path. It comprises the twelve constellations, which one constituted, and from which were named, the twelve signs of the zodiac.",
+            "A figure representing the signs, symbols, and constellations of the zodiac."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A girdle; a belt."
+          ],
+          "quotes": [
+            "By his side, As in a glistering zodiac, hung the sword."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

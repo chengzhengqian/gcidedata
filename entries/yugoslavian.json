@@ -1,0 +1,73 @@
+{
+  "key": "yugoslavian",
+  "source_file": "CIDE.Y",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Yugoslavian",
+      "headword_raw": "Yugoslavian",
+      "pr": null,
+      "pos": [
+        "prop. adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "Yugoslavian",
+        "Jugoslav",
+        "Jugoslavian"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to Yugoslavia; as, Yugoslavian wine."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Yugoslavian",
+      "headword_raw": "Yu\"go*sla`vi*an",
+      "pr": "(?)",
+      "pos": [
+        "prop. n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a native or inhabitant of Yugoslavia."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Yugoslav",
+            "Jugoslav",
+            "Jugoslavian"
+          ]
+        }
+      ]
+    }
+  ]
+}

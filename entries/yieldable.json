@@ -1,0 +1,47 @@
+{
+  "key": "yieldable",
+  "source_file": "CIDE.Y",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Yieldable",
+      "headword_raw": "Yield\"a*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Yieldableness",
+          "form_raw": "Yield\"a*ble*ness",
+          "key": "yieldableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Disposed to yield or comply."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

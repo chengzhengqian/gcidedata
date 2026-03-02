@@ -1,0 +1,80 @@
+{
+  "key": "yesterday",
+  "source_file": "CIDE.Y",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Yesterday",
+      "headword_raw": "Yes\"ter*day",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. isterdai, AS. geostran dæg, from geostran, geostra, giestran, gistran, gystran, yesterday (akin to D. gisteren, G. gestern, OHG. gestaron, Icel. gær yesterday, to-morrow, Goth. gistradagis to-morrow, L. heri yesterday, Gr. <?/, Skr. hyas) + dæg day. Cf. Hestern. <?/<?/<?/<?/.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The day last past; the day next before the present."
+          ],
+          "quotes": [
+            "All our yesterdays have lighted fools The way to dusty death.",
+            "We are but of yesterday, and know nothing."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Fig.: A recent time; time not long past."
+          ],
+          "quotes": [
+            "The proudest royal houses are but of yesterday, when compared with the line of supreme pontiffs."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Yesterday",
+      "headword_raw": "Yes\"ter*day",
+      "pr": null,
+      "pos": [
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "On the day last past; on the day preceding to-day; as, the affair took place yesterday."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "key": "zolaism",
+  "source_file": "CIDE.Z",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Zolaism",
+      "headword_raw": "Zo\"la*ism",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a.",
+        "v."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Zolaist",
+          "form_raw": "Zo\"la*ist",
+          "key": "zolaist",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Zolaistic",
+          "form_raw": "Zo`la*is\"tic",
+          "key": "zolaistic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(?)"
+        },
+        {
+          "form": "Zolaize",
+          "form_raw": "Zo\"la*ize",
+          "key": "zolaize",
+          "pos": [
+            "v."
+          ],
+          "pr": "(?)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The literary theories and practices of the French novelist Emile Zola (1840-1902); naturalism, esp. in a derogatory sense."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

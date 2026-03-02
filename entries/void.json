@@ -1,0 +1,230 @@
+{
+  "key": "void",
+  "source_file": "CIDE.V",
+  "record_count": 4,
+  "records": [
+    {
+      "headword": "Void",
+      "headword_raw": "Void",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[OE. voide, OF. voit, voide, vuit, vuide, F. vide, fr. (assumed) LL. vocitus, fr. L. vocare, an old form of vacare to be empty, or a kindred word. Cf. Vacant, Avoid.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Containing nothing; empty; vacant; not occupied; not filled."
+          ],
+          "quotes": [
+            "The earth was without form, and void.",
+            "I 'll get me to a place more void.",
+            "I 'll chain him in my study, that, at void hours, I may run over the story of his country."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Having no incumbent; unoccupied; -- said of offices and the like."
+          ],
+          "quotes": [
+            "Divers great offices that had been long void."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Being without; destitute; free; wanting; devoid; as, void of learning, or of common use."
+          ],
+          "quotes": [
+            "A conscience void of offense toward God.",
+            "He that is void of wisdom despiseth his neighbor."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Not producing any effect; ineffectual; vain."
+          ],
+          "quotes": [
+            "[My word] shall not return to me void, but it shall accomplish that which I please.",
+            "I will make void the counsel of Judah."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "Containing no immaterial quality; destitute of mind or soul."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [
+            "(Law)",
+            "(Physics)"
+          ],
+          "defs": [
+            "Of no legal force or effect, incapable of confirmation or ratification; null. Cf. Voidable, 2."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Empty",
+            "vacant",
+            "devoid",
+            "wanting",
+            "unfurnished",
+            "unsupplied",
+            "unoccupied"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Void",
+      "headword_raw": "Void",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An empty space; a vacuum."
+          ],
+          "quotes": [
+            "Pride, where wit fails, steps in to our defense, And fills up all the mighty void of sense."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Void",
+      "headword_raw": "Void",
+      "pr": null,
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "a."
+      ],
+      "ety": "[OF. voidier, vuidier. See Void, a.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Voided; p. pr. & vb. n. Voiding.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To remove the contents of; to make or leave vacant or empty; to quit; to leave; as, to void a table."
+          ],
+          "quotes": [
+            "Void anon her place.",
+            "If they will fight with us, bid them come down, Or void the field."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To throw or send out; to evacuate; to emit; to discharge; as, to void excrements."
+          ],
+          "quotes": [
+            "A watchful application of mind in voiding prejudices.",
+            "With shovel, like a fury, voided out The earth and scattered bones."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To render void; to make to be of no validity or effect; to vacate; to annul; to nullify."
+          ],
+          "quotes": [
+            "After they had voided the obligation of the oath he had taken.",
+            "It was become a practice . . . to void the security that was at any time given for money so borrowed."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Void",
+      "headword_raw": "Void",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To be emitted or evacuated."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

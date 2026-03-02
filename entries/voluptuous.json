@@ -1,0 +1,72 @@
+{
+  "key": "voluptuous",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Voluptuous",
+      "headword_raw": "Vo*lup\"tu*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[F. voluptueux, L. voluptuosus, fr. voluptas pleasure, volup agreeably, delightfully; probably akin to Gr. <?/ to hope, <?/ hope, and to L. velle to wish. See Voluntary.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Voluptuously",
+          "form_raw": "Vo*lup\"tu*ous*ly",
+          "key": "voluptuously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Voluptuousness",
+          "form_raw": "Vo*lup\"tu*ous*ness",
+          "key": "voluptuousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Full of delight or pleasure, especially that of the senses; ministering to sensuous or sensual gratification; exciting sensual desires; luxurious; sensual."
+          ],
+          "quotes": [
+            "Music arose with its voluptuous swell.",
+            "Sink back into your voluptuous repose."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Given to the enjoyments of luxury and pleasure; indulging to excess in sensual gratifications."
+          ],
+          "quotes": [
+            "Softened with pleasure and voluptuous life."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

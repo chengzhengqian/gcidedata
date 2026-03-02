@@ -1,0 +1,60 @@
+{
+  "key": "votive",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Votive",
+      "headword_raw": "Vo\"tive",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. votivus, fr. votum a vow: cf. F. votif. See Vow.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Votively",
+          "form_raw": "Vo\"tive*ly",
+          "key": "votively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Votiveness",
+          "form_raw": "Vo\"tive*ness",
+          "key": "votiveness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Given by vow, or in fulfillment of a vow; consecrated by a vow; devoted; as, votive offerings; a votive tablet."
+          ],
+          "quotes": [
+            "We reached a votive stone, that bears the name Of Aloys Reding.",
+            "Embellishments of flowers and votive garlands."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

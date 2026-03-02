@@ -1,0 +1,81 @@
+{
+  "key": "volt",
+  "source_file": "CIDE.V",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Volt",
+      "headword_raw": "Volt",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. volte; cf. It. volta. See Vault.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Man.)"
+          ],
+          "defs": [
+            "A circular tread; a gait by which a horse going sideways round a center makes two concentric tracks."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Fencing)"
+          ],
+          "defs": [
+            "A sudden movement to avoid a thrust."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Volt",
+      "headword_raw": "Volt",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[After Alessandro Volta, the Italian electrician.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Elec.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The unit of electro-motive force; -- defined by the International Electrical Congress in 1893 and by United States Statute as, that electro-motive force which steadily applied to a conductor whose resistance is one ohm will produce a current of one ampre. It is practically equivalent to the electro-motive force of a standard Clark's cell at a temperature of 15° C."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "key": "wakeful",
+  "source_file": "CIDE.W",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Wakeful",
+      "headword_raw": "Wake\"ful",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Wakefully",
+          "form_raw": "Wake\"ful*ly",
+          "key": "wakefully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Wakefulness",
+          "form_raw": "Wake\"ful*ness",
+          "key": "wakefulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not sleeping; indisposed to sleep; watchful; vigilant."
+          ],
+          "quotes": [
+            "Dissembling sleep, but wakeful with the fright."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

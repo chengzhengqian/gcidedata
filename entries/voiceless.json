@@ -1,0 +1,72 @@
+{
+  "key": "voiceless",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Voiceless",
+      "headword_raw": "Voice\"less",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Voicelessly",
+          "form_raw": "Voice\"less*ly",
+          "key": "voicelessly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Voicelessness",
+          "form_raw": "Voice\"less*ness",
+          "key": "voicelessness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Having no voice, utterance, or vote; silent; mute; dumb."
+          ],
+          "quotes": [
+            "I live and die unheard, With a most voiceless thought, sheathing it as a sword."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Phon.)",
+            "(Phon.)"
+          ],
+          "defs": [
+            "Not sounded with voice; as, a voiceless consonant; surd."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

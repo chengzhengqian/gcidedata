@@ -1,0 +1,63 @@
+{
+  "key": "voluminous",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Voluminous",
+      "headword_raw": "Vo*lu\"mi*nous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. voluminosus: cf. F. volumineux.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Voluminously",
+          "form_raw": "Vo*lu\"mi*nous*ly",
+          "key": "voluminously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Voluminousness",
+          "form_raw": "Vo*lu\"mi*nous*ness",
+          "key": "voluminousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to volume or volumes.",
+            "Consisting of many folds, coils, or convolutions.",
+            "Of great volume, or bulk; large.",
+            "Having written much, or produced many volumes; copious; diffuse; as, a voluminous writer."
+          ],
+          "quotes": [
+            "But ended foul in many a scaly fold, Voluminous and vast.",
+            "Over which dusky draperies are hanging, and voluminous curtains have long since fallen."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

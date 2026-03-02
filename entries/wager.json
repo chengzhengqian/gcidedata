@@ -1,0 +1,133 @@
+{
+  "key": "wager",
+  "source_file": "CIDE.W",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "wager",
+      "headword_raw": "wa\"ger",
+      "pr": "(wā\"jr)",
+      "pos": [
+        "n.",
+        "v. t."
+      ],
+      "ety": "[OE. wager, wajour, OF. wagiere, or wageure, F. gageure. See Wage, v. t.]",
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Something deposited, laid, or hazarded on the event of a contest or an unsettled question; a bet; a stake; a pledge."
+          ],
+          "quotes": [
+            "Besides these plates for horse races, the wagers may be as the persons please.",
+            "If any atheist can stake his soul for a wager against such an inexhaustible disproportion, let him never hereafter accuse others of credulity."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "A contract by which two parties or more agree that a certain sum of money, or other thing, shall be paid or delivered to one of them, on the happening or not happening of an uncertain event."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ At common law a wager is considered as a legal contract which the courts must enforce unless it be on a subject contrary to public policy, or immoral, or tending to the detriment of the public, or affecting the interest, feelings, or character of a third person. In many of the United States an action can not be sustained upon any wager or bet."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(O. Eng. Law)",
+            "(Law)",
+            "(Insurance Law)"
+          ],
+          "defs": [
+            "That on which bets are laid; the subject of a bet."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "wager",
+      "headword_raw": "wa\"ger",
+      "pr": "(wā\"jrd)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. wagered (wā\"jrd); p. pr. & vb. n. wagering.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To hazard on the issue of a contest, or on some question that is to be decided, or on some eventuality; to lay; to stake; to bet."
+          ],
+          "quotes": [
+            "And wagered with him Pieces of gold 'gainst this which he wore."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Wager",
+      "headword_raw": "Wa\"ger",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To make a bet; to lay a wager."
+          ],
+          "quotes": [
+            "'T was merry when You wagered on your angling."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

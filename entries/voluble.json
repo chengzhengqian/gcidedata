@@ -1,0 +1,94 @@
+{
+  "key": "voluble",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Voluble",
+      "headword_raw": "Vol\"u*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[L. volubilis, fr. volvere, volutum, to roll, to turn round; akin to Gr. <?/ to infold, to inwrap, <?/ to roll, G. welle a wave: cf. F. voluble. Cf. F. Well of water, Convolvulus, Devolve, Involve, Revolt, Vault an arch, Volume, Volute.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Volubleness",
+          "form_raw": "Vol\"u*ble*ness",
+          "key": "volubleness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Volubly",
+          "form_raw": "Vol\"u*bly",
+          "key": "volubly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Easily rolling or turning; easily set in motion; apt to roll; rotating; as, voluble particles of matter."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Moving with ease and smoothness in uttering words; of rapid speech; nimble in speaking; glib; as, a flippant, voluble, tongue."
+          ],
+          "quotes": [
+            "[Cassio,] a knave very voluble."
+          ],
+          "notes": [
+            "☞ Voluble was used formerly to indicate readiness of speech merely, without any derogatory suggestion. “A grave and voluble eloquence.”"
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Changeable; unstable; fickle."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Bot.)",
+            "(Bot.)"
+          ],
+          "defs": [
+            "Having the power or habit of turning or twining; as, the voluble stem of hop plants."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

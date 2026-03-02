@@ -1,0 +1,87 @@
+{
+  "key": "volume",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Volume",
+      "headword_raw": "Vol\"ume",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F., from L. volumen a roll of writing, a book, volume, from volvere, volutum, to roll. See Voluble.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A roll; a scroll; a written document rolled up for keeping or for use, after the manner of the ancients."
+          ],
+          "quotes": [
+            "The papyrus, and afterward the parchment, was joined together [by the ancients] to form one sheet, and then rolled upon a staff into a volume (volumen)."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Hence, a collection of printed sheets bound together, whether containing a single work, or a part of a work, or more than one work; a book; a tome; especially, that part of an extended work which is bound up together in one cover; as, a work in four volumes."
+          ],
+          "quotes": [
+            "An odd volume of a set of books bears not the value of its proportion to the set."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Anything of a rounded or swelling form resembling a roll; a turn; a convolution; a coil."
+          ],
+          "quotes": [
+            "So glides some trodden serpent on the grass, And long behind wounded volume trails.",
+            "Undulating billows rolling their silver volumes."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Dimensions; compass; space occupied, as measured by cubic units, that is, cubic inches, feet, yards, etc.; mass; bulk; as, the volume of an elephant's body; a volume of gas."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Mus.)",
+            "(Chem.)",
+            "(Physics & Chem.)"
+          ],
+          "defs": [
+            "Amount, fullness, quantity, or caliber of voice or tone."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

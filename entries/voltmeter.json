@@ -1,0 +1,38 @@
+{
+  "key": "voltmeter",
+  "source_file": "CIDE.V",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Voltmeter",
+      "headword_raw": "Volt\"me`ter",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[2d volt + -meter.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(elec.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An instrument for measuring in volts the differences of potential between different points of an electrical circuit."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

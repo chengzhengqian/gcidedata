@@ -1,0 +1,83 @@
+{
+  "key": "waken",
+  "source_file": "CIDE.W",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Waken",
+      "headword_raw": "Wak\"en",
+      "pr": "(?)",
+      "pos": [
+        "v. i.",
+        "imp. & p. pr.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OE. waknen, AS. wæcnan; akin to Goth. gawaknan. See Wake, v. i.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. pr. Wakened (?); p. pr. & vb. n. Wakening.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To wake; to cease to sleep; to be awakened."
+          ],
+          "quotes": [
+            "Early, Turnus wakening with the light."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Waken",
+      "headword_raw": "Wak\"en",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To excite or rouse from sleep; to wake; to awake; to awaken."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To excite; to rouse; to move to action; to awaken."
+          ],
+          "quotes": [
+            "Then Homer's and Tyrtaeus' martial muse Wakened the world.",
+            "Venus now wakes, and wakens love.",
+            "They introduce Their sacred song, and waken raptures high."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "key": "vulgar",
+  "source_file": "CIDE.V",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Vulgar",
+      "headword_raw": "Vul\"gar",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. vulgaris, from vulgus the multitude, the common people; of uncertain origin: cf. F. vulgaire. Cf. Divulge.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to the mass, or multitude, of people; common; general; ordinary; public; hence, in general use; vernacular."
+          ],
+          "quotes": [
+            "Things vulgar, and well-weighed, scarce worth the praise.",
+            "It might be more useful to the English reader . . . to write in our vulgar language.",
+            "The mechanical process of multiplying books had brought the New Testament in the vulgar tongue within the reach of every class."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Belonging or relating to the common people, as distinguished from the cultivated or educated; pertaining to common life; plebeian; not select or distinguished; hence, sometimes, of little or no value."
+          ],
+          "quotes": [
+            "Men who have passed all their time in low and vulgar life.",
+            "In reading an account of a battle, we follow the hero with our whole attention, but seldom reflect on the vulgar heaps of slaughter."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Arith.)"
+          ],
+          "defs": [
+            "Hence, lacking cultivation or refinement; rustic; boorish; also, offensive to good taste or refined feelings; low; coarse; mean; base; as, vulgar men, minds, language, or manners."
+          ],
+          "quotes": [
+            "Be thou familiar, but by no means vulgar."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Vulgar",
+      "headword_raw": "Vul\"gar",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. vulgaire.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One of the common people; a vulgar person."
+          ],
+          "quotes": [
+            "These vile vulgars are extremely proud."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The vernacular, or common language."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "key": "perplexed",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Perplexed",
+      "headword_raw": "Per*plexed\"",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Perplexedly",
+          "form_raw": "Per*plex\"ed*ly",
+          "key": "perplexedly",
+          "pos": [
+            "adv."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Perplexedness",
+          "form_raw": "Per*plex\"ed*ness",
+          "key": "perplexedness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Entangled, involved, or confused; hence, embarrassd; puzzled; doubtful; anxious."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

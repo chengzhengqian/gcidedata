@@ -1,0 +1,73 @@
+{
+  "key": "pertinent",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Pertinent",
+      "headword_raw": "Per\"ti*nent",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. pertinens, -entis, p. pr. of pertinere: cf. F. pertinent. See Pertain.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Pertinently",
+          "form_raw": "Per\"ti*nent*ly",
+          "key": "pertinently",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Pertinentness",
+          "form_raw": "Per\"ti*nent*ness",
+          "key": "pertinentness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Belonging or related to the subject or matter in hand; fit or appropriate in any way; adapted to the end proposed; apposite; material; relevant; as, pertinent illustrations or arguments; pertinent evidence."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Regarding; concerning; belonging; pertaining."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Apposite",
+            "relevant",
+            "suitable",
+            "appropriate",
+            "fit"
+          ]
+        }
+      ]
+    }
+  ]
+}

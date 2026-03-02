@@ -1,0 +1,50 @@
+{
+  "key": "personalized",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "personalized",
+      "headword_raw": "personalized",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Made for or directed or adjusted to a particular individual; modified for a particular person; as, personalized luggage; personalized advice."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "individualized"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Pointedly referring to or concerning a person's individual personality or intimate affairs, especially offensively; as, personalized criticism."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "pointed"
+          ]
+        }
+      ]
+    }
+  ]
+}

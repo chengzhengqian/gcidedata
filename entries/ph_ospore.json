@@ -1,0 +1,49 @@
+{
+  "key": "ph_ospore",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Phæospore",
+      "headword_raw": "Ph<ae/\"o*spore",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Gr. faio`s dusky + E. spore.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Phæosporic",
+          "form_raw": "Ph<ae/`o*spor\"ic",
+          "key": "ph_osporic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Bot.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A brownish zoospore, characteristic of an order (Phæosporeæ) of dark green or olive-colored algæ."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "key": "personal_computer",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "personal computer",
+      "headword_raw": "personal computer",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "A computer{2} designed for use by one person at a time; -- contrasted with shared-time computers such as a mainframe, server or minicomputer, which may be accessed by multiple users each operating from a different input device (in the 1990's, usually a terminal or personal computer). A personal computer typically uses a microprocessor for its CPU."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "PC",
+            "microcomputer"
+          ]
+        }
+      ]
+    }
+  ]
+}

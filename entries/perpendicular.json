@@ -1,0 +1,90 @@
+{
+  "key": "perpendicular",
+  "source_file": "CIDE.P",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Perpendicular",
+      "headword_raw": "Per`pen*dic\"u*lar",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. perpendicularis, perpendicularius: cf. F. perpendiculaire. See Perpendicle, Pension.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Exactly upright or vertical; pointing to the zenith; at right angles to the plane of the horizon; extending in a right line from any point toward the center of the earth."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Geom.)",
+            "(Arch.)"
+          ],
+          "defs": [
+            "At right angles to a given line or surface; as, the line ad is perpendicular to the line bc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Perpendicular",
+      "headword_raw": "Per`pen*dic\"u*lar",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A line at right angles to the plane of the horizon; a vertical line or direction."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Geom.)"
+          ],
+          "defs": [
+            "A line or plane falling at right angles on another line or surface, or making equal angles with it on each side."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

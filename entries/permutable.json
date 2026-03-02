@@ -1,0 +1,57 @@
+{
+  "key": "permutable",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Permutable",
+      "headword_raw": "Per*mut\"a*ble",
+      "pr": "(pr*mū\"t*b'l)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[Cf. F. permutable.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Permutableness",
+          "form_raw": "Per*mut\"a*ble*ness",
+          "key": "permutableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Permutably",
+          "form_raw": "Per*mut\"a*bly",
+          "key": "permutably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Capable of being permuted; exchangeable."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

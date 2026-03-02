@@ -1,0 +1,99 @@
+{
+  "key": "pernicious",
+  "source_file": "CIDE.P",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Pernicious",
+      "headword_raw": "Per*ni\"cious",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. pernix, -icis.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Quick; swift (to burn)."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Pernicious",
+      "headword_raw": "Per*ni\"cious",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. perniciosus, from pernicies destruction, from pernecare to kill or slay outright; per + necare to kill, slay: cf. F. pernicieux. Cf. Nuisance, Necromancy.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Perniciously",
+          "form_raw": "Per*ni\"cious*ly",
+          "key": "perniciously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Perniciousness",
+          "form_raw": "Per*ni\"cious*ness",
+          "key": "perniciousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Destructive",
+        "ruinous",
+        "deadly",
+        "noxious",
+        "injurious",
+        "baneful",
+        "deleterious",
+        "hurtful",
+        "mischievous"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Having the quality of injuring or killing; destructive; very mischievous; baleful; malicious; wicked."
+          ],
+          "quotes": [
+            "Let this pernicious hour Stand aye accursed in the calendar.",
+            "Pernicious to his health."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

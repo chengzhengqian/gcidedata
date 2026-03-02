@@ -1,0 +1,49 @@
+SIMPLE: perpetual_calendar
+RECORDS: 1
+
+==== ENTRY 1 ====
+HEADWORD: Perpetual calendar
+<hw>Per*pet"u*al cal"en*dar</hw>. <def>A calendar that can be used
+perpetually or over a wide range of years. That of <person>Capt.
+Herschel</person> covers, as given below, dates from 1750 to 1961 only,
+but is capable of indefinite extension.</def></p>
+
+<p><-- This table is not completely typed in. Perhaps a graphic would be
+better? note that the table below has a sub-table as part of the first
+column. If nested tags are not allowed, this will give a parsing error
+-->⟦br⟧
+<table FRAME="box" RULES="all"><CAPTION><b>PERPETUAL
+CALENDAR</b></CAPTION><tr><th COLSPAN="5">Day of the month</th><th>Jan.
+Oct.</th><th>Apr. July <i>Jan.</i></th><th>Sept.
+Dec.</th><th>June</th><th>Feb. Mar. Nov.</th><th>Aug.
+<i>Feb.</i></th><th>May</th><th>Day of the Week</th></tr>⟦br⟧
+<tr><str><td>1</td><td>8</td><td>15</td><td>22</td><td>29</td></str><td>a</td><td>b</td><td>c</td><td>d</td><td>e</td><td>f</td><td>g</td><td>Mon.</td></tr>⟦br⟧
+<tr><mitem><str><td>2</td><td>9</td><td>16</td><td>23</td><td>30</td></str></mitem><td>g</td><td>a</td><td>b</td><td>c</td><td>d</td><td>e</td><td>f</td><td>Tues.</td></tr>⟦br⟧
+<tr><mitem><str><td>3</td><td>10</td><td>17</td><td>24</td><td>31</td></str></mitem><td>f</td><td>g</td><td>a</td><td>b</td><td>c</td><td>d</td><td>e</td><td>Wed.</td></tr>⟦br⟧
+<tr><mitem><str><td>4</td><td>11</td><td>18</td><td>25</td><td>⟦nbsp⟧</td></str></mitem><td>e</td><td>f</td><td>g</td><td>a</td><td>b</td><td>c</td><td>d</td><td>Thur.</td></tr>⟦br⟧
+<tr><mitem><str><td>5</td><td>12</td><td>19</td><td>26</td><td>⟦nbsp⟧</td></str></mitem><td>d</td><td>e</td><td>f</td><td>g</td><td>a</td><td>b</td><td>c</td><td>Fri.</td></tr>⟦br⟧
+<tr><mitem><str><td>6</td><td>13</td><td>20</td><td>27</td><td>⟦nbsp⟧</td></str></mitem><td>c</td><td>d</td><td>e</td><td>f</td><td>g</td><td>a</td><td>b</td><td>Sat.</td></tr>⟦br⟧
+<tr><mitem><str><td>7</td><td>14</td><td>21</td><td>28</td><td>⟦nbsp⟧</td></str></mitem><td>b</td><td>c</td><td>d</td><td>e</td><td>f</td><td>g</td><td>a</td><td>Sun.</td></tr></table>⟦br⟧
+⟦br⟧
+<b>===========================================================================</b></p>
+
+<p><mtable><row><td>To find the day of the week corresponding to any
+date, find the small letter directly under the month and opposite the
+day of the month; the same small letter also appears in the vertical
+column that contains the number of the year, and if the line in which it
+stands is followed out to the right, the day of the week is found. Thus,
+the small letter under March and opposite 18 is b; b appears again
+directly over 1904, and at its right is the word <i>Friday</i>. March 18
+fell on Friday in 1904, and also in 1898, 1892, etc. The calendar has
+other uses, as for finding the months which begin on Sunday in a
+particular year, etc.</td>⟦br⟧
+<td><pre><tt>|1753  |1754   |1755   |1750   |1751   |1757   |*1752⟦br⟧
+|1759  |1765   |*1760  |1761   |*1756  |1763   |1758⟦br⟧
+|*1764 |1771   |1766   |1767   |1762   |*1768  |1769⟦br⟧
+|1770  |*1776  |1777   |*1772  |1773   |1774   |1775⟦br⟧
+<-- the table must be filled in here -->
+</tt></pre></td></row></mtable>⟦br⟧
+<-- for dates occurring in Jan. or Feb. of a leap year, use the <i>italic</i> names of the months above. -->
+[<source>Webster 1913 Suppl.</source>]</p>
+
+<p><ent>Perpetually</ent>⟦br⟧

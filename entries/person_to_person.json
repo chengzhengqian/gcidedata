@@ -1,0 +1,49 @@
+{
+  "key": "person_to_person",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "person to person",
+      "headword_raw": "person to person",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "By direct contact between persons."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Without intervening persons."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "face-to-face"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "key": "perseus",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Perseus",
+      "headword_raw": "Per\"se*us",
+      "pr": "(?)",
+      "pos": [
+        "prop. n."
+      ],
+      "ety": "[L., from Gr. Persey`s.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Class. Myth.)"
+          ],
+          "defs": [
+            "A Grecian legendary hero, son of Jupiter and Danaë, who slew the Gorgon Medusa."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Astron.)"
+          ],
+          "defs": [
+            "A consellation of the northern hemisphere, near Taurus and Cassiopea. It contains a star cluster visible to the naked eye as a nebula."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

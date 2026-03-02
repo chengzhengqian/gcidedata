@@ -1,0 +1,45 @@
+{
+  "key": "permission",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Permission",
+      "headword_raw": "Per*mis\"sion",
+      "pr": "(pr*msh\"n)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. permissio: cf. F. permission. See Permit.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "-- Leave, Permission. Leave implies that the recipient may decide whether to use the license granted or not. Permission is the absence on the part of another of anything preventive, and in general, at least by implication, signifies approval."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [
+        "Leave",
+        "liberty",
+        "license"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The act of permitting or allowing; formal consent; authorization; leave; license or liberty granted."
+          ],
+          "quotes": [
+            "High permission of all-ruling Heaven.",
+            "You have given me your permission for this address."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

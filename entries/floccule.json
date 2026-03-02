@@ -1,0 +1,48 @@
+{
+  "key": "floccule",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Floccule",
+      "headword_raw": "Floc\"cule",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[See Flocculus.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A detached mass of loosely fibrous structure like a shredded tuft of wool."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "Specif.: A small particle of an insoluble substance formed in a liquid by the union of smaller particles."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

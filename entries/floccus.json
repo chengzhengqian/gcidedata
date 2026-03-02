@@ -1,0 +1,51 @@
+{
+  "key": "floccus",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Floccus",
+      "headword_raw": "Floc\"cus",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L., a flock of wool.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "The tuft of hair terminating the tail of mammals.",
+            "A tuft of feathers on the head of young birds."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Bot.)"
+          ],
+          "defs": [
+            "A woolly filament sometimes occurring with the sporules of certain fungi."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

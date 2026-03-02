@@ -1,0 +1,60 @@
+{
+  "key": "fitful",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Fitful",
+      "headword_raw": "Fit\"ful",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[From 7th Fit.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Fitfully",
+          "form_raw": "Fit\"ful*ly",
+          "key": "fitfully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Fitfulness",
+          "form_raw": "Fit\"ful*ness",
+          "key": "fitfulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Full of fits; irregularly variable; impulsive and unstable."
+          ],
+          "quotes": [
+            "After life's fitful fever, he sleeps well.",
+            "The victorious trumpet peal Dies fitfully away."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "key": "fledge",
+  "source_file": "CIDE.F",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Fledge",
+      "headword_raw": "Fledge",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "v. i."
+      ],
+      "ety": "[OE. flegge, flygge; akin to D. vlug, G. flügge, flücke, OHG. flucchi, Icel. fleygr, and to E. fly. √84. See Fly, v. i.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Feathered; furnished with feathers or wings; able to fly."
+          ],
+          "quotes": [
+            "His shoulders, fledge with wings."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Fledge",
+      "headword_raw": "Fledge",
+      "pr": "(?)",
+      "pos": [
+        "v. t. & i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Fledged (?); p. pr. & vb. n. Fledging.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To furnish with feathers; to supply with the feathers necessary for flight."
+          ],
+          "quotes": [
+            "The birds were not as yet fledged enough to shift for themselves."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To furnish or adorn with any soft covering."
+          ],
+          "quotes": [
+            "Your master, whose chin is not yet fledged."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "key": "fizz",
+  "source_file": "CIDE.F",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "fizz",
+      "headword_raw": "fizz",
+      "pr": "(fz)",
+      "pos": [
+        "v. i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[Cf. Icel. fīsa to break wind, Dan. fise to foist, fizzle, OSw. fisa, G. fisten, feisten. Cf. Foist.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": "[imp. & p. p. fizzed (fzd); p. pr. & vb. n. fizzing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To make a hissing sound, such as that of a burning fuse or a bubbling carbonated beverage."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Fizz",
+      "headword_raw": "Fizz",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A hissing sound; as, the fizz of a fly."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

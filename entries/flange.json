@@ -1,0 +1,108 @@
+{
+  "key": "flange",
+  "source_file": "CIDE.F",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Flange",
+      "headword_raw": "Flange",
+      "pr": "(flnj)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Prov. E. flange to project, flanch a projection. See Flanch, Flank.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "An external or internal rib, or rim, for strength, as the flange of an iron beam; or for a guide, as the flange of a car wheel (see Car wheel.); or for attachment to another object, as the flange on the end of a pipe, steam cylinder, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A plate or ring to form a rim at the end of a pipe when fastened to the pipe."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Flange",
+      "headword_raw": "Flange",
+      "pr": "(flnjd)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Flanged (flnjd); p. pr. & vb. n. Flanging (fln\"jng).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Mach.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To make a flange on; to furnish with a flange."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Flange",
+      "headword_raw": "Flange",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To be bent into a flange."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "key": "fission",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Fission",
+      "headword_raw": "Fis\"sion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. fissio. See Fissure.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A cleaving, splitting, or breaking up into parts."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Biol.)"
+          ],
+          "defs": [
+            "A method of asexual reproduction among the lowest (unicellular) organisms by means of a process of self-division, consisting of gradual division or cleavage of the into two parts, each of which then becomes a separate and independent organisms; as when a cell in an animal or plant, or its germ, undergoes a spontaneous division, and the parts again subdivide. See Segmentation, and Cell division, under Division."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "A process by which certain coral polyps, echinoderms, annelids, etc., spontaneously subdivide, each individual thus forming two or more new ones. See Strobilation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Physics)"
+          ],
+          "defs": [
+            "The act or process of disintegration of an atomic nucleus into two or more smaller pieces; called also nuclear fission. The process may be spontaneous or induced by capture of neutrons or other smaller nuclei, and usually proceeds with evolution of energy."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

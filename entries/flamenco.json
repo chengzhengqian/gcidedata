@@ -1,0 +1,51 @@
+{
+  "key": "flamenco",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "flamenco",
+      "headword_raw": "flamenco",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a strongly rhythmic and vigorous style of dancing characteristic of the Andalusian gypsies, characterized by clapping and stamping of feet."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "gypsy dancing"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mus.)"
+          ],
+          "defs": [
+            "a strongly rhythmic style of music originating in southern Spain, often improvisatorial, performed by itself, often on a guitar, or as an accompaniment to flamenco dancing."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

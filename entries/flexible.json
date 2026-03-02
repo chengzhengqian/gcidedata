@@ -1,0 +1,94 @@
+{
+  "key": "flexible",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Flexible",
+      "headword_raw": "Flex\"i*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[L. flexibilis: cf. F. flexible.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Flexibleness",
+          "form_raw": "Flex\"i*ble*ness",
+          "key": "flexibleness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Flexibly",
+          "form_raw": "Flex\"i*bly",
+          "key": "flexibly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Capable of being flexed or bent; admitting of being turned, bowed, or twisted, without breaking; pliable; yielding to pressure; not stiff or brittle."
+          ],
+          "quotes": [
+            "When the splitting wind Makes flexible the knees of knotted oaks."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Willing or ready to yield to the influence of others; not invincibly rigid or obstinate; tractable; manageable; ductile; easy and compliant; wavering."
+          ],
+          "quotes": [
+            "Phocion was a man of great severity, and no ways flexible to the will of the people.",
+            "Women are soft, mild, pitiful, and flexible."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Capable or being adapted or molded; plastic,; as, a flexible language."
+          ],
+          "quotes": [
+            "This was a principle more flexible to their purpose."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Pliant",
+            "pliable",
+            "supple",
+            "tractable",
+            "manageable",
+            "ductile",
+            "obsequious",
+            "inconstant",
+            "wavering"
+          ]
+        }
+      ]
+    }
+  ]
+}

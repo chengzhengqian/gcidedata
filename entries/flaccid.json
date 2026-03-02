@@ -1,0 +1,59 @@
+{
+  "key": "flaccid",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "flaccid",
+      "headword_raw": "flac\"cid",
+      "pr": "(flk\"sd or fls\"sd)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. flaccidus, fr. flaccus flabby: cf. OF. flaccide.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "flaccidly",
+          "form_raw": "flac\"cid*ly",
+          "key": "flaccidly",
+          "pos": [
+            "adv."
+          ],
+          "pr": "(flk\"sd*l or fls\"sd*l)"
+        },
+        {
+          "form": "flaccidness",
+          "form_raw": "flac\"cid*ness",
+          "key": "flaccidness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Yielding to pressure for want of firmness and stiffness; soft and weak; limber; lax; drooping; flabby; as, a flaccid muscle; flaccid flesh."
+          ],
+          "quotes": [
+            "Religious profession . . . has become flacced."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

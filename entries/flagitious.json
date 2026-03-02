@@ -1,0 +1,89 @@
+{
+  "key": "flagitious",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Flagitious",
+      "headword_raw": "Fla*gi\"tious",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. flagitiosus, fr. flagitium a shameful or disgraceful act, orig., a burning desire, heat of passion, from flagitare to demand hotly, fiercely; cf. flagrare to burn, E. flagrant.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Flagitiously",
+          "form_raw": "Fla*gi\"tious*ly",
+          "key": "flagitiously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Flagitiousness",
+          "form_raw": "Fla*gi\"tious*ness",
+          "key": "flagitiousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Disgracefully or shamefully criminal; grossly wicked; scandalous; shameful; -- said of acts, crimes, etc."
+          ],
+          "quotes": [
+            "Debauched principles and flagitious practices."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Guilty of enormous crimes; corrupt; profligate; -- said of persons."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Characterized by scandalous crimes or vices; as, flagitious times."
+          ],
+          "quotes": [
+            "A sentence so flagitiously unjust."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Atrocious",
+            "villainous",
+            "flagrant",
+            "heinous",
+            "corrupt",
+            "profligate",
+            "abandoned. See Atrocious"
+          ]
+        }
+      ]
+    }
+  ]
+}

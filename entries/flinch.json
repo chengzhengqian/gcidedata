@@ -1,0 +1,81 @@
+{
+  "key": "flinch",
+  "source_file": "CIDE.F",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Flinch",
+      "headword_raw": "Flinch",
+      "pr": "(?)",
+      "pos": [
+        "v. i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[Prob. fr. OE. flecchen to waver, give way, F. flchir, fr. L. flectere to bend; but prob. influenced by E. blench. Cf. Flex.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Flinched (?); p. pr. & vb. n. Flinching.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To withdraw from any suffering or undertaking, from pain or danger; to fail in doing or preserving; to show signs of yielding or of suffering; to shrink; to wince; as, one of the parties flinched from the combat."
+          ],
+          "quotes": [
+            "A child, by a constant course of kindness, may be accustomed to bear very rough usage without flinching or complaining."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Croquet)"
+          ],
+          "defs": [
+            "To let the foot slip from a ball, when attempting to give a tight croquet."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Flinch",
+      "headword_raw": "Flinch",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The act of flinching."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

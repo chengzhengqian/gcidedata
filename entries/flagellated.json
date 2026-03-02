@@ -1,0 +1,51 @@
+{
+  "key": "flagellated",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "flagellated",
+      "headword_raw": "flagellated",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "resembling a flagellum or flagella."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "flagellate{1}"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "having a flagellum or flagella."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "flagellate{3}"
+          ]
+        }
+      ]
+    }
+  ]
+}

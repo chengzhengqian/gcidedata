@@ -1,0 +1,38 @@
+{
+  "key": "flex_time",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "flex time",
+      "headword_raw": "flex\" time`",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[short for flexible time.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A system of scheduling working hours in places of employment, which allows employees to arrive at and leave work at times of their own choice, providing that they work the required number of hours and usually requiring that they be present during certain hours, called core time."
+          ],
+          "quotes": [],
+          "notes": [
+            "Certain workers prefer to arrive early and leave early, and others prefer to arrive late and leave late. Flex time is a way to accommodate such preferences, presumably improving employee morale, and also helps reduce traffic congestion during commmuting times."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

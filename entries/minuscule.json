@@ -1,0 +1,79 @@
+{
+  "key": "minuscule",
+  "source_file": "CIDE.M",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Minuscule",
+      "headword_raw": "Mi*nus\"cule",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. minusculus rather small, fr. minus less: cf. F. minuscule.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Any very small, minute object."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A small Roman letter which is neither capital nor uncial; a manuscript written in such letters."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "minuscule",
+      "headword_raw": "minuscule",
+      "pr": null,
+      "pos": [
+        "adj.",
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of or relating to a minuscule{2} or of a script written in minuscules{2}; of the size and style of minuscules{2}; written in minuscules{2}; minuscular."
+          ],
+          "quotes": [
+            "These minuscule letters are cursive forms of the earlier uncials."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

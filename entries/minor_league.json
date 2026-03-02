@@ -1,0 +1,42 @@
+{
+  "key": "minor_league",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "minor league",
+      "headword_raw": "minor league",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "minor league"
+      ],
+      "entry_fields": [
+        "Sport)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A league of professional sports teams less proficient than a major leagues. Players in the minor leagues generally are paid less than those in the major leagues, and their games attract less atention."
+          ],
+          "quotes": [],
+          "notes": [
+            "Certain minor league sports teams are often owned by those owning a major league club, and the minor league clubs are used to provide practise and opportunity for evaluation for candidates who wish to play in the major leagues."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

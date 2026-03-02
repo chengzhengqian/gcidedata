@@ -1,0 +1,66 @@
+{
+  "key": "mischievous",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Mischievous",
+      "headword_raw": "Mis\"chie*vous",
+      "pr": "(ms\"ch*vs)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Mischievously",
+          "form_raw": "Mis\"chie*vous*ly",
+          "key": "mischievously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Mischievousness",
+          "form_raw": "Mis\"chie*vous*ness",
+          "key": "mischievousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Harmful",
+        "hurtful",
+        "detrimental",
+        "noxious",
+        "pernicious",
+        "destructive"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Causing mischief; harmful; hurtful; -- now often applied where the evil is done carelessly or in sport; as, a mischievous child."
+          ],
+          "quotes": [
+            "This false, wily, doubling disposition is intolerably mischievous to society."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

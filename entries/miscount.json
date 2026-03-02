@@ -1,0 +1,76 @@
+{
+  "key": "miscount",
+  "source_file": "CIDE.M",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Miscount",
+      "headword_raw": "Mis*count\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t. & i."
+      ],
+      "ety": "[Cf. OF. mesconter, F. mcompter. Cf. Miscompute.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To count erroneously."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Miscount",
+      "headword_raw": "Mis*count\"",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. mcompte error, OF. mesconte.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "An erroneous counting."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "An erroneous count of ballots cast in an election."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

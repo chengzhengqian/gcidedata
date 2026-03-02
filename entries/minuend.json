@@ -1,0 +1,39 @@
+{
+  "key": "minuend",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "minuend",
+      "headword_raw": "min\"u*end",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. minuendus to be diminished, fr. minuere to lessen, diminish. See Minish.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Arith.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "In the process of subtraction{2}, the number from which another number (the subtrahend) is to be subtracted, to find the difference."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

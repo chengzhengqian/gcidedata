@@ -1,0 +1,65 @@
+{
+  "key": "impious",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Impious",
+      "headword_raw": "Im\"pi*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. impius; pref. im- not + pius piou. See Pious.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "Irreligious is negative, impious and profane are positive. An indifferent man may be irreligious; a profane man is irreverent in speech and conduct; an impious man is wickedly and boldly defiant in the strongest sense. Profane also has the milder sense of secular."
+      ],
+      "wordforms": [
+        {
+          "form": "Impiously",
+          "form_raw": "Im\"pi*ous*ly",
+          "key": "impiously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Impiousness",
+          "form_raw": "Im\"pi*ous*ness",
+          "key": "impiousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Impious",
+        "Irreligious",
+        "Profane"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not pious; wanting piety; irreligious; irreverent; ungodly; profane; wanting in reverence for the Supreme Being; as, an impious deed; impious language."
+          ],
+          "quotes": [
+            "When vice prevails, and impious men bear away, The post of honor is a private station."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

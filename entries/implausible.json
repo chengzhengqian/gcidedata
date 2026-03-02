@@ -1,0 +1,57 @@
+{
+  "key": "implausible",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Implausible",
+      "headword_raw": "Im*plau\"si*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[Pref. im- not + plausible: cf. F. implausible.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Implausibleness",
+          "form_raw": "Im*plau\"si*ble*ness",
+          "key": "implausibleness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Implausibly",
+          "form_raw": "Im*plau\"si*bly",
+          "key": "implausibly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not plausible; not wearing the appearance of truth or credibility, and not likely to be believed."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "key": "import",
+  "source_file": "CIDE.I",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Import",
+      "headword_raw": "Im*port\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. importare to bring in, to occasion, to cause; pref. im- in + portare to bear. Sense 3 comes through F. importer, from the Latin. See Port demeanor.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Imported; p. pr. & vb. n. Importing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To bring in from abroad; to introduce from without; especially, to bring (wares or merchandise) into a place or country from a foreign country, in the transactions of commerce; -- opposed to export. We import teas from China, coffee from Brazil, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To carry or include, as meaning or intention; to imply; to signify."
+          ],
+          "quotes": [
+            "Every petition . . . doth . . . always import a multitude of speakers together."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To be of importance or consequence to; to have a bearing on; to concern."
+          ],
+          "quotes": [
+            "I have a motion much imports your good.",
+            "If I endure it, what imports it you?"
+          ],
+          "notes": [],
+          "synonyms": [
+            "denote",
+            "mean",
+            "signify",
+            "imply",
+            "indicate",
+            "betoken",
+            "interest",
+            "concern"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Import",
+      "headword_raw": "Im*port\"",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To signify; to purport; to be of moment."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Import",
+      "headword_raw": "Im\"port",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Merchandise imported, or brought into a country from without its boundaries; -- generally in the plural, opposed to exports."
+          ],
+          "quotes": [
+            "I take the imports from, and not the exports to, these conquests, as the measure of these advantages which we derived from them."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That which a word, phrase, or document contains as its signification or intention or interpretation of a word, action, event, and the like."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Importance; weight; consequence."
+          ],
+          "quotes": [
+            "Most serious design, and the great import."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

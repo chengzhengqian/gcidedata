@@ -1,0 +1,59 @@
+{
+  "key": "imprudent",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Imprudent",
+      "headword_raw": "Im*pru\"dent",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[L. imprudens; pref. im- not + prudens prudent: cf. F. imprudent. See Prudent, and cf. Improvident.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Imprudently",
+          "form_raw": "Im*pru\"dent*ly",
+          "key": "imprudently",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Indiscreet",
+        "injudicious",
+        "incautious",
+        "ill-advised",
+        "unwise",
+        "heedless",
+        "careless",
+        "rash",
+        "negligent"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not prudent; wanting in prudence or discretion; indiscreet; injudicious; not attentive to consequence; improper."
+          ],
+          "quotes": [
+            "Her majesty took a great dislike at the imprudent behavior of many of the ministers and readers."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

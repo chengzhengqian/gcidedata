@@ -1,0 +1,71 @@
+{
+  "key": "imprest",
+  "source_file": "CIDE.I",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Imprest",
+      "headword_raw": "Im*prest\"",
+      "pr": "(m*prst\")",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "n."
+      ],
+      "ety": "[Pref. im- + prest: cf. It. imprestare. See Prest, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[ imp. & p. p. Imprested; p. pr. & vb. n. Impresting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To advance on loan."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Imprest",
+      "headword_raw": "Im\"prest",
+      "pr": "(m\"prst)",
+      "pos": [
+        "n.",
+        "v. t."
+      ],
+      "ety": "[Cf. It. impresto, imprestito, LL. impraestitum. See Imprest, v. t., and Impress compulsion to serve.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A kind of earnest money; loan; -- specifically, money advanced for some public service, as in enlistment."
+          ],
+          "quotes": [
+            "The clearing of their imprests for what little of their debts they have received."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

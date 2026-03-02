@@ -1,0 +1,57 @@
+{
+  "key": "impolite",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Impolite",
+      "headword_raw": "Im`po*lite\"",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. impolitus unpolishied, pref. im- not + politus, p. p. of polire to polish, refine. See Polite.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Impolitely",
+          "form_raw": "Im`po*lite\"ly",
+          "key": "impolitely",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Impoliteness",
+          "form_raw": "Im`po*lite\"ness",
+          "key": "impoliteness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not polite; not of polished manners; wanting in good manners; discourteous; uncivil; rude."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

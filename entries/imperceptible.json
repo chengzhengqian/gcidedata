@@ -1,0 +1,61 @@
+{
+  "key": "imperceptible",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Imperceptible",
+      "headword_raw": "Im`per*cep\"ti*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[Pref. im- not + perceptible: cf. F. imperceptible.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Imperceptibleness",
+          "form_raw": "Im`per*cep\"ti*ble*ness",
+          "key": "imperceptibleness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Imperceptibly",
+          "form_raw": "Im`per*cep\"ti*bly",
+          "key": "imperceptibly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not perceptible; not to be apprehended or cognized by the senses; not discernible by the mind; not easily apprehended."
+          ],
+          "quotes": [
+            "Almost imperceptible to the touch.",
+            "Its operation is slow, and in some cases almost imperceptible.",
+            "Their . . . subtilty and imperceptibleness."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

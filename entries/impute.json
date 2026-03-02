@@ -1,0 +1,77 @@
+{
+  "key": "impute",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Impute",
+      "headword_raw": "Im*pute\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[F. imputer, L. imputare to bring into the reckoning, charge, impute; pref. im- in + putare to reckon, think. See Putative.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Imputed; p. pr. & vb. n. Imputing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To charge; to ascribe; to attribute; to set to the account of; to charge to one as the author, responsible originator, or possessor; -- generally in a bad sense."
+          ],
+          "quotes": [
+            "Nor you, ye proud, impute to these the fault, If memory o'er their tomb no trophies raise.",
+            "One vice of a darker shade was imputed to him -- envy."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Theol.)"
+          ],
+          "defs": [
+            "To adjudge as one's own (the sin or righteousness) of another; as, the righteousness of Christ is imputed to us."
+          ],
+          "quotes": [
+            "It was imputed to him for righteousness.",
+            "They merit Imputed shall absolve them who renounce Their own, both righteous and unrighteous deeds."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To take account of; to consider; to regard."
+          ],
+          "quotes": [
+            "If we impute this last humiliation as the cause of his death."
+          ],
+          "notes": [],
+          "synonyms": [
+            "ascribe",
+            "attribute",
+            "charge",
+            "reckon",
+            "consider",
+            "imply",
+            "insinuate",
+            "refer. See Ascribe"
+          ]
+        }
+      ]
+    }
+  ]
+}

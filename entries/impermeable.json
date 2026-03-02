@@ -1,0 +1,57 @@
+{
+  "key": "impermeable",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Impermeable",
+      "headword_raw": "Im*per\"me*a*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[Pref. im- not + permeable: cf. F. impermable, L. impermeabilis.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Impermeableness",
+          "form_raw": "Im*per\"me*a*ble*ness",
+          "key": "impermeableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Impermeably",
+          "form_raw": "Im*per\"me*a*bly",
+          "key": "impermeably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not permeable; not permitting passage, as of a fluid. through its substance; impervious; impenetrable; as, India rubber is impermeable to water and to air."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

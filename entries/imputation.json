@@ -1,0 +1,71 @@
+{
+  "key": "imputation",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Imputation",
+      "headword_raw": "Im`pu*ta\"tion",
+      "pr": "(?)",
+      "pos": [],
+      "ety": "[L. imputatio an account, a charge: cf. F. imputation.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of imputing or charging; attribution; ascription; also, anything imputed or charged."
+          ],
+          "quotes": [
+            "Shylock. Antonio is a good man. Bassanio. Have you heard any imputation to the contrary?",
+            "If I had a suit to Master Shallow, I would humor his men with the imputation of being near their master."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Charge or attribution of evil; censure; reproach; insinuation."
+          ],
+          "quotes": [
+            "Let us be careful to guard ourselves against these groundless imputation of our enemies."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Theol.)"
+          ],
+          "defs": [
+            "A setting of something to the account of; the attribution of personal guilt or personal righteousness of another; as, the imputation of the sin of Adam, or the righteousness of Christ."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Opinion; intimation; hint."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

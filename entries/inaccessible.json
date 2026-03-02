@@ -1,0 +1,57 @@
+{
+  "key": "inaccessible",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Inaccessible",
+      "headword_raw": "In`ac*cess\"i*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[L. inaccessibilis: cf. F. inaccessible. See In- not, and Accessible.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Inaccessibleness",
+          "form_raw": "In`ac*cess\"i*ble*ness",
+          "key": "inaccessibleness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Inaccessibly",
+          "form_raw": "In`ac*cess\"i*bly",
+          "key": "inaccessibly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not accessible; not to be reached, obtained, or approached; as, an inaccessible rock, fortress, document, prince, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

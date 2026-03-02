@@ -1,0 +1,56 @@
+{
+  "key": "imprison",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Imprison",
+      "headword_raw": "Im*pris\"on",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OE. enprisonen, OF. enprisoner, F. emprisonner; pref. en- (L. in) + F. & OF. prison. See Prison.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Imprisoned (?); p. pr. & vb. n. Imprisoning.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To put in prison or jail; To arrest and detain in custody; to confine."
+          ],
+          "quotes": [
+            "He imprisoned was in chains remediless."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To limit, restrain, or confine in any way."
+          ],
+          "quotes": [
+            "Try to imprison the resistless wind."
+          ],
+          "notes": [],
+          "synonyms": [
+            "incarcerate",
+            "confine",
+            "immure"
+          ]
+        }
+      ]
+    }
+  ]
+}

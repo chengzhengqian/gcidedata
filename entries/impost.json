@@ -1,0 +1,58 @@
+{
+  "key": "impost",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Impost",
+      "headword_raw": "Im\"post",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OF. impost, F. impot, LL. impostus, fr. L. impostus, p. p. of imponere to impose. See Impone.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "That which is imposed or levied; a tax, tribute, or duty; especially, a duty or tax laid by government on goods imported into a country."
+          ],
+          "quotes": [
+            "Even the ship money . . . Johnson could not pronounce to have been an unconstitutional impost."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Arch.)"
+          ],
+          "defs": [
+            "The top member of a pillar, pier, wall, etc., upon which the weight of an arch rests."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The impost is called continuous, if the moldings of the arch or architrave run down the jamb or pier without a break."
+          ],
+          "synonyms": [
+            "Tribute",
+            "excise",
+            "custom",
+            "duty",
+            "tax"
+          ]
+        }
+      ]
+    }
+  ]
+}

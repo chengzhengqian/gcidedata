@@ -1,0 +1,82 @@
+{
+  "key": "impetuous",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Impetuous",
+      "headword_raw": "Im*pet\"u*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[F. impetueux, L. impetuosus. See Impetus.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Impetuously",
+          "form_raw": "Im*pet\"u*ous*ly",
+          "key": "impetuously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Impetuousness",
+          "form_raw": "Im*pet\"u*ous*ness",
+          "key": "impetuousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Rushing with force and violence; moving with impetus; furious; forcible; violent; as, an impetuous wind; an impetuous torrent."
+          ],
+          "quotes": [
+            "Went pouring forward with impetuous speed."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Vehement in feeling; hasty; passionate; violent; as, a man of impetuous temper."
+          ],
+          "quotes": [
+            "The people, on their holidays, Impetuous, insolent, unquenchable."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Forcible",
+            "rapid",
+            "hasty",
+            "precipitate",
+            "furious",
+            "boisterous",
+            "violent",
+            "raging",
+            "fierce",
+            "passionate"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "key": "impedance",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Impedance",
+      "headword_raw": "Im*ped\"ance",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Impede + -ance.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Elec.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The apparent resistance in an electric circuit to the flow of an alternating current, analogous to the actual electrical resistance to a direct current, being the ratio of electromotive force to the current. It is equal to R2 + X2, where R = ohmic resistance, X = reactance. For an inductive circuit, X = 2fL, where f = frequency and L = self-inductance; for a circuit with capacity X = 1 ÷ 2fC, where C = capacity."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

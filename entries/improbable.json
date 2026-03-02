@@ -1,0 +1,59 @@
+{
+  "key": "improbable",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Improbable",
+      "headword_raw": "Im*prob\"a*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[L. improbabilis; pref. im- not + probabilis probable: cf. F. improbable. See Probable.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Improbableness",
+          "form_raw": "Im*prob\"a*ble*ness",
+          "key": "improbableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Improbably",
+          "form_raw": "Im*prob\"a*bly",
+          "key": "improbably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not probable; unlikely to be true; not to be expected under the circumstances or in the usual course of events; as, an improbable story or event."
+          ],
+          "quotes": [
+            "He . . . sent to Elutherius, then bishop of Rome, an improbable letter, as some of the contents discover."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "key": "implicit",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Implicit",
+      "headword_raw": "Im*plic\"it",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. implicitus, p. p. of implicare to entwine, entangle, attach closely: cf. F. implicite. See Implicate.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Infolded; entangled; complicated; involved."
+          ],
+          "quotes": [
+            "In his woolly fleece I cling implicit."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Tacitly comprised; fairly to be understood, though not expressed in words; implied; as, an implicit contract or agreement."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "Resting on another; trusting in the word or authority of another, without doubt or reserve; unquestioning; complete; as, implicit confidence; implicit obedience."
+          ],
+          "quotes": [
+            "Back again to implicit faith I fall."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

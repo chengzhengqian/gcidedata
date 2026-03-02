@@ -1,0 +1,66 @@
+{
+  "key": "impervious",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Impervious",
+      "headword_raw": "Im*per\"vi*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. impervius; pref. im- not + per through + via way. See Voyage.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Imperviously",
+          "form_raw": "Im*per\"vi*ous*ly",
+          "key": "imperviously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Imperviousness",
+          "form_raw": "Im*per\"vi*ous*ness",
+          "key": "imperviousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Impassable",
+        "pathless",
+        "impenetrable",
+        "imperviable",
+        "impermeable"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not pervious; not admitting of entrance or passage through; as, a substance impervious to water or air."
+          ],
+          "quotes": [
+            "This gulf impassable, impervious.",
+            "The minds of these zealots were absolutely impervious."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

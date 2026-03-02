@@ -1,0 +1,79 @@
+{
+  "key": "inactive",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Inactive",
+      "headword_raw": "In*ac\"tive",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Pref. in- not + active: cf. F. inactif.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Not active; having no power to move; that does not or can not produce results; inert; as, matter is, of itself, inactive."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Not disposed to action or effort; not diligent or industrious; not busy; idle; as, an inactive officer."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Chem. & Opt.)"
+          ],
+          "defs": [
+            "Not exhibiting any action or activity on polarized light; optically inactive; optically neutral; -- said of isomeric forms of certain substances, in distinction from other forms which are optically active; as, racemic acid is an inactive tartaric acid."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Chem. & Biochem.)"
+          ],
+          "defs": [
+            "Lacking biological or biochemical activity; not causing a specific biological or biochemical effect; -- said of substances such as enzymes which have lost their catalytic power, or of small molecules which are tested for some type of biological activity and found to lack that activity; as, after boiling for ten minutes, the enzyme was totally inactive; the methyl analog was inactive as an antibiotic."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Inert",
+            "dull",
+            "sluggish",
+            "idle",
+            "indolent",
+            "slothful",
+            "lazy. See Inert"
+          ]
+        }
+      ]
+    }
+  ]
+}

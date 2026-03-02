@@ -1,0 +1,44 @@
+{
+  "key": "inactivate",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "inactivate",
+      "headword_raw": "inactivate",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC",
+        "PJC"
+      ],
+      "morph": "[imp. & p. p. inactivated (?); p. pr. & vb. n. inactivating.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "deactivate"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "to make inactive; as, boiling will inactivate most enzymes; acetylation of the antibiotic inactivated it."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ To inactivate an enzyme or chemical usually renders it permanently inactive; to inactivate a machine (as by turning a switch) may be reversible, and for machines and devices, the term deactivate is usually used. The distinction is worth preserving."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

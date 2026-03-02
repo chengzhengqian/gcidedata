@@ -1,0 +1,57 @@
+{
+  "key": "inadequate",
+  "source_file": "CIDE.I",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Inadequate",
+      "headword_raw": "In*ad\"e*quate",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Pref. in- not + adequate: cf. F. inadquat.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Inadequately",
+          "form_raw": "In*ad\"e*quate*ly",
+          "key": "inadequately",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Inadequateness",
+          "form_raw": "In*ad\"e*quate*ness",
+          "key": "inadequateness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not adequate; unequal to the purpose; insufficient; deficient; as, inadequate resources, power, conceptions, representations, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

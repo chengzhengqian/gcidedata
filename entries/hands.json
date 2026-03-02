@@ -1,0 +1,54 @@
+{
+  "key": "hands",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "hands",
+      "headword_raw": "hands",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a person's power or discretionary action; as, my fate is in your hands."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "custody"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The force of workers available; as, all hands on deck."
+          ],
+          "quotes": [
+            "A dictionary containing a natural history requires too many hands, as well as too much time, ever to be hoped for."
+          ],
+          "notes": [],
+          "synonyms": [
+            "work force",
+            "manpower",
+            "men"
+          ]
+        }
+      ]
+    }
+  ]
+}

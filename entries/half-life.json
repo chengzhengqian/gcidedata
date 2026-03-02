@@ -1,0 +1,38 @@
+{
+  "key": "half-life",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Half-life",
+      "headword_raw": "Half\"-life`",
+      "pr": "(häf\"līf`)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "the time it takes for one-half of a substance decaying in a first-order reaction to be destroyed. For radioactive substances, it is the time required for one-half of the initial amount of the radioactive isotope to decay. The half-lifeis a measure of the rate of the reaction being observed. For processes that are true first-order processes, such as radioactive decay, the half-life is independent of the quantity of material present, and it is thus a constant. The time it takes for one-half the remaining quantity of a radioactive isotope to decay will be the same regardless of how far the decay process has advanced. Some chemical reactions are also first order, and may be characterized as having a half-life. However, for chemical reactions the half-life will depend upon temperature and in some cases other environmental conditions, whereas for radioactive isotopes the rate of decay is largely independent of the environment."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

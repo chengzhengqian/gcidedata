@@ -1,0 +1,107 @@
+{
+  "key": "half-tone",
+  "source_file": "CIDE.H",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Half-tone",
+      "headword_raw": "Half\"-tone`",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl.",
+        "PJC",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Fine Arts)"
+          ],
+          "defs": [
+            "An intermediate or middle tone in a painting, engraving, photograph, etc.; a middle tint, neither very dark nor very light."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Music)"
+          ],
+          "defs": [
+            "A half step."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A print obtained by the half-tone photo-engraving process."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "the etched plate used to reproduce a half-tone illustration."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "halftone engraving",
+            "photoengraving"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Half-tone",
+      "headword_raw": "Half\"-tone`",
+      "pr": "(häf\"tōn`)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "Photo-engraving"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Having, consisting of, or pertaining to, half tones;",
+            "pertaining to or designating plates, processes, or the pictures made by them, in which gradation of tone in the photograph is reproduced by a graduated system of dotted and checkered spots, usually nearly invisible to the unaided eye, produced by the interposition between the camera and the object of a screen. The name alludes to the fact that this process was the first that was practically successful in reproducing the half tones of the photograph."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

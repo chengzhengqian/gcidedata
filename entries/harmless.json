@@ -1,0 +1,76 @@
+{
+  "key": "harmless",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Harmless",
+      "headword_raw": "Harm\"less",
+      "pr": "(härm\"ls)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Harmlessly",
+          "form_raw": "Harm\"less*ly",
+          "key": "harmlessly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Harmlessness",
+          "form_raw": "Harm\"less*ness",
+          "key": "harmlessness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Free from harm; unhurt; as, to give bond to save another harmless."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Free from power or disposition to harm; innocent; inoffensive."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Innocent",
+            "innoxious",
+            "innocuous",
+            "inoffensive",
+            "unoffending",
+            "unhurt",
+            "uninjured",
+            "unharmed"
+          ]
+        }
+      ]
+    }
+  ]
+}

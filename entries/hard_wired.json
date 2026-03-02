@@ -1,0 +1,60 @@
+{
+  "key": "hard_wired",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "hard wired",
+      "headword_raw": "hard\" wired\"",
+      "pr": "(härd\"wīrd\")",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "Contained within the circuitry of a computer or computer peripheral device, and not changeable by programming; -- of functions; as, error correction is hard-wired into the circuit of the disk drive, so it proceeds very rapidly."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Connected by a continuous electrical wire, rather than through a switch; as, the air-conditioner was hard-wired into the wall circuit, so moving it would require an electrician."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Performed by an inborn pattern of neural circuits; instinctive; not learned; as, many bird songs are hard-wired, but some are learned."
+          ],
+          "quotes": [
+            "People, as the cybernetic metaphor now has it, are “hard wired” to do good in order to enhance their own happiness."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

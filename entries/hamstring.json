@@ -1,0 +1,71 @@
+{
+  "key": "hamstring",
+  "source_file": "CIDE.H",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Hamstring",
+      "headword_raw": "Ham\"string`",
+      "pr": "(hm\"strng`)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Anat.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "One of the great tendons situated in each side of the ham, or space back of the knee, and connected with the muscles of the back of the thigh."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Hamstring",
+      "headword_raw": "Ham\"string`",
+      "pr": null,
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Hamstrung; p. pr. & vb. n. Hamstringing. See String.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To lame or disable by cutting the tendons of the ham or knee; to hough; hence, to cripple; to incapacitate; to disable."
+          ],
+          "quotes": [
+            "So have they hamstrung the valor of the subject by seeking to effeminate us all at home."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

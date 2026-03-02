@@ -1,0 +1,52 @@
+{
+  "key": "hallucination",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Hallucination",
+      "headword_raw": "Hal*lu`ci*na\"tion",
+      "pr": "(-nā\"shn)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. hallucinatio: cf. F. hallucination.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of hallucinating; a wandering of the mind; error; mistake; a blunder."
+          ],
+          "quotes": [
+            "This must have been the hallucination of the transcriber."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "The perception of objects which have no reality, or of sensations which have no corresponding external cause, arising from disorder of the nervous system, as in delirium tremens; delusion."
+          ],
+          "quotes": [
+            "Hallucinations are always evidence of cerebral derangement and are common phenomena of insanity."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

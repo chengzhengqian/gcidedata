@@ -1,0 +1,40 @@
+{
+  "key": "haploid",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Haploid",
+      "headword_raw": "Hap\"loid",
+      "pr": "(hp\"loid)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[NL., fr. Gr. \"aplo`os simple.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Biol.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "having half the number of chromosomes normally present in somatic cells; having only one chromosome of each type, and therefore having only one complete set of genes; Contrasted with diploid and polyploid. See also diploid."
+          ],
+          "quotes": [],
+          "notes": [
+            "The germ cells of animals, the ovum and sperm cells, are haploid, whereas the somatic cells are diploid. Haploid variants of somatic cells may also be generated under certain conditions in the laboratory."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

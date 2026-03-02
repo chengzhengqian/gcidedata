@@ -1,0 +1,46 @@
+{
+  "key": "rental",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Rental",
+      "headword_raw": "Rent\"al",
+      "pr": "(-al)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[LL. rentale, fr. renta. See Rent income.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A schedule, account, or list of rents, with the names of the tenants, etc.; a rent roll."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A sum total of rents; as, an estate that yields a rental of ten thousand dollars a year."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

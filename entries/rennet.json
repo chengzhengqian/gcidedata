@@ -1,0 +1,83 @@
+{
+  "key": "rennet",
+  "source_file": "CIDE.R",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Rennet",
+      "headword_raw": "Ren\"net",
+      "pr": "(r?n\"n?t)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. rainette, reinette, perhaps fr. raine a tree frog, L. rana, because it is spotted like this kind of frog. Cf. Ranunculus.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Bot.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A name of many different kinds of apples. Cf. Reinette."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Rennet",
+      "headword_raw": "Ren\"net",
+      "pr": null,
+      "pos": [
+        "n.",
+        "v."
+      ],
+      "ety": "[AS. rinnan, rennan, to run, cf. gerinnan to curdle, coagulate. √11. See Run, v.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The inner, or mucous, membrane of the fourth stomach of the calf, or other young ruminant."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Bot.)",
+            "(Physiol. Chem.)",
+            "(Anat.)"
+          ],
+          "defs": [
+            "an infusion or preparation of the calf stomach lining, used for coagulating milk. The active principle in this coagulating action is the enzyme rennin."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "key": "remote",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Remote",
+      "headword_raw": "Re*mote\"",
+      "pr": "(r?-m?t\")",
+      "pos": [
+        "a.",
+        "Compar.",
+        "superl.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. remotus, p. p. of removere to remove. See Remove.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Remotely",
+          "form_raw": "Re*mote\"ly",
+          "key": "remotely",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Remoteness",
+          "form_raw": "Re*mote\"ness",
+          "key": "remoteness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Removed to a distance; not near; far away; distant; -- said in respect to time or to place; as, remote ages; remote lands."
+          ],
+          "quotes": [
+            "Places remote enough are in Bohemia.",
+            "Remote from men, with God he passed his days."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Hence, removed; not agreeing, according, or being related; -- in various figurative uses.",
+            "Not agreeing; alien; foreign.",
+            "Not nearly related; not close; as, a remote connection or consanguinity.",
+            "Separate; abstracted.",
+            "Not proximate or acting directly; primary; distant.",
+            "Not obvious or sriking; as, a remote resemblance."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Bot.)"
+          ],
+          "defs": [
+            "Separated by intervals greater than usual."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

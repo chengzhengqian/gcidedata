@@ -1,0 +1,118 @@
+{
+  "key": "request",
+  "source_file": "CIDE.R",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Request",
+      "headword_raw": "Re*quest\"",
+      "pr": "(r*kwst\")",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. requeste, OF. requeste, F. requte, LL. requesta, for requisita, fr. L. requirere, requisitum, to seek again, ask for. See Require, and cf. Quest.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of asking for anything desired; expression of desire or demand; solicitation; prayer; petition; entreaty."
+          ],
+          "quotes": [
+            "I will marry her, sir, at your request."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That which is asked for or requested."
+          ],
+          "quotes": [
+            "I will both hear and grant you your requests."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A state of being desired or held in such estimation as to be sought after or asked for; demand."
+          ],
+          "quotes": [
+            "Knowledge and fame were in as great request as wealth among us now."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Asking",
+            "solicitation",
+            "petition",
+            "prayer",
+            "supplication",
+            "entreaty",
+            "suit"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Request",
+      "headword_raw": "Re*quest\"",
+      "pr": "(r?-kw?st\")",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[Cf. OF. requester, F. requter.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Requested; p. pr. & vb. n. Requesting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To ask for (something); to express desire ffor; to solicit; as, to request his presence, or a favor."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To address with a request; to ask."
+          ],
+          "quotes": [
+            "I request you To give my poor host freedom."
+          ],
+          "notes": [],
+          "synonyms": [
+            "ask",
+            "solicit",
+            "entreat",
+            "beseech. See Beg"
+          ]
+        }
+      ]
+    }
+  ]
+}

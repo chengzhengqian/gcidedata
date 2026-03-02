@@ -1,0 +1,90 @@
+{
+  "key": "replication",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Replication",
+      "headword_raw": "Rep`li*ca\"tion",
+      "pr": "(-k?\"sh?n)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. replicatio. See Reply.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "An answer; a reply."
+          ],
+          "quotes": [
+            "Withouten any repplicacioun."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law Pleadings)"
+          ],
+          "defs": [
+            "The reply of the plaintiff, in matters of fact, to the defendant's plea."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Return or repercussion, as of sound; echo."
+          ],
+          "quotes": [
+            "To hear the replication of your sounds."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "A repetition; a copy."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Biochem.)"
+          ],
+          "defs": [
+            "The copying, by enzymes, of a cell's genome, i.e. the DNA or RNA comprising its genetic material, so as to form an identical genome. This is an essential step in the division of one cell into two. This differs from transcription, which is the copying of only part of the genetic information of a cell's genome into RNA, as in the processes of biosynthesis of messenger RNA or ribosomal RNA."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Answer",
+            "response",
+            "reply",
+            "rejoinder"
+          ]
+        }
+      ]
+    }
+  ]
+}

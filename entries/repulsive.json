@@ -1,0 +1,69 @@
+{
+  "key": "repulsive",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Repulsive",
+      "headword_raw": "Re*pul\"sive",
+      "pr": "(-s?v)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Cf. F. rpulsif.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Repulsively",
+          "form_raw": "Re*pul\"sive*ly",
+          "key": "repulsively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Repulsiveness",
+          "form_raw": "Re*pul\"sive*ness",
+          "key": "repulsiveness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Serving, or able, to repulse; repellent; as, a repulsive force."
+          ],
+          "quotes": [
+            "Repulsive of his might the weapon stood."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Cold; forbidding; offensive; as, repulsive manners."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

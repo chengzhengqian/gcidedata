@@ -1,0 +1,97 @@
+{
+  "key": "rescue",
+  "source_file": "CIDE.R",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Rescue",
+      "headword_raw": "Res\"cue",
+      "pr": "(rs\"k)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OE. rescopuen, OF. rescourre, rescurre, rescorre; L. pref. re- re- + excutere to shake or drive out; ex out + quatere to shake. See Qtash to crush, Rercussion.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Rescued (-k?d);p. pr. & vb. n. Rescuing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "retake",
+        "recapture",
+        "free",
+        "deliver",
+        "liberate",
+        "release",
+        "save"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To free or deliver from any confinement, violence, danger, or evil; to liberate from actual restraint; to remove or withdraw from a state of exposure to evil; as, to rescue a prisoner from the enemy; to rescue seamen from destruction."
+          ],
+          "quotes": [
+            "Had I been seized by a hungry lion, I would have been a breakfast to the best, Rather than have false Proteus rescue me."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Rescue",
+      "headword_raw": "Res\"cue",
+      "pr": "(rs\"k)",
+      "pos": [
+        "n.",
+        "v."
+      ],
+      "ety": "[From Rescue, v.; cf. Rescous.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of rescuing; deliverance from restraint, violence, or danger; liberation."
+          ],
+          "quotes": [
+            "Spur to the rescue of the noble Talbot."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)",
+            "(Bot.)"
+          ],
+          "defs": [
+            "The forcible retaking, or taking away, against law, of things lawfully distrained.",
+            "The forcible liberation of a person from an arrest or imprisonment.",
+            "The retaking by a party captured of a prize made by the enemy."
+          ],
+          "quotes": [
+            "The rescue of a prisoner from the court is punished with perpetual imprisonment and forfeiture of goods."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "key": "reputable",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Reputable",
+      "headword_raw": "Rep\"u*ta*ble",
+      "pr": "(r?p\"?-t?-b'l)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[From Repute.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Repu tableness",
+          "form_raw": "Rep\"u ta*ble*ness",
+          "key": "repu_tableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Reputably",
+          "form_raw": "Rep\"u*ta*bly",
+          "key": "reputably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Respectable",
+        "creditable",
+        "estimable"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Having, or worthy of, good repute; held in esteem; honorable; praiseworthy; as, a reputable man or character; reputable conduct."
+          ],
+          "quotes": [
+            "In the article of danger, it is as reputable to elude an enemy as defeat one."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

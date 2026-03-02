@@ -1,0 +1,38 @@
+{
+  "key": "repetend",
+  "source_file": "CIDE.R",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Repetend",
+      "headword_raw": "Rep`e*tend",
+      "pr": "(r?p`?-t?nd\")",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. repetendus to be repeated, fr. repetere to repeat.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Math.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "That part of a circulating decimal which recurs continually, ad infinitum: -- sometimes indicated by a dot over the first and last figures; thus, in the circulating decimal .728328328 + (otherwise .78), the repetend is 283."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

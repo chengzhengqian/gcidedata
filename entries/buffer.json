@@ -1,0 +1,135 @@
+{
+  "key": "buffer",
+  "source_file": "CIDE.B",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Buffer",
+      "headword_raw": "Buff\"er",
+      "pr": "(bf\"r)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Prop a striker. See Buffet a blow.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Mech.)"
+          ],
+          "defs": [
+            "An elastic apparatus or fender, for deadening the jar caused by the collision of bodies; as, a buffer at the end of a railroad car.",
+            "A pad or cushion forming the end of a fender, which receives the blow; -- sometimes called buffing apparatus."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "One who polishes with a buff."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A wheel for buffing; a buff."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "A good-humored, slow-witted fellow; -- usually said of an elderly man."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "a substance or mixture of substances which can absorb or neutralize a certain quantity of acid or base and thus keep the degree of acidity or alkalinity of a solution (as measured by pH) relatively stable. Sometimes the term is used in a medical context to mean antacid."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "a data storage device or portion of memory used to temporarily store input or output data until the receiving device is ready to process it."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "7.",
+          "fields": [],
+          "defs": [
+            "any object or person that shields another object or person from harm, shock, or annoyance; as, the President's staff is his buffer from constant interruptions of his work."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "buffer",
+      "headword_raw": "buff\"er",
+      "pr": "(bf\"r)",
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "to add a buffer{5} to (a solution), so as to reduce unwanted fluctuation of acidity."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

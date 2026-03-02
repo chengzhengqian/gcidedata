@@ -1,0 +1,39 @@
+{
+  "key": "burgle",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "burgle",
+      "headword_raw": "burgle",
+      "pr": null,
+      "pos": [
+        "v."
+      ],
+      "ety": "[by back-formation from burglar.]",
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "burglarize",
+        "heist"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "to commit a burglary; to enter and rob a dwelling."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

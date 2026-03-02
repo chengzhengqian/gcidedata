@@ -1,0 +1,50 @@
+{
+  "key": "burbly",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "burbly",
+      "headword_raw": "burbly",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "uttered with unrestrained enthusiasm; as, a novel told in burbly panting tones."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "effusive",
+            "gushing"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "bubbling; -- of sounds, especially of water."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

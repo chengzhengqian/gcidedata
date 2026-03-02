@@ -1,0 +1,51 @@
+{
+  "key": "buried",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "buried",
+      "headword_raw": "buried",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "covered from view; as, her face buried (or hidden) in her hands; buried in the smoke of many rifles."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "hidden"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "placed in a grave; as, the hastily buried corpses. Opposite of unburied."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "inhumed",
+            "interred"
+          ]
+        }
+      ]
+    }
+  ]
+}

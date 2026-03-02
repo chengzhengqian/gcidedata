@@ -1,0 +1,54 @@
+{
+  "key": "burial",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Burial",
+      "headword_raw": "Bur\"i*al",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. buriel, buriels, grave, tomb, AS. byrgels, fr. byrgan to bury, and akin to OS. burgisli sepulcher.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A grave; a tomb; a place of sepulture."
+          ],
+          "quotes": [
+            "The erthe schook, and stoones weren cloven, and biriels weren opened."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The act of burying; depositing a dead body in the earth, in a tomb or vault, or in the water, usually with attendant ceremonies; sepulture; interment."
+          ],
+          "quotes": [
+            "Now to glorious burial slowly borne."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Sepulture",
+            "interment",
+            "inhumation"
+          ]
+        }
+      ]
+    }
+  ]
+}

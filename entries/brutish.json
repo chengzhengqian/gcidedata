@@ -1,0 +1,74 @@
+{
+  "key": "brutish",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Brutish",
+      "headword_raw": "Bru\"tish",
+      "pr": "(<?/)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Brutishly",
+          "form_raw": "Bru\"tish*ly",
+          "key": "brutishly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Brutishness",
+          "form_raw": "Bru\"tish*ness",
+          "key": "brutishness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Insensible",
+        "stupid",
+        "unfeeling",
+        "savage",
+        "cruel",
+        "brutal",
+        "barbarous",
+        "inhuman",
+        "ferocious",
+        "gross",
+        "carnal",
+        "sensual",
+        "bestial"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Pertaining to, or resembling, a brute or brutes; of a cruel, gross, and stupid nature; coarse; unfeeling; unintelligent."
+          ],
+          "quotes": [
+            "O, let all provocation Take every brutish shape it can devise.",
+            "Man may . . . render himself brutish, but it is in vain that he would seek to take the rank and density of the brute."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

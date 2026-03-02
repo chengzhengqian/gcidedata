@@ -1,0 +1,63 @@
+{
+  "key": "bun",
+  "source_file": "CIDE.B",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Bun",
+      "headword_raw": "Bun",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "BUN",
+      "headword_raw": "BUN",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[acronym]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "same as blood urea nitrogen; the concentration of nitrogen in blood present in the form of urea; -- used as a measure of kidney function."
+          ],
+          "quotes": [],
+          "notes": [
+            "Blood usually contains 10 to 15 mg of nitrogen per 100 ml in the form of urea. Stedman."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

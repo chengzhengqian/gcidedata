@@ -1,0 +1,50 @@
+{
+  "key": "burgher",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Burgher",
+      "headword_raw": "Burgh\"er",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[From burgh; akin to D. burger, G. bürger, Dan. borger, Sw. borgare. See Burgh.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A freeman of a burgh or borough, entitled to enjoy the privileges of the place; any inhabitant of a borough."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Eccl. Hist.)"
+          ],
+          "defs": [
+            "A member of that party, among the Scotch seceders, which asserted the lawfulness of the burgess oath (in which burgesses profess “the true religion professed within the realm”), the opposite party being called antiburghers."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ These parties arose among the Presbyterians of Scotland, in 1747, and in 1820 reunited under the name of the “United Associate Synod of the Secession Church.”"
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

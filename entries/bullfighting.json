@@ -1,0 +1,78 @@
+{
+  "key": "bullfighting",
+  "source_file": "CIDE.B",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Bullfighting",
+      "headword_raw": "Bull\"fight`ing",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Bullfighter",
+          "form_raw": "Bull\"fight`er",
+          "key": "bullfighter",
+          "pos": [
+            "n."
+          ],
+          "pr": "(<?/)"
+        }
+      ],
+      "entry_synonyms": [
+        "corrida"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a sport of great antiquity, in which men torment, and fight with, a bull or bulls in an arena, for public amusement, -- still popular in Spain, Portugal and Latin American. In the Spanish version a matador kills the bull with a sword after the bull has been weakened by wounds from small barbed rods, and after he has displayed courage and artistic skill in causing the bull to charge many times while he stands still or nearly still. In some versions the bull is not killed. Occasionally the matador is wounded or killed by the bull."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "bullfighting",
+      "headword_raw": "bullfighting",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "the activity at a bullfight."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

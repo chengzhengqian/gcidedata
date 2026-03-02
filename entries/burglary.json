@@ -1,0 +1,40 @@
+{
+  "key": "burglary",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Burglary",
+      "headword_raw": "Bur\"gla*ry",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Fr. Burglar; cf. LL. burglaria.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Law)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Breaking and entering the dwelling house of another, in the nighttime, with intent to commit a felony therein, whether the felonious purpose be accomplished or not."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ By statute law in some of the United States, burglary includes the breaking with felonious intent into a house by day as well as by night, and into other buildings than dwelling houses. Various degrees of the crime are established."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "key": "burdensome",
+  "source_file": "CIDE.B",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Burdensome",
+      "headword_raw": "Bur\"den*some",
+      "pr": "(<?/)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Burdensomely",
+          "form_raw": "Bur\"den*some*ly",
+          "key": "burdensomely",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Burdensomeness",
+          "form_raw": "Bur\"den*some*ness",
+          "key": "burdensomeness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Heavy",
+        "weighty",
+        "cumbersome",
+        "onerous",
+        "grievous",
+        "oppressive",
+        "troublesome"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Grievous to be borne; causing uneasiness or fatigue; oppressive."
+          ],
+          "quotes": [
+            "The debt immense of endless gratitude So burdensome."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

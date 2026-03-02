@@ -1,0 +1,79 @@
+{
+  "key": "auction",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Auction",
+      "headword_raw": "Auc\"tion",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. auctio an increasing, a public sale, where the price was called out, and the article to be sold was adjudged to the last increaser of the price, or the highest bidder, fr. L. augere, auctum, to increase. See Augment.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A public sale of property to the highest bidder, esp. by a person licensed and authorized for the purpose; a vendue."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The things sold by auction or put up to auction."
+          ],
+          "quotes": [
+            "Ask you why Phryne the whole auction buys ?"
+          ],
+          "notes": [
+            "☞ In the United States, the more prevalent expression has been “sales at auction,” that is, by an increase of bids (Lat. auctione). This latter form is preferable."
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Auction",
+      "headword_raw": "Auc\"tion",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To sell by auction."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

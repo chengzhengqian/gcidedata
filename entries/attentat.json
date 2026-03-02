@@ -1,0 +1,49 @@
+{
+  "key": "attentat",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Attentat",
+      "headword_raw": "At*ten\"tat",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. attentatum, pl. attentata, fr. attentare to attempt: cf. F. attentat criminal attempt. See Attempt.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "An attempt; an assault."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "A proceeding in a court of judicature, after an inhibition is decreed.",
+            "Any step wrongly innovated or attempted in a suit by an inferior judge."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

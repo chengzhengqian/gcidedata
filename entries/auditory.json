@@ -1,0 +1,77 @@
+{
+  "key": "auditory",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Auditory",
+      "headword_raw": "Au\"di*to*ry",
+      "pr": "(<?/)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. auditorius.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Anat.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to hearing, or to the sense or organs of hearing; as, the auditory nerve. See Ear."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Auditory",
+      "headword_raw": "Au\"di*to*ry",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. auditorium.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "An assembly of hearers; an audience."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "An auditorium."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "key": "atomisation",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "atomisation",
+      "headword_raw": "atomisation",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "separating something into fine particles."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "atomization",
+            "fragmentation"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "annihilation by reducing something to atoms."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "atomization"
+          ]
+        }
+      ]
+    }
+  ]
+}

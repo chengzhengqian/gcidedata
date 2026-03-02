@@ -1,0 +1,57 @@
+{
+  "key": "astrochemistry",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "astrochemistry",
+      "headword_raw": "astrochemistry",
+      "pr": "(<?/)",
+      "pos": [
+        "n.",
+        "a.",
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "astrochemical",
+          "form_raw": "as`tro*chem\"ic*al",
+          "key": "astrochemical",
+          "pos": [
+            "a."
+          ],
+          "pr": "(<?/)"
+        },
+        {
+          "form": "astrochemically",
+          "form_raw": "as`tro*chem\"ic*al*ly",
+          "key": "astrochemically",
+          "pos": [
+            "adv."
+          ],
+          "pr": "(<?/)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "the branch of science involving astronomy and chemistry which studies the chemical composition, chemical reactions, and evolution of matter in outer space."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

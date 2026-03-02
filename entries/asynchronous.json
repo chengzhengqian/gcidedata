@@ -1,0 +1,73 @@
+{
+  "key": "asynchronous",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Asynchronous",
+      "headword_raw": "A*syn\"chro*nous",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[Gr. <?/ not + synchronous.]",
+      "sources": [
+        "Webster 1913 Suppl.",
+        "WordNet 1.5",
+        "+PJC",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "nonsynchronous",
+        "unsynchronized",
+        "unsynchronous"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "2.",
+          "fields": [
+            "(Paleontology)"
+          ],
+          "defs": [
+            "occurring in different geologic times; -- of taxa/"
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "allochronic"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "chronologically misplaced; belonging to a different time or era"
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "anachronic",
+            "anachronous",
+            "anachronistic"
+          ]
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "occurring at different speeds in different computers connected by a data transmission link; -- said of methods data of transmission between computers. Opposite of synchronous."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

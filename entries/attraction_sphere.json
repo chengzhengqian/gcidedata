@@ -1,0 +1,49 @@
+{
+  "key": "attraction_sphere",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Attraction sphere",
+      "headword_raw": "At*trac\"tion sphere",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "The central mass of the aster in mitotic cell division; centrosphere.",
+            "the mass of archoplasm left by the aster in the resting cell."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Bot.)"
+          ],
+          "defs": [
+            "A small body situated on or near the nucleus in the cells of some of the lower plants, consisting of two centrospheres containing centrosomes. It exercises an important function in mitosis."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

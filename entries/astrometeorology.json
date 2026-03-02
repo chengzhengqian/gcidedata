@@ -1,0 +1,56 @@
+{
+  "key": "astrometeorology",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Astrometeorology",
+      "headword_raw": "As`tro*me`te*or*ol\"o*gy",
+      "pr": "(<?/)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Astro- + meteorology.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Astrometeorological",
+          "form_raw": "As`*tro*me`te*or`o*log\"ic*al",
+          "key": "astrometeorological",
+          "pos": [
+            "a."
+          ],
+          "pr": "(<?/)"
+        },
+        {
+          "form": "Astrometeorologist",
+          "form_raw": "As`tro*me`te*or*ol\"o*gist",
+          "key": "astrometeorologist",
+          "pos": [
+            "n."
+          ],
+          "pr": "(<?/)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The investigation of the relation between the sun, moon, and stars, and the weather."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

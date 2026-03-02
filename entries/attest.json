@@ -1,0 +1,93 @@
+{
+  "key": "attest",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Attest",
+      "headword_raw": "At\"test\"",
+      "pr": "(<?/)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. attestari; ad + testari to bear witness: cf. F. attester.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Attested; p. pr. & vb. n. Attesting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To bear witness to; to certify; to affirm to be true or genuine; as, to attest the truth of a writing, a copy of record."
+          ],
+          "quotes": [
+            "Facts . . . attested by particular pagan authors."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To give proof of; to manifest; as, the ruins of Palmyra attest its ancient magnificence."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To call to witness; to invoke."
+          ],
+          "quotes": [
+            "The sacred streams which Heaven's imperial state Attests in oaths, and fears to violate."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Attest",
+      "headword_raw": "At*test\"",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Witness; testimony; attestation."
+          ],
+          "quotes": [
+            "The attest of eyes and ears."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

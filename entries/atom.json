@@ -1,0 +1,95 @@
+{
+  "key": "atom",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Atom",
+      "headword_raw": "At\"om",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. atomus, Gr. <?/, uncut, indivisible; 'a priv. + <?/, verbal adj. of <?/ to cut: cf. F. atome. See Tome.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Physics)"
+          ],
+          "defs": [
+            "An ultimate indivisible particle of matter.",
+            "An ultimate particle of matter not necessarily indivisible; a molecule.",
+            "A constituent particle of matter, or a molecule supposed to be made up of subordinate particles."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ These three definitions correspond to different views of the nature of the ultimate particles of matter. In the case of the last two, the particles are more correctly called molecules."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "The smallest particle of matter that can enter into combination; one of the elementary constituents of a molecule."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Anything extremely small; a particle; a whit."
+          ],
+          "quotes": [
+            "There was not an atom of water."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Atom",
+      "headword_raw": "At\"om",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To reduce to atoms."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

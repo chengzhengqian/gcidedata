@@ -1,0 +1,38 @@
+{
+  "key": "asymptote",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Asymptote",
+      "headword_raw": "As\"ymp*tote",
+      "pr": "(?; 215)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. <?/ not falling together; 'a priv. + <?/ to fall together; <?/ with + <?/ to fall. Cf. Symptom.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Math.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A line which approaches nearer to some curve than assignable distance, but, though infinitely extended, would never meet it. Asymptotes may be straight lines or curves. A rectilinear asymptote may be conceived as a tangent to the curve at an infinite distance."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

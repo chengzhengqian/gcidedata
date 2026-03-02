@@ -1,0 +1,40 @@
+{
+  "key": "attestant",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Attestant",
+      "headword_raw": "At*tes\"tant",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "a person who attests to the genuineness of a document or signature by adding their own signature."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "witness"
+          ]
+        }
+      ]
+    }
+  ]
+}

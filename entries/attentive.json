@@ -1,0 +1,77 @@
+{
+  "key": "attentive",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Attentive",
+      "headword_raw": "At*ten\"tive",
+      "pr": "(t*tn\"tv)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Cf. F. attentif.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Attentively",
+          "form_raw": "At*ten\"tive*ly",
+          "key": "attentively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Attentiveness",
+          "form_raw": "At*ten\"tive*ness",
+          "key": "attentiveness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Heedful; intent; observant; regarding with care or attention."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Attentive is applied to the senses of hearing and seeing, as, an attentive ear or eye; to the application of the mind, as in contemplation; or to the application of the mind, in every possible sense, as when a person is attentive to the words, and to the manner and matter, of a speaker at the same time."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Heedful of the comfort of others; courteous."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Heedful",
+            "intent",
+            "observant",
+            "mindful",
+            "regardful",
+            "circumspect",
+            "watchful"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "key": "astrolabe",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Astrolabe",
+      "headword_raw": "As\"tro*labe",
+      "pr": "(s\"tr*lāb)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. astrolabie, astrilabe, OF. astrelabe, F. astrolabe, LL. astrolabium, fr. Gr. 'astrola`bon; 'a`stron star + <?/, <?/, to take.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Astron.)"
+          ],
+          "defs": [
+            "An instrument for observing or showing the positions of the stars. It is now disused."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Among the ancients, it was essentially the armillary sphere. A graduated circle with sights, for taking altitudes at sea, was called an astrolabe in the 18th century. It is now superseded by the quadrant and sextant."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A stereographic projection of the sphere on the plane of a great circle, as the equator, or a meridian; a planisphere."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

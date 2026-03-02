@@ -1,0 +1,134 @@
+{
+  "key": "augur",
+  "source_file": "CIDE.A",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Augur",
+      "headword_raw": "Au\"gur",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. Of uncertain origin: the first part of the word is perh. fr. L. avis bird, and the last syllable, gur, equiv. to the Skr. gar to call, akin to L. garrulus garrulous.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Rom. Antiq.)"
+          ],
+          "defs": [
+            "An official diviner who foretold events by the singing, chattering, flight, and feeding of birds, or by signs or omens derived from celestial phenomena, certain appearances of quadrupeds, or unusual occurrences."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "One who foretells events by omens; a soothsayer; a diviner; a prophet."
+          ],
+          "quotes": [
+            "Augur of ill, whose tongue was never found Without a priestly curse or boding sound."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Augur",
+      "headword_raw": "Au\"gur",
+      "pr": "(<?/)",
+      "pos": [
+        "v. i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Augured (<?/); p. pr. & vb. n. Auguring.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To conjecture from signs or omens; to prognosticate; to foreshow."
+          ],
+          "quotes": [
+            "My auguring mind assures the same success."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To anticipate, to foretell, or to indicate a favorable or an unfavorable issue; as, to augur well or ill."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Augur",
+      "headword_raw": "Au\"gur",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "predict",
+        "forebode",
+        "betoken",
+        "portend",
+        "presage",
+        "prognosticate",
+        "prophesy",
+        "forewarn"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To predict or foretell, as from signs or omens; to betoken; to presage; to infer."
+          ],
+          "quotes": [
+            "It seems to augur genius.",
+            "I augur everything from the approbation the proposal has met with."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

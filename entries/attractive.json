@@ -1,0 +1,100 @@
+{
+  "key": "attractive",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Attractive",
+      "headword_raw": "At*tract\"ive",
+      "pr": "(<?/)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Cf. F. attractif.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Attractively",
+          "form_raw": "At*tract\"ive*ly",
+          "key": "attractively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Attractiveness",
+          "form_raw": "At*tract\"ive*ness",
+          "key": "attractiveness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Having the power or quality of attracting or drawing; as, the attractive force of bodies."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Attracting or drawing by moral influence or pleasurable emotion; alluring; inviting; pleasing."
+          ],
+          "quotes": [
+            "Flowers of a livid yellow, or fleshy color, are most attractive to flies."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Attractive",
+      "headword_raw": "At*tract\"ive",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "That which attracts or draws; an attraction; an allurement."
+          ],
+          "quotes": [
+            "Speaks nothing but attractives and invitation."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

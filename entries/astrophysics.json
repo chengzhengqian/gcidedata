@@ -1,0 +1,71 @@
+{
+  "key": "astrophysics",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "astrophysics",
+      "headword_raw": "astrophysics",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "the concerned with the physical and chemical properties of celestial bodies."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Astrophysics",
+      "headword_raw": "As`tro*phys\"ics",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Astro- + physics.]",
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl.",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Astron.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The science treating of the physical characteristics of the stars and other heavenly bodies, their chemical constitution, light, heat, atmospheres, etc. It is a branch of astronomy."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Its observations were traditionally made with the spectroscope, bolometer, etc., usually in connection with the telescope. In modern times, radiotelescopes, infrared telescopes, X-ray and gamma ray detectors and neutrino detection equipment located deep underground are all put into service to observe and test theories about astronomical phenomena."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

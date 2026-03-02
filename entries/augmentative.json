@@ -1,0 +1,78 @@
+{
+  "key": "augmentative",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Augmentative",
+      "headword_raw": "Aug*ment\"a*tive",
+      "pr": "(<?/)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[Cf. F. augmentatif.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Augmentatively",
+          "form_raw": "Aug*ment\"a*tive*ly",
+          "key": "augmentatively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Having the quality or power of augmenting; expressing augmentation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Augmentative",
+      "headword_raw": "Aug*ment\"a*tive",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Gram.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A word which expresses with augmented force the idea or the properties of the term from which it is derived; as, dullard, one very dull. Opposed to diminutive."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

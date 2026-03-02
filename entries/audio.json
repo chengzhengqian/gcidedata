@@ -1,0 +1,50 @@
+{
+  "key": "audio",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "audio",
+      "headword_raw": "audio",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "sound"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "an audible acoustic wave frequency."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "audio frequency"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "the sound elements of television."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

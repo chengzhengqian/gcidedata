@@ -1,0 +1,108 @@
+{
+  "key": "attribute",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Attribute",
+      "headword_raw": "At*trib\"ute",
+      "pr": "(t\"tr*būt)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. attributus, p. p. of attribuere; ad + tribuere to bestow. See Tribute.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Attributed; p. pr. & vb. n. Attributing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "See Ascribe"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To ascribe; to consider (something) as due or appropriate (to); to refer, as an effect to a cause; to impute; to assign; to consider as belonging (to)."
+          ],
+          "quotes": [
+            "We attribute nothing to God that hath any repugnancy or contradiction in it.",
+            "The merit of service is seldom attributed to the true and exact performer."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Attribute",
+      "headword_raw": "At\"tri*bute",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. attributum.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "That which is attributed; a quality which is considered as belonging to, or inherent in, a person or thing; an essential or necessary property or characteristic."
+          ],
+          "quotes": [
+            "But mercy is above this sceptered away; . . . It is an attribute to God himself."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Reputation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Paint. & Sculp.)"
+          ],
+          "defs": [
+            "A conventional symbol of office, character, or identity, added to any particular figure; as, a club is the attribute of Hercules."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Gram.)"
+          ],
+          "defs": [
+            "Quality, etc., denoted by an attributive; an attributive adjunct or adjective."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

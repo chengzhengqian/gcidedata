@@ -1,0 +1,50 @@
+{
+  "key": "caste",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Caste",
+      "headword_raw": "Caste",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Pg. casta race, lineage, fr. L. castus pure, chaste: cf. F. caste, of same origin.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One of the hereditary classes into which the Hindu are divided according to the laws of Brahmanism."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The members of the same caste are theoretically of equal rank, and same profession or occupation, and may not eat or intermarry with those not of their own caste. The original are four, viz., the Brahmans, or sacerdotal order; the Kshatriyas, or soldiers and rulers; the Vaisyas, or husbandmen and merchants; and the Sudras, or laborers and mechanics. Men of no caste are Pariahs, outcasts. Numerous mixed classes, or castes, have sprung up in the progress of time."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A separate and fixed order or class of persons in society who chiefly hold intercourse among themselves."
+          ],
+          "quotes": [
+            "The tinkers then formed an hereditary caste."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

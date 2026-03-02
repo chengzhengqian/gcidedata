@@ -1,0 +1,51 @@
+{
+  "key": "cased",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "cased",
+      "headword_raw": "cased",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "covered or protected with or as if with a case; as, knights cased in steel."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "encased",
+            "incased"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "same as bound; -- of books."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "covered"
+          ]
+        }
+      ]
+    }
+  ]
+}

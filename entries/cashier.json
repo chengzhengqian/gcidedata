@@ -1,0 +1,84 @@
+{
+  "key": "cashier",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Cashier",
+      "headword_raw": "Cash*ier\"",
+      "pr": "(ksh*ēr\")",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. caissier, fr. caisse. See Cash.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "One who has charge of money; a cash keeper; the officer who has charge of the payments and receipts (moneys, checks, notes), of a bank or a mercantile company."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Cashier",
+      "headword_raw": "Cash*ier\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[Earlier cash, fr. F. casser to break, annul, cashier, fr. L. cassare, equiv. to cassum reddere, to annul; cf. G. cassiren. Cf. Quash to annul, Cass.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Cashiered (?); p. pr. & vb. n. Cashiering.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To dismiss or discard; to discharge; to dismiss with ignominy from military service or from an office or place of trust."
+          ],
+          "quotes": [
+            "They have cashiered several of their followers.",
+            "He had insolence to cashier the captain of the lord lieutenant's own body guard."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To put away or reject; to disregard."
+          ],
+          "quotes": [
+            "Connections formed for interest, and endeared",
+            "By selfish views, [are] censured and cashiered.",
+            "They absolutely cashier the literal express sense of the words."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "key": "carillon",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Carillon",
+      "headword_raw": "Car\"il*lon",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. carillon a chime of bells, originally consisting of four bells, as if fr.. (assumed) L. quadrilio, fr. quatuer four.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Mus.)"
+          ],
+          "defs": [
+            "A chime of bells diatonically tuned, played by clockwork or by finger keys."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A tune adapted to be played by musical bells."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

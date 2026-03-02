@@ -1,0 +1,138 @@
+{
+  "key": "cash",
+  "source_file": "CIDE.C",
+  "record_count": 4,
+  "records": [
+    {
+      "headword": "Cash",
+      "headword_raw": "Cash",
+      "pr": "(ksh)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. caisse case, box, cash box, cash. See Case a box.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "2.",
+          "fields": [
+            "(Com.)",
+            "(Bookkeeping)"
+          ],
+          "defs": [
+            "Ready money; especially, coin or specie; but also applied to bank notes, drafts, bonds, or any paper easily convertible into money",
+            "Immediate or prompt payment in current funds; as, to sell goods for cash; to make a reduction in price for cash."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Money",
+            "coin",
+            "specie",
+            "currency",
+            "capital"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Cash",
+      "headword_raw": "Cash",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Cashed (?); p. pr. & vb. n. Casing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To pay, or to receive, cash for; to exchange for money; as, cash a note or an order."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Cash",
+      "headword_raw": "Cash",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": "[See Cashier.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To disband."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Cash",
+      "headword_raw": "Cash",
+      "pr": null,
+      "pos": [
+        "n. sing. & pl."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A Chinese coin."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ In 1913 the cash (Chinese tsien) was the only current coin made by the chinese government. It is a thin circular disk of a very base alloy of copper, with a square hole in the center. 1,000 to 1,400 cash were equivalent to a dollar."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

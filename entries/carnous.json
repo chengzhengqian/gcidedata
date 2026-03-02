@@ -1,0 +1,50 @@
+{
+  "key": "carnous",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Carnous",
+      "headword_raw": "Car\"*nous",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. carnosus, fr. caro, carnis, flesh: cf. OF. carneux, F. charneux.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to flesh; fleshy."
+          ],
+          "quotes": [
+            "A distinct carnose muscle."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Bot.)"
+          ],
+          "defs": [
+            "Of a fleshy consistence; -- applied to succulent leaves, stems, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

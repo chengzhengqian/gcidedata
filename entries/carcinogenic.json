@@ -1,0 +1,48 @@
+{
+  "key": "carcinogenic",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "carcinogenic",
+      "headword_raw": "car`cin*o*gen\"ic",
+      "pr": "(kär`sn**jn\"k)",
+      "pos": [
+        "adj.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "carcinogenicity",
+          "form_raw": "car`cin*o*gen*ic\"i*ty",
+          "key": "carcinogenicity",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Causing or tending to cause cancer; as, the carcinogenic action of certain chemicals or of ionizing radiation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

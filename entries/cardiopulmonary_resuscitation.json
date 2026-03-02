@@ -1,0 +1,36 @@
+{
+  "key": "cardiopulmonary_resuscitation",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "cardiopulmonary resuscitation",
+      "headword_raw": "cardiopulmonary resuscitation",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An emergency procedure to revive heart and lung function in persons whose heart has apparently stopped beating, involving forced respiration, periodic pressure on the heart by pushing on the chest, and sometimes electrical or mechanical equipment. It is often referred to by the acronym CPR."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

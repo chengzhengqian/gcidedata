@@ -1,0 +1,36 @@
+{
+  "key": "carnots_cycle",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Carnots cycle",
+      "headword_raw": "Car`not's\" cy\"cle",
+      "pr": "(kär`nōz\")",
+      "pos": [],
+      "ety": "[After N. L. S. Carnot, French physicist.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Thermodynamics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An ideal heat-engine cycle in which the working fluid goes through the following four successive operations: (1) Isothermal expansion to a desired point; (2) adiabatic expansion to a desired point; (3) isothermal compression to such a point that (4) adiabatic compression brings it back to its initial state."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

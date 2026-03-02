@@ -1,0 +1,38 @@
+{
+  "key": "carboxylic_acid",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "carboxylic acid",
+      "headword_raw": "carboxylic acid",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "an organic compound whose acidity is due to the presence of a carboxyl gorup. Monocarboxylic acids (such as acetic acid or butyric acid) have one carboxyl group, dicarboxylic acids (such as oxalic acid or malonic acid) have two, tricarboxylic acids (such as citric acid) have three."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

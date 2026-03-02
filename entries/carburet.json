@@ -1,0 +1,71 @@
+{
+  "key": "carburet",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Carburet",
+      "headword_raw": "Car\"bu*ret",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[From Carbon.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A carbide. See Carbide"
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Carburet",
+      "headword_raw": "Car\"bu*ret",
+      "pr": null,
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Carbureted or Carburetted (<?/); p. pr. & vb. n. Carbureting or Carburetting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To combine or to impregnate with carbon, as by passing through or over a liquid hydrocarbon; to carbonize or carburize."
+          ],
+          "quotes": [
+            "By carbureting the gas you may use poorer coal."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

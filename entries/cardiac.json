@@ -1,0 +1,83 @@
+{
+  "key": "cardiac",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Cardiac",
+      "headword_raw": "Car\"di*ac",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. cardiacus, Gr. <?/, fr. <?/ heart: cf. F. cardiaque.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Anat.)"
+          ],
+          "defs": [
+            "Pertaining to, resembling, or hear the heart; as, the cardiac arteries; the cardiac, or left, end of the stomach."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)",
+            "(Med.)",
+            "(Mach.)"
+          ],
+          "defs": [
+            "Exciting action in the heart, through the medium of the stomach; cordial; stimulant."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Cardiac",
+      "headword_raw": "Car\"di*ac",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A medicine which excites action in the stomach; a cardial."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

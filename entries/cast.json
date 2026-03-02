@@ -1,0 +1,607 @@
+{
+  "key": "cast",
+  "source_file": "CIDE.C",
+  "record_count": 4,
+  "records": [
+    {
+      "headword": "Cast",
+      "headword_raw": "Cast",
+      "pr": "(kst)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[Cf. Dan. kaste, Icel. & Sw. kasta; perh. akin to L. gerere to bear, carry. E. jest.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Cast; p. pr. & vb. n. Casting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To send or drive by force; to throw; to fling; to hurl; to impel."
+          ],
+          "quotes": [
+            "Uzziah prepared . . . slings to cast stones.",
+            "Cast thy garment about thee, and follow me.",
+            "We must be cast upon a certain island."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To direct or turn, as the eyes."
+          ],
+          "quotes": [
+            "How earnestly he cast his eyes upon me!"
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To drop; to deposit; as, to cast a ballot."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "To throw down, as in wrestling."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "To throw up, as a mound, or rampart."
+          ],
+          "quotes": [
+            "Thine enemies shall cast a trench [bank] about thee."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [],
+          "defs": [
+            "To throw off; to eject; to shed; to lose."
+          ],
+          "quotes": [
+            "His filth within being cast.",
+            "Neither shall your vine cast her fruit.",
+            "The creatures that cast the skin are the snake, the viper, etc."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "7.",
+          "fields": [],
+          "defs": [
+            "To bring forth prematurely; to slink."
+          ],
+          "quotes": [
+            "Thy she-goats have not cast their young."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "8.",
+          "fields": [],
+          "defs": [
+            "To throw out or emit; to exhale."
+          ],
+          "quotes": [
+            "This . . . casts a sulphureous smell."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "9.",
+          "fields": [],
+          "defs": [
+            "To cause to fall; to shed; to reflect; to throw; as, to cast a ray upon a screen; to cast light upon a subject."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "10.",
+          "fields": [],
+          "defs": [
+            "To impose; to bestow; to rest."
+          ],
+          "quotes": [
+            "The government I cast upon my brother.",
+            "Cast thy burden upon the Lord."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "11.",
+          "fields": [],
+          "defs": [
+            "To dismiss; to discard; to cashier."
+          ],
+          "quotes": [
+            "The state can not with safety cast him."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "12.",
+          "fields": [],
+          "defs": [
+            "To compute; to reckon; to calculate; as, to cast a horoscope."
+          ],
+          "quotes": [
+            "You cast the event of war, my noble lord."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "13.",
+          "fields": [],
+          "defs": [
+            "To contrive; to plan."
+          ],
+          "quotes": [
+            "The cloister . . . had, I doubt not, been cast for [an orange-house]."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "14.",
+          "fields": [],
+          "defs": [
+            "To defeat in a lawsuit; to decide against; to convict; as, to be cast in damages."
+          ],
+          "quotes": [
+            "She was cast to be hanged.",
+            "Were the case referred to any competent judge, they would inevitably be cast."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "15.",
+          "fields": [],
+          "defs": [
+            "To turn (the balance or scale); to overbalance; hence, to make preponderate; to decide; as, a casting voice."
+          ],
+          "quotes": [
+            "How much interest casts the balance in cases dubious!"
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "16.",
+          "fields": [],
+          "defs": [
+            "To form into a particular shape, by pouring liquid metal or other material into a mold; to fashion; to found; as, to cast bells, stoves, bullets."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "17.",
+          "fields": [
+            "(Print.)"
+          ],
+          "defs": [
+            "To stereotype or electrotype."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "18.",
+          "fields": [
+            "(Naut.)",
+            "(Hunting)",
+            "(Naut.)",
+            "(Print.)",
+            "(Naut.)",
+            "(Med.)"
+          ],
+          "defs": [
+            "To fix, distribute, or allot, as the parts of a play among actors; also to assign (an actor) for a part."
+          ],
+          "quotes": [
+            "Our parts in the other world will be new cast."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Cast",
+      "headword_raw": "Cast",
+      "pr": "(kst)",
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To throw, as a line in angling, esp, with a fly hook."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Naut.)"
+          ],
+          "defs": [
+            "To turn the head of a vessel around from the wind in getting under weigh."
+          ],
+          "quotes": [
+            "Weigh anchor, cast to starboard."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To consider; to turn or revolve in the mind; to plan; as, to cast about for reasons."
+          ],
+          "quotes": [
+            "She . . . cast in her mind what manner of salution this should be."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "To calculate; to compute."
+          ],
+          "quotes": [
+            "Who would cast and balance at a desk."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "To receive form or shape in a mold."
+          ],
+          "quotes": [
+            "It will not run thin, so as to cast and mold."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [],
+          "defs": [
+            "To warp; to become twisted out of shape."
+          ],
+          "quotes": [
+            "Stuff is said to cast or warp when . . . it alters its flatness or straightness."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "7.",
+          "fields": [],
+          "defs": [
+            "To vomit."
+          ],
+          "quotes": [
+            "These verses . . . make me ready to cast."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Cast",
+      "headword_raw": "Cast",
+      "pr": null,
+      "pos": [
+        "3d pers. pres."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "3d pers. pres. of Cast, for Casteth."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Cast",
+      "headword_raw": "Cast",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. Icel., Dan., & Sw. kast.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of casting or throwing; a throw."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The thing thrown."
+          ],
+          "quotes": [
+            "A cast of dreadful dust."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "The distance to which a thing is or can be thrown."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "A throw of dice; hence, a chance or venture."
+          ],
+          "quotes": [
+            "An even cast whether the army should march this way or that way.",
+            "I have set my life upon a cast, And I will stand the hazard of the die."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "That which is throw out or off, shed, or ejected; as, the skin of an insect, the refuse from a hawk's stomach, the excrement of a earthworm."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [],
+          "defs": [
+            "The act of casting in a mold."
+          ],
+          "quotes": [
+            "And why such daily cast of brazen cannon."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "7.",
+          "fields": [],
+          "defs": [
+            "An impression or mold, taken from a thing or person; amold; a pattern."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "8.",
+          "fields": [],
+          "defs": [
+            "That which is formed in a mild; esp. a reproduction or copy, as of a work of art, in bronze or plaster, etc.; a casting."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "9.",
+          "fields": [],
+          "defs": [
+            "Form; appearance; mien; air; style; as, a peculiar cast of countenance."
+          ],
+          "quotes": [
+            "An heroic poem, but in another cast and figure.",
+            "And thus the native hue of resolution Is sicklied o'er with the pale cast of thought."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "10.",
+          "fields": [],
+          "defs": [
+            "A tendency to any color; a tinge; a shade."
+          ],
+          "quotes": [
+            "Gray with a cast of green."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "11.",
+          "fields": [],
+          "defs": [
+            "A chance, opportunity, privilege, or advantage; specifically, an opportunity of riding; a lift."
+          ],
+          "quotes": [
+            "We bargained with the driver to give us a cast to the next stage.",
+            "If we had the cast o' a cart to bring it."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "12.",
+          "fields": [],
+          "defs": [
+            "The assignment of parts in a play to the actors."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "13.",
+          "fields": [
+            "(Falconary)"
+          ],
+          "defs": [
+            "A flight or a couple or set of hawks let go at one time from the hand."
+          ],
+          "quotes": [
+            "As when a cast of falcons make their flight."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "14.",
+          "fields": [],
+          "defs": [
+            "A stoke, touch, or trick."
+          ],
+          "quotes": [
+            "This was a cast of Wood's politics; for his information was wholly false."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "15.",
+          "fields": [],
+          "defs": [
+            "A motion or turn, as of the eye; direction; look; glance; squint."
+          ],
+          "quotes": [
+            "The cast of the eye is a gesture of aversion.",
+            "And let you see with one cast of an eye.",
+            "This freakish, elvish cast came into the child's eye."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "16.",
+          "fields": [],
+          "defs": [
+            "A tube or funnel for conveying metal into a mold."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "17.",
+          "fields": [],
+          "defs": [
+            "Four; that is, as many as are thrown into a vessel at once in counting herrings, etc; a warp."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "18.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "Contrivance; plot, design."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

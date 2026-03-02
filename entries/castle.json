@@ -1,0 +1,109 @@
+{
+  "key": "castle",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Castle",
+      "headword_raw": "Cas\"tle",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[AS. castel, fr. L. castellum, dim. of castrum a fortified place, castle.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A fortified residence, especially that of a prince or nobleman; a fortress."
+          ],
+          "quotes": [
+            "The house of every one is to him castle and fortress, as well for his defense againts injury and violence, as for his repose.",
+            "Our castle's strength Will laugh a siege to scorn."
+          ],
+          "notes": [
+            "☞ Originally the mediæval castle was a single strong tower or keep, with a palisaded inclosure around it and inferior buidings, such as stables and the like, and surrounded by a moat; then such a keep or donjon, with courtyards or baileys and accessory buildings of greater elaboration a great hall and a chapel, all surrounded by defensive walls and a moat, with a drawbridge, etc. Afterwards the name was retained by large dwellings that had formerly been fortresses, or by those which replaced ancient fortresses."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Any strong, imposing, and stately mansion."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A small tower, as on a ship, or an elephant's back."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "A piece, made to represent a castle, used in the game of chess; a rook."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Fortress",
+            "fortification",
+            "citadel",
+            "stronghold. See Fortress"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Castle",
+      "headword_raw": "Cas\"tle",
+      "pr": "(?)",
+      "pos": [
+        "v. i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Castled (<?/); p. pr. & vb. n. Castling (?).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chess)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To move the castle to the square next to king, and then the king around the castle to the square next beyond it, for the purpose of covering the king."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

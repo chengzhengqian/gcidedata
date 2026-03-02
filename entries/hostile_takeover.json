@@ -1,0 +1,42 @@
+{
+  "key": "hostile_takeover",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "hostile takeover",
+      "headword_raw": "hostile takeover",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "hostile buyout"
+      ],
+      "entry_fields": [
+        "(Finance)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "the purchase of a controlling interest in a publicly-traded company against the wishes of the current management."
+          ],
+          "quotes": [],
+          "notes": [
+            "A person who is the main principal in performing such a buyout is called a corporate raider."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

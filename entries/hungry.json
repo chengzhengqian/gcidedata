@@ -1,0 +1,61 @@
+{
+  "key": "hungry",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Hungry",
+      "headword_raw": "Hun\"gry",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "Compar.",
+        "superl."
+      ],
+      "ety": "[AS. hungrid. See Hunger.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Feeling hunger; having a keen appetite; feeling uneasiness or distress from want of food; hence, having an eager desire."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Showing hunger or a craving desire; voracious."
+          ],
+          "quotes": [
+            "The cruel, hungry foam.",
+            "Cassius has a lean and hungry look."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Not rich or fertile; poor; barren; starved; as, a hungry soil."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

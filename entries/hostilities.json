@@ -1,0 +1,55 @@
+{
+  "key": "hostilities",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "hostilities",
+      "headword_raw": "hostilities",
+      "pr": null,
+      "pos": [
+        "n. pl."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a legal state created by a declaration of war and ended by official declaration, during which the international rules of war apply."
+          ],
+          "quotes": [
+            "We have showed ourselves generous adversaries . . . and have carried on even our hostilities with humanity."
+          ],
+          "notes": [],
+          "synonyms": [
+            "war",
+            "state of war",
+            "hot war"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "acts of overt warfare."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "belligerency"
+          ]
+        }
+      ]
+    }
+  ]
+}

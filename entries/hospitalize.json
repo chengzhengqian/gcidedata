@@ -1,0 +1,51 @@
+{
+  "key": "hospitalize",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Hospitalize",
+      "headword_raw": "Hos\"pi*tal*ize",
+      "pr": "(?)",
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "To render (a building) unfit for habitation, by long continued use as a hospital."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To place (a person) in a hospital in order to receive medical treatment, observation, or for rest."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "hospitalise"
+          ]
+        }
+      ]
+    }
+  ]
+}

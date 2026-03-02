@@ -1,0 +1,49 @@
+{
+  "key": "humidity",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Humidity",
+      "headword_raw": "Hu*mid\"i*ty",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. humidit.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Moisture; dampness; a moderate degree of wetness, which is perceptible to the eye or touch; -- used especially of the atmosphere, or of anything which has absorbed moisture from the atmosphere, as clothing."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The content of water vapor in the air, expressed as a percent of the maximum amount of water vapor that the air can hold at the given temperature; also called relative humidity. The capacity of the air to hold moisture increases with temperature, so if the temperature changes without changing the absolute content of the atmospheric moisture, the relative humidity will also change."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ In hygrometrical reports (as of the United States Signal Service) complete saturation of the air by water vapor is designated by a relative humidity of 100, and its partial saturation by smaller numbers in direct proportion to the actual content of water vapor."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

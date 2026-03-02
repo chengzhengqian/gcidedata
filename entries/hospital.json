@@ -1,0 +1,75 @@
+{
+  "key": "hospital",
+  "source_file": "CIDE.H",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Hospital",
+      "headword_raw": "Hos\"pi*tal",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OF. hospital, ospital, F. hpital, LL. hospitale (or perh. E. hospital is directly from the Late Latin), from L. hospitalis relating to a guest, hospitalia apartments for guests, fr. hospes guest. See Host a landlord, and cf. Hostel, Hotel, Spital.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A place for shelter or entertainment; an inn."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A building in which the sick, injured, or infirm are received and treated; a public or private institution founded for reception and cure, or for the refuge, of persons diseased in body or mind, or disabled, infirm, or dependent, and in which they are treated either at their own expense, or more often by charity in whole or in part; a tent, building, or other place where the sick or wounded of an army cared for."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Hospital",
+      "headword_raw": "Hos\"pi*tal",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. hospitalis: cf. OF. hospital.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Hospitable."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

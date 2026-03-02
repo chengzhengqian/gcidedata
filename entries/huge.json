@@ -1,0 +1,68 @@
+{
+  "key": "huge",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Huge",
+      "headword_raw": "Huge",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "Compar.",
+        "superl.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[OE. huge, hoge, OF. ahuge, ahoge.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Hugely",
+          "form_raw": "Huge\"ly",
+          "key": "hugely",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Hugeness",
+          "form_raw": "Huge\"ness",
+          "key": "hugeness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Enormous",
+        "gigantic",
+        "colossal",
+        "immense",
+        "prodigious",
+        "vast"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Very large; enormous; immense; excessive; -- used esp. of material bulk, but often of qualities, extent, etc.; as, a huge ox; a huge space; a huge difference."
+          ],
+          "quotes": [
+            "Doth it not flow as hugely as the sea."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

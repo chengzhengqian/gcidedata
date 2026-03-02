@@ -1,0 +1,238 @@
+{
+  "key": "hunt",
+  "source_file": "CIDE.H",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Hunt",
+      "headword_raw": "Hunt",
+      "pr": "(hnt)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[AS. huntian to hunt; cf. hentan to follow, pursue, Goth. hin<?/an (in comp.) to seize. √36. Cf. Hent.]",
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl."
+      ],
+      "morph": "[imp. & p. p. Hunted; p. pr. & vb. n. Hunting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To search for or follow after, as game or wild animals; to chase; to pursue for the purpose of catching or killing; to follow with dogs or guns for sport or exercise; as, to hunt a deer."
+          ],
+          "quotes": [
+            "Like a dog, he hunts in dreams."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To search diligently after; to seek; to pursue; to follow; -- often with out or up; as, to hunt up the facts; to hunt out evidence."
+          ],
+          "quotes": [
+            "Evil shall hunt the violent man to overthrow him."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To drive; to chase; -- with down, from, away, etc.; as, to hunt down a criminal; he was hunted from the parish."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "To use or manage in the chase, as hounds."
+          ],
+          "quotes": [
+            "He hunts a pack of dogs."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "To use or traverse in pursuit of game; as, he hunts the woods, or the country."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [
+            "(Change Ringing)"
+          ],
+          "defs": [
+            "To move or shift the order of (a bell) in a regular course of changes."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Hunt",
+      "headword_raw": "Hunt",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To follow the chase; to go out in pursuit of game; to course with hounds."
+          ],
+          "quotes": [
+            "Esau went to the field to hunt for venison."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To seek; to pursue; to search; -- with for or after."
+          ],
+          "quotes": [
+            "He after honor hunts, I after love."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Mach.)"
+          ],
+          "defs": [
+            "To be in a state of instability of movement or forced oscillation, as a governor which has a large movement of the balls for small change of load, an arc-lamp clutch mechanism which moves rapidly up and down with variations of current, or the like; also, to seesaw, as a pair of alternators working in parallel."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Change Ringing)"
+          ],
+          "defs": [
+            "To shift up and down in order regularly."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Hunt",
+      "headword_raw": "Hunt",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act or practice of chasing wild animals; chase; pursuit; search."
+          ],
+          "quotes": [
+            "The hunt is up; the morn is bright and gray."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The game secured in the hunt."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A pack of hounds."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "An association of huntsmen."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "A district of country hunted over."
+          ],
+          "quotes": [
+            "Every landowner within the hunt."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

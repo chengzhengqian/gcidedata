@@ -1,0 +1,69 @@
+{
+  "key": "hourly",
+  "source_file": "CIDE.H",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Hourly",
+      "headword_raw": "Hour\"ly",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Happening or done every hour; occurring hour by hour; frequent; often repeated; renewed hour by hour; continual."
+          ],
+          "quotes": [
+            "In hourly expectation of a martyrdom."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Hourly",
+      "headword_raw": "Hour\"ly",
+      "pr": null,
+      "pos": [
+        "adv."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Every hour; frequently; continually."
+          ],
+          "quotes": [
+            "Great was their strife, which hourly was renewed."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

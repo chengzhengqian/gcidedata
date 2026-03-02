@@ -1,0 +1,82 @@
+{
+  "key": "hurting",
+  "source_file": "CIDE.H",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "hurting",
+      "headword_raw": "hurting",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "pain"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a feeling of pain."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "hurting",
+      "headword_raw": "hurting",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "aching when touched."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "sensitive",
+            "sore",
+            "tender"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "In distress; experiencing difficulty; as, with the dollar exchange rate so high, companies dependent on exports are really hurting."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

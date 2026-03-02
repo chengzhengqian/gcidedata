@@ -1,0 +1,88 @@
+{
+  "key": "humane",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Humane",
+      "headword_raw": "Hu*mane\"",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. humanus: cf. F. humain. See Human.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Humanely",
+          "form_raw": "Hu*mane\"ly",
+          "key": "humanely",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Humaneness",
+          "form_raw": "Hu*mane\"ness",
+          "key": "humaneness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Pertaining to man; human."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Having the feelings and inclinations creditable to man; having a disposition to treat other human beings or animals with kindness; kind; benevolent."
+          ],
+          "quotes": [
+            "Of an exceeding courteous and humane inclination."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Humanizing; exalting; tending to refine."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Kind",
+            "sympathizing",
+            "benevolent",
+            "mild",
+            "compassionate",
+            "gentle",
+            "tender",
+            "merciful"
+          ]
+        }
+      ]
+    }
+  ]
+}

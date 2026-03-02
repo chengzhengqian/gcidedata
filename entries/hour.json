@@ -1,0 +1,88 @@
+{
+  "key": "hour",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Hour",
+      "headword_raw": "Hour",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. hour, our, hore, ure, OF. hore, ore, ure, F. heure, L. hora, fr. Gr. <?/, orig., a definite space of time, fixed by natural laws; hence, a season, the time of the day, an hour. See Year, and cf. Horologe, Horoscope.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The twenty-fourth part of a day; sixty minutes."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The time of the day, as expressed in hours and minutes, and indicated by a timepiece; as, what is the hour? At what hour shall we meet?"
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Fixed or appointed time; conjuncture; a particular time or occasion; as, the hour of greatest peril; the man for the hour."
+          ],
+          "quotes": [
+            "Woman, . . . mine hour is not yet come.",
+            "This is your hour, and the power of darkness."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(R. C. Ch.)"
+          ],
+          "defs": [
+            "Certain prayers to be repeated at stated times of the day, as matins and vespers."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Astron.)",
+            "(Astron.)",
+            "(Astron.)",
+            "(Dialing)"
+          ],
+          "defs": [
+            "A measure of distance traveled."
+          ],
+          "quotes": [
+            "Vilvoorden, three hours from Brussels."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "key": "hurtless",
+  "source_file": "CIDE.H",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Hurtless",
+      "headword_raw": "Hurt\"less",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Hurtlessly",
+          "form_raw": "Hurt\"less*ly",
+          "key": "hurtlessly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Hurtlessness",
+          "form_raw": "Hurt\"less*ness",
+          "key": "hurtlessness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Doing no injury; harmless; also, unhurt; without injury or harm."
+          ],
+          "quotes": [
+            "Gentle dame so hurtless and so true."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

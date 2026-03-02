@@ -1,0 +1,49 @@
+{
+  "key": "under-age",
+  "source_file": "CIDE.U",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Under-age",
+      "headword_raw": "Un\"der-age`",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC",
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Not having arrived at adult age; hence, incapable legally of performing certain acts restricted to adults."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Not having arrived at adult age, or at years of discretion; hence, raw; green; immature; boyish; childish."
+          ],
+          "quotes": [
+            "I myself have loved a lady, and pursued her with a great deal of under-age protestation."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

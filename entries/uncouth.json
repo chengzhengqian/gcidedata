@@ -1,0 +1,86 @@
+{
+  "key": "uncouth",
+  "source_file": "CIDE.U",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Uncouth",
+      "headword_raw": "Un*couth\"",
+      "pr": "(n*kth\")",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[OE. uncouth, AS. uncūð unknown, strange: un- (see Un- not) + cūð known, p. p. of cunnan to know. See Can to be able, and cf. Unco, Unked.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Uncouthly",
+          "form_raw": "Un*couth\"ly",
+          "key": "uncouthly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Uncouthness",
+          "form_raw": "Un*couth\"ness",
+          "key": "uncouthness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Unknown."
+          ],
+          "quotes": [
+            "To leave the good that I had in hand, In hope of better that was uncouth."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Uncommon; rare; exquisite; elegant."
+          ],
+          "quotes": [
+            "Harness . . . so uncouth and so rich."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Unfamiliar; strange; hence, mysterious; dreadful; also, odd; awkward; boorish; as, uncouth manners."
+          ],
+          "quotes": [
+            "I am surprised with an uncouth fear.",
+            "Thus sang the uncouth swain."
+          ],
+          "notes": [],
+          "synonyms": [
+            "See Awkward"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "key": "cloister",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Cloister",
+      "headword_raw": "Clois\"ter",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "v. t."
+      ],
+      "ety": "[OF. cloistre, F. clotre, L. claustrum, pl. claustra, bar, bolt, bounds, fr. claudere, clausum, to close. See Close, v. t., and cf. Claustral.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "Cloister and convent are generic terms, and denote a place of seclusion from the world for persons who devote their lives to religious purposes. They differ is that the distinctive idea of cloister is that of seclusion from the world, that of convent, community of living. Both terms denote houses for recluses of either sex. A cloister or convent for monks is called a monastery; for nuns, a nunnery. An abbey is a convent or monastic institution governed by an abbot or an abbess; a priory is one governed by a prior or a prioress, and is usually affiliated to an abbey."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "An inclosed place."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A covered passage or ambulatory on one side of a court;",
+            "the series of such passages on the different sides of any court, esp. that of a monastery or a college."
+          ],
+          "quotes": [
+            "But let my due feet never fail To walk the studious cloister's pale."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Arch.)"
+          ],
+          "defs": [
+            "A monastic establishment; a place for retirement from the world for religious duties."
+          ],
+          "quotes": [
+            "Fitter for a cloister than a crown."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Cloister",
+            "Monastery",
+            "Nunnery",
+            "Convent",
+            "Abbey",
+            "Priory"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Cloister",
+      "headword_raw": "Clois\"ter",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Cloistered (?); p. pr. & vb. n. Cloistering.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To confine in, or as in, a cloister; to seclude from the world; to immure."
+          ],
+          "quotes": [
+            "None among them are thought worthy to be styled religious persons but those that cloister themselves up in a monastery."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

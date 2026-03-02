@@ -1,0 +1,59 @@
+{
+  "key": "cloudless",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Cloudless",
+      "headword_raw": "Cloud\"less",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Cloudlessly",
+          "form_raw": "Cloud\"less*ly",
+          "key": "cloudlessly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Cloudlessness",
+          "form_raw": "Cloud\"less*ness",
+          "key": "cloudlessness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Without a cloud; clear; bright."
+          ],
+          "quotes": [
+            "A cloudless winter sky."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "key": "cloth",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Cloth",
+      "headword_raw": "Cloth",
+      "pr": "(klth; 115)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. clath cloth, AS. clāþ cloth, garment; akin to D. kleed, Icel. klæði, Dan. klæde, cloth, Sw. kläde, G. kleid garment, dress.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A fabric made of fibrous material (or sometimes of wire, as in wire cloth); commonly, a woven fabric of cotton, woolen, or linen, adapted to be made into garments; specifically, woolen fabrics, as distinguished from all others."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The dress; raiment. [Obs.] See Clothes."
+          ],
+          "quotes": [
+            "I'll ne'er distrust my God for cloth and bread."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "The distinctive dress of any profession, especially of the clergy; hence, the clerical profession."
+          ],
+          "quotes": [
+            "Appeals were made to the priesthood. Would they tamely permit so gross an insult to be offered to their cloth?",
+            "The cloth, the clergy, are constituted for administering and for giving the best possible effect to . . . every axiom."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

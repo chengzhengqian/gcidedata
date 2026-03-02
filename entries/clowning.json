@@ -1,0 +1,55 @@
+{
+  "key": "clowning",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "clowning",
+      "headword_raw": "clowning",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "acting like a clown or buffoon."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "buffoonery",
+            "frivolity",
+            "harlequinade",
+            "prank"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a comic incident or series of incidents."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "drollery",
+            "comedy",
+            "funniness"
+          ]
+        }
+      ]
+    }
+  ]
+}

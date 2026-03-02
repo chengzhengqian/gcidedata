@@ -1,0 +1,123 @@
+{
+  "key": "closing",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "closing",
+      "headword_raw": "closing",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "final or ending; terminal; as, the closing stages of the election; the closing weeks of the year; the closing scene of the film; closing remarks. Opposite of opening."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "closing",
+      "headword_raw": "closing",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "the act of closing something."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "shutting"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "the last section of a communication."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "conclusion",
+            "close",
+            "ending"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "termination of operations."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "closure",
+            "closedown",
+            "shutdown"
+          ]
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "a concluding action."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "completion",
+            "culmination",
+            "windup",
+            "mop up"
+          ]
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Commerce)"
+          ],
+          "defs": [
+            "the final action in a commercial transaction, especially the meeting between buyer and seller (and in some cases mortgagee), or their representatives, in a transaction for sale of real estate in which all documents are signed and all procedures carried out to complete the sale; -- called also real estate closing."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

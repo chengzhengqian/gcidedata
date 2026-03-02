@@ -1,0 +1,69 @@
+{
+  "key": "clockwise",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "clockwise",
+      "headword_raw": "clockwise",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "-- of rotatory motion."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "clockwise",
+      "headword_raw": "clock\"wise`",
+      "pr": "(?)",
+      "pos": [
+        "a. & adv."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "right-handed",
+        "dextrorotary",
+        "dextrorotatory"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "in the same direction as the hands of a clock rotate, as viewed from in front of the clock face; -- said of that direction of a rotation about an axis, or about a point in a plane, which is ordinarily reckoned negative. Also said of the direction of a spiral, in which case the term right-handed is more common. Opposite of counterclockwise, and left-handed."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

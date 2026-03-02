@@ -1,0 +1,47 @@
+{
+  "key": "closehanded",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Closehanded",
+      "headword_raw": "Close\"hand`ed",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Closehandedness",
+          "form_raw": "Close\"hand`ed*ness",
+          "key": "closehandedness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Covetous; penurious; stingy; closefisted."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

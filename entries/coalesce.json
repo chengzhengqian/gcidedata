@@ -1,0 +1,54 @@
+{
+  "key": "coalesce",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Coalesce",
+      "headword_raw": "Co`a*lesce\"",
+      "pr": "(?)",
+      "pos": [
+        "v. i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "n."
+      ],
+      "ety": "[L. coalescere, coalitium; co- + alescere to grow up, incho. fr. alere to nourish. See Aliment, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Coalesced (?); p. pr. & vb. n. Coalescing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To grow together; to unite by growth into one body; as, the parts separated by a wound coalesce."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To unite in one body or product; to combine into one body or community; as, vapors coalesce."
+          ],
+          "quotes": [
+            "The Jews were incapable of coalescing with other nations.",
+            "Certain combinations of ideas that, once coalescing, could not be shaken loose."
+          ],
+          "notes": [],
+          "synonyms": [
+            "See Add"
+          ]
+        }
+      ]
+    }
+  ]
+}

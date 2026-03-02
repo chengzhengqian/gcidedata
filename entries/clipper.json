@@ -1,0 +1,89 @@
+{
+  "key": "clipper",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Clipper",
+      "headword_raw": "Clip\"per",
+      "pr": "(klp\"pr)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Clipper-built",
+          "form_raw": "Clip\"per-built`",
+          "key": "clipper-built",
+          "pos": [
+            "a."
+          ],
+          "pr": "(<?/)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One who clips; specifically, one who clips off the edges of coins."
+          ],
+          "quotes": [
+            "The value is pared off from it into the clipper's pocket."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A machine for clipping hair, esp. the hair of horses."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Naut.)"
+          ],
+          "defs": [
+            "A vessel with a sharp bow, built with a fast hull and tall sails, rigged for fast sailing, and used in trade where the cargo capacity was less important than the speed; -- called also clipper ship."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The name was first borne by “Baltimore clippers” famous as privateers in the early wars of the United States."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Electronics)"
+          ],
+          "defs": [
+            "a circuit that limits the amplitude of a waveform."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "limiter"
+          ]
+        }
+      ]
+    }
+  ]
+}

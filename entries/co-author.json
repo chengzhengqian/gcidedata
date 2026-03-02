@@ -1,0 +1,48 @@
+{
+  "key": "co-author",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "co-author",
+      "headword_raw": "co-author",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "to to be an author of, together with another author or authors; to author jointly with others."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "to exist together at the same time."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "coexist"
+          ]
+        }
+      ]
+    }
+  ]
+}

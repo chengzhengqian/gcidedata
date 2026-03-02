@@ -1,0 +1,95 @@
+{
+  "key": "closet",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Closet",
+      "headword_raw": "Clos\"et",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OF. closet little inclosure, dim. of clos. See Close an inclosure.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A small room or apartment for retirement; a room for privacy."
+          ],
+          "quotes": [
+            "A chair-lumbered closet, just twelve feet by nine.",
+            "When thou prayest, enter into thy closet."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A small apartment, or recess in the side of a room, for household utensils, clothing, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Closet",
+      "headword_raw": "Clos\"et",
+      "pr": null,
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p.Closeted p. pr. & vb. n. Closeting.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To shut up in, or as in, a closet; to conceal."
+          ],
+          "quotes": [
+            "Bedlam's closeted and handcuffed charge."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To make into a closet for a secret interview."
+          ],
+          "quotes": [
+            "He was to call a new legislature, to closet its members.",
+            "He had been closeted with De Quadra."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

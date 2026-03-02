@@ -1,0 +1,68 @@
+{
+  "key": "clipped",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "clipped",
+      "headword_raw": "clipped",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "trimmed with clippers; as, a clipped hedge."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(music)"
+          ],
+          "defs": [
+            "staccato; -- contrasted with legato."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "short"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "effectively concise."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "brief",
+            "crisp",
+            "curt",
+            "laconic",
+            "short",
+            "terse",
+            "to the point(predicate)"
+          ]
+        }
+      ]
+    }
+  ]
+}

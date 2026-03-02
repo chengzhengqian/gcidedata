@@ -1,0 +1,64 @@
+{
+  "key": "clergy",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Clergy",
+      "headword_raw": "Cler\"gy",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[OE. clergie, clergi, clerge, OF. clergie, F. clergie (fr. clerc clerc, fr. L. clericus priest) confused with OF. clergi, F. clerg, fr. LL. clericatus office of priest, monastic life, fr. L. clericus priest, LL. scholar, clerc. Both the Old French words meant clergy, in sense 1, the former having also sense 2. See Clerk.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The body of men set apart, by due ordination, to the service of God, in the Christian church, in distinction from the laity; in England, usually restricted to the ministers of the Established Church."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Learning; also, a learned profession."
+          ],
+          "quotes": [
+            "Sophictry . . . rhetoric, and other cleargy.",
+            "Put their second sons to learn some clergy."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Eng., Law)"
+          ],
+          "defs": [
+            "The privilege or benefit of clergy."
+          ],
+          "quotes": [
+            "If convicted of a clergyable felony, he is entitled equally to his clergy after as before conviction."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

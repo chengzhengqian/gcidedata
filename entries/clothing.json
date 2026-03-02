@@ -1,0 +1,73 @@
+{
+  "key": "clothing",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Clothing",
+      "headword_raw": "Cloth\"ing",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Garments in general; clothes; dress; raiment; covering."
+          ],
+          "quotes": [
+            "From others he shall stand in need of nothing, Yet on his brothers shall depend for clothing.",
+            "As for me, . . . my clothing was sackloth."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The art of process of making cloth."
+          ],
+          "quotes": [
+            "Instructing [refugees] in the art of clothing."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A covering of non-conducting material on the outside of a boiler, or steam chamber, to prevent radiation of heat."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Mach.)"
+          ],
+          "defs": [
+            "See Card clothing, under 3d Card."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "key": "coagulate",
+  "source_file": "CIDE.C",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Coagulate",
+      "headword_raw": "Co*ag\"u*late",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. coagulatus, p. p. of coagulare to coagulate, fr. coagulum means of coagulation, fr. cogere, coactum, to drive together, coagulate. See Cogent.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Coagulated."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Coagulate",
+      "headword_raw": "Co*ag\"u*late",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Coagulated (?); p. pr. & vb. n. Coagulating (?).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To cause (a liquid) to change into a curdlike or semisolid state, not by evaporation but by some kind of chemical reaction; to curdle; as, rennet coagulates milk; heat coagulates the white of an egg."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Coagulate",
+      "headword_raw": "Co*ag\"u*late",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "thicken",
+        "concrete",
+        "curdle",
+        "clot",
+        "congeal"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To undergo coagulation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

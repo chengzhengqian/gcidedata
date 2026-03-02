@@ -1,0 +1,119 @@
+{
+  "key": "clone",
+  "source_file": "CIDE.C",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "clone",
+      "headword_raw": "clone",
+      "pr": "(klōn)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Biol.)"
+          ],
+          "defs": [
+            "a group of organisms derived from a single individual by some kind of asexual reproduction; -- used mostly of microorganisms such as bacteria and yeast."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "clon"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Biol.)"
+          ],
+          "defs": [
+            "an individual organism containing a genetic complement identical to that of another organism, produced by using the genetic material from the second animal in a non-sexual reproduction process."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "something virtually identical to another object."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "clone",
+      "headword_raw": "clone",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Biol.)"
+          ],
+          "defs": [
+            "to make a clone from; to make identical copies of an organism by a non-sexual process of reproduction."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Microbiol.)"
+          ],
+          "defs": [
+            "to grow colonies of a microorganism by spreading a suspension of the microorganism onto a solid growth medium (such as in a Petri dish), at a concentration such that individual colonies will grow from single cells sufficiently well separated from other colonies so that pure cultures derived from a single organism can be isolated."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Biochem.)"
+          ],
+          "defs": [
+            "to make large quantities of a segment of DNA by inserting it, using biochemical techniques, into the DNA of a microorganism, and growing that microorganism in large numbers; as, to clone the gene for growth hormone."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

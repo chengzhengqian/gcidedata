@@ -1,0 +1,40 @@
+{
+  "key": "co2",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "CO2",
+      "headword_raw": "CO2",
+      "pr": "(sē\"*t`)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "carbon dioxide",
+        "carbonic acid gas"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "the chemical formula for carbon dioxide, a heavy odorless gas (CO2) formed during respiration and by the combustion or decomposition of organic substances; it is absorbed from the air by plants in photosynthesis. The formula itself, pronounced out, is often used instead of the full name, especially with reference to fire extinguishers using this gas for fire suppression; as, a CO2 extinguisher."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

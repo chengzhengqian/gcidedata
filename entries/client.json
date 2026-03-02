@@ -1,0 +1,62 @@
+{
+  "key": "client",
+  "source_file": "CIDE.C",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Client",
+      "headword_raw": "Cli\"ent",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. cliens, -emtis, for cluens, one who hears (in relation to his protector), a client, fr. L. cluere to be named or called; akin to Gr. <?/ to hear, Skr. çry, and E. loud: cf. F. client. See Loud.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Rom. Antiq.)"
+          ],
+          "defs": [
+            "A citizen who put himself under the protection of a man of distinction and influence, who was called his patron."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A dependent; one under the protection of another."
+          ],
+          "quotes": [
+            "I do think they are your friends and clients, And fearful to disturb you."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "One who consults a legal adviser, or submits his cause to his management."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "key": "occultation",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Occultation",
+      "headword_raw": "Oc`cul*ta\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. occultatio a hiding, fr. occultare, v. intens. of occulere: cf. F. occultation. See Occult.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Astron.)"
+          ],
+          "defs": [
+            "The hiding of a heavenly body from sight by the intervention of some other of the heavenly bodies; -- applied especially to eclipses of stars and planets by the moon, and to the eclipses of satellites of planets by their primaries."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The state of being occult."
+          ],
+          "quotes": [
+            "The reappearance of such an author after those long periods of occultation."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

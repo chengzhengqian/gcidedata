@@ -1,0 +1,40 @@
+{
+  "key": "octamer",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "octamer",
+      "headword_raw": "oc\"ta*mer",
+      "pr": "(k\"t*mr)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Octa- + Gr. me`ros part.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A molecule composed of eight monomer units bound to each other, usually in a linear array; as, an octamer formed from eight nucleotides is called an octanucleotide."
+          ],
+          "quotes": [],
+          "notes": [
+            "An example of an octapeptide might be represented using the standard abbreviations for the component amino acids, e.g.: met-ala-ser-glu-lys-ala-val-gly An octanucleotide might be represented using the standard single-letter abbreviations for the component mononucleotides, e.g.: ATGCATGC."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "key": "oersted",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Oersted",
+      "headword_raw": "Oer\"sted",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[After Hans Christian Oersted, Danish physicist.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Elec.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The C. G. S. unit of magnetic reluctance or resistance, equal to the reluctance of a centimeter cube of air (or vacuum) between parallel faces. Also, a reluctance in which unit magnetomotive force sets up unit flux."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

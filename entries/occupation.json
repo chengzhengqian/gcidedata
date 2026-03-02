@@ -1,0 +1,74 @@
+{
+  "key": "occupation",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Occupation",
+      "headword_raw": "Oc`cu*pa\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. occupatio: cf. F. occupation.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act or process of occupying or taking possession; actual possession and control; the state of being occupied; a holding or keeping; tenure; use; as, the occupation of lands by a tenant."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That which occupies or engages the time and attention."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Engin.)"
+          ],
+          "defs": [
+            "The principal business of one's life; the principal work by which one earns one's livelihood; vocation; employment; profession; calling; trade; avocation; as, these days many people continue to practice their occupation well into their seventies."
+          ],
+          "quotes": [
+            "Absence of occupation is not rest."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Occupancy",
+            "possession",
+            "tenure",
+            "use",
+            "employment",
+            "avocation",
+            "engagement",
+            "vocation",
+            "calling",
+            "office",
+            "trade",
+            "profession"
+          ]
+        }
+      ]
+    }
+  ]
+}

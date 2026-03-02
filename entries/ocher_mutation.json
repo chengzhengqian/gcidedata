@@ -1,0 +1,48 @@
+{
+  "key": "ocher_mutation",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "ocher mutation",
+      "headword_raw": "o\"cher mu\"tation",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[A humorous variation on the term amber mutation.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "ocher mutant",
+          "form_raw": "ocher mutant",
+          "key": "ocher_mutant",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Microbiology, Molecular biology)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A mutation in which the base sequence of one of the codons in the messenger RNA has been converted to UAA. Such a mutation may be conditionally suppressed, as can an amber mutation, by the presence of a special transfer RNA."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

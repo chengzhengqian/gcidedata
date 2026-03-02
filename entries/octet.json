@@ -1,0 +1,49 @@
+{
+  "key": "octet",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "octet",
+      "headword_raw": "oc*tet\"",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[From L. octo eight, like E. duet, fr.L. duo. See Octave.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Mus.)"
+          ],
+          "defs": [
+            "A composition for eight parts, usually for eight solo instruments or voices."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A group of eight singers or eight musicians."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "key": "odorous",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Odorous",
+      "headword_raw": "O\"dor*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. odorus, fr. odor odor: cf. OF. odoros, odoreux.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Odorously",
+          "form_raw": "O\"dor*ous*ly",
+          "key": "odorously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Odorousness",
+          "form_raw": "O\"dor*ous*ness",
+          "key": "odorousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Having or emitting an odor or scent, esp. a sweet odor; fragrant; sweet-smelling."
+          ],
+          "quotes": [
+            "Such fragrant flowers do give most odorous smell."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

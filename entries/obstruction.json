@@ -1,0 +1,72 @@
+{
+  "key": "obstruction",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Obstruction",
+      "headword_raw": "Ob*struc\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. obstructio.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "-- Obstruction, Obstacle. The difference between these words is that indicated by their etymology; an obstacle is something standing in the way; an obstruction is something put in the way. Obstacle implies more fixedness and is the stronger word. We remove obstructions; we surmount obstacles."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of obstructing, or state of being obstructed."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That which obstructs or impedes; an obstacle; an impediment; a hindrance."
+          ],
+          "quotes": [
+            "A popular assembly free from obstruction."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "The condition of having the natural powers obstructed in their usual course; the arrest of the vital functions; death."
+          ],
+          "quotes": [
+            "To die, and go we know not where, To lie in cold obstruction, and to rot.",
+            "Disparity in age seems a greater obstacle to an intimate friendship than inequality of fortune.",
+            "The king expected to meet with all the obstructions and difficulties his enraged enemies could lay in his way."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Obstacle",
+            "bar",
+            "barrier",
+            "impediment",
+            "clog",
+            "check",
+            "hindrance"
+          ]
+        }
+      ]
+    }
+  ]
+}

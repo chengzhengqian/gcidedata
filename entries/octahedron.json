@@ -1,0 +1,38 @@
+{
+  "key": "octahedron",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "octahedron",
+      "headword_raw": "oc`ta*he\"dron",
+      "pr": "(k`t*hē\"drn)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Gr. 'okta`edron, fr. 'okta`edros eight-sided; 'okta- (for 'oktw` eight) + \"e`dra seat, base, from \"e`zesqai to sit.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Geom.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A solid bounded by eight faces. The regular octahedron is contained by eight equal equilateral triangles."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

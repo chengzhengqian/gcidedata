@@ -1,0 +1,82 @@
+{
+  "key": "oddball",
+  "source_file": "CIDE.O",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "oddball",
+      "headword_raw": "odd\"ball`",
+      "pr": "(d\"bl`)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A person with an unusual or odd personality; an eccentric person."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "eccentric",
+            "eccentric person",
+            "geek"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Anything unusual in its class."
+          ],
+          "quotes": [
+            "Pluto is an oddball among its eight sister planets. It's the smallest in both size and mass, and has the most elliptical orbit. It moves in a plane tilted markedly away from the other planets' orbits. Moreover, Pluto is the only planet made almost entirely of ice."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "oddball",
+      "headword_raw": "odd\"ball`",
+      "pr": "(d\"bl`)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Eccentric; very unusual; strange; bizarre; as, an oddball request."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

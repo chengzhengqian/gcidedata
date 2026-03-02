@@ -1,0 +1,66 @@
+{
+  "key": "odorant",
+  "source_file": "CIDE.O",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Odorant",
+      "headword_raw": "O\"dor*ant",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. odorans, -antis, p. pr.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Yielding odors; fragrant."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "odorant",
+      "headword_raw": "o\"dor*ant",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An odorous substance;",
+            "a substance with a strong odor added to a dangerous substance, such as natural gas, to provide an easy detection method and a warning; as, ethyl mercaptan is used as an odorant in natural gas and propane to facilitate detection of leaks."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

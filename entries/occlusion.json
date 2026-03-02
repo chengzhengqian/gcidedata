@@ -1,0 +1,51 @@
+{
+  "key": "occlusion",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Occlusion",
+      "headword_raw": "Oc*clu\"sion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[See Occlude.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of occluding, or the state of being occluded."
+          ],
+          "quotes": [
+            "Constriction and occlusion of the orifice."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)",
+            "(Chem. & Physics)"
+          ],
+          "defs": [
+            "The transient approximation of the edges of a natural opening; imperforation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

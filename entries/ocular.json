@@ -1,0 +1,81 @@
+{
+  "key": "ocular",
+  "source_file": "CIDE.O",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Ocular",
+      "headword_raw": "Oc\"u*lar",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. ocularis, ocularius, fr. oculus the eye: cf. F. oculaire. See Eye, and cf. Antler, Inveigle.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Depending on, or perceived by, the eye; received by actual sight; personally seeing or having seen; as, ocular proof."
+          ],
+          "quotes": [
+            "Thomas was an ocular witness of Christ's death."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Anat.)"
+          ],
+          "defs": [
+            "Of or pertaining to the eye; optic."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Ocular",
+      "headword_raw": "Oc\"u*lar",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Opt.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The eyepiece of an optical instrument, as of a telescope or microscope."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

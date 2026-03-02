@@ -1,0 +1,126 @@
+{
+  "key": "offensive",
+  "source_file": "CIDE.O",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Offensive",
+      "headword_raw": "Of*fen\"sive",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Cf. F. offensif. See Offend.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Offensively",
+          "form_raw": "Of*fen\"sive*ly",
+          "key": "offensively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Offensiveness",
+          "form_raw": "Of*fen\"sive*ness",
+          "key": "offensiveness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Giving offense; causing displeasure or resentment; displeasing; annoying; as, offensive words."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Giving pain or unpleasant sensations; disagreeable; revolting; noxious; as, an offensive smell; offensive sounds."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Making the first attack; assailant; aggressive; hence, used in attacking; -- opposed to defensive; as, an offensive war; offensive weapons."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Displeasing",
+            "disagreeable",
+            "distasteful",
+            "obnoxious",
+            "abhorrent",
+            "disgusting",
+            "impertinent",
+            "rude",
+            "saucy",
+            "reproachful",
+            "opprobrious",
+            "insulting",
+            "insolent",
+            "abusive",
+            "scurrilous",
+            "assailant",
+            "attacking",
+            "invading"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Offensive",
+      "headword_raw": "Of*fen\"sive",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The state or posture of one who offends or makes attack; aggressive attitude; the act of the attacking party; -- opposed to defensive."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

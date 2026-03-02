@@ -1,0 +1,81 @@
+{
+  "key": "odious",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Odious",
+      "headword_raw": "O\"di*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. odiosus, from odium hatred: cf. F. odieux. See Odium.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Odiously",
+          "form_raw": "O\"di*ous`ly",
+          "key": "odiously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Odiousness",
+          "form_raw": "O\"di*ous*ness",
+          "key": "odiousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Hateful; deserving or receiving hatred; as, an odious name, system, vice."
+          ],
+          "quotes": [
+            "He rendered himself odious to the Parliament."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Causing or provoking hatred, repugnance, or disgust; offensive; disagreeable; repulsive; as, an odious sight; an odious smell."
+          ],
+          "quotes": [
+            "The odious side of that polity."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Hateful",
+            "detestable",
+            "abominable",
+            "disgusting",
+            "loathsome",
+            "invidious",
+            "repulsive",
+            "forbidding",
+            "unpopular"
+          ]
+        }
+      ]
+    }
+  ]
+}

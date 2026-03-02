@@ -1,0 +1,87 @@
+{
+  "key": "officious",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Officious",
+      "headword_raw": "Of*fi\"cious",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. officiosus: cf. F. officieux. See Office.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Officiously",
+          "form_raw": "Of*fi\"cious*ly",
+          "key": "officiously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Officiousness",
+          "form_raw": "Of*fi\"cious*ness",
+          "key": "officiousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Pertaining to, or being in accordance with, duty."
+          ],
+          "quotes": [
+            "If there were any lie in the case, it could be no more than an officious and venial one."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Disposed to serve; kind; obliging."
+          ],
+          "quotes": [
+            "Yet not to earth are those bright luminaries Officious.",
+            "They were tolerably well bred, very officious, humane, and hospitable."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Importunately interposing services; intermeddling in affairs in which one has no concern; meddlesome."
+          ],
+          "quotes": [
+            "You are too officious In her behalf that scorns your services."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Impertinent",
+            "meddling. See Impertinent"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "key": "obversion",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Obversion",
+      "headword_raw": "Ob*ver\"sion",
+      "pr": "(b*vr\"shn)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. obversio a turning towards.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of turning toward or downward."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Logic)"
+          ],
+          "defs": [
+            "The act of immediate inference, by which we deny the opposite of anything which has been affirmed; as, all men are mortal; then, by obversion, no men are immortal. This is also described as “immediate inference by privative conception.”"
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

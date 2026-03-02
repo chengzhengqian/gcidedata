@@ -1,0 +1,52 @@
+{
+  "key": "off-line",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "off-line",
+      "headword_raw": "off-line",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "Not connected; -- of computers or computer peripherals normally connected or intended to be connected to other computers by a communications line; as, we can't print the document because the printer is off-line."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "offline",
+            "off line(predicate)"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Outside of or after a meeting or formal discussion; as, we can discuss the details off-line; -- a term used at meetings and conferences to suggest postponing detailed discussion of a topic so as not to occupy the time of a large group most of whom may not be interested."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

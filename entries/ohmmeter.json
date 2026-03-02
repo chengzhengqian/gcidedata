@@ -1,0 +1,38 @@
+{
+  "key": "ohmmeter",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Ohmmeter",
+      "headword_raw": "Ohm\"me`ter",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Ohm + meter.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Elec.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An instrument for indicating directly the electrical resistance of a circuit in ohms."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

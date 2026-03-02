@@ -1,0 +1,48 @@
+{
+  "key": "occlude",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Occlude",
+      "headword_raw": "Oc*clude\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t."
+      ],
+      "ety": "[L. occludere, occlusum; ob (see Ob-) + claudere to shut.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To shut up; to close."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "To take in and retain; to absorb; -- said especially with respect to gases; as, iron, platinum, and palladium occlude large volumes of hydrogen."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

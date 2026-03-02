@@ -1,0 +1,79 @@
+{
+  "key": "oddment",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Oddment",
+      "headword_raw": "Odd\"ment",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Odd + -ment.]",
+      "sources": [
+        "Webster 1913 Suppl.",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Printing)"
+      ],
+      "senses": [
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A piece of cloth that is left over after the rest has been used or sold."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "end",
+            "remainder",
+            "remnant",
+            "scrap"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Something unusual, and perhaps worthy of collecting."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "curio",
+            "curiosity",
+            "oddity",
+            "peculiarity",
+            "rarity",
+            "collectible"
+          ]
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Odds and ends; a motley assortment of things."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "odds and ends",
+            "melange",
+            "farrago",
+            "ragbag",
+            "hodgepodge",
+            "hotchpotch",
+            "omnium-gatherum"
+          ]
+        }
+      ]
+    }
+  ]
+}

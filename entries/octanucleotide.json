@@ -1,0 +1,38 @@
+{
+  "key": "octanucleotide",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "octanucleotide",
+      "headword_raw": "oc`ta*nu\"cle*o*tide",
+      "pr": "(k`t*nū\"klē**tīd)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Octa- + nucleotide.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A molecule composed of eight nucleotide units bound to each other by phosphodiester bonds in a linear array; as, a partial digest of DNA or RNA may include octanucleotides. See octamer."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

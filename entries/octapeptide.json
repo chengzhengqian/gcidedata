@@ -1,0 +1,38 @@
+{
+  "key": "octapeptide",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "octapeptide",
+      "headword_raw": "oc`ta*pep\"tide",
+      "pr": "(k`t*pp\"tīd)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Octa- + peptide.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A molecule composed of eight amino acid units bound to each other by peptide bonds, usually in a linear array. See octamer."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

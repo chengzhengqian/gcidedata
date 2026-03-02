@@ -1,0 +1,85 @@
+{
+  "key": "obvious",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Obvious",
+      "headword_raw": "Ob\"vi*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. obvius; ob (see Ob-) + via way. See Voyage.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Obviously",
+          "form_raw": "Ob\"vi*ous*ly",
+          "key": "obviously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Obvious-ness",
+          "form_raw": "Ob\"vi*ous-ness",
+          "key": "obvious-ness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Opposing; fronting."
+          ],
+          "quotes": [
+            "To the evil turn My obvious breast."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Exposed; subject; open; liable."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Easily discovered, seen, or understood; readily perceived by the eye or the intellect; plain; evident; apparent; as, an obvious meaning; an obvious remark."
+          ],
+          "quotes": [
+            "Apart and easy to be known they lie, Amidst the heap, and obvious to the eye."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Plain",
+            "clear",
+            "evident. See Manifest"
+          ]
+        }
+      ]
+    }
+  ]
+}

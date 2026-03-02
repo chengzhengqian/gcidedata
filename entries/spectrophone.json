@@ -1,0 +1,47 @@
+{
+  "key": "spectrophone",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Spectrophone",
+      "headword_raw": "Spec\"tro*phone",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Spectrum + Gr. <?/ sound.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Spectrophonic",
+          "form_raw": "Spec`tro*phon\"ic",
+          "key": "spectrophonic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An instrument constructed on the principle of the photophone and used in spectrum analysis as an adjunct to the spectroscope."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

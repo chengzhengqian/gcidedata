@@ -1,0 +1,69 @@
+{
+  "key": "specie",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Specie",
+      "headword_raw": "Spe\"ci*e",
+      "pr": "(?)",
+      "pos": [
+        "abl."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Law)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "abl. of L. species sort, kind. Used in the phrase in specie, that is, in sort, in kind, in (its own) form."
+          ],
+          "quotes": [
+            "“[The king] expects a return in specie from them” [i. e., kindness for kindness]."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Specie",
+      "headword_raw": "Spe\"cie",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Formed as a singular from species, in sense 5.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Coin; hard money."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "key": "sparkling",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Sparkling",
+      "headword_raw": "Spar\"kling",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Sparklingly",
+          "form_raw": "Spar\"kling*ly",
+          "key": "sparklingly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Sparklingness",
+          "form_raw": "Spar\"kling*ness",
+          "key": "sparklingness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [
+        "Brilliant",
+        "shining. See Shining"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Emitting sparks; glittering; flashing; brilliant; lively; as, sparkling wine; sparkling eyes."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "key": "spellbind",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Spellbind",
+      "headword_raw": "Spell\"bind`",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": "[imp. & p. p. Spellbound (?); p. pr. & vb. n. Spellbinding.]",
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Spellbinder",
+          "form_raw": "Spell\"bind`er",
+          "key": "spellbinder",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To bind or hold by, or as if by, a spell or charm; to entrance or fascinate, esp. by eloquence of speech, as in a political campaign."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

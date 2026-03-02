@@ -1,0 +1,51 @@
+{
+  "key": "spectral",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Spectral",
+      "headword_raw": "Spec\"tral",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to a specter; ghosty."
+          ],
+          "quotes": [
+            "He that feels timid at the spectral form of evil is not the man to spread light."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Opt.)",
+            "(Zool.)"
+          ],
+          "defs": [
+            "Of or pertaining to the spectrum; made by the spectrum; as, spectral colors; spectral analysis."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

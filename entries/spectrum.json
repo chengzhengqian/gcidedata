@@ -1,0 +1,49 @@
+{
+  "key": "spectrum",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Spectrum",
+      "headword_raw": "Spec\"trum",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. See Specter.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "An apparition; a specter."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Opt.)"
+          ],
+          "defs": [
+            "The several colored and other rays of which light is composed, separated by the refraction of a prism or other means, and observed or studied either as spread out on a screen, by direct vision, by photography, or otherwise. See Illust. of Light, and Spectroscope.",
+            "A luminous appearance, or an image seen after the eye has been exposed to an intense light or a strongly illuminated object. When the object is colored, the image appears of the complementary color, as a green image seen after viewing a red wafer lying on white paper. Called also ocular spectrum."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

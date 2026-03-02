@@ -1,0 +1,38 @@
+{
+  "key": "spectrogram",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Spectrogram",
+      "headword_raw": "Spec\"tro*gram",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Spectrum + -gram.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A photograph, map, or diagram of a spectrum."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

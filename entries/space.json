@@ -1,0 +1,205 @@
+{
+  "key": "space",
+  "source_file": "CIDE.S",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Space",
+      "headword_raw": "Space",
+      "pr": "(spās)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. space, F. espace, from L. spatium space; cf. Gr. spa^n to draw, to tear; perh. akin to E. span. Cf. Expatiate.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Extension, considered independently of anything which it may contain; that which makes extended objects conceivable and possible."
+          ],
+          "quotes": [
+            "Pure space is capable neither of resistance nor motion."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Place, having more or less extension; room."
+          ],
+          "quotes": [
+            "They gave him chase, and hunted him as hare; Long had he no space to dwell [in].",
+            "While I have time and space."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A quantity or portion of extension; distance from one thing to another; an interval between any two or more objects; as, the space between two stars or two hills; the sound was heard for the space of a mile."
+          ],
+          "quotes": [
+            "Put a space betwixt drove and drove."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Quantity of time; an interval between two points of time; duration; time."
+          ],
+          "quotes": [
+            "Nine times the space that measures day and night.",
+            "God may defer his judgments for a time, and give a people a longer space of repentance."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "A short time; a while."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [],
+          "defs": [
+            "Walk; track; path; course."
+          ],
+          "quotes": [
+            "This ilke [same] monk let old things pace, And held after the new world the space."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "7.",
+          "fields": [
+            "(Print.)"
+          ],
+          "defs": [
+            "A small piece of metal cast lower than a face type, so as not to receive the ink in printing, -- used to separate words or letters.",
+            "The distance or interval between words or letters in the lines, or between lines, as in books, on a computer screen, etc."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Spaces are of different thicknesses to enable the compositor to arrange the words at equal distances from each other in the same line."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "8.",
+          "fields": [
+            "(Mus.)"
+          ],
+          "defs": [
+            "One of the intervals, or open places, between the lines of the staff."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "9.",
+          "fields": [
+            "(Print.)",
+            "(Print.)"
+          ],
+          "defs": [
+            "that portion of the universe outside the earth or its atmosphere; -- called also outer space."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Space",
+      "headword_raw": "Space",
+      "pr": null,
+      "pos": [
+        "v. i.",
+        "n."
+      ],
+      "ety": "[Cf. OF. espacier, L. spatiari. See Space, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To walk; to rove; to roam."
+          ],
+          "quotes": [
+            "And loved in forests wild to space."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Space",
+      "headword_raw": "Space",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "n."
+      ],
+      "ety": "[Cf. F. espacer. See Space, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Spaced (?); p. pr. & vb. n. Spacong (?).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Print.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To arrange or adjust the spaces in or between; as, to space words, lines, or letters."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

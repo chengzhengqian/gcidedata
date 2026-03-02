@@ -1,0 +1,79 @@
+{
+  "key": "specious",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Specious",
+      "headword_raw": "Spe\"cious",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. speciosusgood-looking, beautiful, specious, fr. species look, show, appearance; cf. F. spcoeux. See Species.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Spexiously",
+          "form_raw": "Spe\"xious*ly",
+          "key": "spexiously",
+          "pos": [
+            "adv."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Speciousness",
+          "form_raw": "Spe\"cious*ness",
+          "key": "speciousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Presenting a pleasing appearance; pleasing in form or look; showy."
+          ],
+          "quotes": [
+            "Some [serpents] specious and beautiful to the eye.",
+            "The rest, far greater part, Will deem in outward rites and specious forms Religion satisfied."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Apparently right; superficially fair, just, or correct, but not so in reality; appearing well at first view; plausible; as, specious reasoning; a specious argument."
+          ],
+          "quotes": [
+            "Misled for a moment by the specious names of religion, liberty, and property.",
+            "In consequence of their greater command of specious expression."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Plausible",
+            "showy",
+            "ostensible",
+            "colorable",
+            "feasible. See Plausible"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "key": "sparse",
+  "source_file": "CIDE.S",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Sparse",
+      "headword_raw": "Sparse",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "Compar.",
+        "superl."
+      ],
+      "ety": "[L. sparsus, p. p. of spargere to strew, scatter. Cf. Asperse, Disperse.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Thinly scattered; set or planted here and there; not being dense or close together; as, a sparse population."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Bot.)"
+          ],
+          "defs": [
+            "Placed irregularly and distantly; scattered; -- applied to branches, leaves, peduncles, and the like."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Sparse",
+      "headword_raw": "Sparse",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": "[L. sparsus, p. p. of spargere to scatter.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To scatter; to disperse."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

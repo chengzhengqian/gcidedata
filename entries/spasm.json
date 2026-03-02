@@ -1,0 +1,53 @@
+{
+  "key": "spasm",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Spasm",
+      "headword_raw": "Spasm",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "v. t."
+      ],
+      "ety": "[F. spasme, L. spasmus, Gr. <?/, from <?/, <?/, to draw, to cause convulsion. Cf. Span, v. t.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "An involuntary and unnatural contraction of one or more muscles or muscular fibers."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Spasm are usually either clonic or tonic. In clonic spasm, the muscles or muscular fibers contract and relax alternately in very quick succession. In tonic spasm, the contraction is steady and uniform, and continues for a comparatively long time, as in tetanus."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "A sudden, violent, and temporary effort or emotion; as, a spasm of repentance."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

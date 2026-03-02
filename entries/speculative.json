@@ -1,0 +1,104 @@
+{
+  "key": "speculative",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Speculative",
+      "headword_raw": "Spec\"u*la*tive",
+      "pr": "(spk\"*l*tv)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Cf. F. spculatif, L. speculativus.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Speculatively",
+          "form_raw": "Spec\"u*la*tive*ly",
+          "key": "speculatively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Speculativeness",
+          "form_raw": "Spec\"u*la*tive*ness",
+          "key": "speculativeness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Given to speculation; contemplative."
+          ],
+          "quotes": [
+            "The mind of man being by nature speculative."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Involving, or formed by, speculation; ideal; theoretical; not established by demonstration."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to vision; also, prying; inquisitive; curious."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to speculation in land, goods, shares, etc.; as, a speculative dealer or enterprise."
+          ],
+          "quotes": [
+            "The speculative merchant exercises no one regular, established, or well-known branch of business."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Finance)"
+          ],
+          "defs": [
+            "More risky than typical investments; not investment grade."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

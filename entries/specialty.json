@@ -1,0 +1,74 @@
+{
+  "key": "specialty",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Specialty",
+      "headword_raw": "Spe\"cial*ty",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. spcialit. Cf. Speciality.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Particularity."
+          ],
+          "quotes": [
+            "Specialty of rule hath been neglected."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A particular or peculiar case."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "A contract or obligation under seal; a contract by deed; a writing, under seal, given as security for a debt particularly specified."
+          ],
+          "quotes": [
+            "Let specialties be therefore drawn between us."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "That for which a person is distinguished, in which he is specially versed, or which he makes an object of special attention; a speciality."
+          ],
+          "quotes": [
+            "Men of boundless knowledge, like Humbold, must have had once their specialty, their pet subject."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

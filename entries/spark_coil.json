@@ -1,0 +1,37 @@
+{
+  "key": "spark_coil",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Spark coil",
+      "headword_raw": "Spark coil",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Elec.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An induction coil used for producing sparks, esp. in an internal-combustion engine, wireless telegraph apparatus, etc.",
+            "A self-induction coil used to increase the spark in an electric gas-lighting apparatus."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

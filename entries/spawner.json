@@ -1,0 +1,50 @@
+{
+  "key": "spawner",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Spawner",
+      "headword_raw": "Spawn\"er",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "A mature female fish."
+          ],
+          "quotes": [
+            "The barbel, for the preservation or their seed, both the spawner and the milter, cover their spawn with sand."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Whatever produces spawn of any kind."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "key": "spectroheliograph",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Spectroheliograph",
+      "headword_raw": "Spec`tro*he\"li*o*graph",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Spectroheliographic",
+          "form_raw": "Spec`tro*he`li*o*graph\"ic",
+          "key": "spectroheliographic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Astrophysics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An apparatus for making spectroheliograms, consisting of a spectroscopic camera used in combination with a telescope, and provided with clockwork for moving the sun's image across the slit."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

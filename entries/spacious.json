@@ -1,0 +1,67 @@
+{
+  "key": "spacious",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Spacious",
+      "headword_raw": "Spa\"cious",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[L. spatiousus: cf. F. spacieux. See Space, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Spaciously",
+          "form_raw": "Spa\"cious*ly",
+          "key": "spaciously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Spaciousness",
+          "form_raw": "Spa\"cious*ness",
+          "key": "spaciousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Extending far and wide; vast in extent."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Inclosing an extended space; having large or ample room; not contracted or narrow; capacious; roomy; as, spacious bounds; a spacious church; a spacious hall."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

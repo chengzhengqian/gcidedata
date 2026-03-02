@@ -1,0 +1,69 @@
+{
+  "key": "spectrograph",
+  "source_file": "CIDE.S",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Spectrograph",
+      "headword_raw": "Spec\"tro*graph",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a.",
+        "adv."
+      ],
+      "ety": "[Spectrum + graph.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Spectrographic",
+          "form_raw": "Spec`tro*graph\"ic",
+          "key": "spectrographic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Spectrographically",
+          "form_raw": "Spec`tro*graph\"ic*al*ly",
+          "key": "spectrographically",
+          "pos": [
+            "adv."
+          ],
+          "pr": "(#)"
+        },
+        {
+          "form": "Spectrography",
+          "form_raw": "Spec*trog\"ra*phy",
+          "key": "spectrography",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An apparatus for photographing or mapping a spectrum.",
+            "A photograph or picture of a spectrum."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

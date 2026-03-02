@@ -1,0 +1,213 @@
+{
+  "key": "forge",
+  "source_file": "CIDE.F",
+  "record_count": 4,
+  "records": [
+    {
+      "headword": "Forge",
+      "headword_raw": "Forge",
+      "pr": "(fōrj)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. forge, fr. L. fabrica the workshop of an artisan who works in hard materials, fr. faber artisan, smith, as adj., skillful, ingenious; cf. Gr. <?/ soft, tender. Cf. Fabric.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A place or establishment where iron or other metals are wrought by heating and hammering; especially, a furnace, or a shop with its furnace, etc., where iron is heated and wrought; a smithy."
+          ],
+          "quotes": [
+            "In the quick forge and working house of thought."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The works where wrought iron is produced directly from the ore, or where iron is rendered malleable by puddling and shingling; a shingling mill."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Metal.)",
+            "(Mil.)"
+          ],
+          "defs": [
+            "The act of beating or working iron or steel; the manufacture of metallic bodies."
+          ],
+          "quotes": [
+            "In the greater bodies the forge was easy."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Forge",
+      "headword_raw": "Forge",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "n."
+      ],
+      "ety": "[F. forger, OF. forgier, fr. L. fabricare, fabricari, to form, frame, fashion, from fabrica. See Forge, n., and cf. Fabricate.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Forged (?); p. pr. & vb. n. Forging (?).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To form by heating and hammering; to beat into any particular shape, as a metal."
+          ],
+          "quotes": [
+            "Mars's armor forged for proof eterne."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To form or shape out in any way; to produce; to frame; to invent."
+          ],
+          "quotes": [
+            "Those names that the schools forged, and put into the mouth of scholars, could never get admittance into common use.",
+            "Do forge a life-long trouble for ourselves."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To coin."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "To make falsely; to produce, as that which is untrue or not genuine; to fabricate; to counterfeit, as, a signature, or a signed document."
+          ],
+          "quotes": [
+            "That paltry story is untrue, And forged to cheat such gulls as you.",
+            "Forged certificates of his . . . moral character."
+          ],
+          "notes": [],
+          "synonyms": [
+            "fabricate",
+            "counterfeit",
+            "feign",
+            "falsify"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Forge",
+      "headword_raw": "Forge",
+      "pr": null,
+      "pos": [
+        "v. i.",
+        "v. t."
+      ],
+      "ety": "[See Forge, v. t., and for sense 2, cf. Forge compel.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To commit forgery."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Naut.)"
+          ],
+          "defs": [
+            "To move heavily and slowly, as a ship after the sails are furled; to work one's way, as one ship in outsailing another; -- used especially in the phrase to forge ahead."
+          ],
+          "quotes": [
+            "And off she [a ship] forged without a shock."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Forge",
+      "headword_raw": "Forge",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Naut.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To impel forward slowly; as, to forge a ship forward."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

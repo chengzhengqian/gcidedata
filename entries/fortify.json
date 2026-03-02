@@ -1,0 +1,80 @@
+{
+  "key": "fortify",
+  "source_file": "CIDE.F",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Fortify",
+      "headword_raw": "For\"ti*fy",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[F. fortifier, L. fortificare; fortis strong + -ficare (in comp.) to make. See Fort, and -fy.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Fortified (?); p. pr. & vb. n. Fortifying.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To add strength to; to strengthen; to confirm; to furnish with power to resist attack."
+          ],
+          "quotes": [
+            "Timidity was fortified by pride.",
+            "Pride came to the aid of fancy, and both combined to fortify his resolution."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To strengthen and secure by forts or batteries, or by surrounding with a wall or ditch or other military works; to render defensible against an attack by hostile forces."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Fortify",
+      "headword_raw": "For\"ti*fy",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To raise defensive works."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

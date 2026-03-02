@@ -1,0 +1,38 @@
+{
+  "key": "fortran",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "FORTRAN",
+      "headword_raw": "FORTRAN",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[Formula Translation.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Computers)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a higher programming language with an instruction set designed for ease of expression of mathematical functions, much used in programming of scientific and mathematical problems."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

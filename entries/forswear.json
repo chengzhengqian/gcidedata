@@ -1,0 +1,85 @@
+{
+  "key": "forswear",
+  "source_file": "CIDE.F",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Forswear",
+      "headword_raw": "For*swear\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp.",
+        "p. p.",
+        "p. pr. & vb. n.",
+        "v. i."
+      ],
+      "ety": "[OE. forsweren, forswerien, AS. forswerian; pref. for- + swerian to swear. See For-, and Swear, v. i.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. Forswore (?); p. p. Forsworn (?); p. pr. & vb. n. Forswearing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To reject or renounce upon oath; hence, to renounce earnestly, determinedly, or with protestations."
+          ],
+          "quotes": [
+            "I . . . do forswear her."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To deny upon oath."
+          ],
+          "quotes": [
+            "Like innocence, and as serenely bold As truth, how loudly he forswears thy gold!"
+          ],
+          "notes": [],
+          "synonyms": [
+            "See Perjure"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Forswear",
+      "headword_raw": "For*swear\"",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To swear falsely; to commit perjury."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

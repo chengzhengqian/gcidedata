@@ -1,0 +1,48 @@
+{
+  "key": "forum",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Forum",
+      "headword_raw": "Fo\"rum",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L.; akin to foris, foras, out of doors. See Foreign.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A market place or public place in Rome, where causes were judicially tried, and orations delivered to the people."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A tribunal; a court; an assembly empowered to hear and decide causes."
+          ],
+          "quotes": [
+            "He [Lord Camden] was . . . more eminent in the senate than in the forum."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

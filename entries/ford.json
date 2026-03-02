@@ -1,0 +1,85 @@
+{
+  "key": "ford",
+  "source_file": "CIDE.F",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Ford",
+      "headword_raw": "Ford",
+      "pr": "(fōrd)",
+      "pos": [
+        "n.",
+        "v. i."
+      ],
+      "ety": "[AS. ford; akin to G. furt, Icel. fjörðr bay, and to E. fare. √78. See Fare, v. i., and cf. Frith arm of the sea.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A place in a river, or other water, where it may be passed by man or beast on foot, by wading."
+          ],
+          "quotes": [
+            "He swam the Esk river where ford there was none."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A stream; a current."
+          ],
+          "quotes": [
+            "With water of the ford Or of the clouds.",
+            "Permit my ghost to pass the Stygian ford."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Ford",
+      "headword_raw": "Ford",
+      "pr": null,
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Forded; p. pr. & vb. n. Fording.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To pass or cross, as a river or other water, by wading; to wade through."
+          ],
+          "quotes": [
+            "His last section, which is no deep one, remains only to be forted."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

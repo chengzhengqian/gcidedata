@@ -1,0 +1,50 @@
+{
+  "key": "foreshorten",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Foreshorten",
+      "headword_raw": "Fore*short\"en",
+      "pr": "(?)",
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Fine Art)"
+          ],
+          "defs": [
+            "To represent on a plane surface, as if extended in a direction toward the spectator or nearly so; to shorten by drawing in perspective."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Fig.: To represent pictorially to the imagination."
+          ],
+          "quotes": [
+            "Songs, and deeds, and lives that lie Foreshortened in the tract of time."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

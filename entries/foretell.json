@@ -1,0 +1,75 @@
+{
+  "key": "foretell",
+  "source_file": "CIDE.F",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Foretell",
+      "headword_raw": "Fore*tell\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Foretold (?); p. pr. & vb. n. Foretelling.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "predict",
+        "prophesy",
+        "prognosticate",
+        "augur"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To predict; to tell before occurence; to prophesy; to foreshow."
+          ],
+          "quotes": [
+            "Deeds then undone my faithful tongue foretold.",
+            "Prodigies, foretelling the future eminence and luster of his character."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Foretell",
+      "headword_raw": "Fore*tell\"",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To utter predictions."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

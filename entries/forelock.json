@@ -1,0 +1,52 @@
+{
+  "key": "forelock",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Forelock",
+      "headword_raw": "Fore\"lock`",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The lock of hair that grows from the forepart of the head."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mech.)",
+            "(Rope Making)"
+          ],
+          "defs": [
+            "A cotter or split pin, as in a slot in a bolt, to prevent retraction; a linchpin; a pin fastening the cap-square of a gun."
+          ],
+          "quotes": [
+            "Time is painted with a lock before and bald behind, signifying thereby that we must take time by the forelock; for when it is once past, there is no recalling it.",
+            "On occasion's forelock watchful wait."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

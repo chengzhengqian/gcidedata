@@ -1,0 +1,112 @@
+{
+  "key": "forecast",
+  "source_file": "CIDE.F",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Forecast",
+      "headword_raw": "Fore*cast\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To plan beforehand; to scheme; to project."
+          ],
+          "quotes": [
+            "He shall forecast his devices against the strongholds."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To foresee; to calculate beforehand, so as to provide for; as, to forecast the weather; to forecast prices."
+          ],
+          "quotes": [
+            "It is wisdom to consider the end of things before we embark, and to forecast consequences."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Forecast",
+      "headword_raw": "Fore*cast\"",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To contrive or plan beforehand."
+          ],
+          "quotes": [
+            "If it happen as I did forecast."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Forecast",
+      "headword_raw": "Fore\"cast",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A calculation predicting future events; the foresight of consequences, and provision against them; prevision; premeditation; as, the weather forecast."
+          ],
+          "quotes": [
+            "His calm, deliberate forecast better fitted him for the council than the camp."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

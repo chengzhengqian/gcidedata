@@ -1,0 +1,120 @@
+{
+  "key": "forebode",
+  "source_file": "CIDE.F",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Forebode",
+      "headword_raw": "Fore*bode\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[AS. forebodian; fore + bodian to announce. See Bode v. t.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Foreboded; p. pr. & vb. n. Foreboding.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To foretell."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To be prescient of (some ill or misfortune); to have an inward conviction of, as of a calamity which is about to happen; to augur despondingly."
+          ],
+          "quotes": [
+            "His heart forebodes a mystery.",
+            "Sullen, desponding, and foreboding nothing but wars and desolation, as the certain consequence of Cæsar's death.",
+            "I have a sort of foreboding about him."
+          ],
+          "notes": [],
+          "synonyms": [
+            "foretell",
+            "predict",
+            "prognosticate",
+            "augur",
+            "presage",
+            "portend",
+            "betoken"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Forebode",
+      "headword_raw": "Fore*bode\"",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To foretell; to presage; to augur."
+          ],
+          "quotes": [
+            "If I forebode aright."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Forebode",
+      "headword_raw": "Fore*bode\"",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Prognostication; presage."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "key": "formula",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Formula",
+      "headword_raw": "For\"mu*la",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L., dim. of forma form, model. SeeForm, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A prescribed or set form; an established rule; a fixed or conventional method in which anything is to be done, arranged, or said."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Eccl.)"
+          ],
+          "defs": [
+            "A written confession of faith; a formal statement of doctrines."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "A rule or principle expressed in algebraic language; as, the binominal formula."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "A prescription or recipe for the preparation of a medicinal compound."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Chem.)",
+            "(Chem.)",
+            "(Chem.)",
+            "(Chem.)"
+          ],
+          "defs": [
+            "A symbolic expression (by means of letters, figures, etc.) of the constituents or constitution of a compound."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Chemical formulæ consist of the abbreviations of the names of the elements, with a small figure at the lower right hand, to denote the number of atoms of each element contained."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

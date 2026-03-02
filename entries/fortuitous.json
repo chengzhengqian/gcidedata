@@ -1,0 +1,77 @@
+{
+  "key": "fortuitous",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Fortuitous",
+      "headword_raw": "For*tu\"i*tous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. fortuitus; akin to forte, adv., by chance, prop. abl. of fors, fortis, chance. See Fortune.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Fortuitously",
+          "form_raw": "For*tu\"i*tous*ly",
+          "key": "fortuitously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Fortuitousness",
+          "form_raw": "For*tu\"i*tous*ness",
+          "key": "fortuitousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Happening by chance; coming or occuring unexpectedly, or without any known cause; chance; as, the fortuitous concourse of atoms."
+          ],
+          "quotes": [
+            "It was from causes seemingly fortuitous . . . that all the mighty effects of the Reformation flowed.",
+            "So as to throw a glancing and fortuitous light upon the whole."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(LAw)"
+          ],
+          "defs": [
+            "Happening independently of human will or means of foresight; resulting from unavoidable physical causes."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Accidental",
+            "casual",
+            "contingent",
+            "incidental. See Accidental"
+          ]
+        }
+      ]
+    }
+  ]
+}

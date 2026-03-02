@@ -1,0 +1,55 @@
+{
+  "key": "forfeiture",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Forfeiture",
+      "headword_raw": "For\"fei*ture",
+      "pr": "(?; 135)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. forfeiture, LL. forisfactura.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of forfeiting; the loss of some right, privilege, estate, honor, office, or effects, by an offense, crime, breach of condition, or other act."
+          ],
+          "quotes": [
+            "Under pain of foreiture of the said goods."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That which is forfeited; a penalty; a fine or mulct."
+          ],
+          "quotes": [
+            "What should I gain By the exaction of the forfeiture?"
+          ],
+          "notes": [],
+          "synonyms": [
+            "Fine",
+            "mulct",
+            "amercement",
+            "penalty"
+          ]
+        }
+      ]
+    }
+  ]
+}

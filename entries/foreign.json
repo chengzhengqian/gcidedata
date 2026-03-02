@@ -1,0 +1,84 @@
+{
+  "key": "foreign",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Foreign",
+      "headword_raw": "For\"eign",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": "[OE. forein, F. forain, LL. foraneus, fr. L. foras, foris, out of doors, abroad, without; akin to fores doors, and E. door. See Door, and cf. Foreclose, Forfeit, Forest, Forum.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Outside; extraneous; separated; alien; as, a foreign country; a foreign government."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Not native or belonging to a certain country; born in or belonging to another country, nation, sovereignty, or locality; as, a foreign language; foreign fruits."
+          ],
+          "quotes": [
+            "Hail, foreign wonder! Whom certain these rough shades did never breed."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Remote; distant; strange; not belonging; not connected; not pertaining or pertient; not appropriate; not harmonious; not agreeable; not congenial; -- with to or from; as, foreign to the purpose; foreign to one's nature."
+          ],
+          "quotes": [
+            "This design is not foreign from some people's thoughts."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Law)",
+            "(Med.)"
+          ],
+          "defs": [
+            "Held at a distance; excluded; exiled."
+          ],
+          "quotes": [
+            "Kept him a foreign man still; which so grieved him, That he ran mad and died."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Outlandish",
+            "alien",
+            "exotic",
+            "remote",
+            "distant",
+            "extraneous",
+            "extrinsic"
+          ]
+        }
+      ]
+    }
+  ]
+}

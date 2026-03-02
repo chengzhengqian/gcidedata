@@ -1,0 +1,48 @@
+{
+  "key": "wild-cat",
+  "source_file": "CIDE.W",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Wild-cat",
+      "headword_raw": "Wild\"-cat`",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Unsound; worthless; irresponsible; unsafe; -- said to have been originally applied to the notes of an insolvent bank in Michigan upon which there was the figure of a panther."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Railroad)"
+          ],
+          "defs": [
+            "Running without control; running along the line without a train; as, a wild-cat locomotive."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

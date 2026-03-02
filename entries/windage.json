@@ -1,0 +1,48 @@
+{
+  "key": "windage",
+  "source_file": "CIDE.W",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Windage",
+      "headword_raw": "Wind\"age",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[From Wind air in motion.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Gun.)"
+          ],
+          "defs": [
+            "The difference between the diameter of the bore of a gun and that of the shot fired from it."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The sudden compression of the air caused by a projectile in passing close to another body."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

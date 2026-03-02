@@ -1,0 +1,86 @@
+{
+  "key": "wholesome",
+  "source_file": "CIDE.W",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Wholesome",
+      "headword_raw": "Whole\"some",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "Compar.",
+        "superl.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Whole + some; cf. Icel. heilsamr, G. heilsam, D. heilzaam.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Wholesomely",
+          "form_raw": "Whole\"some*ly",
+          "key": "wholesomely",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Wholesomeness",
+          "form_raw": "Whole\"some*ness",
+          "key": "wholesomeness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Tending to promote health; favoring health; salubrious; salutary."
+          ],
+          "quotes": [
+            "Wholesome thirst and appetite.",
+            "From which the industrious poor derive an agreeable and wholesome variety of food."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Contributing to the health of the mind; favorable to morals, religion, or prosperity; conducive to good; salutary; sound; as, wholesome advice; wholesome doctrines; wholesome truths; wholesome laws."
+          ],
+          "quotes": [
+            "A wholesome tongue is a tree of life.",
+            "I can not . . . make you a wholesome answer; my wit's diseased.",
+            "A wholesome suspicion began to be entertained."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Sound; healthy."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

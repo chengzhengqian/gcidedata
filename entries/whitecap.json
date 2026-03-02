@@ -1,0 +1,81 @@
+{
+  "key": "whitecap",
+  "source_file": "CIDE.W",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Whitecap",
+      "headword_raw": "White\"cap`",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "v."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Whitecap",
+          "form_raw": "White\"cap`",
+          "key": "whitecap",
+          "pos": [
+            "v."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Whitecapper",
+          "form_raw": "White\"cap`per",
+          "key": "whitecapper",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "The European redstart; -- so called from its white forehead.",
+            "The whitethroat; -- so called from its gray head.",
+            "The European tree sparrow."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A wave whose crest breaks into white foam, as when the wind is freshening."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A member of a self-appointed vigilance committee attempting by lynch-law methods to drive away or coerce persons obnoxious to it. Some early ones wore white hoods or masks."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

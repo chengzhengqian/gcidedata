@@ -1,0 +1,70 @@
+{
+  "key": "willful",
+  "source_file": "CIDE.W",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Willful",
+      "headword_raw": "Will\"ful",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Will + full.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Willfully",
+          "form_raw": "Will\"ful*ly",
+          "key": "willfully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Willfulness",
+          "form_raw": "Will\"ful*ness",
+          "key": "willfulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of set purpose; self-determined; voluntary; as, willful murder."
+          ],
+          "quotes": [
+            "In willful poverty chose to lead his life.",
+            "Thou to me Art all things under heaven, all places thou, Who, for my willful crime, art banished hence."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Governed by the will without yielding to reason; obstinate; perverse; inflexible; stubborn; refractory; as, a willful man or horse."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

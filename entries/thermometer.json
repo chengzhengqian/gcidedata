@@ -1,0 +1,40 @@
+{
+  "key": "thermometer",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Thermometer",
+      "headword_raw": "Ther*mom\"e*ter",
+      "pr": "(thr*mm\"*tr)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Thermo- + -meter: cf. F. thermomtre. See Thermal.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An instrument for measuring temperature, founded on the principle that changes of temperature in bodies are accompanied by proportional changes in their volumes or dimensions."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The thermometer usually consists of a glass tube of capillary bore, terminating in a bulb, and containing mercury or alcohol, which expanding or contracting according to the temperature to which it is exposed, indicates the degree of heat or cold by the amount of space occupied, as shown by the position of the top of the liquid column on a graduated scale. See Centigrade, Fahrenheit, and Raumur. [1913 Webster] To reduce degrees Fahrenheit to degrees Centigrade, subtract 32° and multiply by ; to reduce degrees Centigrade to degrees Fahrenheit, multiply by and add 32°. [1913 Webster]"
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "key": "thousand",
+  "source_file": "CIDE.T",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Thousand",
+      "headword_raw": "Thou\"sand",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. þousend, þusend, AS. þūsend; akin to OS. thūsundig, thūsind, OFries. thusend, D. duizend, G. tausend, OHG. tūsunt, dūsunt, Icel. þūsund, þūshund, Sw. tusen, Dan. tusind, Goth. þūsundi, Lith. tukstantis, Russ. tuisiacha; of uncertain origin.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The number of ten hundred; a collection or sum consisting of ten times one hundred units or objects."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Hence, indefinitely, a great number."
+          ],
+          "quotes": [
+            "A thousand shall fall at thy side, and ten thousand at thy right hand."
+          ],
+          "notes": [
+            "☞ The word thousand often takes a plural form. See the Note under Hundred."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A symbol representing one thousand units; as, 1,000, M or CI."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Thousand",
+      "headword_raw": "Thou\"sand",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Consisting of ten hundred; being ten times one hundred."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Hence, consisting of a great number indefinitely."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "key": "thief",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Thief",
+      "headword_raw": "Thief",
+      "pr": "(thēf)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. thef, theef, AS. þef; akin to OFries. thiaf, OS. theof, thiof, D. dief, G. dieb, OHG. diob, Icel. þjōfr, Sw. tjuf, Dan. tyv, Goth. þiufs, þiubs, and perhaps to Lith. tupeti to squat or crouch down. Cf. Theft.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "-- Thief, Robber. A thief takes our property by stealth; a robber attacks us openly, and strips us by main force."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One who steals; one who commits theft or larceny. See Theft."
+          ],
+          "quotes": [
+            "There came a privy thief, men clepeth death.",
+            "Where thieves break through and steal."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A waster in the snuff of a candle."
+          ],
+          "quotes": [
+            "Take heed, have open eye, for thieves do foot by night.",
+            "Some roving robber calling to his fellows."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Robber",
+            "pilferer"
+          ]
+        }
+      ]
+    }
+  ]
+}

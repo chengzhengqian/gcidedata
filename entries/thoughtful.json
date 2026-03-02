@@ -1,0 +1,93 @@
+{
+  "key": "thoughtful",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Thoughtful",
+      "headword_raw": "Thought\"ful",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "-- Thoughtful, Considerate. He who is habitually thoughtful rarely neglects his duty or his true interest; he who is considerate pauses to reflect and guard himself against error. One who is not thoughtful by nature, if he can be made considerate, will usually be guarded against serious mistakes. “He who is thoughtful does not forget his duty; he who is considerate pauses, and considers properly what is his duty. It is a recommendation to a subordinate person to be thoughtful in doing what is wished of him; it is the recommendation of a confidential person to be considerate, as he has often to judge according to his own discretion.” Crabb."
+      ],
+      "wordforms": [
+        {
+          "form": "Thoughtfully",
+          "form_raw": "Thought\"ful*ly",
+          "key": "thoughtfully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Thoughtfulness",
+          "form_raw": "Thought\"ful*ness",
+          "key": "thoughtfulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Full of thought; employed in meditation; contemplative; as, a man of thoughtful mind."
+          ],
+          "quotes": [
+            "War, horrid war, your thoughtful walks invades."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Attentive; careful; exercising the judgment; having the mind directed to an object; as, thoughtful of gain; thoughtful in seeking truth."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Anxious; solicitous; concerned."
+          ],
+          "quotes": [
+            "Around her crowd distrust, and doubt, and fear, And thoughtful foresight, and tormenting care."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Considerate",
+            "deliberate",
+            "contemplative",
+            "attentive",
+            "careful",
+            "wary",
+            "circumspect",
+            "reflective",
+            "discreet"
+          ]
+        }
+      ]
+    }
+  ]
+}

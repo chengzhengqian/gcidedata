@@ -1,0 +1,81 @@
+{
+  "key": "thievish",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Thievish",
+      "headword_raw": "Thiev\"ish",
+      "pr": null,
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Thievishly",
+          "form_raw": "Thiev\"ish*ly",
+          "key": "thievishly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Thievishness",
+          "form_raw": "Thiev\"ish*ness",
+          "key": "thievishness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Given to stealing; addicted to theft; as, a thievish boy, a thievish magpie."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Like a thief; acting by stealth; sly; secret."
+          ],
+          "quotes": [
+            "Time's thievish progress to eternity."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Partaking of the nature of theft; accomplished by stealing; dishonest; as, a thievish practice."
+          ],
+          "quotes": [
+            "Or with a base and biosterous sword enforce A thievish living on the common road."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

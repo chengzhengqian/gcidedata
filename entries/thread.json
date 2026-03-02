@@ -1,0 +1,159 @@
+{
+  "key": "thread",
+  "source_file": "CIDE.T",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Thread",
+      "headword_raw": "Thread",
+      "pr": "(thrd)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. threed, þred, AS. þrǣd; akin to D. draad, G. draht wire, thread, OHG. drāt, Icel. þrāðr a thread, Sw. trd, Dan. traad, and AS. þrāwan to twist. See Throw, and cf. Third.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A very small twist of flax, wool, cotton, silk, or other fibrous substance, drawn out to considerable length; a compound cord consisting of two or more single yarns doubled, or joined together, and twisted; also, one fiber of a cord composed of multiple fibers."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A filament of any substance, as of glass, gold or silver; a filamentous part of an object, such as a flower; a component fiber of any or of any fibrous substance, as of bark."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "The prominent part of the spiral of a screw or nut; the rib. See Screw, n., 1."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Something continued in a long course or tenor; a recurrent theme or related sequence of events in a larger story; as the thread of a story, or of life, or of a discourse."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "Fig.: Composition; quality; fineness."
+          ],
+          "quotes": [
+            "A neat courtier, Of a most elegant thread."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "A related sequence of instructions or actions within a program that runs at least in part independent of other actions within the program; -- such threads are capable of being executed only in oprating systems permittnig multitasking."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "7.",
+          "fields": [
+            "(Computers)",
+            "(Zool.)",
+            "(Zool.)"
+          ],
+          "defs": [
+            "A sequence of messages posted to an on-line newsgroup or discussion group, dealing with the same topic; -- messages in such a thread typically refer to a previous posting, thus allowing their identification as part of the thread. Some news-reading programs allow a user to follow a single such thread independent of the other postings to that newsgroup."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Thread",
+      "headword_raw": "Thread",
+      "pr": null,
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Threaded; p. pr. & vb. n. Threading.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To pass a thread through the eye of; as, to thread a needle."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To pass or pierce through as a narrow way; also, to effect or make, as one's way, through or between obstacles; to thrid."
+          ],
+          "quotes": [
+            "Heavy trading ships . . . threading the Bosphorus.",
+            "They would not thread the gates."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To form a thread, or spiral rib, on or in; as, to thread a screw or nut."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

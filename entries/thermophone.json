@@ -1,0 +1,46 @@
+{
+  "key": "thermophone",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Thermophone",
+      "headword_raw": "Ther\"mo*phone",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Thermo- + phone.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A portable form of telethermometer, using a telephone in connection with a differential thermometer."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A telephone involving heat effects, as changes in temperature (hence in length) due to pulsations of the line current in a fine wire connected with the receiver diaphragm."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

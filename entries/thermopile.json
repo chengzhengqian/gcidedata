@@ -1,0 +1,38 @@
+{
+  "key": "thermopile",
+  "source_file": "CIDE.T",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Thermopile",
+      "headword_raw": "Ther\"mo*pile",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Thermo- + pile a heap.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An instrument of extreme sensibility, used to determine slight differences and degrees of heat. It is composed of alternate bars of antimony and bismuth, or any two metals having different capacities for the conduction of heat, connected with an astatic galvanometer, which is very sensibly affected by the electric current induced in the system of bars when exposed even to the feeblest degrees of heat."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "key": "filled",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "filled",
+      "headword_raw": "filled",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "containing as much or as many as is possible or normal; as, filled to overflowing. Opposite of empty."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "full"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "entirely of one substance with no holes inside. Opposite of hollow."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "solid"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "having appointments throughout the course of a period; -- of an appointment schedule; as, My calendar is filled for the week. Opposite of unoccupied and free"
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "occupied"
+          ]
+        }
+      ]
+    }
+  ]
+}

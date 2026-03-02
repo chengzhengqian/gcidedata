@@ -1,0 +1,98 @@
+{
+  "key": "fib",
+  "source_file": "CIDE.F",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Fib",
+      "headword_raw": "Fib",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Prob. fr. fable; cf. Prov. E. fibble-fabble nonsense.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A falsehood; a lie; -- used euphemistically."
+          ],
+          "quotes": [
+            "They are very serious; they don't tell fibs."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Fib",
+      "headword_raw": "Fib",
+      "pr": "(?)",
+      "pos": [
+        "v. i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Fibbed (?); p. pr. & vb. n. Fibbing (?).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To speak falsely."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Fib",
+      "headword_raw": "Fib",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To tell a fib to."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

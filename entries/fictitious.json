@@ -1,0 +1,59 @@
+{
+  "key": "fictitious",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Fictitious",
+      "headword_raw": "Fic*ti\"tious",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. fictitius. See Fiction.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Fictitiously",
+          "form_raw": "Fic*ti\"tious*ly",
+          "key": "fictitiously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Fictitiousness",
+          "form_raw": "Fic*ti\"tious*ness",
+          "key": "fictitiousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Feigned; imaginary; not real; fabulous; counterfeit; false; not genuine; as, fictitious fame."
+          ],
+          "quotes": [
+            "The human persons are as fictitious as the airy ones."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

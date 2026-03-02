@@ -1,0 +1,59 @@
+{
+  "key": "fictile",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Fictile",
+      "headword_raw": "Fic\"tile",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": "[L. fictilis. See Fiction.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Fictileness",
+          "form_raw": "Fic\"tile*ness",
+          "key": "fictileness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Fictility",
+          "form_raw": "Fic*til\"i*ty",
+          "key": "fictility",
+          "pos": [
+            "n."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Molded, or capable of being molded, into form by art; relating to pottery or to molding in any soft material."
+          ],
+          "quotes": [
+            "Fictile earth is more fragile than crude earth.",
+            "The earliest specimens of Italian fictile art."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

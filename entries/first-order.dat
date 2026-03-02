@@ -1,0 +1,30 @@
+SIMPLE: first-order
+RECORDS: 1
+
+==== ENTRY 1 ====
+HEADWORD: First-order
+<hw>First`-or"der</hw>, <pos>a.</pos> <def>decaying at an exponential
+rate; -- a mathematical concept applied to various types of decay, such
+as radioactivity and chemical reactions.</def> <note>In first order
+decay, the amount of material decaying in a given period of time is
+directly proportional to the amount of material remaining. This may be
+expressed by the differential equation: <mathex>dA/dt = -kt</mathex>
+
+where dA/dt is the rate per unit time at which the quantity (or
+concentration) of material (expressed as A) is increasing, t is the
+time, and k is a constant. The minus sign in front of the "kt" assures
+that the amount of material remaining will be decreasing as time
+progresses. A solution of the differential equation to give the quantity
+<it>A</it> shows that: <mathex>A = e<exp>-kt</exp></mathex>
+
+where <it>e</it> is the base for natural logarithms. Thus this type of
+decay is called <it>exponential decay</it>. In certain chemical
+reactions that are in fact second-order, involving two reactants, the
+conditions may be chosen in some cases so that one reactant is vastly in
+excess of the other, and its concentration changes very little in the
+course of the reaction, so that the reaction rate will be approximately
+first order in the more dilute reactant; such reactions are called
+<stype>pseudo first order</stype>.</note>⟦br⟧
+[<source>PJC</source>]</p>
+
+<p><ent>First-rate</ent>⟦br⟧

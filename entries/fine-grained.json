@@ -1,0 +1,66 @@
+{
+  "key": "fine-grained",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "fine-grained",
+      "headword_raw": "fine-grained",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "consisting of fine particles."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "powdered",
+            "powdery",
+            "pulverized",
+            "small-grained"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "dense or compact in structure or texture, as a wood composed of small-diameter cells."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "close-grained"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "involving careful consideration of details and fine distinctions; -- of conceptual schemas; as, fine-grained distinctions."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "detailed"
+          ]
+        }
+      ]
+    }
+  ]
+}

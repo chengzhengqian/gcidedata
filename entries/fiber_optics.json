@@ -1,0 +1,38 @@
+{
+  "key": "fiber_optics",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Fiber optics",
+      "headword_raw": "Fi\"ber op`tics",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "that branch of optics which studies the transmission of light through thin transparent fibers."
+          ],
+          "quotes": [],
+          "notes": [
+            "Light transmission through optical fibers has become an important means of data and telephone signal transmission, in some areas superseding the carrying of vioce and data signals through electrical pulses over copper wire. It is also used for directly carrying images from otherwise inaccessible locations, as from inside the body, for medical procedures. Light transmission via fiber optics for data transmission uses an optical fiber made of specially purified glass with low light absorption characteristics."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

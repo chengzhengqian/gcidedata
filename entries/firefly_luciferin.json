@@ -1,0 +1,40 @@
+{
+  "key": "firefly_luciferin",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Firefly luciferin",
+      "headword_raw": "Fire\"fly` lu*cif\"er*in",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Biochem.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "a type of luciferin produced by the firefly Photinus pyralis."
+          ],
+          "quotes": [],
+          "notes": [
+            "Its structure has been elucidated, and chemically it is recognized as 4,5-Dihydro-2-(6-hydroxy-2-benzothiazol-2-yl)-4-thiazolecarboxylic acid, C11H8N3O2S2. It has found use in a very sensitive assay for ATP, in which concentrations of ATP as low as 10-11 molar can be detected. [MI11]"
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

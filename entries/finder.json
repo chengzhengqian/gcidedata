@@ -1,0 +1,53 @@
+{
+  "key": "finder",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Finder",
+      "headword_raw": "Find\"er",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "+PJC",
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Astron.)"
+          ],
+          "defs": [
+            "One who, or that which, finds;",
+            "a small telescope of low power and large field of view, attached to a larger telescope, for the purpose of finding an object more readily, called also a finder telescope or finder scope."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Micros.)"
+          ],
+          "defs": [
+            "A slide ruled in squares, so as to assist in locating particular points in the field of vision."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

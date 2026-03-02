@@ -1,0 +1,49 @@
+{
+  "key": "fibrocartilage",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Fibrocartilage",
+      "headword_raw": "Fi`bro*car\"ti*lage",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[L. fibra a fiber + E. cartilage.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Fibrocartilaginous",
+          "form_raw": "Fi`bro*car`ti*lag\"i*nous",
+          "key": "fibrocartilaginous",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Anat.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A kind of cartilage with a fibrous matrix and approaching fibrous connective tissue in structure."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "key": "fierce",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Fierce",
+      "headword_raw": "Fierce",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "Compar.",
+        "superl.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[OE. fers, fiers, OF. fier, nom. fiers, fierce, savage, cruel, F. fier proud, from L. ferus wild, savage, cruel; perh. akin to E. bear the animal. Cf. Feral, Ferocity.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Fiercely",
+          "form_raw": "Fierce\"ly",
+          "key": "fiercely",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Fierceness",
+          "form_raw": "Fierce\"ness",
+          "key": "fierceness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Furious; violent; unrestrained; impetuous; as, a fierce wind."
+          ],
+          "quotes": [
+            "His fierce thunder drove us to the deep."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Vehement in anger or cruelty; ready or eager to kill or injure; of a nature to inspire terror; ferocious."
+          ],
+          "quotes": [
+            "The fierce foe hung upon our broken rear.",
+            "Thou huntest me as a fierce lion."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Excessively earnest, eager, or ardent."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Ferocious",
+            "savage",
+            "cruel",
+            "vehement",
+            "impetuous",
+            "barbarous",
+            "fell. See Ferocious"
+          ]
+        }
+      ]
+    }
+  ]
+}

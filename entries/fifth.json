@@ -1,0 +1,89 @@
+{
+  "key": "fifth",
+  "source_file": "CIDE.F",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Fifth",
+      "headword_raw": "Fifth",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[OE. fifte, fifthe, AS. fīfta. See Five.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Next in order after the fourth; -- the ordinal of five."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Hist.)"
+          ],
+          "defs": [
+            "Consisting of one of five equal divisions of a thing."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Fifth",
+      "headword_raw": "Fifth",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The quotient of a unit divided by five; one of five equal parts; a fifth part."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mus.)"
+          ],
+          "defs": [
+            "The interval of three tones and a semitone, embracing five diatonic degrees of the scale; the dominant of any key."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

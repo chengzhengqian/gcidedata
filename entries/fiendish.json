@@ -1,0 +1,57 @@
+{
+  "key": "fiendish",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Fiendish",
+      "headword_raw": "Fiend\"ish",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Fiendishly",
+          "form_raw": "Fiend\"ish*ly",
+          "key": "fiendishly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Fiendishness",
+          "form_raw": "Fiend\"ish*ness",
+          "key": "fiendishness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Like a fiend; diabolically wicked or cruel; infernal; malignant; devilish; hellish."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

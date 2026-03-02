@@ -1,0 +1,38 @@
+{
+  "key": "fifo",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "FIFO",
+      "headword_raw": "FIFO",
+      "pr": "(fī\"fō)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[acronym, First In First Out.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(accounting)"
+          ],
+          "defs": [
+            "an accounting method in which goods in inventory are valued at the price of the most recent acquisition of each type of goods, and those used up from inventory are valued at the cost of those first acquired."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

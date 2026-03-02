@@ -1,0 +1,67 @@
+{
+  "key": "filtrate",
+  "source_file": "CIDE.F",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Filtrate",
+      "headword_raw": "Fil\"trate",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[Cf. LL. filtrare. See Filter.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Filtrated (?); p. pr. & vb. n. Filtrating. (<?/)]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To filter; to defecate; as liquid, by straining or percolation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Filtrate",
+      "headword_raw": "Fil\"trate",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "That which has been filtered; the liquid which has passed through the filter in the process of filtration. Contrasted with retentate, the material remaining on the filter."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

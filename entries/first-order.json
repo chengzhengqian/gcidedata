@@ -1,0 +1,38 @@
+{
+  "key": "first-order",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "First-order",
+      "headword_raw": "First`-or\"der",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "decaying at an exponential rate; -- a mathematical concept applied to various types of decay, such as radioactivity and chemical reactions."
+          ],
+          "quotes": [],
+          "notes": [
+            "In first order decay, the amount of material decaying in a given period of time is directly proportional to the amount of material remaining. This may be expressed by the differential equation: dA/dt = -kt where dA/dt is the rate per unit time at which the quantity (or concentration) of material (expressed as A) is increasing, t is the time, and k is a constant. The minus sign in front of the \"kt\" assures that the amount of material remaining will be decreasing as time progresses. A solution of the differential equation to give the quantity A shows that: A = e-kt where e is the base for natural logarithms. Thus this type of decay is called exponential decay. In certain chemical reactions that are in fact second-order, involving two reactants, the conditions may be chosen in some cases so that one reactant is vastly in excess of the other, and its concentration changes very little in the course of the reaction, so that the reaction rate will be approximately first order in the more dilute reactant; such reactions are called pseudo first order."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

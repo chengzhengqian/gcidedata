@@ -1,0 +1,54 @@
+{
+  "key": "fiesta",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Fiesta",
+      "headword_raw": "Fies\"ta",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Sp. See Feast, n.]",
+      "sources": [
+        "Webster 1913 Suppl.",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Among Spanish, a religious festival; a saint's day or holiday; also, a holiday or festivity."
+          ],
+          "quotes": [
+            "Even . . . a bullfight is a fiesta.",
+            "Some fiesta, when all the surrounding population were expected to turn out in holiday dress for merriment."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "an organized series of acts and performances."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "festival",
+            "feast",
+            "fete"
+          ]
+        }
+      ]
+    }
+  ]
+}

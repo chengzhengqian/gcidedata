@@ -1,0 +1,81 @@
+{
+  "key": "finance",
+  "source_file": "CIDE.F",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Finance",
+      "headword_raw": "Fi*nance\"",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F., fr. LL. financia payment of money, money, fr. finare to pay a fine or subsidy (cf. OF. finer to finish, pay), fr. L. finis end. See Fine, n., Finish.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The income of a ruler or of a state; revenue; public money; sometimes, the income of an individual; often used in the plural for funds; available money; resources."
+          ],
+          "quotes": [
+            "All the finances or revenues of the imperial crown."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The science of raising and expending the public revenue."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Finance",
+      "headword_raw": "Fi*nance\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t. & i.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": "[imp. & p. p. Financed (?); p. pr. & vb. n. Financing.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To conduct the finances of; to provide for, and manage, the capital for; to financier."
+          ],
+          "quotes": [
+            "Securing foreign capital to finance multitudinous undertakings."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "key": "fiar",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Fiar",
+      "headword_raw": "Fi\"ar",
+      "pr": "(? ?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[See Feuar.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Scots Law)"
+          ],
+          "defs": [
+            "One in whom the property of an estate is vested, subject to the estate of a life renter."
+          ],
+          "quotes": [
+            "I am fiar of the lands; she a life renter."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The price of grain, as legally fixed, in the counties of Scotland, for the current year."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

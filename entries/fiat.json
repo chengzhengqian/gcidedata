@@ -1,0 +1,51 @@
+{
+  "key": "fiat",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Fiat",
+      "headword_raw": "Fi\"at",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L., let it be done, 3d pers. sing., subj. pres., fr. fieri, used as pass. of facere to make. Cf. Be.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "An authoritative command or order to do something; an effectual decree."
+          ],
+          "quotes": [
+            "His fiat laid the corner stone."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Eng. Law)"
+          ],
+          "defs": [
+            "A warrant of a judge for certain processes.",
+            "An authority for certain proceedings given by the Lord Chancellor's signature."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "key": "fifty",
+  "source_file": "CIDE.F",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Fifty",
+      "headword_raw": "Fif\"ty",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[AS. fīftig; akin to OHG. finfzug, fimfzuc, G. fünfzig, funfzig, Goth. fimftigjus. See Five, and Ten, and cf. Fifteen.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Five times ten; as, fifty men."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Fifty",
+      "headword_raw": "Fif\"ty",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The sum of five tens; fifty units or objects."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A symbol representing fifty units, as 50, or l."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

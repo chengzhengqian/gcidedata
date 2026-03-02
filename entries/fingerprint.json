@@ -1,0 +1,101 @@
+{
+  "key": "fingerprint",
+  "source_file": "CIDE.F",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Fingerprint",
+      "headword_raw": "Fin\"ger*print",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Finger + print.]",
+      "sources": [
+        "PJC",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "an impression of the pattern of ridges on the skin of the last joint of a person's finger, left on a surface after a person has touched the surface."
+          ],
+          "quotes": [],
+          "notes": [
+            "Fingerprints left by persons who have committed crimes are considered as reliable physical evidence linking an individual with a crime, because each person's fingerprints are distinctively different from those of others, allowing identification of a person with high confidence."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "a fingerprint{1} made intentionally in ink on a paper form for the purpose of identification of the individual."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "any distinctive pattern of characteristics or properties of an object which can serve to identify that object; as, the distinctive fingerprint of eugenol in the mass spectrum allowed easy recognition of its presence in the sample."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "a smudge made by a (dirty) finger."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "fingermark"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "fingerprint",
+      "headword_raw": "fin\"ger*print",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "to take an impression of the fingerprints of (a person); as, to fingerprint applicants for a gun permit."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

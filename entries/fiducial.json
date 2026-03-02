@@ -1,0 +1,49 @@
+{
+  "key": "fiducial",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Fiducial",
+      "headword_raw": "Fi*du\"cial",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. fiducia trust, confidence; akin to fides faith. See Faith.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Having faith or trust; confident; undoubting; firm."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Astron. & Surv.)",
+            "(Math. & Physics.)"
+          ],
+          "defs": [
+            "Having the nature of a trust; fiduciary; as, fiducial power."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

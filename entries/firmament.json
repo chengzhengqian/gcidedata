@@ -1,0 +1,66 @@
+{
+  "key": "firmament",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Firmament",
+      "headword_raw": "Fir\"ma*ment",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "v. & a."
+      ],
+      "ety": "[L. firmamentum, fr. firmare to make firm: cf. F. firmament. See Firm, v. & a.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Fixed foundation; established basis."
+          ],
+          "quotes": [
+            "Custom is the . . . firmament of the law."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The region of the air; the sky or heavens."
+          ],
+          "quotes": [
+            "And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters.",
+            "And God said, Let there be lights in the firmament."
+          ],
+          "notes": [
+            "☞ In Scripture, the word denotes an expanse, a wide extent; the great arch or expanse over out heads, in which are placed the atmosphere and the clouds, and in which the stars appear to be placed, and are really seen."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Old Astron.)"
+          ],
+          "defs": [
+            "The orb of the fixed stars; the most remote of the celestial spheres."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

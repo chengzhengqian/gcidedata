@@ -1,0 +1,91 @@
+{
+  "key": "figurative",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Figurative",
+      "headword_raw": "Fig\"ur*a*tive",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[L. figurativus: cf. F. figuratif. See Figurative.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Figuratively",
+          "form_raw": "Fig\"ur*a*tive*ly",
+          "key": "figuratively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Figurativeness",
+          "form_raw": "Fig\"ur*a*tive*ness",
+          "key": "figurativeness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Representing by a figure, or by resemblance; typical; representative."
+          ],
+          "quotes": [
+            "This, they will say, was figurative, and served, by God's appointment, but for a time, to shadow out the true glory of a more divine sanctity."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Used in a sense that is tropical, as a metaphor; not literal; -- applied to words and expressions."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Abounding in figures of speech; flowery; florid; as, a highly figurative description."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Relating to the representation of form or figure by drawing, carving, etc. See Figure, n., 2."
+          ],
+          "quotes": [
+            "They belonged to a nation dedicated to the figurative arts, and they wrote for a public familiar with painted form."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

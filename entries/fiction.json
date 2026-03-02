@@ -1,0 +1,90 @@
+{
+  "key": "fiction",
+  "source_file": "CIDE.F",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Fiction",
+      "headword_raw": "Fic\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. fiction, L. fictio, fr. fingere, fictum to form, shape, invent, feign. See Feign.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "-- Fiction, Fabrication. Fiction is opposed to what is real; fabrication to what is true. Fiction is designed commonly to amuse, and sometimes to instruct; a fabrication is always intended to mislead and deceive. In the novels of Sir Walter Scott we have fiction of the highest order. The poems of Ossian, so called, were chiefly fabrications by Macpherson."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of feigning, inventing, or imagining; as, by a mere fiction of the mind."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That which is feigned, invented, or imagined; especially, a feigned or invented story, whether oral or written. Hence: A story told in order to deceive; a fabrication; -- opposed to fact, or reality."
+          ],
+          "quotes": [
+            "The fiction of those golden apples kept by a dragon.",
+            "When it could no longer be denied that her flight had been voluntary, numerous fictions were invented to account for it."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Fictitious literature; comprehensively, all works of imagination; specifically, novels and romances."
+          ],
+          "quotes": [
+            "The office of fiction as a vehicle of instruction and moral elevation has been recognized by most if not all great educators."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "An assumption of a possible thing as a fact, irrespective of the question of its truth."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "Any like assumption made for convenience, as for passing more rapidly over what is not disputed, and arriving at points really at issue."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Fabrication",
+            "invention",
+            "fable",
+            "falsehood"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "key": "filipino",
+  "source_file": "CIDE.F",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Filipino",
+      "headword_raw": "Filipino",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "of or relating to the Philippines or its people or customs."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Philippine"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "of or relating to the language of the Philippines."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Tagalog"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Filipino",
+      "headword_raw": "Fil`i*pi\"no",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Sp.]",
+      "sources": [
+        "Webster 1913 Suppl.",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "the official language of the Philippines, based on Tagalog. It draws its lexicon from other Philippine languages."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Philippine"
+          ]
+        }
+      ]
+    }
+  ]
+}

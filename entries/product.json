@@ -1,0 +1,112 @@
+{
+  "key": "product",
+  "source_file": "CIDE.P",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Product",
+      "headword_raw": "Prod\"uct",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. productus, p. pr. of producere. See Produce.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Anything that is produced, whether as the result of generation, growth, labor, or thought, or by the operation of involuntary causes; as, the products of the season, or of the farm; the products of manufactures; the products of the brain."
+          ],
+          "quotes": [
+            "There are the product Of those ill-mated marriages.",
+            "These institutions are the products of enthusiasm."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "The number or sum obtained by adding one number or quantity to itself as many times as there are units in another number; the number resulting from the multiplication of two or more numbers; as, the product of the multiplication of 7 by 5 is 35. In general, the result of any kind of multiplication. See the Note under Multiplication."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Produce",
+            "production",
+            "fruit",
+            "result",
+            "effect",
+            "consequence",
+            "outcome",
+            "work",
+            "performance"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Product",
+      "headword_raw": "Pro*duct\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To produce; to bring forward."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To lengthen out; to extend."
+          ],
+          "quotes": [
+            "He that doth much . . . products his mortality."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To produce; to make."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

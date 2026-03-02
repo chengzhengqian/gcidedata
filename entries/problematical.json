@@ -1,0 +1,60 @@
+{
+  "key": "problematical",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Problematical",
+      "headword_raw": "Prob`lem*at\"ic*al",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[L. problematicus, Gr. <?/: cf. F. problmatique.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Problematically",
+          "form_raw": "Prob`lem*at\"ic*al*ly",
+          "key": "problematically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Having the nature of a problem; not shown in fact; questionable; uncertain; unsettled; doubtful; as, his theory is problematic because it fails to explain several facts."
+          ],
+          "quotes": [
+            "Diligent inquiries into remote and problematical guilt leave a gate wide open to . . . informers."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Having characteristics which will create difficulties or undesirable consequences; -- of a proposed action; as, the proposed law is problematic because it will cause many people to lose their jobs."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

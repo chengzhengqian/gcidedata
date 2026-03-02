@@ -1,0 +1,80 @@
+{
+  "key": "productive",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Productive",
+      "headword_raw": "Pro*duc\"tive",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[F. productif, L. productivus fit for prolongation.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Productively",
+          "form_raw": "Pro*duc\"tive*ly",
+          "key": "productively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Productiveness",
+          "form_raw": "Pro*duc\"tive*ness",
+          "key": "productiveness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Having the quality or power of producing; yielding or furnishing results; as, productive soil; productive enterprises; productive labor, that which increases the number or amount of products."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Bringing into being; causing to exist; producing; originative; as, an age productive of great men; a spirit productive of heroic achievements."
+          ],
+          "quotes": [
+            "And kindle with thy own productive fire.",
+            "This is turning nobility into a principle of virtue, and making it productive of merit."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Producing, or able to produce, in large measure; fertile; profitable."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

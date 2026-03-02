@@ -1,0 +1,79 @@
+{
+  "key": "procrastinate",
+  "source_file": "CIDE.P",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Procrastinate",
+      "headword_raw": "Pro*cras\"ti*nate",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. procrastinatus, p. p. of procrastinare to procrastinate; pro forward + crastinus of to-morrow, fr. cras to-morrow.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Procrastinated (?); p. pr. & vb. n. Procrastinating.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [
+        "postpone",
+        "adjourn",
+        "defer",
+        "delay",
+        "retard",
+        "protract",
+        "prolong"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To put off till to-morrow, or from day to day; to defer; to postpone; to delay; as, to procrastinate repentance."
+          ],
+          "quotes": [
+            "Hopeless and helpless Aegeon wend, But to procrastinate his lifeless end."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Procrastinate",
+      "headword_raw": "Pro*cras\"ti*nate",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To delay; to be dilatory."
+          ],
+          "quotes": [
+            "I procrastinate more than I did twenty years ago."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

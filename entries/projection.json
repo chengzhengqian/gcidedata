@@ -1,0 +1,84 @@
+{
+  "key": "projection",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Projection",
+      "headword_raw": "Pro*jec\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. projectio: cf. F. projection.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of throwing or shooting forward."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A jutting out; also, a part jutting out, as of a building; an extension beyond something else."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "The act of scheming or planning; also, that which is planned; contrivance; design; plan."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Persp.)"
+          ],
+          "defs": [
+            "The representation of something; delineation; plan; especially, the representation of any object on a perspective plane, or such a delineation as would result were the chief points of the object thrown forward upon the plane, each in the direction of a line drawn through it from a given point of sight, or central point; as, the projection of a sphere. The several kinds of projection differ according to the assumed point of sight and plane of projection in each."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Geog.)",
+            "(Alchemy.)",
+            "(Descriptive Geom.)"
+          ],
+          "defs": [
+            "Any method of representing the surface of the earth upon a plane."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "See Protuberance"
+          ]
+        }
+      ]
+    }
+  ]
+}

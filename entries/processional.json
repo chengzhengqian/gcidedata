@@ -1,0 +1,79 @@
+{
+  "key": "processional",
+  "source_file": "CIDE.P",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Processional",
+      "headword_raw": "Pro*ces\"sion*al",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to a procession; consisting in a procession."
+          ],
+          "quotes": [
+            "The processional services became more frequent."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Processional",
+      "headword_raw": "Pro*ces\"sion*al",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. processionnal, LL. processionale.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(R. C. Ch.)"
+          ],
+          "defs": [
+            "A service book relating to ecclesiastical processions."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A hymn, or other selection, sung during a church procession; as, the processional was the 202d hymn."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

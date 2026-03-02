@@ -1,0 +1,38 @@
+{
+  "key": "proenzyme",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "proenzyme",
+      "headword_raw": "pro\"en*zyme",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Bioch.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Any one of a class of proteins that are converted, in the normal course of cellular metabolism, into one or more active enzymes; also called zymogen. The conversion usually is due to a specific cleavage of a peptide bond by another enzyme, or may be due to acid."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

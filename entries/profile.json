@@ -1,0 +1,107 @@
+{
+  "key": "profile",
+  "source_file": "CIDE.P",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Profile",
+      "headword_raw": "Pro\"file",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[It. profilo, fr. L. pro before + filum a thread, an outline, shape: cf. F. profil. See File arow, and cf. Purfle, Purl, a fringe.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "An outline, or contour; as, the profile of an apple."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Paint & Sculp.)"
+          ],
+          "defs": [
+            "A human head represented sidewise, or in a side view; the side face or half face."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Arch.)",
+            "(Civil Engin.)",
+            "(Civil Engin.)"
+          ],
+          "defs": [
+            "A section of any member, made at right angles with its main lines, showing the exact shape of moldings and the like.",
+            "A drawing exhibiting a vertical section of the ground along a surveyed line, or graded work, as of a railway, showing elevations, depressions, grades, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Profile",
+      "headword_raw": "Pro\"file",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "n."
+      ],
+      "ety": "[Cf. F. profiler, It. profilare. See Profile, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Profiled (?); p. pr. & vb. n. Profiling]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "to draw the outline of; to draw in profile, as an architectural member."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Mech.)"
+          ],
+          "defs": [
+            "To shape the outline of an object by passing a cutter around it."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

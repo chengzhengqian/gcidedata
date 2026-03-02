@@ -1,0 +1,51 @@
+{
+  "key": "procurator",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Procurator",
+      "headword_raw": "Proc\"u*ra`tor",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L.: cf. F. procurateur. See Procure, and cf. Proctor. ]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "One who manages another's affairs, either generally or in a special matter; an agent; a proctor."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Rom. Antiq.)",
+            "(Scots Law)"
+          ],
+          "defs": [
+            "A governor of a province under the emperors; also, one who had charge of the imperial revenues in a province; as, the procurator of Judea."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

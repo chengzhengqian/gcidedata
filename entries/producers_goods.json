@@ -1,0 +1,36 @@
+{
+  "key": "producers_goods",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Producers goods",
+      "headword_raw": "Pro*duc\"er's goods",
+      "pr": "(?)",
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Polit. Econ.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Goods that satisfy wants only indirectly as factors in the production of other goods, such as tools and raw material; -- called also instrumental goods, auxiliary goods, intermediate goods, or goods of the second and higher orders, and disting. from consumers' goods."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

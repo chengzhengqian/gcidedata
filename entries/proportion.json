@@ -1,0 +1,143 @@
+{
+  "key": "proportion",
+  "source_file": "CIDE.P",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Proportion",
+      "headword_raw": "Pro*por\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F., fr. L. proportio; pro before + portio part or share. See Portion.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The relation or adaptation of one portion to another, or to the whole, as respect magnitude, quantity, or degree; comparative relation; ratio; as, the proportion of the parts of a building, or of the body."
+          ],
+          "quotes": [
+            "The image of Christ, made after his own proportion.",
+            "Formed in the best proportions of her sex.",
+            "Documents are authentic and facts are true precisely in proportion to the support which they afford to his theory."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Harmonic relation between parts, or between different things of the same kind; symmetrical arrangement or adjustment; symmetry; as, to be out of proportion."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "The portion one receives when a whole is distributed by a rule or principle; equal or proper share; lot."
+          ],
+          "quotes": [
+            "Let the women . . . do the same things in their proportions and capacities."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "A part considered comparatively; a share."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "The equality or similarity of ratios, especially of geometrical ratios; or a relation among quantities such that the quotient of the first divided by the second is equal to that of the third divided by the fourth; -- called also geometrical proportion, in distinction from arithmetical proportion, or that in which the difference of the first and second is equal to the difference of the third and fourth.",
+            "The rule of three, in arithmetic, in which the three given terms, together with the one sought, are proportional."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Proportion in the mathematical sense differs from ratio. Ratio is the relation of two quantities of the same kind, as the ratio of 5 to 10, or the ratio of 8 to 16. Proportion is the sameness or likeness of two such relations. Thus, 5 to 10 as 8 to 16; that is, 5 bears the same relation to 10 as 8 does to 16. Hence, such numbers are said to be in proportion. Proportion is expressed by symbols thus: [1913 Webster] a:b::c:d, or a:b = c:d, or a/b = c/d. [1913 Webster]"
+          ],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Proportion",
+      "headword_raw": "Pro*por\"tion",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "v."
+      ],
+      "ety": "[Cf. F. proportionner. Cf. Proportionate, v.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Proportioned (?); p. pr. & vb. n. Proportioning.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To adjust in a suitable proportion, as one thing or one part to another; as, to proportion the size of a building to its height; to proportion our expenditures to our income."
+          ],
+          "quotes": [
+            "In the loss of an object we do not proportion our grief to the real value . . . but to the value our fancies set upon it."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To form with symmetry or suitableness, as the parts of the body."
+          ],
+          "quotes": [
+            "Nature had proportioned her without any fault."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "To divide into equal or just shares; to apportion."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

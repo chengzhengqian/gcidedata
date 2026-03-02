@@ -1,0 +1,59 @@
+{
+  "key": "proclaim",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Proclaim",
+      "headword_raw": "Pro*claim\"",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OE. proclamen, L. proclamare; pro before, forward + clamare to call or cry out: cf. F. proclamer. See Claim.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Proclaimed (?); p. pr. & vb. n. Proclaiming.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To make known by public announcement; to give wide publicity to; to publish abroad; to promulgate; to declare; as, to proclaim war or peace."
+          ],
+          "quotes": [
+            "To proclaim liberty to the captives.",
+            "For the apparel oft proclaims the man.",
+            "Throughout the host proclaim A solemn council forthwith to be held."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To outlaw by public proclamation."
+          ],
+          "quotes": [
+            "I heard myself proclaimed."
+          ],
+          "notes": [],
+          "synonyms": [
+            "publish",
+            "promulgate",
+            "declare",
+            "announce. See Announce"
+          ]
+        }
+      ]
+    }
+  ]
+}

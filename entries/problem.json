@@ -1,0 +1,52 @@
+{
+  "key": "problem",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Problem",
+      "headword_raw": "Prob\"lem",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. problme, L. problema, fr. Gr. <?/ anything thrown forward, a question proposed for solution, fr. <?/ to throw or lay before; <?/ before, forward + <?/ to throw. Cf. Parable. ]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A question proposed for solution; a matter stated for examination or proof; hence, a matter difficult of solution or settlement; a doubtful case; a question involving doubt."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)",
+            "(Geom.)",
+            "(Geom.)"
+          ],
+          "defs": [
+            "Anything which is required to be done; as, in geometry, to bisect a line, to draw a perpendicular; or, in algebra, to find an unknown quantity."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Problem differs from theorem in this, that a problem is something to be done, as to bisect a triangle, to describe a circle, etc.; a theorem is something to be proved, as that all the angles of a triangle are equal to two right angles."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

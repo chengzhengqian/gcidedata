@@ -1,0 +1,59 @@
+{
+  "key": "profitable",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Profitable",
+      "headword_raw": "Prof\"it*a*ble",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[F. profitable.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Profitableness",
+          "form_raw": "Prof\"it*a*ble*ness",
+          "key": "profitableness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Profitably",
+          "form_raw": "Prof\"it*a*bly",
+          "key": "profitably",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Yielding or bringing profit or gain; gainful; lucrative; useful; helpful; advantageous; beneficial; as, a profitable trade; profitable business; a profitable study or profession."
+          ],
+          "quotes": [
+            "What was so profitable to the empire became fatal to the emperor."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

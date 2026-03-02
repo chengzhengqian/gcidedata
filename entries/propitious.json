@@ -1,0 +1,75 @@
+{
+  "key": "propitious",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Propitious",
+      "headword_raw": "Pro*pi\"tious",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. propitius, perhaps originally a term of augury meaning, flying forward (pro) or well; cf. Skr. pat to fly, E. petition, feather.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "Propitious, Auspicious. Auspicious (from the ancient idea of auspices, or omens) denotes “indicative of success,” or “favored by incidental occurrences;” as, an auspicious opening; an auspicious event. Propitious denotes that which efficaciously protect us in some undertaking, speeds our exertions, and decides our success; as, propitious gales; propitious influences."
+      ],
+      "wordforms": [
+        {
+          "form": "Propitiously",
+          "form_raw": "Pro*pi\"tious*ly",
+          "key": "propitiously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Propitiousness",
+          "form_raw": "Pro*pi\"tious*ness",
+          "key": "propitiousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Convenient; auspicious; favorable; kind; as, a propitious season; a propitious breeze."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Hence, kind; gracious; merciful; helpful; -- said of a person or a divinity."
+          ],
+          "quotes": [
+            "And now t' assuage the force of this new flame, And make thee [Love] more propitious in my need."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Auspicious",
+            "favorable",
+            "kind"
+          ]
+        }
+      ]
+    }
+  ]
+}

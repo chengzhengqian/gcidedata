@@ -1,0 +1,60 @@
+{
+  "key": "prohibit",
+  "source_file": "CIDE.P",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Prohibit",
+      "headword_raw": "Pro*hib\"it",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. prohibitus, p. p. of prohibere to prohibit; pro before, forth + habere to have, hold. See Habit.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Prohibited; p. pr. & vb. n. Prohibiting.]",
+      "usage": [
+        "-- Prohibit, Forbid. To forbid is Anglo-Saxon, and is more familiar; to prohibit is Latin, and is more formal or official. A parent forbids his child to be out late at night; he prohibits his intercourse with the profane and vicious."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To forbid by authority; to interdict; as, God prohibited Adam from eating of the fruit of a certain tree; we prohibit a person from doing a thing, and also the doing of the thing; as, the law prohibits men from stealing, or it prohibits stealing."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Prohibit was formerly followed by to with the infinitive, but is now commonly followed by from with the verbal noun in -ing."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To hinder; to debar; to prevent; to preclude."
+          ],
+          "quotes": [
+            "Gates of burning adamant, Barred over us, prohibit all egress."
+          ],
+          "notes": [],
+          "synonyms": [
+            "forbid",
+            "interdict",
+            "debar",
+            "prevent",
+            "hinder"
+          ]
+        }
+      ]
+    }
+  ]
+}

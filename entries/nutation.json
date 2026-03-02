@@ -1,0 +1,63 @@
+{
+  "key": "nutation",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Nutation",
+      "headword_raw": "Nu*ta\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. nutatio a nodding, fr. nutare to nod: cf. F. nutation.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of nodding."
+          ],
+          "quotes": [
+            "So from the midmost the nutation spreads, Round and more round, o'er all the sea of heads."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Astron.)"
+          ],
+          "defs": [
+            "A very small libratory motion of the earth's axis, by which its inclination to the plane of the ecliptic is constantly varying by a small amount."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Bot.)"
+          ],
+          "defs": [
+            "The motion of a flower in following the apparent movement of the sun, from the east in the morning to the west in the evening.",
+            "Circumnutation."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "key": "numerical",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Numerical",
+      "headword_raw": "Nu*mer\"ic*al",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "n."
+      ],
+      "ety": "[Cf. F. numrique. See Number, n.]",
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Belonging to number; denoting number; consisting in numbers; expressed by numbers, and not letters; as, numerical characters; a numerical equation; a numerical statement."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ Numerical, as opposed to algebraical, is used to denote a value irrespective of its sign; thus, -5 is numerically greater than -3, though algebraically less."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The same in number; hence, identically the same; identical; as, the same numerical body."
+          ],
+          "quotes": [
+            "Would to God that all my fellow brethren, which with me bemoan the loss of their books, . . . might rejoice for the recovery thereof, though not the same numerical volumes."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Alg.)"
+          ],
+          "defs": [
+            "relating to or having ability to think in or work with numbers; as, tests for rating numerical aptitude. Contrasted with verbal."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "mathematical"
+          ]
+        }
+      ]
+    }
+  ]
+}

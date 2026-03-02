@@ -1,0 +1,71 @@
+{
+  "key": "oblivious",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Oblivious",
+      "headword_raw": "Ob*liv\"i*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. obliviosus: cf. F. oblivieux.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Obliviously",
+          "form_raw": "Obliv\"i*ous*ly",
+          "key": "obliviously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Obliviousness",
+          "form_raw": "Ob*liv\"i*ous*ness",
+          "key": "obliviousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Promoting oblivion; causing forgetfulness."
+          ],
+          "quotes": [
+            "She lay in deep, oblivious slumber."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Evincing oblivion; forgetful."
+          ],
+          "quotes": [
+            "Through are both weak in body and oblivious."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

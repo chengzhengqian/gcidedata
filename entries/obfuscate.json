@@ -1,0 +1,80 @@
+{
+  "key": "obfuscate",
+  "source_file": "CIDE.O",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Obfuscate",
+      "headword_raw": "Ob*fus\"cate",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. obfuscatus, p. p. of obfuscare to darken; ob (see Ob-) + fuscare, fuscatum, to darken, from fuscus dark.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Obfuscated; darkened; obscured."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Obfuscate",
+      "headword_raw": "Ob*fus\"cate",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Obfuscated (?); p. pr. & vb. n. Obfuscating.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To darken; to obscure; to becloud."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To confuse; to bewilder; to make unclear."
+          ],
+          "quotes": [
+            "His head, like a smokejack, the funnel unswept, and the ideas whirling round and round about in it, all obfuscated and darkened over with fuliginous matter.",
+            "Clouds of passion which might obfuscate the intellects of meaner females."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

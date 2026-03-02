@@ -1,0 +1,64 @@
+{
+  "key": "nutrition",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Nutrition",
+      "headword_raw": "Nu*tri\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. nutrition. See Nutritious.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Physiol.)"
+          ],
+          "defs": [
+            "In the broadest sense, a process or series of processes by which a living organism as a whole (or its component parts or organs) is maintained in its normal condition of life and growth."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ In this wide sense it comprehends digestion, absorption, circulation, assimilation, etc., in fact all of the steps by which the nutritive matter of the food is fitted for incorporation with the different tissues, and the changes which it undergoes after its assimilation, prior to its excretion. See Metabolism."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Physiol.)"
+          ],
+          "defs": [
+            "In a more limited sense, the process by which the living tissues take up, from the blood, matters necessary either for their repair or for the performance of their healthy functions."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "That which nourishes; nutriment."
+          ],
+          "quotes": [
+            "Fixed like a plant, on his peculiar spot, To draw nutrition, propagate, and rot."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

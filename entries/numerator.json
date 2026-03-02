@@ -1,0 +1,50 @@
+{
+  "key": "numerator",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Numerator",
+      "headword_raw": "Nu\"mer*a\"tor",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. numerator: cf. F. numrateur.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One who numbers."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "The term in a fraction which indicates the number of fractional units that are taken."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ In a vulgar fraction the numerator is written above a line; thus, in the fraction (five ninths) 5 is the numerator; in a decimal fraction it is the number which follows the decimal point. See Fraction."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "key": "numeration",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Numeration",
+      "headword_raw": "Nu`mer*a\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. numeratio a counting out: cf. F. numration.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act or art of numbering."
+          ],
+          "quotes": [
+            "Numeration is but still the adding of one unit more, and giving to the whole a new name or sign."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The act or art of reading numbers when expressed by means of numerals. The term is almost exclusively applied to the art of reading numbers written in the scale of tens, by the Arabic method."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ For convenience in reading, numbers are usually separated by commas into periods of three figures each, as 1,155,465; in continental Europe, periods are used for a similar division. According to what is called the “English” system, the billion is a million of millions, a trillion a million of billions, and each higher denomination is a million times the one preceding. According to the system of the French and other Continental nations and also that of the United States, the billion is a thousand millions, and each higher denomination is a thousand times the preceding."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

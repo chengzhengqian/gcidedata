@@ -1,0 +1,62 @@
+{
+  "key": "obligated",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "obligated",
+      "headword_raw": "obligated",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "under a moral obligation to someone."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "beholden(predicate)"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "under a legal obligation to someone."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "indebted"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "owing gratitude or recognition to another for help or favors etc. Opposite of unobligated."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "indebted"
+          ]
+        }
+      ]
+    }
+  ]
+}

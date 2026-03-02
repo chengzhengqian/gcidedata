@@ -1,0 +1,99 @@
+{
+  "key": "obituary",
+  "source_file": "CIDE.O",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Obituary",
+      "headword_raw": "O*bit\"u*a*ry",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[See Obit.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to the death of a person or persons; as, an obituary notice; obituary poetry."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "obituary",
+      "headword_raw": "o*bit\"u*a*ry",
+      "pr": "(#)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Cf. F. obituaire. See Obit.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "That which pertains to, or is called forth by, the obit or death of a person; esp., an account of a deceased person."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A notice of the death of a person, published in a newspaper or other periodical, accompanied by a biographical sketch which may be brief or extended; as, the funeral director arranged placed an obituary in the local paper."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "The section of a newspaper in which obituaries{2} are printed; as, I saw the notice of his death in the obituaries."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(R. C. Ch.)"
+          ],
+          "defs": [
+            "A list of the dead, or a register of anniversary days when service is performed for the dead."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

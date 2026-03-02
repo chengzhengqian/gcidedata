@@ -1,0 +1,61 @@
+{
+  "key": "observed",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "observed",
+      "headword_raw": "observed",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "perceived with the eyes and sometimes with other senses; as, no explanation for the observed phenomena."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Detected by systematic scientific observation; as, variation in the observed flux may depend on a number of factors."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "ascertained"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Perceived directly with the eyes; observed at first hand."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "seen",
+            "witnessed"
+          ]
+        }
+      ]
+    }
+  ]
+}

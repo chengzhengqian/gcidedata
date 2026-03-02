@@ -1,0 +1,41 @@
+{
+  "key": "nucleic_acid",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "nucleic acid",
+      "headword_raw": "nu*cle\"ic ac\"id",
+      "pr": "(n*klā\"k s\"d or n*klē\"k)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Chem., Biochem., Genetics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A natural or synthetic polymer consisting of chains of ribonucleotide or deoxyribonucleotide units."
+          ],
+          "quotes": [],
+          "notes": [
+            "The nucleic acids are vital constituents of all living cells, carrying the genetic information propagated between generations, and, while a cell is alive, having a continued function in coding for the amino acid sequence of proteins being synthesized by the cell. The two natural types of nucleic adic are ribonucleic acid (RNA) and deoxyribonucleic acid (DNA)."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "key": "numerous",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Numerous",
+      "headword_raw": "Nu\"mer*ous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. numerosus. See Number.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Numerously",
+          "form_raw": "Nu\"mer*ous*ly",
+          "key": "numerously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Numerousness",
+          "form_raw": "Nu\"mer*ous*ness",
+          "key": "numerousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Consisting of a great number of units or individual objects; being many; as, a numerous army; numerous objections."
+          ],
+          "quotes": [
+            "Such and so numerous was their chivalry."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Consisting of poetic numbers; rhythmical; measured and counted; melodious; musical."
+          ],
+          "quotes": [
+            "Such prompt eloquence Flowed from their lips, in prose or numerous verse."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

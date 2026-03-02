@@ -1,0 +1,172 @@
+{
+  "key": "null",
+  "source_file": "CIDE.N",
+  "record_count": 4,
+  "records": [
+    {
+      "headword": "Null",
+      "headword_raw": "Null",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. nullus not any, none; ne not + ullus any, a dim. of unus one; cf. F. nul. See No, and One, and cf. None.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of no legal or binding force or validity; of no efficacy; invalid; void; nugatory; useless."
+          ],
+          "quotes": [
+            "Faultily faultless, icily regular, splendidly null, Dead perfection; no more."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Having a value of zero; as, of null utility."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "Empty; having no members; as, the null set."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Computers)"
+          ],
+          "defs": [
+            "Unassigned or meaningless; -- a special value given to variables, especially pointers or logical variables, indicating that it is meaningless and cannot be used in computation; as, an uninitialized pointer in \"C\" is given a null value. The actual value that is stored in memory to indicate the null condition may vary with the computer language used."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Null",
+      "headword_raw": "Null",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Something that has no force or meaning."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Physics.)"
+          ],
+          "defs": [
+            "That which has no value; a cipher; zero."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Null",
+      "headword_raw": "Null",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": "[From null, a., or perh. abbrev. from annul.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To annul."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Null",
+      "headword_raw": "Null",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[Etymol. uncertain.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "One of the beads in nulled work."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

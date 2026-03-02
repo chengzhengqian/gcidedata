@@ -1,0 +1,83 @@
+{
+  "key": "obstinate",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Obstinate",
+      "headword_raw": "Ob\"sti*nate",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. obstinatus, p. p. of obstinare to set about a thing with firmness, to persist in; ob (see Ob-) + a word from the root of stare to stand. See Stand, and cf. Destine.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Obstinately",
+          "form_raw": "Ob\"sti*nate*ly",
+          "key": "obstinately",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Obstinateness",
+          "form_raw": "Ob\"sti*nate*ness",
+          "key": "obstinateness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Pertinaciously adhering to an opinion, purpose, or course; persistent; not yielding to reason, arguments, or other means; stubborn; pertinacious; -- usually implying unreasonableness."
+          ],
+          "quotes": [
+            "I have known great cures done by obstinate resolution of drinking no wine.",
+            "No ass so meek, no ass so obstinate.",
+            "Of sense and outward things."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Not yielding; not easily subdued or removed; as, obstinate fever; obstinate obstructions."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Stubborn",
+            "inflexible",
+            "immovable",
+            "firm",
+            "pertinacious",
+            "persistent",
+            "headstrong",
+            "opinionated",
+            "unyielding",
+            "refractory",
+            "contumacious. See Stubborn"
+          ]
+        }
+      ]
+    }
+  ]
+}

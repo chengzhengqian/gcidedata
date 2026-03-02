@@ -1,0 +1,60 @@
+{
+  "key": "nutritive",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Nutritive",
+      "headword_raw": "Nu\"tri*tive",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Cf. F. nutritif.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Nutritively",
+          "form_raw": "Nu\"tri*tive*ly",
+          "key": "nutritively",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Nutritiveness",
+          "form_raw": "Nu\"tri*tive*ness",
+          "key": "nutritiveness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Biol.)",
+        "(Zool.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to nutrition; as, the nutritive functions; having the quality of nourishing; nutritious; nutrimental; alimental; as, nutritive food or berries."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

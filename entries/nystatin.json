@@ -1,0 +1,36 @@
+{
+  "key": "nystatin",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "nystatin",
+      "headword_raw": "nystatin",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[From NY state + -in, due to its discovery in New York State.]",
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An antifungal antibiotic, extracted from fermentation broths of the soil actinomycete Streptomyces noursei and other actinomycetes; called also fungicidin. It is a polyene macrolide antibiotic, and consists of several related components. Component nystatin A1 has formula C47H75NO17."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

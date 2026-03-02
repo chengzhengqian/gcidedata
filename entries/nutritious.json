@@ -1,0 +1,57 @@
+{
+  "key": "nutritious",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Nutritious",
+      "headword_raw": "Nu*tri\"tious",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. nutricius, nutritius, from nutrix, -icis, a nurse, nutrire to nourish. See Nurse, Nourish.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Nutritiously",
+          "form_raw": "Nu*tri\"tious*ly",
+          "key": "nutritiously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Nutritiousness",
+          "form_raw": "Nu*tri\"tious*ness",
+          "key": "nutritiousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Nourishing; promoting growth, or preventing decay; alimental."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

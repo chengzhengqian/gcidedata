@@ -1,0 +1,50 @@
+{
+  "key": "nutriment",
+  "source_file": "CIDE.N",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Nutriment",
+      "headword_raw": "Nu\"tri*ment",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. nutrimentum, fr. nutrire to nourish. See Nourish.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "That which nourishes; a nutrient; anything which promotes growth and repairs the natural waste of animal or vegetable life; food; aliment."
+          ],
+          "quotes": [
+            "The stomach returns what it has received, in strength and nutriment diffused into all parts of the body."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "That which promotes development or growth."
+          ],
+          "quotes": [
+            "Is not virtue in mankind The nutriment that feeds the mind?"
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

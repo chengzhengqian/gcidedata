@@ -1,0 +1,52 @@
+{
+  "key": "obsessed",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "obsessed",
+      "headword_raw": "obsessed",
+      "pr": null,
+      "pos": [
+        "adj."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "having or showing excessive or compulsive concern; -- used with with."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "haunted",
+            "preoccupied",
+            "taken up(predicate)"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "influenced or controlled by a powerful force such as a strong emotion."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "possessed(predicate)"
+          ]
+        }
+      ]
+    }
+  ]
+}

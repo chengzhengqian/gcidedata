@@ -1,0 +1,89 @@
+{
+  "key": "obscene",
+  "source_file": "CIDE.O",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Obscene",
+      "headword_raw": "Ob*scene\"",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. obscenus, obscaenus, obscoenus, ill looking, filthy, obscene: cf. F. obscne.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Obscenely",
+          "form_raw": "Ob*scene\"ly",
+          "key": "obscenely",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Obsceneness",
+          "form_raw": "Ob*scene\"ness",
+          "key": "obsceneness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Offensive to chastity or modesty; expressing or presenting to the mind or view something which delicacy, purity, and decency forbid to be exposed; impure; as, obscene language; obscene pictures."
+          ],
+          "quotes": [
+            "Words that were once chaste, by frequent use grew obscene and uncleanly."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Foul; filthy; disgusting."
+          ],
+          "quotes": [
+            "A girdle foul with grease binds his obscene attire."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Inauspicious; ill-omened."
+          ],
+          "quotes": [
+            "At the cheerful light, The groaning ghosts and birds obscene take flight."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Impure",
+            "immodest",
+            "indecent",
+            "unchaste",
+            "lewd"
+          ]
+        }
+      ]
+    }
+  ]
+}

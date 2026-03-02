@@ -1,0 +1,100 @@
+{
+  "key": "admission",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Admission",
+      "headword_raw": "Ad*mis\"sion",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. admissio: cf. F. admission. See Admit.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act or practice of admitting."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Power or permission to enter; admittance; entrance; access; power to approach."
+          ],
+          "quotes": [
+            "What numbers groan for sad admission there!"
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "The granting of an argument or position not fully proved; the act of acknowledging something asserted; acknowledgment; concession."
+          ],
+          "quotes": [
+            "The too easy admission of doctrines."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "Acquiescence or concurrence in a statement made by another, and distinguishable from a confession in that an admission presupposes prior inquiry by another, but a confession may be made without such inquiry."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [],
+          "defs": [
+            "A fact, point, or statement admitted; as, admission made out of court are received in evidence."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [
+            "(Eng. Eccl. Law)"
+          ],
+          "defs": [
+            "Declaration of the bishop that he approves of the presentee as a fit person to serve the cure of the church to which he is presented."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Admittance",
+            "concession",
+            "acknowledgment",
+            "concurrence",
+            "allowance. See Admittance"
+          ]
+        }
+      ]
+    }
+  ]
+}

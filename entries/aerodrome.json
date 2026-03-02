@@ -1,0 +1,50 @@
+{
+  "key": "aerodrome",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Aërodrome",
+      "headword_raw": "A\"<eum/*ro*drome`",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[Aëro- + Gr. <?/ a running.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Aërodromic",
+          "form_raw": "A`<eum/r*o*drom\"ic",
+          "key": "aerodromic",
+          "pos": [
+            "a."
+          ],
+          "pr": "(#)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Aëronautics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A shed for housing an airship or aëroplane.",
+            "A ground or field, esp. one equipped with housing and other facilities, used for flying purposes."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "key": "adjacent",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Adjacent",
+      "headword_raw": "Ad*ja\"cent",
+      "pr": "(<?/)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. adjacens, -centis, p. pr. of adjacere to lie near; ad + jacēre to lie: cf. F. adjacent.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "-- Adjacent, Adjoining, Contiguous. Things are adjacent when they lie close each other, not necessary in actual contact; as, adjacent fields, adjacent villages, etc.",
+        "Things are adjoining when they meet at some line or point of junction; as, adjoining farms, an adjoining highway. What is spoken of as contiguous should touch with some extent of one side or the whole of it; as, a row of contiguous buildings; a wood contiguous to a plain."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [
+        "Adjoining",
+        "contiguous",
+        "near"
+      ],
+      "entry_fields": [
+        "(Geom.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Lying near, close, or contiguous; neighboring; bordering on; as, a field adjacent to the highway."
+          ],
+          "quotes": [
+            "I find that all Europe with her adjacent isles is peopled with Christians."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Adjacent",
+      "headword_raw": "Ad*ja\"cent",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "That which is adjacent."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

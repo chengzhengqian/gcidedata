@@ -1,0 +1,88 @@
+{
+  "key": "adversary",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Adversary",
+      "headword_raw": "Ad`ver*sa*ry",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. adversarie, direct fr. the Latin, and adversaire, fr. OF. adversier, aversier, fr. L. adversarius (a.) turned toward, (n.) an adversary. See Adverse.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "Enemy is the only one of these words which necessarily implies a state of personal hostility. Men may be adversaries, antagonists, or opponents to each other in certain respects, and yet have no feelings of general animosity. An adversary may be simply one who is placed for a time in a hostile position, as in a lawsuit, an argument, in chess playing, or at fence. An opponent is one who is ranged against another (perhaps passively) on the opposing side; as a political opponent, an opponent in debate. An antagonist is one who struggles against another with active effort, either in a literal fight or in verbal debate."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [
+        "Adversary",
+        "Enemy",
+        "Opponent",
+        "Antagonist"
+      ],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "One who is turned against another or others with a design to oppose<-- p. 26 --> or resist them; a member of an opposing or hostile party; an opponent; an antagonist; an enemy; a foe."
+          ],
+          "quotes": [
+            "His ancient knot of dangerous adversaries.",
+            "Agree with thine adversary quickly.",
+            "It may be thought that to vindicate the permanency of truth is to dispute without an adversary."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Adversary",
+      "headword_raw": "Ad\"ver*sa*ry",
+      "pr": "(<?/)",
+      "pos": [
+        "a."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Opposed; opposite; adverse; antagonistic."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Law)"
+          ],
+          "defs": [
+            "Having an opposing party; not unopposed; as, an adversary suit."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "key": "adipoma",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "adipoma",
+      "headword_raw": "ad`i*po\"ma",
+      "pr": "(d`*pō\"m)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[NL. See adipose; -oma.]",
+      "sources": [
+        "AS"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Adipomatous",
+          "form_raw": "Ad`i*pom\"a*tous",
+          "key": "adipomatous",
+          "pos": [
+            "a."
+          ],
+          "pr": "(d`*pm\"*ts or d`*pō\"m*ts)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An obsolete term for lipoma."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

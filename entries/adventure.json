@@ -1,0 +1,167 @@
+{
+  "key": "adventure",
+  "source_file": "CIDE.A",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Adventure",
+      "headword_raw": "Ad*ven\"ture",
+      "pr": "(?; 135)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. aventure, aunter, anter, F. aventure, fr. LL. adventura, fr. L. advenire, adventum, to arrive, which in the Romance languages took the sense of “to happen, befall.” See Advene.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "That which happens without design; chance; hazard; hap; hence, chance of danger or loss."
+          ],
+          "quotes": [
+            "Nay, a far less good to man it will be found, if she must, at all adventures, be fastened upon him individually."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Risk; danger; peril."
+          ],
+          "quotes": [
+            "He was in great adventure of his life."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "The encountering of risks; hazardous and striking enterprise; a bold undertaking, in which hazards are to be encountered, and the issue is staked upon unforeseen events; a daring feat."
+          ],
+          "quotes": [
+            "He loved excitement and adventure."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "A remarkable occurrence; a striking event; a stirring incident; as, the adventures of one's life."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Com.)"
+          ],
+          "defs": [
+            "A mercantile or speculative enterprise of hazard; a venture; a shipment by a merchant on his own account."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Undertaking",
+            "enterprise",
+            "venture",
+            "event"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Adventure",
+      "headword_raw": "Ad*ven\"ture",
+      "pr": "(<?/)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n.",
+        "n."
+      ],
+      "ety": "[OE. aventuren, auntren, F. aventurer, fr. aventure. See Adventure, n.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Adventured (<?/); p. pr. & vb. n. Adventuring (<?/).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To risk, or hazard; jeopard; to venture."
+          ],
+          "quotes": [
+            "He would not adventure himself into the theater."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To venture upon; to run the risk of; to dare."
+          ],
+          "quotes": [
+            "Yet they adventured to go back.",
+            "Discriminations might be adventured."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Adventure",
+      "headword_raw": "Ad*ven\"ture",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To try the chance; to take the risk."
+          ],
+          "quotes": [
+            "I would adventure for such merchandise."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

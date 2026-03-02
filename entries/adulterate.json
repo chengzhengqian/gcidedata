@@ -1,0 +1,146 @@
+{
+  "key": "adulterate",
+  "source_file": "CIDE.A",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Adulterate",
+      "headword_raw": "A*dul\"ter*ate",
+      "pr": "(<?/)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. adulteratus, p. p. of adulterare, fr. adulter adulterer, prob. fr. ad + alter other, properly one who approaches another on account of unlawful love. Cf. Advoutry.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Adulterated (<?/); p. pr. & vb. n. Adulterating (<?/).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To defile by adultery."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To corrupt, debase, or make impure by an admixture of a foreign or a baser substance; as, to adulterate food, drink, drugs, coin, etc."
+          ],
+          "quotes": [
+            "The present war has . . . adulterated our tongue with strange words."
+          ],
+          "notes": [],
+          "synonyms": [
+            "corrupt",
+            "defile",
+            "debase",
+            "contaminate",
+            "vitiate",
+            "sophisticate"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Adulterate",
+      "headword_raw": "A*dul\"ter*ate",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To commit adultery."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Adulterate",
+      "headword_raw": "A*dul\"ter*ate",
+      "pr": "(<?/)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Adulterately",
+          "form_raw": "A*dul\"ter*ate*ly",
+          "key": "adulterately",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Adulterateness",
+          "form_raw": "A*dul\"ter*ate*ness",
+          "key": "adulterateness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Tainted with adultery."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Debased by the admixture of a foreign substance; adulterated; spurious."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

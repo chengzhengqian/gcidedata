@@ -1,0 +1,96 @@
+{
+  "key": "advise",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Advise",
+      "headword_raw": "Ad*vise\"",
+      "pr": "(<?/)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[OE. avisen to perceive, consider, inform, F. aviser, fr. LL. advisare. advisare; ad + visare, fr. L. videre, visum, to see. See Advice, and cf. Avise.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Advised (<?/); p. pr. & vb. n. Advising (<?/).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To give advice to; to offer an opinion, as worthy or expedient to be followed; to counsel; to warn."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To give information or notice to; to inform; -- with of before the thing communicated; as, we were advised of the risk."
+          ],
+          "quotes": [
+            "Bid thy master well advise himself."
+          ],
+          "notes": [],
+          "synonyms": [
+            "counsel",
+            "admonish",
+            "apprise",
+            "acquaint"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Advise",
+      "headword_raw": "Ad*vise\"",
+      "pr": null,
+      "pos": [
+        "v. t."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To consider; to deliberate."
+          ],
+          "quotes": [
+            "Advise if this be worth attempting."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To take counsel; to consult; -- followed by with; as, to advise with friends."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

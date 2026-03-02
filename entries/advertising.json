@@ -1,0 +1,55 @@
+{
+  "key": "advertising",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "advertising",
+      "headword_raw": "advertising",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a communication publicly promoting some product or service."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "ad",
+            "advertisement",
+            "advert"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "the business of advertising; the activity engaged in by professional publicists for pay."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "advertizing",
+            "publicizing",
+            "the advertising profession",
+            "the advertising industry"
+          ]
+        }
+      ]
+    }
+  ]
+}

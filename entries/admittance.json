@@ -1,0 +1,120 @@
+{
+  "key": "admittance",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Admittance",
+      "headword_raw": "Ad*mit\"tance",
+      "pr": "(<?/)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [
+        "-- Admittance, Admission. These words are, to some extent, in a state of transition and change. Admittance is now chiefly confined to its primary sense of access into some locality or building. Thus we see on the doors of factories, shops, etc. “No admittance.” Its secondary or moral sense, as “admittance to the church,” is almost entirely laid aside. Admission has taken to itself the secondary or figurative senses; as, admission to the rights of citizenship; admission to the church; the admissions made by one of the parties in a dispute. And even when used in its primary sense, it is not identical with admittance. Thus, we speak of admission into a country, territory, and other larger localities, etc., where admittance could not be used. So, when we speak of admission to a concert or other public assembly, the meaning is not perhaps exactly that of admittance, viz., access within the walls of the building, but rather a reception into the audience, or access to the performances. But the lines of distinction on this subject are one definitely drawn."
+      ],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of admitting."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Permission to enter; the power or right of entrance; also, actual entrance; reception."
+          ],
+          "quotes": [
+            "To gain admittance into the house.",
+            "He desires admittance to the king.",
+            "To give admittance to a thought of fear."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Concession; admission; allowance; as, the admittance of an argument."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "Admissibility."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Eng. Law)"
+          ],
+          "defs": [
+            "The act of giving possession of a copyhold estate."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Admission",
+            "access",
+            "entrance",
+            "initiation"
+          ]
+        }
+      ]
+    },
+    {
+      "headword": "Admittance",
+      "headword_raw": "Ad*mit\"tance",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Elec.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The reciprocal of impedance."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

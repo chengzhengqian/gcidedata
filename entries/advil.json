@@ -1,0 +1,41 @@
+{
+  "key": "advil",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Advil",
+      "headword_raw": "Advil",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "a nonsteroidal anti-inflammatory medicine used to relieve the pain of arthritis and as an analgesic and antipyretic; Advil and Motrin and Nuprin are trademarks of brands of ibuprofen tablets."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "ibuprofen",
+            "isobutylphenyl propionic acid",
+            "Motrin",
+            "Nuprin"
+          ]
+        }
+      ]
+    }
+  ]
+}

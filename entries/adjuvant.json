@@ -1,0 +1,90 @@
+{
+  "key": "adjuvant",
+  "source_file": "CIDE.A",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Adjuvant",
+      "headword_raw": "Ad\"ju*vant",
+      "pr": "(<?/)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. adjuvans, p. pr. of adjuvare to aid: cf. F. adjuvant. See Aid.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Helping; helpful; assisting."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Adjuvant",
+      "headword_raw": "Ad\"ju*vant",
+      "pr": "(d\"j*vnt)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. adjuvamentum, fr. adjuvare to help; ad + juvare to help.]",
+      "sources": [
+        "1913 Webster",
+        "AS"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "An assistant."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "An ingredient in a prescription drug, which aids or modifies the action of the principal ingredient."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Med., Immunology)"
+          ],
+          "defs": [
+            "A substance that non-specifically enhances immune response to an antigen, such as by enhancing the production of antibodies."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

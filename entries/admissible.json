@@ -1,0 +1,57 @@
+{
+  "key": "admissible",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Admissible",
+      "headword_raw": "Ad*mis\"si*ble",
+      "pr": "(<?/)",
+      "pos": [
+        "a.",
+        "n.",
+        "adv."
+      ],
+      "ety": "[F. admissible, LL. admissibilis. See Admit.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Admissibleness",
+          "form_raw": "Ad*mis\"si*ble*ness",
+          "key": "admissibleness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Admissibly",
+          "form_raw": "Ad*mis\"si*bly",
+          "key": "admissibly",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Entitled to be admitted, or worthy of being admitted; that may be allowed or conceded; allowable; as, the supposition is hardly admissible."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

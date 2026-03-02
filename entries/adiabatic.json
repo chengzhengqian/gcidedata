@@ -1,0 +1,53 @@
+{
+  "key": "adiabatic",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Adiabatic",
+      "headword_raw": "Ad`i*a*bat\"ic",
+      "pr": "(<?/)",
+      "pos": [
+        "a.",
+        "adv."
+      ],
+      "ety": "[Gr. 'adia`batos not passable; 'a priv. + dia` through + bai`nein to go.]",
+      "sources": [
+        "Webster 1913 Suppl.",
+        "PJC.",
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Adiabatically",
+          "form_raw": "Ad`i*a*bat`ic*al*ly",
+          "key": "adiabatically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Physics)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Not giving out or receiving heat."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞The adiabatic expansion of carbon dioxide from a compressed container causes the temperature of the gas to decrease rapidly below its freezing point, resulting in the familiar carbon dioxide “snow” emitted by carbon dioxide fire extinguishers."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

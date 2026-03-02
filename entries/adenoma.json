@@ -1,0 +1,49 @@
+{
+  "key": "adenoma",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "adenoma",
+      "headword_raw": "ad`e*no\"ma",
+      "pr": "(d`*nō\"m)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[NL.; adeno- + -oma.]",
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Adenomatous",
+          "form_raw": "Ad`e*nom\"a*tous",
+          "key": "adenomatous",
+          "pos": [
+            "a."
+          ],
+          "pr": "(<?/)"
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Med.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A benign tumor of epithelial tissue with a glandlike structure."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

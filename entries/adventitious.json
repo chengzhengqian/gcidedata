@@ -1,0 +1,116 @@
+{
+  "key": "adventitious",
+  "source_file": "CIDE.A",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "adventitious",
+      "headword_raw": "ad`ven*ti\"tious",
+      "pr": "(d`vn*tsh\"s)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. adventitius.]",
+      "sources": [
+        "1913 Webster",
+        "PJC",
+        "PC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Adventitiously",
+          "form_raw": "Ad`ven*ti\"tious*ly",
+          "key": "adventitiously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Adventitiousness",
+          "form_raw": "Ad`ven*ti\"tious*ness",
+          "key": "adventitiousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Added extrinsically; not essentially inherent."
+          ],
+          "quotes": [
+            "To things of great dimensions, if we annex an adventitious idea of terror, they become without comparison greater."
+          ],
+          "notes": [],
+          "synonyms": [
+            "accidental",
+            "casual",
+            "incidental",
+            "additional",
+            "supervenient",
+            "foreign"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Nat. Hist.)"
+          ],
+          "defs": [
+            "Out of the proper or usual place; as, adventitious buds or roots."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Bot.)"
+          ],
+          "defs": [
+            "Accidentally or sparingly spontaneous in a country or district; not fully naturalized; adventive; -- applied to foreign plants."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "Acquired, as diseases; not hereditary."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Med.)"
+          ],
+          "defs": [
+            "Occurring in an unusual place or arising from an external source."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

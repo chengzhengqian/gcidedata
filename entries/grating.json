@@ -1,0 +1,129 @@
+{
+  "key": "grating",
+  "source_file": "CIDE.G",
+  "record_count": 3,
+  "records": [
+    {
+      "headword": "Grating",
+      "headword_raw": "Grat\"ing",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[See 2d Grate.]",
+      "sources": [
+        "1913 Webster",
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A partition, covering, or frame of parallel or cross bars; a latticework resembling a window grate; as, the grating of a prison or convent."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Optics)"
+          ],
+          "defs": [
+            "A system of close equidistant parallel lines or bars, esp. lines ruled on a polished surface, used for producing spectra by diffraction; -- called also diffraction grating."
+          ],
+          "quotes": [],
+          "notes": [
+            "Gratings have been made with over 40,000 such lines to the inch, but those with a somewhat smaller number give the best definition. They are used, e. g., to produce monochromatic light for use in optical instruments such as spectrophotometers."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Naut.)"
+          ],
+          "defs": [
+            "The strong wooden lattice used to cover a hatch, admitting light and air; also, a movable Lattice used for the flooring of boats."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Grating",
+      "headword_raw": "Grat\"ing",
+      "pr": null,
+      "pos": [
+        "a."
+      ],
+      "ety": "[See Grate to rub harshy.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Gratingly",
+          "form_raw": "Grat\"ing*ly",
+          "key": "gratingly",
+          "pos": [],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "That grates; making a harsh sound; harsh."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Grating",
+      "headword_raw": "Grat\"ing",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A harsh sound caused by attrition."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

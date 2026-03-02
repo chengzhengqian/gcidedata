@@ -1,0 +1,46 @@
+{
+  "key": "greek_calendar",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Greek calendar",
+      "headword_raw": "Greek calendar",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl."
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Any of various calendars used by the ancient Greek states."
+          ],
+          "quotes": [],
+          "notes": [
+            "The Attic calendar divided the year into twelve months of 29 and 30 days, as follows: 1. Hecatombæon (July-Aug.). 2. Metageitnion (Aug.-Sept.). 3. Boëdromion (Sept.-Oct.). 4. Pyanepsion (Oct.-Nov.). 5. Mæmacterion (Nov.-Dec.). 6. Poseideon (Dec.-Jan.). 7. Gamelion (Jan.-Feb.). 8. Anthesterion (Feb.-Mar.). 9. Elaphebolion (Mar.-Apr.). 10. Munychion (Apr.-May). 11. Thargelion (May-June). 12. Scirophorion (June-July). A fixed relation to the seasons was maintained by introducing an intercalary month, “the second Poseideon,” at first in an inexact way, afterward in years 3, 5, 8, 11, 13, 16, 19 of the Metonic cycle. Dates were reckoned in Olympiads. [Webster 1913 Suppl.]"
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The Julian calendar, used in the Greek Church."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

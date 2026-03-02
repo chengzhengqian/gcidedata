@@ -1,0 +1,116 @@
+{
+  "key": "grade",
+  "source_file": "CIDE.G",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Grade",
+      "headword_raw": "Grade",
+      "pr": "(grād)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. grade, L. gradus step, pace, grade, from gradi to step, go. Cf. Congress, Degree, Gradus.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A step or degree in any series, rank, quality, order; relative position or standing; as, grades of military rank; crimes of every grade; grades of flour."
+          ],
+          "quotes": [
+            "They also appointed and removed, at their own pleasure, teachers of every grade."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "In a railroad or highway"
+          ],
+          "defs": [
+            "The rate of ascent or descent; gradient; deviation from a level surface to an inclined plane; -- usually stated as so many feet per mile, or as one foot rise or fall in so many of horizontal distance; as, a heavy grade; a grade of twenty feet per mile, or of 1 in 264.",
+            "A graded ascending, descending, or level portion of a road; a gradient."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Stock Breeding)"
+          ],
+          "defs": [
+            "The result of crossing a native stock with some better breed. If the crossbreed have more than three fourths of the better blood, it is called high grade."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Grade",
+      "headword_raw": "Grade",
+      "pr": null,
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": "[imp. & p. p. Graded; p. pr. & vb. n. Grading.]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To arrange in order, steps, or degrees, according to size, quality, rank, etc."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To reduce to a level, or to an evenly progressive ascent, as the line of a canal or road."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Stock Breeding)"
+          ],
+          "defs": [
+            "To cross with some better breed; to improve the blood of."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

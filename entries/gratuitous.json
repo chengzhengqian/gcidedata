@@ -1,0 +1,71 @@
+{
+  "key": "gratuitous",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Gratuitous",
+      "headword_raw": "Gra*tu\"i*tous",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. gratuitus, from gratus pleasing. See Grate, a., Gratis.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Gratuitously",
+          "form_raw": "Gra*tu\"i*tous*ly",
+          "key": "gratuitously",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Gratuitousness",
+          "form_raw": "Gra*tu\"i*tous*ness",
+          "key": "gratuitousness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Given without an equivalent or recompense; conferred without valuable consideration; granted without pay, or without claim or merit; not required by justice."
+          ],
+          "quotes": [
+            "We mistake the gratuitous blessings of Heaven for the fruits of our own industry."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Not called for by the circumstances; without reason, cause, or proof; adopted or asserted without any good ground; as, a gratuitous assumption."
+          ],
+          "quotes": [
+            "Acts of gratuitous self-humiliation."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "key": "gradient",
+  "source_file": "CIDE.G",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Gradient",
+      "headword_raw": "Gra\"di*ent",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. gradiens, p. pr. of gradi to step, to go. See Grade.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Moving by steps; walking; as, gradient automata."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Rising or descending by regular degrees of inclination; as, the gradient line of a railroad."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Adapted for walking, as the feet of certain birds."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Gradient",
+      "headword_raw": "Gra\"di*ent",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The rate of regular or graded ascent or descent in a road; grade."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A part of a road which slopes upward or downward; a portion of a way not level; a grade."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "The rate of increase or decrease of a variable magnitude, or the curve which represents it; as, a thermometric gradient."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Chem., Biochem.)",
+            "(Biochem.)"
+          ],
+          "defs": [
+            "The variation of the concentration of a chemical substance in solution through some linear path; also called concentration gradient; -- usually measured in concentration units per unit distance. Concentration gradients are created naturally, e.g. by the diffusion of a substance from a point of high concentration toward regions of lower concentration within a body of liquid; in laboratory techniques they may be made artificially."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

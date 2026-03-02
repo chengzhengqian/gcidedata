@@ -1,0 +1,53 @@
+{
+  "key": "grayling",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Grayling",
+      "headword_raw": "Gray\"ling",
+      "pr": "(?)",
+      "pos": [
+        "n.",
+        "a."
+      ],
+      "ety": "[From Gray, a.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "A European fish (Thymallus vulgaris), allied to the trout, but having a very broad dorsal fin; -- called also umber. It inhabits cold mountain streams, and is valued as a game fish."
+          ],
+          "quotes": [
+            "And here and there a lusty trout, And here and there a grayling."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Zool.)"
+          ],
+          "defs": [
+            "An American fish of the genus Thymallus, having similar habits to the above; one species (T. Ontariensis), inhabits several streams in Michigan; another (T. montanus), is found in the Yellowstone region."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

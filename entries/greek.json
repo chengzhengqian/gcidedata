@@ -1,0 +1,89 @@
+{
+  "key": "greek",
+  "source_file": "CIDE.G",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Greek",
+      "headword_raw": "Greek",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[AS. grec, L. Graecus, Gr. ?: cf. F. grec. Cf. Grecian.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "Eccl. Hist."
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to Greece or the Greeks; Grecian."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Greek",
+      "headword_raw": "Greek",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A native, or one of the people, of Greece; a Grecian; also, the language of Greece."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A swindler; a knave; a cheat."
+          ],
+          "quotes": [
+            "Without a confederate the . . . game of baccarat does not . . . offer many chances for the Greek."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Something unintelligible; as, it was all Greek to me."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

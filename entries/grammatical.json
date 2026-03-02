@@ -1,0 +1,67 @@
+{
+  "key": "grammatical",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Grammatical",
+      "headword_raw": "Gram*mat\"ic*al",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[L. grammaticus, grammaticalis; Gr. <?/ skilled in grammar, knowing one's letters, from <?/ a letter: cf. F. grammatical. See Grammar.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Grammatically",
+          "form_raw": "Gram*mat\"ic*al*ly",
+          "key": "grammatically",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Grammaticalness",
+          "form_raw": "Gram*mat\"ic*al*ness",
+          "key": "grammaticalness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Of or pertaining to grammar; of the nature of grammar; as, a grammatical rule."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "According to the rules of grammar; grammatically correct; as, the sentence is not grammatical; the construction is not grammatical."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

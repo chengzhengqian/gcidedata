@@ -1,0 +1,80 @@
+{
+  "key": "grateful",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Grateful",
+      "headword_raw": "Grate\"ful",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": "[Grate, a. + full; cf. F. gr thanks, good will, fr. L. gratum, neut. of gratus agreeable, grateful. See Grate, a.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Gratefully",
+          "form_raw": "Grate\"ful*ly",
+          "key": "gratefully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Gratefulness",
+          "form_raw": "Grate\"ful*ness",
+          "key": "gratefulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Having a due sense of benefits received; kindly disposed toward one from whom a favor has been received; willing to acknowledge and repay, or give thanks for, benefits; as, a grateful heart."
+          ],
+          "quotes": [
+            "A grateful mind By owing, owes not, but still pays."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Affording pleasure; pleasing to the senses; gratifying; delicious; as, a grateful present; food grateful to the palate; grateful sleep."
+          ],
+          "quotes": [
+            "Now golden fruits on loaded branches shine, And grateful clusters swell."
+          ],
+          "notes": [],
+          "synonyms": [
+            "Thankful",
+            "pleasing",
+            "acceptable",
+            "gratifying",
+            "agreeable",
+            "welcome",
+            "delightful",
+            "delicious"
+          ]
+        }
+      ]
+    }
+  ]
+}

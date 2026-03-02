@@ -1,0 +1,102 @@
+{
+  "key": "grammar",
+  "source_file": "CIDE.G",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Grammar",
+      "headword_raw": "Gram\"mar",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[OE. gramere, OF. gramaire, F. grammaire Prob. fr. L. gramatica Gr <?/, fem. of <?/ skilled in grammar, fr. <?/ letter. See Gramme, Graphic, and cf. Grammatical, Gramarye.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The science which treats of the principles of language; the study of forms of speech, and their relations to one another; the art concerned with the right use and application of the rules of a language, in speaking or writing."
+          ],
+          "quotes": [],
+          "notes": [
+            "☞ The whole fabric of grammar rests upon the classifying of words according to their function in the sentence."
+          ],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "The art of speaking or writing with correctness or according to established usage; speech considered with regard to the rules of a grammar."
+          ],
+          "quotes": [
+            "The original bad grammar and bad spelling."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "A treatise on the principles of language; a book containing the principles and rules for correctness in speaking or writing."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "treatise on the elements or principles of any science; as, a grammar of geography."
+          ],
+          "quotes": [
+            "When any town shall increase to the number of a hundred families or householders, they shall set up a grammar school, the master thereof being able to instruct youth so far as they may be fitted for the University."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Grammar",
+      "headword_raw": "Gram\"mar",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To discourse according to the rules of grammar; to use grammar."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "key": "graceful",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Graceful",
+      "headword_raw": "Grace\"ful",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Gracefully",
+          "form_raw": "Grace\"ful*ly",
+          "key": "gracefully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Gracefulness",
+          "form_raw": "Grace\"ful*ness",
+          "key": "gracefulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Displaying grace or beauty in form or action; elegant; easy; agreeable in appearance; as, a graceful walk, deportment, speaker, air, act, speech."
+          ],
+          "quotes": [
+            "High o'er the rest in arms the graceful Turnus rode."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

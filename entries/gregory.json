@@ -1,0 +1,53 @@
+{
+  "key": "gregory",
+  "source_file": "CIDE.G",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Gregory",
+      "headword_raw": "Gregory",
+      "pr": null,
+      "pos": [
+        "prop. n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Pope Gregory XIII., born 1572, died 1585, the pope who introduced the modern calendar."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Gregory XIII",
+            "Ugo Buoncompagni"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Pope Gregory I., born circa 540, died 604; the pope for whom Gregorian chants were named."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Gregory I",
+            "Saint Gregory I",
+            "Gregory the Great"
+          ]
+        }
+      ]
+    }
+  ]
+}

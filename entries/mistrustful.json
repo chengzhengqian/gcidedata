@@ -1,0 +1,59 @@
+{
+  "key": "mistrustful",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Mistrustful",
+      "headword_raw": "Mis*trust\"ful",
+      "pr": "(?)",
+      "pos": [
+        "a.",
+        "adv.",
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [
+        {
+          "form": "Mistrustfully",
+          "form_raw": "Mis*trust\"ful*ly",
+          "key": "mistrustfully",
+          "pos": [
+            "adv."
+          ],
+          "pr": null
+        },
+        {
+          "form": "Mistrustfulness",
+          "form_raw": "Mis*trust\"ful*ness",
+          "key": "mistrustfulness",
+          "pos": [
+            "n."
+          ],
+          "pr": null
+        }
+      ],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Having or causing mistrust, suspicions, or forebodings."
+          ],
+          "quotes": [
+            "Their light blown out in some mistrustful wood."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

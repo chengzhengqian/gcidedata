@@ -1,0 +1,36 @@
+{
+  "key": "modem",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "modem",
+      "headword_raw": "mo\"dem",
+      "pr": "(mō\"dm)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[by shortening from modulator-demodulator.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An electronic device that converts electronic signals into sound waves, and sound waves into electronic signals, used to transmit information between computers by the use of ordinary telephone lines; also called modulator-demodulator; as, the latest modems can transmit data at 56,000 baud over a clear telephone line. The speed of transmission of information by a modem is usually measured in units of baud, equivalent to bits per second."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

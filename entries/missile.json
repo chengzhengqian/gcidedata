@@ -1,0 +1,80 @@
+{
+  "key": "missile",
+  "source_file": "CIDE.M",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Missile",
+      "headword_raw": "Mis\"sile",
+      "pr": "(?)",
+      "pos": [
+        "a."
+      ],
+      "ety": "[L. missils, fr. mittere, missum, to cause to go, to send, to throw; cf. Lith. mesti to throw: cf. F. missile. Cf. Admit, Dismiss, Mass the religious service, Message, Mission.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "Capable of being thrown; adapted for hurling or to be projected from the hand, or from any instrument or engine{2}, so as to strike an object at a distance."
+          ],
+          "quotes": [
+            "We bend the bow, or wing the missile dart."
+          ],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Missile",
+      "headword_raw": "Mis\"sile",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. missile.]",
+      "sources": [
+        "1913 Webster",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A weapon thrown or projected or intended to be projected, as a lance, an arrow, or a bullet."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "A rocket-propelled device designed to fly through the air and deliver a warhead of explosive materials to a target."
+          ],
+          "quotes": [],
+          "notes": [
+            "Numerous types of rocket-propelled missile{2} are now used in modern warfare. Some types with names indicating their range or function are: antiaircraft missile; ballistic missile; cruise missile; antiballistic missile missile; air-to-air missile; air-to-ground missile; guided missile; intercontinental ballistic missile (IBM); intermediate range ballistic missile (IRBM); surface-to-air missile."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

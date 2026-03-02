@@ -1,0 +1,36 @@
+{
+  "key": "modulator-demodulator",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "modulator-demodulator",
+      "headword_raw": "mod\"u*la`tor-de`mod\"u*la`tor",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "An electronic device that converts electronic signals into sound waves, and sound waves into electronic signals, used to transmit information between computers by the use of ordinary telephone lines; usually called a modem."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

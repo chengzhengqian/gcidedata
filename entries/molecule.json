@@ -1,0 +1,60 @@
+{
+  "key": "molecule",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Molecule",
+      "headword_raw": "Mol\"e*cule",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[Dim. fr. L. moles a mass: cf. F. molcule. See 3d Mole.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "One of the very small invisible particles of which all ordinary matter is supposed to consist."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [
+            "(Physics)"
+          ],
+          "defs": [
+            "The smallest part of any substance which possesses the characteristic properties and qualities of that substance, and which can exist alone in a free state."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Chem.)"
+          ],
+          "defs": [
+            "A group of atoms so united and combined by chemical affinity that they form a complete, integrated whole, being the smallest portion of any particular compound that can exist in a free state; as, a molecule of water consists of two atoms of hydrogen and one of oxygen. Cf. Atom."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

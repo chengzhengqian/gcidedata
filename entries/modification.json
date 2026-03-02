@@ -1,0 +1,66 @@
+{
+  "key": "modification",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Modification",
+      "headword_raw": "Mod`i*fi*ca\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. modificatio a measuring: cf. F. modification. See Modify.]",
+      "sources": [
+        "1913 Webster",
+        "+PJC",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of modifying, or the state of being modified; a change; as, the modification of an opinion, or of a machine."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "change",
+            "alteration",
+            "adjustment"
+          ]
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Something which has been modified; a modified form or condition; state as modified; as, the various modifications of light; the latest modification of the operating system crashes less frequently."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "model{8}"
+          ]
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Gram.)"
+          ],
+          "defs": [
+            "The alteration of the meaning of a word or phrase by another word or phrase; -- usually a restriction of the scope of the word modified; as, in the phrase “a billion dollars is a relatively small sum to spend on cancer research” the modification of small by relatively is needed to make the sentence accurate, rather than ludicrous."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

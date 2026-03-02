@@ -1,0 +1,110 @@
+{
+  "key": "moment",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Moment",
+      "headword_raw": "Mo\"ment",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[F. moment, L. momentum, for movimentum movement, motion, moment, fr. movere to move. See Move, and cf. Momentum, Movement.]",
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "A minute portion of time; a point of time; an instant; as, at that very moment."
+          ],
+          "quotes": [
+            "In a moment, in the twinkling of an eye."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Impulsive power; force; momentum."
+          ],
+          "quotes": [
+            "The moments or quantities of motion in bodies.",
+            "Touch, with lightest moment of impulse, His free will."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [],
+          "defs": [
+            "Importance, as in influence or effect; consequence; weight or value; consideration."
+          ],
+          "quotes": [
+            "Matters of great moment.",
+            "It is an abstruse speculation, but also of far less moment and consequence of us than the others."
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [],
+          "defs": [
+            "An essential element; a deciding point, fact, or consideration; an essential or influential circumstance."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "5.",
+          "fields": [
+            "(Math.)"
+          ],
+          "defs": [
+            "An infinitesimal change in a varying quantity; an increment or decrement."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "6.",
+          "fields": [
+            "(Mech.)",
+            "(Mech.)",
+            "(Mech.)"
+          ],
+          "defs": [
+            "Tendency, or measure of tendency, to produce motion, esp. motion about a fixed point or axis."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": [
+            "Instant",
+            "twinkling",
+            "consequence",
+            "weight",
+            "force",
+            "value",
+            "consideration",
+            "signification",
+            "avail"
+          ]
+        }
+      ]
+    }
+  ]
+}

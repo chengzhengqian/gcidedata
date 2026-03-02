@@ -1,0 +1,38 @@
+{
+  "key": "moebius_strip",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Moebius strip",
+      "headword_raw": "Moe\"bi*us strip`",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[From August F. Möbius, a German mathematician.]",
+      "sources": [
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "A mathematical object, or a physical representation of it, which is a two-dimensional sheet with only one surface. It is constructed or visualized as a rectangle, one end of which is held fixed while the opposite end is twisted through a 180 degree angle and joined to the fixed end. It is a two-dimensional object that can only exist in a three-dimensional space."
+          ],
+          "quotes": [],
+          "notes": [
+            "The moebius strip was the subject of a famous woodcut by M. Escher, published in 1963."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

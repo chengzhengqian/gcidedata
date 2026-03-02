@@ -1,0 +1,71 @@
+{
+  "key": "modulation",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Modulation",
+      "headword_raw": "Mod`u*la\"tion",
+      "pr": "(?)",
+      "pos": [
+        "n."
+      ],
+      "ety": "[L. modulatio: cf. F. modulation.]",
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "The act of modulating, or the state of being modulated; as, the modulation of the voice."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "Sound modulated; melody."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Mus.)"
+          ],
+          "defs": [
+            "A change of key, whether transient, or until the music becomes established in the new key; a shifting of the tonality of a piece, so that the harmonies all center upon a new keynote or tonic; the art of transition out of the original key into one nearly related, and so on, it may be, by successive changes, into a key quite remote. There are also sudden and unprepared modulations."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "4.",
+          "fields": [
+            "(Electronics)"
+          ],
+          "defs": [
+            "The alteration of hte amplitude, intensity, frequency, or phase (of the carrier wave of a radio signal) at intervals, so as to represent information to be transmitted."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

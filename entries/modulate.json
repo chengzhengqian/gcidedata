@@ -1,0 +1,94 @@
+{
+  "key": "modulate",
+  "source_file": "CIDE.M",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Modulate",
+      "headword_raw": "Mod\"u*late",
+      "pr": "(?)",
+      "pos": [
+        "v. t.",
+        "imp. & p. p.",
+        "p. pr. & vb. n."
+      ],
+      "ety": "[L. modulatus, p. p. of modulari to measure, to modulate, fr. modulus a small measure, meter, melody, dim. of modus. See Mode.]",
+      "sources": [
+        "1913 Webster",
+        "WordNet 1.5"
+      ],
+      "morph": "[imp. & p. p. Modulated (?); p. pr. & vb. n. Modulating (?).]",
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "To form, as sound, to a certain key, or to a certain portion."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "To vary or inflect in a natural, customary, or musical manner; as, the organs of speech modulate the voice in reading or speaking."
+          ],
+          "quotes": [
+            "Could any person so modulate her voice as to deceive so many?"
+          ],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "3.",
+          "fields": [
+            "(Electronics)"
+          ],
+          "defs": [
+            "To alter the amplitude, frequency, phase, or intensity of (the carrier wave of a radio signal) at intervals, so as to represent information to be conveyed by the signal; -- a technique used to convey information by means of radio waves transmitted by one electronic device and received by another."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "Modulate",
+      "headword_raw": "Mod\"u*late",
+      "pr": null,
+      "pos": [
+        "v. i."
+      ],
+      "ety": null,
+      "sources": [
+        "1913 Webster"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [
+        "(Mus.)"
+      ],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "To pass from one key into another."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

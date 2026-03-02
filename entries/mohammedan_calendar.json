@@ -1,0 +1,38 @@
+{
+  "key": "mohammedan_calendar",
+  "source_file": "CIDE.M",
+  "record_count": 1,
+  "records": [
+    {
+      "headword": "Mohammedan calendar",
+      "headword_raw": "Mo*ham\"med*an cal\"en*dar",
+      "pr": null,
+      "pos": [],
+      "ety": null,
+      "sources": [
+        "Webster 1913 Suppl.",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [
+            "The Muslim calendar, a lunar calendar reckoning from the year of the hegira (hejira), 622 a. d. Thirty of its years constitute a cycle, of which the 2d, 5th, 7th, 10th, 13th, 16th, 18th, 21st, 24th, 26th, and 29th are leap years, having 355 days; the others are common, having 354 days."
+          ],
+          "quotes": [],
+          "notes": [
+            "By the following tables any Mohammedan date may be changed into the Christian date, or vice versa, for the years 1900-1935 a. d. <-- means \"collocation type\", just a font designation --> Months of the Mohammedan year. 1 Muharram . . . .. 30 2 Safar . . . . . . .. 29 3 Rabia I . . . . . . 30 4 Rabia II . . . .. 29 5 Jumada I . . . .. 30 6 Jumada II . . . . 29 7 Rajab . . . . . . .. 30 8 Shaban . . . . . . . 29 9 Ramadan . . . . . . 30 10 Shawwal . . . . . . 29 11 Zu'lkadah . . . . 30 12 Zu'lhijjah . . . 29* * in leap year, 30 days a. h. a. d. a. h. a. d. -------------------------------------------------------------- 1317 begins May 12, 1899 1336* begins Oct.17, 1917 1318 May 1, 1900 1337 Oct. 7, 1918 1319* Apr.20, 1901 1338* Sept.26,1919 1320 Apr.10, 1902 1339 Sept.15,1920 1321+ Mar.30, 1903 1340 Sept.4, 1921 1322* Mar.18, 1904 1341* Aug.24, 1922 1323 Mar. 8, 1905 1342 Aug.14, 1923 1324 Feb.25, 1906 1343 Aug. 2, 1924 1325* Feb.14, 1907 1344* July 22,1925 1326 Feb. 4, 1908 1345 July 12,1926 1327* Jan.23, 1909 1346* July 1, 1927 1328 Jan.13, 1910 1347 June 20,1928 1329 Jan. 2, 1911 1348 June 9, 1929 1330* Dec.22, 1911 1349* May 29, 1930 1331 Dec.11, 1912 1350 May 19, 1931 1332 Nov.30, 1913 1351++ May 7, 1932 1333* Nov.19, 1914 1352* Apr.26, 1933 1334 Nov. 9, 1915 1353 Apr.16, 1934 1335 Oct.28, 1916 1354 Apr. 5, 1935 ----------------------------------------------------------------- * Leap year + First year of the 45th cycle ++ First year of the 46th cycle The following general rule for finding the date of commencement of any Mohammedan year has a maximum error of a day: Multiply 970,224 by the Mohammedan year, point off six decimal places, and add 621.5774. The whole number will be the year a. d., and the decimal multiplied by 365 will give the day of the year.",
+            "The Mohammedan calendar is one of the most primitive. It is strictly a Lunar calendar, the year consisting of twelve lunar months, which retrograde through the seasons in about 321/2 years. To reconcile the lunar cycle to a given number of complete days, a leap year is introduced on the 2nd, 5th, 7th, 10th, 13th, 16th, 18th, 21st, 24th, 26th and 29th years of a thirty year cycle, making these years consist of 355 days instead of 354. The names of the months and the number of days are: 1, Muharram (30); 2, Saphar (29); 3, Rabia I (30); 4, Rabia II (29); 5, Jomada I (30); 6, Jomada II (29); 7, Rajah (30); 8, Shaaban (29); 9, Ramadan (30); 10, Shawaal (29); 11, Dulkasda (30); and 12, Dulheggia (29 or 30). The years are calculated from July 16, 622 A.D., the day following the Hegira, the flight of Mohammed from Mecca to Medina after an attempted assassination. The beginning of the 46th cycle, with the first day of Muharram, in the year 1351, compares to May 7, 1932 of the Gregorian calendar; continuing: 1365 Dec. 6, 1945 1366 Nov. 25, 1946 1367 Nov. 15, 1947 1368 Nov. 3, 1948 1369 Oct. 24, 1949 1370 Oct. 13, 1950 1371 Oct. 2, 1951 1372 Sept. 21, 1952 1373 Sept. 10, 1953 1374 Aug. 30, 1954 To find the Gregorian equivalent to any Mohammedan date multiply 970,224 by the Mohammedan year, point off six decimal places and add 621.5774. The whole number will be the year A.D., and the decimal multiplied by 365 will be the day of the year."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

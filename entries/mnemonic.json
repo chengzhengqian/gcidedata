@@ -1,0 +1,72 @@
+{
+  "key": "mnemonic",
+  "source_file": "CIDE.M",
+  "record_count": 2,
+  "records": [
+    {
+      "headword": "Mnemonic",
+      "headword_raw": "Mne*mon\"ic",
+      "pr": "(n*mn\"k)",
+      "pos": [],
+      "ety": null,
+      "sources": [],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "0",
+          "fields": [],
+          "defs": [],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "headword": "mnemonic",
+      "headword_raw": "mnemonic",
+      "pr": null,
+      "pos": [
+        "n."
+      ],
+      "ety": null,
+      "sources": [
+        "WordNet 1.5",
+        "PJC"
+      ],
+      "morph": null,
+      "usage": [],
+      "wordforms": [],
+      "entry_synonyms": [],
+      "entry_fields": [],
+      "senses": [
+        {
+          "sn": "1.",
+          "fields": [],
+          "defs": [
+            "Something used to assist the memory, as an easily remembered acronym or verse."
+          ],
+          "quotes": [],
+          "notes": [],
+          "synonyms": []
+        },
+        {
+          "sn": "2.",
+          "fields": [],
+          "defs": [
+            "An abbreviated word that resembles the full word, used so as to be easily recognized; as, the CIDE uses ... tags as mnemnonics for an italicised word or field."
+          ],
+          "quotes": [],
+          "notes": [
+            "In basic organic chemistry class, one may learn the mnenomic “Oh my, such good apple pie” to help remember the names of the dicarboxylic acids in increasing order of length, namely: oxalic, malonic, succinic, glutaric, adipic, and pimelic acids. (From L. Fieser's Organic Chemistry text)."
+          ],
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}
